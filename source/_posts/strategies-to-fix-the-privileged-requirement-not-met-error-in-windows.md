@@ -1,7 +1,7 @@
 ---
 title: Strategies to Fix the Privileged Requirement Not Met Error in Windows
-date: 2024-10-21T07:45:48.235Z
-updated: 2024-10-27T03:29:18.423Z
+date: 2024-10-26T20:35:05.809Z
+updated: 2024-11-01T17:11:57.882Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off User Account Control (in Three Different Ways)
 
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
@@ -61,37 +68,31 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
-4. Select**Close** to exit the properties window.
-5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select**Close** to exit the properties window.
+5. Then click**Power** and select**Restart** within your Start menu.
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -114,19 +115,17 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-click-attractor-the-title-crafting-kit/"><u>[New] Click Attractor The Title Crafting Kit</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-sharing-twitter-videos-on-instagram-highlights/"><u>[Updated] Cross-Platform Sharing Twitter Videos on Instagram Highlights</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-elevate-your-film-edits-with-final-cuts-top-10-tools/"><u>[Updated] Elevate Your Film Edits with Final Cut’s Top 10 Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users/"><u>[Updated] Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-transforming-brand-stories-with-client-produced-testimonials/"><u>[Updated] Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>2024 Approved Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-discover-the-ultimate-food-frenzy-with-these-15-top-rated-tiktok-culinary-creations/"><u>In 2024, Discover the Ultimate Food Frenzy with These 15 Top-Rated TikTok Culinary Creations</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-malfunctioning-asana-applications-on-your-computer/"><u>Mastery Over Malfunctioning Asana Applications on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-solve-vanishing-windows-11-login-screens/"><u>Steps to Solve Vanishing Windows 11 Login Screens</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshoot-iphone-data-moving-problems-with-these-effective-6-step-strategies/"><u>Troubleshoot iPhone Data Moving Problems with These Effective 6-Step Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-audio-hardware-in-windows/"><u>Troubleshooting Unresponsive Audio Hardware in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-virtual-capacity-with-these-6-windows-tricks/"><u>Unlock Full Virtual Capacity with These 6 Windows Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-xbox-stranded-tangle-in-modern-os/"><u>Unraveling the Xbox Stranded Tangle in Modern OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-lenovo-fast-and-fuss-free-tips-for-2024/"><u>[New] Recording Lenovo Fast and Fuss-Free Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubers-spotlighting-niche-gaming-subcultures/"><u>[New] Youtubers Spotlighting Niche Gaming Subcultures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-traffic-triumph-key-youtube-seo-tools/"><u>[Updated] Video Traffic Triumph - Key YouTube SEO Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/7-best-websites-for-movie-trailers/"><u>7 Best Websites for Movie Trailers</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-recording-techniques-gaming-screen-captures-with-intel/"><u>Advanced Recording Techniques: Gaming Screen Captures with Intel</u></a></li>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-repairing-windows-steam-remote-play-issues/"><u>Diagnosing and Repairing Windows' Steam Remote Play Issues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-win-rpc-failures-five-must-try-fixes/"><u>Navigating Win RPC Failures: Five Must-Try Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-control-of-active-elements-post-sleep/"><u>Strategic Control of Active Elements Post-Sleep</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-system-use-a-guide-to-idle-shutdown-in-windows-11/"><u>Streamline System Use: A Guide to Idle Shutdown in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-git-management-harnessing-power-with-github-desktop-and-windows-11/"><u>The Art of Git Management: Harnessing Power with GitHub Desktop & Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-is-a-valuable-resource-for-your-health-concerns-7-key-points/"><u>Why ChatGPT Is a Valuable Resource for Your Health Concerns: 7 Key Points</u></a></li>
 </ul></div>
 

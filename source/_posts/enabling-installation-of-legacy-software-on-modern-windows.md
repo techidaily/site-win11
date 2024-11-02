@@ -1,7 +1,7 @@
 ---
 title: Enabling Installation of Legacy Software on Modern Windows
-date: 2024-10-20T08:42:18.147Z
-updated: 2024-10-26T23:49:08.714Z
+date: 2024-10-28T03:32:55.478Z
+updated: 2024-11-01T20:58:44.275Z
 tags:
   - windows10
   - windows11
@@ -44,15 +44,22 @@ To enable Developer Mode on Windows 11:
 
  Once the developer is enabled, you can use PowerShell to sideload a Msixbundle or AppxPackage on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Msixbundle App Files Using PowerShell
 
 ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to sideload and install msix files on your Windows computer. This should also work if you are trying to sideload an app that is not Store signed.
@@ -72,22 +79,15 @@ Follow these steps to sideload msix files using PowerShell.
 7. Once installed, type exit and press Enter to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install Msixbundle Apps Using the App Installer
 
 ![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  App Installer is an official app package installer for Windows 10\. It lets you install msixbundle and appxpackage with a double click. Useful if you don't want to deal with Windows PowerShell and associated commands.
 
@@ -102,10 +102,10 @@ Follow these steps to sideload msix files using PowerShell.
 5. Once done, your newly installed app will auto-launch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Msixbundle, Appx, and AppxPackage on Windows 10 and 11
@@ -127,22 +127,22 @@ Follow these steps to sideload msix files using PowerShell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-guide-to-professional-grade-mobile-screencasting-with-mobizen/"><u>[New] 2024 Approved Ultimate Guide to Professional-Grade Mobile Screencasting with Mobizen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-free-and-easy-top-11-youtube-title-inventors-for-2024/"><u>[New] Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-post-a-video-from-youtube-on-instagram-for-2024/"><u>[New] How to Post a Video From YouTube on Instagram for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-5-best-tips-for-enhancing-obs-studio-edits/"><u>[Updated] In 2024, 5 Best Tips for Enhancing OBS Studio Edits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-real-time-chromebook-display-logger/"><u>[Updated] Real-Time Chromebook Display Logger</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-nix-the-sneaky-youtube-quick-playback-feature/"><u>2024 Approved Nix the Sneaky YouTube Quick Playback Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-clutter-a-fast-track-to-a-pristine-win11/"><u>Conquer Clutter: A Fast-Track to a Pristine Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-controlled-access-a-step-by-step-for-windows-10-and-11/"><u>Enabling Controlled Access: A Step-by-Step for Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-these-superior-webp-viewers-for-windows-users/"><u>Explore These Superior WebP Viewers for Windows Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-optimizing-your-video-call-zoom-and-fb-live-integration/"><u>In 2024, Optimizing Your Video Call ZOOM & FB Live Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-pc-performance-for-exciting-valorant-sessions/"><u>Optimize PC Performance for Exciting Valorant Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-windows-11-calculator-unlock/"><u>Quick Tips: Windows 11 Calculator Unlock</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-admin-controlled-features-in-windows-11-systems/"><u>Resetting Admin-Controlled Features in Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-retro-replays-linking-legends-with-pcs-photos-folder/"><u>Reviving Retro Replays: Linking Legends with PCs' Photos Folder</u></a></li>
-<li><a href="https://win11.techidaily.com/the-pros-guide-to-mastering-20-windows-cmd-commands/"><u>The Pro's Guide to Mastering 20 Windows CMD Commands</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-multimedia-adding-apple-music-to-videos/"><u>[New] Mastering Multimedia Adding Apple Music to Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mobile-gear-enhancing-video-creation/"><u>[New] Mobile Gear Enhancing Video Creation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-social-media-showdown-youtubes-shorts-versus-tiktoks-short-forms-for-2024/"><u>[Updated] Social Media Showdown YouTubes Shorts Versus TikToks Short Forms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-srgb-and-traditional-rgb-rendering/"><u>2024 Approved Srgb and Traditional Rgb Rendering</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-flawless-powerpoint-outputs-9-steps-for-windows-users/"><u>Achieving Flawless PowerPoint Outputs: 9 Steps for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-file-explorer-experience-with-onedrive-connection/"><u>Enhance File Explorer Experience with OneDrive Connection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-german-sayings-the-ultimate-list-of-25/"><u>Essential German Sayings: The Ultimate List of 25</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-relocating-imessage-history-from-one-user-account-to-a-new-apple-id/"><u>Guide: Relocating iMessage History From One User Account to a New Apple ID</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>In 2024, A Personalized Approach Developing an Individualistic TikTok Keyword</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-0x80073cf3-in-windows-microsoft-shop/"><u>Resolving Error 0X80073CF3 in Windows' Microsoft Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-attaching-notes-to-windows-apps/"><u>The Art of Attaching Notes to Windows Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformer-gratuitement-les-fichiers-webp-en-images-jpeg-sur-le-web-avec-easywebpix/"><u>Transformer Gratuitement Les Fichiers WEBP en Images JPEG Sur Le Web Avec EasyWebPix</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-a-non-functional-spotify-client-in-windows-10/"><u>Troubleshooting a Non-Functional Spotify Client in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-resolving-0x800704cf-error-in-windows-store/"><u>Unraveling and Resolving 0X800704CF Error in Windows' Store</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yahoo-mail-saving-techniques-a-step-by-step-process-for-hard-disk-storage/"><u>Yahoo Mail Saving Techniques: A Step-by-Step Process for Hard Disk Storage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome Sign-In Setbacks with Microsoft Store Troubleshooting
-date: 2024-10-23T01:19:08.642Z
-updated: 2024-10-27T08:10:13.166Z
+date: 2024-10-26T21:26:21.045Z
+updated: 2024-11-02T00:16:38.709Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 If the internet appears to be working, continue with the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Store Apps Troubleshooter
 
  Windows Store Apps troubleshooter is useful for fixing[common issues related to the Microsoft Store and its apps](https://www.makeuseof.com/tag/5-tips-fix-windows-store-app-issues-windows-10/) . It can scan the Microsoft Store for any common problems and attempt to repair them.
@@ -44,25 +51,11 @@ To run the Windows Store apps troubleshooter, use these steps:
 
  After running the troubleshooter, try signing into the Microsoft Store again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Clear Microsoft Store Cache
 
  Like most apps, Microsoft Store collects cache data on your computer to speed up loading times and enhance app performance. However, if this data becomes corrupted, it could lead to many issues, including this one.
 
  You can try clearing the Microsoft Store cache to see if that fixes the problem. If you need help with the same, check our guide to learn[different ways to fix a damaged Microsoft Store cache](https://www.makeuseof.com/ways-to-fix-damaged-microsoft-store-cache/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Repair or Reset the Microsoft Store App
 
@@ -76,15 +69,22 @@ To repair the Microsoft Store app on Windows:
 4. Under the**Reset** section, click the**Repair** button.  
 ![Repair or Reset Microsoft Store on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-or-reset-microsoft-store-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A checkmark should appear next to the Repair button once the process is complete.
 
  If you cannot sign in even after attempting a repair, you can try[resetting the Microsoft Store app on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Correct Date and Time on Your PC
@@ -96,6 +96,13 @@ To repair the Microsoft Store app on Windows:
 3. Click on**Date & time** .
 4. Enable the toggle next to**Set time automatically** .  
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
 
@@ -112,10 +119,16 @@ To configure the Microsoft Store Install Service on Windows:
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable Your VPN
@@ -130,13 +143,6 @@ To configure the Microsoft Store Install Service on Windows:
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Microsoft Store
 
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
@@ -150,10 +156,10 @@ To configure the Microsoft Store Install Service on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regain Access to the Microsoft Store on Windows
@@ -175,18 +181,19 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>2024 Approved Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
-<li><a href="https://win11.techidaily.com/determining-hdd-vs-ssd-in-windows/"><u>Determining HDD vs SSD in Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-roccat-mouse-drivers-for-optimal-performance/"><u>Download the Latest ROCCAT Mouse Drivers for Optimal Performance</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevating-movie-visuals-applying-cg-centrals-luts-techniques-for-2024/"><u>Elevating Movie Visuals Applying CG Central's Luts Techniques for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/five-simple-steps-for-a-personalized-windows-11-search/"><u>Five Simple Steps for a Personalized Windows 11 Search</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 If Youve Tried Everything</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-volume-transitions-in-lumafusion-for-2024/"><u>Mastering Volume Transitions in Lumafusion for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-11-launch-top-strategies-unveiled/"><u>Optimizing Windows 11 Launch: Top Strategies Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-r2-dvd-copying-across-windowsmacos-step-by-step-tutorial/"><u>Seamless R2 DVD Copying Across Windows/macOS - Step by Step Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-unveiling-mouse-secrets-on-windows-11/"><u>Step-by-Step Guide: Unveiling Mouse Secrets on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/winxpxo10-how-to-stop-non-opening-folders-after-double-clicks/"><u>WinXP/XO10 - How to Stop Non-Opening Folders After Double-Clicks</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-firewall-restriction-enable-chrome-connections/"><u>Workaround for Firewall Restriction: Enable Chrome Connections</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools-for-2024/"><u>[Updated] Flv to Youtubes Master the Art of Video Transformation with These Top Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-kid-friendly-driving-delights/"><u>[Updated] In 2024, Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-when-watching-paramountplus-on-amazons-firestick-keeps-failing/"><u>Easy Fixes When Watching Paramount+ on Amazon's Firestick Keeps Failing</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-for-inspecting-and-cleansing-windows-trail/"><u>Efficient Techniques for Inspecting & Cleansing Windows Trail</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-system-reliability-automatic-updates-plus-graphics-card-swap/"><u>Enhance System Reliability: Automatic Updates + Graphics Card Swap</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-lens-enhancers-unveiling-the-ultimate-camera-attachments/"><u>Essential Lens Enhancers: Unveiling the Ultimate Camera Attachments</u></a></li>
+<li><a href="https://win11.techidaily.com/freedomgpt-for-pc-running-ai-conversation-tools/"><u>FreedomGPT for PC: Running AI Conversation Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-podcasting-a-look-at-the-premier-hosting-services/"><u>New In 2024, Mastering Podcasting A Look at the Premier Hosting Services</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/quick-and-easy-guide-preserve-your-dvds-original-quality-with-a-faster-backup-process/"><u>Quick and Easy Guide: Preserve Your DVDs' Original Quality with a Faster Backup Process!</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-enhance-text-via-snip-tool-features/"><u>Step-by-Step: Enhance Text via Snip Tool Features</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-compatibility-with-photoshop/"><u>Steps to Overcome Windows Compatibility with Photoshop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-procedure-setting-up-ie-driver-on-win-systems/"><u>Streamlined Procedure: Setting Up IE Driver on Win Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/system-rescue-in-13-easy-to-follow-tips/"><u>System Rescue in 13 Easy-to-Follow Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-idea-capture-via-mematic-software-for-2024/"><u>Transformative Idea Capture via Mematic Software for 2024</u></a></li>
 </ul></div>
 

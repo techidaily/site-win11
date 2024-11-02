@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Resetting Search to Factory Standards in Win11"
-date: 2024-10-25T16:32:12.267Z
-updated: 2024-10-26T23:30:23.254Z
+date: 2024-10-26T17:40:03.506Z
+updated: 2024-11-02T00:20:44.894Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b
 
  Let's now explore how to reset Windows Search settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Tweak the Registry Editor
 
  If you want to reset Windows Search settings back to default, you can modify the registry editor. It involves directly changing certain keys in the Windows Registry, which can sometimes become risky if done incorrectly.
@@ -60,10 +53,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
  After performing the steps above, close the Registry Editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell
@@ -77,10 +70,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search
 ![Restrict or Unrestrict the Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restrict-or-unrestrict-the-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the output is **Restricted**, execute the following command to allow PowerShell scripts:
@@ -92,10 +91,16 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 ![Reset Windows Search Via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-search-via-powershell.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After resetting the Windows Search settings, you can restore the execution policy to its original settings. To do that, open PowerShell as an administrator again and execute the following command:
@@ -103,6 +108,13 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
  Once the execution policy is set back to its original value, restart your computer. The Windows Search settings should now be restored to their default state.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easy Ways to Reset Windows Search
 
@@ -123,21 +135,16 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-digging-into-sharex-assessment-and-choices/"><u>[Updated] 2024 Approved Digging Into ShareX Assessment & Choices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-memorable-youtube-shorts-10-must-do-tips/"><u>[Updated] In 2024, Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-10-essential-strategies-for-successful-instagram-reels/"><u>[Updated] The 10 Essential Strategies for Successful Instagram Reels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions-for-2024/"><u>[Updated] Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-cprm/"><u>最新版・DVD-CPRMコピー方法を解明する！</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-invisible-window-bar/"><u>Crafting an Invisible Window Bar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4/"><u>Dive Deeper Into Life Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-ricoh-driver-software-on-your-pc-with-windows/"><u>How To Get the Latest Ricoh Driver Software on Your PC with Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-galaxy-m54-5g-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Galaxy M54 5G, is it possible?</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-file-explorer-secrets-of-window-11/"><u>Revitalizing File Explorer: Secrets of Window 11</u></a></li>
-<li><a href="https://win11.techidaily.com/shielding-game-progress-a-comprehensive-backup-approach/"><u>Shielding Game Progress: A Comprehensive Backup Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-win-printer-linkups-for-easy-access/"><u>Streamlining Win-Printer Linkups for Easy Access</u></a></li>
-<li><a href="https://win11.techidaily.com/the-webs-wallpaper-7-efficient-methods-to-unlock-your-browsers-in-win-os/"><u>The Web's Wallpaper: 7 Efficient Methods to Unlock Your Browsers in Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/waking-up-lost-window-panes-easy-fixes-for-win11/"><u>Waking Up Lost Window Panes: Easy Fixes for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-iscsi-initiator-and-how-do-you-access-it/"><u>What Is the Windows iSCSI Initiator, and How Do You Access It?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[New] In 2024, Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-crossposting-youtube-links-to-ig-stories/"><u>[Updated] 2024 Approved Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-chromesnap-tracker-os-level-recording/"><u>[Updated] In 2024, ChromeSnap Tracker OS Level Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-masterclass-in-muting-and-dismantling-an-instagram-account/"><u>[Updated] In 2024, Masterclass in Muting & Dismantling an Instagram Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-understanding-shared-links-and-their-functionality/"><u>ChatGPT: Understanding Shared Links & Their Functionality</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-10-visionary-flicks-that-empower-you/"><u>In 2024, 10 Visionary Flicks That Empower You</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-11-pro-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 11 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-personalize-windows-11-files-via-added-movecopy/"><u>Streamline and Personalize Windows 11 Files via Added 'Move'/'Copy'</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-overcome-windows-lunar-client-launch-problem/"><u>Tactics to Overcome Windows Lunar Client Launch Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-spotting-active-tcp-connections/"><u>Windows Guide: Spotting Active TCP Connections</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Notepad in W11 with Digital Oracle
-date: 2024-10-23T16:40:32.003Z
-updated: 2024-10-26T22:51:15.378Z
+date: 2024-10-26T21:18:17.225Z
+updated: 2024-11-01T17:54:01.626Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 * [Copilot Enhances Notepad’s Simplicity With AI Power](#copilot-enhances-notepad-rsquo-s-simplicity-with-ai-power)
 * [Criticisms of the Copilot and Windows Notepad integration](#criticisms-of-the-copilot-and-windows-notepad-integration)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft integrated Copilot AI into Notepad for decoding technical text, suggesting code improvements, and summarizing documents.
@@ -59,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 ![The Explain with Copilot displayed in Windows Notepad beside a highlighted text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/the-explain-with-copilot-displayed-in-windows-notepad-beside-a-highlighted-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can use the handy Ctrl+E shortcut. This will launch [Microsoft Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) and dock it right beside your Notepad tab. You’ll then be prompted to allow your data to be sent to a Copilot chat.
@@ -73,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
@@ -106,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Get AI-Powered Help With Any Text (Technical or Not)
 
  While code and logs are obvious use cases, Copilot’s capabilities in Notepad extend far beyond just technical content. Notepad’s lightweight simplicity makes it ideal for quickly jotting down meeting notes, drafting outlines, or capturing thoughts as they occur.
@@ -121,14 +108,14 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
 ![Microsoft Copilot explaining and summarizing a section of a research work highlighted in Windows Notepad.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-and-summarizing-a-section-of-a-research-work-highlighted-in-windows-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Between its unmatched speed for opening and lightweight footprint, Notepad has always been ideal for quickly getting words onto the screen. With Copilot’s AI smarts, it becomes an all-purpose text utility that can decode nearly any subject.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Copilot Enhances Notepad’s Simplicity With AI Power
 
@@ -137,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
  With a streamlined menu (just File, Edit, and View), instant loading times, and a stripped-down interface, Notepad is the app you fire up when you just need to get words on the screen quickly, without fuss.
 
 ![An open tab in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-open-tab-in-windows-notepad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And while Microsoft could have reinvented the wheel, the Copilot integration wisely keeps Notepad’s iconic simplicity intact. This AI assistant operates behind the scenes, ready to lend its smarts when needed but never intrusive or altering Notepad’s essence.
 
@@ -156,25 +150,6 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
  However, if you’re seeking to decode complex logs, code, or text without leaving Notepad’s familiar confines, this AI-powered addition could be a game-changing time saver, providing a best-of-both-worlds blend of AI superpower and classic simplicity. Give it a try and see how it can streamline your Notepad workflow.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/-compreehed-guide-to-online-identity-youtube-account-setup/"><u>[New] A Compreehed Guide to Online Identity YouTube Account Setup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-role-of-motion-leveraging-fb-ads-for-outstanding-roi/"><u>2024 Approved The Role of Motion Leveraging FB Ads for Outstanding ROI</u></a></li>
-<li><a href="https://win-blog.techidaily.com/formatos-avanzados-de-contenido-visual-para-mejorar-la-presencia-en-youtube-descubre-con-movavi/"><u>Formatos Avanzados De Contenido Visual Para Mejorar La Presencia en YouTube - Descubre Con Movavi</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gli-strategici-metodi-per-ottimizzare-i-file-video-mov-una-guida-completa-alla-compatibilita-con-la-memoria-e-al-risparmio-di-spazio/"><u>Gli Strategici Metodi Per Ottimizzare I File Video MOV: Una Guida Completa Alla Compatibilità Con La Memoria E Al Risparmio Di Spazio</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-xs-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone XS Lock Screen</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pexels-101-finding-the-picture-of-your-dreams/"><u>In 2024, Pexels 101 Finding the Picture of Your Dreams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-eight-free-translation-tools-unveiled/"><u>In 2024, The Best Eight Free Translation Tools Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leveraging-innovative-features-a-guide-to-implementing-speech-inputs-in-powerpoint-for-2024/"><u>Leveraging Innovative Features A Guide to Implementing Speech Inputs in PowerPoint for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-playful-teasing-on-social-media-wisely/"><u>Navigating Playful Teasing on Social Media Wisely</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-correcting-failed-driver-on-windows-oses/"><u>Quick Guide: Correcting “Failed Driver” On Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-problems-detected-by-the-memory-checker/"><u>Resolving Problems Detected by the Memory Checker</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalize-icon-size-in-your-window-11-environment/"><u>Revitalize Icon Size in Your Window 11 Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/setup-without-signal-win11-on-no-connection/"><u>Setup Without Signal: Win11 on No Connection</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-adobes-launch-failures-on-latest-win11-os/"><u>Solving Adobe's Launch Failures on Latest Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/top-windows-upgrades-fast-start-up-of-rdc-version-11/"><u>Top Windows Upgrades: Fast Start-Up of RDC, Version 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -182,3 +157,20 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-fast-tracking-tiktok-filming-the-ultimate-playbook/"><u>[New] Fast-Tracking TikTok Filming The Ultimate Playbook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-know-if-someone-blocked-you-on-snapchat/"><u>[Updated] In 2024, How to Know if Someone Blocked You on Snapchat</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>[Updated] Jest in Jam Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-phones-to-fantasy-crafting-a-home-for-vr-goggles/"><u>2024 Approved Phones to Fantasy Crafting a Home for VR Goggles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-galaxy-a14-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Galaxy A14 4G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-towards-partnership-reach-the-critical-10k-view-target-quickly-for-2024/"><u>Rallying Towards Partnership Reach the Critical 10K View Target Quickly for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/running-task-manager-administrative-command-for-windows-11/"><u>Running Task Manager: Administrative Command for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-clearly-write-exactly-using-whisper-in-windows/"><u>Speak Clearly, Write Exactly: Using Whisper in Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11s-user-sid-identification-methods/"><u>Unveiling Windows 11'S User SID Identification Methods</u></a></li>
+</ul></div>
+

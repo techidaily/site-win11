@@ -1,7 +1,7 @@
 ---
 title: Disabling All Chromium Notifications in Windows PC
-date: 2024-09-11T09:35:58.759Z
-updated: 2024-09-12T09:35:58.759Z
+date: 2024-10-31T20:11:00.352Z
+updated: 2024-11-01T22:42:00.663Z
 tags:
   - windows10
   - windows11
@@ -35,36 +35,9 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 4. Locate**Google Chrome** on the app list and disable the toggle next to it.  
 ![Disable Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can change the way Chrome notifications appear on your Windows PC. You can disable notification banners, mute the alert sound, or stop them from showing up on the lock screen. To learn more about this, check our guide on[how to customize notifications on Windows](https://www.makeuseof.com/windows-11-customize-notifications/) .
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Turn Off Notifications in Google Chrome
 
@@ -79,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
@@ -101,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
@@ -114,10 +87,17 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -139,5 +119,19 @@ thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-innovative-strategies-for-top-10-ig-grid-design-software-for-2024/"><u>[New] Innovative Strategies for Top 10 IG Grid Design Software for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-vlog-versus-channels-choosing-between-obs-and-twitch-for-2024/"><u>[Updated] Vlog Versus Channels Choosing Between OBS & Twitch for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/emerge-from-slumber-win-os-keyboard-plus-mouse-troubleshooting/"><u>Emerge From Slumber: Win OS, Keyboard + Mouse Troubleshooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flawless-frameworks-premium-webcams-for-your-podcasts-for-2024/"><u>Flawless Frameworks Premium Webcams for Your Podcasts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-how-to-watch-videos-quickly-and-smoothly-for-2024/"><u>Instagram How to Watch Videos Quickly & Smoothly for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ipod-touch-compatible-video-transformer-seamlessly-adapt-videos-for-your-device/"><u>IPod Touch-Compatible Video Transformer: Seamlessly Adapt Videos for Your Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-intel-hd-graphics-630-driver-challenges-in-windows-a-step-by-step-solution-guide/"><u>Overcoming Intel HD Graphics 630 Driver Challenges in Windows: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-defender-traces-secure-cleanup-steps-for-windows-users/"><u>Resetting Defender Traces: Secure Cleanup Steps for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-story-which-video-site-tops-others-vimeo-youtube-for-2024/"><u>Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-address-failed-opening-of-sound-devices-on-audacity/"><u>Tips to Address Failed Opening of Sound Devices on Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-warfare-a-side-by-side-look-at-w10-and-w11-changes/"><u>Windows Warfare: A Side-by-Side Look at W10 and W11 Changes</u></a></li>
+</ul></div>
 

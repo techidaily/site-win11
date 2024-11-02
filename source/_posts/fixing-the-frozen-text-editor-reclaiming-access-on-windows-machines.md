@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Frozen Text Editor: Reclaiming Access on Windows Machines"
-date: 2024-09-11T09:36:17.162Z
-updated: 2024-09-12T09:36:17.162Z
+date: 2024-10-27T04:17:48.354Z
+updated: 2024-11-02T01:20:02.592Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
 ## 2\. Set Notepad as the Default Text Editor
@@ -55,14 +48,14 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Try opening a few text files and see if they open in Notepad.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Repair or Reset the Notepad App
 
@@ -88,10 +81,10 @@ To repair the Notepad app on Windows:
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Notepad App
@@ -105,27 +98,20 @@ To repair the Notepad app on Windows:
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Run the SFC and DISM Scans
 
@@ -145,14 +131,20 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
- After the scan is complete, restart your PC and see if you can access Notepad.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After the scan is complete, restart your PC and see if you can access Notepad.
 
 ## 6\. Perform a Clean Boot
 
@@ -172,16 +164,16 @@ To create a new user account on Windows:
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
  Once you sign in with your newly created account, Notepad should open without problems.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Using Notepad Again
 
@@ -200,5 +192,23 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>[New] In 2024, Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-crashes-and-returns-fully-functional/"><u>[Resolved] Nvidia Crashes & Returns Fully Functional</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-peak-activity-on-instagram-finding-the-perfect-moment/"><u>[Updated] In 2024, Peak Activity on Instagram Finding the Perfect Moment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-prime-video-strategies-selecting-perfect-format-for-youtube/"><u>[Updated] In 2024, Prime Video Strategies – Selecting Perfect Format for YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-starting-point-of-your-touch-keyboard-on-windows-11/"><u>Correcting the Starting Point of Your Touch Keyboard on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-disconnects-and-delays-on-windows-discord/"><u>Decreasing Disconnects & Delays on Windows Discord</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-twitter-media-transfer-to-whatsapp/"><u>In 2024, Direct Twitter Media Transfer to WhatsApp</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-x50-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor X50 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11s-sound-control-panel/"><u>Mastering Windows 11'S Sound Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-windows-handbrake-hurdle-quickly/"><u>Overcome Windows HandBrake Hurdle Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win-1011-ad-ds-printer-errors/"><u>Overcoming Win 10/11 AD DS Printer Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategic-steps-towards-uncovering-youtubes-secret-videos-for-2024/"><u>Strategic Steps Towards Uncovering YouTube's Secret Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eal-score-separating-authentic-from-artificial-subscribers-online/"><u>The Real Score Separating Authentic From Artificial Subscribers Online</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ms-store-programs-on-windows-11-with-ease/"><u>Unlocking MS Store Programs on Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-struggle-fixing-microphone-issues-in-google-meet/"><u>Windows Users Struggle: Fixing Microphone Issues in Google Meet</u></a></li>
+</ul></div>
 

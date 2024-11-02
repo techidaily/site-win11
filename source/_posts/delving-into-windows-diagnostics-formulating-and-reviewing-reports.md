@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Windows Diagnostics: Formulating and Reviewing Reports"
-date: 2024-10-21T23:12:45.017Z
-updated: 2024-10-26T19:00:57.643Z
+date: 2024-10-30T03:39:22.651Z
+updated: 2024-11-01T21:32:42.869Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  The system report is a text document that contains detailed information about the hardware and software installed on your computer. This information includes the status and configurations of the hardware and software. The system report comes in handy when you need to troubleshoot a specific problem, check the specifications of your computer, or when you want to send the file to a support technician who can assist you with diagnosing a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a System Report on Windows
 
  To generate the system report, you'll first have to [open the System Information window](https://www.makeuseof.com/windows-open-system-information/) and then save the information you see there as a text file. Here's how to do that.
@@ -43,8 +36,23 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 1. Press **Win + R** to bring up the Windows Run dialog box, enter **msinfo** in the text box, and then hit the **Enter** key to bring up System Information.  
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 2. To generate the report, click **File** in the top left corner and select **Save**. Alternatively, you can press **Ctrl + S** on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![saving systemr eport on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/saving-system-report-windows.jpg)
 3. Choose a location where you want to save the file and click **Save**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can open the system report or send it to a technician to analyze and find out what is wrong with your computer.
 
@@ -63,22 +71,15 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 ![the Conflicts section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/conflicts-section-system-report-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Components** section lists all the components (audio and video codes, drives, keyboards, and network adapters) installed on your computer. It's all categorized by function to make what you need easy to find. That means, if you're looking for information about the display on your computer, you will find it under **Display.**
 
 ![the Display section of the system report on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/display-section-system-report-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In **Software Environment**, you can get information on things like system drivers, running tasks, startup programs, and print jobs on your computer.
 
@@ -92,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
 ![the Drives section of the system report on Windows after performing a search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/drives-section-system-report-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you don't have to open many sections just to find what you need, making the search function a huge time saver.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Full Gist of Your System on Windows
 
@@ -109,21 +110,6 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  No matter the case, we are going to show you how to create this useful report and start making sense of it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revolutionize-your-facebook-presence-with-these-10-strategies/"><u>[New] In 2024, Revolutionize Your Facebook Presence with These 10 Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content/"><u>[New] In 2024, Unlocking the Archive of Yesteryear How To View Facebook Past Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-revolutionary-additions-to-windows-11-for-2024/"><u>[New] Revolutionary Additions to Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-professional-cine-tools-discover-the-top-15-luts-for-action-cams/"><u>[Updated] Professional Cine Tools Discover the Top 15 LUTs for Action Cams</u></a></li>
-<li><a href="https://win11.techidaily.com/create-a-window-showcase-customizing-with-spotlight-picture-inspired-backgrounds/"><u>Create a Window Showcase: Customizing with Spotlight Picture-Inspired Backgrounds</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-sticky-notes-in-win11win10-apps/"><u>Expert Guide to Sticky Notes in Win11/Win10 Apps</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guia-paso-a-paso-para-rescatar-emails-borrados-tecnicas-probadas-y-confirmadas/"><u>Guía Paso a Paso Para Rescatar Emails Borrados: Técnicas Probadas Y Confirmadas</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-effectively-install-your-computers-chipset-drivers-step-by-step/"><u>How to Effectively Install Your Computer's Chipset Drivers - Step by Step</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-slideshow-magic-on-mac-easy-video-editing-for-beginners/"><u>In 2024, Slideshow Magic on Mac Easy Video Editing for Beginners</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +117,21 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-classical-cinematography-a-modern-tutorial/"><u>[New] In 2024, Creating Classical Cinematography A Modern Tutorial</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-solo-artists-roadmap-to-auditory-fame-for-2024/"><u>[New] The Solo Artist's Roadmap to Auditory Fame for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-secrets-to-effective-targeted-tweets/"><u>[Updated] 2024 Approved Secrets to Effective Targeted Tweets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-ephemeral-backgrounds-on-win11/"><u>Avoid Ephemeral Backgrounds on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-control-navigating-the-windows-print-hub/"><u>Commanding Control: Navigating the Windows Print Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-a-deep-dive-into-youtube-writers-workshop-space/"><u>In 2024, A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplify-information-storage-via-mematic/"><u>Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://win-best.techidaily.com/strategie-efficaci-per-il-recupero-dei-dati-da-un-iphone-non-funzionante-unanalisi-di-quattro-metodi-distintivi/"><u>Strategie Efficaci per Il Recupero Dei Dati Da Un iPhone Non Funzionante: Un'Analisi Di Quattro Metodi Distintivi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-apex-legends-voice-communication-problems/"><u>Troubleshooting Tips for Resolving Apex Legends' Voice Communication Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-sound-revolution-embrace-dolby-atmos/"><u>Win 10/11 Sound Revolution: Embrace Dolby Atmos</u></a></li>
+</ul></div>
+

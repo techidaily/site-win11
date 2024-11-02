@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Launch WordPad on Windows PC"
-date: 2024-09-11T09:32:01.368Z
-updated: 2024-09-12T09:32:01.368Z
+date: 2024-10-27T04:48:42.029Z
+updated: 2024-11-01T20:14:55.723Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ To open WordPad using the search tool, follow these steps:
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Open WordPad via File Explorer
@@ -77,13 +77,6 @@ The WordPad application will now launch.
 ![Open WordPad Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Task-Manager.jpg)
 3. When a pop-up window appears, type "wordpad" in its search box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Now click**OK** to launch the WordPad application.
 
 ## 5\. How to Open WordPad Using the Control Panel
@@ -100,17 +93,17 @@ To open WordPad using the Control Panel, follow these steps:
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
@@ -127,20 +120,6 @@ To do this, follow these steps:
 ![Open WordPad Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Command-Prompt.jpg)
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. How to Open WordPad Via Start Menu
 
  There are a lot of features on Windows that can be a bit tricky to find if you're not sure where to look. In order to make things easier, Windows has a Start Menu, which is very helpful. It is a great way to quickly access all of your apps and programs, including WordPad.
@@ -152,15 +131,16 @@ To open WordPad using the Start menu, follow these steps:
 3. Scroll down to the bottom and click**Windows Tools** .  
 ![Open WordPad Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Start-Menu.jpg)
 4. The next screen shows a list of Windows tools for you to choose from.
-5. Double-click on**WordPad** to open it.  
-![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Double-click on**WordPad** to open it.  
+![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 
 ## 8\. How to Open WordPad by Creating a Desktop Shortcut
 
@@ -184,19 +164,19 @@ To open WordPad using the Start menu, follow these steps:
 ![Pin WordPad to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-WordPad-to-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Access WordPad on Windows
@@ -216,5 +196,23 @@ To open WordPad using the Start menu, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-instagram-video-speed-onlinemobile-for-2024/"><u>[New] Boosting Instagram Video Speed Online/Mobile for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-comprehensive-setup-steps-for-wm6/"><u>[New] Comprehensive Setup Steps for WM6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-desktop-recording-battle-go-with-obs-or-shadowplay/"><u>[New] Desktop Recording Battle Go with OBS or ShadowPlay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-frustration-to-finishing-how-magix-vpx-saves-time/"><u>[New] From Frustration to Finishing How Magix VPX Saves Time</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey/"><u>[New] In 2024, From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>[New] In 2024, Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
+<li><a href="https://win11.techidaily.com/craft-unique-aesthetics-window-11-wallpapers-per-monitor/"><u>Craft Unique Aesthetics: Window 11 Wallpapers Per Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-way-to-optimize-windows-device-performance-by-updating-battery-drivers/"><u>Easy Way To Optimize Windows Device Performance by Updating Battery Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-file-management-from-docx-to-pdf-in-windows-11/"><u>Enhancing File Management: From DOCX to PDF in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-system-for-zero-paperwork-windows-trash-auto-empty/"><u>Optimize Your System for Zero Paperwork - Windows Trash Auto-Empty</u></a></li>
+<li><a href="https://win11.techidaily.com/practicality-and-style-combined-asus-vivobook-s-15-insight/"><u>Practicality & Style Combined - ASUS Vivobook S 15 Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-and-start-printing-with-windows-11/"><u>Reconnect and Start Printing with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-synapse-errors-a-quick-reference-for-w10-and-w11/"><u>Tackling Synapse Errors: A Quick Reference for W10 & W11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-methods-for-enjoying-region-2-dvds-across-america-and-abroad/"><u>Top Methods for Enjoying Region 2 DVDs Across America and Abroad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726220299174-wmvmp4-movavi/"><u>자이타리라인의 WMV/MP4 포맷터를 무료로 바꾸기: 최고 경품 Movavi</u></a></li>
+</ul></div>
 

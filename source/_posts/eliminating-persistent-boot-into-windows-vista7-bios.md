@@ -1,0 +1,160 @@
+---
+title: Eliminating Persistent Boot Into Windows Vista/7 BIOS
+date: 2024-10-31T03:55:08.674Z
+updated: 2024-11-01T18:22:10.796Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Eliminating Persistent Boot Into Windows Vista/7 BIOS
+excerpt: This Article Describes Eliminating Persistent Boot Into Windows Vista/7 BIOS
+keywords: Fixing Boot Issue Vista/Win7,Bypassing Windows Boot Loader,Removing WinVista/7 BIOS Lock,Disabling Boot Sequence Control,Eradicating Boot Errors in Win OSes,Overcoming Booting Problems in Vista/Win 7,Dismantling Boot Into Windows Barriers
+thumbnail: https://thmb.techidaily.com/c9771ef48189c5657c46cc55dbf30e5b22c5c13c4b41b02a192204985e15f302.jpg
+---
+
+## Eliminating Persistent Boot Into Windows Vista/7 BIOS
+
+ Does your Windows device keep booting to BIOS every time you restart it? Numerous factors could be responsible for this, such as having the boot key pressed on the keyboard, running outdated BIOS, improperly plugged-in operating system drive, misconfigured boot sequence, or a CMOS battery issue.
+
+ If you have trouble booting the operating system repeatedly and want your device to boot to Windows rather than BIOS, here are a few checks and fixes you can apply.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Disconnect Peripherals and Discharge Static Charge
+
+ Disconnecting the peripherals and discharging the static charge has fixed the issue under discussion for some users. Therefore, before you proceed with any other fixes, unplug all peripherals from your device, and press the power button for half a minute to discharge static electricity. After that, reboot your device. If it boots back into BIOS, begin applying the remaining fixes.
+
+## 2\. Perform a Quick Restart From the BIOS
+
+ Although it sounds pretty simple, restarting the computer after saving BIOS settings usually boots a device into Windows, which may help bypass the issue. Therefore, once your device boots into BIOS, do not make any changes; save the changes and exit BIOS. Afterward, your device may restart once and boot directly into Windows this time.
+
+ Even if this workaround works, it isn't a permanent fix, as you will need to restart Windows through BIOS every time you turn it on, which can be annoying. Continue applying the remaining fixes for a permanent solution.
+
+## 3\. Ensure That the Boot Key Isn't Pressed Down
+
+ Booting into BIOS requires users to press a specific key on the keyboard, which is different for nearly every Windows laptop manufacturer. If you're unfamiliar with it, our guide on [how to enter the BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) covers the correct key to enter BIOS on laptops from different manufacturers.
+
+![HyperX Alloy Origins Core Function Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/Alloy-Origins-Core-HyperX-Function-Keys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ When this button is pressed, Windows will boot into BIOS instead of the operating system following a turn-on. So, if your device is automatically booting into BIOS, it is possible that this key got stuck while pressed down on the keyboard, telling your PC to boot into BIOS.
+
+ Therefore, make sure the boot key on your keyboard isn't pressed. If there are any dust particles on it, wipe them off and press the key several times to ensure nothing is stuck.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Ensure the Drive Containing the Operating System Is Plugged In
+
+ Your device can also boot into BIOS if it does not find a bootable drive containing your operating system. Typically, it happens when your PC's hard drive disconnects or is no longer detected by your device due to a hardware issue.
+
+ Thus, you must ensure that your drive is connected and detectable by your system and that it isn't causing your device to boot into BIOS. Since the BIOS interfaces of most laptops differ between manufacturers, the process to check that varies.
+
+ Users facing this issue on a Dell device should navigate to the **System Information** tab in BIOS and look under **Device Information**.
+
+![Checking the Device Information in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-the-device-information-in-bios-1.jpg)
+
+ If you don't see the drive with your OS installed, ensure it's connected properly. If your drive is connected but not detectable by your device, you should have it inspected to see if there is a hardware problem. However, if the drive containing your operating system is listed there, move on to the next step.
+
+## 5\. Check Your Boot Sequence
+
+ Boot sequence refers to the order in which your device searches for bootable data. It's recommended to keep the device containing your OS at the top of the sequence, especially if you have multiple storage devices connected. With this, your device can quickly find the bootable data and boot your operating system.
+
+ If the drive containing your OS appears connected in the previous step, ensure it comes first in the boot sequence. To check that on a Dell device, select **Boot Sequence** from the left sidebar. After that, choose **Legacy** under **Boot List Option** and make sure your desired drive appears first in the **Boot Sequence**.
+
+![Changing the Boot Mode in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/changing-the-boot-mode-in-bios.jpg)
+
+ If it isn't selected, click on the **arrow button** and move the drive containing your operating system to the top.
+
+![Putting the Drive Containing the OS at Top in Boot Sequence in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/putting-the-drive-containing-the-os-at-top-in-boot-sequence-in-bios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Disable Fast Startup
+
+ The Fast Startup feature in Windows hibernates the system and loads the files quicker. In a nutshell, it helps Windows boot faster. Even though it saves users a lot of time and helps them get back to work quickly, it is known to cause annoying issues during bootup. Often, disabling this feature fixes most of these problems.
+
+ If you can boot into Windows from BIOS, our guide on [turning Fast Startup on and off](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) can help you disable this feature. However, if you are stuck at the BIOS screen and cannot boot into Windows, you can also disable Fast Startup from there. For that, go to your laptop manufacturer's website for instructions on turning off Fast Startup from BIOS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7\. Update the BIOS
+
+ An outdated BIOS can also prevent Windows from booting correctly. It's the most neglected cause of most booting problems. Therefore, to ensure that the issue under discussion is not caused due to an outdated BIOS, you should upgrade it to the latest version.
+
+ So, if you are able to boot to Windows from BIOS but again encounter the issue when restarting, refer to our guide on [how to update your UEFI BIOS in Windows](https://www.makeuseof.com/tag/update-uefi-bios-windows/). If you cannot boot to Windows, you will have to resort to other methods of updating BIOS.
+
+## 8\. Replace or Reinsert the CMOS Battery
+
+![Person tampering with a motherboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/cmos-battery-explained-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The CMOS battery powers the BIOS firmware on the laptop. If you are unable to boot to Windows, a dead CMOS battery could also be to blame. Often, just removing and reinserting the battery fixes the issue; however, it resets a few settings, including the date and time. In case of a dead battery, you may need to replace it.
+
+ If you want to know more about the CMOS battery and how to remove it, refer to our guide on [what a CMOS battery is](https://www.makeuseof.com/what-is-a-cmos-battery-and-how-do-you-remove-one/).
+
+## Don’t Let Your Windows PC Boot to BIOS
+
+ Seeing your device boot directly into BIOS rather than Windows can be extremely frustrating. We hope the above fixes will help you successfully resolve the issue and boot to Windows. If the above fixes don't work, repair or reinstall Windows. If that doesn't work either, the laptop could have a hardware problem, so take it to a technician for inspection.
+
+ If you have trouble booting the operating system repeatedly and want your device to boot to Windows rather than BIOS, here are a few checks and fixes you can apply.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pinpointing-youtubes-favorite-remarks/"><u>[New] In 2024, Pinpointing YouTube's Favorite Remarks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-real-time-broadcasting-step-by-step-guide/"><u>[New] Mastering Real-Time Broadcasting Step by Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-revenue-rise-how-to-harness-the-power-of-ads-for-2024/"><u>[Updated] Vimeo Revenue Rise How to Harness the Power of Ads for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correct-mend-f-keys-on-windows-11-regain-control/"><u>Correct: Mend F Keys on Windows 11, Regain Control</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-differences-between-remote-and-local-windows-upgrades/"><u>Delving Into Differences Between Remote and Local Windows Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-remedy-guide-to-regain-access-in-darked-windows/"><u>Easy Remedy Guide to Regain Access in Darked Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-capturing-the-perfect-shot-with-iphones-photo-cutout-in-ios-16/"><u>Expert Advice: Capturing the Perfect Shot with iPhone's Photo Cutout in iOS 16</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-windows-11-arm-iso-download-and-installation-process/"><u>Guide to Windows 11 ARM ISO Download and Installation Process</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-to-mend-windows-office-errors/"><u>Immediate Actions to Mend Windows Office Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-find-x7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Find X7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-starters-journey-mastering-video-quality-and-resolution/"><u>In 2024, Starter's Journey Mastering Video Quality and Resolution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>In 2024, The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instant-proportion-correction-online/"><u>Instant Proportion Correction Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463455963-iphone-control-center-not-responding-discover-8-fixes-that-work/"><u>IPhone Control Center Not Responding? Discover 8 Fixes That Work</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-android-studio-speed-on-your-windows-machine/"><u>Skyrocketing Android Studio Speed on Your Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/win-files-access-issues-quick-resolution-steps/"><u>Win Files Access Issues: Quick Resolution Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-mastery-bypassing-secure-boot-via-rufus/"><u>Win11 Mastery: Bypassing Secure Boot via Rufus</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

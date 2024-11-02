@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies for Resolving Windows Defender's Protection Failure
-date: 2024-10-21T01:20:05.235Z
-updated: 2024-10-27T05:34:56.145Z
+date: 2024-10-25T21:02:46.640Z
+updated: 2024-11-02T04:13:23.478Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967
 
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Security Center Service
 
  The Security Center service in Windows is responsible for managing security-related services, including Windows Defender. If the service is not functioning properly, it can prevent you from updating the Defender or using it at all
@@ -63,10 +56,10 @@ Here is how you can restart the Security Center Service:
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
@@ -94,10 +87,10 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -122,10 +115,10 @@ Here is how you can reset the Windows Security app:
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Remove Any Conflicting Software
@@ -135,6 +128,19 @@ Here is how you can reset the Windows Security app:
  If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses[how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
 
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Windows Defender Up and Running Again
 
@@ -155,21 +161,21 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-broadcast-your-games-with-professional-skill/"><u>[New] 2024 Approved Broadcast Your Games with Professional Skill</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-filtration-finesse-elevating-your-snapchat-presence/"><u>[New] 2024 Approved Filtration Finesse Elevating Your Snapchat Presence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-15-best-youtube-anime-channels-to-make-your-day-for-2024/"><u>[Updated] 15 Best YouTube Anime Channels to Make Your Day for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-ai-detection-software-ideal-solutions-for-professors-and-supervisors/"><u>Best AI Detection Software: Ideal Solutions for Professors & Supervisors</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-editors-interface-incorporate-wordpad-triggers-in-windows-11s-menu/"><u>Enhancing Editors' Interface: Incorporate WordPad Triggers in Windows 11’S Menu</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-a05-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy A05.</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leverage-cutting-edge-ai-on-bing-simple-registration-process-explained/"><u>Leverage Cutting-Edge AI on Bing: Simple Registration Process Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-disconnectivity-solutions-to-fix-fall-guys-problems-on-windows/"><u>Mastering Disconnectivity: Solutions to Fix Fall Guys Problems on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-restart-and-shutdown-issues-from-faulty-applications-in-windows/"><u>Overcoming Restart and Shutdown Issues From Faulty Applications in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-picks-the-very-best-tripods-for-sharp-4k-videos/"><u>Premium Picks The Very Best Tripods for Sharp 4K Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-dormant-ccleaner-in-windows-11-systems/"><u>Reviving Dormant CCleaner in Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-your-progress-how-to-avoid-forced-closure-by-roblox/"><u>Saving Your Progress: How to Avoid Forced Closure by Roblox</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simplified-path-to-mastery-in-using-cc-licenses-for-2024/"><u>Simplified Path to Mastery in Using CC Licenses for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-revitalize-old-hardware-with-windows-11-22h2/"><u>Steps to Revitalize Old Hardware with Windows 11 22H2</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-setup-hacks-forming-fresh-folders-effortlessly/"><u>Win11 Setup Hacks: Forming Fresh Folders Effortlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-affordable-flight-masters-top-drone-selections-below-500/"><u>[New] In 2024, Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[Updated] 2024 Approved Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-snapseed-a-simple-guide-for-new-users/"><u>2024 Approved Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-scriptural-ringtone-selections-for-faith/"><u>2024 Approved Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-detox-for-pcs-a-collection-of-13-revival-methods/"><u>Digital Detox for PCs: A Collection of 13 Revival Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-fix-mastering-the-download-and-update-of-mbox-2-drivers-for-windows-operating-system/"><u>Easy Fix: Mastering the Download & Update of MBox 2 Drivers for Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-better-performance-on-roblox-windows-edition/"><u>Elevate Your Gaming: Better Performance on Roblox Windows Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-unresponsive-mail-alerts-on-windows-11/"><u>How to Overcome Unresponsive Mail Alerts on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrating-marketing-the-power-of-youtube-and-brand-collaboration-for-2024/"><u>Integrating Marketing The Power of YouTube and Brand Collaboration for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-unbidden-command-window-activations/"><u>Preventing Unbidden Command Window Activations</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-winget-a-guide-for-windows-11-users/"><u>Reviving Winget: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-chaos-into-clarity-with-obsidian-visual-techniques/"><u>Transforming Chaos Into Clarity with Obsidian Visual Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-steam-disconnect-in-windows-os/"><u>Troubleshoot Steam Disconnect in Windows OS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
 </ul></div>
 

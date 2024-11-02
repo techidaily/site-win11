@@ -1,7 +1,7 @@
 ---
 title: Three Techniques for Removing Microsoft From Win11
-date: 2024-10-24T08:19:54.704Z
-updated: 2024-10-26T18:11:32.241Z
+date: 2024-10-29T21:30:52.551Z
+updated: 2024-11-01T22:11:32.381Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Uninstall Microsoft Store App From Windows 11
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/b8a6614e5e46e83c73c99e937a620940173ecb3e5
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Using Winget
@@ -63,15 +63,28 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
 
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
 
@@ -83,13 +96,6 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 3. Now, press**Ctrl + Shift + S** to open the "Save as" window. Name the batch file as**UninstallStore.bat** and keep the**Save as** type option as**All files** .  
 ![Uninstall Microsoft Store App using batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-batch-file.jpg)
 4. Click on the**Save** button. Close the Notepad window.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
@@ -114,19 +120,24 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>[Updated] 2024 Approved Cam Clash SJ6 Legend Versus Yi 4K Visionary</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>[Updated] The Metaverse Vs. Omniverse Showdown A Comprehensive Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-editing-images-erasing-unwanted-backdrops/"><u>2024 Approved Editing Images Erasing Unwanted Backdrops</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-tips-troubleshooting-a-non-functional-mic-on-windows-10/"><u>Fixes & Tips: Troubleshooting a Non-Functional Mic on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-event-viewer-errors-in-windows-11/"><u>Fixing Windows Event Viewer Errors in Windows 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-7-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 7 Plus without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-se-2020-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone SE (2020) Safe and Legal</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-tasks-at-the-forefront-a-guide-to-sticky-notes-elevation-on-win-11/"><u>Keep Your Tasks at the Forefront: A Guide to Sticky Notes Elevation on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/next-gen-notion-how-windows-11-differs-from-its-predecessor/"><u>Next-Gen Notion: How Windows 11 Differs From Its Predecessor</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-10-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 10 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ight-websites-offering-youtube-branding-collaborations/"><u>Spotlight Websites Offering YouTube Branding Collaborations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android-for-2024/"><u>Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-cab-its-purpose-and-installation-guide/"><u>Unveiling Windows CAB: Its Purpose & Installation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-resolving-no-more-files-message/"><u>Win 10/11: Resolving 'No More Files' Message</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-every-angle-top-360-streaming-devices-reviewed/"><u>[New] Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-livestreaming-sovereigns-clash/"><u>[New] LiveStreaming Sovereigns Clash</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-crop-companions-best-farming-games-to-gather-with-buddies/"><u>[Updated] In 2024, Crop Companions Best Farming Games to Gather with Buddies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagrams-latest-features-reels-and-stories/"><u>[Updated] Mastering Instagram’s Latest Features Reels & Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-streaming-platform-powerhouses-twitch-and-youtube-comparison/"><u>2024 Approved Examining Streaming Platform Powerhouses Twitch and YouTube Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-installation-obstacles-for-app-removal-in-windows-11/"><u>Bypassing Installation Obstacles for App Removal in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968298696-effortless-steps-to-upgrade-your-synaptics-ps2-mousepad-driver-in-no-time/"><u>Effortless Steps to Upgrade Your Synaptics PS/2 Mousepad Driver in No Time!</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-transferable-operation-relocating-your-torrent-software/"><u>Enabling Transferable Operation: Relocating Your Torrent Software</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-avoiding-the-most-common-windows-11-missteps/"><u>Essential Insights: Avoiding the Most Common Windows 11 Missteps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-yellow-tint-on-a-windows-laptop-screen/"><u>How to Fix a Yellow Tint on a Windows Laptop Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-avoiding-pitfalls-understanding-youtube-standards/"><u>In 2024, Avoiding Pitfalls Understanding YouTube Standards</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://win11.techidaily.com/rebuilding-with-purpose-windows-11-from-scratch/"><u>Rebuilding with Purpose: Windows 11 From Scratch</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x80072efd-on-windows-devices/"><u>Remedying Error 0X80072EFD on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-enhancing-iphone-speaker-volume-during-calls/"><u>Step-by-Step Solutions for Enhancing iPhone Speaker Volume During Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-reset-limit-after-unsuccessful-authentication-in-windows-1011/"><u>Updating Reset Limit After Unsuccessful Authentication in Windows 10/11</u></a></li>
 </ul></div>
 

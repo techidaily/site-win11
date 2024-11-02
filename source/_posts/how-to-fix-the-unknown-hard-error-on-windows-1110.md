@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Unknown Hard Error” On Windows 11/10
-date: 2024-10-25T16:51:19.643Z
-updated: 2024-10-27T04:06:16.595Z
+date: 2024-10-31T00:38:53.931Z
+updated: 2024-11-01T16:01:27.154Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  Our article about [repairing corrupted files with Windows built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) includes instructions for running both SFC and DISM scans.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Clean Boot Your Windows PC
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-configuration-window-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Clean-booting Windows is one of the more widely confirmed solutions for the “Unknown Hard Error.” Applying this resolution will disable non-essential third-party startup apps and services. This can prevent software conflicts that could be causing the “Unknown Hard Error” on your PC from occurring.
@@ -63,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  If the error doesn’t reoccur again, you’re onto something. You can keep the current boot configuration or try to identify what was causing the issue for the sake of re-enabling startup items. To identify the culprit, you’ll need to gradually re-enable one startup item every time you restart (or shut down) Windows until the issue returns.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run a Check Disk Repair Scan
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-command.jpg)
@@ -77,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  The “Unknown Hard Error” can be due to hard disk drive issues. Check Disk (CHKDSK) is the only pre-installed Windows utility that checks for and resolves hard drive errors. So, try running a CHKDSK scan via the Command Prompt or File Explorer.
 
  Our guide to [running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) includes instructions for utilizing that tool either way.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Remove Any Recent Windows Updates
 
@@ -96,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 ## 5\. Roll Back Your PC to a Previous Windows Restore Point
 
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The System Restore tool undoes system changes by restoring Windows to an image backup (restore point). It's a valuable troubleshooting tool for fixing the “Unknown Hard Error” if you have it enabled and there are restoration points available.
 
@@ -112,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  You can also copy user file data from your old account into the new one. So, try [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) as a resolution to see if that resolves the “Unknown Hard Error.”
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Windows
@@ -128,30 +115,18 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  You can select to reset a PC from Settings or the Windows recovery environment menu if necessary. Our article about [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) includes guidelines for performing this troubleshooting method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kill Off the “Unknown Hard Error” on Your Windows PC
 
  You can kill off the “Unknown Hard Error” error by applying the potential fixes above. It’s not the most straightforward issue to fix, but one of those resolutions will probably get it sorted. The worst-case scenario is that your PC’s hard drive is failing, in which case you might need to replace the drive.
 
  It's not such a big deal if it only happened once. However, users report the “Unknown Hard Error” keeps reoccurring regularly on their PCs under certain circumstances. This is how you can fix the “Unknown Hard Error” on Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>[New] 2024 Approved Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-jokester-visualizer/"><u>[New] Premium Jokester Visualizer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic/"><u>[New] Virtual Chuckles Await Tips & Tricks to Metaverse Meme Magic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/10-premier-igtv-horizontal-video-editors-for-2024/"><u>10 Premier IGTV Horizontal Video Editors for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-future-proofing-in-the-metaverse-essential-device-lineup/"><u>2024 Approved Future-Proofing in the Metaverse Essential Device Lineup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-launchpad-logistics-streamlining-your-way-into-the-realm-of-reviews-channels/"><u>2024 Approved Launchpad Logistics Streamlining Your Way Into the Realm of Reviews Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerated-action-plan-9-steps-to-stop-wwe-crashes-in-windows/"><u>Accelerated Action Plan: 9 Steps to Stop WWE Crashes in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-frozen-menu-items-in-windows-11-desktop/"><u>Addressing Frozen Menu Items in Windows 11 Desktop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-netflix-substitutes-the-ultimate-guide-to-top-7-dvd-rental-options/"><u>Best Netflix Substitutes: The Ultimate Guide to Top 7 DVD Rental Options</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-correcting-error-0x80004004-on-defender/"><u>Deciphering and Correcting Error 0X80004004 on Defender</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-chkdsk-sfc-and-dism-for-system-repairing/"><u>Decoding CHKDSK, SFC & DISM for System Repairing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvdweb27/"><u>DVDコピー専用情報ポータル「ディジアリティ」の正規Webサイト～ページ27解析入手方法</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-operation-failed-0x0000011b-in-windows/"><u>Overcoming Operation Failed 0X0000011B in Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-12-mini-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 12 mini i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-access-to-steam-remote-play/"><u>Winning Back Access to Steam Remote Play</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +135,24 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-create-awesome-instagram-videos-templates-and-tips/"><u>[New] 2024 Approved How To Create Awesome Instagram Videos [Templates & Tips]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-superior-hd-gameplay-through-top-captures/"><u>[New] 2024 Approved Superior HD Gameplay Through Top Captures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-avoid-high-costs-buying-budget-friendly-gopros/"><u>[Updated] Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-savants-a-comprehensive-guide-to-hd-recorders/"><u>[Updated] Screen Savants A Comprehensive Guide to HD Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/360-vision-showdown-samsung-and-lg-camera-face-off-for-2024/"><u>360 Vision Showdown Samsung & LG Camera Face Off for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-wacatacbml-understanding-and-neutralizing-threats-on-windows/"><u>Breaking Down Wacatac.B!ml: Understanding and Neutralizing Threats on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-syncing-your-phone-with-windows-11-via-unison/"><u>Expert Tips: Syncing Your Phone with Windows 11 via Unison</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectify-invalid-label-error-on-windows-11/"><u>Guide to Rectify 'Invalid Label' Error on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-guide-to-capturing-teamviewer-meetings-on-windows-10-and-11/"><u>Seamless Guide to Capturing TeamViewer Meetings on Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-accurate-game-detection-failure-in-discord-windows-pc/"><u>Solutions for Accurate Game Detection Failure in Discord (Windows PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-fixing-stutter-issues-and-increasing-frame-rates-in-warzone/"><u>Step-by-Step Tutorial for Fixing Stutter Issues & Increasing Frame Rates in Warzone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-extended-monitor-lag-in-windows/"><u>Strategies to Combat Extended Monitor Lag in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
+<li><a href="https://win11.techidaily.com/tethering-tech-microsofts-vision-in-windows-11-phones/"><u>Tethering Tech: Microsoft's Vision in Windows 11 Phones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-flac-audio-files-into-mp3-format-using-vlc/"><u>Transforming FLAC Audio Files Into MP3 Format Using VLC</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>Updated How To Translate Video From Japanese to English Online for 2024</u></a></li>
+</ul></div>
+

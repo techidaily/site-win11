@@ -1,7 +1,7 @@
 ---
 title: Effective Resource Handling on Windows Subsystem for Android
-date: 2024-10-23T03:12:43.428Z
-updated: 2024-10-27T04:16:21.341Z
+date: 2024-10-30T03:25:22.500Z
+updated: 2024-11-02T03:32:14.895Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -53,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -64,19 +58,19 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -100,19 +94,17 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-immediate-recovery-of-lost-snapshots/"><u>[New] 2024 Approved Immediate Recovery of Lost Snapshots</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>[New] 2024 Approved Rank the Best 7 Android-Friendly AdBlockers Reviewed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-your-youtubes-most-impactful-visuals-for-2024/"><u>[Updated] The Ultimate Checklist for Your YouTube's Most Impactful Visuals for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-amazonbasics-6-sheets-crosscut-shredder-comprehensive-analysis/"><u>Budget-Friendly AmazonBasics 6-Sheets Crosscut Shredder - Comprehensive Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-the-license-end-date-imminent-error/"><u>Defeating the License End Date Imminent Error</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-strategies-for-system-info-exploration/"><u>Efficient Strategies for System Info Exploration</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-windows-upgrade-hurdle-error-xc004f050/"><u>How to Correct Windows Upgrade Hurdle: Error XC004F050</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 8S Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-your-windows-11s-fresh-start-procedure/"><u>Reinstating Your Windows 11'S Fresh Start Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-enable-secure-user-execution-in-windows/"><u>Solutions to Enable Secure User Execution in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/storage-exploration-how-many-vids-can-64128gb-hold-for-2024/"><u>Storage Exploration How Many Vids Can 64/128GB Hold for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-most-versatile-drawing-apps-for-windows-11/"><u>Unveiling the Most Versatile Drawing Apps for Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-digital-media-compreenhensive-srt-to-other-guidebook/"><u>[Updated] 2024 Approved Unlocking Digital Media Compreenhensive SRT-to-Other Guidebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-mac-mkv-players-compilation-for-2024/"><u>[Updated] Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/15-best-ideas-to-post-on-snapchat/"><u>15 Best Ideas To Post On Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-startup-launching-windows-and-notebooks-effortlessly/"><u>Accelerated Startup: Launching Windows and Notebooks Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-keystroke-chaos-an-effective-guide-to-repair-common-windows-shortcut-issues/"><u>Banish Keystroke Chaos! An Effective Guide to Repair Common Windows Shortcut Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-understanding-fair-use-and-infringement-on-youtube/"><u>In 2024, Understanding Fair Use and Infringement on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-login-delays-windows-and-rust-edition/"><u>Resolving Steam Login Delays: Windows & Rust Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/size-doesnt-limit-performance-a-comprehensive-review-of-the-apple-iphone-12-mini/"><u>Size Doesn't Limit Performance: A Comprehensive Review of the Apple iPhone 12 Mini</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-windows-11-notification-settings/"><u>Tailor Windows 11 Notification Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-tools-optimize-multi-screen-brightness/"><u>Top 6 Windows Tools: Optimize Multi-Screen Brightness</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-spark-20-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Spark 20 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-cant-my-ie-browser-open-websites-heres-how-to-fix-it/"><u>Why Can't My IE Browser Open Websites? Here's How to Fix It</u></a></li>
 </ul></div>
 

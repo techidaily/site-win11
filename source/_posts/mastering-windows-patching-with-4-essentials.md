@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows Patching with 4 Essentials
-date: 2024-09-11T09:32:41.350Z
-updated: 2024-09-12T09:32:41.350Z
+date: 2024-10-29T03:51:34.016Z
+updated: 2024-11-01T18:26:40.881Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Run the Program Compatibility Troubleshooter Using the Context Menu
 
  The easiest way to run the Program Compatibility Troubleshooter on Windows 10 is to simply right-click an app and select**Troubleshoot compatibility** . If you’re on Windows 11, you’ll have to click**Show more options** first after you right-click the app to bring back the classic context menu, and then select**Troubleshoot compatibility** .
@@ -44,54 +37,34 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  Both Windows 10 and 11 have a Troubleshooting page in the Settings app where you can launch the Program Compatibility Troubleshooter from. If you can’t get to the Troubleshoot page because the Settings app isn’t working, please read our guide on[how to fix Windows Settings when it won’t open](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
  To run the Program Compatibility Troubleshooter from the settings on Windows 11, start by pressing**Win + I** to open the Settings app. Next, click**System** on the left side menu, and then click on**Troubleshoot** on the right.
 
 ![the system settings on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-page-settings-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the Troubleshoot page, scroll down and click on**Other troubleshooters** .
 
 ![the troubleshooting page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshoot-page-settings-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll down to the**Other** section, find**Program Compatibility Troubleshooter** from the list of troubleshooters, and then click the**Run** button next to it.
 
 ![the other troubleshooters page on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/other-troubleshooters-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will get the Program Compatibility Troubleshooter started.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 10
@@ -105,19 +78,20 @@ This will get the Program Compatibility Troubleshooter started.
 ![running the Program Compatibility Troubleshooter on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-program-compatibility-troubleshooter-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, you can use the tool to fix compatibility issues on Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Program Compatibility Troubleshooter Using the Control Panel
 
@@ -129,14 +103,14 @@ Now, you can use the tool to fix compatibility issues on Windows 10.
 
 ![the Control Panel on Windows 11 with the Programs and Features section highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel-run-program-compatibility-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will launch the Program Compatibility Troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Program Compatibility Troubleshooter Using a Desktop Shortcut
 
@@ -153,13 +127,6 @@ Copy the below text:
  Name the shortcut Program Compatibility Troubleshooter, and then click**Finish** to add the shortcut to your Desktop.
 
 ![naming the shorcut for the Program Compatibility Troubleshooter in the Create Shortcut wizard on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/finish-program-compatibility-shortcut-creation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now when you double-click the shortcut you just created, you will launch the Program Compatibility Troubleshooter.
 
@@ -180,5 +147,18 @@ Copy the below text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-non-adjustable-gif-sizes-on-discowin11/"><u>Decoding the Mystery of Non-Adjustable GIF Sizes on DiscoWin11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-on-demand/"><u>Disabling Windows 11 Firewall on Demand</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-techniques-for-embedding-subtitles-into-mp4-movie-formats/"><u>Easy Techniques for Embedding Subtitles Into MP4 Movie Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-method-to-address-error-0x80246007-on-win11/"><u>Efficient Method to Address Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-video-games-with-chatgpt-6-essential-tips-for-writers/"><u>Enhance Your Video Games with ChatGPT: 6 Essential Tips for Writers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-solve-unavailable-dts-audio-issue-with-specific-output-devices/"><u>How to Solve 'Unavailable DTS Audio' Issue with Specific Output Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>In 2024, Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-playback-troubles-heres-how-you-can-overcome-buffering-issues/"><u>Kodi Playback Troubles? Here's How You Can Overcome Buffering Issues!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/revise-record-times-essential-tools-for-altering-createdmodified-dates-in-win8/"><u>Revise Record Times: Essential Tools for Altering Created/Modified Dates in Win8</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-remove-tiktok-logos-with-ease-best-online-watermark-removers/"><u>Updated In 2024, Remove TikTok Logos with Ease Best Online Watermark Removers</u></a></li>
+</ul></div>
 

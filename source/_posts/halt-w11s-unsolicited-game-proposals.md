@@ -1,7 +1,7 @@
 ---
 title: Halt W11's Unsolicited Game Proposals
-date: 2024-10-25T23:42:04.243Z
-updated: 2024-10-26T20:06:08.086Z
+date: 2024-10-26T18:10:58.421Z
+updated: 2024-11-01T21:58:09.661Z
 tags:
   - windows10
   - windows11
@@ -35,15 +35,22 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  Luckily, there's a way to disable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Toggle Off Search Highlights and Remove the "Games for You" Recommendations
 
 ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  Restart your system, and the Games for You section will be gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Doing This Turn Off Other Ads?
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 ![screenshot of the search menu with no highlights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_menu_no_highlights.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Yes. Switching off this feature will disable all the search highlights mentioned before. You won't be suggested videos or shown trending news articles.
@@ -76,39 +83,11 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  Unfortunately, there's no way to disable individual sections. Search Highlights is an all-in-one package.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remove Redundant Information on Windows
 
  For users who want less clutter on their screen, it's great that we're able to quickly turn search highlights off. For users who appreciate search highlights, but might not care for games, it's disappointing that it's an all-or-nothing setting. Hopefully, Microsoft will make this feature more modular in the future.
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/conquering-time-tracking-on-windows-11-calendar-app/"><u>Conquering Time Tracking on Windows 11 Calendar App</u></a></li>
-<li><a href="https://win11.techidaily.com/create-your-signature-sound-control-with-win11-hotkeys/"><u>Create Your Signature Sound Control with Win11 Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-common-rainmeter-anomalies-on-windows-platforms/"><u>Demystifying Common Rainmeter Anomalies on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-windows-print-service-administration-center/"><u>Dive Into Windows Print Service Administration Center</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/foremost-spaces-for-ai-inspiration-trading/"><u>Foremost Spaces for AI Inspiration Trading</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-lite-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Lite Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy S23 Ultra</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>In 2024, Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/initiate-the-art-of-movie-making-xp-edition/"><u>Initiate the Art of Movie Making Xp Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-poms-an-insiders-guide-to-top-8-windows-timer-tools/"><u>Mastering Poms: An Insider's Guide to Top 8 Windows Timer Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-handheld-accessories-guide-the-nintendo-switch-select/"><u>Premium Handheld Accessories Guide – The Nintendo Switch Select</u></a></li>
-<li><a href="https://win11.techidaily.com/revisiting-microsoft-store-error-code-0x80073cf3/"><u>Revisiting Microsoft Store Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/setting-up-a-sports-channel-from-scratch-mac-style-for-2024/"><u>Setting up a Sports Channel From Scratch, Mac-Style for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-converting-dvd-content-to-a-usb-flash-drive-for-trouble-free-watching/"><u>Step-by-Step Tutorial: Converting DVD Content to a USB Flash Drive for Trouble-Free Watching</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-procedure-for-updating-windows-pin/"><u>Stepwise Procedure for Updating Windows PIN</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-moto-g04-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Moto G04 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/wins-premier-encryption-software-compared-and-contrasted-156-chars-trimmed-slightly/"><u>Win's Premier Encryption Software Compared and Contrasted (156 Chars - Trimmed Slightly)</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +96,27 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-transforming-imagery-with-quantum-hdr/"><u>[New] 2024 Approved Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide/"><u>[New] Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-screencast-wisdom-key-facts-and-strategies-for-2024/"><u>[New] Expert Screencast Wisdom Key Facts and Strategies for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fonepaw-screen-recorder-downloadreview/"><u>[Updated] 2024 Approved Fonepaw Screen Recorder Download|Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infographic-guide-effective-video-promotion-tools/"><u>2024 Approved Infographic Guide Effective Video Promotion Tools</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728498298734-windows-server-2016/"><u>如何預防及修正 Windows Server 2016 更新後出現開機循環：五個解決辦法</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-dual-users-conflict-with-one-ms-login/"><u>Bypassing Dual Users’ Conflict with One MS Login</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-the-gap-how-to-locate-and-utilize-hidden-windows-11-enhancements/"><u>Fix the Gap: How to Locate & Utilize Hidden Windows 11 Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-basics-to-advanced-using-macs-preview-like-a-pro-for-2024/"><u>From Basics to Advanced Using Mac's Preview Like a Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-keyboard-flair-with-typingaid-techniques/"><u>Master Keyboard Flair with TypingAid Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-global-connectivity-with-facebook-twitter-instagram-and-youtube/"><u>Mastering Global Connectivity with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-your-windows-backup-preferences/"><u>Resetting Your Windows Backup Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-access-post-error-code-22-fixing-a-locked-down-pc-in-windows-11/"><u>Restoring Access Post-Error Code 22: Fixing a Locked Down PC in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-seamless-link-for-windows-steam-streaming/"><u>Restoring Seamless Link for Windows Steam Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-effective-app-packages-control-using-winget-on-win11/"><u>Top Tips for Effective App Packages Control Using Winget on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unsuccessful-message-loads-on-discord-pc/"><u>Troubleshooting Unsuccessful Message Loads on Discord PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/virtual-forum-transcription-for-2024/"><u>Virtual Forum Transcription for 2024</u></a></li>
+</ul></div>
+

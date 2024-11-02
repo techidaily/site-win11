@@ -1,7 +1,7 @@
 ---
 title: Fixing Window's Photo App Issues Step by Step
-date: 2024-10-22T01:24:28.828Z
-updated: 2024-10-26T16:19:02.856Z
+date: 2024-10-27T00:04:14.995Z
+updated: 2024-11-02T02:16:46.382Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
  Trying the above-listed quick tips may resolve many minor camera app glitches. But, if you're still unable to use the Camera app, let's see some troubleshooting methods to fix that.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Adjust the Camera Privacy Settings
@@ -55,14 +55,22 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 1. Open the Camera app and click on the **Privacy settings** button. If this button is not on your screen, search **Camera privacy settings** on Windows search and click on the first best match.  
 ![Camera App Permission Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-app-permission-error.jpg)
 2. Toggle on or enable the **Camera access** and then, **Camera options** to resolve the permission issue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows Camera Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-privacy-settings.jpg)
 3. Once you grant the permission, re-open the Camera app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should work for you if the Camera app is opening properly but asking for permission. Besides the Camera app, you can toggle permission on any other trusted apps you want to use your camera in.
@@ -85,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Sometimes after a reset, the app may find difficulty in connecting to your webcam and throw an error. To fix that issue, check [how to fix the “We Can’t Find Your Camera” error](https://www.makeuseof.com/cant-find-camera-error-windows-11/).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Install or Update a Compatible Camera Driver
 
  As mentioned previously, some manufacturers provide setup utilities for their webcams. Once a buyer purchases the webcam, he/she can download the appropriate version of the setup utility. Once you install the required software, the drivers will install automatically.
@@ -105,22 +120,8 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 ![Camera Group Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-group-policy-setting.jpg)
 4. Then choose the **Enabled** option and click on **OK** to apply the selected settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Camera Properties In Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-properties-in-group-policy.jpg)
 5. Similarly, go to **App Privacy** under **Windows Components** and enable the **Let Windows apps access the camera** setting.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Group Policy Editor App Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-app-privacy-settings.jpg)
 
@@ -137,14 +138,27 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 2. Once done, it will walk you through some automated steps to fix your camera problems. You need to click on any one option that you consider the best.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Get Help App Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/get-help-app-questions.jpg)
 3. After the last question, restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The best thing about Get Help is that it automatically performs the required troubleshooting measures. You need not do anything technical on your own. Besides the camera app issue, learn [what you can do with the Get Help app](https://www.makeuseof.com/troubleshooters-get-help-app-windows/).
 
@@ -162,16 +176,16 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 4. Once you see the tick or check mark, click on **Reset** to reinstall a fresh copy of the app and wipe all previous data and settings.  
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Reset Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-camera-app-option.jpg)
@@ -187,13 +201,6 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Once you set up your device with your computer, you should be able to use the Camera app for all the camera-related tasks. Though, as mentioned earlier, it's a temporary method so, you may surely require a [good quality webcam for your computer](https://www.makeuseof.com/best-webcams-for-remote-work/) in the future for the long run.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## All Your Windows Camera Troubles, Solved
 
  After following our guide, you should hopefully get the Camera app working again. Remember that the Camera app relies on a working webcam, so make sure to take care of your webcam properly. Also, consider upgrading your webcam if you face screen freezing issues with your current one.
@@ -202,20 +209,6 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
 
  Don't worry; in this article, we'll walk through all the common fixes for camera app-related problems on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-visibility-the-most-effective-30-freefire-tags-for-video-marketing/"><u>[New] 2024 Approved Enhance Visibility The Most Effective 30 FreeFire Tags for Video Marketing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-ios-video-recorders-reviewed-for-2024/"><u>Essential iOS Video Recorders Reviewed for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/historys-high-scorers-on-reddit-top-10-list-for-2024/"><u>History's High Scorers on Reddit - Top 10 List for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-failed-steamui-dll-function/"><u>How To Restore Failed SteamUI Dll Function</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-proper-functionality-of-packages-on-windows-devices/"><u>How to Restore Proper Functionality of Packages on Windows Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-photo-mastery-top-8-web-based-creation-suite/"><u>In 2024, Photo Mastery Top 8 Web-Based Creation Suite</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-20-wonderful-stop-motion-ideas-for-beginners-and-kids-for-2024/"><u>New 20 Wonderful Stop Motion Ideas for Beginners and Kids for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/spotlight-on-windows-11-speed-actionable-fixes-for-slowdowns/"><u>Spotlight on Windows 11 Speed: Actionable Fixes for Slowdowns</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-phone-dialer-window-11/"><u>Unveiling the Phone Dialer Window 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -223,3 +216,18 @@ thumbnail: https://thmb.techidaily.com/b1dca77248729ae79ab1361747a38e85586597f7f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] In 2024, Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-10-best-4k-camera-phone-for-2024/"><u>[Updated] Top 10 Best 4K Camera Phone for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-sifting-through-time-a-guide-to-twitter-archives/"><u>2024 Approved Sifting Through Time A Guide to Twitter Archives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-the-power-of-images-in-instagram-movies/"><u>2024 Approved Unveiling the Power of Images in Instagram Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-file-error-xc10100bf/"><u>Addressing Windows File Error XC10100BF</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visual-appeal-with-custom-pointer-design/"><u>Enhancing Visual Appeal with Custom Pointer Design</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-reviving-a-stuck-download-space-on-windows-os/"><u>Guide for Reviving a Stuck Download Space on Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reclaiming-storage-on-your-iphone-essential-strategies-following-the-latest-ios-17-refresh/"><u>Reclaiming Storage on Your iPhone: Essential Strategies Following the Latest iOS 17 Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnecting-windows-remotes-resolving-unacceptable-links/"><u>Reconnecting Windows Remotes: Resolving Unacceptable Links</u></a></li>
+</ul></div>
+

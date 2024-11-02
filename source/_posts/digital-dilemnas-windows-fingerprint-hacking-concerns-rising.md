@@ -1,7 +1,7 @@
 ---
 title: "Digital Dilemnas: Windows Fingerprint Hacking Concerns Rising"
-date: 2024-10-26T06:13:25.282Z
-updated: 2024-10-26T21:05:47.207Z
+date: 2024-10-28T04:40:50.917Z
+updated: 2024-11-02T04:00:38.540Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  As part of research into Windows Hello's strength, two [white-hat hackers](https://www.makeuseof.com/white-hat-hacker/), Jesse D'Aguanno and Timo Teräs, posted a report on their website, [Blackwing HQ](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/). The report details how they breached three popular devices: the Dell Inspiron 15, Lenovo ThinkPad T14, and the Microsoft Surface Pro Type Cover.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How the Hackers Breached Windows Hello on the Dell Inspiron 15
 
  For the Dell Inspiron 15, the hackers noticed they could boot into Linux on the laptop. Once logged into Linux, they can register their fingerprints in the system and give it the same ID as the Windows user they want to log into.
@@ -52,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Do These Hacks Mean for You?
@@ -73,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  The hackers must have physical contact with the device to perform the above hacks. In the report, the hackers stated they might be able to create USB devices that can perform the attack once plugged in, but that means a potential attacker needs to plug something into your PC to hack it.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. The Attacks Only Work on Specific Devices
@@ -89,27 +102,20 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there's an extremely low chance that these attacks will personally target you.
 
  However, if you're still not satisfied, there are some ways to protect yourself from fingerprint scanner hacks:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Do Not Leave Devices Unattended and Unprotected
 
  Because a hacker will need to interact with your device physically, you should ensure it doesn't fall into the wrong hands. For computers, you can [take steps to stop it from being stolen](https://www.makeuseof.com/tag/stop-entire-desktop-pc-home-office-stolen/). If you're using a laptop, never leave it alone in a public space, and use an [anti-theft laptop bag](https://www.makeuseof.com/tag/anti-theft-laptop-bags/) to stop people from tearing your bag open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use a Different Login Method
 
@@ -119,29 +125,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  So, how can people hack past a Windows Hello fingerprint scan, and should you worry about it?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>[New] Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-a-song-of-ice-and-fire-top-sites-to-snatch-game-of-thrones-ringtones-for-2024/"><u>[Updated] A Song of Ice and Fire Top Sites to Snatch Game of Thrones Ringtones for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-establishing-value-driven-partnerships-with-brand-sponsors-in-youtubesphere/"><u>[Updated] Establishing Value-Driven Partnerships with Brand Sponsors in Youtubesphere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-evaluating-toolwiz-in-a-world-of-mobile-photography-apps-for-2024/"><u>[Updated] Evaluating Toolwiz in a World of Mobile Photography Apps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-n-series-usefulness-and-viability/"><u>Decoding Windows N Series: Usefulness and Viability</u></a></li>
-<li><a href="https://win11.techidaily.com/driving-earnings-with-windows-11-a-microsoft-perspective/"><u>Driving Earnings with Windows 11: A Microsoft Perspective</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-chrome-glitches-a-windows-solution/"><u>Eradicate Chrome Glitches: A Windows Solution</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-loophole-ideas-for-7-hilarious-youtube-showcases-for-2024/"><u>Laugh Loophole Ideas for 7 Hilarious YouTube Showcases for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-ping-for-peak-performance-on-your-windows-devices/"><u>Leveraging Ping for Peak Performance on Your Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-to-a-new-beginning-windows-in-three-stages/"><u>Pathways to a New Beginning: Windows in Three Stages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-display-of-windows-amdnvidia-boost/"><u>Prevent Display of Windows' AMD/Nvidia Boost</u></a></li>
-<li><a href="https://win11.techidaily.com/push-the-envelope-with-these-8-customizations-by-winbubble/"><u>Push The Envelope with These 8 Customizations by WinBubble</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-tutorial-converting-android-pdfs-into-microsoft-word-format-for-efficient-editing-updated-for-2020/"><u>Step-by-Step Tutorial: Converting Android PDFs Into Microsoft Word Format for Efficient Editing (Updated for 2020)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-non-advanced-path-to-disk-replication/"><u>The Non-Advanced Path to Disk Replication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-untouched-understandings-in-ml-mastery/"><u>Unveiling Untouched Understandings in ML Mastery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-now-get-the-newest-samsung-nvme-850-evo-controller-drivers-for-optimal-performance/"><u>Update Now: Get the Newest Samsung Nvme 850 EVO Controller Drivers for Optimal Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-f25-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo F25 Pro 5G Phone Network-Ready</u></a></li>
-<li><a href="https://win11.techidaily.com/your-lost-wingman-copilot-in-windows-11-what-now/"><u>Your Lost Wingman (Copilot) in Windows 11, What Now?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +132,27 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-expedite-your-videos-on-tiktok-secrets-revealed/"><u>[Updated] 2024 Approved Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unleash-potential-a-step-by-step-solo-podcast-creation/"><u>[Updated] In 2024, Unleash Potential A Step-By-Step Solo Podcast Creation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-fixed-shorts-are-now-easily-accessible/"><u>2024 Approved YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-grouped-taskbar-symbols-on-windows-11/"><u>Clearing Grouped Taskbar Symbols on Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhance-your-fb-with-iphonesandroids-favorite-tunes/"><u>Enhance Your FB with iPhones/Androids' Favorite Tunes</u></a></li>
+<li><a href="https://win11.techidaily.com/guides-to-overcoming-geforce-nows-xc0f1103f-problem-in-win11/"><u>Guides to Overcoming GeForce Now’s Xc0f1103f Problem in Win11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-setup-acquiring-adobe-reader-via-ms-store/"><u>Instant Setup: Acquiring Adobe Reader via MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-it-neat-how-to-make-windows-recycle-bin-self-cleanse/"><u>Keep It Neat: How to Make Windows Recycle Bin Self-Cleanse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-17-meilleurs-outils-de-retouche-photographie-sans-frais-top-free-editing-software/"><u>Les 17 Meilleurs Outils De Retouche Photographie Sans Frais : Top Free Editing Software!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-key-combinations-for-effortless-recalibration/"><u>Mastering Windows: Key Combinations for Effortless Recalibration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288564089-mp4mov/"><u>MP4ファイルから高品質MOVへの完全な変換ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-notes-made-easy-winning-sticky-pad-solutions-for-pc/"><u>Screen Notes Made Easy: Winning Sticky Pad Solutions for PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-x3daudiodll-file-absentnot-detected-issues/"><u>Solutions for Resolving 'X3DAudio.dll' File Absent/Not Detected Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategies-for-safe-and-significant-view-increase-for-2024/"><u>Strategies for Safe and Significant View Increase for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-blue-screen-errors-with-vmware-on-win11/"><u>Strategies to Address Blue Screen Errors with VMware on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-11-making-ai-images-with-paint-tool-sai/"><u>Transform Windows 11: Making AI Images with Paint Tool SAI</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-taskbar-while-running-full-screen-edges/"><u>Unveiling Hidden Taskbar While Running Full Screen Edges</u></a></li>
+</ul></div>
+

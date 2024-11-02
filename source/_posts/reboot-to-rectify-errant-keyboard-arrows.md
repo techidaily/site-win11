@@ -1,7 +1,7 @@
 ---
 title: Reboot to Rectify Errant Keyboard Arrows
-date: 2024-09-11T09:33:58.648Z
-updated: 2024-09-12T09:33:58.648Z
+date: 2024-10-31T00:36:17.141Z
+updated: 2024-11-01T20:17:25.971Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  Restarting your computer is the first and simplest method to try when your arrow keys are not working. This can often resolve minor software glitches that might be causing the issue.
@@ -51,10 +44,10 @@ msdt.exe -id DeviceDiagnostic
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you complete the above steps, restart your computer and check if the arrow keys are now working.
@@ -68,20 +61,33 @@ msdt.exe -id DeviceDiagnostic
 3. Scroll down to the**Keyboard** section and click**Run** .  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to complete the process and then check if it solves the issue. If not, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Try Using a Different Keyboard
 
  This problem can also appear if you're using a faulty keyboard. So, if the arrow keys still don’t work after applying the methods above, try using a different keyboard. You can purchase it from an electronics store or borrow one from a friend to test it out.
 
  Connect the new keyboard to your computer and check to see if the arrow keys are now working. If yes, it means that your original keyboard was damaged and needs to be replaced.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update the Keyboard Driver
 
@@ -94,20 +100,13 @@ msdt.exe -id DeviceDiagnostic
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 5. Choose**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process is complete, then restart your computer. After the restart, check if the arrow keys are now working. If not, reinstall the keyboard driver and see if it works.
@@ -118,13 +117,6 @@ To reinstall the keyboard driver, follow these steps:
 2. When a popup menu appears, click**Uninstall** to confirm.
 
  After you uninstall it, restart your computer and the driver will be reinstalled automatically. Once your computer restarts, check if the arrow keys are now working.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Arrows on the Keyboard Are Now Working
 
@@ -143,5 +135,26 @@ To reinstall the keyboard driver, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-building-an-mc-village-housing-essentials/"><u>[New] 2024 Approved Building an MC Village Housing Essentials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-cease-automatic-footage-collection-qt/"><u>[New] Cease Automatic Footage Collection QT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-keyboard-shortcut-compendium-for-mac-screening/"><u>[Updated] 2024 Approved The Ultimate Keyboard Shortcut Compendium for Mac Screening</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-guiding-principles-for-integrating-videos-in-education-for-2024/"><u>[Updated] Guiding Principles for Integrating Videos in Education for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-magicard-rio-professional-driving-simulator-optimized-for-windows-10-81-and-7/"><u>Download the Latest Magicard Rio Professional Driving Simulator - Optimized for Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-installation-of-legacy-software-on-modern-windows/"><u>Enabling Installation of Legacy Software on Modern Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-conversion-of-mov-files-to-asf-format-easy-and-quick-at-movavi/"><u>Free Conversion of MOV Files to ASF Format - Easy and Quick at Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording-for-2024/"><u>From Script to Airwaves Step-by-Step Guide for iOS Audio Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-override-windows-automatic-regional-adjustment/"><u>How to Override Windows' Automatic Regional Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11s-default-usb-suspend/"><u>How to Sidestep Windows 11'S Default USB Suspend</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>In 2024, A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-obs-versus-streamlabs-the-live-stream-software-duel/"><u>In 2024, OBS Versus Streamlabs – The Live Stream Software Duel</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wins-alerts-in-windows-11/"><u>Mastering Wins Alerts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/peak-your-gpus-performance-the-leading-stress-test-software-ranked/"><u>Peak Your GPU's Performance: The Leading Stress Test Software Ranked</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/schritt-fur-schritt-anleitung-sicherung-ihrer-gerate-daten-auf-einer-externen-speicherkarte/"><u>Schritt-Für-Schritt-Anleitung: Sicherung Ihrer Geräte-Daten Auf Einer Externen Speicherkarte</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unspecified-obs-studio-error-on-new-windows/"><u>Solving Unspecified OBS Studio Error on New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-approach-to-heic-to-jpeg-image-change-in-w11/"><u>Systematic Approach to Heic to JPEG Image Change in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/three-techniques-for-removing-microsoft-from-win11/"><u>Three Techniques for Removing Microsoft From Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-error-quick-fix-for-0x80072af9/"><u>Unlocking Windows Error: Quick Fix for 0X80072AF9</u></a></li>
+</ul></div>
 

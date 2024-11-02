@@ -1,7 +1,7 @@
 ---
 title: "Sidestep Script Snags in Windows: Immediate Remedies Available"
-date: 2024-09-11T09:34:24.725Z
-updated: 2024-09-12T09:34:24.725Z
+date: 2024-10-30T02:38:17.069Z
+updated: 2024-11-01T23:28:58.078Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 ![control panelinternet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panelinternet-options.jpg)
 4. Click on**Internet Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the Internet Properties dialog, open the**Advanced** tab.
 6. Scroll down to the**Browsing** section under**Settings** .  
 ![Internet-properties-disable-script-debugging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/interenet-properties-disable-script-debugging.jpg)
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
  However, if the issue persists, clear your browser cache to delete the old cache that may be triggering the error.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete Browser Cache
@@ -68,16 +61,16 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 
  In case the error occurs when using an app, try to[perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update the Problematic App
 
 ![microsoft edge update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcirosoft-edge-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Additionally, check the affected browser or the app for pending updates. Newer updates bring bug fixes, security updates, and performance improvements.
 
@@ -85,28 +78,15 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 * To update Microsoft Edge, click on the**three-dots menu** , select**Help and feedback,** and click on**About Microsoft Edge.**
 * For Firefox, click the**Menu** icon in the top left corner, select**Help,** and click on**About Firefox.**
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Third-Party Antivirus Software and Extensions
 
 ![mcafee-webadvisor-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-webadvisor-edge.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Remove any third-party security extension or antivirus software on your computer to see if that helps resolve the error. For example, a McAfee browser extension seems to trigger this error on the Chrome browser.
@@ -128,15 +108,16 @@ To remove the Chrome extension:
 ![mcafee my protection real time scanning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-my-protection-real-time-scanning.jpg)
 4. Click the**Turn off** button for**Real-time scanning.**  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![mcafee real time scanning off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-real-time-scanning-off.jpg)
 5. In the**Turn off** dialog, click the drop-down for**When you want to resume Real-Time Scanning?** By default, it is set to 15 minutes, which should be sufficient to determine if the antivirus is creating conflict with your browser.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Turn off** to disable the antivirus.
 
  Close McAfee and relaunch the browser. Try to browse the web app or page and check if the error is resolved. The antivirus should resume real-time scanning once the time lapses.
@@ -160,5 +141,22 @@ To remove the Chrome extension:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-utilizing-textual-elements-a-guide-to-augmenting-video-content-on-youtube/"><u>[New] Utilizing Textual Elements A Guide to Augmenting Video Content on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-favorites-compiled-top-6-fb-lite-downloads-for-2024/"><u>[Updated] Favorites Compiled #Top 6 FB Lite Downloads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-record-audio-on-windows-11/"><u>[Updated] In 2024, How To Record Audio on Windows 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-onedrives-incorrect-reparse-point-tag-on-pc/"><u>Combatting OneDrive’s Incorrect Reparse Point Tag on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/experience-the-future-first-steps-with-windows-11-widgets/"><u>Experience the Future: First Steps with Window's 11 Widgets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-high-performance-tools-youtube-meets-twitter/"><u>In 2024, High-Performance Tools YouTube Meets Twitter</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus 12 Phone Without Password?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-how-video-testimonials-shape-perception-and-trust/"><u>In 2024, How Video Testimonials Shape Perception and Trust</u></a></li>
+<li><a href="https://win11.techidaily.com/manage-windows-11-disk-space-with-compressed-ntfs-files/"><u>Manage Windows 11 Disk Space with Compressed NTFS Files</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-onedrive-invalid-reparse-buffer-tag-mistakes/"><u>Overcoming OneDrive Invalid Reparse Buffer Tag Mistakes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proart-pa-329q-examining-a-premium-4k-monitor-for-professionals-for-2024/"><u>ProArt PA 329Q Examining a Premium 4K Monitor for Professionals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-non-functional-radeon-tools-on-windows-os/"><u>Reviving Non-Functional Radeon Tools on Windows OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-drawing-apps-for-ipados-for-2024/"><u>Top 8 Drawing Apps for iPadOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-security-7-best-cryptography-tools-for-windows-users-149-chars/"><u>Unlock Security: 7 Best Cryptography Tools for Windows Users (149 Chars)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c65-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C65 Phone Network-Ready</u></a></li>
+</ul></div>
 

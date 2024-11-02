@@ -1,7 +1,7 @@
 ---
 title: How to Stop Screen Flashing on Windows 11 PCs
-date: 2024-10-22T05:05:30.823Z
-updated: 2024-10-26T21:52:51.046Z
+date: 2024-10-26T00:35:23.024Z
+updated: 2024-11-01T21:18:33.436Z
 tags:
   - windows10
   - windows11
@@ -55,35 +55,14 @@ To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Remove the Driver
 
@@ -108,6 +87,13 @@ Next, use Device Manager to uninstall the display driver:
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -121,10 +107,16 @@ Next, use Device Manager to uninstall the display driver:
  Download the driver, install it, and see if the screen flashing problem has ceased.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Roll Back to an Older Driver
@@ -143,6 +135,13 @@ Next, use Device Manager to uninstall the display driver:
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Problematic Applications
 
  Some apps are incompatible with Windows 10/11 and can cause screen flickering. Think about whether you installed any new software before the screen flashing began or if an app recently updated. In the past, three problematic apps have been Norton Antivirus, iCloud, and IDT Audio.
@@ -158,6 +157,13 @@ If this doesn't work, uninstall the program. To do so:
 3. Click**Sort by** and choose**Installation date** .
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create a New Windows User Profile
 
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
@@ -171,10 +177,16 @@ To create a new account:
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Screen Flickers... No More
@@ -198,18 +210,21 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[New] Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-exhilarating-circuit-trials-selecting-the-top-5-titles-for-2024/"><u>[Updated] Exhilarating Circuit Trials Selecting the Top 5 Titles for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-use-cartoon-face-lens-in-snapchat/"><u>[Updated] How to Use Cartoon Face Lens in Snapchat?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio-for-2024/"><u>[Updated] Revolutionize Your Editing Approach with These Top Methods in OBS Studio for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-tweaking-windows-10s-taskbar-color-for-a-unique-user-interface-experience/"><u>DIY Guide: Tweaking Windows 10'S Taskbar Color for a Unique User Interface Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-onedrive-sign-in-error-0x8004dec5-on-windows-11/"><u>How to Fix the OneDrive Sign In Error 0X8004dec5 on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-your-wi-fi-speed-free-gigabyte-ethernet-driver-for-optimal-performance/"><u>Improve Your Wi-Fi Speed: Free Gigabyte Ethernet Driver for Optimal Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-tasks-5-top-tier-windows-car-drivers/"><u>Optimize Tasks: 5 Top-Tier Windows Car Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-daily-tasks-with-top-windows-to-do-apps/"><u>Optimizing Daily Tasks with Top Windows To-Do Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/smarter-network-management-timely-ping-command-deployment/"><u>Smarter Network Management: Timely Ping Command Deployment</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/strategies-for-harvesting-fb-status-video-archives/"><u>Strategies for Harvesting FB Status Video Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-discords-fatal-js-error-in-windows-11-systems/"><u>Troubleshooting Discord's Fatal JS Error in Windows 11 Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-discover-the-best-public-domain-images-top-10-sites/"><u>Updated In 2024, Discover the Best Public Domain Images Top 10 Sites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-newbies-roadmap-building-a-channel-making-cash/"><u>[New] In 2024, The Ultimate Newbie's Roadmap Building a Channel, Making Cash</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-iphone-android-which-has-the-better-youtube-experience/"><u>[New] IPhone, Android Which Has the Better YouTube Experience?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shutter-speed-mastery-for-chromebook-users-method-4/"><u>[Updated] Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-skys-best-the-ultimate-hd-collection-websites/"><u>2024 Approved Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-error-xc0000142-in-winoses/"><u>Addressing Error XC0000142 in WinOSes</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-insufficient-storage-warning-in-vmware-hosts/"><u>Dealing with Insufficient Storage Warning in VMware Hosts</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-stream-roku-content-without-owning-an-official-roku-player/"><u>Guide: Stream Roku Content Without Owning an Official Roku Player</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-k70-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi K70 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-undo-history-erasing-previous-conversations-with-gpt/"><u>How to Undo History: Erasing Previous Conversations with GPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-photo-display-solutions/"><u>Innovative Photo Display Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-11-shine-a-holiday-system-guide/"><u>Make Windows 11 Shine: A Holiday System Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473221058-solving-the-mystery-of-non-switching-airpods-discover-our-six-solutions/"><u>Solving the Mystery of Non-Switching AirPods - Discover Our Six Solutions!</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-charging-your-app-downloads-from-microsoft/"><u>Turbo-Charging Your App Downloads From Microsoft</u></a></li>
 </ul></div>
 

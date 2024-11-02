@@ -1,7 +1,7 @@
 ---
 title: Mastering Cross-Border Mouse Navigation & Glance with PowerToys
-date: 2024-10-22T19:23:47.806Z
-updated: 2024-10-27T06:34:26.389Z
+date: 2024-10-30T17:43:48.970Z
+updated: 2024-11-02T00:56:41.964Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  The Mouse Without Borders feature makes it possible to share the mouse among multiple devices. Both computers will need the latest version of PowerToys installed on them. Earlier, Mouse Without Borders was a standalone app and competed with the likes of Share Mouse and other [mouse and keyboard sharing apps](https://www.makeuseof.com/best-apps-sharing-mouse-and-keyboard-across-computers/). But now it is a part of PowerToys, so you don’t need to install it separately.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable and Use the "Mouse Without Borders" Feature
 
  After installing [PowerToys from GitHub](https://redirect.viglink.com/?format=go&jsonp=vglnk%5F168821531584511&key=eac202ea7a96cf485281d6c4ffa2069e&libId=ljjzshre0103es17000ULlmtlntd&loc=https%3A%2F%2Fwww.makeuseof.com%2Fregistry-preview-feature-powertoys%2F&ccpaConsent=1---&v=1&opt=true&optExText=false&out=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FPowerToys&ref=https%3A%2F%2Fwww.makeuseof.com%2Fauthor%2Fabhishekkumar-mishra%2F&title=How%20to%20Use%20the%20Registry%20Preview%20Feature%20in%20PowerToys&txt=PowerToys%20from%20GitHub) or Microsoft Store on both machines, connect them to the same Wi-Fi network. Repeat the following steps:
@@ -55,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ![Mouse Without Borders in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-without-borders-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Mouse Without Borders also permits the two computers to share their clipboard. If you copy a file that is less than 100 MB in size, it will also be copied to the clipboard.
@@ -70,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ![Peek Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use the "Peek" Feature
@@ -92,10 +85,17 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 7. Click on the **Open with** button to open the file in their respective application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Share Mouse and Preview Files With PowerToys
@@ -106,29 +106,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-video-signals-with-youtube-cards/"><u>[New] In 2024, Enhancing Video Signals with YouTube Cards</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>[New] In 2024, Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elite-screen-recording-apps-of-2023-expert-picks/"><u>[Updated] 2024 Approved Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-8-ultimate-online-photo-mosaic-compiler/"><u>[Updated] 8 Ultimate Online Photo Mosaic Compiler</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-code-740-elevation-woes-on-windows-devices/"><u>Eliminating Error Code 740: Elevation Woes on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-software-essential-tools-for-mac-to-windows-changeover/"><u>Enabling Software: Essential Tools for MAC to WINDOWS Changeover</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-thumbnails-on-the-windows-bar/"><u>Improving Thumbnails on the Windows Bar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-note-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi Note 12 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-dism-fixes-code-0x800f082f/"><u>Mastering Windows' DISM Fixes: Code 0X800F082F</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-here-are-top-5-free-watermark-software-to-help-you-add-watermark-to-your-files-try-any-of-these-easy-to-use-software-to-add-watermark-to-video-files-for/"><u>New Here Are Top 5 Free Watermark Software to Help You Add Watermark to Your Files. Try Any of These Easy to Use Software to Add Watermark to Video Files for Free</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0x800f0831-a-guide-to-windows-fixes/"><u>Overcoming 0X800F0831: A Guide to Windows Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-ownership-errors-and-restrictions-on-windows-11-systems/"><u>Overcoming Ownership Errors and Restrictions on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-user-profile-errors-windows-10-and-11-tips/"><u>Overcoming User Profile Errors: Windows 10 & 11 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/rethink-revival-why-not-a-non-windows-pc/"><u>Rethink Revival: Why Not a Non-Windows PC?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-preventing-crashes-of-wallpaper-engine-in-modern-windows-os/"><u>Solution Steps: Preventing Crashes of Wallpaper Engine in Modern Windows OS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/spotlight-on-benq-sw320s-eye-catching-4k-display/"><u>Spotlight on BenQ SW320’s Eye-Catching 4K Display</u></a></li>
-<li><a href="https://win11.techidaily.com/why-arent-window-11-thumbnail-images-displayed-solutions-available/"><u>Why Aren't Window 11 Thumbnail Images Displayed? Solutions Available!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +113,23 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-breaking-through-on-tiktok-personal-branding-and-differentiation/"><u>[New] In 2024, Breaking Through on TikTok Personal Branding and Differentiation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-digital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[Updated] 2024 Approved Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ius7iuobmeobkoobiuaxguocgtog6auy5zob6loq44gq5pif5pio5yaz55yf5lplusu57mv44k144o844ot44k5ig/"><u>今すぐお求め: 高品質な星明写真修繕サービス</u></a></li>
+<li><a href="https://win11.techidaily.com/covert-compression-techniques-for-windows-1011-users/"><u>Covert Compression Techniques for Windows 10/11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-organization-synergizing-to-do-and-ifttt/"><u>Enhance Organization: Synergizing To-Do & IFTTT</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-device-stall-code-0x887a0006-guide/"><u>Fixing Device Stall: Code 0X887A0006 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-fixes-for-windows-11-taskbar-loss/"><u>Guiding Fixes for Windows 11 Taskbar Loss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 12</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>In 2024, The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/lecteur-non-reconnu-comme-lieu-de-sauvegarde-par-windows-problemes-et-solutions/"><u>Lecteur Non Reconnu Comme Lieu De Sauvegarde Par Windows - Problèmes Et Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/paint-your-thoughts-desktop-design-mastery-in-windows/"><u>Paint Your Thoughts: Desktop Design Mastery in Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/say-no-to-youtube-shorts-forever-your-guide-for-2024/"><u>Say No to YouTube Shorts Forever Your Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-leaders-small-computers-running-windows/"><u>The Leaders: Small Computers Running Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-d3d11-gpu-error-on-windows-11-and-10/"><u>Troubleshooting D3D11 GPU Error on Windows 11 & 10</u></a></li>
+</ul></div>
+

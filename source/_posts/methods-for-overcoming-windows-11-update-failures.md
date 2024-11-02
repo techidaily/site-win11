@@ -1,7 +1,7 @@
 ---
 title: Methods for Overcoming Windows 11 Update Failures
-date: 2024-09-11T09:36:18.575Z
-updated: 2024-09-12T09:36:18.575Z
+date: 2024-10-30T00:26:00.184Z
+updated: 2024-11-01T18:53:52.679Z
 tags:
   - windows10
   - windows11
@@ -48,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 3. Click the**Run** button next to**Windows Update.**  
 ![Run Troubleshooter in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The troubleshooter window will appear, and start scanning your computer for available issues. After the scan is complete, the troubleshooter will show the changes made to your computer or ask your permission to apply the fix. Grant it, and check if it resolves your issue.
 
 ## 3\. Clean Up Your Disk Drive
@@ -79,18 +66,18 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 ![OK button in the Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ok-button.jpg)
 5. Click the**Delete Files** option in the prompt that crops up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. You have gained some space in the OS drive. If you want to create more space, you can remove unnecessary folders from the OS drive.
 
  For instance, you can[delete old Windows update files](https://www.makeuseof.com/tag/delete-old-windows-update-files/) like the Windows.old folder, which contains data of the OS version previously installed on your computer. This folder is automatically created whenever you upgrade from Windows 10 to 11.
 
  There's no harm in deleting this folder, but make sure you only do it when you have no plans to return to Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Update Components
 
@@ -115,10 +102,10 @@ net start cryptsvc`
  After that, restart your computer and check whether you can update Windows 11 again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the Status of Important Services
@@ -134,22 +121,15 @@ net start cryptsvc`
 4. Click the**Start** button under the**Service status** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes.
 
 Next, repeat the above steps for other mentioned services as well.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Manually Download and Install Updates
 
@@ -162,14 +142,14 @@ Next, repeat the above steps for other mentioned services as well.
 ![Different download option in Update catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/different-download-option.jpg)
 5. A new window will appear, right-click on the download link, choose the**Save link as,** and select the folder where you want to download the update package.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, open the location where you have downloaded the update package and double-click on it to begin the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update Windows 11 Again With Ease
 
@@ -190,5 +170,24 @@ Next, repeat the above steps for other mentioned services as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-your-clips-with-these-premium-free-audiosite-lists/"><u>[New] 2024 Approved Master Your Clips with These Premium, Free Audiosite Lists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>[New] In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-ingenuity-how-to-develop-captivating-facebook-slideshows/"><u>[New] Social Media Ingenuity How to Develop Captivating Facebook SlideShows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>[Updated] 2024 Approved Bringing Back Windows Photo Viewer A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-maximum-payload-heavy-lift-drones/"><u>[Updated] Mastering Maximum Payload Heavy Lift Drones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>2024 Approved Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-playstation-1-triumph-winning-tips-for-gaming-pcs-duckstations-approach/"><u>Decoding PlayStation 1 Triumph: Winning Tips for Gaming PCs - Duckstation’s Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-a-guide-to-widget-additions-in-windows-11/"><u>Elevate Your Workspace: A Guide to Widget Additions in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-3gpp-to-mp4-converter-by-movavi-quick-and-easy-file-transformation/"><u>Free Online 3GPP to MP4 Converter by Movavi: Quick and Easy File Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/gaining-superior-access-in-windows-settings-room/"><u>Gaining Superior Access in Windows Settings Room</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-live-streams-merge-obs-zoom-for-2024/"><u>Mastering the Art of Live Streams Merge OBS, Zoom for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-telecommunication-win-1011-telnet-methods/"><u>Mastery in Telecommunication: Win 10/11 Telnet Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-best-windows-10-deals-and-product-keys/"><u>Navigating Best Windows 10 Deals & Product Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-wows-critical-failure-code-132/"><u>Quick Fixes for WoW’s Critical Failure Code #132</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-functional-bluetooth-mouse-on-windows-pcs/"><u>Tackling Non-Functional Bluetooth Mouse on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-against-constant-c-drive-consumption/"><u>Winning Strategies Against Constant C: Drive Consumption</u></a></li>
+</ul></div>
 

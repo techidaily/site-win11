@@ -1,7 +1,7 @@
 ---
 title: "Remedy: Excel File Problems Opening in Notepad"
-date: 2024-10-25T08:53:58.900Z
-updated: 2024-10-27T10:24:39.720Z
+date: 2024-10-31T19:04:39.382Z
+updated: 2024-11-02T02:24:33.296Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Default Settings for File Types
 
  When you double-click on a file in Windows, the system knows which application to use to open it. By default, Excel files are configured to be opened with Excel. In some cases where these configurations have been changed, these files might open in Notepad instead.
@@ -54,13 +61,20 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 5. Finally, click on the **OK** button and close the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
 
@@ -83,28 +97,15 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
 4. Press **Enter** to save the changes.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use an Excel Repair Tool (if Applicable)
@@ -121,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open and Use Excel Files Properly on Windows
 
  It is not uncommon for users to encounter issues while trying to use Excel but fortunately, most of these problems are easy to fix. Hopefully, the solutions we have listed above will help you access the targeted files with Excel in no time.
@@ -136,24 +130,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-integrating-movie-capture-across-all-operating-systems/"><u>[New] 2024 Approved Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>2024 Approved Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1728464670459-onedrive/"><u>隨手移動文件至OneDrive: 使用兩種不同方法保留歷史記錄</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-problematic-error-0x80300024-in-winxp/"><u>Disabling Problematic Error: 0X80300024 in WinXP</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-is-donating-5-million-to-the-whos-covid-19-fundraising-campaign/"><u>Facebook Is Donating $5 Million to the WHO's COVID-19 Fundraising Campaign</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-and-easy-dns-cleanup-on-windows-11/"><u>Fast and Easy DNS Cleanup on Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-what-makes-a-viral-video-the-tiktok-twitter-link/"><u>In 2024, What Makes a Viral Video The TikTok-Twitter Link</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/brief-subscribe-beneficial-for-content-consumption/"><u>Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
-<li><a href="https://win11.techidaily.com/pagefilesys-in-windows-functions-and-frequent-questions-answered/"><u>Pagefile.sys in Windows: Functions & Frequent Questions Answered</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-classics-polishing-your-archive-with-windows-madvr/"><u>Reviving Classics: Polishing Your Archive With Windows MadVR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sony-wh-1000xm34-headphones-troubleshooting-steps-when-mic-fails-to-work-with-computer/"><u>Sony WH-1000XM3/4 Headphones: Troubleshooting Steps When Mic Fails to Work with Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-require-promotion-windows-error-how-to-guide/"><u>Unraveling 'Require Promotion' Windows Error: How-To Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-enhancements-a-leap-forward-in-the-22h2-moment/"><u>Windows 11 Enhancements: A Leap Forward in the 22H2 Moment</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +137,20 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-raw-footage-crafting-engaging-videos-on-windows-11/"><u>[New] From Raw Footage Crafting Engaging Videos on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-perfecting-proportions-understanding-youtube-video-sizes/"><u>[New] In 2024, Perfecting Proportions Understanding YouTube Video Sizes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/7-vers-un-nouveau-disque-dur-sans-reformatage/"><u>7 Vers Un Nouveau Disque Dur Sans Reformatage</u></a></li>
+<li><a href="https://win11.techidaily.com/automating-zipunzip-tasks-in-windows-using-scripting-tools/"><u>Automating Zip/Unzip Tasks in Windows Using Scripting Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unchecked-cpu-usage-by-wmi-worker/"><u>Fixing Unchecked Cpu Usage by WMI Worker</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-open-battlenet-expert-fixes-and-tips-updated/"><u>How to Successfully Open Battle.net: Expert Fixes and Tips - Updated</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-guide-by-tom-understanding-cutting-edge-technology/"><u>In-Depth Guide by Tom: Understanding Cutting-Edge Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/join-the-metaverse-meme-revolution-quick-tips-for-original-creators/"><u>Join the Metaverse Meme Revolution - Quick Tips for Original Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ical-integration-on-windows-11-systems/"><u>Mastering iCal Integration on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-look-samsungs-k850-ultrablade-review-2023-for-2024/"><u>New Look Samsung's K850 UltraBlade Review 2023 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-keys-to-unlocking-the-full-potential-of-windows-software/"><u>Seven Keys to Unlocking the Full Potential of Windows Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/vp9-vs-av1-unveiling-which-codec-triumphs-for-2024/"><u>VP9 vs AV1 Unveiling Which Codec Triumphs for 2024</u></a></li>
+</ul></div>
+

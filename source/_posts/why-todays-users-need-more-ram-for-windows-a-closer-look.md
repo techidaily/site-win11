@@ -1,7 +1,7 @@
 ---
 title: "Why Today's Users Need More RAM for Windows: A Closer Look"
-date: 2024-10-25T17:38:17.421Z
-updated: 2024-10-27T00:45:11.501Z
+date: 2024-10-29T16:32:11.643Z
+updated: 2024-11-02T00:40:26.492Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft is pushing for 16GB of RAM as the minimum for new devices, possibly to support AI-based processes.
@@ -43,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
@@ -66,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -82,9 +61,29 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
@@ -93,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -116,27 +122,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-navigating-online-marketplaces-for-yt-channel-sales/"><u>[New] 2024 Approved Navigating Online Marketplaces for YT Channel Sales</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-video-creation-top-8-linux-apps-for-2024/"><u>[New] Ultimate Video Creation Top 8 Linux Apps for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-guide-to-valheim-flora/"><u>[Updated] 2024 Approved Comprehensive Guide to Valheim Flora</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-gaming-install-funimate-via-apk-method/"><u>2024 Approved Revolutionize Gaming - Install Funimate via APK Method</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-the-power-of-beginnings-with-imovies-creative-tools/"><u>2024 Approved Unlock the Power of Beginnings with iMovie's Creative Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apparition-editing-in-slow-motion/"><u>Apparition Editing in Slow-Motion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-5-digital-recorder-selects-for-2024/"><u>Best 5 Digital Recorder Selects for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-frozen-lock-screen-timed-out-error/"><u>Diagnosing Frozen Lock Screen Timed Out Error</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6s</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-multilingual-translation-with-windows-shortcut-hotkeys/"><u>Efficient Multilingual Translation with Windows Shortcut Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/get-started-fast-one-click-android-apk-installation-guide-on-w11/"><u>Get Started Fast: One Click Android APK Installation Guide on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/gratis-gems-a-compreeled-list-for-superior-windows-11-use/"><u>Gratis Gems: A Compreeled List for Superior Windows 11 Use</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-chrome-opening-new-tabs-by-itself-on-windows/"><u>How to Fix Chrome Opening New Tabs by Itself on Windows</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/optimizing-service-configuration-with-iservicesetup/"><u>Optimizing Service Configuration with IServiceSetup</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-for-crystal-clear-wallpapers/"><u>Optimizing Windows for Crystal Clear Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-profile-corruption-in-modern-windows-versions/"><u>Overcoming Profile Corruption in Modern Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-file-download-problems-on-windows-11-and-11-pcs-2/"><u>Solving File Download Problems on Windows 11 & 11 PCs (2)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +129,22 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-versatile-tools-for-amateurs-and-professionals-in-ar/"><u>[New] Free, Versatile Tools for Amateurs & Professionals in AR</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-and-configuring-windows-data-sources-by-odbc/"><u>Accessing and Configuring Windows Data Sources by ODBC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/can-microsofts-transition-from-x86-to-arm-architecture-enhance-xbox-gaming-experience/"><u>Can Microsoft's Transition From X86 to ARM Architecture Enhance Xbox Gaming Experience?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/elevating-state-compute-capacity-china-targets-a-30-increase-to-achieve-300-exaflops-by-2025/"><u>Elevating State Compute Capacity: China Targets a 30% Increase to Achieve 300 Exaflops by 2025</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-repairing-windows-based-pen-tablets/"><u>Guide: Repairing Windows-Based Pen Tablets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-7-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 7 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-11-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 11 & 11</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-9-best-french-video-translators-online-and-download-options/"><u>In 2024, 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-in-the-cloud-making-money-on-youtube-without-relying-on-ads/"><u>Income in the Cloud Making Money on YouTube Without Relying on Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-taskbar-size-tweaks/"><u>Mastering Windows 11 Taskbar Size Tweaks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-problems-with-steam-update-failures-a-comprehensive-guide/"><u>Overcoming Problems with Steam Update Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-crowded-taskbar-image-space-in-windows-11/"><u>Resetting Crowded Taskbar Image Space in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-up-with-your-ps4-controller-unraveling-the-meanings-behind-its-blue-white-red-and-orange-blinks/"><u>What's Up with Your PS4 Controller? Unraveling the Meanings Behind Its Blue, White, Red, and Orange Blinks</u></a></li>
+</ul></div>
+

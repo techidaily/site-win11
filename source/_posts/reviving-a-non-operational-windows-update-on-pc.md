@@ -1,7 +1,7 @@
 ---
 title: Reviving a Non-Operational Windows Update on PC
-date: 2024-10-22T16:10:13.665Z
-updated: 2024-10-26T23:51:40.429Z
+date: 2024-10-27T18:19:23.466Z
+updated: 2024-11-01T19:37:43.730Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ To run the Windows Update troubleshooter:
 
  Wait for the troubleshooter to scan your computer and do its thing. If any issues are detected, it will try to fix them on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Scans
 
  Corrupt system files can also cause some Windows services or default apps to disappear from your computer. The System File Checker and Deployment Image Servicing Management are two command-line tools that can help you detect and restore any damaged system files on Windows. Here's how to run them:
@@ -60,10 +53,10 @@ To run the Windows Update troubleshooter:
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
@@ -79,7 +72,21 @@ To run the Windows Update troubleshooter:
 5. Click the**Scan now** button.  
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
@@ -99,10 +106,16 @@ To run the Windows Update troubleshooter:
 7. Right-click the**wuauserv** again and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select**Yes** to confirm.
@@ -200,13 +213,6 @@ To reset your Windows computer:
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
@@ -230,19 +236,14 @@ To reset your Windows computer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-amplifying-your-social-media-reach-with-zoom-plus-fb-live-for-2024/"><u>[New] Amplifying Your Social Media Reach with ZOOM + FB Live for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/scend-video-rankings-top-seo-gadgets-revealed/"><u>[New] Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cutting-edge-video-recording-for-windows-users/"><u>[New] In 2024, Cutting-Edge Video Recording for Windows Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/contrasting-future-and-past-gpt-4-versus-gpt-35/"><u>Contrasting Future & Past: GPT-4 Versus GPT-3.5</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-gaming-how-dxvk-elevates-playback-in-windows/"><u>Decoding Gaming: How DXVK Elevates Playback in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-when-your-paradox-launcher-is-malfunctioning/"><u>Effective Solutions When Your Paradox Launcher Is Malfunctioning</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-realme-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Realme with Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-retrace-mechanic-setup/"><u>In 2024, Retrace Mechanic Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-closed-nvidia-cp-window/"><u>Strategies for Addressing Closed NVidia CP Window</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-x7-ultra-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-voice-chats-in-valorant-windows/"><u>Troubleshooting Unresponsive Voice Chats in Valorant (Windows)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-the-power-of-revenue-streams-youtubers-adsense-manual-for-2024/"><u>Unlocking the Power of Revenue Streams YouTubers' AdSense Manual for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-top-windows-based-nintendo-switch-simulators/"><u>Winning Strategies: Top Windows-Based Nintendo Switch Simulators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streaming-quality-comparison-obs-or-fraps/"><u>[New] 2024 Approved Streaming Quality Comparison OBS or Fraps?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>[New] Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-taskbar-tweaks-in-windows-11/"><u>Expert Guide to Taskbar Tweaks in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11s-elusive-theme-options-through-registry/"><u>Mastering Windows 11'S Elusive Theme Options Through Registry</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211308983-9781922428714-russian-edition-legacy-of-sonship/"><u>Russian Edition - Legacy of Sonship | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-vms-from-windows-host-to-linux-guest-with-hyper-v/"><u>Setting Up VMs: From Windows Host to Linux Guest with Hyper-V</u></a></li>
+<li><a href="https://win11.techidaily.com/why-the-shift-from-windows-10-to-version-11-fails/"><u>Why the Shift From Windows 10 to Version 11 Fails</u></a></li>
 </ul></div>
 

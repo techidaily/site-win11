@@ -1,0 +1,156 @@
+---
+title: Essential Techniques to Modify Windows 11 Account Hierarchy
+date: 2024-10-28T20:25:05.690Z
+updated: 2024-11-01T23:33:05.375Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Essential Techniques to Modify Windows 11 Account Hierarchy
+excerpt: This Article Describes Essential Techniques to Modify Windows 11 Account Hierarchy
+keywords: Win11 Admin Rights,User Hierarchy Change,Windows Setup Editors,Profile Management Tools,System Configuration Editor,OS Admin Permissions,Account Level Adjustments
+thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg
+---
+
+## Essential Techniques to Modify Windows 11 Account Hierarchy
+
+ When you initially configure a Windows computer with a Microsoft account, you will be asked to create an administrator name. This is the profile that grants access to make administrative changes on the device.
+
+ But if you ever decide to alter this username, there are different options available for doing so. This tutorial will show you how to change the Microsoft account administrator name in Windows 11.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. How to Change the Administrator Name Through System Settings
+
+ The Settings app is a built-in application on Windows that allows you to customize and manage settings on your computer. To change the Microsoft account administrator name in Windows 11,[open the System Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and follow these steps:
+
+1. Go to the**Accounts** section.
+2. Move to the right pane and click**Your info** .
+3. Under**Related settings** , click**Manage my accounts** . This will take you to the "Manage accounts" page.  
+![Manage My Accounts in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-my-accounts-in-the-settings-app.jpg)
+4. Sign in with the Microsoft account you need to change the name of.
+5. After signing in, click**Your info** option from the top section.
+6. Under your Profile photo, you'll see your name. Click the**Edit name** option and enter your new name.  
+![Modify Microsoft Account Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/modify-microsoft-account-name.jpg)
+7. To ensure that you are a real person and not an automated program, type the characters in the Captcha field.
+8. Click the**Save** changes button, and you're all set.
+
+ Your Microsoft account administrator name has been successfully changed.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2\. How to Change the Administrator Name Through Control Panel
+
+ The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
+
+ To change the Microsoft account administrator name on your computer, follow these steps:
+
+1. Click on Start and search for Control Panel. Select the Control Panel option to open it.
+2. In the Control Panel window, scroll down and click**User Accounts** .
+3. On the right side of the page, click the**Change your account name** link.  
+![Change your account name in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-your-account-name-in-control-panel.jpg)
+4. Enter the new name and click**Change Name** .  
+![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
+
+## 3\. How to Change the Administrator Name Through Command Prompt
+
+ If you prefer using the Command Prompt instead of the Settings app or Control Panel, you can also change your Microsoft account administrator name through it. This is a command line interpreter tool that allows you to control your Windows computer system with instructions.
+
+ To change the Microsoft account administrator name through Command Prompt, follow these steps:
+
+1. [Run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+2. In the elevated command prompt, type the following command:  
+`wmic useraccount where fullname='userame' rename 'newname'`
+
+ In the above command, replace**username** with the current administrator name and**newname** with what you want to set as your new name. For example, if you want to change the administrator name from Paul to Michael, your command will look like this:
+
+ **wmic useraccount where fullname='Paul' rename 'Michael'**
+
+ Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. How to Change the Administrator Name Through Run Command
+
+ Another tool you can use to change the Microsoft account administrator name is the Run dialog command. Here's how to do it:
+
+1. Right-click on Start and select**Run** from the menu list.
+2. In the Run dialog box, type**netplwiz** and press Enter. This will open the User Accounts window.
+3. Select the Microsoft account you want to change and click**Properties** .  
+![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
+4. Under the**General** tab, enter the new name in the**Full Name** field.
+5. Click**Apply > OK** to save the changes.
+
+Your Microsoft account administrator name is now changed.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Make a Change to Your Windows Admin Name
+
+ Need to change the name of your Microsoft Account administrator? All you have to do is follow the instructions outlined in this article and your Microsoft account administrator name will be changed.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-can-adobe-shake-control-enhance-creative-process-in-photoshop/"><u>[New] Can Adobe Shake Control Enhance Creative Process in Photoshop?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-youtube-income-using-studio-anywhere-anyhow/"><u>[Updated] 2024 Approved Boosting YouTube Income Using Studio Anywhere, Anyhow</u></a></li>
+<li><a href="https://win11.techidaily.com/actions-for-correcting-microsoft-outlook-glitches-on-windows/"><u>Actions for Correcting Microsoft Outlook Glitches on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-pc-how-to-turn-on-hyper-v-in-win11/"><u>Boosting Your PC: How To Turn On Hyper-V in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-how-to-disable-the-pesky-epic-games-hub/"><u>Break Free: How to Disable the Pesky Epic Games Hub</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-applied-civilization-vi-compatibility-with-windows-11-operating-system/"><u>Fixes Applied: Civilization VI Compatibility with Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/initially-hesitant-now-impressed-the-top-3-apple-watch-series-10-innovations-that-secured-my-approval/"><u>Initially Hesitant, Now Impressed: The Top 3 Apple Watch Series 10 Innovations That Secured My Approval</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-optimizing-modern-warfare-playability-on-desktops/"><u>Resolving Performance Hiccups: Optimizing Modern Warfare Playability on Desktops</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-invisible-readers-pathway-how-to-engage-with-instagram-stories-unseen-for-2024/"><u>The Invisible Reader's Pathway How to Engage with Instagram Stories Unseen for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-14-free-video-editing-software-with-no-watermark/"><u>Updated 2024 Approved The Ultimate List 14 Free Video Editing Software with No Watermark</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1770713-9781782796060-what-wags-the-world/"><u>What Wags the World | Free Book</u></a></li>
+</ul></div>
+

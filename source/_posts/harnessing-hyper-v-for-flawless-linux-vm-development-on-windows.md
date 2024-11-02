@@ -1,7 +1,7 @@
 ---
 title: Harnessing Hyper-V for Flawless Linux VM Development on Windows
-date: 2024-10-25T21:54:29.210Z
-updated: 2024-10-27T08:47:53.959Z
+date: 2024-11-01T03:40:43.287Z
+updated: 2024-11-01T20:35:30.639Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
@@ -55,14 +48,14 @@ To enable Virtualization, do as follows:
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
 5. Click on the**OK** button to apply changes.
 
- Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
 
@@ -98,14 +91,21 @@ To create an Ubuntu virtual machine, do as follows:
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
 
@@ -118,14 +118,14 @@ To create an Ubuntu virtual machine, do as follows:
 7. The installer will prompt you to restart the system. Click on the**Restart Now** button.  
 ![Ubuntu Virtual Machine Running Using Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ubuntu-virtual-machine-running-using-hyper-v.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Few Things to Remember
 
@@ -136,10 +136,10 @@ To create an Ubuntu virtual machine, do as follows:
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
@@ -161,19 +161,19 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-your-phone-your-camera-tips-for-mobile-video-shooting/"><u>[Updated] 2024 Approved Your Phone, Your Camera Tips for Mobile Video Shooting</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-muting-problem-solutions-for-obs-sound-capture/"><u>2024 Approved Muting Problem Solutions for OBS Sound Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mpeg-gif-movavi/"><u>免費網路改變 MPEG成 GIF: Movavi 影片轉換器</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/calculated-viewing-time-for-a-standard-20mb-film-for-2024/"><u>Calculated Viewing Time for a Standard 20Mb Film for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-copy-features-in-windows-11-os/"><u>Enhancing Copy Features in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-the-requested-value-cannot-be-determined-error-on-windows/"><u>How to Fix the “The Requested Value Cannot Be Determined” Error on Windows</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-video-meme-with-4-best-meme-video-makers-for-2024/"><u>How to Make a Video Meme with 4 Best Meme Video Makers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-6s-plus-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 6s Plus Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-quick-language-translation-on-windows-1011-via-keyboard-shortcuts/"><u>Mastering Quick Language Translation on Windows 10/11 via Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-the-win11-registry-edition/"><u>Mastering System Recovery: The Win11 Registry Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-system-our-choice-of-the-five-best-free-malware-detective-tools/"><u>Protect Your System : Our Choice of the Five Best Free Malware Detective Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/realigning-secure-authentication-tokens-a-guide-to-overcoming-errors-in-win11/"><u>Realigning Secure Authentication Tokens: A Guide to Overcoming Errors in Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/surviving-splashes-top-7-action-cam-selection-for-2024/"><u>Surviving Splashes Top 7 Action Cam Selection for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dealing-with-network-adapter-error-31-in-windows/"><u>The Ultimate Guide to Dealing with Network Adapter Error 31 in Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-direct-download-process-from-vimeo-to-mp3-format-for-2024/"><u>[New] Direct Download Process From Vimeo to MP3 Format for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enlightening-your-youtube-footage-with-proper-lighting-for-2024/"><u>[New] Enlightening Your YouTube Footage with Proper Lighting for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mirthful-melodies-smart-picks-for-funny-phone-tones/"><u>[New] Mirthful Melodies Smart Picks for Funny Phone Tones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-mcn-your-comprehensive-youtube-creators-roadmap-for-2024/"><u>[Updated] Mastering MCN Your Comprehensive YouTube Creator's Roadmap for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-smooth-surfaces-from-stability-handheld-tech-for-pros/"><u>[Updated] Smooth Surfaces From Stability Handheld Tech for Pros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlabs-rival-tools-unveiled/"><u>[Updated] Streamlabs' Rival Tools Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/becoming-a-closed-captioning-guru-windows-10-insights/"><u>Becoming a Closed Captioning Guru: Windows 10 Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-teams-cleaner-systems-microsofts-pivot/"><u>Faster Teams, Cleaner Systems: Microsoft's Pivot</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-14-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi 14</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-the-disappeared-disk-space-issue/"><u>Rectify the Disappeared Disk Space Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-mbs-service-connection-failures-on-windows-11/"><u>Solving MB's Service Connection Failures on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-geforce-scanning-problems-effectively/"><u>Tackle Windows GeForce Scanning Problems Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-new-features-introducing-powertoys-v079s-customizable-keyboard-shortcuts-for-enhanced-windows-control/"><u>Unleash New Features: Introducing PowerToys V0.79's Customizable Keyboard Shortcuts for Enhanced Windows Control</u></a></li>
 </ul></div>
 

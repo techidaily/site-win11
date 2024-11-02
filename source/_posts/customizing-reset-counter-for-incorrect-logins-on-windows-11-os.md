@@ -1,7 +1,7 @@
 ---
 title: Customizing Reset Counter for Incorrect Logins on Windows 11 OS
-date: 2024-10-24T06:23:42.950Z
-updated: 2024-10-27T08:12:45.414Z
+date: 2024-10-30T21:54:57.702Z
+updated: 2024-11-01T18:08:22.521Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
@@ -92,25 +92,6 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-subtlety-in-volume-reduction-for-audacity-projects/"><u>[New] 2024 Approved Subtlety in Volume Reduction for Audacity Projects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-the-perfect-aesthetic-with-controlled-lighting/"><u>[Updated] In 2024, Crafting the Perfect Aesthetic with Controlled Lighting</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>2024 Approved Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-reserve-memory-feature/"><u>Decoding Windows Reserve Memory Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-active-directory-printer-error-on-win-1011/"><u>Eliminating Active Directory Printer Error on WIN 10/11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-your-pc-with-windows-11-touch-features/"><u>Enhance Your PC with Windows 11 Touch Features</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-to-unblock-system-tools-in-windows-11/"><u>Essential Techniques to Unblock System Tools in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-solving-the-mystery-of-a-malfunctioning-wacom-drawing-tablet/"><u>Expert Guide: Solving the Mystery of a Malfunctioning Wacom Drawing Tablet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-achieve-crystal-clear-audio-a-home-speaker-maintenance-manual/"><u>How to Achieve Crystal Clear Audio: A Home Speaker Maintenance Manual</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-tech-interfaces-ai-and-windows-software-blend/"><u>Reimagining Tech Interfaces: AI and Windows Software Blend</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-desktop-icons-and-menus/"><u>Restoring Functionality to Windows Desktop Icons and Menus</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revealing-the-smarts-of-z2-play-mobile-for-2024/"><u>Revealing the Smarts of Z2 Play Mobile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-blue-screen-error/"><u>Understanding and Remedying Blue Screen Error</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -118,3 +99,22 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-superior-mics-for-video-blogging-professionals/"><u>[New] 2024 Approved Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-analysis-how-galaxy-s8-dominates-in-4k-video/"><u>[New] In-Depth Analysis How Galaxy S8 Dominates in 4K Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>A Rundown Top 8 Exceptional Free Online Translation Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-into-iis-manager-top-8-approaches/"><u>Breaking Into IIS Manager: Top 8 Approaches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8-for-2024/"><u>Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-your-roku-support-hevc-video-format-troubleshooting-tips-for-compatibility-issues/"><u>Does Your Roku Support HEVC Video Format? Troubleshooting Tips for Compatibility Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-visual-delight-windows-wallpapers-guidebook/"><u>Fine-Tuning Visual Delight: Windows Wallpapers Guidebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-navigating-the-rules-of-youtube-video-documentation/"><u>In 2024, Navigating the Rules of YouTube Video Documentation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-players-facing-issues-with-sims-4-not-starting-up/"><u>Solution Steps for Players Facing Issues with Sims 4 Not Starting Up</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-successfully-reconnecting-win11-to-5g-wi-fi/"><u>Steps for Successfully Reconnecting Win11 to 5G Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-avoid-dwarf-fortress-freezes-on-windows-systems/"><u>Steps to Avoid Dwarf Fortress Freezes on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-window-brighter-controls-the-ultimate-guide-for-multiscreen-enthusiasts/"><u>Top 6 Window Brighter Controls: The Ultimate Guide for Multiscreen Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/understanding-and-exploring-telegrams-online-features-for-2024/"><u>Understanding and Exploring Telegram's Online Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-risks-of-keygen-malware-in-modern-windows-systems/"><u>Understanding the Risks of Keygen Malware in Modern Windows Systems</u></a></li>
+</ul></div>
+

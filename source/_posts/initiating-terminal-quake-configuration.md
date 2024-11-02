@@ -1,7 +1,7 @@
 ---
 title: Initiating Terminal Quake Configuration
-date: 2024-10-19T17:21:34.089Z
-updated: 2024-10-27T00:01:13.370Z
+date: 2024-10-25T22:30:25.619Z
+updated: 2024-11-01T21:08:06.729Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ Here's how to enable and use Quake mode in Windows Terminal.
  If you don't know what Quake is, why not check out some[classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Open Windows Terminal in Quake Mode
@@ -77,15 +77,22 @@ To reveal the window again, press the same keyboard shortcut.
 ![The peek window for the Windows Terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/closing-quake-mode-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't see a peek preview, you can right-click on the terminal icon in the Taskbar and select**Close Window** .
 
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
 
@@ -100,22 +107,15 @@ To reveal the window again, press the same keyboard shortcut.
 5. Give the shortcut a name you will recognize, such as**Terminal Quake** . Then click**Finish** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
  If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using the Windows Terminal's Quake Mode
 
@@ -136,21 +136,24 @@ To reveal the window again, press the same keyboard shortcut.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-discover-the-power-of-pixlr-25-must-use-tips-and-tricks/"><u>[New] 2024 Approved Discover the Power of Pixlr 25 Must-Use Tips and Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-amusing-registration-journey/"><u>2024 Approved Amusing Registration Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-convert-and-optimize-esd-files-into-windows-iso-format/"><u>Efficiently Convert and Optimize ESD Files Into Windows ISO Format</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-win11-bluescreen-with-these-effective-11-tactics/"><u>Eliminate Win11 Bluescreen with These Effective 11 Tactics</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-obs-adjustments-for-inexpensive-machines-for-2024/"><u>Essential OBS Adjustments for Inexpensive Machines for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-d-link-powerline-2000-network-solution-user-friendly-setup-and-accelerated-internet-performance/"><u>Evaluating the D-Link Powerline 2000 Network Solution: User-Friendly Setup & Accelerated Internet Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-microsoft-powertoys-on-windows-11/"><u>How to Install Microsoft PowerToys on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-data-preservation-in-the-realm-of-epic-games/"><u>Navigating Data Preservation in the Realm of Epic Games</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-interruptions-during-window-steam-broadcasts/"><u>Preventing Interruptions During Window Steam Broadcasts</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-zerox-issue-0x80049dd3-in-windows-11-writting/"><u>Resolving Zerox Issue 0X80049DD3 in Windows 11' Writting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-up-unique-screen-savers-in-win11/"><u>Setting Up Unique Screen Savers in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-s17-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo S17 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-system-changes-through-windows-registry-commands/"><u>Streamlining System Changes Through Windows Registry Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-ipads-enhancing-efficiency-in-your-daily-routine-insights-from-zdnet/"><u>Top Productivity Apps for iPads: Enhancing Efficiency in Your Daily Routine - Insights From ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repair-tips-for-stable-gameplay-in-armored-core-6-fixed-on-windows-pcs/"><u>Troubleshooting and Repair Tips for Stable Gameplay in Armored Core 6: Fixed on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-reactivating-windows-firewall/"><u>Troubleshooting Guide: Reactivating Windows Firewall</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller-for-2024/"><u>[New] Exploring the New Frontier A Comparative Study on TikTok & Triller for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-youtubes-role-in-shaping-brands-and-collaborations/"><u>[New] In 2024, YouTube's Role in Shaping Brands & Collaborations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-video-annotations-mastery-cutting-with-precision-and-style/"><u>[Updated] 2024 Approved Video Annotations Mastery Cutting with Precision & Style</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-captivating-creativity-with-advanced-tiktok-filters/"><u>[Updated] Captivating Creativity with Advanced TikTok Filters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-android-hd-viewing-your-10-app-must-have-guide/"><u>[Updated] In 2024, Android Hd Viewing Your 10-App Must-Have Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gamble-for-peace-10-chill-out-choices/"><u>[Updated] In 2024, Gamble for Peace 10 Chill-Out Choices</u></a></li>
+<li><a href="https://win-lab.techidaily.com/10-konfiguriert-tipps-und-tricks-fur-eine-schnelle-einrichtung/"><u>10 Konfiguriert – Tipps Und Tricks Für Eine Schnelle Einrichtung</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-networking-with-python-servers-on-windows-os/"><u>Advanced Networking with Python Servers on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-the-gif-size-barrier-on-discord-for-win11-users/"><u>Breaking Down the GIF Size Barrier on Discord for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/burying-your-data-secretive-drive-practices/"><u>Burying Your Data: Secretive Drive Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-personalize-wins-standard-cli-application/"><u>How To Personalize Win’s Standard CLI Application</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-straighten-out-window-corners/"><u>How to Straighten Out Window Corners</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-infinix-zero-30-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Infinix Zero 30 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-obs-studio-unable-to-record-audio-on-windows-11-try-these-fixes/"><u>Is OBS Studio Unable to Record Audio on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-not-an-empty-directory-error-code-0x80070091-in-win11-and-11/"><u>Rectifying Not an Empty Directory Error Code 0X80070091 in Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-audio-output-on-microsofts-read-aloud-functionality/"><u>Resetting Audio Output on Microsoft's Read Aloud Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723017010960-restore-audio-functionality-on-your-pc-running-windows-11-simple-solutions-inside/"><u>Restore Audio Functionality on Your PC Running Windows 11 – Simple Solutions Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-windows-cab-files-purpose-and-installation-tactics/"><u>The Essentials of Windows CAB Files: Purpose & Installation Tactics</u></a></li>
 </ul></div>
 

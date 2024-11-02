@@ -1,7 +1,7 @@
 ---
 title: Strategies to Escape Repetitive Credential Entry Alerts
-date: 2024-10-23T09:09:11.766Z
-updated: 2024-10-27T07:13:02.263Z
+date: 2024-10-25T19:33:39.322Z
+updated: 2024-11-01T22:17:40.680Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
  After you've transferred the files, re-enable password-protected sharing so that others don't get easy access to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Your Microsoft Account Credentials or the Computer's Name
 
  You can also try logging onto the target PC using the Microsoft account credentials instead of the local username and password.
@@ -63,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Create a New User Account on Both Devices
 
  There are times when user accounts become corrupt and stop you from performing certain actions. If this has happened, either on your PC or the target computer, it can interrupt the file-sharing process.
@@ -83,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  To fix this problem, first, try [switching to a different user account](https://www.makeuseof.com/windows-11-switch-user-accounts/) on your own computer and see if that works. If this strategy fails, then we recommend [creating a new user account](https://www.makeuseof.com/windows-11-create-local-user-account/) on both devices with the same username and password. Make sure that both accounts have administrative privileges. While you are at it, we also suggest temporarily disabling any third-party antivirus program that you might be using, as it can sometimes block network access.
 
  If the root of your issue was a corrupt user account, this should be enough to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Restart the Credential Manager Service
 
@@ -103,20 +104,13 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Credential Manager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-service.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now try connecting to the targeted computer and see if you can do so without any problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make Changes to the Local Security Policy
@@ -130,6 +124,13 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 4. Choose **Disabled** and click **Apply** \> **OK** to save the changes.  
 ![Make changes to the Local Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-security-policy.jpg)
 5. Restart your computer and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Try Using Safe Mode With Networking
 
@@ -153,41 +154,11 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-simple-shelter-strategies-in-mc-for-2024/"><u>[New] Essential Simple Shelter Strategies in MC for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pro-create-with-photoshops-radial-shadow-and-blur-features/"><u>[New] Pro Create with Photoshop's Radial Shadow & Blur Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[Updated] In 2024, Best of Breed Top-Rated Youtuber's Streaming Arsenal</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expertly-selected-best-5-free-online-convertors/"><u>[Updated] In 2024, Expertly Selected Best 5 Free Online Convertors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-parroting-perfection-dissecting-bebops-latest-flight-feature-for-2024/"><u>[Updated] Parroting Perfection Dissecting Bebop's Latest Flight Feature for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>2024 Approved Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>2024 Approved The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-educational-sci-fi-movies-for-children-free-high-definition-downloads-in-mp4mkv/"><u>Best Educational Sci-Fi Movies for Children: Free High-Definition Downloads in MP4/MKV</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-your-own-fingerprint-on-win11/"><u>Designing Your Own Fingerprint on Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-essential-macbook-usb-c-charger-for-less-than-70-on-amazon-now-insider-tips-from-zdnet/"><u>Get Your Essential MacBook USB-C Charger for Less Than $70 on Amazon Now | Insider Tips From ZDNet!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bridge-network-gap-in-windows/"><u>How to Bridge Network Gap in Windows?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-swiftly-reset-and-enhance-pc-graphics-in-windows-10-and-11/"><u>How to Swiftly Reset and Enhance PC Graphics in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-remedy-for-error-code-windows-audio-0xd36b4/"><u>Mastering Remedy for Error Code: Windows Audio 0Xd36b4</u></a></li>
-<li><a href="https://fox-info.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-for-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ravvirus-spotted-on-windows-tracing-and-eradicating-process/"><u>RavVirus Spotted on Windows: Tracing and Eradicating Process</u></a></li>
-<li><a href="https://win11.techidaily.com/steering-clear-of-installer-rights-problems-on-pcs/"><u>Steering Clear of Installer Rights Problems on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-revive-a-stuck-warcraft-62-update/"><u>Tips to Revive a Stuck Warcraft 6.2 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-blunders-newbies-must-steer-clear-of-in-windows-11/"><u>Top 8 Blunders Newbies Must Steer Clear Of in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-the-meanings-and-solutions-for-winerror-0x80071a90/"><u>Unpacking the Meanings and Solutions for WinError 0X80071a90</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +167,19 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-to-a-perfectly-arranged-youtube-queue/"><u>[New] Step-by-Step to a Perfectly Arranged YouTube Queue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-workplace-cloud-storage-networks/"><u>[New] Top Workplace Cloud Storage Networks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-eradicating-data-with-the-windows-10-command-line-interface/"><u>Comprehensive Tutorial: Eradicating Data with the Windows 10 Command Line Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-resolve-microphone-problems-on-pc-and-xbox/"><u>Guidelines to Resolve Microphone Problems on PC & Xbox</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-for-reviving-freeze-ups-on-resource-monitor-win11/"><u>Immediate Actions for Reviving Freeze-Ups on Resource Monitor, Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-ultimate-guide-to-using-manycam-features/"><u>Live Streaming Mastery: Ultimate Guide to Using ManyCam Features</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-bypassing-non-active-window-firewall/"><u>Methods for Bypassing Non-Active Window Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-windows-environment-adding-to-the-desktop-menu/"><u>Personalizing Your Windows Environment: Adding to the Desktop Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/realign-google-chrome-clock-with-windows-time/"><u>Realign Google Chrome Clock with Windows Time</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-to-safely-downloading-and-updating-lenovo-thinkpad-drivers-for-enhanced-system-efficiency/"><u>Troubleshooting Guide to Safely Downloading and Updating Lenovo ThinkPad Drivers for Enhanced System Efficiency</u></a></li>
+</ul></div>
+

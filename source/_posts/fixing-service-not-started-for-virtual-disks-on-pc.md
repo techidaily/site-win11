@@ -1,7 +1,7 @@
 ---
 title: Fixing Service Not Started for Virtual Disks on PC
-date: 2024-10-23T03:44:15.218Z
-updated: 2024-10-26T16:31:11.796Z
+date: 2024-10-27T02:27:15.143Z
+updated: 2024-11-02T04:34:26.747Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If SFC detects corrupted system files but can’t repair them, you may need to run a Deployment Image Service Management scan. That’s a tool for fixing issues with the Windows system image. You can run that utility by executing this Deployment Image command within the Command Prompt:
 
 `DISM /Online /Cleanup-Image /RestoreHealth`
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/services-window.jpg)
 4. Select the **Automatic** setting on the **Startup type** menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-type-drop-down-menu.jpg)
 5. Press **Start** within the Virtual Disk Properties window.
 
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 2. Next, click the **Allow service to interact with desktop** checkbox to select that option.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-on-tab.jpg)
 3. Click **Apply** to save your new Virtual Disk service settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the Virtual Disk Properties window’s **OK** option.
 5. If you encounter the Disk Management VDS error within a remote connection environment, repeat the above steps to check the Virtual Disk service is enabled on both the local and remote PCs.
 
@@ -73,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![The allowed apps firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/firewall-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Third-Party Security Software
@@ -88,17 +96,10 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Your Drives With Disk Management Again
@@ -107,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
 
  This error means users can’t access and utilize Disk Management. The issue more typically arises in remote connection environments. This is how you can fix the Disk Management Virtual Disk Service error in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-compelling-iphone-photo-and-video-applications-87x/"><u>[Updated] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>2024 Approved Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-definitive-guide-to-screencast-editors/"><u>2024 Approved The Definitive Guide to Screencast Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-scholarly-treatise-on-directed-user-engagement-for-2024/"><u>A Scholarly Treatise on Directed User Engagement for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-and-resolving-pc-instability-with-nba-2k21/"><u>Bypassing and Resolving PC Instability with NBA 2K21</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-idle-window-time-before-logout/"><u>Customize Idle Window Time Before Logout</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-spotify-crashes-in-win11/"><u>Diagnosing and Repairing Spotify Crashes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-canvas-redefined-post-windows-11/"><u>Digital Canvas Redefined: Post-Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-transmission-using-smartphones-as-pc-windows-mic-input/"><u>Direct Transmission: Using Smartphones as PC Windows Mic Input</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-make-a-best-tiktok-intro-video-on-mac-in-2024/"><u>How to Make a Best Tiktok Intro Video on Mac, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-visionary-software-solutions-for-virtual-meetings/"><u>In 2024, Visionary Software Solutions for Virtual Meetings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-waiting-fortnite-kicks-off/"><u>No More Waiting: Fortnite Kicks Off!</u></a></li>
-<li><a href="https://win11.techidaily.com/permanent-disposal-of-wsl-complete-removal-guide-for-win-11/"><u>Permanent Disposal of WSL: Complete Removal Guide for Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-windows-memory-errors/"><u>Strategies for Overcoming Windows Memory Errors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +115,22 @@ thumbnail: https://thmb.techidaily.com/b88f149e018190d8db992f5fa62ce84a76816eeb0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[New] In 2024, Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-epic-meme-designs-the-10-list-of-choice-for-2024/"><u>[Updated] Epic Meme Designs The #10 List of Choice for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>2024 Approved Evaluating High-Capacity Drives How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://win11.techidaily.com/access-and-conquer-mastering-windows-11-printer-control-max-50-chars/"><u>Access and Conquer: Mastering Windows 11 Printer Control (Max 50 Chars)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-update-dark-display-issue/"><u>Driver Update: Dark Display Issue</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/exploring-live-sessions-guesting-basics-of-tiktok/"><u>Exploring Live Sessions Guesting Basics of TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/get-across-taskbar-and-tile-adjustments-fast/"><u>Get Across Taskbar & Tile Adjustments Fast</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maneuvering-through-typical-anydesk-frustrations-on-windows/"><u>Maneuvering Through Typical AnyDesk Frustrations on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-full-functionality-in-windows-voice-only-bluetooth-speaker/"><u>Restoring Full Functionality in Windows: Voice-Only Bluetooth Speaker</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-grainy-graphics-in-ubisofts-island-adventure/"><u>Solving Grainy Graphics in Ubisoft's Island Adventure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2173132-9781848588493-the-dark-history-of-the-occult/"><u>The Dark History of the Occult | Free Book</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/the-ultimate-list-of-high-quality-screencast-software-on-windows-discover-what-movavi-recommends/"><u>The Ultimate List of High-Quality Screencast Software on Windows - Discover What Movavi Recommends</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-unrecognized-disk-issue-a-comprehensive-guide-for-windows-11-users/"><u>Understanding 'Unrecognized Disk' Issue: A Comprehensive Guide for Windows 11 Users</u></a></li>
+</ul></div>
+

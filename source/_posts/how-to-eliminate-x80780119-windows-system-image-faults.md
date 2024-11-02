@@ -1,7 +1,7 @@
 ---
 title: How To Eliminate X80780119 Windows System Image Faults
-date: 2024-10-20T10:22:53.991Z
-updated: 2024-10-27T05:46:34.380Z
+date: 2024-10-25T18:33:48.001Z
+updated: 2024-11-02T03:11:11.907Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 * **Uninstall unused programs**: If there are apps that you do not use anymore, head over to the Control Panel to uninstall them from the system. This will free up a great amount of space that can be used by the System Restore utility.
 
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check and Repair Disk Errors
 
@@ -67,20 +81,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable System Protection
@@ -99,20 +106,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
@@ -143,26 +143,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-5-key-players-to-triple-your-youtube-views/"><u>[New] 2024 Approved The 5 Key Players to Triple Your YouTube Views</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-step-into-fantasy-youtubes-top-10-vr-gems/"><u>[New] In 2024, Step Into Fantasy Youtube's Top 10 VR Gems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-peak-creation-suite-insightful-2023-analysis/"><u>[Updated] 2024 Approved Peak Creation Suite Insightful 2023 Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-peering-into-facebooks-2023-video-landscape-a-focus-on-short-clips/"><u>[Updated] In 2024, Peering Into Facebook's 2023 Video Landscape A Focus on Short Clips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/halting-unsolicited-windows-check-ups/"><u>Halting Unsolicited Windows Check-Ups</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Bootloader Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-windows-terminal-from-full-attention-to-restful-idleness/"><u>Navigating the Windows Terminal: From Full Attention to Restful Idleness</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-persistent-0xf0831-issue-in-win11/"><u>Overcoming the Persistent 0XF0831 Issue in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/pivotal-points-for-a-fresh-windows-installation-experience/"><u>Pivotal Points for a Fresh Windows Installation Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tailored-strategies-updating-msi-motherboards-across-oss/"><u>Tailored Strategies: Updating MSI Motherboards Across OSs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-apple-watch-offers-in-july-2024-find-the-best-discounts-now/"><u>Top Apple Watch Offers in July 2024: Find the Best Discounts Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-a-seamless-windows-11-upgrade-an-in-place-method/"><u>Unveiling the Secrets of a Seamless Windows 11 Upgrade: An In-Place Method</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-experience-and-performance-analysis-of-amazonbasics-secure-micro-cut-document-destroyer-12-sheets/"><u>User Experience & Performance Analysis of AmazonBasics' Secure Micro-Cut Document Destroyer (12 Sheets)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-boot-masterclass-understanding-all-configurations/"><u>Windows Boot Masterclass: Understanding All Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-system-power-metrics-and-management-guide/"><u>Windows System Power Metrics and Management Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,3 +150,25 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-free-video-text-dynamics/"><u>[New] 2024 Approved Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-future-vistas-in-the-metaverse-top-30-encouraging-quotes/"><u>[Updated] 2024 Approved Future Vistas in the Metaverse Top 30 Encouraging Quotes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-audience-friendly-audio-fades-practices-in-audacity/"><u>[Updated] Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-note-50-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme Note 50 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-failure-in-updates-due-to-0x800f0845/"><u>Avoiding Failure in Updates Due to 0X800f0845</u></a></li>
+<li><a href="https://win11.techidaily.com/check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/file-sharing-mastery-constructing-python-servers-in-windows/"><u>File Sharing Mastery: Constructing Python Servers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-a-non-functional-printer-in-the-os-environment/"><u>Fixing a Non-Functional Printer in the OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-overscan-in-windows-enhance-screen-fit/"><u>Fixing Overscan in Windows - Enhance Screen Fit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-snapshot-strategies-capturing-win10-gaming-excellence/"><u>In 2024, Snapshot Strategies Capturing Win10 Gaming Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-access-uwp-apps-shortcuts-on-windows-11/"><u>Mastering Quick Access: UWP Apps Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-solve-frozen-shift-problems/"><u>Navigate and Solve Frozen Shift Problems.</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-no-fingerprint-detection-error-on-windows/"><u>Overcoming the No Fingerprint Detection Error on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-fallout-3-failure-to-load-problems-expert-strategies-for-game-loading/"><u>Troubleshoot Fallout 3 Failure to Load Problems - Expert Strategies for Game Loading</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-correctly-address-apex-legends-error-23/"><u>Troubleshooting Steps to Correctly Address Apex Legends Error 23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unclutter-your-layout-expertly-remove-backgrounds-in-figma-for-2024/"><u>Unclutter Your Layout Expertly Remove Backgrounds in Figma for 2024</u></a></li>
+</ul></div>
+

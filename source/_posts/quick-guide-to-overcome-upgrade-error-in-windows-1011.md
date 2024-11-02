@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Overcome Upgrade Error in Windows 10/11
-date: 2024-09-11T09:33:18.615Z
-updated: 2024-09-12T09:33:18.615Z
+date: 2024-10-31T20:26:46.673Z
+updated: 2024-11-01T22:38:35.009Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Causes the 0xC1900101 – 0x30017 Error?
 
  Here are some common reasons behind the update error under consideration:
@@ -44,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
  Now that we know about the potential causes of the issue, let’s take a look at the solutions you can try to resolve the problem. Before proceeding, we recommend that you remove any unnecessary external peripherals like USB from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Storage Space
 
  As we mentioned earlier, you must have at least 16 GB of free space on your system to install new updates. If you do not have storage space, the best way to clear it is by deleting the unnecessary apps and programs you have installed on your computer.
@@ -58,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
  Apart from that, it also will be a good idea to remove the previous installation files from the system. In addition to clearing the space, this will also solve any interruption issues that these previous installation files may cause during the upgrade process. In case you are using two SSDs on your computer, remove one and then try installing the update.
 
  Head over to our guide on[different methods of freeing up storage space in Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) for more information.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Uninstall Your Antivirus
 
@@ -79,16 +58,10 @@ Here is how you can do that:
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are not using a third-party security program, you can try[disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) as well. However, we highly recommend that you enable it back after installing the update. Keeping it disabled for a long time can expose your system to risks and potential threats.
@@ -103,28 +76,15 @@ Here is how you can do that:
 
 ![Run the Windows Update troubleshooter](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can run the Windows Update troubleshooter via Windows Settings. Instructions on how to run the troubleshooter can be found in our guide on[how to fix Windows Update getting stuck](https://www.makeuseof.com/tag/windows-update-stuck/) .
 
  Once the troubleshooter has finished scanning, check if any issues are identified. If so, the troubleshooter will recommend fixes that can resolve the issue. Click on**Apply this fix** to proceed. In case the utility fails to identify the issues, click on Close the troubleshooter and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.2 Run SFC and DISM Scans
@@ -137,6 +97,13 @@ Here is how you can do that:
 
  Hopefully, if the system cannot install updates because of corruption issues, these tools will eliminate the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update Your Drivers
 
  Ideally, your drivers must be kept up-to-date at all times for the system to function smoothly. To check if there are any outdated drivers on your system, head over to the Device Manager utility.
@@ -148,6 +115,13 @@ Here is how you can do that:
 ![Update the relevant driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/keyboard-update-driver.jpg)
 
  If you don't see any exclamation marks, or you don't think Windows managed to do a good enough job, check out[the best free driver updaters for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Your BIOS
 
@@ -174,5 +148,20 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition-for-2024/"><u>[New] Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-the-reality-of-recordcasts-claims/"><u>[Updated] 2024 Approved Unveiling the Reality of RecordCast's Claims</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-practical-approach-to-scheduling-on-zoom-platforms-for-2024/"><u>A Practical Approach to Scheduling on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-diagnostics-formulating-and-reviewing-reports/"><u>Delving Into Windows Diagnostics: Formulating and Reviewing Reports</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-and-fixing-create-failed-problem-in-windows/"><u>Dissecting and Fixing Create Failed Problem in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1342641-9780813143835-kentucky-hauntings/"><u>Kentucky Hauntings | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-weeks-iphone-purchase-made-easy-with-innovative-new-anker-gadgets/"><u>Next Week's iPhone Purchase Made Easy with Innovative New Anker Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-barriers-in-windows-a-powershell-solution/"><u>Overcoming Access Barriers in Windows: A PowerShell Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-headset-mic-a-step-by-step-guide/"><u>Reviving Windows Headset Mic: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-of-software-design-with-microsofts-copilot-ai/"><u>The Future of Software Design with Microsoft's Copilot AI</u></a></li>
+<li><a href="https://win11.techidaily.com/why-todays-users-need-more-ram-for-windows-a-closer-look/"><u>Why Today's Users Need More RAM for Windows: A Closer Look</u></a></li>
+</ul></div>
 

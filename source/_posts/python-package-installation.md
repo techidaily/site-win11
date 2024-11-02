@@ -1,7 +1,7 @@
 ---
 title: Python Package Installation
-date: 2024-10-21T20:06:59.359Z
-updated: 2024-10-26T22:22:39.953Z
+date: 2024-10-25T23:26:15.114Z
+updated: 2024-11-01T18:34:17.298Z
 tags:
   - windows10
   - windows11
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
  Similarly, the Settings app also gives you the option to change your account password on Windows. If you’re interested in doing that, check our guide on[how to change an account password in Windows](https://www.makeuseof.com/change-account-password-windows-11/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the Account PIN From the Sign-In Screen
@@ -60,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
  The steps for changing the account PIN from the sign-in screen vary depending on whether you’re using a Microsoft account or a Local account. Here are the steps for both.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Change PIN From the Sign-In Screen If Using a Microsoft Account
@@ -80,10 +74,23 @@ If you're using a Microsoft account:
 ![Change PIN on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-pin-on-windows-11.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Change PIN From the Sign-In Screen If Using a Local Account
@@ -103,13 +110,6 @@ If you're using a local account instead:
  Once you complete the above steps, your account PIN on Windows will be changed. Note that some of your apps might require you to sign in after you reset your account PIN.
 
  Don’t want to enter a PIN every time you access your computer? Check our guide on[how to set up automatic sign-in on Windows](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) to avoid the login screen.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Effortlessly Change Your Windows Account PIN
 
@@ -132,24 +132,22 @@ If you're using a local account instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-best-at-memes-app-version/"><u>[New] In 2024, The Best at Memes (App Version)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>[Updated] Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-masterclass-crafting-engaging-openers-technique-1-and-2/"><u>2024 Approved YouTube Masterclass Crafting Engaging Openers (Technique 1 & 2)</u></a></li>
-<li><a href="https://win11.techidaily.com/decrypting-zip-file-errors-on-windows-11-os/"><u>Decrypting Zip File Errors on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-for-removing-windows-defender-history-logs/"><u>Efficient Methods for Removing Windows' Defender History Logs</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-writing-skills-on-a-windows-machine/"><u>Elevate Your Writing Skills on a Windows Machine</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-amazon-essentials-tablet-stand-a-perfect-travel-companion/"><u>Evaluating the Amazon Essentials Tablet Stand: A Perfect Travel Companion</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solidify-remote-access-with-stable-vpn-connection/"><u>How to Solidify Remote Access with Stable VPN Connection</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-entry-into-the-world-of-google-meet-webinars/"><u>In 2024, Entry Into the World of Google Meet Webinars</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-11-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 11 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-gameplay-essential-upgrades-for-win-11-gamers/"><u>Maximizing Gameplay: Essential Upgrades for Win 11 Gamers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-maximum-load-limit-fixing-the-chatgpt-capacity-problem-in-windows/"><u>Overcoming Maximum Load Limit: Fixing the ChatGPT Capacity Problem in Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-rectifying-rdp-errors-in-windows-11/"><u>Strategies for Rectifying RDP Errors in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-bad-chunks-repairing-sector-issues/"><u>Tackling Bad Chunks: Repairing Sector Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-alternatives-to-directly-renaming-folders-in-win-11/"><u>The Ultimate List of Alternatives to Directly Renaming Folders in Win 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-jabra-earbuds-a-comprehensive-fix-it-guide/"><u>Troubleshooting Your Jabra Earbuds: A Comprehensive Fix-It Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-list-of-premium-internet-recorders-2023-for-2024/"><u>[New] Ultimate List of Premium Internet Recorders 2023 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-path-to-perfect-presence-on-zoom-platforms/"><u>[Updated] 2024 Approved The Path to Perfect Presence on Zoom Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guides-to-rectifying-confirm-pin-error-in-w11w10-setups/"><u>Guides to Rectifying Confirm PIN Error in W11/W10 Setups</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-transfer-files-on-a-network-using-a-python-server-on-windows/"><u>How to Transfer Files on a Network Using a Python Server on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-solution-for-virtual-realms/"><u>In 2024, Pinnacle Solution for Virtual Realms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-gt-5-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme GT 5 Phone Pattern Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-11x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 11X 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-apples-pixel-tablet-a-worthy-competitor-to-the-ipad/"><u>Is Apple's Pixel Tablet a Worthy Competitor to the iPad?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-overmal-restarting-windows-11-software/"><u>Mastery Overmal: Restarting Windows 11 Software</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-your-silent-windows-headset-mic/"><u>Mending Your Silent Windows Headset Mic</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-interaction-as-an-income-source/"><u>Online Interaction as an Income Source</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-outlook-stuck-in-safe-mode-a-step-by-step-solution/"><u>Overcoming Outlook Stuck in Safe Mode: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/rav-antivirus-intrusion-origin-and-removal-guide/"><u>Rav Antivirus Intrusion: Origin & Removal Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/"><u>Renaissance PC: Refresh with AtlasOS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-artistic-freedom-starting-microsoft-paint-on-windows-11/"><u>Unlocking Artistic Freedom: Starting Microsoft Paint on Windows 11</u></a></li>
 </ul></div>
 

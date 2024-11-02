@@ -1,7 +1,7 @@
 ---
 title: Quick-Fire Shortcuts in Microsoft Project
-date: 2024-10-23T05:46:29.432Z
-updated: 2024-10-26T20:33:07.590Z
+date: 2024-10-28T22:38:20.830Z
+updated: 2024-11-02T02:45:58.338Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 **Ctrl + S:** It is essential to save all changes made to a project often as it helps to keep track of and prevent data loss.
 
+### 3\. Create a Task
+
+**Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
   <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 3\. Create a Task
-
-**Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
 ### 4\. Close the Program Window
 
@@ -56,9 +56,23 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Activate the Project Control Menu
 
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Show Task Information
 
@@ -68,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10\. Clear or Reset the Selected Field
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
@@ -83,40 +90,33 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 12\. Cut the Selected Data
 
 **Ctrl + X:** This will remove the data from its current location.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -239,16 +239,17 @@ thumbnail: https://thmb.techidaily.com/44cba3f77a25fb10a15058a95ecd605b31dd154fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-video-segmentation-the-easy-fades-way/"><u>[New] 2024 Approved Mastering Video Segmentation The Easy Fades Way</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions-for-2024/"><u>[Updated] Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-hexacopter-drone-breakthroughs/"><u>2024 Approved Top 10 Hexacopter Drone Breakthroughs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/asmr-expertise-soundscapes-that-ease-sleeplessness-for-2024/"><u>ASMR Expertise Soundscapes That Ease Sleeplessness for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-updates-for-surface-books-instantly-and-easily/"><u>Get the Newest Driver Updates for Surface Books Instantly & Easily!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-share-a-tiktok-video-on-twitter-for-2024/"><u>How to Share A Tiktok Video on Twitter for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/infusing-update-capability-into-the-file-management-tool/"><u>Infusing Update Capability Into the File Management Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-common-task-runner-issues-in-windows/"><u>Overcoming Common Task Runner Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/three-step-windows-reset-for-efficient-recovery/"><u>Three-Step Windows Reset for Efficient Recovery</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-proxy-settings-in-windows-11/"><u>Unlock Your Proxy Settings in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-stickers-to-instagram-story-and-post/"><u>[New] How to Add Stickers to Instagram Story and Post?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-altitude-with-djis-new-gadget/"><u>[New] In 2024, Mastering Altitude with DJI's New Gadget</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-ultimate-guide-to-resolving-microsoft-wow64-service-failure-dev-error-6068-in-fortnite/"><u>2024'S Ultimate Guide to Resolving Microsoft WOW64 Service Failure (Dev Error #6068) in Fortnite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-influencers-for-2024/"><u>Elite Video Influencers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-sudden-invisibility-issues-in-pc-gaming/"><u>Eradicating Sudden Invisibility Issues in PC Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/festive-fireworks-christmas-window-gifts-via-mstore/"><u>Festive Fireworks: Christmas Window Gifts via MSTORE</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-lsa-error-on-windows-systems/"><u>Fixing LSA Error on Windows Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/graphics-correction-step-by-step-windows-11/"><u>Graphics Correction: Step-by-Step Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-15-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro Max Activation Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-dxgidll-in-win11-heres-an-action-plan/"><u>Missing Dxgi.dll in Win11? Here's an Action Plan</u></a></li>
 </ul></div>
 

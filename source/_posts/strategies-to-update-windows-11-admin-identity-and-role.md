@@ -1,7 +1,7 @@
 ---
 title: Strategies to Update Windows 11 Admin Identity and Role
-date: 2024-10-22T08:56:57.958Z
-updated: 2024-10-27T02:00:43.708Z
+date: 2024-10-27T18:27:00.632Z
+updated: 2024-11-01T20:47:22.116Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 
  Your Microsoft account administrator name has been successfully changed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Change the Administrator Name Through Control Panel
 
  The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
@@ -55,22 +62,22 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 4. Enter the new name and click**Change Name** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
@@ -89,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Change the Administrator Name Through Run Command
@@ -110,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 3. Select the Microsoft account you want to change and click**Properties** .  
 ![Change the account name in User Account window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-the-account-name-in-user-account-window.jpg)
 4. Under the**General** tab, enter the new name in the**Full Name** field.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Apply > OK** to save the changes.
 
@@ -141,22 +135,18 @@ Your Microsoft account administrator name is now changed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhance-your-tv-experience-mastering-fb-live-and-roku-for-2024/"><u>[New] Enhance Your TV Experience Mastering FB Live and Roku for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>[New] In 2024, Share Wide Enhancing Instagram Stories With YouTube Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-stories-incorporating-natural-bokeh-effects/"><u>[Updated] 2024 Approved Instagram Stories Incorporating Natural Bokeh Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/diy-logitech-f710-drivers-repair-a-cross-platform-fix-for-win-7-8-10-and-11/"><u>DIY Logitech F710 Drivers Repair: A Cross-Platform Fix for Win 7, 8, 10 & 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-transforming-dvd-files-to-mp4-on-windows-and-mac-os-discover-these-10-techniques/"><u>Easy Guide: Transforming DVD Files to MP4 on Windows and Mac OS - Discover These 10 Techniques!</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-for-msvcr120dll-absence-errors-on-pc/"><u>Essential Fixes for 'Msvcr120_dll' Absence Errors on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-speech-recognition-initialization-hiccup/"><u>Fixing Windows Speech Recognition Initialization Hiccup</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-and-use-a-theme-from-the-microsoft-store/"><u>How to Install and Use a Theme From the Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-actions-to-address-windows-camera-hiccups/"><u>Immediate Actions to Address Windows Camera Hiccups</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-uncomplicated-without-wsl/"><u>Linux Uncomplicated, Without WSL</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-challenges-of-a-non-working-windows-notepad/"><u>Overcoming the Challenges of a Non-Working Windows Notepad</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-n53-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo N53 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-windows-11s-diagnostic-capabilities/"><u>Reviving Windows 11'S Diagnostic Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-device-naming-processes-and-eliminate-windows-errors/"><u>Streamline Device Naming Processes and Eliminate Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-working-intel-unison-in-windows-11/"><u>Troubleshooting Non-Working Intel Unison in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>[New] 2024 Approved Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[New] 2024 Approved Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-engaging-audiences-triad-of-effective-storytelling/"><u>[Updated] In 2024, Engaging Audiences Triad of Effective Storytelling</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>[Updated] In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
+<li><a href="https://win11.techidaily.com/7-noteworthy-changes-in-the-windows-11-file-explorer/"><u>7 Noteworthy Changes in the Windows 11 File Explorer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-successfully-fixing-the-saints-row-non-launch-situation-on-pc/"><u>Essential Tips: Successfully Fixing the Saints Row Non-Launch Situation on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-tropico-6-ruling-over-a-dream-island/"><u>In-Depth Analysis of Tropico 6: Ruling Over a Dream Island</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11s-program-compatibility-troubleshooter/"><u>Mastering Windows 11'S Program Compatibility Troubleshooter</u></a></li>
+<li><a href="https://win11.techidaily.com/remove-hyper-v-from-windows-11-setup/"><u>Remove Hyper-V From Windows 11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-hitchhiking-devices-win-1011-printer-uninstallation/"><u>Removing Hitchhiking Devices: Win 10/11 Printer Uninstallation</u></a></li>
+<li><a href="https://win11.techidaily.com/win-volume-adjustment-reviving-dull-edges/"><u>Win Volume Adjustment: Reviving Dull Edges</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-reclaimed/"><u>Win11 Shadowed, Cursor Reclaimed</u></a></li>
 </ul></div>
 

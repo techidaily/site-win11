@@ -1,7 +1,7 @@
 ---
 title: Stifling Windows 11 Folder Tab Noises
-date: 2024-09-11T09:34:40.216Z
-updated: 2024-09-12T09:34:40.216Z
+date: 2024-10-26T22:58:05.579Z
+updated: 2024-11-01T19:21:12.031Z
 tags:
   - windows10
   - windows11
@@ -25,22 +25,15 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is ViVeTool?
 
  ViVeTool is an open-source command line tool that can enable or disable Windows operating system features. Microsoft continuously works on many experimental features and does a lot of testing before rolling out a stable version of a feature. But if you are impatient, you can use ViVeTool to enable an otherwise hidden feature. It is free and the developers recently launched a GUI version of the tool as well.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable File Explorer Tabs In Windows 11
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 **Download:** [ViVeTool](https://github.com/thebookisclosed/ViVe/releases)
 
 **Download:** [ViVeTool GUI](https://github.com/PeterStrick/ViVeTool-GUI/releases)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Disable File Explorer Tabs Using the ViVeTool
 
@@ -69,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/4f7878f35a5617dd30422b38a025795d7b590bfdd
 ![Disable File Explorer Tabs Using the ViVeTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-file-explorer-tabs-using-the-vivetool.jpg)
 5. Type the following two commands, one by one in the CMD and press the**Enter** key.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 vivetool /disable /id:37634385  
 vivetool /disable /id:36354489
 6. You will see the “**Successfully set feature configuration(s)** ” if the command executes successfully.
 7. Now,**restart** your system for the changes to take effect. The File Explorer Tabs feature will no longer be active on your system.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Disable File Explorer Tabs Using the ViVeTool GUI version
 
@@ -92,26 +78,20 @@ vivetool /disable /id:36354489
 4. Select the**Deactivate Feature** option. Similarly, find the feature ID**36354489** and deactivate it.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Now, close the ViVeTool GUI and**restart** your system.
 6. Open the File Explorer and you won’t see the tabs feature anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Any Windows 11 Feature Using ViVeTool
@@ -131,5 +111,26 @@ vivetool /disable /id:36354489
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simply-screen-recording-apowersofts-cost-free-software-review/"><u>[New] 2024 Approved Simply Screen Recording Apowersoft's Cost-Free Software Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-checklist-for-constructing-your-youtube-musical-assortment/"><u>[New] The Ultimate Checklist for Constructing Your YouTube Musical Assortment</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-clear-and-consistent-slug-lines/"><u>[Updated] Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimizing-your-periscope-stream-experience/"><u>[Updated] In 2024, Optimizing Your Periscope Stream Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fierce-competition-gopro-vs-sonys-dslr-for-adventure-films-for-2024/"><u>Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-operational-cut-and-paste-feature/"><u>Fixing Non-Operational Cut and Paste Feature</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>In 2024, The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/installers-manual-setting-up-win11-in-vmware-17/"><u>Installer's Manual: Setting Up Win11 in VMware 17</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ter-lane-navigating-to-the-top-15-funny-youtubers-for-2024/"><u>Laughter Lane Navigating to the Top 15 Funny YouTubers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-spotify-link-errors-on-modern-windows-devices/"><u>Reconciling Spotify Link Errors on Modern Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-keyboard-operations-restoring-enter-functionality/"><u>Recovering Keyboard Operations: Restoring 'Enter' Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-last-round-mishap-a-guide-to-overcoming-error-code-tfla0002/"><u>Resolving the Last Round Mishap: A Guide to Overcoming Error Code TFLA0002</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-workflows-master-win-command-shortcut-techniques/"><u>Simplify Workflows: Master Win Command Shortcut Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-windows-11-app-engagement-techniques/"><u>Speedy Windows 11 App Engagement Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-write-file-access-problem-on-pcs/"><u>Steps to Correct Write File Access Problem on PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-asus-rog-phone-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Asus ROG Phone 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/threefold-stabilization-to-shine-your-iphone-videos/"><u>Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-new-features-in-the-latest-win11-update/"><u>Top 9 New Features in the Latest Win11 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-ui-upgrade-incorporate-disk-space-analysis-into-menu/"><u>Windows UI Upgrade: Incorporate Disk Space Analysis Into Menu</u></a></li>
+</ul></div>
 

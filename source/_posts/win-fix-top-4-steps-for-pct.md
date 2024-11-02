@@ -1,7 +1,7 @@
 ---
 title: "Win Fix: Top 4 Steps for PCT"
-date: 2024-09-11T09:34:23.376Z
-updated: 2024-09-12T09:34:23.376Z
+date: 2024-10-26T23:52:19.697Z
+updated: 2024-11-02T01:14:17.597Z
 tags:
   - windows10
   - windows11
@@ -25,39 +25,19 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Run the Program Compatibility Troubleshooter Using the Context Menu
 
  The easiest way to run the Program Compatibility Troubleshooter on Windows 10 is to simply right-click an app and select**Troubleshoot compatibility** . If you’re on Windows 11, you’ll have to click**Show more options** first after you right-click the app to bring back the classic context menu, and then select**Troubleshoot compatibility** .
 
 ![running the the Program Compatibility Troubleshooter on Edge from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-edge-troubleshoot-compatibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will instantly launch the tool, and it will help you troubleshoot any compatibility issues you’re experiencing with the selected app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Program Compatibility Troubleshooter on the Troubleshoot Page
@@ -65,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Both Windows 10 and 11 have a Troubleshooting page in the Settings app where you can launch the Program Compatibility Troubleshooter from. If you can’t get to the Troubleshoot page because the Settings app isn’t working, please read our guide on[how to fix Windows Settings when it won’t open](https://www.makeuseof.com/fixes-unable-to-open-windows-settings/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -85,21 +65,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 ![the other troubleshooters page on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/other-troubleshooters-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will get the Program Compatibility Troubleshooter started.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -110,6 +76,13 @@ This will get the Program Compatibility Troubleshooter started.
  Find and click on**Program Compatibility Troubleshooter** to expand it. Then, click on the**Run this troubleshooter** button.
 
 ![running the Program Compatibility Troubleshooter on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-program-compatibility-troubleshooter-windows-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, you can use the tool to fix compatibility issues on Windows 10.
 
@@ -123,7 +96,21 @@ Now, you can use the tool to fix compatibility issues on Windows 10.
 
 ![the Control Panel on Windows 11 with the Programs and Features section highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel-run-program-compatibility-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will launch the Program Compatibility Troubleshooter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Program Compatibility Troubleshooter Using a Desktop Shortcut
 
@@ -137,37 +124,11 @@ Copy the below text:
 
 ![the Create Shortcut wizard on Windows 11 and it is on the screen where you enter the location to exe for the shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/program-compatibility-troubleshooter-shortcut-location-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Name the shortcut Program Compatibility Troubleshooter, and then click**Finish** to add the shortcut to your Desktop.
 
 ![naming the shorcut for the Program Compatibility Troubleshooter in the Create Shortcut wizard on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/finish-program-compatibility-shortcut-creation.jpg)
 
  Now when you double-click the shortcut you just created, you will launch the Program Compatibility Troubleshooter.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Now You Can Run the Program Compatibility Troubleshooter in Different Ways
 
@@ -186,5 +147,22 @@ Copy the below text:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-10-visionary-flicks-that-empower-you/"><u>[Updated] In 2024, 10 Visionary Flicks That Empower You</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-5-best-sites-for-quick-templates-on-youtube/"><u>2024 Approved 5 Best Sites for Quick Templates on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/execute-os-commands-as-admin-essentials/"><u>Execute OS Commands as Admin Essentials</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-complet-pour-resoudre-le-probleme-de-peripherique-non-demarrable-sur-windows-11-apres-un-clonage/"><u>Guide Complet Pour Résoudre Le Problème De Périphérique Non-Démarrable Sur Windows 11 Après Un Clonage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-securely-store-and-recover-notes/"><u>How to Securely Store and Recover Notes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-gt-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Realme GT 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>New In 2024, The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directories-not-empty-error-code-0x80070091-in-win11-os/"><u>Overcoming Directories Not Empty Error (Code: 0X80070091) in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-defense-blockade-by-domain-managers-decision/"><u>Overcoming Windows Defense Blockade by Domain Manager's Decision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-yourself-avoid-fake-chatgpt-browser-tool-misusing-social-media-passwords/"><u>Protect Yourself: Avoid Fake 'ChatGPT' Browser Tool Misusing Social Media Passwords</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-input-with-custom-shortcuts/"><u>Streamline Windows Input with Custom Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-uptime-error-0x80246007/"><u>Troubleshooting Windows 11'S Uptime Error 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-icons-gone-missing-quick-fix-guide/"><u>Win 11 Icons Gone Missing - Quick Fix Guide</u></a></li>
+</ul></div>
 

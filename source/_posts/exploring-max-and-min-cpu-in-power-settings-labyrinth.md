@@ -1,7 +1,7 @@
 ---
 title: Exploring Max & Min CPU in Power Settings Labyrinth
-date: 2024-10-23T18:38:50.552Z
-updated: 2024-10-26T20:57:36.011Z
+date: 2024-10-26T17:31:06.116Z
+updated: 2024-11-02T02:43:52.562Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ To hide the maximum processor state, enter the below command:
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
@@ -65,10 +65,10 @@ To hide the maximum processor state, enter the below command:
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
@@ -81,15 +81,22 @@ To hide the maximum processor state, enter the below command:
 
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -97,13 +104,6 @@ To hide the maximum processor state, enter the below command:
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\893dee8e-2bef-41e0-89c6-b55d0929964c`
 
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
 
@@ -124,15 +124,20 @@ To hide the maximum processor state, enter the below command:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-navigating-video-data-in-high-capacity-drives-64128gb/"><u>[New] Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-city-escapades-a-list-of-flavorful-pals-to-gta-v-for-2024/"><u>[Updated] Virtual City Escapades - A List of Flavorful Pals to GTA V for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-essential-list-premium-free-video-player-apps-pc-and-mobile/"><u>2024 Approved Essential List Premium Free Video Player Apps (PC & Mobile)</u></a></li>
-<li><a href="https://win11.techidaily.com/invigorating-previous-generations-directx-software-via-dxvk/"><u>Invigorating Previous Generations' DirectX Software via DXVK</u></a></li>
-<li><a href="https://fox-links.techidaily.com/pioneers-panoramas-open-for-all-for-2024/"><u>Pioneer's Panoramas Open for All for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/proactive-measures-for-a-smooth-sailing-win11-microsoft-teams-journey/"><u>Proactive Measures for a Smooth-Sailing Win11 Microsoft Teams Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenate-archived-media-enhancing-videos-through-madvr-and-windows/"><u>Rejuvenate Archived Media: Enhancing Videos Through MadVR and Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iches-a-deep-dive-into-mr-beasts-wealth/"><u>The Riches A Deep Dive Into Mr. Beast's Wealth</u></a></li>
-<li><a href="https://win11.techidaily.com/virtualbox-upgrade-strategies-to-version-70-on-windows-11-systems/"><u>VirtualBox Upgrade Strategies to Version 7.0 on Windows 11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-instagram-highlights-covers-apps-for-iphone-and-android/"><u>[New] In 2024, Best Instagram Highlights Covers Apps for iPhone and Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-6-innovative-apps-for-instagram-reels/"><u>[New] In 2024, Master 6 Innovative Apps for Instagram Reels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/13-effective-methods-for-getting-spotify-up-and-running-again-on-android-auto/"><u>13 Effective Methods for Getting Spotify Up and Running Again on Android Auto</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-thrustmaster-t300-steering-wheel-software-for-windows-1011/"><u>Download Thrustmaster T300 Steering Wheel Software for Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-error-code-0x80d03801-in-microsoft-store-on-windows-pc/"><u>How to Fix Error Code 0X80d03801 in Microsoft Store on Windows PC</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-remote-display-issue-darkened-screen/"><u>Resolving Windows Remote Display Issue: Darkened Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/rethinking-upgrades-windows-11s-improvement-focus/"><u>Rethinking Upgrades: Windows 11’S Improvement Focus</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-tab-s-experience-reviewed-a-superior-midrange-tablet-option-tailored-for-android-fans/"><u>Samsung Galaxy Tab S^ Experience Reviewed: A Superior Midrange Tablet Option Tailored for Android Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-day-wins-best-time-management-solutions/"><u>Streamline Your Day: Win's Best Time Management Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcoming-stuck-windows-update-fixer/"><u>Swiftly Overcoming Stuck Windows Update Fixer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-potential-of-written-expression/"><u>Unleash the Potential of Written Expression</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-online-video-reversers/"><u>Updated The Best Free Online Video Reversers</u></a></li>
 </ul></div>
 

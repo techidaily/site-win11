@@ -1,7 +1,7 @@
 ---
 title: Proven Techniques to Activate WordPad in Computer OS
-date: 2024-10-24T08:33:18.224Z
-updated: 2024-10-27T04:53:46.565Z
+date: 2024-10-31T22:55:24.371Z
+updated: 2024-11-01T16:26:55.736Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ To open WordPad using the search tool, follow these steps:
 
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Open WordPad via File Explorer
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
@@ -54,19 +47,6 @@ To open WordPad using the search tool, follow these steps:
 
 The WordPad application will open on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Open WordPad Using the Run Dialog
 
  If you're looking for a quick way to open WordPad on your Windows PC, the Run dialog is the way to go. Here's a step-by-step guide on how to do it:
@@ -76,10 +56,10 @@ The WordPad application will open on your computer.
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The WordPad application will now launch.
@@ -98,13 +78,6 @@ The WordPad application will now launch.
 3. When a pop-up window appears, type "wordpad" in its search box.
 4. Now click**OK** to launch the WordPad application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. How to Open WordPad Using the Control Panel
 
  If you're a Windows user, you likely already know what the Control Panel is. This tool allows you to view and manipulate basic system settings, but it isn't just limited to that; you can also launch various applications by using it.
@@ -117,6 +90,13 @@ To open WordPad using the Control Panel, follow these steps:
 4. Now click**Windows Tools** at the bottom of the screen.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
 
@@ -132,6 +112,13 @@ To do this, follow these steps:
 ![Open WordPad Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Command-Prompt.jpg)
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. How to Open WordPad Via Start Menu
 
  There are a lot of features on Windows that can be a bit tricky to find if you're not sure where to look. In order to make things easier, Windows has a Start Menu, which is very helpful. It is a great way to quickly access all of your apps and programs, including WordPad.
@@ -144,15 +131,22 @@ To open WordPad using the Start menu, follow these steps:
 ![Open WordPad Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Start-Menu.jpg)
 4. The next screen shows a list of Windows tools for you to choose from.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Double-click on**WordPad** to open it.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. How to Open WordPad by Creating a Desktop Shortcut
 
@@ -167,13 +161,6 @@ To open WordPad using the Start menu, follow these steps:
 
  You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Pin WordPad to the Start menu or Taskbar
 
  You can also pin your favorite apps and programs to the Start Menu or Taskbar, so you can find and launch them easily. Here's how:
@@ -181,6 +168,13 @@ To open WordPad using the Start menu, follow these steps:
 1. Click on Start and search for "WordPad."
 2. Now right-click on the search result and choose**Pin to taskbar** or**Pin to Start** .  
 ![Pin WordPad to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-WordPad-to-Taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
 
@@ -203,24 +197,20 @@ To open WordPad using the Start menu, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-most-popular-screen-recorders-free-version/"><u>[New] Discover the Most Popular Screen Recorders - Free Version</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[Updated] Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a18-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A18 without App | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/curing-graphics-issue-3-with-nvidia-windows-11-edition/"><u>Curing Graphics Issue #3 with NVIDIA, Windows 11 Edition</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-5-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT 5 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-overcoming-source-unreadable-errors-on-windows/"><u>Expert Tips for Overcoming ‘Source Unreadable’ Errors on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-memory-not-written-error-on-pc/"><u>Fixing Memory Not Written Error on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-direct-access-to-your-windows-11-application-bin/"><u>Mastering Direct Access to Your Windows 11 Application Bin</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-your-rooms-soundscape-on-windows-11/"><u>Maximizing Your Room's Soundscape on Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-unknown-and-slaying-beasts-an-analytical-review-of-monster-hunter-world/"><u>Navigating the Unknown and Slaying Beasts! An Analytical Review of Monster Hunter: World</u></a></li>
-<li><a href="https://win11.techidaily.com/power-up-pro-tips-enable-customized-battery-status-alerts-on-win11/"><u>Power-Up Pro Tips: Enable Customized Battery Status Alerts on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-deactivated-microsoft-outlook-alerts/"><u>Reactivating Deactivated Microsoft Outlook Alerts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-game-sessions-with-amazons-elite-150-discounted-gamer-speaker-system-highly-recommended/"><u>Revolutionize Your Game Sessions with Amazon's Elite $150 Discounted Gamer Speaker System, Highly Recommended</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-mechanics-of-swift-content-on-facebook/"><u>The Mechanics of Swift Content on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/the-pinnacle-of-predictions-winning-weather-apps-on-windows-11/"><u>The Pinnacle of Predictions: Winning Weather Apps on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-long-distance-wifi-routers-in-2/"><u>Top Rated Long Distance WiFi Routers in 2</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-dvd-to-digital-how-to-convert-dvd-to-digital-video-file-formats/"><u>Updated In 2024, DVD to Digital How to Convert DVD to Digital Video File Formats?</u></a></li>
-<li><a href="https://win11.techidaily.com/why-you-might-prefer-using-windows-11-overseas-macos/"><u>Why You Might Prefer Using Windows 11 Overseas macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cultivate-creativity-20plus-inspiring-youtube-concepts/"><u>[New] 2024 Approved Cultivate Creativity 20+ Inspiring YouTube Concepts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vidma-redefining-standard-practices-in-video-capture/"><u>[Updated] In 2024, Vidma Redefining Standard Practices in Video Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-film-enhancing-luts-for-gopro-cameras/"><u>2024 Approved Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/7-w11-ui-aspects-that-seem-out-of-place/"><u>7 W11 UI Aspects That Seem Out of Place</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-pasting-snippets-via-crafted-keybinds-in-windows-11-and-11/"><u>Effortless Pasting Snippets via Crafted Keybinds in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-obscured-space-to-optimization-windows-guide-for-reclaiming-disk/"><u>From Obscured Space to Optimization: Windows Guide for Reclaiming Disk</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-solutions-workarounds-when-renaming-folders-is-impossible-on-win-11/"><u>Innovative Solutions: Workarounds When Renaming Folders Is Impossible on Win 11</u></a></li>
+<li><a href="https://win-superb.techidaily.com/integrer-onedrive-a-votre-explorateur-de-fichiers-4-facons-efficaces/"><u>Intégrer OneDrive À Votre Explorateur De Fichiers : 4 Façons Efficaces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-past-conversations-with-chatgpt-a-step-by-step-guide/"><u>Reviving Past Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-configuring-windows-firewall-ports/"><u>Step-by-Step Guide to Configuring Windows Firewall Ports</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-d3dx926dll-errors-on-your-computer/"><u>Step-by-Step Solutions for Correcting 'd3dx9_26.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-safeguarding-access-to-your-facebook-profile/"><u>The Ultimate Tutorial On Safeguarding Access to Your Facebook Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-another-users-ms-error-on-pc/"><u>Troubleshooting: Another User's MS Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-adobe-photoshop-on-windows-11-and-11/"><u>Unlock Adobe Photoshop on Windows 11 & 11</u></a></li>
 </ul></div>
 

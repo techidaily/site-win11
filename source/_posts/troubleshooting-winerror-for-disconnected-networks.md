@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting WinError for Disconnected Networks
-date: 2024-09-11T09:34:27.500Z
-updated: 2024-09-12T09:34:27.500Z
+date: 2024-10-28T01:39:56.525Z
+updated: 2024-11-01T23:55:06.670Z
 tags:
   - windows10
   - windows11
@@ -47,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 
  But what if your other devices also face the same issue? In such a situation, it's probably a network-wide problem. So, reaching out to your internet service provider (ISP) for help would be wise.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Temporarily Disable Your Firewall and Antivirus
 
  If you can't access a network resource, disable your firewall as well as your antivirus software to see if that fixes the issue.
@@ -67,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
  Follow our guide on [how to disable the Windows Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for the necessary steps. If disabling the firewall resolves the error, whitelist the resource source first and then re-enable the firewall.
 
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Network Discovery on Your Computer
 
@@ -81,15 +75,16 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 3. Then go to **Advanced network settings > Advanced sharing settings** to access all the network sharing options.  
 ![Network And Internet Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/network-and-internet-settings-preview.jpg)
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
-5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
-![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
+![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
 
 ## 4\. Clear the DNS Cache on Windows
 
@@ -105,19 +100,19 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 4. Now you can retry sharing files on the network.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset the TCP/IP Settings
@@ -134,25 +129,11 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 ![Windows Services App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-app-preview.jpg)
 4. Wait for a while till Windows force restarts the service. Once done, disconnect and then reconnect your internet.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's not it! You need to follow some more steps to address this issue.
 
  To start, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type **netsh int ip reset**. Press the **Enter** key and restart your computer now.
 
  After a restart, the changes should take effect, and you may no longer face the network resource unavailable error.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear Outdated ARP Cache
 
@@ -172,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
  After completing the steps, your computer will no longer store outdated ARP cache entries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Network Resource Unavailability on Windows
@@ -188,8 +169,6 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 
  We'll look closer at the possible solutions to overcome the network resource unavailable error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +176,24 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ice-capped-inspiration-chinas-sports-spectacle/"><u>[New] In 2024, Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-avoid-livestream-frustration-addressing-facebook-outages/"><u>2024 Approved Avoid Livestream Frustration Addressing Facebook Outages</u></a></li>
+<li><a href="https://win-news.techidaily.com/clonierung-vs-neue-installation-auf-ssds-eine-detaillierte-analyse-und-praktische-schritt-fur-schritt-anleitung/"><u>Clonierung Vs. Neue Installation Auf SSDs: Eine Detaillierte Analyse Und Praktische Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-fixing-libxml2dll-not-found-errors/"><u>Comprehensive Guide to Fixing 'libxml2.dll Not Found' Errors</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-handle-windows-error-0x80071a90/"><u>How To Correctly Handle Windows Error 0X80071A90</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-unlocking-win11-mouse-features/"><u>Navigating the Maze: Unlocking Win11 Mouse Features</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-access-microsoft-store-sign-in-solutions/"><u>Recovering Access: Microsoft Store Sign-In Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstallation-strategies-for-lost-render-device-in-ow2/"><u>Reinstallation Strategies for Lost Render Device in OW2</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-code-0x8007045d/"><u>Strategies to Tackle Windows Error Code: 0X8007045D</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-click-lock-operations-for-windows-users/"><u>Streamlining Click Lock Operations for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-roblox-crashes-on-windows-demanding-termination/"><u>Troubleshooting Roblox Crashes on Windows Demanding Termination</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools/"><u>Updated Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-complimentary-access-to-50-premium-youtube-banners-in-2024/"><u>Your Complimentary Access to 50 Premium YouTube Banners, In 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Escalate User Role on Windows Instantly
-date: 2024-10-23T17:08:30.878Z
-updated: 2024-10-26T16:53:28.831Z
+date: 2024-10-31T03:12:47.788Z
+updated: 2024-11-02T01:40:15.581Z
 tags:
   - windows10
   - windows11
@@ -67,13 +67,20 @@ net user administrator /active:yes
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Make the Changes in Safe Mode
 
@@ -84,28 +91,28 @@ net user administrator /active:yes
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
  In this case, you can try to temporarily disable your security program and see if that helps you switch to an administrator account. You can do this by right-clicking on your antivirus icon in the taskbar and choosing the **Shields Control** \> **Disable until the computer is restarted** option.
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create a New Administrator Account
 
@@ -120,13 +127,6 @@ net user administrator /active:yes
 3. Hit the **Add account** button for **Add other users** in the following window.  
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
@@ -143,19 +143,6 @@ net user administrator /active:yes
 
  Below, we explore various effective fixes to resolve this problem permanently.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-phrases-for-gamers-videos-for-2024/"><u>[New] Finding the Perfect Phrases for Gamers' Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-yt-bidirectional-navigating-the-queue-from-the-conclusion-backwards/"><u>[Updated] In 2024, YT Bidirectional Navigating the Queue From the Conclusion Backwards</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-decade-of-innovation-in-online-cricket-streaming/"><u>2024 Approved A Decade of Innovation in Online Cricket Streaming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x/"><u>2024 Approved Reset and Refresh Fixing Common Issues in Final Cut Pro X</u></a></li>
-<li><a href="https://win11.techidaily.com/dxvk-uncovered-enhancing-win-based-gameplay-dynamics/"><u>DXVK Uncovered: Enhancing Win-Based Gameplay Dynamics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-shortcuts-for-efficient-mac-screen-recording/"><u>Essential Shortcuts for Efficient Mac Screen Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-rectify-virtualboxs-efail-windows-issue-0x80004005/"><u>Tips to Rectify Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-top-windows-11-fps-monitors-and-counter-tools/"><u>Unveiling Top Windows 11 FPS Monitors & Counter Tools</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +150,25 @@ net user administrator /active:yes
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-best-imagery-capturing-drones-in-10-selection/"><u>[Updated] Best Imagery-Capturing Drones in #10 Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-free-video-cutting-apps-your-go-to-list/"><u>[Updated] In 2024, Best Free Video Cutting Apps Your Go-To List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-obs-mobile-top-techniques/"><u>[Updated] In 2024, Mastering OBS Mobile Top Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/approaches-to-optimize-cpu-load-from-tiworkerexe/"><u>Approaches to Optimize CPU Load From TiWorker.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/batch-terminate-programs-in-windows-effortlessly/"><u>Batch Terminate Programs in Windows Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-viewsonic-va1655-a-standard-all-rounder-display-device/"><u>Comprehensive Analysis of ViewSonic VA1655 - a Standard All-Rounder Display Device</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-estimating-windows-app-size/"><u>Efficient Use: Estimating Windows App Size</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-0x8004def5-onedrive-hurdle-on-win11/"><u>Eradicating 0X8004DEF5 Onedrive Hurdle on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-update-your-amd-radeon-graphics-drivers-on-windows-11/"><u>How to Update Your AMD Radeon Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mac-innovators-handbook-crafting-cool-youtube-videos-for-2024/"><u>Mac Innovators' Handbook Crafting Cool Youtube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/master-subtitles-management-with-prime-and-windows-11/"><u>Master Subtitles Management with Prime and Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-screen-snafus-with-sonic-frontiers-securing-smooth-play-on-w11/"><u>Navigating Screen Snafus with Sonic Frontiers - Securing Smooth Play on W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reparez-vos-photos-historiques-avec-des-outils-gratuits-et-alimentes-par-ai-decouvrez-les-meilleurs-8-solutions/"><u>Réparez Vos Photos Historiques Avec Des Outils Gratuits Et Alimentés Par AI - Découvrez Les Meilleurs 8 Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/alize-your-day-with-these-top-10-yoga-videos-for-2024/"><u>Revitalize Your Day with These Top 10 Yoga Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectify-slow-windows-app-connections-for-peak-performance/"><u>Swiftly Rectify Slow Windows App Connections for Peak Performance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/systematic-approach-to-end-macs-system-lockup/"><u>Systematic Approach to End Mac's System Lockup</u></a></li>
+</ul></div>
+

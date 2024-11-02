@@ -1,7 +1,7 @@
 ---
 title: "Win at VMs: Essential Ways to Amplify Windows Performance"
-date: 2024-09-11T09:35:28.655Z
-updated: 2024-09-12T09:35:28.655Z
+date: 2024-10-28T16:33:32.099Z
+updated: 2024-11-01T19:33:19.054Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Allocate Enough System Resources to the Virtual Machine
 
  The first step is allocating enough resources for your virtual machine so it can do its job properly. It’s entirely up to you how many system resources you want to allocate to your virtual machine.
@@ -46,32 +39,12 @@ thumbnail: https://thmb.techidaily.com/e350204044526aae4dc95dcf2061d143539918222
 ![VM System Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/vm-system-settings-preview.jpg)
 4. Allocate enough CPU cores or**Processors** to your virtual machine. You should allocate at least**four CPU cores** to your virtual machine and more than**4GB** of RAM.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. If your system allows, allocate some more storage space. This will avoid situations like running out of storage space in the middle. 80-90GB may be sufficient for you in most cases.
 6. Click**OK** to save the changes and restart your virtual machine.
 
  Make sure to keep a check on your virtual machine's performance. You can also adjust the resource allocation as needed.
 
  If, due to any reason, you are unable to edit your VM settings, make sure to shut it down first! VM managers usually don’t allow tweaking their preferences in an active state.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Switch to a Solid State Drive (SSD)
 
@@ -88,13 +61,6 @@ Here’s how to use an SSD to run your VM on Windows:
 ![Virtual Machine Storage Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/virtual-machine-storage-settings.jpg)
 3. Select the disk type as**VHD (Virtual Hard Disk)** and choose the desired**File location and size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Virtual Machine Disk Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/virtual-machine-disk-settings.jpg)
 4. Once done, click**Finish** to save the changes and restart your VM.
 
@@ -110,6 +76,20 @@ Here’s how to use an SSD to run your VM on Windows:
 
 ![VM Snapshot Option Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/vm-snapshot-option-preview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Tweak Your Virtual Machine Settings
 
  Almost all virtual machine managers give you a plethora of options to customize your VM. And some of the options can even help you improve your VM’s performance.
@@ -124,10 +104,10 @@ Here’s how to use an SSD to run your VM on Windows:
 * **Network adapter:** The default network adapter settings are not always the best. So, you need to experiment with it to increase your VM's networking experience. For example, you can remove the bandwidth restrictions to improve the overall network speed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable Hardware Virtualization on Windows
@@ -146,22 +126,15 @@ Here’s how to use an SSD to run your VM on Windows:
 ![Windows 11 Recovery Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-recovery-settings.jpg)
 4. Select the**Troubleshoot** option and press**enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows Advanced Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-advanced-startup-options.jpg)
 5. On the**Advanced options** window, choose the**UEFI Firmware Settings** to launch the BIOS setup.  
 ![Windows Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you are in the BIOS utility, you just need to find the**Hardware Virtualization** option there and toggle it**ON** . This option may be with the name of**Virtualization Technology** in some laptops.
@@ -189,5 +162,18 @@ Here’s how to use an SSD to run your VM on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[Updated] 2024 Approved InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-securing-social-streaming-download-strategies-unveiled-for-2024/"><u>[Updated] Securing Social Streaming Download Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x800704cf-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error 0X800704CF in Windows 10 & 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>In 2024, The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-store-sign-in-hurdles/"><u>Mastering Microsoft Store Sign-In Hurdles</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-galaxy-z-fold-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Galaxy Z Fold 5 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro/"><u>Updated 2024 Approved Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-wins-eliminating-common-display-issues/"><u>Winning at Wins: Eliminating Common Display Issues</u></a></li>
+</ul></div>
 

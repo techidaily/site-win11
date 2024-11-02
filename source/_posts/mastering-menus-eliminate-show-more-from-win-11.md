@@ -1,7 +1,7 @@
 ---
 title: "Mastering Menus: Eliminate Show More From Win 11"
-date: 2024-10-23T19:05:25.145Z
-updated: 2024-10-27T06:11:26.463Z
+date: 2024-10-29T22:26:27.002Z
+updated: 2024-11-01T22:38:21.173Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ Next, restart your computer for the changes to take effect.
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
@@ -68,6 +68,13 @@ Next, restart your computer for the changes to take effect.
  In the future, if you want to add the "show more options" entry to the context menu, then open Command Prompt with admin rights and run the following command:
 
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
@@ -83,21 +90,7 @@ Next, restart your computer for the changes to take effect.
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
@@ -112,14 +105,27 @@ Next, restart your computer for the changes to take effect.
 4. Check the**Enable classic full context menus** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
 
@@ -140,15 +146,14 @@ Next, restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-fb-buzz-creating-share-worthy-content/"><u>[New] 2024 Approved Mastering FB Buzz Creating Share-Worthy Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-finding-the-middle-ground-working-and-youtube/"><u>2024 Approved Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-taskbar-language-indicator-in-windows-11/"><u>Eliminate Taskbar Language Indicator in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-phone-integration-for-next-gen-windows-users/"><u>Enhancing Phone Integration for Next-Gen Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-preparations-to-make-when-restarting-windows/"><u>Essential Preparations to Make When Restarting Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-rearrange-onedrive-on-windows-11/"><u>Navigate and Rearrange OneDrive on Windows 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-discover-the-best-free-3d-animation-apps-for-android-iphone-and-ipad/"><u>New In 2024, Discover the Best Free 3D Animation Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-budget-without-sacrificing-quality-experts-choose-best-discounted-gaming-audio-system-at-amazon-insights/"><u>Slash Your Budget Without Sacrificing Quality: Experts Choose Best Discounted Gaming Audio System at Amazon | Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-azures-speech-recognition-into-development/"><u>[New] Integrating Azure’s Speech Recognition Into Development</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-and-samsung-faces-examining-their-biometric-security/"><u>2024 Approved IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-our-no-cost-mp4-video-transformer-web-and-pc-version-available/"><u>Download Our No-Cost MP4 Video Transformer: Web & PC Version Available</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-challenge-write-permissions-for-steam-folders/"><u>Easing the Challenge: Write Permissions for Steam Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-using-windows-11-snap-features/"><u>Essential Tips for Using Windows 11 Snap Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-non-recognized-ports-and-devices-on-windows-11/"><u>How to Fix Non-Recognized Ports and Devices on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo T2 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-simple-way-to-self-empty-the-recycle-bin-on-windows/"><u>The Simple Way to Self-Empty the Recycle Bin on Windows</u></a></li>
 </ul></div>
 

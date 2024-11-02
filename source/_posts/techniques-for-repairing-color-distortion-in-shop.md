@@ -1,7 +1,7 @@
 ---
 title: Techniques for Repairing Color Distortion in Shop
-date: 2024-09-11T09:33:26.890Z
-updated: 2024-09-12T09:33:26.890Z
+date: 2024-10-27T00:08:19.010Z
+updated: 2024-11-02T02:09:37.954Z
 tags:
   - windows10
   - windows11
@@ -39,25 +39,11 @@ Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Internet Connection
 
  There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Microsoft Store Troubleshooter
 
@@ -72,14 +58,14 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
- Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 ## 4\. Delete the Microsoft Store Cache
 
@@ -88,13 +74,6 @@ Open Microsoft Store again and check if it’s now working.
  Press**Win + R** to bring up a Run dialog. Then, type**wsreset.exe** , and press**Shift + Enter** to run the command with administrative rights.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the SFC Tool
 
@@ -105,6 +84,13 @@ Open Microsoft Store again and check if it’s now working.
  Make sure you don’t close the Command Prompt window until the scan is complete. Windows will search and automatically replace any corrupt or damaged system files.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
 
@@ -123,10 +109,10 @@ Go through the below steps to change the Windows region:
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -137,16 +123,22 @@ Go through the below steps to change the Windows region:
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset Your Windows PC
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Working Again
 
@@ -167,5 +159,23 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-independent-mobile-games-play-without-a-network-android/"><u>[New] 2024 Approved The Ultimate List of Independent Mobile Games - Play Without a Network (Android)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-enhancing-canva-videos-with-custom-music-edits/"><u>[New] Enhancing Canva Videos with Custom Music Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-easily-stream-facebook-live-chats-with-roku/"><u>[New] In 2024, Easily Stream Facebook Live Chats with Roku</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-charting-the-course-to-earnings-with-youtube-videos/"><u>[Updated] Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-20-zero-copyright-pubg-image-collections/"><u>[Updated] Leading 20 Zero-Copyright PUBG Image Collections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>2024 Approved The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-reset-counter-for-incorrect-logins-on-windows-11-os/"><u>Customizing Reset Counter for Incorrect Logins on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-update-and-synchronization-service/"><u>Decoding Windows Update and Synchronization Service</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-resetting-search-to-factory-standards-in-win11/"><u>Expert Tips: Resetting Search to Factory Standards in Win11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-discovering-the-past-best-history-youtubers/"><u>In 2024, Discovering the Past Best History YouTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-steps-to-scrub-microsofts-defender-traces-on-win-11/"><u>Methodical Steps to Scrub Microsoft’s Defender Traces on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-nvidia-driver-matches-gamingstudio-distinction/"><u>Optimal Nvidia Driver Matches: Gaming/Studio Distinction</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-privacy-trusted-sites-listing-in-windows-11/"><u>Prioritizing Privacy: Trusted Sites Listing in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-chrome-screen-blankness-issue/"><u>Resolving Chrome Screen Blankness Issue</u></a></li>
+<li><a href="https://win-studio.techidaily.com/secure-your-files-and-folders-discover-the-best-free-version-of-aomei-backupper-for-effortless-data-backups/"><u>Secure Your Files & Folders: Discover the Best Free Version of AOMEI Backupper for Effortless Data Backups</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-12-proplus-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 12 Pro+ 5G ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
 

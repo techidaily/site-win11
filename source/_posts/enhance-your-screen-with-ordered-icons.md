@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Screen with Ordered Icons
-date: 2024-10-25T07:37:10.062Z
-updated: 2024-10-27T09:53:06.859Z
+date: 2024-10-28T19:21:37.197Z
+updated: 2024-11-02T01:12:08.315Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,20 @@ Here is how you can do that:
 2. Click**View** \>**Small icons** .  
 ![Choose small icons on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-small-icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can now check if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
@@ -73,6 +80,13 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 7. Change the value of**IconVerticalSpacing** to -1125 in the same way.
 
  Once you are done, close the Registry Editor and restart your computer. Upon reboot, the desktop icons should be back in their place.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Relevant Features
 
@@ -98,21 +112,7 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To gain a better understanding of which updates are essential for your system, you can refer to our[comprehensive guide on Windows names and numbers](https://www.makeuseof.com/windows-updates-name-number-guide/) . This will enable you to make informed decisions regarding critical updates that your system requires.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use the System Restore Tool
 
@@ -123,16 +123,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
  If the other troubleshooting methods mentioned in this guide are not resolving your issue, you can proceed with this method.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy a Less-Cluttered Desktop on Windows
@@ -154,22 +148,20 @@ HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-picking-perfect-your-path-through-basic-plus-and-pro-in-vimeo/"><u>[Updated] 2024 Approved Picking Perfect Your Path Through Basic, Plus & Pro in Vimeo</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-what-lies-beneath-the-true-meanings-in-emoji/"><u>2024 Approved What Lies Beneath The True Meanings in Emoji</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-mechanics-of-mouseclicklock-in-windows-systems/"><u>Deciphering the Mechanics of MouseClickLock in Windows Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/examining-the-sharpness-of-panasonic-hc-wxf991/"><u>Examining the Sharpness of Panasonic HC-WXF991</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-blaze-2-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Blaze 2</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unearth-hidden-keys-for-old-and-new-windows-editions/"><u>How to Unearth Hidden Keys for Old and New Windows Editions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-infinix-smart-8-hd-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Smart 8 HD Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-f23-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo F23 5G FRP Without Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/meeting-mastery-how-to-ensure-your-techs-performance-windows/"><u>Meeting Mastery: How to Ensure Your Tech's Performance (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-m365-code-30015-26-glitch-on-windows-systems/"><u>Overcoming M365 Code 30015-26 Glitch on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-gaming-restore-xbox-one-controllers-fit/"><u>PC Gaming: Restore Xbox One Controllers' Fit</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-how-to-boot-your-windows-11-pc-into-safe-mode/"><u>Quick Fixes: How to Boot Your Windows 11 PC Into Safe Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-default-functionality-to-windows-11-search/"><u>Restoring Default Functionality to Windows 11 Search</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-conquering-unidentified-obs-studio-errors/"><u>Swift Solution: Conquering Unidentified OBS Studio Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-silent-windows-irq-noise/"><u>Unveiling the Secrets to Silent Windows' IRQ Noise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[New] 2024 Approved Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-best-5-book-promo-videos-for-authors/"><u>[New] Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-compelling-video-story-with-b-roll-variety/"><u>[Updated] Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-graphics-from-windows-search-interface/"><u>Clearing Graphics From Windows Search Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-crashes-sonic-frontiers-full-screen-fixes/"><u>Conquering Crashes: Sonic Frontiers Full-Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/futuristic-approaches-surpassing-traditional-fbx-recorders/"><u>Futuristic Approaches Surpassing Traditional FBX Recorders</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-wont-sync-with-windows-or-mac/"><u>How To Troubleshoot When Your iPhone Won't Sync With Windows Or Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967268566-install-new-driver-for-canon-pixma-ts3322-secure-your-free-downloads-today/"><u>Install New Driver for Canon PIXMA TS3322 – Secure Your Free Downloads Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-awareness-in-pc-sleep-states/"><u>Mastering Device Awareness in PC Sleep States</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-exe-file-opener-failures-in-windows/"><u>Overcoming .exe File Opener Failures in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiers-choice-5-best-slow-motion-cams/"><u>Premier's Choice 5 Best Slow-Motion Cams</u></a></li>
+<li><a href="https://win11.techidaily.com/shadowing-shutdown-hide-win11s-power-icon-strategically/"><u>Shadowing Shutdown: Hide Win11's Power Icon Strategically</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-increasing-cs-2-gameplay-smoothness-and-reducing-lag/"><u>Step-by-Step Solution for Increasing CS 2 Gameplay Smoothness and Reducing Lag</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-display-selecting-premium-timers-and-savers/"><u>Upgrade Your Display: Selecting Premium Timers & Savers</u></a></li>
 </ul></div>
 

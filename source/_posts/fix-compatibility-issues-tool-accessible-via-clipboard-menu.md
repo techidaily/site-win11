@@ -1,7 +1,7 @@
 ---
 title: "Fix Compatibility Issues: Tool Accessible Via Clipboard Menu"
-date: 2024-10-21T21:44:15.230Z
-updated: 2024-10-27T09:32:33.555Z
+date: 2024-10-29T17:50:21.126Z
+updated: 2024-11-02T05:03:52.909Z
 tags:
   - windows10
   - windows11
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
  Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on[creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a "Troubleshoot Compatibility" Option to the Context Menu With the Registry Editor
@@ -45,20 +45,13 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 ![Adding a new key to the ContextMenuHandler key for the EXE files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-key-compatibility-troubleshooter-context-menu.jpg)
 4. Select the**Compatibility** key, double-click**Default** on the right, and set**Value data** to**{1d27f844-3a1f-4410-85ac-14651078412d}** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Entering value data for a string value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, you’re going to repeat the steps above to add the**Troubleshoot Compatibility** to the context menu of other BAT and CMD files. Just replace the key path in step two with**HKEY\_CLASSES\_ROOT\\batfile\\shellEx\\ContextMenuHandlers\\** for BAT files and**HKEY\_CLASSES\_ROOT\\cmdfile\\shellEx\\ContextMenuHandlers\\** for CMD files.
@@ -67,13 +60,20 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 ![The Troubleshoot compatibility option in the context menu on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-compatibility-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you have one more way to[run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Run the Program Compatibility Troubleshooter Easily
@@ -95,21 +95,19 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-effortless-rearrangement-of-your-personalized-lists/"><u>[New] In 2024, Effortless Rearrangement of Your Personalized Lists</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-time-saving-titans-the-8-cutting-edge-schedulers-reviewed-for-2024/"><u>[Updated] Time-Saving Titans The 8 Cutting-Edge Schedulers Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-when-and-why-should-you-post-on-instagram/"><u>[Updated] When and Why Should You Post on Instagram?</u></a></li>
-<li><a href="https://facebook.techidaily.com/activism-affects-apps-groups-seek-to-lower-social-media-stars/"><u>Activism Affects Apps: Groups Seek to Lower Social Media Stars</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/deciphering-androids-lightroom-capabilities/"><u>Deciphering Android's Lightroom Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-f54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy F54 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-150-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia 150 (2023) to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208954635-lost-sd-card-discovery-reveal-and-repair-paths/"><u>Lost SD Card Discovery? Reveal and Repair Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-virtualboxs-efail-windows-issue-0x80004005/"><u>Navigating Through Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-your-tabs-a-guide-to-resurrecting-key-functions/"><u>Reactivate Your Tabs: A Guide to Resurrecting Key Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-windows-with-a-mac-os-layout-heres-how/"><u>Streamline Your Windows With A Mac OS Layout: Here's How</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-instagrams-video-connectivity-techniques/"><u>[New] In 2024, Exploring Instagram’s Video Connectivity Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-videography-size-guide-ready/"><u>2024 Approved Instagram Videography Size Guide - Ready</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/by-chance-tiktok-rewind-how-to-replay-videos-in-2024/"><u>By Chance, TikTok Rewind How to Replay Videos, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-heart-of-windows-11-registry-explained/"><u>Delving Into the Heart of Windows 11: Registry Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-false-negatives-restoring-accurate-game-status-in-discord-windows/"><u>Eliminating False Negatives: Restoring Accurate Game Status in Discord (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/eye-catching-laptops-exhibited-at-ifa-2023/"><u>Eye-Catching Laptops Exhibited at IFA 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-self-triggered-command-prompt-issues/"><u>Fixing Self-Triggered Command Prompt Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor ?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>In 2024, Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-speaker-recognition-errors/"><u>Rectifying Windows Speaker Recognition Errors</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamless-methods-for-moving-picasa-albums-onto-an-outside-hard-disk/"><u>Seamless Methods for Moving Picasa Albums Onto an Outside Hard Disk</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-of-the-2nd-gen-google-nest-hub-a-solid-choice-even-without-a-camera/"><u>Unveiling the Capabilities of the 2Nd Gen Google Nest Hub – A Solid Choice Even without a Camera</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-release-apple-eyes-new-buds-and-over-ear-headphones-tech-news-by-zdnet/"><u>Upcoming Release: Apple Eyes New Buds and Over-Ear Headphones - Tech News by ZDNet</u></a></li>
 </ul></div>
 

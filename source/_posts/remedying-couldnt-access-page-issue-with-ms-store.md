@@ -1,7 +1,7 @@
 ---
 title: Remedying 'Couldn't Access' Page Issue with MS Store
-date: 2024-09-11T09:31:58.664Z
-updated: 2024-09-12T09:31:58.664Z
+date: 2024-10-27T22:51:43.372Z
+updated: 2024-11-01T18:41:40.618Z
 tags:
   - windows10
   - windows11
@@ -25,18 +25,18 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Microsoft Store "Page Could Not Be Loaded" Error?
 
  Usually, the "Page could not be loaded" error message appears when the app you are searching for is unavailable on the Microsoft Store. But sometimes, it appears even on searching for available apps like Minecraft. The error message comes along with the 0x80131505 code.
 
  Some of the prime culprits behind this error are corruption in the Microsoft Store, misconfigured date and time, and any active proxy server. Fortunately, you can make certain changes to troubleshoot the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Sign Out and Back Into the Microsoft Store
 
@@ -49,20 +49,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![Sign In Option of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sign-in-option.jpg)
 4. Select your account and then click the**Continue** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Enter your PIN to confirm your identity.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Microsoft Store Region to the Country You're In
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![Region Settings option in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/region-settings-1.jpg)
 3. Click the drop-down icon next to**Country and region** and choose your country name from the list.  
 ![Choose Region in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choose-region.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. You might need to restart your computer (see[how to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) for the changes to take effect.
 
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 4. Under the**Other** section, click the**Run** button next to the**Windows Store Apps** troubleshooter.  
 ![The Run button for Windows Store Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-run-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, the troubleshooter window will appear and start detecting problems. If it finds any, it will automatically fix it without much user input.
 
 ## 4\. Check Your System Date and Time
@@ -108,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 2. Click**Date** **& time** .
 3. Enable the toggle next to the**Set time automatically** and**Set time zone automatically** options.  
 ![Change Date and Time in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-date-and-time.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now open the Microsoft Store and check if you are still facing the problem. If yes, then try the next solution on the list.
 
@@ -140,13 +126,6 @@ Net Start wuauserv
 Net Start appidsvc  
 Net Start cryptsvc`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Any Active Proxy Server Settings
 
  Using a[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) can come in handy when you want to access websites and apps blocked in your region. But on the negative side, it can cause issues in apps like the Microsoft Store, Xbox, and YouTube.
@@ -160,10 +139,10 @@ Net Start cryptsvc`
 ![Use a Proxy Server option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-a-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Repair and Reset the Microsoft Store
@@ -178,21 +157,22 @@ To use these troubleshooting options, follow the below instructions:
 4. Click the**Repair.**  
 ![MS Store Repair Option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ms-store-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will now start repairing the Microsoft Store. After the process is complete, you'll see a checkmark next to the repair option.
 
  Now, launch the Microsoft store and check if the problem continues. If yes, then click**Reset** present under the Repair option.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the "Page Could Not Be Loaded" Error in the Windows Store
@@ -214,5 +194,19 @@ To use these troubleshooting options, follow the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-amplifying-obs-visual-appeal-with-free-high-quality-luts/"><u>[New] 2024 Approved Amplifying OBS Visual Appeal with Free, High-Quality LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-techniques-for-swapping-your-images-tone-spectrum/"><u>2024 Approved Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/convert-your-videos-to-audio-files-at-no-cost-with-easy-mp4-to-mp3-tools-in-windows-11/"><u>Convert Your Videos to Audio Files at No Cost with Easy MP4 to MP3 Tools in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976822942-get-your-free-epson-et-2750-drivers-installed-on-windows-pcs-today/"><u>Get Your Free Epson ET-2750 Drivers Installed on Windows PCs Today</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x800704cf-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error 0X800704CF in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/joke-tastic-iphones-today-for-2024/"><u>Joke-Tastic iPhones Today for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/spotting-blank-space-on-your-drive-a-step-by-step-folder-cleanup-guide/"><u>Spotting Blank Space on Your Drive: A Step-by-Step Folder Cleanup Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-transition-for-optimal-ssd-upgrades-in-decks/"><u>Stepwise Transition for Optimal SSD Upgrades in Decks</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-setting-a-new-path-for-your-onedrive/"><u>Win 11: Setting a New Path for Your OneDrive</u></a></li>
+</ul></div>
 

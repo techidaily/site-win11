@@ -1,7 +1,7 @@
 ---
 title: Direct Steps to Activate/Disable Wifi Cost Metering in Win11
-date: 2024-09-11T09:35:57.358Z
-updated: 2024-09-12T09:35:57.358Z
+date: 2024-10-30T03:27:02.430Z
+updated: 2024-11-02T03:33:03.670Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
 
  The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
@@ -44,20 +37,13 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 6. Enable the toggle next to**Metered connection** to set the Wi-Fi network as metered. If you want to set the network as an unmetered connection, disable the toggle.  
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
@@ -73,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
@@ -88,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable the metered connection for a network, run the following command instead.
@@ -103,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
@@ -128,5 +114,26 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-paths-revealed-full-review-of-dji-phantom-4/"><u>2024 Approved Flight Paths Revealed Full Review of DJI Phantom 4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sleek-arenas-2022s-olympic-skating/"><u>2024 Approved Sleek Arenas 2022'S Olympic Skating</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-in-class-ipad-compared-to-kindel-and-booknook-devices/"><u>Best in Class: IPAD Compared to KINDEL AND BOOKNOOK Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-install-or-update-your-dell-latitude-e6-groove-driver-for-windows-os-fixed-now/"><u>Easy Steps to Install or Update Your Dell Latitude E6 Groove Driver for Windows OS - FIXED NOW</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-websites-refusing-entry-solutions-for-windows-users/"><u>Fixed Websites Refusing Entry: Solutions for Windows Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlocking-viewership-on-multiple-channels-youtube-and-friends/"><u>In 2024, Unlocking Viewership on Multiple Channels (YouTube & Friends)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/maximize-your-social-footprint-on-facebook-with-free-help/"><u>Maximize Your Social Footprint on Facebook with Free Help</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-utility-with-personalized-windows-11-configurations/"><u>Maximizing Utility with Personalized Windows 11 Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-prevent-windows-from-opening-spotify/"><u>Method to Prevent Windows From Opening Spotify</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win-lsa-fault-detection/"><u>Overcoming Win LSA Fault Detection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fixes-to-update-drivers-on-your-asus-maximus-x-hero-computer/"><u>Quick Fixes to Update Drivers on Your ASUS Maximus X Hero Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-connection-error-fixes-tips-for-a-smooth-multiplayer-experience/"><u>Rainbow Six Siege Connection Error Fixes - Tips for a Smooth Multiplayer Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/the-powerful-protection-of-the-windows-canary-feature/"><u>The Powerful Protection of the Windows Canary Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-and-solutions-resolving-the-problem-when-your-ipad-wont-print-or-find-printers/"><u>Tips & Solutions: Resolving the Problem When Your iPad Won't Print or Find Printers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-app-starts-with-missing-qt-plugins/"><u>Troubleshooting App Starts with Missing Qt Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-worlds-how-to-incorporate-apple-maps-into-windows/"><u>Uniting Worlds: How to Incorporate Apple Maps Into Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone XR Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-wi-fi-connectivity-problems-on-windows-11/"><u>Unraveling Wi-Fi Connectivity Problems on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-network-diagnostics-arp-cache-elimination/"><u>Windows Network Diagnostics: ARP Cache Elimination</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Functional Window Previews
-date: 2024-10-24T17:26:49.525Z
-updated: 2024-10-26T17:24:34.144Z
+date: 2024-10-29T18:43:01.855Z
+updated: 2024-11-02T01:19:50.795Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Edit the Taskband and Advanced Registry Keys
 
  Editing the Taskbar registry key is a widely confirmed solution for fixing taskbar thumbnail previews not working. This potential resolution will fix the **NumThumbnails** DWORD in that key, which might be deleted or incorrectly set. That DWORD sets the maximum number of taskbar thumbnail previews for a single minimized window. This is how you should edit the **Taskband** registry key:
@@ -51,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 ![The New > DWORD option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-dword-options.jpg)
 5. Enter **NumThumbnails** inside the DWORD name text box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Double-click the **NumThumbnails** DWORD.  
 ![The NumThumbnails DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/numthumbnails-dword.jpg)
 7. If that **DWORD** is set at **0**, erase that number and input **10** in the **Value** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-dword-window3.jpg)
@@ -90,10 +90,16 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 5. Select **Apply** \> **OK** to disable the **Turn off taskbar thumbnails** policy as configured.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Roll Windows Back With a System Restoration Point
@@ -103,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/system-restore-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can roll back Windows by following the instructions in this guide to [utilizing System Restore on Windows](https://www.makeuseof.com/use-system-restore-windows/). Applying this potential solution will remove software packages installed after the date of the selected restore point. This will mean some reinstallation of software will probably be necessary after rolling back Windows.
@@ -117,29 +123,6 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
  This issue often arises when users have multiple windows open for apps. Consequently, users only see text labels for minimized window titles. Does a similar thing happen when you try to view taskbar previews? If so, this is how you can fix taskbar thumbnail previews not working on Windows 11/10 PCs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-goofy-way-a-look-back-at-the-90s-comedy-vhs/"><u>[New] 'The Goofy Way' A Look Back at the 90S Comedy VHS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-comprehensive-list-of-excellent-fb-cover-photo-creators/"><u>[Updated] 2024 Approved A Comprehensive List of Excellent FB Cover Photo Creators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-viral-beats-to-ringtones-transforming-tiktok-sounds/"><u>[Updated] From Viral Beats to Ringtones Transforming TikTok Sounds</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-step-by-step-blueprint-for-impressive-photographic-mosaics/"><u>[Updated] Step-by-Step Blueprint for Impressive Photographic Mosaics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-smudge-solution-blurring-visions-in-video-content/"><u>[Updated] The Smudge Solution Blurring Visions in Video Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-step-by-step-softening-audio-routine/"><u>2024 Approved Step-by-Step Softening Audio Routine</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-restoring-functionality-to-resource-monitor-on-win11/"><u>Comprehensive Guide: Restoring Functionality to Resource Monitor on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-digital-footprints-finding-windows-11-writable-mac/"><u>Deciphering Digital Footprints: Finding Windows 11' Writable MAC</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-chronicle-of-run-command-activities/"><u>Enabling Chronicle of Run Command Activities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-phone-by-drfone-android/"><u>How to Reset a Locked Honor Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/hypervisor-blues-heres-your-win-10-and-11-fix-guide/"><u>Hypervisor Blues? Here's Your Win 10 & 11 Fix Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-is-now-equip-yourself-with-these-7-devices/"><u>In 2024, The Future Is Now - Equip Yourself with These 7 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-windows-logins-passing-or-faltering-attempts/"><u>Insight Into Windows Logins: Passing or Faltering Attempts</u></a></li>
-<li><a href="https://win11.techidaily.com/reach-windows-11-excellence-top-settings-to-personalize-and-tweak/"><u>Reach Windows 11 Excellence: Top Settings to Personalize and Tweak</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-windows-shared-folder-entry-points/"><u>Reclaim Windows Shared Folder Entry Points</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-ownership-related-settings-glitches-in-windows-11/"><u>Resolving Ownership-Related Settings Glitches in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-for-purging-history-from-ms-defender/"><u>Unveiling the Process for Purging History From MS Defender</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-create-neon-effects-online-8-simple-and-free-tools-to-get-you-started-for-2024/"><u>Updated Create Neon Effects Online 8 Simple and Free Tools to Get You Started for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +130,23 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quick-guide-to-video-cross-upload-twitter-and-tumblr/"><u>[New] 2024 Approved Quick Guide to Video Cross-Upload Twitter & Tumblr</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adobes-art-of-amusement-and-jest/"><u>[New] Adobe's Art of Amusement and Jest</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-a-youtube-video-trending-for-2024/"><u>[New] How to Get a YouTube Video Trending for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac/"><u>[New] Proven Practice for Preserving Playthroughs Tips & Tricks for Recording Roblox Gameplay on a Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uench-your-relaxation-aspertronics-guide-for-2024/"><u>[New] Quench Your Relaxation Aspertronics Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-revamped-widget-picker-in-win11/"><u>Configuring Revamped Widget Picker in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-hello-login-fingerprint-failure/"><u>Eliminating Windows Hello Login Fingerprint Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-instantaneous-folder-upload-failures-in-the-windows-onedrive-environment/"><u>Quick Fixes for Instantaneous Folder Upload Failures in the Windows OneDrive Environment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ready-for-ios-16-heres-how-to-get-the-latest-ios-public-beta-and-should-you-wait-digitaltimes/"><u>Ready for IOS 16? Here's How to Get the Latest iOS Public Beta & Should You Wait? | DigitalTimes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-0xc0000098-a-step-by-step-guide/"><u>Resolving Windows Error Code 0xC0000098: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-peace-of-mind-with-these-5-family-safety-fixes/"><u>Restore Peace of Mind with These 5 Family Safety Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-clipchamp-install-on-windows-11-with-these-steps/"><u>Secure ClipChamp Install on Windows 11 with These Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-error-codes-when-installing-windows-apps/"><u>Understanding Error Codes When Installing Windows Apps</u></a></li>
+</ul></div>
+

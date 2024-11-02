@@ -1,7 +1,7 @@
 ---
 title: Immediate Remedy for Keyboard Shortcut Failures with Snips
-date: 2024-10-19T19:44:04.044Z
-updated: 2024-10-27T02:00:28.274Z
+date: 2024-10-28T00:44:52.859Z
+updated: 2024-11-01T16:10:11.298Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,23 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
  To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard
 
  Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable the Clipboard History
 
@@ -41,22 +55,15 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 
 ![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
 
  You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn on Snipping Tool Notification Toggle
@@ -70,14 +77,14 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
 ![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
 
- Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
 
 ## 5\. Reset the Snipping Tool
 
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
  You can also use **Win + R** or type **ms-settings:appsfeatures** in the Run dialog box to open Installed apps. From there, you can find the Advanced options for the Snipping Tool.
 
 ![Reset Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-snipping-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
 
@@ -116,6 +116,14 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 2. Type **gpedit.msc** in the dialog box and hit Enter. This will open the Group Policy Editor window.  
 ![Turn on Windows Hotkeys Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-group-policy.jpg)
 3. Navigate to the path:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
 4. In the right pane, double-click on the **Turn off Windows Key hotkeys** option.
 5. Select Enabled in the settings window and click **Apply** \> **OK**.
@@ -148,47 +156,11 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
 4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
 5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Taking Screenshots Is Easy With Shortcut Keys
 
  Keyboard shortcuts provide quick and easy access to different functions on your PC. It allows you to easily switch between applications and perform tasks. There are times, though, when the Win + Shift + S hotkey does not work properly. Hopefully, one of the above methods fixed this issue for you.
 
  Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[Updated] 2024 Approved 10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-fastest-rising-youtube-stars-for-personal-growth-and-motivation-for-2024/"><u>[Updated] The Fastest Rising YouTube Stars for Personal Growth and Motivation for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-reach-strategies-from-seasoned-tubebuddy-experts/"><u>2024 Approved Maximizing Reach Strategies From Seasoned TubeBuddy Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/comparative-study-of-software-package-file-types-exe-vs-msi/"><u>Comparative Study of Software Package File Types: Exe vs Msi</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-individualized-gpo-settings-a-windows-11-masterclass/"><u>Crafting Individualized GPO Settings: A Windows 11 Masterclass</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-wsl-complete-uninstall-guide-for-windows-11/"><u>Eliminating WSL: Complete Uninstall Guide for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-steam-issues-preventing-game-launch-on-windows-11/"><u>How to Mend Steam Issues Preventing Game Launch on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-a58-4g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of A58 4G on Mac?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-in-browser-ai-the-ultimate-guide-to-deploying-ai-agents-using-agentgpt/"><u>Mastering In-Browser AI: The Ultimate Guide to Deploying AI Agents Using AgentGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a38-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A38 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pioneers-in-virtual-marvel-storytelling/"><u>Pioneers in Virtual Marvel Storytelling</u></a></li>
-<li><a href="https://win11.techidaily.com/reinforcing-safety-efficient-fixes-for-windows-features/"><u>Reinforcing Safety: Efficient Fixes for Windows Features</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-common-issues-with-discord-search-on-windows/"><u>Resolving the Common Issues with Discord Search on Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/slideshow-mastery-a-step-by-step-guide-to-final-cut-pro-for-2024/"><u>Slideshow Mastery A Step-by-Step Guide to Final Cut Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-best-weather-apps-for-windows-10-and-11/"><u>The Best Weather Apps for Windows 10 & 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-drm-free-conversion-solutions-for-your-amazon-kindle-azw-files/"><u>Top DRM-Free Conversion Solutions for Your Amazon Kindle AZW Files</u></a></li>
-<li><a href="https://win11.techidaily.com/triggering-sfc-scan-on-windows-a-step-by-step-guide/"><u>Triggering SFC Scan on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-windows-shared-drive-with-ease/"><u>Unblock Windows Shared Drive with Ease</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -197,3 +169,20 @@ thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-complying-with-dimension-requirements-in-twitter-videos/"><u>[New] 2024 Approved Complying with Dimension Requirements in Twitter Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-uniting-content-streams-tiktoks-journey-to-facebook-for-2024/"><u>[New] Uniting Content Streams TikTok's Journey to Facebook for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elite-7-film-downloader-apps/"><u>2024 Approved Elite 7 Film Downloader Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-leap-from-youtube-to-dailymotion-with-ease/"><u>2024 Approved Leap From YouTube to Dailymotion with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-temporarily-turn-off-your-pcs-firewall/"><u>How to Temporarily Turn Off Your PC's Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-linux-capabilities-on-windows-10/"><u>How to Unlock Linux Capabilities on Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10plus-best-free-webcam-software-for-windows-10/"><u>In 2024, 10+ Best Free Webcam Software for Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-crafting-an-exceptional-experience-in-stardew-valley-top-7-mods/"><u>In 2024, Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-compression-command-prompt-and-powershell-techniques/"><u>Mastering File Compression: Command Prompt & PowerShell Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-qt-engine-initialization-problem-in-software/"><u>Rectifying Qt Engine Initialization Problem in Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/world-of-warcraft-stability-tweaks-solving-your-games-crash-problems/"><u>World of Warcraft Stability Tweaks: Solving Your Game's Crash Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zenmotion-hd-comparing-paid-and-free-editors/"><u>Zenmotion HD Comparing Paid & Free Editors</u></a></li>
+</ul></div>
+

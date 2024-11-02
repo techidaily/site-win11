@@ -1,7 +1,7 @@
 ---
 title: "ShadeIt:EnablingNotepadDarkUIWIndows"
-date: 2024-10-24T20:25:52.112Z
-updated: 2024-10-27T09:00:38.860Z
+date: 2024-10-28T22:30:43.221Z
+updated: 2024-11-02T02:25:20.133Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ Here is how you can enable it:
 
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also look for other options online with advanced functionality if you use Notepad on a regular basis.
 
  In case you have downloaded a third-party text editor and wish to continue using it instead of Notepad, you should make it your default editor. For this, right-click on any text file and choose**Open with** \>**Choose another app** .
@@ -66,13 +73,6 @@ Here is how you can enable it:
 ![Choose another app to open file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/open-with-choose-another-app.jpg)
 
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable Dark Mode in Notepad on Windows 11
 
@@ -91,19 +91,20 @@ Here is how you can make the changes within the Settings app:
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
 
@@ -118,16 +119,16 @@ Follow these steps to proceed:
 3. Choose**Dark** from the options and see if the changes have been made successfully.  
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable Dark Theme in Notepad++
 
@@ -140,24 +141,18 @@ Follow these steps to proceed:
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use Dark Mode in Notepad With Ease
 
@@ -180,24 +175,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-best-open-source-image-editors-for-enthusiasts/"><u>[New] Best Open Source Image Editors for Enthusiasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-30-second-guide-to-fast-fortnite-graphics/"><u>[New] In 2024, 30-Second Guide to Fast Fortnite Graphics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-demystifying-srt-to-sub-clear-practical-solutions/"><u>[Updated] Demystifying SRT to SUB Clear, Practical Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-next-level-mac-cam-apps-avoiding-the-bandicamp-route-for-2024/"><u>[Updated] Next-Level Mac Cam Apps Avoiding the Bandicamp Route for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-workplace-differentiating-factors/"><u>ChatGPT in the Workplace: Differentiating Factors</u></a></li>
-<li><a href="https://win11.techidaily.com/craft-the-perfect-visual-appeal-switching-themes-in-windows-11-unveiled/"><u>Craft the Perfect Visual Appeal: Switching Themes in Windows 11 Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-mastering-mass-folder-creation-in-modern-windows-environments/"><u>Elevate Your Workflow: Mastering Mass Folder Creation in Modern Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-insights-on-reinstating-healthy-windows-registry-data/"><u>Expert Insights on Reinstating Healthy Windows Registry Data</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-xbox-mic-recognition-issues-on-windows-11/"><u>Guiding Through Xbox Mic Recognition Issues on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-a-slow-microsoft-edge-on-windows-10-and-windows-11/"><u>How to Fix a Slow Microsoft Edge on Win­dows 10 and Win­dows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-play-8t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Play 8T FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-camon-20-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Camon 20? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/master-guide-selecting-best-windows-portals-to-switch-games/"><u>Master Guide: Selecting Best Windows Portals to Switch Games</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-equilibrium-reversing-the-windows-peak-energy-spike/"><u>Restoring Equilibrium: Reversing the Windows Peak Energy Spike</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-multi-device-note-management-in-win11/"><u>Streamlining Multi-Device Note Management in Win11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-14-ultra-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi 14 Ultra Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-edge-compute-ai-at-hardware-level/"><u>Understanding Edge Compute: AI at Hardware Level</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-update-codes-in-windows-operating-system/"><u>Unraveling Update Codes in Windows Operating System</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/what-are-the-disadvantages-of-virtual-reality-for-2024/"><u>What Are the Disadvantages of Virtual Reality for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe-for-2024/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>[New] Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-windows-update-failure-0x800f0845/"><u>Dealing with Windows Update Failure - 0X800F0845</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-missing-volume-control-icon-in-windows-11-complete-tutorial-with-images/"><u>How to Fix a Missing Volume Control Icon in Windows 11 - Complete Tutorial with Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-gifs-to-stickers-full-guide-for-social-channels/"><u>In 2024, From GIFs to Stickers Full Guide for Social Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-correct-office-365-problem-code-30015-26/"><u>Methods to Correct Office 365 Problem Code 30015-26</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-how-to-import-and-export-videos-in-adobe-premiere-for-2024/"><u>New How to Import and Export Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-server-connection-failed-problems-in-the-world-of-escape-from-tarkov/"><u>Overcoming 'Server Connection Failed' Problems in the World of Escape From Tarkov</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-penning-persuasive-vlogger-content-for-2024/"><u>Strategies for Penning Persuasive Vlogger Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-reliable-windows-photo-organizer-list/"><u>The Most Reliable Windows Photo Organizer List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions-for-2024/"><u>The Role of B2B Relationships in Informed Market Decisions for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
 </ul></div>
 

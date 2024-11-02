@@ -1,7 +1,7 @@
 ---
 title: Solutions to Correct Err 87 Library Misloading Issue
-date: 2024-09-11T09:32:37.189Z
-updated: 2024-09-12T09:32:37.189Z
+date: 2024-10-31T01:26:33.179Z
+updated: 2024-11-01T23:13:27.176Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
  To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Driver Roll Back
@@ -54,9 +54,23 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
 
  You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Uninstall and Reinstall the Graphics Drivers
 
 ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
 
@@ -71,23 +85,9 @@ To uninstall a display adapter driver:
 
  You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Rename the atig6pxx.dll File
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use an old AMD ATI graphics card, you can fix the error by renaming the atig6pxx.dll file in the System32 folder. It is a graphic drivers module, and issues with it can prevent 3D apps and games on your system from working.
 
@@ -119,13 +119,6 @@ attrib -r -s atig6pxx.dll`
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
 To run the DISM command-line tool to repair the system image:
@@ -139,10 +132,16 @@ To run the DISM command-line tool to repair the system image:
 5. This process may take several minutes. Restart your PC after the process is complete, and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the App
@@ -158,13 +157,6 @@ To uninstall the app:
 3. Click on**Installed** apps.
 4. Search for the app and click the**three-dots menu** beside the app name.
 5. Click**Uninstall** and then click**Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the LoadLibrary Failed With Error 87 on Windows
 
@@ -183,5 +175,19 @@ To uninstall the app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>[Updated] Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-showdown-projection-systems-versus-tv-in-4k-world/"><u>[Updated] High-Definition Showdown Projection Systems versus TV in 4K World</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-your-online-identity-unlocked-establishing-a-new-youtube-chanel-today/"><u>[Updated] In 2024, Your Online Identity Unlocked Establishing a New YouTube Chanel Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-printer-drivers-for-the-hp-laserjet-5200-on-latest-windows-systems/"><u>Download and Update Printer Drivers for the HP LaserJet 5200 on Latest Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-selection-of-nintendo-switch-fighting-games-max-156-for-2024/"><u>Elite Selection of Nintendo Switch Fighting Games (Max 156) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enabledisable-windows-11-written-content-check/"><u>Enable/Disable Windows 11’ Written Content Check</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-remove-digital-rights-management-drm-from-your-kindle-ebooks/"><u>How to Remove Digital Rights Management (DRM) From Your Kindle eBooks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-digital-world-the-essential-tech-tips-from-tom/"><u>Mastering Your Digital World: The Essential Tech Tips From Tom</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-shortcuts-quick-paste-pre-snippets-in-windows-11/"><u>Personalizing Shortcuts: Quick Paste Pre-Snippets in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-repeated-sign-in-issues-for-microsoft-teams-users/"><u>Skirting Repeated Sign-In Issues for Microsoft Teams Users</u></a></li>
+<li><a href="https://win11.techidaily.com/styling-your-taskbar-positioning-this-pc-on-the-desktop/"><u>Styling Your Taskbar: Positioning 'This PC' On The Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-fixing-0x80072af9-errors/"><u>Understanding and Fixing 0X80072AF9 Errors</u></a></li>
+</ul></div>
 

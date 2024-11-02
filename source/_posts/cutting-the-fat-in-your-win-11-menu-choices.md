@@ -1,7 +1,7 @@
 ---
 title: Cutting the Fat in Your Win 11 Menu Choices
-date: 2024-10-19T20:21:47.616Z
-updated: 2024-10-26T20:24:20.798Z
+date: 2024-10-29T01:48:59.154Z
+updated: 2024-11-02T04:10:28.729Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 Next, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
@@ -58,13 +58,6 @@ Next, restart your computer for the changes to take effect.
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
@@ -91,6 +84,19 @@ Next, restart your computer for the changes to take effect.
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -104,26 +110,20 @@ Next, restart your computer for the changes to take effect.
 4. Check the**Enable classic full context menus** box.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
@@ -145,18 +145,22 @@ Next, restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-infuse-prayerful-melodies-on-your-phone/"><u>[New] How to Infuse Prayerful Melodies on Your Phone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-communication-unveil-the-three-step-method-for-snapchat-calls/"><u>[Updated] 2024 Approved Effortless Communication Unveil the Three-Step Method for Snapchat Calls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-sprightly-spirits-top-kid-approved-games/"><u>[Updated] In 2024, Sprightly Spirits Top Kid-Approved Games</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-tackling-not-empty-directive-error-in-windows/"><u>Expert Guide to Tackling Not Empty Directive Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/faster-updates-no-frustration-9-fixes-for-verifying-installer-speed/"><u>Faster Updates, No Frustration: 9 Fixes for Verifying Installer Speed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/master-the-art-of-stress-free-computing-with-essential-linux-tips/"><u>Master the Art of Stress-Free Computing with Essential Linux Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-muted-microphone-recordings-with-obs-in-windows-11/"><u>Rectifying Muted Microphone Recordings with OBS in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/running-windows-11-in-mac-a-parallels-guide/"><u>Running Windows 11 in Mac: A Parallels Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reinitiate-windows-print-spooler-processing/"><u>Steps to Reinitiate Windows Print Spooler Processing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-power-of-hashtags-in-growing-your-instagram-reel-presence-for-2024/"><u>The Power of Hashtags in Growing Your Instagram Reel Presence for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-10-free-online-sticker-makers-to-make-your-own-stickers-for-2024/"><u>Updated 10 Free Online Sticker Makers to Make Your Own Stickers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-n-flavors-explained-advantages-examined/"><u>Windows N Flavors Explained: Advantages Examined</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-in-depth-guide-to-every-element-of-srt/"><u>[Updated] An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://win11.techidaily.com/a-slumberful-cycle-for-your-pcs-life/"><u>A Slumberful Cycle for Your PC's Life</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-pathway-errors-with-windows-devices/"><u>Addressing Pathway Errors with Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-excessive-cpu-consumption-by-dropbox-on-windows-pcs/"><u>Decreasing Excessive CPU Consumption by Dropbox on Windows PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silence-with-a-faulty-corsair-hs6-60-mic-step-by-step-solutions/"><u>Expert Advice: Resolving Silence with a Faulty Corsair HS6 60 Mic - Step-by-Step Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-governance-in-tropico-6-power-plays-in-a-perfect-paradise/"><u>Exploring Governance in 'Tropico 6': Power Plays in a Perfect Paradise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-gadgets-with-tom-a-detailed-review-on-toms-hardware/"><u>Exploring the World of Gadgets with Tom - A Detailed Review on Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-d3d11-hardware-error-in-w11w10-environments/"><u>Fixing D3D11 Hardware Error in W11/W10 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/guidance-to-reconnect-controlled-audio-from-windows-bluetooth-devices/"><u>Guidance to Reconnect Controlled Audio From Windows' Bluetooth Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862721466-huge-sale-alert-get-the-2023-razer-blade-15-for-just-1000-off-record-low-pricing/"><u>Huge Sale Alert: Get the 2023 Razer Blade 15 for Just $1,000 Off - Record-Low Pricing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elevating-gopro-videos-with-professional-filmmaking-techniques/"><u>In 2024, Elevating Gopro Videos with Professional Filmmaking Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>New 2024 Approved Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
+<li><a href="https://win11.techidaily.com/the-overlooked-duo-of-windows-monitoring-metrics/"><u>The Overlooked Duo of Windows Monitoring Metrics</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintessential-4-password-sentinels-of-windows-11-era/"><u>The Quintessential 4 Password Sentinels of Windows 11 Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Guide on Latest Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-your-printer-fast-windows-fixes/"><u>Turbocharge Your Printer: Fast Windows Fixes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-from-basic-to-pro-3-advanced-transition-techniques-in-fcp/"><u>Updated 2024 Approved From Basic to Pro 3 Advanced Transition Techniques in FCP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Voice Recorder on Windows 11 via Keyboard Tricks
-date: 2024-10-21T07:48:44.612Z
-updated: 2024-10-27T06:50:15.137Z
+date: 2024-10-30T20:07:03.458Z
+updated: 2024-11-02T04:56:25.571Z
 tags:
   - windows10
   - windows11
@@ -35,26 +35,46 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 **Ctrl + M** is another useful and intuitive shortcut. It adds a marker to the recording, making it easy to find and reference audio content. Markers allow you to quickly jump between various points in a recording without having to search through large amounts of audio data.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Delete the Selected Recording
 
  There is nothing more helpful in any program than shortcuts, and this is particularly true in Voice Recorder. With the**Delete** shortcut, you can quickly delete unwanted recordings without having to navigate through the menu system.
 
 ![Delete Recording in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-recording-in-voice-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To use the shortcut, you need to select the recording you want to delete and then press the**Delete** key. If you see a confirmation pop-up, click**OK** . This will immediately remove the selected recording from your library and free up space for new recordings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Play or Pause
 
  A simple press of the**Spacebar** lets you play or pause recorded files on your computer, allowing you to control playback easily. This shortcut can help you save time and improve your workflow.
 
  When a sound file is open in Windows Media Player, hitting the Spacebar once will play it from where it left off. Pressing it again pauses whatever is currently playing; then pressing it again resumes the song from that point forward. With this convenient feature, you can increase your productivity while staying focused on your tasks.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Go Back
 
@@ -67,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  With the help of the**F2** keyboard shortcut, it is easy to rename any recording you have in your library. You can use this shortcut to personalize the titles of your recordings for easier identification and organization. Not only does this help you find specific recordings faster, but it also categorizes related material better.
 
 ![Rename a file in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-a-file-in-voice-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use this feature, simply choose the desired file, then press F2 on your keyboard. After that, give the file a name and click**Rename** to save it.
 
@@ -92,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  With the**S** keyboard shortcut, you can quickly share recordings without having to navigate menus. All you have to do is select the recording you want to share and press**S** . From there, choose the platform and send it off to someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Jump Ahead or Back While Playing a Recording
@@ -112,28 +125,15 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
  Using the shift right arrow key will take you forward 5 seconds at a time while using the shift left arrow key will take you backward. It is especially helpful when dealing with long blocks of audio since it eliminates the need to scroll around in the timeline bar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Jump to the Start of the Recording
 
  It is very useful to have the**Home** key shortcut in Windows Voice Recorder, which allows you to quickly jump to the start of the recording. To use it, just press the**Home** key while playing or recording a clip, and it will jump back to the beginning instantly.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 12\. Jump to the End of the Recording
@@ -159,19 +159,24 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[New] 2024 Approved Techniques for Capturing High-Quality Movies on All OS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-zero-to-hero-in-the-youtube-world-starting-your-channel-and-earning-money/"><u>[Updated] In 2024, From Zero to Hero in the Youtube World Starting Your Channel & Earning Money</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>[Updated] In 2024, Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
-<li><a href="https://win11.techidaily.com/control-at-a-click-manage-windows-tray-using-keyboard-commands/"><u>Control at a Click: Manage Windows Tray Using Keyboard Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-system-visibility-add-file-space-explorer-to-windows-menu/"><u>Improve System Visibility: Add File Space Explorer to Window's Menu</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-open-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Open FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-task-management-on-windows-os/"><u>Mastering Task Management on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-name-files-effortlessly-with-powertoys/"><u>Navigate and Name Files Effortlessly With PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-sleep-settings-for-windows-pcs/"><u>Optimal Sleep Settings for Windows PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-power-of-personal-storytelling-in-video-content-for-2024/"><u>The Power of Personal Storytelling in Video Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-safe-download-zones-for-windows-users/"><u>Top 10 Safe Download Zones for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C55? Here is How | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-monetization-value-per-million-views/"><u>[New] 2024 Approved Youtube's Monetization Value per Million Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-pathway-to-exceptional-gopro-adventures/"><u>[New] A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-visual-posts-made-easy-on-instagram/"><u>[New] Visual Posts Made Easy on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-essential-tools-in-transforming-digital-performers-vocal-identity-for-2024/"><u>[Updated] Essential Tools in Transforming Digital Performers' Vocal Identity for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-get-more-than-just-images-at-pexelscom/"><u>[Updated] Get More Than Just Images at Pexels.com</u></a></li>
+<li><a href="https://win11.techidaily.com/4-proven-strategies-for-enhancing-window-shot-taking-on-windows-os/"><u>4 Proven Strategies for Enhancing Window Shot Taking on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/echoes-of-the-past-amplifying-vintage-games-with-shaders/"><u>Echoes of the Past: Amplifying Vintage Games with Shaders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-mic-tests-achieving-crystal-clear-sound-in-minutes/"><u>Effortless Mic Tests: Achieving Crystal Clear Sound in Minutes!</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-windows-colour-mismanagement-issues/"><u>Eliminate Windows Colour Mismanagement Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insights-into-windows-booting-system-customization/"><u>Expert Insights Into Windows Booting System Customization</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-setup-for-your-arduino-mega-2560-swift-downloads-at-hand/"><u>Hassle-Free Driver Setup for Your Arduino Mega 2560 – Swift Downloads at Hand</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-files-writable-stop-read-only/"><u>How to Make Windows Files Writable: Stop Read-Only</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-sleep-state-in-windows-11s-usb-cores/"><u>How to Prevent Sleep State in Windows 11'S USB Cores</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-unsynchronized-google-drive-on-pc/"><u>Quick Remedies for Unsynchronized Google Drive on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-installing-fortnite-on-your-android-device/"><u>Step-by-Step Guide: Installing Fortnite on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/tapping-into-windows-settings-for-cpu-states/"><u>Tapping Into Windows Settings for CPU States</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-best-matched-nvidia-drivers-gaming-studios/"><u>Unveiling Best Matched Nvidia Drivers – Gaming, Studios</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-revenue-strategies-for-microsofts-profits/"><u>Windows Revenue Strategies for Microsoft's Profits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/x-voice-capture-software-pc-for-2024/"><u>X-Voice Capture Software, PC for 2024</u></a></li>
 </ul></div>
 
