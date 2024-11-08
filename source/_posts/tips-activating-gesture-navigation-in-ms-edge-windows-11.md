@@ -1,7 +1,7 @@
 ---
 title: "Tips: Activating Gesture Navigation in MS Edge (Windows 11)"
-date: 2024-10-27T17:28:50.519Z
-updated: 2024-11-01T16:06:53.025Z
+date: 2024-11-03T17:46:06.599Z
+updated: 2024-11-07T17:34:19.968Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
  You can also use the **Reset all gestures** option to restore all the gestures to their default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quickly Navigate Between Pages Using Mouse Gestures on Edge for Windows 11
@@ -62,23 +62,6 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-smooth-sailing-with-kinemaster-in-film-edits/"><u>[New] 2024 Approved Smooth Sailing with Kinemaster in Film Edits</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-windows-tips-for-efficient-live-tv-saving/"><u>[New] Essential Windows Tips for Efficient Live TV Saving</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-evaluating-fraps-as-a-screen-grab-pro/"><u>[New] Evaluating Fraps as a Screen Grab Pro</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-boosting-engagement-the-key-to-creating-top-facebook-covers/"><u>[Updated] 2024 Approved Boosting Engagement The Key to Creating Top Facebook Covers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-breakdown-sony-fdr-x1000v-complete-guide/"><u>2024 Approved Comprehensive Breakdown Sony FDR-X1000V Complete Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-error-xc0000142-on-win10-11/"><u>Correcting Error XC0000142 on Win10, 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-f25-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo F25 Pro 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-windows-updates-issue-code-x80246007/"><u>Mastering the Resolution of Windows Updates Issue Code X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-timely-purge-of-steam-dns-cache-on-pc/"><u>Techniques for Timely Purge of Steam DNS Cache on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-end-game-for-windows-xp781-on-microsoft-platforms/"><u>The End Game for Windows XP/7/8.1 on Microsoft Platforms</u></a></li>
-<li><a href="https://fox-http.techidaily.com/windows-studio-options-beyond-moviemaker/"><u>Windows Studio Options Beyond MovieMaker</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -86,3 +69,21 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-double-down-on-youtube-visibility-2-quick-methods/"><u>[New] 2024 Approved Double Down on YouTube Visibility (2 Quick Methods)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-guidance-to-youtube-music-mix/"><u>[New] 2024 Approved Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fficient-hashtag-use-for-skyrocketing-youtube-audience/"><u>[New] Efficient Hashtag Use for Skyrocketing YouTube Audience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fixing-freeze-problems-in-fb-livestreams/"><u>[Updated] 2024 Approved Fixing Freeze Problems in FB Livestreams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-de-fichier-voc-en-format-wma-logiciel-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichier VOC en Format WMA - Logiciel en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-wu-and-orchestrator-integration/"><u>Deciphering WU & Orchestrator Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visibility-a-cursor-guide-for-win10-and-11/"><u>Enhancing Visibility: A Cursor Guide for Win10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-control-win11-rgb-settings/"><u>How to Control Win11 RGB Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V29 Pro Phone without PIN</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-windows-11-update-problems-non-existent/"><u>Making Windows 11 Update Problems Non-Existent</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-installer-needs-more-access-rights-in-windows/"><u>Overcoming Installer Needs More Access Rights in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/your-guide-to-safest-free-software-for-windows-devices/"><u>Your Guide to Safest Free Software for Windows Devices</u></a></li>
+</ul></div>
+

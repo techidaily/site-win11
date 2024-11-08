@@ -1,7 +1,7 @@
 ---
 title: Strategies for Space Optimization with NTFS Compression Settings
-date: 2024-10-27T03:45:43.467Z
-updated: 2024-11-01T22:32:45.868Z
+date: 2024-11-02T19:42:15.511Z
+updated: 2024-11-07T16:08:50.528Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ Similarly, you can compress an entire drive. Here's how:
 ![Driver properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/driver-properties.jpg)
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable NTFS File Compression Using the Command Prompt
 
  If you are a power user, you can use the Command Prompt to enable file compression on Windows 11\. Here are the steps to do it:
@@ -63,18 +70,18 @@ Similarly, you can compress an entire drive. Here's how:
 
 ![File compression command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-compression-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll see the "**A reboot is required for this change to take effect** " message on the console. So, restart your computer to apply the changes.
 
  If you want to disable File Compression, execute the following command in the elevated Command Prompt window, followed by a system restart.
 
 `fsutil behavior set disablecompression 1`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
@@ -94,25 +101,19 @@ Similarly, you can compress an entire drive. Here's how:
 9. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable NTFS File Compression Using the Local Group Policy Editor
@@ -128,13 +129,6 @@ Similarly, you can compress an entire drive. Here's how:
 5. Click**Apply** \>**OK** to enable file compression.
 
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
 
@@ -157,16 +151,20 @@ Similarly, you can compress an entire drive. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-beyond-facetime-transformative-webcam-uses-for-2024/"><u>[Updated] Beyond FaceTime Transformative Webcam Uses for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-strategies-for-switching-out-of-unwanted-night-mode/"><u>5 Strategies for Switching Out of Unwanted Night Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-wordpad-efficiently-in-windows-computers/"><u>Activating WordPad Efficiently in Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/age-friendly-features-in-pre-windows-10-systems/"><u>Age-Friendly Features in Pre-Windows 10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-pinned-items-visibility-on-w11-start/"><u>Boosting Pinned Items Visibility on W11 Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-gemini-advanced-or-chatgpt-plus-an-in-depth-analysis/"><u>Choosing Between Gemini Advanced or ChatGPT Plus: An In-Depth Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-google-pixel-fold-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Google Pixel Fold</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y78-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y78 5G Without PUK Codes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-g-stylus-5g-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto G Stylus 5G (2023) Without PUK Codes</u></a></li>
-<li><a href="https://win11.techidaily.com/1719382719080-optimal-start-menu-no-commercials-here/"><u>Optimal Start Menu: No Commercials Here</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[Updated] Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-joke-generation-made-simple-kapwing-app-guide/"><u>2024 Approved Joke Generation Made Simple – Kapwing App Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ease-of-disk-management-access-on-win-1011/"><u>Discover the Ease of Disk Management Access on Win 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-instructions-on-upgrading-to-the-latest-windows-operating-system/"><u>Easy & Complete Instructions on Upgrading to the Latest Windows Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-accelerated-gpu-task-order-in-windows/"><u>Eliminating Accelerated GPU Task Order in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-administrative-controlled-options-in-windows-11-os/"><u>How to Adjust Administrative Controlled Options in Windows 11 OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hp-zbook-firefly-15-g8-user-analysis-unveiling-the-ultimate-laptop/"><u>HP ZBook Firefly 15 G8 User Analysis: Unveiling the Ultimate Laptop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-c12-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia C12 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>In 2024, Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-windows-pin-issues/"><u>Mastering the Art of Fixed Windows PIN Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moviemakerpro-insights-full-analysis-for-2024/"><u>MovieMakerPro Insights – Full Analysis for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/simplicity-and-clarity-in-the-newest-w11-start/"><u>Simplicity & Clarity in the Newest W11 Start</u></a></li>
+<li><a href="https://win11.techidaily.com/thaw-frozen-handbrake-on-windows/"><u>Thaw Frozen HandBrake on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solve-steams-2024-black-screen-and-load-issues-in-just-7-steps/"><u>Ultimate Guide: Solve Steam's 2024 Black Screen & Load Issues in Just 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Snipping Tool Edits Made Simple: A Text Guide"
-date: 2024-10-25T16:55:38.921Z
-updated: 2024-11-01T21:37:34.769Z
+date: 2024-11-04T22:50:19.979Z
+updated: 2024-11-07T22:51:15.498Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
  You can copy a selected portion of the identified text or copy all the text from the screenshot before saving it. Moreover, you can also redact the text and then copy the remaining portion of the text from the image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable and Use Text Actions Feature in the Snipping Tool
 
  The Text Actions feature in the Snipping Tool is available for Windows Insider users in the Canary and Dev channels. So, if you are in either of these channels, update your Windows Insider PC to the latest available build. If aren’t in the Windows Insider program, you can enroll your device by signing up for the Windows Insider program.
@@ -51,19 +58,19 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Paste all the copied text in the Notepad and save it for later.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
@@ -77,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Our Observations on the Snipping Tool
@@ -97,33 +98,11 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[Updated] 2024 Approved Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-photoshop-wizardry-for-bending-photos-for-2024/"><u>[Updated] Photoshop Wizardry for Bending Photos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>2024 Approved YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-find-the-mac-address-on-windows-11/"><u>4 Ways to Find the MAC Address on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/6-polarizing-windows-features-that-are-gone-for-good/"><u>6 Polarizing Windows Features That Are Gone for Good</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-fix-the-black-desktop-background-display-issue-on-windows/"><u>8 Ways to Fix the Black Desktop Background Display Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-windows-11s-visual-keyboard-assistant/"><u>Accessing Windows 11'S Visual Keyboard Assistant</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-fatale-alaw-in-wav-su-internet-gratuita-utilizza-movavi/"><u>Conversione Fatale Alaw in Wav Su Internet Gratuita - Utilizza Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hds-radiance-reviewed-does-it-merit-the-hdr-label/"><u>HD's Radiance Reviewed Does It Merit the HDR Label?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transform-your-mp3-tracks-into-costless-m4b-books-move-to-mp3-converter-by-movavi/"><u>Transform Your MP3 Tracks Into Costless M4B Books - Move to Mp3 Converter by Movavi</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-digital-lecture-name-builder-for-2024/"><u>Ultimate Digital Lecture Name Builder for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +111,27 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-recommendations-high-quality-mac-video-grabber-tools-for-2024/"><u>[New] Expert Recommendations High-Quality Mac Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-veiled-glance-at-digital-diary-fb/"><u>[Updated] 2024 Approved Veiled Glance at Digital Diary (FB)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-good-youtube-names-generators-plus-how-to-brainstorm/"><u>[Updated] Good YouTube Names Generators [+ How to Brainstorm]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-free-premiere-pro-templates/"><u>Best Free Premiere Pro Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tips-for-dealing-with-system-calls-in-windows/"><u>Comprehensive Tips for Dealing With System Calls in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-win11s-systray-with-caps-lock-and-num-key-icons/"><u>Customizing Win11's SysTray with Caps Lock & Num Key Icons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fundamentals-of-visual-communication-through-motion/"><u>Fundamentals of Visual Communication Through Motion</u></a></li>
+<li><a href="https://win-webster.techidaily.com/fundorfolge-wo-suchen-sie-nach-temporaren-dateien-mit-myrecover/"><u>Fundorfolge: Wo Suchen Sie Nach Temporären Dateien Mit MyRecover?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-the-windows-settings-app-crashing-try-these-fixes/"><u>Is the Windows Settings App Crashing? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-for-windows-11s-software-folder-restarts/"><u>Quick-Fix Guide for Windows 11'S Software Folder Restarts</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disk-read-error-on-windows-os/"><u>Resolving Disk Read Error on Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-windows-11-dpc-watchdog-violations-a-step-by-step-guide/"><u>Resolving Windows 11 DPC Watchdog Violations - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-dns-flushing-in-modern-windows/"><u>Step-by-Step DNS Flushing in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-skillful-technique-to-obscure-window-11-search/"><u>The Skillful Technique to Obscure Window 11 Search</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-persistent-windows-volume-mixer/"><u>Troubleshooting Non-Persistent Windows Volume Mixer</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-mastering-github-desktop-for-windows-based-developers/"><u>Tutorial: Mastering GitHub Desktop for Windows-Based Developers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-webcam-download-and-install-logitech-camera-software-c270/"><u>Upgrade Your Webcam: Download & Install Logitech Camera Software (C270)</u></a></li>
+</ul></div>
+

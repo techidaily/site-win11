@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 0X8007045D on Windows 11 Systems
-date: 2024-10-25T23:37:02.026Z
-updated: 2024-11-02T02:37:42.557Z
+date: 2024-11-05T17:16:16.194Z
+updated: 2024-11-07T22:45:13.814Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -61,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use an Alternate USB Slot
@@ -80,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Download the Affected Files Again
@@ -91,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
  Did you download your files from an external source? If the 0x8007045d error popped up when trying to open a downloaded file, there might have been a glitch during the download, and now you've got yourself a corrupt or incomplete file.
 
  If that's the case, it's best to download your files from the original source and try your hand at the installation (or copying) of them again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Hardware and Device Windows Troubleshooter
 
@@ -116,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
  Remember the connection problem? If the connection problem is caused by a USB device, moving your files to your local driver first will be a step in the right direction. So, copy your files to any local driver on your PC.
@@ -133,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the 0x8007045d Error on Your Windows PC
 
@@ -155,24 +149,14 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-engineering-unique-tiktok-outro-animations/"><u>[New] In 2024, Engineering Unique TikTok Outro Animations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>[Updated] 2024 Approved The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-easy-to-use-games-recorders-ranked-no-1-10-for-2024/"><u>[Updated] Easy-to-Use Games Recorders Ranked No. 1-10 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-unseen-ui-techniques-for-newcomers/"><u>2024 Approved Ultimate Unseen UI Techniques for Newcomers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-c51-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-windows-11-calendar/"><u>A Comprehensive Walkthrough: Windows 11 Calendar</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreran-guide-to-install-and-configure-microsoft-pc-manager/"><u>A Compreran Guide to Install and Configure Microsoft PC Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-performance-swapping-outdated-windows-drivers/"><u>Accelerating Performance: Swapping Outdated Windows Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-steam-transfers-avoiding-sudden-speed-slumps/"><u>Accelerating Steam Transfers: Avoiding Sudden Speed Slumps</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-faulty-timed-lock-screen-issue-windows/"><u>Addressing Faulty Timed Lock Screen Issue Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-functioning-windows-conditional-filters/"><u>Addressing Non-Functioning Windows Conditional Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-help-function-breakdown-on-windows-11/"><u>Addressing the Help Function Breakdown on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/auto-displaying-images-craft-your-windows-11-slide-show-7-ways/"><u>Auto-Displaying Images: Craft Your Windows 11 Slide Show (7 Ways)</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-grayed-out-delete-pin-option-in-windows-11/"><u>Breaking Grayed-Out Delete PIN Option in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/error-no-more-how-to-correctly-address-missing-advapi32dll-files/"><u>Error No More: How to Correctly Address Missing Advapi32.dll Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-tiktok-tidying-up-smart-strategies-for-oversized-drafts/"><u>In 2024, Master the Art of TikTok Tidying Up Smart Strategies for Oversized Drafts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/master-your-broadcasts-with-manycam-premier-software-for-live-videos-and-digital-camcorder-experience/"><u>Master Your Broadcasts with ManyCam - Premier Software for Live Videos & Digital Camcorder Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1728462128965-windows-11/"><u>Windows 11のファイル履歴機能:過去にアクセスしたファイルやフォルダーを簡単に復元！</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>[Updated] YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-ultimate-av-mixer-review-cutting-edge-devices-s-demanding-professionals/"><u>2024 Approved The Ultimate AV Mixer Review Cutting-Edge Devices S Demanding Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-printer-id-clashes-in-windows/"><u>Handling Printer ID Clashes in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g04-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G04 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/linux-flourish-windows-subsystem-effect/"><u>Linux Flourish: Windows Subsystem Effect?</u></a></li>
+<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-output-5-essential-windows-productivity-hacks/"><u>Skyrocketing Output: 5 Essential Windows Productivity Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-free-guide-to-conducting-flawless-google-meet-sessions/"><u>The Free Guide to Conducting Flawless Google Meet Sessions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
 

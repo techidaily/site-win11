@@ -1,7 +1,7 @@
 ---
 title: Navigating Text Actions in Win 11'S Snipping Tool
-date: 2024-11-01T03:51:35.492Z
-updated: 2024-11-01T23:47:12.189Z
+date: 2024-11-06T18:56:17.032Z
+updated: 2024-11-07T21:50:44.225Z
 tags:
   - windows10
   - windows11
@@ -46,16 +46,44 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 3. Switch to the Snipping Tool window which will show the screenshot. Click on the **Text Actions** icon.  
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Paste all the copied text in the Notepad and save it for later.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Redact Text in the Snipping Tool
@@ -67,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
@@ -81,45 +109,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-unlocking-old-tweets-with-twitter-archive-tools/"><u>[Updated] Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-the-window-taskbar-lockup-a-guide/"><u>Breaking the Window Taskbar Lockup: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gap-to-windows-11-concealed-searchlight/"><u>Bridging Gap to Windows 11 Concealed Searchlight</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-voice-activated-ai-on-windows-11/"><u>Ceasing Voice-Activated AI on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-legacy-restoration-for-modern-users/"><u>Classic Legacy Restoration for Modern Users</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-path-for-team-success-resolving-80080300-errors-on-w11/"><u>Clearing the Path for Team Success: Resolving 80080300 Errors on W11</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-glory-awaits-on-elite-144hz-widescreen-displays/"><u>Gaming Glory Awaits on Elite 144Hz Widescreen Displays</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-roblox-error-262-a-comprehensive-troubleshooting-walkthrough/"><u>How to Fix Roblox Error 262 – A Comprehensive Troubleshooting Walkthrough</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Ace 3 FRP Bypass</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>In 2024, Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/petcam-insider-secrets-maximizing-your-spend/"><u>PetCam Insider Secrets: Maximizing Your Spend</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-huawei-nova-y71-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Huawei Nova Y71</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-into-the-world-of-windows-11-home/"><u>Step Into the World of Windows 11 Home</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-footage-to-film-mastering-video-editing-with-windows-movie-maker/"><u>Updated 2024 Approved From Footage to Film Mastering Video Editing with Windows Movie Maker</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +124,19 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-m1-powered-macbook-air-a-new-era-for-editors/"><u>[New] M1-Powered MacBook Air A New Era for Editors?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-saving-every-word-a-guide-to-fb-messenger-call-logs-for-2024/"><u>[Updated] Saving Every Word A Guide to FB Messenger Call Logs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-a2-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi A2 is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/complete-narrative-what-is-google-podcast-in-2024/"><u>Complete Narrative What Is Google Podcast, In 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/die-dynamik-zwischen-etl-and-elt-schlusselaspekte-fur-moderne-datenerfassung/"><u>Die Dynamik Zwischen ETL & ELT - Schlüsselaspekte Für Moderne Datenerfassung</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-spotify-crash-in-windows-11-without-it-help/"><u>Overcoming Spotify Crash in Windows 11 without IT Help</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-stopping-windows-11-from-running/"><u>Quick Fixes: Stopping Windows 11 From Running</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steams-unavailable-content-servers-issue-on-pc/"><u>Resolving Steam's Unavailable Content Servers Issue on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-eliminate-autominimize-effects/"><u>Streamlining Windows: Eliminate AutoMinimize Effects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-networking-haven-beyond-vidcon-for-2024/"><u>The Ultimate Networking Haven Beyond VidCon for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-code-mastery-reclaiming-your-windows-1011-key/"><u>Unlock Code Mastery: Reclaiming Your Windows 10/11 Key</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows' Hardware RAM Allocation
-date: 2024-10-25T20:46:42.386Z
-updated: 2024-11-01T22:52:00.657Z
+date: 2024-11-04T19:41:58.194Z
+updated: 2024-11-07T23:18:29.015Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![Check hardware reserved memory on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-reserved-memory-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Your PC's Hardware Reserved Memory Impacts Performance
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
  In general, the value for Hardware Reserved Memory should be a few hundred megabytes. The 32-bit version of Windows can reserve up to 3.5 GB of RAM, while the 64-bit system usually needs around 1GB. If the value is around a couple of GB, or even more, you’ll have to adjust the value. Fortunately, Windows has a few ways you can do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update Your Drivers
 
  Outdated or corrupt[computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) will increase the amount of memory Windows reserves to keep your hardware devices running smoothly. Updating the drivers, especially the GPU drivers, might help Windows reduce the amount of reserved memory.
@@ -65,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![Disable device through Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When disabling hardware devices, make sure you no longer need them, as you might be causing issues within your system.
@@ -96,20 +109,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Running the hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hardware-devices-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Edit Your System Configuration
 
  In general, Windows is the only one deciding how much of your system memory it reserves. However, you can control the maximum amount of reserved memory through System Configuration. Here’s how you can do it:
@@ -123,7 +122,21 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Change boot settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/boot-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Keep in mind this will have a direct impact on how much memory Windows reserves to keep your system running properly. Don’t set a value too low to make sure Windows has enough resources.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Restore the BIOS to Its Default Settings
 
@@ -132,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  First, press**Del** or**F2** to enter BIOS during the Windows startup screen. From the bottom of the page, click Load Defaults (or Restore Settings) and confirm the action. Then, exit BIOS, restart your computer, and check the Hardware Reserved Memory value.
 
  If you can’t access BIOS during the startup screen, there are more[methods you could try to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) and reset it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Manage the Hardware Reserved Memory on Windows
 
@@ -161,22 +167,20 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-your-listeners-experience-with-great-summaries/"><u>[New] 2024 Approved Enhance Your Listeners' Experience with Great Summaries</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-tv-everything-you-need-to-know-for-2024/"><u>[New] YouTube TV - Everything You Need to Know for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/8-mistakes-you-should-avoid-making-as-a-beginner-to-windows-11/"><u>8 Mistakes You Should Avoid Making as a Beginner to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-complete-guide-to-the-windows-startup-settings/"><u>A Complete Guide to the Windows Startup Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-rockalldlldll-unavailability-in-pcs/"><u>Addressing Rockalldll.dll Unavailability in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-11s-0x800713f-email-problem/"><u>Addressing Windows 11'S 0X800713F Email Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tactics-to-boost-file-organization-with-multi-folder-setup-in-windows-1011/"><u>Advanced Tactics to Boost File Organization with Multi-Folder Setup in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/amplifying-steam-data-flow-combatting-sudden-drops/"><u>Amplifying Steam Data Flow: Combatting Sudden Drops</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-local-file-transmission-methods-which-fits-best/"><u>Analyzing Local File Transmission Methods: Which Fits Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369975560-break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/essential-enhancements-for-the-success-of-apple-vision-pro-in-the-corporate-world-insights/"><u>Essential Enhancements for the Success of Apple Vision Pro in the Corporate World: Insights</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-enabling-earnings-a-step-by-step-approach-for-mobile-youtubers/"><u>In 2024, Enabling Earnings A Step-by-Step Approach for Mobile YouTubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fixing-half-muted-content-on-twitter-live-streams/"><u>In 2024, Fixing Half-Muted Content on Twitter Live Streams</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-app-review-editing-made-easy-on-android/"><u>In 2024, VN Video Editor App Review Editing Made Easy on Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-grands-constructeurs-de-panneaux-publicitaires-pour-youtube-en-ligne-guide-complet/"><u>Top 10 Grands Constructeurs De Panneaux Publicitaires Pour YouTube En Ligne : Guide Complet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-8-undead-adventures-ultimate-zombie-game-guide/"><u>Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-msi-b350-toms-hardware-driver-installation-on-windows-117-get-them-now/"><u>Ultimate Guide to MSI B350 TOM'S Hardware Driver Installation on Windows 11/7 - Get Them Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-outstanding-mac-screen-recording-options-beyond-bandicamp-for-2024/"><u>[New] Outstanding Mac Screen Recording Options Beyond Bandicamp for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-freedom-from-popups-discover-the-top-7-android-adblock-apps/"><u>[Updated] 2024 Approved Freedom From Popups? Discover the Top 7 Android AdBlock Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-money-matters-choosing-best-stocks-yts-guide/"><u>[Updated] In 2024, Money Matters Choosing Best Stocks YTs Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/beyond-gopro-studio-best-video-editing-software-for-gopro-footage/"><u>Beyond GoPro Studio Best Video Editing Software for GoPro Footage</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comment-resoudre-les-problemes-de-desaeration-sur-un-ssd-sans-risque-de-perte-de-donnees/"><u>Comment Résoudre Les Problèmes De Désaération Sur Un SSD Sans Risque De Perte De Données</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-portable-executable-pe-syntax/"><u>Decoding Windows Portable Executable (PE) Syntax</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workday-6-time-management-apps-on-windows/"><u>Elevate Your Workday: 6 Time Management Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/integrate-and-setup-windows-hello-with-a-fingerprint/"><u>Integrate and Setup: Windows Hello with a Fingerprint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lidia-con-los-problemas-de-lag-en-forza-horizon-5-con-estos-trucos-sencillos-para-jugadores-avanzados/"><u>Lidia Con Los Problemas De Lag en Forza Horizon 5 Con Estos Trucos Sencillos Para Jugadores Avanzados</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-noise-free-zone-step-by-step-guide-to-refining-audio-quality-with-audacity-and-filmorapro-for-2024/"><u>New The Noise-Free Zone Step-by-Step Guide to Refining Audio Quality with Audacity and FilmoraPro for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/open-source-templates-galore-boosting-your-biz-presentations/"><u>Open Source Templates Galore Boosting Your Biz Presentations</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-tablet-and-w11-duo-display-setup/"><u>Seamless Android Tablet & W11 Duo Display Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-complimentary-keyboard-skills-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboard Skills Courses: Ideal for Every Age Group</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-credentials-top-11-techniques/"><u>Unlocking Windows 11'S Credentials: Top 11 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-network-conundrum-defeat-error-0x800704b3/"><u>Win10/11 Network Conundrum: Defeat Error 0X800704B3</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Tactics When Your Windows Defense Is Non-Functional
-date: 2024-10-28T20:03:21.670Z
-updated: 2024-11-02T02:29:11.532Z
+date: 2024-11-05T16:39:53.760Z
+updated: 2024-11-07T19:45:32.649Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  You can now close the troubleshooter and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check if Another Security Software Is Active
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  Disabling the third-party antivirus software may vary depending on the program you have installed. However, a common approach is to right-click on the antivirus icon located in the taskbar. From the context menu that appears, you should find an option to disable the antivirus temporarily until you restart your computer.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
 
@@ -83,14 +70,15 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 4. Click on **System and Security** \> **Windows Defender Firewall**.  
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
-![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
 
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
 2. Once done, open Run again.
@@ -129,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 6. Click **Apply** to save the changes and check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
@@ -143,28 +137,18 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deleted-and-found-again-streaming-yts-forgotten-videos/"><u>[New] 2024 Approved Deleted and Found Again Streaming YT’s Forgotten Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-seamless-edits-navigating-photoshops-eraser-function-for-2024/"><u>[New] Seamless Edits Navigating Photoshop’s Eraser Function for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-what-sets-triller-aside-from-traditional-video-platforms-like-tiktok-for-2024/"><u>[Updated] What Sets Triller Aside From Traditional Video Platforms Like TikTok for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comeback-king-windows-guide-essential-13-restoration-steps/"><u>Comeback King Windows Guide: Essential 13 Restoration Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-digital-menace-tackling-wacatacbml-in-windows-networks/"><u>Deciphering the Digital Menace: Tackling Wacatac.B!ml in Windows Networks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-11-proplus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 11 Pro+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-error-code-0xc0000005-a-techs-approach/"><u>How to Overcome Error Code 0XC0000005: A Tech's Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-unreal-engine-losing-its-bearings-over-d3d/"><u>Is Unreal Engine Losing Its Bearings over D3D?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ms-store-themes-setup-and-utilization-guide/"><u>Mastering MS Store Themes: Setup & Utilization Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-office-365-issue-code-30015-26/"><u>Steps to Rectify Office 365 Issue Code 30015-26</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ate-online-video-snatcher-download-favorites-instantly/"><u>Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-video-earnings-explained-average-adsense-fees-per-kv-for-2024/"><u>Youtube Video Earnings Explained Average AdSense Fees per KV for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,3 +157,21 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unified-insight-the-easeus-perspective/"><u>2024 Approved Unified Insight The EaseUS Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capture-and-conquer-mastering-professional-level-selfies-through-effective-light-use/"><u>Capture and Conquer: Mastering Professional-Level Selfies Through Effective Light Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeat-the-windows-10-update-hurdle-expert-fixes-for-error-code-0x800f0922/"><u>Defeat the Windows 10 Update Hurdle: Expert Fixes for Error Code 0X800f0922</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-essential-microsoft-excel-functions-a-comprehensive-guide/"><u>Discovering Essential Microsoft Excel Functions: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-define-excel-cell-value-constraints-min-and-max-techniques/"><u>Easy Steps to Define Excel Cell Value Constraints: Min and Max Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-removing-extra-spaces-with-excels-trim-function-essential-techniques-for-microsoft-excel-users/"><u>Efficiently Removing Extra Spaces with Excel's TRIM Function - Essential Techniques for Microsoft Excel Users</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-calculation-tricks-utilizing-the-paste-special-tool-for-summation-and-product-operations-in-ms-excel/"><u>Effortless Calculation Tricks: Utilizing the Paste Special Tool for Summation & Product Operations in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-excel-visualizations-adding-personalized-data-labels-easily/"><u>Enhance Your Excel Visualizations: Adding Personalized Data Labels Easily!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-video-to-mp3-digital-audio-extraction-guide-for-2024/"><u>FB Video to MP3 Digital Audio Extraction Guide for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 4Gwith/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/selecting-fps-for-videos-why-not-both-30-or-60-for-2024/"><u>Selecting FPS for Videos Why Not Both, 30 or 60 for 2024</u></a></li>
+</ul></div>
+

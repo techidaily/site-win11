@@ -1,7 +1,7 @@
 ---
 title: Reinstating Compatible Remote Play Functionality
-date: 2024-10-29T18:02:37.895Z
-updated: 2024-11-01T20:42:08.056Z
+date: 2024-11-04T17:01:31.070Z
+updated: 2024-11-07T16:38:23.046Z
 tags:
   - windows10
   - windows11
@@ -43,25 +43,26 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 3. In the **Settings** dialog, open the **Remote Play** tab in the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![steam unpair device remote plauy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-unpair-device-remote-plauy.jpg)
 4. Uncheck the **Enable Remote Play** option and click **OK** to disable **Remote Play.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, relaunch the **Steam** client.
 6. Go t**o Settings > Remote Play** and check the **Enable Remote Play** option.
 7. Click **OK** to apply the changes.
 8. Relaunch the Steam client and check for any improvement.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Unpair the Guest Steam Link Device
 
@@ -84,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 5. On your host machine, type the given PIN and click **OK** to authorize the device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update Steam Client and Games
@@ -135,15 +136,22 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 6. In the **Properties** dialog, scroll down and locate **Internet Protocol Version 6 (TCP/IPv6).**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Uncheck the **TCP/IPv6** option and click **OK** to save the changes.  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. Close Control Panel and check if Remote Play is working. If the issue persists, enable the IPv6 option in the connection properties and proceed with the next steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Enable Big Picture Mode on Your Guest Device
 
@@ -170,15 +178,16 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 2. Open the **Privacy & security** tab.  
 ![windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings.jpg)
 3. Next, click on **Firewall & network protection.**  
-![windows security settings firewall network protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings-firewall-network-protection.jpg)
-4. Choose your active network under **Firewall & network protection.**  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![windows security settings firewall network protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-settings-firewall-network-protection.jpg)
+4. Choose your active network under **Firewall & network protection.**  
 
 ![turn off windows defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall.jpg)
 5. Toggle the switch under **Microsoft Defender Firewall** to turn it off.
@@ -216,13 +225,6 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 ![disable hardware encoding steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-encoding-steam.jpg)
 5. In the pop-up dialog, uncheck the **Enable hardware encoding** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **OK** to save the changes and disable hardware encoding.
 
 ## 10\. Reinstall the Steam Client
@@ -235,16 +237,24 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 2. Next, press **Win + E** to open File Explorer.  
 ![steamapp folder steam move](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steamapp-folder-steam-move.jpg)
 3. Next, navigate to **C:\\Program Files (x86)\\ Steam** and move the **SteamApps** folder to a different directory.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once done, press **Win + I** to open **Settings**.
 5. Next, open the **Apps** tab.  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-installed-apps.jpg)
 6. Click on **Installed Apps** and search for **Steam**.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click the three-dots menu beside the app name and click **Uninstall**.  
@@ -254,32 +264,11 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 10. Next, go to the [Steam download page](https://store.steampowered.com/about/) and download the installer to install the app.
 11. Once Steam is installed, move the **SteamApps** folder back to **C:\\Program Files (x86)\\ Steam** so that the client can recognize your installed games.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix Remote Play and Start Streaming Steam Games
 
  An easy way to fix issues with Remote Play is to install the Steam Link app on your guest and host system. If not, try to re-enable Remote Play or unpair your paired devices to fix the problem. Additionally, check your firewall and IPv4 settings to fix network-related issues.
 
  While a handy feature, Steam Remote Play can be erratic and may suddenly stop working. If your internet connection speed is not an issue, your Steam client on Windows may be acting up. Here's how to troubleshoot and fix the problem.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breaking-the-mold-unique-post-vidcon-events/"><u>[New] 2024 Approved Breaking the Mold Unique Post-VidCon Events</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elite-mobile-photo-enhancers-comprehensively-reviewed-iphoneandroid-edition-for-2024/"><u>[New] Elite Mobile Photo Enhancers Comprehensively Reviewed iPhone/Android Edition for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-strategic-insights-into-procuring-a-mountain-of-videos-from-tiktok/"><u>[Updated] 2024 Approved Strategic Insights Into Procuring a Mountain of Videos From TikTok</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/become-a-reddit-star-detailed-steps-for-share-success-for-2024/"><u>Become a Reddit Star Detailed Steps for Share Success for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elongating-pin-lengths-without-compromising-security/"><u>Elongating Pin Lengths without Compromising Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-inadequate-system-resources-for-service-delivery-successfully/"><u>How to Overcome Inadequate System Resources for Service Delivery Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-malfunctioning-gaming-status-check-of-discord-on-windows-os/"><u>Improving Malfunctioning Gaming Status Check of Discord on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/old-pc-new-atlasos-a-gaming-transformation/"><u>Old PC, New AtlasOS: A Gaming Transformation</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-access-to-pc-backups-on-mobile/"><u>Seamless Access to PC Backups on Mobile</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -288,3 +277,25 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-art-of-self-recording-improving-your-youtube-presence/"><u>[New] 2024 Approved The Art of Self-Recording Improving Your YouTube Presence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeted-treasures-your-path-to-preserving-pics-and-vids/"><u>[New] Tweeted Treasures Your Path to Preserving Pics & Vids</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-could-advanced-ai-models-such-as-chatgpt-impact-future-of-web-search-engines/"><u>How Could Advanced AI Models Such as ChatGPT Impact Future of Web Search Engines?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-leverage-microsofts-bluetooth-enabled-application/"><u>How to Leverage Microsoft's Bluetooth-Enabled Application</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-or-minimize-your-win11-taskbar/"><u>Maximize or Minimize Your Win11 Taskbar</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability/"><u>Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-htc-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your HTC Phone? Unlock It Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolving-icloud-issues-how-to-fix-a-malfunctioning-icloud-backup/"><u>Resolving iCloud Issues: How to Fix a Malfunctioning iCloud Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/revise-your-way-to-a-new-look-with-win11-settings/"><u>Revise Your Way to a New Look with Win11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-system-graphics-on-windows-11/"><u>Revitalize Your System Graphics on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11-preventing-folder-restrictions/"><u>Solutions for Windows 11: Preventing Folder Restrictions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic5-ultimate-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic5 Ultimate? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-your-file-explorer-launch/"><u>Streamlining Your File Explorer Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-bios-settings-the-way-to-regulate-pc-heat/"><u>Tailored BIOS Settings: The Way to Regulate PC Heat</u></a></li>
+<li><a href="https://win11.techidaily.com/the-journey-from-bat-to-executable-on-windows-os/"><u>The Journey: From .bat to Executable on Windows OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-face-off-the-top-face-swap-apps-for-iphone-and-android-users-for-2024/"><u>Updated Face Off The Top Face Swap Apps for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-steps-to-reinstall-ms-store-programs/"><u>Win 11 Steps to Reinstall MS Store Programs</u></a></li>
+</ul></div>
+

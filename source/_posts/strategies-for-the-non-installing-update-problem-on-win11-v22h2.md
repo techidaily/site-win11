@@ -1,7 +1,7 @@
 ---
 title: Strategies for the Non-Installing Update Problem on WIN11 V22H2
-date: 2024-10-30T16:34:07.951Z
-updated: 2024-11-02T04:28:39.363Z
+date: 2024-11-04T20:57:03.264Z
+updated: 2024-11-07T18:46:31.094Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![The Run button for Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-run-button-for-windows-update-1.jpg)
 5. Wait for the troubleshooter to detect issues and display an outcome. It will usually automatically apply fixes for detected issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disconnect Non-Essential External Hardware and Peripherals From PC
 
  It's recommended that users unplug non-essential hardware from PCs before attempting to upgrade to a new Windows 11 version. Doing so will ensure that there aren't any non-essential hardware devices that can potentially interrupt or conflict with the upgrade process. You'll still need your mouse and keyboard of course, but disconnect all the following non-essential peripherals:
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 * Webcams
 * Microphones
 * Secondary monitors (you only need one)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run a System File and Deployment Image Scan
 
@@ -87,10 +73,17 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Cleanup recommendations in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/cleanup-recommendations-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check If the Dependency Services for Windows Update are Enabled
@@ -103,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 3. Select the**Automatic** start option for the service on its**Startup type** drop-down menu.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Start** on the properties window if the service isn’t running.  
@@ -128,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 7. Then click**Yes** to install.
 8. Restart Windows 11 after installing the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reset the Components for Windows Update
 
  Windows 11 22H2 update issues can also arise because of corrupted update components. You can repair the update components by resetting them. This troubleshooting method involves restarting update services and refreshing the catroot2 and SoftwareDistribution folders by renaming them. You can reset components for Windows updates with the Command Prompt like this:
@@ -146,25 +146,11 @@ net stop msiserver`
 ![The ren catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-catroot2-folder-1.jpg)
 5. Then restart the services with these commands:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `net start wuauserv  
 net start bits  
 net start cryptSvc  
 net start msiserver`
 6. Close Command Prompt, and select**Restart** on your Start menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Antivirus Utilities
 
@@ -174,11 +160,25 @@ net start msiserver`
 
  AVG and Avast are two antivirus software packages that often generate Windows update errors. Those antivirus tools have also been incompatible with some Windows 10 builds. If you have either of those two installed, consider uninstalling them instead of merely disabling their shields.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Disable Kernel DMA Protection
 
  Some users have said the Kernel DMA Protection security feature in Windows 11 causes the 22H2 update to fail when enabled. If that feature is enabled on your desktop or laptop, disabling it could fix the Windows 11 22H2 not installing. To check if Kernel DMA Protection is enabled,[open the System Information app](https://www.makeuseof.com/windows-11-check-system-information/) and look for that feature in the**System Summary** section.
 
 ![The Kernel DMA Protection system detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-kernal-dma-system-detail-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The only way to turn off Kernel DMA Protection is to disable a setting for it in the BIOS (Basic Input Output System). You can access Basic Input Output System settings on Windows 11/10 PCs as outlined within our guide on[how to enter the BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) . Look for and disable a Kernel DMA Protection setting on a**Security** tab within the BIOS.
 
@@ -189,6 +189,13 @@ net start msiserver`
  A Driver Booster scan will show you what devices on your PC have antiquated drivers. You can also select an**Update Now** option in that software to update the drivers for listed devices. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software.
 
 ![Driver Booster 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-booster2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you may be able to install some new drivers with optional Windows updates. This is how you can check available optional updates in Windows 11:
 
@@ -203,13 +210,6 @@ net start msiserver`
  This final resolution is more of a workaround than a fix for the 22H2 update not installing via Settings. Instead of using Settings, try upgrading with the Windows 11 Installation Assistant. We have a full guide that tells you[how to use the Installation Assistant](https://www.makeuseof.com/windows-11-installation-assistant-guide/) for updating Windows 11.
 
 ![The Windows 11 Update Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-windows-11-update-assistant.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Discover the Windows 11 2022 Update
 
@@ -230,16 +230,24 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-top-5-virtual-reality-vr-treadmills-review-for-2024/"><u>[New] Top 5 Virtual Reality (VR) Treadmills Review for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>[Updated] In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-secure-and-seamless-transfer-backing-up-camera-to-snapchat/"><u>[Updated] Secure & Seamless Transfer Backing Up Camera to Snapchat</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-15-best-free-online-image-enhancement-tools-for-2024/"><u>[Updated] Unveiling the 15 Best Free Online Image Enhancement Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-fixing-discrepancies-in-to-do-app/"><u>A Comprehensive Guide to Fixing Discrepancies in To-Do App</u></a></li>
-<li><a href="https://win11.techidaily.com/a-windows-users-guide-for-web-site-app-conversion/"><u>A Windows User's Guide for Web Site App Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-unclickable-elements-in-the-new-os/"><u>Addressing Unclickable Elements in the New OS</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-blunders-proper-techniques-for-file-explorer-use/"><u>Avoiding Blunders: Proper Techniques for File Explorer Use</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-ambient-weather-ws-1002-wifi-smart-sensor-balancing-premium-features-with-a-hefty-cost/"><u>Expert Analysis of the Ambient Weather WS-1002 WiFi Smart Sensor: Balancing Premium Features with a Hefty Cost</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-narzo-60-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme Narzo 60 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-reimagine-realities-unlocking-the-potential-of-youtubes-greenscreens/"><u>[New] 2024 Approved Reimagine Realities Unlocking the Potential of YouTube's Greenscreens</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-import-melodies-into-premiere-pro-projects-for-2024/"><u>[New] Import Melodies Into Premiere Pro Projects for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-create-endless-video-on-iphone/"><u>[New] In 2024, How-To Create Endless Video on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[Updated] 2024 Approved Film Quality Faceoff HERO Black and Keymission Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-entry-made-simple/"><u>Command Center Entry Made Simple</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cut-to-the-chase-managing-twitch-streams-for-2024/"><u>Cut to the Chase Managing Twitch Streams for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/discover-the-ultimate-5-spyware-elimination-programs-keep-malicious-trackers-at-bay/"><u>Discover the Ultimate 5 Spyware Elimination Programs – Keep Malicious Trackers at Bay</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-user-experience-optimizing-windows-pins/"><u>Enhance User Experience: Optimizing Windows PINs</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-repair-unsupported-hard-drives-with-samsung-magician-7-effective-strategies/"><u>How to Repair Unsupported Hard Drives with Samsung Magician - 7 Effective Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-technology-for-dji-visual-storytelling/"><u>In 2024, Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-vivetool-a-windows-users-guide-to-future-functionality/"><u>Meet ViVeTool: A Windows User's Guide to Future Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-approach-to-dampen-windows-11-display-blanking/"><u>Methodical Approach to Dampen Windows 11 Display Blanking</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-pc-information-gathering-with-everythingapp/"><u>Speedy PC Information Gathering with EverythingApp</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-woes-solving-the-problem-of-a-game-that-just-wont-start/"><u>Team Fortress 2 Woes: Solving the Problem of a Game That Just Won’t Start</u></a></li>
+<li><a href="https://win11.techidaily.com/the-guide-to-pairing-classic-gaming-and-windows-memories/"><u>The Guide to Pairing Classic Gaming and Windows Memories</u></a></li>
+<li><a href="https://win11.techidaily.com/the-monetary-flow-how-does-windows-11-work/"><u>The Monetary Flow: How Does Windows 11 Work?</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-clearing-frozen-windows-application-lockdown/"><u>Tips for Clearing Frozen Windows Application Lockdown</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-customization-unleash-your-creative-touch/"><u>Windows 11 Customization: Unleash Your Creative Touch</u></a></li>
 </ul></div>
 

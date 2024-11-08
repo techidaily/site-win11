@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Display Sizing in Win11 Environment
-date: 2024-10-28T17:45:40.797Z
-updated: 2024-11-02T04:41:03.245Z
+date: 2024-11-02T20:30:48.532Z
+updated: 2024-11-07T19:13:38.080Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
@@ -77,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/b6dbcc18e11dc426bd1e06a708ba47abaebc27e7b
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -84,13 +92,6 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
@@ -100,13 +101,6 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -121,10 +115,17 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -146,15 +147,22 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlock-potential-with-best-sd-cards-for-gopro-hero-78/"><u>[New] In 2024, Unlock Potential with Best SD Cards for GoPro HERO 7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-11-the-intricacies-of-its-file-system/"><u>Demystifying Windows 11: The Intricacies of Its File System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-brio-webcam-drivers-for-windows-7-8-and-10/"><u>Get the Latest Logitech Brio Webcam Drivers for Windows 7, 8, and 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>In 2024, Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/in-depth-comparison-how-does-veeam-stack-up-against-cohesity/"><u>In-Depth Comparison: How Does Veeam Stack Up Against Cohesity?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/leading-gif-software-ranked-apples-favorites/"><u>Leading GIF Software Ranked Apple's Favorites</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-high-disk-usage-in-task-manager/"><u>Navigating High Disk Usage in Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/silent-speakers-unveil-audio-steps-immediately/"><u>Silent Speakers? Unveil Audio Steps Immediately</u></a></li>
-<li><a href="https://win11.techidaily.com/syncing-calendars-ifttt-meets-microsoft-to-do/"><u>Syncing Calendars: IFTTT Meets Microsoft To-Do</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-beginners-guide-to-microsoft-copilot/"><u>The Ultimate Beginner's Guide to Microsoft Copilot</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-download-all-favorites-without-spending/"><u>[New] 2024 Approved 2023 Download All Favorites Without Spending</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-afternoons-examination-alternative-perspectives/"><u>[New] Afternoon's Examination Alternative Perspectives</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-tales-leading-academies-for-aspiring-narrators/"><u>[New] Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/advanced-3d-viewing-on-your-android-device/"><u>Advanced 3D Viewing on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-windows-11-tips-easy-rdc-entry/"><u>Convenient Windows 11 Tips: Easy RDC Entry</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-unknown-to-social-superstar-master-these-15-insta-growth-strategies-for-fast-results-for-2024/"><u>From Unknown to Social Superstar Master These 15 Insta Growth Strategies for Fast Results for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-demystifying-vimeos-triplet-plans-for-content-creators/"><u>In 2024, Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-fixes-for-disabled-hard-drives-on-windows-11-systems/"><u>Innovative Fixes for Disabled Hard Drives on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-merge-your-onedrive-and-microsoft-account/"><u>Instant Access: Merge Your OneDrive & Microsoft Account</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-full-screen-capture-efficiency-with-these-fixes-in-windows/"><u>Maximize Full-Screen Capture Efficiency with These Fixes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-unnoticed-windows-11-camera-use/"><u>Preventing Unnoticed Windows 11 Camera Use</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-11-after-password-hurdle/"><u>Reviving Windows 11 After Password Hurdle</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-x9a-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor X9a</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-must-have-apps-to-replace-windows-11-essentials/"><u>Top 10 Must-Have Apps to Replace Windows 11 Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-secure-iphoneipad-browsing-our-picks-for-the-best-vpn-services-tested-and-rated-cnet/"><u>Ultimate Guide to Secure iPhone/iPad Browsing: Our Picks for the Best VPN Services, Tested and Rated | CNET</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-solutions-to-temp-extraction-hurdles-in-win-oses/"><u>Uncovering Solutions to 'Temp Extraction Hurdles in Win OSes'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-in-minutes-smooth-and-easy-surface-dock-driver-updates-for-your-pc/"><u>Upgrade in Minutes: Smooth and Easy Surface Dock Driver Updates for Your PC</u></a></li>
 </ul></div>
 

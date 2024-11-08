@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Clutter: Automatic Deletion Features on Windows 11 PCs"
-date: 2024-10-29T00:07:21.424Z
-updated: 2024-11-01T19:32:02.938Z
+date: 2024-11-01T16:44:00.624Z
+updated: 2024-11-07T21:10:04.774Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Deleted Old Files or Folders With the Command Prompt
 
  Like most things on Windows, you can use the Command Prompt here as well. A replacement for the easy pin-and-point graphical user interface, the Command Prompt works with simple text-based commands to help you perform different admin functions and fix various troubleshooting issues on Windows.
@@ -62,14 +55,14 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
- Your files will be removed as quickly as soon as you hit the above commands.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your files will be removed as quickly as soon as you hit the above commands.
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -84,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -99,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
@@ -112,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 `ForFiles`
 
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
 
@@ -131,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Auto-Deleting Old Files or Folders on a Windows Computer
 
  Keeping unnecessary files on your computer is seldom useful. They eat up memory space, hamper your PC's performance, and clog the file organization. Setting up auto-delete instructions, with whichever method you prefer, lets you rid your PC of this extra baggage.
@@ -139,27 +145,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-tiktok-trends-hit-amazon-your-must-have-list/"><u>[Updated] In 2024, TikTok Trends Hit Amazon - Your Must-Have List</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/4ktop4/"><u>4Kビデオ編集用最適ソフトウェアTOP4推薦</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
-<li><a href="https://win11.techidaily.com/a-windows-guide-to-infusing-personality-into-your-calendar/"><u>A Window's Guide to Infusing Personality Into Your Calendar</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-take-when-ipad-images-fault-during-transfer-to-windows/"><u>Actions to Take When iPad Images Fault During Transfer to Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-critical-system-breakdown-windows-c0000022-fixes/"><u>Addressing Critical System Breakdown: Windows C0000022 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-empty-folder-warning-windows/"><u>Addressing Empty Folder Warning Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-windows-pc-energy-utilization-efficiency/"><u>Assessing Windows PC Energy Utilization Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-win1011-graphics-power-the-ultimate-guide-to-vram/"><u>Boosting Win10/11 Graphics Power: The Ultimate Guide to VRAM</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converta-dados-de-voc-para-wav-sem-custo-ferramenta-on-line-da-movavi/"><u>Converta Dados De VOC Para WAV Sem Custo - Ferramenta On-Line Da Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converti-rapidamente-una-immagine-iso-in-formato-mp4-guida-completa/"><u>Converti Rapidamente Una Immagine ISO in Formato MP4 - Guida Completa</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-chatgpt-in-personal-healthcare-learn-why-its-worth-considering-now/"><u>Discover the Power of ChatGPT in Personal Healthcare – Learn Why It's Worth Considering Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/glam-rific-guide-to-hauls-and-hair-care/"><u>Glam-Rific Guide to Hauls and Hair Care</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-transform-your-mobile-broadcasting-top-tips-in-obs-studio/"><u>In 2024, Transform Your Mobile Broadcasting Top Tips in OBS Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/1719307817163-keyboard-keyscalyping-restore-your-arrows-now/"><u>Keyboard Keyscalyping? Restore Your Arrows Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/microsoft-store-opens-successfully-after-previous-problems-corrected/"><u>Microsoft Store Opens Successfully After Previous Problems Corrected</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-screen-captures-with-4-methods/"><u>Streamline Your Screen Captures with 4 Methods</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +152,21 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-breaking-boundaries-with-metaverse-humor-a-guide-for-you/"><u>[Updated] In 2024, Breaking Boundaries with Metaverse Humor A Guide for You</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-14-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 14?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-smart-7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Smart 7 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-multitasking-with-a-simple-90-degree-rotation-trick/"><u>Innovative Multitasking with a Simple 90-Degree Rotation Trick</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17efrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17eFRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stellar-15-stop-motion-films-to-remember-for-2024/"><u>Stellar 15 Stop-Motion Films to Remember for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-retrieving-deleted-files-from-your-iphone-13-using-icloud/"><u>Step-by-Step Guide: Retrieving Deleted Files From Your iPhone 13 Using iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-bypassing-frozen-screen-lol/"><u>Strategies for Bypassing Frozen Screen LOL</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-user-policy-application-in-modern-windows/"><u>Streamlining User Policy Application in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-transformation-in-windows-history-1985-2023/"><u>Taskbar Transformation in Windows History (1985-2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-of-secure-windows-design-and-implement-personal-patterns/"><u>The Secret of Secure Windows: Design and Implement Personal Patterns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-a-comprehensive-look-at-gpt-4-and-gpt-35/"><u>Unveiling the Distinctions: A Comprehensive Look at GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-know-how-pinpointing-exact-ram-type/"><u>Windows Know-How: Pinpointing Exact RAM Type</u></a></li>
+</ul></div>
+

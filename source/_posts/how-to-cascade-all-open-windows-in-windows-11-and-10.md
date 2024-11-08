@@ -1,7 +1,7 @@
 ---
 title: How to Cascade All Open Windows in Windows 11 and 10
-date: 2024-10-26T19:12:41.353Z
-updated: 2024-11-01T19:59:12.766Z
+date: 2024-10-31T22:48:20.117Z
+updated: 2024-11-07T20:07:04.245Z
 tags:
   - windows10
   - windows11
@@ -38,19 +38,19 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![Displaying Active Programs Using the Cascade Windows Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Displaying-Active-Programs-Using-the-Cascade-Windows-Option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To return them to their original locations, right-click the taskbar again and select **Undo to cascade all windows**. If the option is unavailable on your computer, you’ve probably enabled Tablet mode. Launch the **Action Center** and [click on the **Tablet** tile to turn it off](https://www.makeuseof.com/turn-off-tablet-mode-windows-10/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Cascade Open Windows in Windows 11?
@@ -61,18 +61,24 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can [use PowerToys to make windows more manageable](https://www.makeuseof.com/tag/windows-10-powertoys/). However, you’ll have to use a different app to replicate the cascade option properly in Windows 11\.
 
 ## How to Cascade Windows on Windows 11
 
 ![Fancy Wm app in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/fancy-wm-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Windows 11, one of the best tools for this job is an open source tiling manager called [FancyWM](https://github.com/FancyWM), available free from the Microsoft Store. Launch the Microsoft Store app and search for "fancywm," or go to the [FancyWM Microsoft Store page](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-us&gl=us) directly. Once installed, you can [use FancyWM to create custom layouts](https://www.makeuseof.com/windows-fancywm-guide/), manage window groups, and take advantage of all your virtual desktops and monitors.
 
@@ -81,34 +87,15 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![How to cascade windows in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/cascade-windows-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Cascading all open windows helps you to find what you’re looking for with a glance at your desktop. If you have a dual monitor setup, the windows will cascade on the monitor they are open on. If you still can’t find the window you’re looking for, chances are it’s off-screen.
 
  Navigating through too many open windows on your PC? One of the easiest ways to sort them out is to have Windows cascade them for you. You can use this feature on Windows 10\. But does the function still work on Windows 11, or is there an alternative?
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2023-play-facebook-videos-on-tv/"><u>[New] 2023 | Play Facebook Videos on TV?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-video-popularity-with-strategic-hashtags/"><u>[New] 2024 Approved Elevate Video Popularity with Strategic #Hashtags</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-the-art-of-videotutorials-an-in-depth-guidebook/"><u>[New] Mastering the Art of Videotutorials An In-Depth Guidebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[Updated] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-fixing-the-full-screen-freeze-in-obs/"><u>[Updated] In 2024, Fixing the Full-Screen Freeze in OBS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-transcribing-dreams-into-movies/"><u>2024 Approved The Art of Transcribing Dreams Into Movies</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-curing-slow-gpsvc-on-pcs/"><u>Decoding and Curing Slow GPSVC on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-for-documenting-user-account-control-messages/"><u>Easy Steps for Documenting User Account Control Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-on-correcting-windows-11-typing-error-code-x80049dd3/"><u>Expert Advice on Correcting Windows 11 Typing Error Code X80049DD3</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-type-faster-with-powertoys-on-windows/"><u>How to Type Faster With PowerToys on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/low-ram-and-cpu-consumption-choosing-the-best-browser-across-operating-systems/"><u>Low RAM & CPU Consumption: Choosing the Best Browser Across Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-black-screen-issues-in-pc-games-on-winos/"><u>Remedying Black Screen Issues in PC Games on WINOS</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-virtual-machines-ram-shortage-on-pcs/"><u>Tackling Virtual Machine's RAM Shortage on PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-dac-essential-knowledge-and-its-importance-in-audio-technology/"><u>Understanding DAC: Essential Knowledge & Its Importance in Audio Technology</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,3 +104,23 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mirthful-user-sign-up-saga/"><u>[New] 2024 Approved Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-window-snaps-in-winoses/"><u>[New] 2024 Approved Quick Window Snaps in WinOSes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark-for-2024/"><u>[New] From Selfies to Skies Uncovering The Intricacies with the DJI Spark for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-monetizing-videos-on-youtube-strategies-success/"><u>[Updated] 2024 Approved Monetizing Videos on YouTube Strategies Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-high-quality-ps4-game-broadcasts/"><u>[Updated] 2024 Approved Unveiling the Secrets of High-Quality PS4 Game Broadcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-revolutionize-your-instagram-content-with-these-4-loopy-techniques-for-2024/"><u>[Updated] Revolutionize Your Instagram Content with These 4 Loopy Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-file-safety-tweaking-oss-delete-confirmation/"><u>Controlling File Safety: Tweaking OS's Delete Confirmation</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-the-everyday-windows-11-widget-improvement-ideas/"><u>Elevating the Everyday: Windows 11 Widget Improvement Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-uses-for-the-vcplusplus-redistribution/"><u>Essential Uses for the VC++ Redistribution</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-assemble-multi-image-flip-books-efficiently-using-flipbuilders-tools-and-techniques/"><u>How to Assemble Multi-Image Flip Books Efficiently Using FlipBuilder's Tools and Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y91-phone-without-password-by-drfone-android/"><u>How To Unlock Huawei Nova Y91 Phone Without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 8?</u></a></li>
+<li><a href="https://win11.techidaily.com/registry-edits-for-controlling-installation-processes/"><u>Registry Edits for Controlling Installation Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/shift-key-not-working-on-windows-try-these-fixes/"><u>Shift Key Not Working on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-opening-software-on-windows-pcs/"><u>The Ultimate Guide to Opening Software on Windows PCs</u></a></li>
+</ul></div>
+

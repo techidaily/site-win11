@@ -1,7 +1,7 @@
 ---
 title: Efficient Fixes for ISDone.dll (ISArcExtract) on W10/W11
-date: 2024-10-30T18:28:29.859Z
-updated: 2024-11-02T05:13:16.835Z
+date: 2024-11-01T23:41:46.891Z
+updated: 2024-11-07T17:48:53.985Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select**OK** to close the setup properties window.
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
@@ -60,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
@@ -77,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 `DISM /Online /Cleanup-Image /RestoreHealth`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Increase Virtual Memory Allocation
@@ -93,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Install Any Missing Visual C++ Redistributables
 
  The ISDone.dll error could be occurring because some required Visual C++ Redistributable runtimes are missing on your PC. The solution in such a scenario is to install the required C++ runtime libraries that are missing. You can install missing Visual C++ runtimes in the following steps:
@@ -103,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 3. Double-click the**VC\_redist.x64.exe** file to open an installer window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select the checkbox for agreeing to the license terms.  
@@ -127,17 +139,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
@@ -149,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  Users who’ve installed alternative security software packages on PCs will need to disable the third-party antivirus shields. To do that, click a system tray icon for an antivirus app to bring up its context menu. Then, select an option for turning off (or disabling) the antivirus shield.
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Clean Boot the Windows PC
 
@@ -177,18 +189,19 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-paving-digital-pathways-for-ig-and-tiktok/"><u>[New] 2024 Approved Paving Digital Pathways for IG & TikTok</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dissecting-gopros-max-and-hero-11-video-capabilities/"><u>[Updated] Dissecting GoPro's Max and Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-digital-dynamo-recording-on-a-mac/"><u>[Updated] In 2024, Digital Dynamo Recording on a Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-mkv-player-for-windows-devices/"><u>[Updated] Premium MKV Player for Windows Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-hymn-heads-remover-plugin-build-unique-supporting-soundscape/"><u>2024 Approved Hymn Heads Remover Plugin Build Unique Supporting Soundscape</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-vivo-y100t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y100t Unlock Without Password</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-secure-windows-scripting-navigating-execution-policies/"><u>Activate Secure Windows Scripting: Navigating Execution Policies</u></a></li>
-<li><a href="https://win11.techidaily.com/address-vanishing-cameras-from-device-manager-list/"><u>Address Vanishing Cameras From Device Manager List</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-microsoft-store-hiccup-error-0x00000000-solution/"><u>Avoiding Microsoft Store Hiccup: Error 0X00000000 Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-disk-capacity-7-affordable-tricks-for-windows-enthusiasts/"><u>Boosting Disk Capacity: 7 Affordable Tricks for Windows Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-android-guide-for-backward-video-display/"><u>In 2024, Android Guide for Backward Video Display</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-of-repair-fix-glitchy-or-no-sound-airpods-using-this-method/"><u>Mastering the Art of Repair: Fix Glitchy or No-Sound AirPods Using This Method</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-laptops-for-serious-gamers-under-1500-options/"><u>Top 5 Budget-Friendly Laptops for Serious Gamers: Under $1,500 Options</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-ensuring-accessibility-and-seo-with-responsive-design/"><u>[New] Ensuring Accessibility and SEO with Responsive Design</u></a></li>
+<li><a href="https://driver-error.techidaily.com/undergoing-repairs-boot-loop-ended-with-correct-drivers/"><u>[UNDERGOING REPAIRS] Boot Loop Ended with Correct Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fullscreen-imprint-of-site/"><u>[Updated] 2024 Approved Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-9gag-a-guide-for-memetic-creation/"><u>[Updated] Mastering 9GAG A Guide for Memetic Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>2024 Approved Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c210-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C210 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/edges-steady-cycle-managing-on-windows-11/"><u>Edge's Steady Cycle: Managing on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-continuous-tab-integrity-in-explorer/"><u>Ensuring Continuous Tab Integrity in Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/extending-windows-10-shutdown-time-tips-for-active-tasks/"><u>Extending Windows 10 Shutdown Time: Tips for Active Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-a-non-responsive-login-screen-in-windows-1011/"><u>Guide to Fix a Non-Responsive Login Screen in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-stopping-discord-initial-launch-and-updates-on-windows/"><u>Guide: Stopping Discord Initial Launch & Updates on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-tv-broadcasts-repeating-youtube-videos-effortlessly/"><u>In 2024, Mastering TV Broadcasts Repeating YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>In 2024, YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/influential-insights-top-picks-and-expert-endorsements-of-movavi-video-editing-tools/"><u>Influential Insights: Top Picks & Expert Endorsements of Movavi Video Editing Tools</u></a></li>
 </ul></div>
 

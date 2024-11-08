@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Desktop with a Three-Column Widget Board Setup in Win11
-date: 2024-10-29T04:08:54.276Z
-updated: 2024-11-02T00:06:02.701Z
+date: 2024-10-31T22:37:47.065Z
+updated: 2024-11-07T23:44:52.726Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 Simply put, they have no separation in the two-column Widgets view.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
@@ -50,15 +50,22 @@ Simply put, they have no separation in the two-column Widgets view.
 
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you have successfully set up ViveTool on your PC, you can jump straight to the steps required to enable the specific feature ID for the three-column Widgets view.
@@ -73,6 +80,13 @@ vivetool /enable /id:43028164
 
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
@@ -83,23 +97,9 @@ vivetool /enable /id:43028164
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
 
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## New Widgets Board in Windows 11, Enabled
 
@@ -122,22 +122,18 @@ vivetool /enable /id:43028164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[New] The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-picture-editor-tutorial/"><u>[New] The Ultimate Picture Editor Tutorial</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-guide-to-adding-creative-closure-in-vimeo-videos/"><u>[Updated] Guide to Adding Creative Closure in Vimeo Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-world-of-srt-with-ease-for-2024/"><u>[Updated] Navigating the World of SRT with Ease for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-previews-blockage-in-windows-edition-of-outlook/"><u>Correcting Previews Blockage in Windows Edition of Outlook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-ieee-80211-standards-be-ax-ac-and-bgn-technologies-explained-for-advanced-wi-fi-connectivity/"><u>Demystifying IEEE 802.11 Standards: Be, Ax, Ac, and B/G/N Technologies Explained for Advanced Wi-Fi Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-modification-of-nat-type-on-windows-win11-and-10-guide/"><u>Effective Modification of NAT Type on Windows: Win11 & 10 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-fn-key-for-brightness-adjustment-in-windows-11/"><u>How to Reactivate Fn Key for Brightness Adjustment in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-vlc-media-player-reducing-buffer-lags-on-win/"><u>Improving VLC Media Player: Reducing Buffer Lags on Win</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/inside-look-top-picks-for-live-webcam-capture-for-2024/"><u>Inside Look Top Picks for Live WebCam Capture for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-visual-efficiency-top-5-ideal-windows-pc-clock-themed-screen-saver-creation-apps/"><u>Maximize Visual Efficiency: Top 5 Ideal Windows PC Clock-Themed Screen Saver Creation Apps</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/safeguarding-your-system-effective-ways-to-prevent-ransomware-attacks-on-windows/"><u>Safeguarding Your System: Effective Ways to Prevent Ransomware Attacks on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-art-of-size-calculation-powershell-ways/"><u>Unveiling the Art of Size Calculation: PowerShell Ways</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urutan-rasa-pilihan-ubah-gaya-memutakhirkan-file-lama-di-google-drive-selamat-tahun-baru/"><u>Urutan Rasa Pilihan: Ubah Gaya Memutakhirkan File Lama Di Google Drive Selamat Tahun Baru!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-highlighted-icons-a-how-to-guide/"><u>Windows 11'S Highlighted Icons: A How-To Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-with-youtube-micro-videos/"><u>[New] Maximizing Impact with YouTube Micro Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-breaking-down-t-series-income-mechanism-on-youtube/"><u>[Updated] 2024 Approved Breaking Down T-Series Income Mechanism on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-brand-presence-in-virtual-worlds/"><u>2024 Approved Elevating Brand Presence in Virtual Worlds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-underutilized-features-of-chatgpt-to-boost-productivity-and-creativity/"><u>Explore Underutilized Features of ChatGPT to Boost Productivity and Creativity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-c67-4g-by-drfone-android/"><u>Full Guide to Unlock Your Realme C67 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-windows-11s-tracking-features/"><u>How to Disable Windows 11'S Tracking Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-windows-error-code-1053-for-non-responsive-services/"><u>How to Handle Windows' Error Code 1053 for Non-Responsive Services</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-quirky-quotables-tailoring-hilarious-content-for-brief-videography/"><u>In 2024, Quirky Quotables Tailoring Hilarious Content for Brief Videography</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-camera-quirks-with-ease/"><u>Navigating Window's Camera Quirks with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/step-into-the-twilight-zone-paints-dark-mode-magic/"><u>Step Into the Twilight Zone: Paint's Dark Mode Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-mobile-hotspot-connectivity-on-windows-11/"><u>Troubleshooting Failed Mobile Hotspot Connectivity on Windows 11</u></a></li>
 </ul></div>
 

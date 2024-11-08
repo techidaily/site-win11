@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Network Adapter Error Code 31 on Windows
-date: 2024-10-29T18:23:46.586Z
-updated: 2024-11-01T20:25:47.697Z
+date: 2024-10-31T19:37:12.987Z
+updated: 2024-11-07T21:46:01.017Z
 tags:
   - windows10
   - windows11
@@ -46,32 +46,18 @@ To perform a network driver rollback:
 4. Right-click on your network device and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the**Properties** dialog, open the**Driver** tab.  
 ![device manager network driver roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-driver-roll-back-driver-1.jpg)
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Next, in the confirmation dialog, give a reason and click**Yes** .
 8. Once the driver rollback is complete, check if the problem is resolved. If not, check if you can perform another rollback for the network device driver to see if that helps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Perform a Network Reset
 
@@ -86,6 +72,14 @@ To perform a network reset:
  Next, click on**Network reset** .
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
 
@@ -109,6 +103,13 @@ To perform a network reset:
 
  Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
@@ -118,6 +119,14 @@ To perform a network reset:
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
@@ -126,10 +135,10 @@ To perform a network reset:
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform a System Restore
@@ -144,13 +153,6 @@ To perform a restore point:
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 4. In the**System Restore** dialog, click**Next** to view all the available restore points. Additionally, check the**Show more restore points** option to view older restore points.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the most recent restore point and click**Next** .  
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 6. Confirm your restore point and read the description to understand what apps and data on your PC are affected.
@@ -159,10 +161,10 @@ To perform a restore point:
  If the restore process fails, try it again. At times, it may take more than one attempt to get it right. If the computer is restored, it should hopefully restore the old network driver configuration and fix the error.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Network Adapter Code 31 Error on Windows
@@ -184,18 +186,19 @@ To perform a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-discover-polarrs-secret-ultimate-guide-to-digital-image-editing-for-2024/"><u>[New] Discover Polarr’s Secret Ultimate Guide to Digital Image Editing for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-screen-recording-techniques-for-enhanced-creativity-for-2024/"><u>[New] Screen Recording Techniques for Enhanced Creativity for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-30-proven-facebook-tricks-to-skyrocket-your-brand/"><u>[Updated] 2024 Approved Unveiling 30 Proven Facebook Tricks to Skyrocket Your Brand</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-insights-into-asmr-video-content/"><u>[Updated] Pioneering Insights Into ASMR Video Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-method-to-locate-fb-watched-content-for-2024/"><u>[Updated] The Ultimate Method to Locate FB Watched Content for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[Updated] Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-look-at-windows-printer-administration-interface/"><u>A Comprehensive Look at Windows Printer Administration Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-and-upgrade-top-5-essentials-to-enhance-win-pcs/"><u>Accelerate and Upgrade: Top 5 Essentials to Enhance Win PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-connectivity-issues-fix-iphone-images-not-uploading-in-windows/"><u>Addressing Connectivity Issues: Fix iPhone Images Not Uploading in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-file-security-strategies-in-powertoys/"><u>Advanced File Security Strategies in PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/best-value-car-performance-software-for-windows-top-5-revealed/"><u>Best Value Car Performance Software for Windows - Top 5 Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pixelate-photo-visages-a-selection-of-powerful-utilities/"><u>In 2024, Pixelate Photo Visages A Selection of Powerful Utilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-becoming-part-of-the-global-community-your-guide-to-facebook/"><u>[New] Becoming Part of the Global Community Your Guide to Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-periscope-to-pro-livestreaming-basics-for-ios-and-android/"><u>[New] From Periscope to Pro Livestreaming Basics for iOS and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-best-7-first-person-shooters-of-the-year/"><u>[Updated] In 2024, Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creative-potential-a-detailed-breakdown-of-photoshops-background-eraser-feature/"><u>[Updated] Unleash Creative Potential A Detailed Breakdown of Photoshop's Background Eraser Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>2024 Approved Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compreeved-guide-converting-webp-to-quality-jpg-format-for-2024/"><u>Compreeved Guide Converting WebP to Quality JPG Format for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unmute-yourself-on-google-meet-windows-edition/"><u>How to Unmute Yourself on Google Meet, Windows Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-unveiled-mastering-your-3d-world-for-2024/"><u>HTC Vive Unveiled Mastering Your 3D World for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-git-branches-using-github-desktop-in-win-11/"><u>Navigating Git Branches Using GitHub Desktop in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-file-organization-skills-in-windows-11-edition/"><u>Perfect Your File Organization Skills in Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unauthorized-user-profile-issue-in-windows/"><u>Resolving Unauthorized User Profile Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-recalibration-windows-update-restart-guide/"><u>Streamlining System Recalibration: Windows Update Restart Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-for-resurrecting-non-operative-resource-monitors-in-win11/"><u>Tips & Tricks for Resurrecting Non-Operative Resource Monitors in Win11</u></a></li>
 </ul></div>
 

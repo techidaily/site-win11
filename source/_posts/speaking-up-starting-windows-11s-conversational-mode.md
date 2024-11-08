@@ -1,7 +1,7 @@
 ---
 title: "Speaking Up: Starting Windows 11'S Conversational Mode"
-date: 2024-10-31T21:13:17.415Z
-updated: 2024-11-02T01:30:38.304Z
+date: 2024-11-05T18:49:48.176Z
+updated: 2024-11-07T23:47:30.302Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 
  To stop the Narrator from reading aloud, press**Caps Lock + Esc** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Start the Narrator Using a Run Command
 
  The Run command on a Windows operating system is a quick way to open an application or document. If you're using a screen reader or text-to-speech software on your Windows 11 computer, you can open it using the Run command. Here's how:
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 4. In the Command Prompt window, type "narrator" and press Enter.  
 ![Open Narrator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-command-prompt.jpg)
 5. The Narrator window will open, and you can start using the screen reader.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Start the Narrator With the Windows Search Tool
 
@@ -73,10 +87,16 @@ To open Narrator using Windows PowerShell, follow these steps:
 3. In the PowerShell window, type "narrator" and press Enter to start the Narrator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Start the Narrator Using Windows Settings
@@ -89,13 +109,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-windows-settings.jpg)
 4. Under the Use Narrator section, switch on the**Narrator** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. How to Start the Narrator Using Control Panel
 
  On Windows 11, you can also start Narrator using the Control Panel. This is the easiest and most straightforward way to do so. To get started, follow these steps:
@@ -104,13 +117,21 @@ To open Narrator using Windows PowerShell, follow these steps:
 2. In the control panel, change the screen view to**Large icons** .  
 ![Open Narrator Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-control-panel.jpg)
 3. Next, select**Easy of Access Centre** \>**Start Narrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. The Narrator will start on your Windows 11 device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. How to Start Narrator With a Desktop Shortcut
@@ -133,14 +154,14 @@ To open Narrator using Windows PowerShell, follow these steps:
 ![Open Narrator Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-narrator-using-task-manager.jpg)
 3. Type "Narrator" in the text field and hit Enter.
 
- Close the Task Manager window and the Narrator should now be up and running.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Close the Task Manager window and the Narrator should now be up and running.
 
 ## 10\. How to Start Narrator From File Explorer
 
@@ -151,19 +172,6 @@ To open Narrator using Windows PowerShell, follow these steps:
 
 That's all; your Narrator should now be ready to go.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. How to Pin Narrator to the Taskbar
 
  While you can open Narrator using any of the above methods, you might find it easier to access it right from the Taskbar tray. Having it on the taskbar can make it easier and faster to access an application since it is always in view on your desktop. To do this, follow the below steps:
@@ -173,19 +181,6 @@ That's all; your Narrator should now be ready to go.
 3. On your Taskbar tray, a new icon will appear. Click on this icon to launch Narrator.
 
  It's just that simple. This is how you can open Narrator on Windows 11.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It’s Easy to Start Up the Narrator on Windows 10
 
@@ -206,19 +201,21 @@ That's all; your Narrator should now be ready to go.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[New] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-video-privacy-directly-share-yt-clips-using-googleid/"><u>[New] Mastering Video Privacy Directly Share YT Clips Using GoogleID</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-youtube-live-recording-on-every-gadget/"><u>[New] Mastering YouTube Live Recording on Every Gadget</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-premier-screen-recording-software-top-10-on-mac-for-2024/"><u>[Updated] Premier Screen Recording Software Top 10 on Mac for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-new-era-of-youtube-naming-unique-ideas-for-modern-blogging-and-filming-maximum-length-156-characters/"><u>[Updated] The New Era of Youtube Naming Unique Ideas For Modern Blogging & Filming (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-access-denied-windows-issues-quickly-and-efficiently/"><u>Fixing Access Denied Windows Issues Quickly and Efficiently</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/nba-live-on-social-media-fb-and-twt-covering-seasons/"><u>NBA Live on Social Media: FB & Twt Covering Seasons</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-access-blockage-issues-with-these-win-strategies/"><u>Resolving Access Blockage Issues with These Win Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/selecting-web-browsers-with-minimal-resource-impact-on-diverse-oses/"><u>Selecting Web Browsers with Minimal Resource Impact on Diverse OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essence-and-differences-of-artificial-intelligence-tech/"><u>The Essence and Differences of Artificial Intelligence Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/where-are-the-blue-screen-of-death-log-files-located-in-windows-heres-how-to-read-them/"><u>Where Are the Blue Screen of Death Log Files Located in Windows? Here's How to Read Them</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-idle-management-how-to-schedule-system-shutdown/"><u>Win11 Idle Management: How to Schedule System Shutdown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-from-zero-to-hero-youtubes-masterclass-in-channels/"><u>[New] In 2024, From Zero to Hero YouTube's Masterclass in Channels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>[Updated] 2024 Approved Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-netgear-adapter-software-drive-downloads-and-upgrades-guide/"><u>How to Get the Newest NETGEAR Adapter Software – Drive Downloads & Upgrades Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reverse-color-mismatch-in-microsoft-store/"><u>How To Reverse Color Mismatch in Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-troubleshoot-ad-ds-printer-problems-in-modern-windows/"><u>How to Troubleshoot AD DS Printer Problems in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-the-faulty-game-tracking-of-discord-for-microsoft-os/"><u>Improving the Faulty Game Tracking of Discord for Microsoft OS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-challenge-accepted-top-10-tiktok-trends-you-should-try/"><u>In 2024, Challenge Accepted Top 10 TikTok Trends You Should Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-speech-to-text-solutions/"><u>In 2024, High-Quality Speech-to-Text Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>In 2024, Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-undiscovered-speech-to-text-apps-on-your-mac/"><u>In 2024, The Best Undiscovered Speech-to-Text Apps on Your Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-mastery-comprehensive-list-of-freebies-for-win11-pcs/"><u>Maximize Mastery: Comprehensive List of Freebies for Win11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/radiate-holiday-cheer-through-designed-panes/"><u>Radiate Holiday Cheer Through Designed Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/rearranging-monitor-input-in-windows-os/"><u>Rearranging Monitor Input in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-divergence-a-comparative-study-between-microsoft-and-non-microsoft-windows-logins/"><u>Understanding the Divergence: A Comparative Study Between Microsoft & Non-Microsoft Windows Logins</u></a></li>
 </ul></div>
 

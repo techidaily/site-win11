@@ -1,7 +1,7 @@
 ---
 title: Overcoming Connection Issues with Headphones or Speakers, Windows
-date: 2024-10-31T23:54:00.382Z
-updated: 2024-11-02T02:59:02.605Z
+date: 2024-11-01T17:55:51.794Z
+updated: 2024-11-07T20:16:10.693Z
 tags:
   - windows10
   - windows11
@@ -45,18 +45,18 @@ To run the troubleshooter:
 
  If the troubleshooter left a good impression on you, check out our[guide to every troubleshooter on Windows 11](https://www.makeuseof.com/windows-11-troubleshooters/) for more of them.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Perform an Audio Device Driver Rollback
 
  If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
@@ -75,26 +75,26 @@ To run the troubleshooter:
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -124,8 +124,30 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
@@ -140,13 +162,6 @@ To uninstall an audio device:
 
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press the**Win** key, and type**device installation settings.**
 2. Next, click on**Change device installation settings** from the search result.
 3. Select the**No (your device might not work as expected)** option in the**Device installation settings** dialog.
@@ -155,16 +170,10 @@ To uninstall an audio device:
  With the automatic driver download disabled, reinstall the existing driver to fix the no audio issue.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the "No Speaker or Headphones Are Plugged In" Error
@@ -186,16 +195,18 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ace-all-round-strategies-maximizing-efficiency-in-acquiring-and-storing-vimeo-videos/"><u>[New] In 2024, Ace All-Round Strategies Maximizing Efficiency in Acquiring & Storing Vimeo Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-journey-in-sky-high-4k-clarity/"><u>2024 Approved The Ultimate Journey in Sky High 4K Clarity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-top-rated-ipad-air-protectors-reviewed-by-professionals-insight/"><u>2024'S Top-Rated iPad Air Protectors Reviewed by Professionals Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-through-office-activation-blockades/"><u>Breaking Through Office Activation Blockades</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-top-5-apps-to-make-your-laptop-os-swap-easier/"><u>Bridging the Gap: Top 5 Apps to Make Your Laptop OS Swap Easier</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-frequent-file-explorer-activation/"><u>Ceasing Frequent File Explorer Activation</u></a></li>
-<li><a href="https://win11.techidaily.com/choosing-between-googles-and-windows-nearby-file-transfers/"><u>Choosing Between Google's and Windows' Nearby File Transfers</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-strategy-for-fixing-update-errors-in-windows-0xc1900101/"><u>Combat Strategy for Fixing Update Errors in Windows (0xC1900101)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-instructions-for-installing-microsofts-hyper-v-in-windows-10/"><u>Comprehensive Instructions for Installing Microsoft's Hyper-V in Windows 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-brother-hl-3170cdw-driver-software-in-minutes/"><u>Download & Setup: Brother HL-^3170cdw Driver Software in Minutes!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vlc-masterclass-converting-mp4-to-a-spectrum-of-digital-media-types/"><u>VLC Masterclass Converting MP4 to a Spectrum of Digital Media Types</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-progression-reach-and-maintain-10k-viewer-threshold/"><u>[New] 2024 Approved Channel Progression Reach and Maintain 10K Viewer Threshold</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-video-grabber-software-in-windows-11/"><u>[New] 2024 Approved Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-directdraw-errors-effective-remedies-for-modern-microsoft-oses/"><u>Decoding DirectDraw Errors: Effective Remedies for Modern Microsoft OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/defining-fresh-default-for-windows-pdf-files/"><u>Defining Fresh Default for Windows PDF Files</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-obstructed-video-feed-from-webcam/"><u>Fixing Obstructed Video Feed From Webcam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Civi 3 Disney 100th Anniversary Edition Phone?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-agni-2-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Agni 2 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/master-rdc-start-ups-with-these-10-tips/"><u>Master RDC Start-Ups with These 10 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-apexs-windows-server-issues-(156-chars/"><u>Mastering Apex's Windows Server Issues (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-transitioning-your-workspace-from-concentration-to-normal-on-terminal/"><u>Mastery over Transitioning Your Workspace: From Concentration to Normal on Terminal</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-to-adjust-youtube-video-speeds-on-the-fly-for-2024/"><u>Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unspoken-stories-in-whistleblowing-documents-on-fb/"><u>The Unspoken Stories in Whistleblowing Documents on FB</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-creative-with-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users-for-2024/"><u>Updated Get Creative with Slow Motion Tips and Tricks for Windows Live Movie Maker Users for 2024</u></a></li>
 </ul></div>
 

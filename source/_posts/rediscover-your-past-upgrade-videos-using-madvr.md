@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Your Past: Upgrade Videos Using MadVR"
-date: 2024-10-27T01:49:21.734Z
-updated: 2024-11-01T23:17:52.609Z
+date: 2024-11-01T21:39:35.351Z
+updated: 2024-11-07T21:55:29.150Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Best of all, it is open-source and free to use.
 2. Extract madVR's downloaded archive into any folder of your choice. You can extract it directly in MPC-HC's installation folder, but if you want to use it in more than one player, it's best to extract it in a folder of its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Launch MPC-HC and choose**View** \>**Options** .  
@@ -56,20 +56,28 @@ Best of all, it is open-source and free to use.
 5. Click on**Add Filter** at the top right.  
 ![MPC HC Add Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-add-filter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click on**Browse** at the bottom left of the new**Select Filter** window. Point the requester to the folder where you extracted madVR and select the**madVR.ax** file. Click**OK** to return to the**Select Filter** window. Locate**madVR** among the entries, select it, and click**OK** .  
 ![MPC HC Select Filter MadVR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-select-filter-madvr.jpg)
 2. Click on the newly-added**madVR** entry on the**External Filters** list. Choose**Prefer** from the options on the right.  
 ![MPC HC MadVR Prefer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-madvr-prefer.jpg)
 3. Expand the**Playback** entry from the list on the left and choose**Output** .
-4. Click on the drop-down menu under**DirectShow Video** and select**madVR** .
-5. Press**OK** to save the changes. Close and relaunch MPC-HC to ensure it will be using the madVR renderer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Click on the drop-down menu under**DirectShow Video** and select**madVR** .
+5. Press**OK** to save the changes. Close and relaunch MPC-HC to ensure it will be using the madVR renderer.
 
 ## Tweaking the MadVR Settings
 
@@ -85,13 +93,6 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Deinterlacing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-deinterlacing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Move to**artifact removal** , and pause for a second. Now's the time to drag and drop a video, preferably a highly-compressed one, onto MPC-HC's window, and let it play in the background. This way, you'll be able to check how your madVR settings affect how videos look.
 
  Try enabling the options in this section one by one and, if available, progressively increasing their strength. You can click on**Apply** at any time to check their effect on your video.
@@ -99,32 +100,32 @@ Best of all, it is open-source and free to use.
 ![MadVR Artifact Removal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-artifact-removal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When your video starts looking "off", with annoyingly pronounced "edges" around elements, dial your last settings down a notch. If playing a lot of MPEG4/HEVC content (encoded with DivX/XviD/H.264/H.265/NVENC), make sure to try out**reduce compression artifacts** . Setting its quality to**very high** and enabling**process chroma channels, too** come with higher requirements but can also further reduce the annoying "(macro)blocks" on highly-compressed files.
 
 ![MadVR Reduce Compression Artifacts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-reduce-compression-artifacts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Do the same for the options in the**image enhancements** section. Since their result depends on both the active video and your perception of what looks best, we'll leave the choice of which you should enable and their values up to you. Remember that you can see their effect in any active video immediately after hitting the**Apply** button on the window.
 
 ![MadVR Image Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-enhancements.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Performing Upscaling With MadVR
 
@@ -144,23 +145,16 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Image Upscaling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-image-upscaling.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As before, we won't suggest specific settings for the options on**upscaling refinement** . Enable them one by one, play with their values, and click**Apply** to find what you like. If you see strange artifacts, lines, or elements of your video look "glitchy", change the last option on this page to**Refine the image only once after upscaling is complete** .
 
 ![MadVR Upscaling Refinement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-upscaling-refinement.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Adjusting the Quality With MadVR
 
@@ -168,15 +162,28 @@ Best of all, it is open-source and free to use.
 
 ![MadVR Smooth Motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-smooth-motion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the highest quality, you can visit the**Trade Quality for Performance** page and disable some or all of the default settings. However, these will make less of a difference compared to the other options.
 
 ![MadVR Quality Or Performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/madvr-quality-or-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Final Note About MadVR
@@ -208,19 +215,22 @@ Best of all, it is open-source and free to use.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-top-10-wave-capturing-cams/"><u>[New] In 2024, The Top 10 Wave-Capturing Cams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-capturing-youtube-captions-3-easy-methods-of-srt-extraction-for-2024/"><u>[Updated] Capturing YouTube Captions 3 Easy Methods of SRT Extraction for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamvid-studio-xtreme/"><u>[Updated] StreamVid Studio Xtreme</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compre-written-by-chloe-miller/"><u>A Compre Written by Chloe Miller</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-look-at-windows-vulnerability-alerts/"><u>A Comprehensive Look at Windows’ Vulnerability Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-microphone-experience-with-win-11s-voice-shortcuts/"><u>Accelerate Your Microphone Experience with Win 11'S Voice Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-critical-roblox-programming-mistakes/"><u>Addressing Critical Roblox Programming Mistakes</u></a></li>
-<li><a href="https://win11.techidaily.com/best-windows-utilities-convert-any-media-file/"><u>Best Windows Utilities Convert Any Media File</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-1011-how-to-bypass-pin-locks/"><u>Breaking Down Windows 10/11: How to Bypass PIN Locks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-essential-iphone-xsxs-max-secrets-in-depth-look-at-cutting-edge-features-advantages-and-technical-specs/"><u>Discover Essential iPhone XS/XS Max Secrets: In-Depth Look at Cutting-Edge Features, Advantages, and Technical Specs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevating-package-revelation-innovative-ways-for-first-encounters-for-2024/"><u>Elevating Package Revelation Innovative Ways for First Encounters for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12r-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12R to iPod | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>In 2024, Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/virtueel-omzetten-voor-w64-fassaden-kostenlos-met-movavi-converter/"><u>Virtueel Omzetten Voor W64 Fassaden - Kostenlos Met Movavi Converter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavimp3avi/"><u>「Movaviで簡単！無料のオンラインMP3からフルレングスAVIへ変換」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-dual-realities-decoded-meta-and-omni-explored/"><u>2024 Approved Dual Realities Decoded Meta and Omni Explored</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-remobell-doorbells-under-100-detailed-product-analysis/"><u>Affordable RemoBell Doorbells Under $100 - Detailed Product Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversor-de-video-online-gratuito-movavi-para-mpeg-e-ogm/"><u>Conversor De Video Online Gratuito - Movavi Para MPEG E OGM</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-windows-canary-vulnerability-alerts/"><u>Demystifying the Windows Canary Vulnerability Alerts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-acer-predator-triton-300-se-maximizing-value-in-a-portable-form-factor/"><u>In-Depth Analysis of the Acer Predator Triton 300 SE: Maximizing Value in a Portable Form Factor</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-mac-video-editing-experience-vn-video-editor-and-alternatives-for-2024/"><u>New The Ultimate Mac Video Editing Experience VN Video Editor and Alternatives for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-abrupt-game-endings-fix-tips-for-roblox-on-pc/"><u>Preventing Abrupt Game Endings: Fix Tips for Roblox on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-seamless-file-downloads-in-windows-11/"><u>Re-Establishing Seamless File Downloads in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-camera-not-found-on-win11-a-step-by-step-guide/"><u>Resolving Camera Not Found on Win11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-technicolor-turnover-desktop-color-fix-tips-for-windows/"><u>Taming the Technicolor Turnover: Desktop Color Fix Tips for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-read-only-reverting-in-file-systems/"><u>Troubleshooting Read-Only Reverting in File Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-policies-on-windows-discover-3-vital-approaches/"><u>Unlock Policies on Windows: Discover 3 Vital Approaches</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/usbandraw/"><u>USB読み出し&修復ガイド：RAWファイルからのデータ救出</u></a></li>
 </ul></div>
 

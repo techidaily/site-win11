@@ -1,7 +1,7 @@
 ---
 title: Configure Windows Companion Using ViveTool
-date: 2024-10-29T19:12:04.327Z
-updated: 2024-11-01T20:45:56.669Z
+date: 2024-11-01T23:55:38.819Z
+updated: 2024-11-07T21:43:41.734Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Windows Copilot Using ViveTool
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  When Windows Copilot becomes available for everyone, you will no longer need ViveTool to enable it. You'll be able to enable it from the Taskbar page in the Settings app. You'll find the **Copilot** toggle in the Taskbar items on the Taskbar page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Copilot Makes Things Easier... but It's Not Nearly as Powerful as Bing Chat
@@ -88,25 +88,6 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-basics-of-narrative-crafting/"><u>2024 Approved Basics of Narrative Crafting</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-discovering-xs-the-ultimate-100-i-action-movie-maker/"><u>2024 Approved Discovering XS The Ultimate 100 I Action Movie Maker</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos/"><u>2024 Approved Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-unveils-surprising-high-value-feature-349-ipad-steals-show-at-exciting-let-loose-launch-techinsights/"><u>Apple Unveils Surprising High-Value Feature: $349 iPad Steals Show at Exciting 'Let Loose' Launch | TechInsights</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/expert-strategies-for-restoring-and-fixing-damaged-ms-access-db-files-your-ultimate-recovery-handbook/"><u>Expert Strategies for Restoring and Fixing Damaged MS Access DB Files: Your Ultimate Recovery Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-this-device-is-disabled-code-22-error-on-windows-11/"><u>How to Fix the This Device Is Disabled (Code 22) Error on Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-navigating-the-maze-of-private-snapshares/"><u>In 2024, Navigating the Maze of Private Snapshares</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-entertainment-with-these-7-free-players/"><u>Master Your Entertainment with These 7 FREE Players</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-appdisplay-issue-ms-resourcetext-problem-in-windows-11/"><u>Overcoming AppDisplay Issue: Ms-Resource/Text Problem in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/razer-opticalmouse-drivers-on-pc/"><u>Razer OpticalMouse Drivers on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-discord-overlay-issues-in-windows-environment/"><u>Resolving Discord Overlay Issues in Windows Environment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/smooth-file-migration-to-computer-5-proven-techniques-for-2024/"><u>Smooth File Migration to Computer – 5 Proven Techniques for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-reliable-discord-games-status-feature-pc/"><u>Steps for Restoring Reliable Discord Games Status Feature (PC)</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 12 mini | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-best-win-soft-tools-choco-wins/"><u>Unveiling the Best Win Soft Tools: Choco Wins!?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -114,3 +95,24 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-the-skies-a-guide-to-using-syma-x8c/"><u>[New] 2024 Approved Mastering the Skies A Guide to Using Syma X8C</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-pedagogical-pros-ultimate-10-devices-for-lecture-preservation/"><u>[New] In 2024, Pedagogical Pros Ultimate 10 Devices for Lecture Preservation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[New] In 2024, The Quickstep Into Viral Audio YouTube's Short Musical Journey</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-bypassing-a-forgotten-iphone-password-with-steps/"><u>Complete Guide: Bypassing a Forgotten iPhone Password with Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-workflow-in-windows-11-drag-and-drop-tabs-for-efficiency/"><u>Enhance Workflow in Windows 11: Drag & Drop Tabs for Efficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expanding-minds-virtualizing-classrooms/"><u>Expanding Minds, Virtualizing Classrooms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-hardware-solutions-curated-by-team-tom/"><u>Innovative Hardware Solutions Curated by Team Tom</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices/"><u>New Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-typing-game-setting-up-custom-keys-for-fixed-text-in-win11/"><u>Perfect Your Typing Game: Setting Up Custom Keys for Fixed Text in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-a15-4g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/recovering-lost-files-essential-steps-for-creating-new-data-post-disk-partition-cleanup/"><u>Recovering Lost Files: Essential Steps for Creating New Data Post-Disk Partition Cleanup</u></a></li>
+<li><a href="https://win11.techidaily.com/reigniting-your-bluetooth-mouse-link-with-windows-xp7/"><u>Reigniting Your Bluetooth Mouse Link with Windows XP/7</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-office-software-auto-updates-immediately/"><u>Stop Office Software Auto-Updates Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-conquer-access-denied-saving-problems-windows/"><u>Strategies to Conquer 'Access Denied' Saving Problems, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-printer-setup-the-windows-way/"><u>Understanding Printer Setup: The Windows Way</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-iconography-taskbars-evolution-story/"><u>Windows Iconography: Taskbar's Evolution Story</u></a></li>
+</ul></div>
+

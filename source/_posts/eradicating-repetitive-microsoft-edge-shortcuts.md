@@ -1,7 +1,7 @@
 ---
 title: Eradicating Repetitive Microsoft Edge Shortcuts
-date: 2024-10-27T03:32:11.851Z
-updated: 2024-11-01T21:52:23.618Z
+date: 2024-10-31T20:37:50.305Z
+updated: 2024-11-07T18:29:09.032Z
 tags:
   - windows10
   - windows11
@@ -80,22 +80,15 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 ![Microsoft Edge pre-launch policy selected in the Local Group Policy Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Local-Group-Policy-Editor-Window.jpg)
 7. Hit Apply followed by **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Similarly, disable the **Allow Microsoft Edge to start and load the Start and New Tab page at Windows startup, and each time Microsoft Edge is closed** policy as well.
 
  Restart your PC one more time and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove Microsoft Edge as the Default Browser
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
  Try [changing the default browser on your Windows PC](https://www.makeuseof.com/windows-11-change-default-browser/) to something other than Microsoft Edge and see if that fixes the issue.
 
  If you need help picking a reliable browser, you can check out [the best browsers for Windows](https://www.makeuseof.com/windows-11-best-browsers/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Restrict Other Users From Creating Desktop Shortcuts
 
@@ -120,13 +120,20 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 6. Click **Apply** and then **OK**.  
 ![Using the Local Group Policy to Prevent Others From Changing Desktop Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Local-Group-Policy-to-Prevent-Others-From-Changing-Desktop-Icons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And that's about it. Once you make the above changes, the other users won't be able to create, modify, or delete your desktop icons.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Review Scheduled Tasks
@@ -141,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 4. Locate and select any Edge-related tasks.
 5. Click the **Disable** option in the right pane.  
 ![An Automated task selected in the Task Scheduler window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Task-Scheduler-Window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Further, you can [restrict others from creating and running tasks in the Task Scheduler app](https://www.makeuseof.com/windows-block-task-manager/) by modifying the group policy settings or the registry files.
 
@@ -165,22 +165,6 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
  Fortunately, there's no requirement to manually delete the Edge desktop shortcut repeatedly. Here are some helpful tips that should help resolve the issue in no time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-eye-openers-yearly-infographics-on-yts-surprising-stats-17/"><u>[New] Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-through-youtubes-content-id-system-issues/"><u>[New] In 2024, Navigating Through YouTube's Content ID System Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-editors-playbook-advanced-pc-methods-for-youtube-mastery/"><u>[Updated] In 2024, The Editor's Playbook Advanced PC Methods for YouTube Mastery</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[Updated] Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-starting-out-top-pick-gopro-supplements/"><u>2024 Approved Starting Out Top Pick GoPro Supplements</u></a></li>
-<li><a href="https://win11.techidaily.com/5-superior-windows-platform-bittorrent-apps/"><u>5 Superior Windows Platform BitTorrent Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-mfc71udll-disappearance-on-pcs/"><u>Addressing Mfc71u.dll Disappearance on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-usb-recognition-failures-in-win-11/"><u>Addressing USB Recognition Failures in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-update-problem-code-0x8024800c/"><u>Addressing Windows Update Problem: Code 0X8024800C</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-pro-video-converter/"><u>MacX Pro Video Converter 使用マニュアル：安全なダウンロード、購入プロセスと高評価レビュー</u></a></li>
-<li><a href="https://win11.techidaily.com/1719218034374-provide-examples-from-real-life-where-understanding-another-cultures-perspective-could-lead-to-better-communication-and-relationships/"><u>Provide Examples From Real Life Where Understanding Another Culture's Perspective Could Lead to Better Communication and Relationships</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sculpt-comical-visuals-for-digital-sharing/"><u>Sculpt Comical Visuals for Digital Sharing</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +172,19 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-concoct-clever-caricatures/"><u>[New] In 2024, Concoct Clever Caricatures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-find-the-right-aspect-ratio-for-your-video/"><u>[Updated] In 2024, Find The Right Aspect Ratio For Your Video</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v29-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V29 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/multitask-media-magic-employing-netflix-picture-in-picture-for-2024/"><u>Multitask Media Magic Employing Netflix Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-asus-rog-phone-8-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Asus ROG Phone 8 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-black-window-after-system-ignition/"><u>Remedying Black Window After System Ignition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Code 4128</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-full-disk-alerts-in-windows-1011/"><u>Solutions for Full Disk Alerts in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-the-error-in-windows-activation-0x803f700f/"><u>Strategies for Overcoming the Error in Windows Activation 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-ordinary-to-extraordinary-with-ms-winning-choices-2023/"><u>Transform Ordinary to Extraordinary with MS Winning Choices, 2023</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Convenient Notetaking Tips for Windows Users
-date: 2024-10-26T04:00:37.162Z
-updated: 2024-11-02T00:02:29.661Z
+date: 2024-11-06T22:53:42.224Z
+updated: 2024-11-07T20:07:53.355Z
 tags:
   - windows10
   - windows11
@@ -36,28 +36,28 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
  If you use the app often, you can create a desktop shortcut for faster access. Navigate to the Start menu, hit **All Apps**, and find Notepad down the alphabetical list. Then drag the app to a space on the desktop to create a shortcut. You can also access Notepad faster by [pinning an app to the Windows 11 Taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Take Notes on WordPad
 
 ![WordPad blank document demonstrating formatting features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wordpad-blank-document-demonstrating-formatting-features.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  WordPad is another pre-installed app offering a great method to take notes without downloading software. The app’s simple design resembles Notepad but offers more advanced features—notably its rich text editor—to upgrade your note-taking.
 
  With its rich text editor, you can change the font color and style, add bulleted lists, and highlight text. WordPad also offers a feature to send documents directly as an email. Hit **File** and select **Send as email**.
 
  To access the app, go to the Start menu and search for “WordPad.” Files can be saved as a plain text file (as used in Notepad) or as a rich text document (.rtf) if you’d like to import your notes into other software.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Try Windows Sticky Notes
 
@@ -68,22 +68,15 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
  The app offers a neat and colorful way to take notes. You can hit the three dots on the top banner of a note to change its color and access your notes list. Windows Sticky Notes is one of the most flexible ways to take notes. You can have multiple notes open at once—hit **Ctrl + N** to add a new note. You can also easily resize notes and drag them anywhere on your desktop by clicking and dragging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Take Notes Online With Memo Notepad
 
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
@@ -92,6 +85,19 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 ## 5\. Use Windows Clipboard to Save Snippets of Text
 
 ![Windows clipboard history display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-clipboard-history-display.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether you’re multitasking or doing online research, you’ll often come across pieces of information you need to remember. The good news is, using the Windows Clipboard feature, you no longer have to rely on writing things on the back of your hand.
 
@@ -105,19 +111,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-contentment-top-streaming-techniques-for-2024/"><u>[New] Capturing Contentment Top Streaming Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-process-essential-techniques-and-strategies-for-green-screen-filmmaking/"><u>[Updated] Mastering the Process Essential Techniques & Strategies for Green Screen Filmmaking</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-utilize-windows-hello-biometric-lock-in-windows-11/"><u>How to Utilize Windows Hello Biometric Lock in Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash/"><u>In 2024, Diving Into the World of Youtubers Starting Your Channel, Earning Cash</u></a></li>
-<li><a href="https://facebook.techidaily.com/should-you-use-facebook-events-the-pros-and-cons-explained/"><u>Should You Use Facebook Events? The Pros and Cons Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-selecthighlight-problems-in-windows-pdfs/"><u>Solutions for Select/Highlight Problems in Windows PDFs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-prevent-csgo-launch-issues-on-windows-11/"><u>Strategies to Prevent CS:GO Launch Issues on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-networks-decoded-arp-cache-understanding/"><u>Windows Networks Decoded: ARP Cache Understanding</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +118,25 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-integrating-whatsapp-into-your-twitter-video-sharing-routine/"><u>[Updated] 2024 Approved Integrating WhatsApp Into Your Twitter Video Sharing Routine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>[Updated] 2024 Approved The Smart Buyer's Guide to Drones Crucial Info Upfront</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diy-dvddvd/"><u>DIY DVDレストア方法：損傷したDVDを一生けんめい手直すコツ！</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-guide-booting-into-windows-11s-safe-mode/"><u>Masterful Guide: Booting Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-video-effects-handbook-tips-and-tricks/"><u>New The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/night-time-noir-a-deep-dive-into-dark-modes-in-paint/"><u>Night-Time Noir: A Deep Dive Into Dark Modes in Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-audio-glitches-error-0xc00d36b4-in-win11/"><u>Remedying Audio Glitches: Error 0XC00D36B4 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-chromes-aw-snap-windows-alert/"><u>Resolving Chrome's Aw, Snap! Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-path-access-denied-errors/"><u>Resolving Network Path Access Denied Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-your-windows-interface-a-trifecta-of-tips/"><u>Revamp Your Windows Interface: A Trifecta of Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/snipping-tool-edits-made-simple-a-text-guide/"><u>Snipping Tool Edits Made Simple: A Text Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-5-solutions-pour-le-dysfonctionnement-du-transfert-de-fichier-usb/"><u>Top 5 Solutions Pour Le Dysfonctionnement Du Transfert De Fichier USB</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-no-cost-cross-platform-graphics-editor-gimp-feature-breakdown/"><u>Top Rated No-Cost Cross-Platform Graphics Editor - GIMP Feature Breakdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-non-charging-ps5-controllers-a-step-by-step-guide/"><u>Troubleshooting Tips for Non-Charging PS5 Controllers – A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-video-editing-top-10-free-green-screen-apps-for-androidios/"><u>Updated 2024 Approved Elevate Your Video Editing Top 10 Free Green Screen Apps for Android/iOS</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-top-four-password-vault-champions/"><u>Windows 11'S Top Four Password Vault Champions</u></a></li>
+</ul></div>
+

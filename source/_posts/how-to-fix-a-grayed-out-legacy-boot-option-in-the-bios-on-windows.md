@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Grayed-Out Legacy Boot Option in the BIOS on Windows
-date: 2024-10-27T04:39:05.882Z
-updated: 2024-11-01T20:52:28.870Z
+date: 2024-11-05T23:27:04.906Z
+updated: 2024-11-07T21:09:01.705Z
 tags:
   - windows10
   - windows11
@@ -59,13 +59,21 @@ To disable secure boot:
 4. Next, use the up and down arrow key to highlight the**Secure Boot** option and press**Enter** to view more options.  
 ![disable secure boot bios](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-secure-boot-bios.jpg)
 5. Select**Disabled** and make sure the changes are shown in the Boot Options tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press**F10** to save the changes and disable Secure Boot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Trusted Platform Technology (TPM)
@@ -73,10 +81,10 @@ To disable secure boot:
 ![disable TPM state BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-tpm-state-bios-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In addition to Secure Boot, you may also have enabled Trusted Platform Module (TPM), disabling Legacy BIOS. To fix the issue, check if TPM is enabled on your PC, which is likely a case on a Windows 11 running system, and disable the option if necessary.
@@ -90,10 +98,10 @@ To disable secure boot:
 5. Press**F10** to save the change and exit.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Modern Standby
@@ -101,13 +109,6 @@ To disable secure boot:
  Modern Standby (S0) is a newer power mode available on select modern computers. It is enabled by default on compatible systems but can cause issues with Legacy Boot.
 
  To fix the issue, try to[disable Modern Standby on your Windows computer](https://www.makeuseof.com/windows-disable-modern-standby/) . Once disabled, restart your PC to see if you can switch to Legacy Boot now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restore a Grayed Out Legacy Boot Option in Your BIOS
 
@@ -128,21 +129,22 @@ To disable secure boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-immediate-pause-screen-capture-steps/"><u>[New] In 2024, Immediate Pause Screen Capture Steps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-from-snapchat-to-social-upload-videos-on-twit/"><u>[Updated] From Snapchat to Social Upload Videos on Twit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-transforming-your-photos-on-instagram-green-screen-for-2024/"><u>[Updated] Transforming Your Photos on Instagram Green Screen for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-gaming-setup-with-fast-valorant-loading/"><u>Accelerate Your Gaming Setup with Fast Valorant Loading</u></a></li>
-<li><a href="https://win11.techidaily.com/accurate-printouts-from-powerpoint-in-windows-9-top-fixes-unveiled/"><u>Accurate Printouts From PowerPoint in Windows: 9 Top Fixes Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-users-activate-elevated-cmd-status/"><u>Advanced Users: Activate Elevated CMD Status</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-clutter-pro-tips-to-adhere-sticky-notes-on-w11w10/"><u>Avoid Clutter: Pro Tips to Adhere Sticky Notes on W11/W10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-steps-to-enhance-your-gopro-cinematography/"><u>Essential Steps to Enhance Your Gopro Cinematography</u></a></li>
-<li><a href="https://win11.techidaily.com/1719382051492-exclusive-deal-for-tech-lovers-612-windows-11-lifetime-thanks-to-keys-fans/"><u>Exclusive Deal for Tech Lovers: $6.12 Windows 11 Lifetime, Thanks to Keys Fans</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-perpetual-load-screen-in-minecraft/"><u>How to Fix the Perpetual Load Screen in Minecraft</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/mastering-visual-content-on-ig-stories-insights-into-perfect-post-sizes-and-formats/"><u>Mastering Visual Content on IG Stories: Insights Into Perfect Post Sizes and Formats</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rectifying-the-problem-of-random-website-showing-on-screen-time-for-iphones/"><u>Rectifying the Problem of Random Website Showing on Screen Time for iPhones</u></a></li>
-<li><a href="https://win11.techidaily.com/1719364636660-self-hosted-windows-gptclone-via-gpt4all/"><u>Self-Hosted Windows GPTClone via GPT4All</u></a></li>
-<li><a href="https://fox-access.techidaily.com/turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-complete-evaluation-the-ultimate-test-of-gecata-logging/"><u>[New] Complete Evaluation The Ultimate Test of Gecata Logging</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-visionedit-ace/"><u>[New] VisionEdit Ace</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-film-the-face-of-your-fb-space/"><u>[Updated] Film the Face of Your FB Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-color-richness-the-role-of-look-up-tables-in-adobe-photos-for-2024/"><u>[Updated] Unlocking Color Richness The Role of Look-Up Tables in Adobe Photos for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-11-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 11 Pro Max Waze | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-winterral-backdrop/"><u>Customize WinTerral Backdrop</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-another-users-windows-microsoft-error/"><u>Decoding Another User's Windows Microsoft Error</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726030662968-dvd-dvd/"><u>DVDヘルスケア : 家庭用DVD修復ガイド - 手軽なレシピ</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-evolution-of-security-shifting-from-pin-to-password-on-windows-11/"><u>Exploring the Evolution of Security: Shifting From PIN to Password on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-tackle-windows-activation-failure-code-0x803f700f/"><u>Guide to Tackle Windows Activation Failure: Code 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-record-calls-on-windows/"><u>How to Record Calls on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-network-troubleshooting-a-guide-to-using-tracert-on-windows/"><u>Mastering Network Troubleshooting: A Guide to Using Tracert on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-address-unsuccessful-message-load/"><u>Quick Fixes to Address Unsuccessful Message Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-no-typing-from-keyboard-issue/"><u>Resolved: No Typing From Keyboard Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-your-input-not-recognized-by-vlc/"><u>Resolving Windows: Your Input Not Recognized by VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-active-directory-printer-issues-on-modern-oses/"><u>Troubleshooting Active Directory Printer Issues on Modern OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-with-elevated-cmd/"><u>Unlock Full Potential with Elevated CMD</u></a></li>
 </ul></div>
 

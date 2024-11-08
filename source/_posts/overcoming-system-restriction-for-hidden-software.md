@@ -1,7 +1,7 @@
 ---
 title: Overcoming System Restriction for Hidden Software
-date: 2024-10-25T21:20:17.004Z
-updated: 2024-11-01T22:25:16.026Z
+date: 2024-11-01T23:36:05.388Z
+updated: 2024-11-07T23:56:48.595Z
 tags:
   - windows10
   - windows11
@@ -57,20 +57,28 @@ To open Windows apps using Command Prompt:
 5. On Windows 11, right-click on the .exe file and select**Copy as File Path** .  
 ![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
 6. Next, press the**Win** key and type**cmd** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
 
@@ -101,13 +109,6 @@ Reset the Microsoft Store app:
 
 ![reset-microsoft-teams-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-microsoft-teams-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Resetting an app will delete its data, including sign-in details and preferences.
 
 1. Press**Win + I** to open**Settings** .
@@ -121,13 +122,6 @@ Reset the Microsoft Store app:
 
  You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
@@ -137,10 +131,10 @@ Reset the Microsoft Store app:
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
@@ -159,15 +153,23 @@ To remove the admin block using Registry Editor:
 5. In the right pane, locate**EnableLUA** .  
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
@@ -193,19 +195,22 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-vr-revolutionizes-movie-watching/"><u>[New] In 2024, How VR Revolutionizes Movie-Watching</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-digital-theater-at-your-fingertips-ioss-best-movie-apps/"><u>2024 Approved Digital Theater at Your Fingertips - iOS's Best Movie Apps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1297504-9781609254889-best-tarot-practices/"><u>Best Tarot Practices | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-approach-nullifying-onedrive-presence-on-explore/"><u>Efficient Approach: Nullifying OneDrive Presence on Explore</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-basics-to-details-dji-inspire-2-explained/"><u>From Basics to Details DJI Inspire 2 Explained</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/prevent-and-resolve-c1900101-during-windows-11-os-setup/"><u>Prevent and Resolve C1900101 During Windows 11 OS Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-missing-file-updates-on-windows-error-code-0x80070003/"><u>Quick Fix for Missing File Updates on Windows (Error Code: 0X80070003)</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-onedrive-access-issue-in-windows-os-quickly/"><u>Resolve OneDrive Access Issue in Windows OS Quickly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shape-shifting-skills-a-comprehensive-pic-warping-manual/"><u>Shape-Shifting Skills A Comprehensive Pic Warping Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-windows-camera-loss-of-media/"><u>Strategies to Combat Windows Camera Loss of Media</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-data-handling-visual-analyzer-for-disk-storage-on-windows/"><u>Transform Data Handling: Visual Analyzer for Disk Storage on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/your-way-your-window-customize-windows-11-today/"><u>Your Way, Your Window: Customize Windows 11 Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cutting-edge-zooid-formulation-tools/"><u>[New] 2024 Approved Cutting-Edge Zooid Formulation Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-7-secure-platforms-for-smaller-companies-for-2024/"><u>[New] Elite 7 Secure Platforms for Smaller Companies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-simple-routines-for-capturing-and-saving-vimeo-videos/"><u>[New] In 2024, Simple Routines for Capturing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-process-of-android-video-u-turns/"><u>[Updated] In 2024, The Process of Android Video U-Turns</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-non-windows-tools-for-quick-and-precise-screen-sniping-techniques/"><u>Essential Non-Windows Tools For Quick and Precise Screen Sniping Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-full-potential-of-video-enhancer-22-for-your-work-for-2024/"><u>Harnessing the Full Potential of Video Enhancer 2.2 for Your Work for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-the-non-operational-windows-search-error/"><u>How to Correct the Non-Operational Windows Search Error</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-m6-pro-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco M6 Pro 4G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-t2-pro-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo T2 Pro 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C55 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-windows-11-password-management-top-11-easy-steps-unveiled/"><u>Masterful Windows 11 Password Management: Top 11 Easy Steps Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-settings-for-flawless-valorant/"><u>Optimizing Windows Settings for Flawless Valorant</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-old-pcs-with-windows-11-to-go-and-rufus-tutorial/"><u>Rejuvenate Old PCs with Windows 11, To Go & Rufus Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-function-keys-not-adjusting-display-brighness-on-win-11/"><u>Solutions for Function Keys Not Adjusting Display Brighness on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-a-fresh-windows-update-start/"><u>Unlocking the Potential of a Fresh Windows Update Start</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-googles-nearby-share-app-is-not-working-on-windows/"><u>What to Do if Google’s Nearby Share App Is Not Working on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diving Into the Economics of Windows 11 and Microsoft
-date: 2024-10-29T20:25:10.583Z
-updated: 2024-11-02T02:28:10.023Z
+date: 2024-10-31T20:42:22.566Z
+updated: 2024-11-07T23:33:21.313Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
 
@@ -53,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
  Bloatware apps aren't necessarily harmful to your device, but may not be useful to you. For example, the Candy Crush Saga game, Spotify, Facebook, and many more come pre-installed with Windows 11, and you may not want to use any of them. Luckily, you can [uninstall bloatware apps on Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) and free up some space on your PC.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
@@ -92,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Microsoft Makes Money From Search Advertising Business
@@ -112,32 +119,11 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  Since Bing is well integrated into Windows 11, it is easier for Microsoft to get more people to use their search in some way or the other. The more Bing can increase its user base, the more revenue it will earn by displaying sponsored content on its page. Overall, search remains an important focus area for Microsoft to make money in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Microsoft's Revenue Sources Are Diverse in Windows 11
 
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-excursion-videography-tools-compilation/"><u>[New] Excursion Videography Tools Compilation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-video-marketing-with-youtube-thumbnails/"><u>[Updated] In 2024, Elevating Video Marketing with YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-live-tv-access-a-top-ranked-list-review-for-2024/"><u>[Updated] Mastering Live TV Access A Top-Ranked List Review for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-going-beyond-boundaries-streaming-mastery-on-facebook/"><u>2024 Approved Going Beyond Boundaries Streaming Mastery on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-31-for-your-pcs-internet-connection/"><u>Fixing Error Code 31 for Your PC's Internet Connection</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-crafting-content-for-success-a-step-by-step-channel-guide/"><u>In 2024, Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-tech-legacy-for-windows-11-22h2-compatibility/"><u>Jumpstart Tech Legacy for Windows 11 22H2 Compatibility</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-mindfulness-using-chatgpt-to-establish-regular-meditation-sessions/"><u>Mastering Mindfulness: Using ChatGPT to Establish Regular Meditation Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/sticky-ideas-on-screens-essential-notes-apps-for-windows-users/"><u>Sticky Ideas on Screens: Essential Notes Apps for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-windows-display-duration-manual/"><u>The Complete Windows Display Duration Manual</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -146,3 +132,25 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-and-cool-xbox-snapshots-a-gamers-bible-for-2024/"><u>[Updated] Quick & Cool Xbox Snapshots A Gamers' Bible for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-your-powerpoint-to-video-journey-for-2024/"><u>[Updated] Streamlining Your PowerPoint to Video Journey for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast/"><u>2024 Approved SeamlessSoundCast The Essential Steps for a Smooth Live Podcast Broadcast</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-small-channels-big-opportunities-an-affiliate-approach/"><u>2024 Approved Small Channels, Big Opportunities An Affiliate Approach</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726227530787-mxf-gif-movavi/"><u>網路上無成本地自動轉換 MXF 到 GIF - 利用 Movavi 轉檔工具</u></a></li>
+<li><a href="https://win11.techidaily.com/ending-auto-update-notifications-on-windows/"><u>Ending Auto-Update Notifications on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>In 2024, Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-vllo-experiences/"><u>In 2024, Exploring VLLO Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/make-the-most-of-your-windows-11-warmup-time-heres-how/"><u>Make the Most of Your Windows 11 Warmup Time, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-sleep-options/"><u>Navigating Through Windows' Sleep Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-1110-setup-with-rightful-permissions/"><u>Navigating Windows 11/10 Setup with Rightful Permissions</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-winos-filing-system-strategies-max-156/"><u>Optimal WinOS Filing System Strategies (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-failure-unraveling-error-code-xc000003e-on-windows-11-and-11/"><u>Overcoming Application Failure: Unraveling Error Code Xc000003e on Windows 11 & 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/preserve-your-precious-memories-utilize-stellars-powerful-picture-restoration-software-for-windows/"><u>Preserve Your Precious Memories - Utilize Stellar's Powerful Picture Restoration Software for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-typing-mastery-via-typingaid-apps/"><u>Quick Typing Mastery via TypingAid Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-the-elusive-ubisoft-launcher-connection/"><u>Re-Establishing the Elusive Ubisoft Launcher Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/system-saviors-playbook-taming-troublesome-windows-registry-errors/"><u>System Savior's Playbook: Taming Troublesome Windows Registry Errors</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unpacking Problems with Failed Java Virtual Machine in WINDOWS
-date: 2024-10-26T19:25:13.786Z
-updated: 2024-11-01T20:02:20.658Z
+date: 2024-11-05T18:34:50.531Z
+updated: 2024-11-07T22:24:30.056Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ To check the Java version installed on Windows:
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
@@ -60,10 +53,10 @@ To check the Java version installed on Windows:
 3. Select and click**End Task** to close the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
@@ -78,6 +71,13 @@ To check the Java version installed on Windows:
 
  To remedy this issue, you can increase the Java heap size. You can do this by modifying the**Runtime Parameters** from**Java Runtime Environment Settings** or changing the**\_JAVA\_OPTIONS** variable value to your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Increase Java Heap Size by Manually Modifying Variables
 
 To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
@@ -85,13 +85,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 1. Press the**Win** key and type**environmental variables** .  
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
@@ -117,24 +110,31 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 6. Double-click on the**Runtime Parameters** column and type**\-Xmx512m** to assign 512 MB memory for the Java apps.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
 ![uninstall java Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-java.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the issue persists, a reinstall may be necessary. You can uninstall and reinstall Java to fix any issues with the release. These issues may remain even if you install a newer version. To fix the issue, uninstall Java using the Java uninstaller and then reinstall the latest version available.
@@ -149,16 +149,16 @@ To clean install Java:
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
@@ -181,20 +181,19 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-wintvcapture-learn-the-art-of-free-screen-recording/"><u>[New] In 2024, WinTVCapture Learn the Art of Free Screen Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-periscope-broadcasts-setting-up-for-success/"><u>[New] Periscope Broadcasts Setting Up for Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-spin-the-story-right-youtube-video-angles-demystified-guide/"><u>2024 Approved Spin the Story Right YouTube Video Angles Demystified (Guide)</u></a></li>
-<li><a href="https://win11.techidaily.com/5-early-warnings-to-consider-windows-restart/"><u>5 Early Warnings to Consider Windows Restart</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-restoring-lost-windows-update/"><u>A Beginner's Guide to Restoring Lost Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-old-school-gaming-with-retroarcs-tools/"><u>A Step-by-Step Guide to Old-School Gaming with RetroArc's Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-windows-navigation-methods-without-ls-command/"><u>Advanced Windows Navigation Methods Without LS Command</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-blue-screens-a-guide-to-system-recovery/"><u>Beating Blue Screens: A Guide to System Recovery</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-windows-performance-and-functionality-via-improved-run-toolset/"><u>Boost Windows Performance and Functionality via Improved Run Toolset</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-type-speed-harnessing-windows-powertoys/"><u>Boost Your Type-Speed: Harnessing Windows PowerToys</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-a60-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel A60</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-s18-easily-by-drfone-android/"><u>How To Unlock a Vivo S18 Easily?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-visual-alteration-solutions-pixelpioneers-edge/"><u>In 2024, Innovative Visual Alteration Solutions PixelPioneer's Edge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-league-of-legends-stalling-problems-in-minutes-learn-how/"><u>Solving League of Legends Stalling Problems in Minutes – Learn How!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultimate-guide-retrieving-lost-photographs-on-your-camera-device-in-2-easy-steps/"><u>Ultimate Guide: Retrieving Lost Photographs on Your Camera Device in 2 Easy Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-steps-to-restore-visual-clarity-to-youtube-videos/"><u>[New] 2024 Approved Steps to Restore Visual Clarity to YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-devising-a-personalized-tiktok-alphanumeric-marker/"><u>[New] In 2024, Devising a Personalized TikTok Alphanumeric Marker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>[New] In 2024, Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-perfecting-iphones-audio-captures/"><u>[New] Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-the-mold-unique-and-compelling-title-themes-over-a-hundred-strong-for-snapstories/"><u>[Updated] 2024 Approved Breaking the Mold Unique and Compelling Title Themes over a Hundred Strong for Snapstories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-precisely-how-to-disconnect-from-your-outdated-linkedin-account/"><u>2024 Approved Precisely How To Disconnect From Your Outdated LinkedIn Account</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-connections-utilizing-wsl-in-windows/"><u>Command Line Connections: Utilizing WSL in Windows</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/efficiency-in-action-how-the-turkish-government-enhanced-workflow-management-using-abbyy-technology/"><u>Efficiency in Action: How the Turkish Government Enhanced Workflow Management Using ABBYY Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/from-old-to-new-a-windows-11-reboot-strategy/"><u>From Old to New: A Windows 11 Reboot Strategy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-sound-troubleshooting-a-step-by-step-guide-to-resolving-audio-problems-on-windows-10/"><u>Mastering Sound Troubleshooting: A Step-by-Step Guide to Resolving Audio Problems on Windows 10</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/navigating-tech-with-toms-hardware-your-comprehensive-guide/"><u>Navigating Tech with Tom's Hardware - Your Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-guide-initiating-sticky-note-windows-session/"><u>Quick Access Guide: Initiating Sticky Note Windows Session</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-notification-management/"><u>Streamlining Windows 11 Notification Management</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-fix-grouped-desktop-icon-issues/"><u>Tactics to Fix Grouped Desktop Icon Issues</u></a></li>
 </ul></div>
 

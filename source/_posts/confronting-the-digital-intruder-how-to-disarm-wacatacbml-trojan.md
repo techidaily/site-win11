@@ -1,7 +1,7 @@
 ---
 title: "Confronting the Digital Intruder: How to Disarm Wacatac.B!ml Trojan"
-date: 2024-10-30T23:46:37.429Z
-updated: 2024-11-01T18:42:43.690Z
+date: 2024-10-31T21:55:37.978Z
+updated: 2024-11-07T20:43:05.025Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  Considering that, you should remove it immediately. Even Microsoft Defender warns you of its dangers in its warning message and urges you to act immediately. It raises the question; how did it get on your computer?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Did the Wacatac.B!ml Trojan Get Into Your PC?
 
  To comprehend how the Wacatac Trojan has infiltrated your PC, ask yourself the following questions:
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
  If you answered yes to any of the above questions, you have found how the Wacatac Trojan entered your computer. But can it be a false positive? It is possible, so you should rule out this possibility first.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Ensure the Wacatac.B!ml Trojan Alert Isn't a False Positive
 
  Have you discovered a Trojan infection after running a random security scan? Then, you should ensure that the Wacatac Trojan alert isn't a false positive. For that, follow the below steps:
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  If you are sure that the Wacatac threat isn't a false positive and just want to be sure that your device isn't infected or the scan reveals that the file you've scanned is infected, you should take the following steps:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Delete the Infected File
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  The first step is to delete the infected file that Windows Defender claims is infected. Thus, navigate to the same path mentioned above, right-click on the file, and select**Delete** .
 
 ![Deleting the Infected File after Locating It by Navigating to the Path in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Deleting-the-Infected-File-after-Locating-It-by-Navigating-to-the-Path-in-the-File-Explorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After deleting the file, run a security check on your computer again. If the Trojan continues to appear on your system, move on to the next fix.
 
@@ -110,11 +103,26 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 3. In the right pane, click**Windows Security** .  
 ![Opening Windows Security Settings by Clicking on Privacy & Security Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Opening-Windows-Security-Settings-by-Clicking-on-Privacy--Security-Option-in-Windows-Settings-App.jpg)
 4. Click**Virus & threat protection** .
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click**Protection history** .  
 ![Clicking on Protection History Option Under Virus & Threat Protection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Clicking-on-Protection-History-Option-Under-Virus--Threat-Protection-in-Windows-Settings-App.jpg)
 6. Click on the Wacatac's threat.
 7. Open the**Actions** dropdown and select**Remove** .  
 ![Removing the Wacatac’s Threat by Clicking on Remove Button in the Actions Dropdown in Protection History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Removing-the-Wacatac’s-Threat-by-Clicking-on-Remove-Button-in-the-Actions-Dropdown-in-Protection-History.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the scan again. If it doesn't remove the threat, follow the same steps and choose**Quarantine** from the**Actions** dropdown. This will prevent further virus spread. Next, move on to the next step.
 
@@ -127,16 +135,10 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset Your Operating System
@@ -156,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 3. Enter the URL in the URL scanner.  
 ![Entering the URL of the file to be downloaded in the URL scanner on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/entering-the-url-of-the-file-to-be-downloaded-in-the-url-scanner-on-the-virus-total-website.jpg)
 4. Hit**Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
@@ -187,20 +182,21 @@ thumbnail: https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[New] 2024 Approved Crafting Stories Essential Tips for YouTube Video Editors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-how-to-edit-the-length-of-a-video-on-youtube/"><u>[New] In 2024, How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-become-a-streaming-star-utilizing-obs-capabilities/"><u>[Updated] In 2024, Become a Streaming Star Utilizing OBS Capabilities</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-bidding-on-shadows-the-2023-virtual-vault-showdown/"><u>[Updated] In 2024, Bidding on Shadows The 2023 Virtual Vault Showdown</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-made-simple-top-10-windows-fixers/"><u>Debugging Made Simple: Top 10 Windows Fixers</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-performance-in-the-epic-launcher/"><u>Ensuring Smooth Performance in the Epic Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-perfectly-execute-background-blur-in-windows-11-photos-app/"><u>Expert Tips to Perfectly Execute Background Blur in Windows 11 Photos App</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210755214-9791028521288-guerissez-votre-ame/"><u>Guérissez votre âme | Free Book</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-rapidly-terminate-frozen-programs-with-a-secret-windows-11-feature-insights-from-zdnet/"><u>How to Rapidly Terminate Frozen Programs with a Secret Windows 11 Feature - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-accelerate-artistry-in-windows-11-photoshop/"><u>In 2024, Accelerate Artistry in Windows 11 Photoshop</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remote-file-management-via-smb-protocols/"><u>Remote File Management via SMB Protocols</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-swap-from-s-mode-tips-for-modern-windows-users/"><u>Swiftly Swap From S Mode: Tips for Modern Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-vs-windows-11-all-the-major-changes/"><u>Windows 10 vs Windows 11: All the Major Changes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unraveling-the-mystery-choosing-music-for-movie-trailers/"><u>[New] Unraveling the Mystery Choosing Music for Movie Trailers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-driveease-expert-analysis/"><u>[Updated] DriveEase Expert Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-sonys-new-frontiers-in-gaming-for-2n4-unveilings-and-industry-news/"><u>Exploring Sony's New Frontiers in Gaming for 2N4: Unveilings & Industry News</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/fixing-mplayerx-issues-essential-guidelines-for-macos-el-capitan-users/"><u>Fixing MPlayerX Issues: Essential Guidelines for MacOS El Capitan Users</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-unexpected-store-error-message-in-windows-11-easily/"><u>How to Resolve the Unexpected Store Error Message in Windows 11 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reverse-invalid-device-designation-in-windows-11/"><u>How to Reverse Invalid Device Designation in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-selection-8-must-have-image-packs-for-laptops-for-2024/"><u>Ideal Selection 8 Must-Have Image Packs for Laptops for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-prompt-crafting-careers-what-prospects-lie-ahead/"><u>Navigating AI Prompt Crafting Careers - What Prospects Lie Ahead?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-error-due-to-non-existent-mfc71udll/"><u>Resolving Win Error Due to Non-Existent Mfc71u.dll</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-after-print-management-failure-on-windows/"><u>Restoring Functionality After Print Management Failure on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-system-operation-wins-top-diagnostic-apps/"><u>Seamless System Operation: Win's Top Diagnostic Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/skip-power-saving-customize-usb-suspend-settings/"><u>Skip Power Saving: Customize USB Suspend Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-internal-error-rdp-issue/"><u>Troubleshooting Windows 11'S Internal Error RDP Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-to-full-os-install-windows-steam-deck/"><u>Upgrading to Full OS: Install Windows Steam Deck</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/which-gopro-model-shines-brighter-max-vs-hero-11/"><u>Which GoPro Model Shines Brighter, Max Vs. Hero 11?</u></a></li>
 </ul></div>
 

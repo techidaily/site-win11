@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide on How To Fix Error Code: 0X80071A90"
-date: 2024-10-29T22:06:51.819Z
-updated: 2024-11-01T16:56:30.811Z
+date: 2024-11-02T23:09:31.806Z
+updated: 2024-11-07T17:16:57.210Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -47,26 +54,13 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Perform the Action in Safe Mode
@@ -94,33 +88,20 @@ Follow these steps to proceed:
 `winmgmt /salvagerepositorywinmgmt /verifyrepositorywinmgmt /resetrepository`
 5. Wait for the commands to execute and then exit Command Prompt. You can now check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Try Some Generic Windows-Based Fixes for Errors
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
@@ -129,6 +110,13 @@ Follow these steps to proceed:
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
@@ -157,17 +145,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-ensuring-long-term-accessibility-transferring-photos-from-snapchat/"><u>[New] 2024 Approved Ensuring Long-Term Accessibility Transferring Photos From Snapchat</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-proficiency-uncovering-the-best-5-online-title-creators/"><u>[New] Exploring Proficiency Uncovering the Best 5 Online Title Creators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>2024 Approved Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/5-precise-steps-to-rectify-your-screen-res-in-windows/"><u>5 Precise Steps to Rectify Your Screen Res in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreenhensive-guide-to-windows-graphics-reset-techniques/"><u>A Compreenhensive Guide to Windows Graphics Reset Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreran-guide-resolving-source-disk-errors-in-microsoft-oses/"><u>A Compreran Guide: Resolving Source Disk Errors in Microsoft OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-error-sevenzeronine-in-windows/"><u>Addressing Error SevenZeroNine in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-inoperative-windows-programs-a-fixers-manual/"><u>Addressing Inoperative Windows Programs: A Fixer’s Manual</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-the-acoustics-a-comprehensive-review-of-creativs-sound-blaster-zxr-the-2nd-flagship-model/"><u>Inside the Acoustics: A Comprehensive Review of Creativ's Sound Blaster ZXR - The 2nD Flagship Model</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplifying-gif-design-for-beginners/"><u>Simplifying GIF Design for Beginners</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-must-haves-essential-items-for-kickstarting-success/"><u>The Entrepreneur's Must-Haves Essential Items for Kickstarting Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-time-machine-capturing-the-essence-of-twitters-videos/"><u>[New] 2024 Approved Tweet Time Machine Capturing the Essence of Twitter's Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-right-path-to-precise-speech-to-text-with-google-app-for-2024/"><u>[New] The Right Path to Precise Speech-to-Text with Google App for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-perfecting-the-green-screen-essential-techniques/"><u>[Updated] 2024 Approved Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>2024 Approved Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-the-limited-time-offer-apple-watch-se-drops-to-just-60-off-for-memorial-day-ranking-as-top-gadget-purchase-of-the-year-insights/"><u>Catch the Limited-Time Offer: Apple Watch SE Drops to Just $60 Off for Memorial Day, Ranking as Top Gadget Purchase of the Year | Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-the-ping-command-in-windows/"><u>How (and When) to Use the Ping Command in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterpieces-unleashed-a-comprehensive-look-at-the-bestiary-of-8-iphone-drawing-apps/"><u>Masterpieces Unleashed A Comprehensive Look at the Bestiary of 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overwatch-bug-resolved-graphics-driver-issues-no-longer-a-problem/"><u>Overwatch Bug Resolved: Graphics Driver Issues No Longer a Problem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ppt-visualization-leveraging-webcam-tech/"><u>PPT Visualization Leveraging Webcam Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/realignment-of-data-win11-hdd-optimization-techniques/"><u>Realignment of Data: Win11 HDD Optimization Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964523605-realtek-asio-driver-update-for-windows-10-quick-easy-download-steps/"><u>RealTek Asio Driver Update for Windows 10 – Quick, Easy Download Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-and-solving-winerror-0x80071a90-in-windows/"><u>Simplifying & Solving WinError: 0X80071a90 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
 </ul></div>
 

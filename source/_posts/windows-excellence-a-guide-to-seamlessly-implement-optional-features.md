@@ -1,7 +1,7 @@
 ---
 title: "Windows Excellence: A Guide to Seamlessly Implement Optional Features"
-date: 2024-10-30T17:17:55.696Z
-updated: 2024-11-02T01:15:05.277Z
+date: 2024-11-04T21:23:49.761Z
+updated: 2024-11-07T18:12:22.985Z
 tags:
   - windows10
   - windows11
@@ -86,10 +86,10 @@ net start msiserver`
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -103,22 +103,8 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
@@ -141,10 +127,16 @@ Here's how you can update Windows to the latest version:
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
@@ -159,16 +151,16 @@ Here's how you can update Windows to the latest version:
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
  Once the service restarts, try installing the optional feature again, and it should work now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
 
@@ -182,10 +174,37 @@ Here's how you can update Windows to the latest version:
 Get-WindowsOptionalFeature -Online  
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -212,22 +231,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-clipcomposers-journey-thorough-review-of-androvid-for-2024/"><u>[New] ClipComposer's Journey – Thorough Review of AndroVid for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1-effortless-methods-for-removing-text-from-your-pdf-documents-updated-guide-2020/"><u>1. Effortless Methods for Removing Text From Your PDF Documents (Updated Guide, 2020)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts/"><u>2024 Approved Transforming Virtual Worlds Enhancing Spark AR with Custom LUTs</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-microsoft-family-safety-tools/"><u>A Deep Dive Into Microsoft Family Safety Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-downloads-utorrents-secrets-to-speedier-win-os-files/"><u>Accelerating Downloads: UTorrent's Secrets to Speedier WIN OS Files</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-keystrokes-mastery-via-typingaid/"><u>Accelerating Keystrokes: Mastery via TypingAid</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-nvidia-software-connection-failure-in-os-x/"><u>Addressing NVIDIA Software Connection Failure in OS X</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-desktop-date-and-time-a-win-1011-guide/"><u>Adjusting Desktop Date & Time: A Win 10/11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/battle-the-bake-off-effective-tactics-to-reduce-gaming-laptops-temperature/"><u>Battle the Bake-Off: Effective Tactics to Reduce Gaming Laptop’s Temperature</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-exepe-file-formats/"><u>Breaking Down Windows EXE/PE File Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/1719362389609-determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-instructions-how-to-enable-wtv-file-support-for-windows-and-mac-computers/"><u>Easy Instructions: How to Enable WTV File Support for Windows and Mac Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-the-compact-and-mighty-jaco-smartpro-digital-tire-pump/"><u>Expert Review: The Compact and Mighty Jaco SmartPro Digital Tire Pump</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grasping-video-aspect-ratios-a-beginners-tale/"><u>In 2024, Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
-<li><a href="https://solve-info.techidaily.com/launching-intelligent-transit-solutions-insights-from-the-abbyy-blog/"><u>Launching Intelligent Transit Solutions: Insights From the ABBYY Blog</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-soloists-path-to-trending-podcasts/"><u>The Soloist's Path to Trending Podcasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y78t-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y78t</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-from-camera-roll-to-twitter-feed-video-posting-guide-for-2024/"><u>[New] From Camera Roll to Twitter Feed Video Posting Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x/"><u>[Updated] 2024 Approved Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-inspirational-article-leaderboard-maker/"><u>[Updated] Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphones-playlist-paradise-podcast-edition/"><u>[Updated] Mastering iPhone's Playlist Paradise Podcast Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>2024 Approved A Deeper Dive Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/decisive-action-plan-for-banishing-flashing-screens-on-windows/"><u>Decisive Action Plan for Banishing Flashing Screens on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-down-dysfunction-restore-your-pcs-essential-esc-keys/"><u>Dial Down Dysfunction: Restore Your PC's Essential Esc Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-brilliance-of-claude-next-gen-ai-for-your-enterprise/"><u>Discover the Brilliance of Claude: Next-Gen AI for Your Enterprise</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-always-on-top-notations-on-windows/"><u>Ensuring Always On-Top Notations on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-based-valorant-audio-glitches/"><u>Fixing Windows-Based Valorant Audio Glitches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-7-video-players-for-apple-devices-for-2024/"><u>Ideal 7 Video Players for Apple Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-indispentic-vr-cinema-must-sees/"><u>In 2024, Indispentic VR Cinema Must-Sees</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-disabled-cpu-cooling-mechanism-in-os/"><u>Reactivating Disabled CPU Cooling Mechanism in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-type-win-navigating-text-creation-using-windows-whisper/"><u>Speak, Type, Win: Navigating Text Creation Using Windows Whisper</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-best-on-wheels-adventures-in-digital-forms-for-2024/"><u>The Best On-Wheels Adventures in Digital Forms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-trim-windows-overscan-for-flawless-screen-match/"><u>Tips to Trim Windows Overscan for Flawless Screen Match</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-ark-system-crashes-effectively/"><u>Troubleshooting and Solving ARK System Crashes Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-inside-the-settings-experience/"><u>Windows 11: Inside the Settings Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-subsystem-phaseout-strategizing-for-future-android-support/"><u>Windows Subsystem Phaseout: Strategizing for Future Android Support</u></a></li>
 </ul></div>
 

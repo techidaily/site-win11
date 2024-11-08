@@ -1,7 +1,7 @@
 ---
 title: Mastering the Command Line in Quake on PC
-date: 2024-10-26T21:36:58.899Z
-updated: 2024-11-01T16:52:58.310Z
+date: 2024-11-03T22:05:59.513Z
+updated: 2024-11-07T19:40:14.667Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ Here's how to enable and use Quake mode in Windows Terminal.
 
  If you don't know what Quake is, why not check out some[classic PC FPS games?](https://www.makeuseof.com/tag/play-classic-shooters-on-modern-computer/) Great fun, even if you have a modern PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Open Windows Terminal in Quake Mode
 
 There are two ways to open the Windows Terminal in Quake mode.
@@ -55,6 +48,13 @@ There are two ways to open the Windows Terminal in Quake mode.
  You can also open the Windows Terminal app in the normal way. You can find it in the main Start Menu apps list if you are new to the app. With the app open in standard mode, press**Win + \`** (the grave accent button below Esc on the keyboard).
 
 ![The windows terminal in quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-terminal-quake.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want the command-line tool to be run as an administrator, you will need to use the second method. Learn how to open[Windows PowerShell or Command Prompt as an administrator](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
@@ -67,6 +67,13 @@ There are two ways to open the Windows Terminal in Quake mode.
 To reveal the window again, press the same keyboard shortcut.
 
  The Quake mode terminal window stretches the entire width of the screen. By default, it will fill about half the height of the screen. Unfortunately, you can't change the width, but you can click and drag the bottom edge of the panel to make it less intrusive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Closing the Quake Mode Terminal Window
 
@@ -81,16 +88,10 @@ To reveal the window again, press the same keyboard shortcut.
  If the[Windows Taskbar is not working](https://www.makeuseof.com/tag/5-steps-fix-windows-10-taskbar-issues/) for some reason, these options won't be available. Instead, you can close the Quake mode terminal window by typing**EXIT** in the terminal and pressing**Return** .
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Windows Terminal in Quake Mode at Logon
@@ -105,28 +106,15 @@ To reveal the window again, press the same keyboard shortcut.
 ![shortcut to automatically open quake mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quake-mode-shortcut.jpg)
 5. Give the shortcut a name you will recognize, such as**Terminal Quake** . Then click**Finish** .
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The next time you log on to Windows, the terminal will open automatically in Quake Mode. You can then use it, or press the**Windows + \`** shortcut to minimize it.
 
  If you have[disabled app execution aliases](https://www.makeuseof.com/app-execution-aliases-guide/) , you will have to type or browse to the full path for the Windows Terminal. So instead of typing**wt.exe -w \_quake** , enter **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\WindowssApps\\wt.exe -w \_quake** .
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using the Windows Terminal's Quake Mode
@@ -148,15 +136,21 @@ To reveal the window again, press the same keyboard shortcut.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-screen-readers-digest-recorder-evaluation/"><u>[New] In 2024, The Screen Reader's Digest Recorder Evaluation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[Updated] 2024 Approved Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/breakthrough-strategies-expert-methods-for-decoding-qr-codes-on-pcs/"><u>Breakthrough Strategies: Expert Methods for Decoding QR Codes on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-onedrive-to-windows-microsoft-services/"><u>Bridging OneDrive to Windows Microsoft Services</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-obstacles-fixing-microsoft-office-activation-issues/"><u>Bypassing Obstacles: Fixing Microsoft Office Activation Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-camera-app-glitches-on-windows-11s-f429f-issue/"><u>Clearing Up Camera App Glitches on Windows 11'S F429F Issue</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-toms-hardware-informed-reviews-for-savvy-gadget-enthusiasts/"><u>Navigating Tom's Hardware: Informed Reviews for Savvy Gadget Enthusiasts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-top-5-best-mp4-video-editors-totally-free-for-2024/"><u>New Top 5 Best MP4 Video Editors Totally Free for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rectifying-discrepancies-unexplained-websites-showing-up-in-iphones-screen-time-logs/"><u>Rectifying Discrepancies: Unexplained Websites Showing Up in iPhone's Screen Time Logs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ideal-websites-for-accessing-free-licensed-audio-files-for-2024/"><u>[Updated] Ideal Websites for Accessing Free, Licensed Audio Files for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-phantom-hardware-listings-on-windows-system/"><u>Correcting Phantom Hardware Listings on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-down-windows-intense-contrast-level/"><u>Dial Down Windows' Intense Contrast Level</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-taskbar-functionality-on-windows-11/"><u>Elevate Taskbar Functionality on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-business-practices-using-chatgpt-8-insider-secrets-revealed/"><u>Elevate Your Business Practices Using ChatGPT – 8 Insider Secrets Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-discord-javascript-crisis-a-step-by-step-approach/"><u>Fixing Windows 11'S Discord JavaScript Crisis: A Step-by-Step Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-top-11-mobile-games-to-play-in-a-lifetime/"><u>Game On: Top 11 Mobile Games to Play in a Lifetime</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-11-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 11 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-speed-with-wheel-motion/"><u>Maximizing Speed with Wheel Motion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-common-iphone-12-glitches-a-complete-guide/"><u>Resolving Common iPhone 12 Glitches: A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-purge-image-borders/"><u>Simplified Techniques to Purge Image Borders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-money-making-on-youtube-shorts/"><u>Smart Money-Making on Youtube Shorts</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-disk-read-error-in-windows/"><u>Strategies to Fix Disk Read Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-xps-xffffffff-printer-failure/"><u>Swift Solutions for XP's XFFFFFFFF Printer Failure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010283278-why-do-incredible-heroes-crash-my-pc-fix-that-now/"><u>Why Do Incredible Heroes Crash My PC? Fix That Now!</u></a></li>
 </ul></div>
 

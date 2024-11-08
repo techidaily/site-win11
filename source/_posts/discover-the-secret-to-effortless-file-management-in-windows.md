@@ -1,7 +1,7 @@
 ---
 title: Discover the Secret to Effortless File Management in Windows
-date: 2024-10-31T02:21:22.478Z
-updated: 2024-11-01T19:56:21.906Z
+date: 2024-11-04T19:34:58.932Z
+updated: 2024-11-07T17:20:18.828Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 ![Multiple Folders Being Renamed Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rename-multiple-folders-together.jpg)
 3. When all the folders are named, click on **enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way, you can name several folders together—quickly and easily.
 
 ## 3\. Duplicate a Folder Window
@@ -71,19 +78,19 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
 
 1. Left-click with your mouse on the desktop, in File Explorer, or within a folder.
 2. Press and hold the **ctrl** key. Then use your **mouse scroll wheel** to change the size of folders on the desktop or subfolders within a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Find Hidden Folders You Forgot About
 
@@ -98,56 +105,35 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 4. In **Folder Options**, select the **View** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use and Enjoy These Folder Tips and Tricks
 
  You'll find the folder tips and tricks explained above simple and easy—you'll enjoy using them. Try them to save time, work smarter, and elevate your Windows experience.
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-sierras-icloud-drive-accessibility/"><u>[New] Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premium-monitors-the-best-5-selection-for-ps5-gaming-for-2024/"><u>[New] Premium Monitors The Best 5 Selection for PS5 Gaming for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-discover-the-best-no-cost-fb-visual-creation-platforms/"><u>[Updated] 2023 Discover the Best, No-Cost FB Visual Creation Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-bold-and-beautiful-implementing-borders-on-instagram-shots-for-2024/"><u>[Updated] Bold & Beautiful Implementing Borders on Instagram Shots for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-getting-into-film-editing-made-easy/"><u>[Updated] In 2024, Getting Into Film Editing Made Easy</u></a></li>
-<li><a href="https://win11.techidaily.com/connecting-worlds-android-pc-joint-venture-explained/"><u>Connecting Worlds: Android-PC Joint Venture Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-freeze-and-crash-in-windows-epic-launcher/"><u>Eliminating Freeze and Crash in Windows Epic Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solutions-bringing-your-google-drive-back-online/"><u>Immediate Solutions: Bringing Your Google Drive Back Online</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-lost-windows-nine-essential-tricks-for-reviving-apps-in-windows-11/"><u>Reclaim Your Lost Windows: Nine Essential Tricks for Reviving Apps in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-address-serious-sam-4-performance-issues-crashing-and-stuttering-on-windows/"><u>Troubleshooting Steps to Address Serious Sam ^4 Performance Issues: Crashing and Stuttering on Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,3 +142,23 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-zoom-organization-101-the-ultimate-setup-guide/"><u>[New] In 2024, Zoom Organization 101 The Ultimate Setup Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/countdown-magic-in-fcpx-a-3-step-tutorial-for-beginners/"><u>Countdown Magic in FCPX A 3-Step Tutorial for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-display-visibility-quick-fix-guide/"><u>Enhance Windows 11 Display Visibility: Quick Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-keeping-df-game-from-locking-up-windows/"><u>Essential Tips for Keeping DF Game From Locking Up Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-dell-bluetooth-keyboard-issues-a-step-by-step-guide/"><u>Fixing Your Dell Bluetooth Keyboard Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-13-ultra-by-drfone-android/"><u>How to Bypass FRP on Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-the-error-xc0f1103f-from-your-win11-and-geforce/"><u>How to Eradicate the Error Xc0f1103f From Your Win11 & GeForce</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-another-user-on-this-device-uses-this-microsoft-account-error-on-windows/"><u>How to Fix the Another User on This Device Uses This Microsoft Account Error on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accessing-premium-clip-art-at-no-expense/"><u>In 2024, Accessing Premium Clip-Art at No Expense</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-the-garmin-forerunner/"><u>In-Depth Look at the Garmin Forerunner</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-monitor-angle-using-windows-tools/"><u>Modify Monitor Angle Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/tracking-credential-success-in-windows-computers-securely/"><u>Tracking Credential Success in Windows Computers Securely</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-the-amplifi-hd-wireless-router-system-eliminate-your-homes-dead-zones-for-good/"><u>Unveiling the Potential of the Amplifi HD Wireless Router System: Eliminate Your Home's Dead Zones for Good</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-identity-compromised-trust-in-your-biometrics-questioned/"><u>Windows Identity Compromised: Trust in Your Biometrics Questioned</u></a></li>
+</ul></div>
+

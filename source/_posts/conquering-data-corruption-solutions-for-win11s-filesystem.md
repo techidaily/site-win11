@@ -1,7 +1,7 @@
 ---
 title: "Conquering Data Corruption: Solutions for Win11's Filesystem"
-date: 2024-10-26T23:19:18.341Z
-updated: 2024-11-01T16:46:38.777Z
+date: 2024-11-04T16:30:02.666Z
+updated: 2024-11-08T00:11:15.880Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -44,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 4. You’ll need to press**Y** to schedule the scan for a restart.  
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
@@ -67,17 +67,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
@@ -90,31 +83,17 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Any Affected App
@@ -124,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  You can remove UWP apps with some of the methods in our guide for uninstalling software in Windows 11\. You can uninstall most apps with the Apps & Features tool in Settings. However, you might need to use the PowerShell method in our guide to remove some pre-installed Windows 11 apps.
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
@@ -135,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
@@ -142,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  To apply this potential solution, read through our guide to[utilizing System Restore and creating restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . Select a restoration date that will take your PC back to a time when there wasn’t a system file error on it. The oldest restore point available is the most likely one to do that.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
@@ -170,22 +170,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success/"><u>[New] In 2024, Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-racing-game-anthology-the-top-five-for-2024/"><u>[New] Ultimate Racing Game Anthology The Top Five for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-the-leading-free-naming-resources-11-must-have-makers/"><u>[Updated] In 2024, Discover the Leading Free Naming Resources - 11 Must-Have Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/15-key-improvements-added-to-windows-11s-next-version/"><u>15 Key Improvements Added to Windows 11'S Next Version</u></a></li>
-<li><a href="https://win11.techidaily.com/5-essential-time-saving-pc-apps-for-dynamic-desktop-screensavers/"><u>5 Essential Time-Saving PC Apps for Dynamic Desktop Screensavers</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-walkthrough-of-ms-error-lookup-in-w11/"><u>A Comprehensive Walkthrough of MS Error Lookup in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-ai-assistant-via-vivetool/"><u>Activating Windows AI Assistant via ViveTool</u></a></li>
-<li><a href="https://win11.techidaily.com/android-ios-direct-pc-file-access/"><u>Android-iOS: Direct PC File Access</u></a></li>
-<li><a href="https://win11.techidaily.com/away-from-clouds-data-at-your-fingertips-onedrive-tutorial/"><u>Away From Clouds, Data at Your Fingertips - OneDrive Tutorial</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-practices-for-livestreaming-and-archiving-sports-events/"><u>Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-performance-using-ntfs-file-compression-wisely/"><u>Boost Performance: Using NTFS File Compression Wisely</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-efficiency-with-dev-drive-on-the-latest-windows-11-release/"><u>Boosting Efficiency with Dev Drive on the Latest Windows 11 Release</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-million-sub-milestone-the-youtube-guide/"><u>In 2024, Achieving Million-Sub Milestone The YouTube Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-2-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze 2 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>New In 2024, Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/simple-steps-syncing-audio-tracks-with-your-ipod-nano-no-itunes-required/"><u>Simple Steps: Syncing Audio Tracks with Your iPod Nano - No iTunes Required</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformacion-gratuita-e-inalambrica-convierte-sus-mp3s-a-flac-sin-costo-usando-la-herramienta-online-facil-de-usar-de-movavi/"><u>Transformación Gratuita E Inalámbrica: Convierte Sus MP3s a FLAC Sin Costo Usando La Herramienta Online Fácil De Usar De Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-melodic-freedom-fbs-music-library/"><u>[New] In 2024, Melodic Freedom FB's Music Library</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-portable-gear-for-travel-cinematography/"><u>[New] In 2024, Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-11-pro-max-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 11 Pro Max Activity | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Pro Max Properly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-upgrade-your-media-skills-windows-xp-edition/"><u>In 2024, Upgrade Your Media Skills Windows XP Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>New Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-sound-channels-for-xbox-microphone-in-windows-11/"><u>Reestablishing Sound Channels for Xbox Microphone in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-simple-steps-to-stop-your-flickering-mouse-pointer/"><u>The Simple Steps to Stop Your Flickering Mouse Pointer</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-potential-mastery-of-taskbar-attachments-w11/"><u>Unlock Potential: Mastery of Taskbar Attachments (W11)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
 </ul></div>
 

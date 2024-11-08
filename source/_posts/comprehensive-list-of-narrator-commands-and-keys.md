@@ -1,7 +1,7 @@
 ---
 title: Comprehensive List of Narrator Commands and Keys
-date: 2024-10-31T03:19:47.059Z
-updated: 2024-11-01T21:25:59.166Z
+date: 2024-11-01T21:15:42.475Z
+updated: 2024-11-07T23:54:28.929Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -171,10 +171,10 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -196,14 +196,22 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>[New] HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-amplify-your-fb-video-content-a-complete-music-integration-tutorial/"><u>[New] In 2024, Amplify Your FB Video Content A Complete Music Integration Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-by-step-borders-enhancing-images-with-style-on-social-platforms/"><u>[New] In 2024, Step By Step Borders Enhancing Images with Style on Social Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerated-silencing-of-windows-11-pings/"><u>Accelerated Silencing of Windows 11 Pings</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-wsl-2s-error-4294967295-on-a-win-os/"><u>Addressing WSL 2'S ERROR 4294967295 on a Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-quick-access-for-file-explorer-through-onedrive/"><u>Adjusting Quick Access for File Explorer Through OneDrive</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-the-looks-like-youre-stranded-error-from-xbox/"><u>Banishing the ‘Looks Like You’re Stranded’ Error From Xbox</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-top-10-mac-video-tag-editors-for-effortless-organization-for-2024/"><u>New Top 10 Mac Video Tag Editors for Effortless Organization for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y17s-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y17s and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-infinite-views-looping-videos-on-your-iphone-for-2024/"><u>[Updated] Infinite Views Looping Videos on Your iPhone for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamer-struggle-navigating-the-waters-between-obs-and-twitch/"><u>2024 Approved Streamer Struggle Navigating the Waters Between OBS & Twitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-finest-featherweight-computers-ranked-by-specialists-in-depth-analysis/"><u>2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/amelioration-innovante-de-films-et-images-par-winxvideo-ai-montage-conversion-et-realisations-professionnelles/"><u>Amélioration Innovante De Films Et Images Par Winxvideo AI - Montage, Conversion Et Réalisations Professionnelles</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-audio-integrating-dolby-atmos-in-windows/"><u>Enhance Your Audio: Integrating Dolby Atmos in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-collection-to-showstopper-editing-techniques-for-hauls/"><u>From Collection to Showstopper Editing Techniques for Hauls</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-download-issues-with-windows-1011-files/"><u>Handling Download Issues with Windows 10/11 Files</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-12-pro-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 12 Pro to Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-how-to-innovate-your-podcast-previews-and-trailers/"><u>In 2024, How to Innovate Your Podcast Previews and Trailers</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-into-the-new-era-evolution-of-file-explorer-on-windows-11/"><u>Journey Into the New Era: Evolution of File Explorer on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premiere-gear-optimal-panoramic-recorders-for-2024/"><u>Premiere Gear Optimal Panoramic Recorders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-your-win11-experience-three-tricks-up-your-sleeve/"><u>Reboot Your Win11 Experience: Three Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-vitality-to-slow-moving-windows-batches/"><u>Restoring Vitality to Slow-Moving Windows Batches</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-apps-to-help-you-write-better-on-a-windows-pc/"><u>The 5 Best Apps to Help You Write Better on a Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-for-missing-comctl32dll-on-your-pc/"><u>Troubleshooting Guide for 'Missing Comctl32.dll' On Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-time-tangle-solved-unify-system-dates/"><u>Windows Time Tangle Solved: Unify System Dates</u></a></li>
 </ul></div>
 

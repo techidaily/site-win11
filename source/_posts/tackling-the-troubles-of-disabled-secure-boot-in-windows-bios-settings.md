@@ -1,7 +1,7 @@
 ---
 title: Tackling the Troubles of Disabled Secure Boot in Windows BIOS Settings
-date: 2024-10-29T17:15:08.475Z
-updated: 2024-11-01T22:36:25.413Z
+date: 2024-11-01T21:02:46.844Z
+updated: 2024-11-07T22:59:29.737Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ To set an administrator password in BIOS:
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Disable Fast Boot in BIOS
 
  Fast Boot is a UEFI/BIOS feature. When enabled, it skips the check for a USB device, such as a bootable drive to speed up the boot process. However, the same can also prevent you from enabling secure boot in BIOS.
@@ -79,14 +86,14 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update BIOS
 
@@ -95,6 +102,13 @@ To restore BIOS Security settings to factory defaults:
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prepare Your Computer for a BIOS Update
 
@@ -106,29 +120,22 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Load the BIOS Defaults Settings
 
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -139,19 +146,6 @@ To load BIOS defaults settings:
 3. Select**Yes** and press**Enter** . This will load setup default values for all SETUP items.
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
@@ -172,16 +166,18 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-best-5-digital-recorder-selects/"><u>[New] Best 5 Digital Recorder Selects</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-highly-effective-ways-to-stream-and-record-sports-games/"><u>[New] Highly Effective Ways to Stream and Record Sports Games</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-green-integrate-subscriptions-in-ads/"><u>[Updated] In 2024, Go Green Integrate Subscriptions in Ads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-joy-of-melodic-brain-teasers-a-fresh-take-on-daily-song-quizzes/"><u>Discover the Joy of Melodic Brain Teasers - A Fresh Take on Daily Song Quizzes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-troubleshooting-learn-how-to-reboot-and-fix-issues-with-your-samsung-flat-screen-tv/"><u>DIY Troubleshooting: Learn How to Reboot and Fix Issues with Your Samsung Flat Screen TV</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-commands-locating-and-correcting-windows-errors-via-the-command-line/"><u>Expert Commands: Locating & Correcting Windows Errors via the Command Line</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-swiftly-retrieve-icon-positions/"><u>How to Swiftly Retrieve Icon Positions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-standout-80s-visual-tricks-to-enhance-films/"><u>In 2024, Standout 80S Visual Tricks to Enhance Films</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-pdf-transformations-for-2024/"><u>Pinnacle PDF Transformations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-affordable-solutions-for-maximizing-windows-storage-space/"><u>The Top 7 Affordable Solutions for Maximizing Windows Storage Space</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-local-file-transmission-google-versus-windows-strategies/"><u>Understanding Local File Transmission: Google Versus Windows Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>[New] In 2024, Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://win-superb.techidaily.com/actionable-techniques-for-efficiently-saving-your-skype-chats-as-videos-a-comprehensive-how-to-tutorial/"><u>Actionable Techniques for Efficiently Saving Your Skype Chats as Videos – A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://win-trending.techidaily.com/chill-out-zone-movie-downloads-available-in-multiple-video-codecs-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac-systems/"><u>Chill Out Zone Movie Downloads Available in Multiple Video Codecs - MP4, WMV, MOV, FLV, AVI Compatible with PC and Mac Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stardew-valley-launch-error-fixed-now-ready-to-play/"><u>Stardew Valley Launch Error Fixed - Now Ready To Play!</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-spreadsheet-with-ease-unlocking-the-power-of-exceler-sort-functionality/"><u>Streamlining Your Spreadsheet with Ease: Unlocking the Power of Excel'er Sort Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/the-definitive-walkthrough-on-systematically-assessing-formulas-in-ms-excel/"><u>The Definitive Walkthrough on Systematically Assessing Formulas in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/top-no-cost-substitutes-for-microsoft-excel/"><u>Top No-Cost Substitutes for Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-and-importing-pdf-files-into-excel-spreadsheets/"><u>Ultimate Guide: Converting and Importing PDF Files Into Excel Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-eliminating-unwanted-spaces-from-your-data-in-microsoft-excel/"><u>Ultimate Guide: Eliminating Unwanted Spaces From Your Data in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-toggling-scroll-lock-feature-onoff-within-ms-excel/"><u>Ultimate Guide: Toggling Scroll Lock Feature On/Off Within MS Excel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725284646833-winxdvd-dvd/"><u>WinXDVD官方網站 - 高效DVD編解碼工具、影片轉檔軟體及移動設備支援</u></a></li>
 </ul></div>
 

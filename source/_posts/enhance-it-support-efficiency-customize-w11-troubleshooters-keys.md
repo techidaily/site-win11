@@ -1,7 +1,7 @@
 ---
 title: "Enhance IT Support Efficiency: Customize W11 Troubleshooters Keys"
-date: 2024-10-31T03:39:26.699Z
-updated: 2024-11-02T04:39:52.279Z
+date: 2024-11-03T22:34:25.585Z
+updated: 2024-11-07T20:55:24.331Z
 tags:
   - windows10
   - windows11
@@ -46,26 +46,27 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
  The Troubleshooting shortcut will have the same folder library icon as Explorer’s taskbar button. If you would prefer something else, you can change the icon via the shortcut’s properties window. Check out our guide about[how to customize icons on Windows](https://www.makeuseof.com/tag/customize-icon-windows/) for details.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Taskbar and Start Menu Troubleshooting Shortcuts
 
  You can easily convert the Troubleshooting Applet desktop shortcut into a taskbar or Start menu one. To do so in Windows 11, click the Troubleshooting Applet shortcut with the right mouse button and select**Show more options** . Select**Pin to taskbar** on the classic menu to stick the same shortcut on the taskbar. Or click**Pin to Start** to have one for opening the Troubleshooting applet from the pinned area of the Start menu.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-to-taskbar-option.jpg)
 
- Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
-
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
 
 ## How to Set Up a Troubleshooting Hotkey
 
@@ -77,16 +78,17 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 4. Press**T** (for troubleshooting) to establish a**Ctrl** +**Alt** +**T** key combination.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
 5. Select**Apply** to save your new troubleshooting hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OK** or**X** to close the Shortcut tab and window.
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
 
@@ -112,16 +114,16 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
 
@@ -146,13 +148,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
  The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Make Some Shortcuts for Accessing Troubleshooters in Windows
 
  So, now you can create Windows shortcuts for opening the Troubleshooting applet and more specific troubleshooters in various ways. You can create a general Troubleshooting Control Panel desktop, taskbar, keyboard, or context menu shortcut for accessing all troubleshooting tools. Or set up shortcuts that give you more direct access to the specific troubleshooting tools you utilize more regularly.
@@ -172,19 +167,21 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-12-best-vlogging-cameras-with-a-flip-screen/"><u>[Updated] 2024 Approved 12 Best Vlogging Cameras with a Flip Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>2024 Approved Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/access-banishment-4-streamlined-steps-for-stripping-win11-of-users/"><u>Access Banishment: 4 Streamlined Steps for Stripping Win11 of Users</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-unsuccessful-java-vm-startup/"><u>Addressing the Unsuccessful Java VM Startup</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/aomei-fonebackup-ios-whatsapp/"><u>AOMEI FoneBackup如何在 iOS设备中轻松传输 WhatsApp信息</u></a></li>
-<li><a href="https://win11.techidaily.com/automatic-empty-recycle-bin-in-windows-step-by-step/"><u>Automatic Empty Recycle Bin in Windows Step by Step</u></a></li>
-<li><a href="https://win11.techidaily.com/bargain-bonanza-black-friday-612-for-lifelong-win10-life/"><u>Bargain Bonanza: Black Friday - $6.12 for Lifelong Win10 Life</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/connect-online-screen-sharing-secrets-for-live-streaming-for-2024/"><u>Connect Online Screen-Sharing Secrets for Live Streaming for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-anticheat-not-detected-a-solution-to-common-eac-startup-issues/"><u>Easy AntiCheat Not Detected - A Solution to Common EAC Startup Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-our-top-pick-4-complimentary-cad-tools-for-designers/"><u>Exploring Our Top Pick: 4 Complimentary CAD Tools for Designers</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/google-nest-wi-fi-exposed-a-swift-and-seamless-home-internet-solution-reviewed/"><u>Google Nest Wi-Fi Exposed: A Swift and Seamless Home Internet Solution Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-recorder-devices-for-livestreaming-pros-on-youtube-for-2024/"><u>Prime Recorder Devices for Livestreaming Pros on YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369059725-streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-resolving-issues-with-unresponsive-macos-applications/"><u>Troubleshooting Tips: Resolving Issues with Unresponsive macOS Applications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-download-igtv-videos-on-iphone-and-android-5-ways/"><u>[New] 2024 Approved How to Download IGTV Videos on iPhone & Android [5 Ways]</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-snapchat-soundtrack-sourcebook-choosing-from-the-best-websites/"><u>[New] Snapchat Soundtrack Sourcebook Choosing From the Best Websites</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-auditory-interpretation-made-easy-priceless-access-for-2024/"><u>[Updated] Auditory Interpretation Made Easy, Priceless Access for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[Updated] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>2024 Approved 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722042099167-best-extensions-save-and-distribute-your-interactions-on-chatgpt/"><u>Best Extensions: Save and Distribute Your Interactions on ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ddpai-mini3-evaluation-where-dashcams-meet-unexpected-amusement/"><u>Ddpai Mini3 Evaluation - Where Dashcams Meet Unexpected Amusement</u></a></li>
+<li><a href="https://win11.techidaily.com/file-resurrection-made-simple-8-methods-for-windows-users/"><u>File Resurrection Made Simple: 8 Methods for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-windows-index-adjustment-steps/"><u>Guide: Windows Index Adjustment Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-windows-no-drivers-error-during-installation/"><u>How to Resolve Windows No Drivers Error During Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>In 2024, The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://win11.techidaily.com/pioneering-a-fresh-approach-to-admin-rights-on-windows-os/"><u>Pioneering a Fresh Approach to Admin Rights on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-pc-name-error-in-win11/"><u>Steps to Resolve PC Name Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-recent-activities-on-windows-os/"><u>Uncovering Recent Activities on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/workaround-strategies-overcoming-banned-app-error-in-os/"><u>Workaround Strategies: Overcoming Banned App Error in OS</u></a></li>
 </ul></div>
 

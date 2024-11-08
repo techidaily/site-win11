@@ -1,7 +1,7 @@
 ---
 title: Rectifying Non-Admin Command Prompt Launch Issues on Windows
-date: 2024-10-27T17:21:47.619Z
-updated: 2024-11-01T16:47:27.744Z
+date: 2024-11-06T20:46:14.993Z
+updated: 2024-11-07T21:11:04.488Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 
  If you are having trouble running Command Prompt as an administrator, try restarting your computer first. This simple step can often solve many of your issues since it will reset the faulty settings and clear out any temporary files that may be causing problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a Command Prompt Desktop Shortcut
 
  If you prefer, you can create a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) that executes the Command Prompt with elevated privileges. Here's how to do it:
@@ -37,23 +44,31 @@ thumbnail: https://thmb.techidaily.com/22c39789b5fe1ed667e7cca081a20115c82b1e475
 ![Create Command Prompt Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-command-prompt-desktop-shortcut.jpg)
 2. Copy and paste the following into the location box then click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 C:\WINDOWS\system32\cmd.exe
 3. Name the shortcut Command Prompt Admin or something similar and then click**Finish** to save it.
 4. Right-click on the Command Prompt shortcut icon and select**Properties** from the menu that appears.  
 ![Run Command Prompt as an administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-command-prompt-as-an-administrator.jpg)
 5. Then select the**Advanced option** in the resulting window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check the**Run as administrator** box, then click**OK** to save your changes.
 
  Once you performed the above steps, double-click on Command Prompt Admin to open Command Prompt as an administrator.
 
  Now that Command Prompt is running as an administrator, you don't have to worry about Command Prompt not working correctly.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create a New User Account
 
@@ -65,20 +80,13 @@ C:\WINDOWS\system32\cmd.exe
 ![Add a new user in PC settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-a-new-user-in-pc-settings.jpg)
 3. From here, click on the**Add a new user in PC settings** link and follow the steps to create a new user account with administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have your new admin account set up, log in with it and launch Command Prompt again as an administrator - this should fix the issue. When you still can't get it to run, try restarting your computer before trying any of the other solutions listed here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Any New Windows Updates
@@ -101,13 +109,6 @@ C:\WINDOWS\system32\cmd.exe
 
  If the problem goes away while in Safe Mode, that means that an app or service you disabled is the culprit. As such, you can now begin slowly re-
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Resolving the Command Prompt Not Running as Administrator
 
  It's easy to open an elevated Command Prompt in Windows, but corrupt files or third-party antivirus programs can sometimes prevent you from doing so. If this happens to you, use the methods discussed above to resolve the issue.
@@ -127,16 +128,21 @@ C:\WINDOWS\system32\cmd.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visuals-integrating-youtube-and-snapchat/"><u>[Updated] 2024 Approved Tweeting Visuals Integrating YouTube and Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/6-disappearing-windows-traits-explained/"><u>6 Disappearing Windows Traits Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-check-which-intel-processor-generation-you-have-on-windows/"><u>8 Ways to Check Which Intel Processor Generation You Have on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-dark-theme-for-windows-calc/"><u>Activate Dark Theme for Windows Calc</u></a></li>
-<li><a href="https://win11.techidaily.com/beneath-the-surface-tools-for-win-1011s-dropdowns/"><u>Beneath-the-Surface Tools for Win 10/11'S Dropdowns</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-gameplay-flush-and-optimize-steam-dns-cache/"><u>Boost Your Gameplay: Flush and Optimize Steam DNS Cache</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/calculate-the-total-distance-traveled-by-all-vehicles-in-june-00047-kmvehicle-times-8-times-106-vehicles-37600-kilometers/"><u>Calculate the Total Distance Traveled by All Vehicles in June: $0.0047$ Km/Vehicle $ Times 8 Times 10^6$ Vehicles = $37,600$ Kilometers.</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boosting-brand-visibility-essential-insta-highlight-upgrades/"><u>In 2024, Boosting Brand Visibility Essential Insta Highlight Upgrades</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfect-playlists-import-music-with-inshot/"><u>In 2024, Crafting Perfect Playlists Import Music with InShot</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-modern-communication-hubs-a-look-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Through Modern Communication Hubs: A Look Into Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/testing-your-custom-script-to-test-your-newly-created-custom-routine-trigger-it-using-its-designated-sound-cue-or-conditions-youve-set-up-the-google-assista417/"><u>Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-edit-suite-apps-and-devices-tools-listed/"><u>[New] Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-make-a-statement-with-free-profile-pics/"><u>[Updated] 2024 Approved Make a Statement With Free Profile Pics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expert-advice-on-converting-high-quality-ipv-files-to-mp4/"><u>[Updated] Expert Advice on Converting High-Quality IPV Files to MP4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-your-next-big-idea-in-iconography-at-these-6-places/"><u>[Updated] In 2024, Finding Your Next Big Idea in Iconography at These 6 Places</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-personalized-shortcut-keys/"><u>Elevate Your Workflow: Personalized Shortcut Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-social-network-crossroad-instagram-and-tiktok-for-2024/"><u>Navigating the Social Network Crossroad Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80070003-during-system-upgrades/"><u>Overcoming Windows Error: 0X80070003 During System Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-windows-model-years-simplified/"><u>Pinpointing Windows Model Years Simplified</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-easy-path-to-observing-well-liked-comments-on-the-video-platform-for-2024/"><u>The Easy Path to Observing Well-Liked Comments on the Video Platform for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-honor-90-gt-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor 90 GT Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>Updated Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/z2-play-revolution-a-smartphone-review-odyssey/"><u>Z2 Play Revolution A Smartphone Review Odyssey</u></a></li>
 </ul></div>
 

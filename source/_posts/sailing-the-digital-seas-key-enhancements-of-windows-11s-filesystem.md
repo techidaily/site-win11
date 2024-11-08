@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Digital Seas: Key Enhancements of Windows 11'S Filesystem"
-date: 2024-10-27T19:17:25.320Z
-updated: 2024-11-01T21:11:30.834Z
+date: 2024-11-06T17:31:01.645Z
+updated: 2024-11-07T21:49:22.851Z
 tags:
   - windows10
   - windows11
@@ -43,20 +43,13 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. File Explorer Tabs
@@ -67,20 +60,27 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. A Gallery Section
 
  Like the Home section, another small add-on may soon arrive in File Explorer based on Windows Apps SDK in the Gallery section. At the time of writing, Microsoft is testing a [Gallery section in File Explorer](https://www.makeuseof.com/enable-gallery-file-explorer-windows-11/) that categorizes your PC's images. It pulls images from the Pictures and OneDrive folder and sorts them by date in descending order.
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
- A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
 ## 5\. An Improved Context Menu
 
@@ -103,16 +103,10 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## File Explorer Is Evolving in Windows 11
@@ -121,25 +115,6 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[Updated] In 2024, Best Free Downloaders Download YouTube Thumbnail for Free[Online/Win/Mac]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-through-windows-block-essential-5-step-solutions/"><u>Breaking Through Windows Block: Essential 5-Step Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/breathe-life-back-into-your-windows-11-media-player/"><u>Breathe Life Back Into Your Windows 11 Media Player</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-languages-font-downloads-for-windows-enthusiasts/"><u>Bridging Languages: Font Downloads for Windows Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
-<li><a href="https://win11.techidaily.com/chronicles-unveiled-diving-into-windows-11-history/"><u>Chronicles Unveiled: Diving Into Windows 11 History</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-chatgpts-overloaded-windows-alert/"><u>Clearing ChatGPT's Overloaded Windows Alert</u></a></li>
-<li><a href="https://win11.techidaily.com/clockwise-controls-6-image-rotation-strategies-for-w11-phones/"><u>Clockwise Controls: 6 Image Rotation Strategies for W11 Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-correcting-the-could-not-find-cwindowssystem32d3d9dll-error/"><u>Expert Tips: Correcting the 'Could Not Find c: Windows System32 d3d9.dll' Error</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-x50iplus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor X50i+ to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-satirical-scenes-with-giphy/"><u>In 2024, Sculpt Satirical Scenes with Giphy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-user-profile-not-valid-errors-in-win10win11/"><u>Tackling User Profile Not Valid Errors in Win10/Win11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-art-of-perfecting-vocal-recordings-for-video-projects-for-2024/"><u>The Art of Perfecting Vocal Recordings for Video Projects for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-preventing-ultra-heroes-overload-on-pcs/"><u>Troubleshooting Steps for Preventing 'Ultra Heroes' Overload on PCs</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +122,21 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-content-that-captivates-and-grows-your-audience/"><u>[New] Crafting Content That Captivates and Grows Your Audience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-experts-choice-selecting-car-friendly-dvd-gadgets/"><u>[New] Expert's Choice Selecting Car-Friendly DVD Gadgets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-precision-portrait-display-review-of-lgs-27in-oled-tv/"><u>[Updated] 2024 Approved Precision Portrait Display Review of LG's 27in OLED TV</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-key-tactics-for-identifying-potential-youtube-co-stars/"><u>2024 Approved Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-non-start-issue-for-windows-speech-recognition/"><u>Correcting the Non-Start Issue for Windows Speech Recognition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-techniques-for-chatgpt/"><u>Expert Techniques for ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-battlenet-application-on-windows-pc/"><u>Fixing Unresponsive Battle.net Application on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11-anydesk-errors/"><u>Fixing Windows 11 AnyDesk Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-parent-controls-on-microsoft-windows-11/"><u>Guide to Parent Controls on Microsoft Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-itel-a05s-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel A05s ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-power-of-fixed-recovering-non-functional-win-apps/"><u>Unleash the Power of Fixed: Recovering Non-Functional Win-Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-canary-explained-start-your-journey/"><u>Windows Canary Explained: Start Your Journey</u></a></li>
+</ul></div>
+

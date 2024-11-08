@@ -1,7 +1,7 @@
 ---
 title: Steering Clear of Errors in Windows Health Indicator
-date: 2024-10-30T02:19:49.036Z
-updated: 2024-11-01T22:53:59.394Z
+date: 2024-11-02T22:34:29.806Z
+updated: 2024-11-07T16:22:00.155Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To restart your computer, follow these steps:
  Once the computer has restarted, open Performance Monitor and check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart the Performance Logs and Alerts service
@@ -57,6 +57,13 @@ To restart this service, follow these steps:
 
  After you follow the above steps, check if Performance Monitor is working correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker
 
  The System File Checker is a handy Windows tool that can scan for and fix corrupted system files. It is useful when the Performance Monitor isn't working due to a corrupt system file.
@@ -69,35 +76,16 @@ To run the System File Checker, follow these steps:
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. In the Command Prompt, type the following command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 sfc /scannow
 5. The scan will check for any corrupted system files and repair them.
 
  After the scan is complete, restart your computer and check if Performance Monitor is working properly.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for a Windows Update
@@ -124,10 +112,10 @@ To perform a system restore, follow these steps:
 4. Choose a restore point, then click**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Follow the on-screen instructions to perform a system restore.
@@ -153,20 +141,16 @@ To perform a system restore, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-elite-club-of-youtubes-favorite-shorter-videos-for-2024/"><u>[Updated] The Elite Club of YouTube's Favorite Shorter Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-productivity-with-essential-windows-11-methods/"><u>Accelerate Productivity with Essential Windows 11 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-3d-paint-process-with-these-tips/"><u>Accelerate Your 3D Paint Process with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-msvcr110dll-disappearance/"><u>Addressing msvcr110.dll Disappearance</u></a></li>
-<li><a href="https://win11.techidaily.com/balancing-power-and-performance-in-windows-systems/"><u>Balancing Power and Performance in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/best-vmms-aligned-with-windows-11-system-requirements/"><u>Best VMMs Aligned with Windows 11 System Requirements</u></a></li>
-<li><a href="https://win11.techidaily.com/big-data-in-bare-minipcs-little-prowess/"><u>Big Data in Bare MiniPCs, Little Prowess</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-conversions-using-advanced-tracking-features-from-cookiebot-integration/"><u>Boost Conversions Using Advanced Tracking Features From Cookiebot Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-vm-capabilities-upgrading-to-virtualbox-70-in-win11/"><u>Boost Your VM Capabilities: Upgrading to VirtualBox 7.0 in Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/"><u>Comprehensive Guide: Downloading and Installing Canon IP1 10 Drivers on Windows (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-fidelity-close-up-minecraft-tactics/"><u>Enhancing Fidelity Close-Up Minecraft Tactics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-a2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi A2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sparking-creativity-with-the-most-advanced-6-nft-maker-tools/"><u>Sparking Creativity with the Most Advanced 6 NFT Maker Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speedy-driver-update-intel-graphics-3000-win11-style/"><u>Speedy Driver Update - Intel Graphics 3000, Win11 Style</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-messaging-discover-these-7-repair-techniques/"><u>Trouble with iPhone Messaging? Discover These 7 Repair Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-path-to-your-first-tweet-signing-up-for-twitter/"><u>[Updated] 2024 Approved The Path to Your First Tweet Signing Up for Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-dark-sky-photography/"><u>[Updated] 2024 Approved Unveiling the Secrets of Dark Sky Photography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y78plus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y78+ PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-windows-performance-data-accuracy/"><u>Ensuring Windows Performance Data Accuracy</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-10c-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 10C Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-drivers-for-msi-b350-toms-oc-motherboard-windows-117-supported/"><u>Get the Latest Drivers for MSI B350 TOM'S OC Motherboard - Windows 11/7 Supported</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-cutzone-pro-review-unveiled/"><u>In 2024, In-Depth Analysis CutZone Pro Review Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/slip-through-system-demands-barrier-in-win11/"><u>Slip Through System Demands Barrier in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-connectivity-how-to-enable-telnet-in-windows-os/"><u>Streamline Connectivity: How to Enable Telnet in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://win11.techidaily.com/venturing-into-the-visual-void-ms-paints-dark-mode-guide/"><u>Venturing Into the Visual Void: MS Paint's Dark Mode Guide</u></a></li>
 </ul></div>
 

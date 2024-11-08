@@ -1,7 +1,7 @@
 ---
 title: "Ender's Guide: Stopping Unseen Windows Programs"
-date: 2024-10-26T16:34:08.981Z
-updated: 2024-11-01T20:53:35.749Z
+date: 2024-11-03T18:15:03.496Z
+updated: 2024-11-07T20:19:00.405Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable Background Apps via Power & Battery Settings
@@ -58,12 +58,41 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 3. Scroll down to the Battery section and click on **Battery usage.**  
 ![power and battery usage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/power-and-batter-usage.png)
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
  In addition to disabling background apps, try to create and use [custom Windows power plans to extend your laptop battery life](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/). With custom power plans, you can tweak your processor and other components to configure low-power modes to achieve an improved battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Disable Background Apps for the Current User
 
@@ -89,16 +118,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 6. Click the **Save** button to save the file.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Right-click on the newly created reg file and select **Open.** Click **Yes** to confirm and modify the registry entries to disable background apps.
@@ -118,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Disable Background Apps for All Users Using Registry Editor
 
  If you want to disable background apps for all the user accounts, you can manually create and modify the registry values in the Registry Editor.
@@ -141,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
@@ -173,19 +182,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
 6. Click **OK** and **Apply** to save the changes.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
@@ -198,27 +194,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  Fortunately, Windows lets you change the background permission for individual Microsoft Store apps. Here we show you how to disable individual or all background apps in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-streamline-creation-with-no-cost-high-quality-banner-templates/"><u>[New] 2024 Approved Streamline Creation with No-Cost, High-Quality Banner Templates</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimizing-footage-variety-in-your-video-production/"><u>[Updated] 2024 Approved Optimizing Footage Variety in Your Video Production</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beats-and-banners-discovering-premium-dj-templates/"><u>[Updated] Beats & Banners Discovering Premium DJ Templates</u></a></li>
-<li><a href="https://win11.techidaily.com/7-essential-windows-processes-that-could-be-hiding-a-virus/"><u>7 Essential Windows Processes That Could Be Hiding a Virus</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-fix-google-drive-not-syncing-on-windows/"><u>7 Ways to Fix Google Drive Not Syncing on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-fix-the-intel-wi-fi-6-ax201-160-mhz-driver-is-not-working-error-on-windows/"><u>8 Ways to Fix “The Intel Wi-Fi 6 AX201 160 MHz Driver Is Not Working” Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/9-ways-to-fix-vmwares-failed-to-start-the-virtual-machine-error-in-windows-11/"><u>9 Ways to Fix VMware's Failed to Start the Virtual Machine Error in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-13c-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://app-tips.techidaily.com/accelerate-androids-speed-optimize-with-advanced-task-management-tools/"><u>Accelerate Android's Speed: Optimize with Advanced Task Management Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-sluggish-downloads-on-windows-pcs-a-guide/"><u>Addressing Sluggish Downloads on Windows PCs: A Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/adobes-path-to-perspective-creating-life-like-text-for-2024/"><u>Adobe's Path to Perspective Creating Life-Like Text for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-message-impact-with-emoji-15-on-win11/"><u>Boost Your Message Impact with Emoji 15 on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/break-free-from-frozen-mouse-menu-stasis-on-pc/"><u>Break Free From Frozen Mouse Menu Stasis on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/breakdown-of-windows-error-message-30005s-complexity/"><u>Breakdown of Windows Error Message 30005'S Complexity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ting-video-visibility-through-thumbnails-for-2024/"><u>Elevating Video Visibility Through Thumbnails for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-quickly-update-your-pcs-intel-82579lm-driver/"><u>How to Quickly Update Your PC's Intel 82579LM Driver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-clients-adopting-windows-terminal-by-default/"><u>Mastering Clients: Adopting Windows Terminal by Default</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -226,3 +201,23 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-correct-yt-monetization-checklist-maximize-your-earnings-for-2024/"><u>[New] Correct YT Monetization Checklist – Maximize Your Earnings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-time-saving-shortcuts-for-efficient-mac-screenshots/"><u>[New] Unveiling Time-Saving Shortcuts for Efficient Mac Screenshots</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-data-management-combine-on-windows-11/"><u>Elevate Your Data Management: Combine on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-efficiency-integrating-to-dot-and-ifttt/"><u>Enhanced Efficiency: Integrating To-Dot & IFTTT</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-index-settings-on-windows/"><u>Fine-Tuning Index Settings on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ready-for-ios-18-no-charge-access-innovative-functions-breakdown-and-fresh-news/"><u>Get Ready for iOS 18: No Charge Access, Innovative Functions Breakdown, and Fresh News</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/halt-facebook-ads-in-vids-your-guide-for-2024/"><u>Halt Facebook Ads in Vids Your Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-oculus-setup-failures-in-windows-11-and-10/"><u>How to Overcome Oculus Setup Failures in Windows 11 & 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-preview-errors-in-windows-outlook/"><u>Mastering the Art of Resolving Preview Errors in Windows Outlook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-for-free-top-online-video-editor-options/"><u>New Edit Like a Pro for Free Top Online Video Editor Options</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-adding-bespoke-pattern-loops-for-windows-pin/"><u>Step-by-Step: Adding Bespoke Pattern Loops for Windows PIN</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronizing-mac-writers-flows-efficiently-with-mixer-for-2024/"><u>Synchronizing Mac' Writers' Flows Efficiently With Mixer for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-new-lens-on-sonys-s6500-bdp-features-for-2024/"><u>The New Lens on Sony’s S6500 BDP Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-beta-access-the-insider-program-guide/"><u>Windows 11'S Beta Access: The Insider Program Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "No Tool Needed: Self-Guided Guide to Detecting Computer Threats"
-date: 2024-10-28T20:56:58.922Z
-updated: 2024-11-01T16:47:16.503Z
+date: 2024-10-31T23:52:53.385Z
+updated: 2024-11-07T20:36:04.258Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  Once you have closed down all nonessential processes and carried out a malware scan, you can start looking for any malicious programs lurking on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Inspect Your Device for Spyware or Hacking Attempts
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  In the modern era, malware infections are usually programmed to actively (but secretly) operate on the victim's computer. For instance,[cryptojackers](https://www.makeuseof.com/what-is-cryptojacking-how-to-detect-it/) use victims' computer resources for crypto mining, keyloggers gather login credentials by monitoring keystrokes, and spyware tracks users' activity in real-time and shares it with the hackers.
 
  Each of these malware types relies on a remote connection to the hacker's server where the data is sent, the mining software runs, or whatever else the hacker is trying to accomplish. By identifying those suspicious connections established on our device, we can determine whether our device has actually been compromised.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Check for Suspicious Connections
 
@@ -57,29 +64,28 @@ netstat -ano
 
 ![Run Netstat-ano Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-run-netstat-ano-command-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The above command will show you all the TCP connections the apps, programs, and services have established to remote hosts.
 
  Pay attention mainly to the**State** column, where you'll find three main terms:**Established** ,**Listening** , and**Time\_Wait** . From these three, focus on the connections whose state identifies as**Established** . The**"Established"** state indicates a real-time connection between your computer and the remote IP address.
 
 ![Find the Suspicious Process with Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-find-the-suspicious-process-with-established-connection-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don't panic if you see a lot of established connections. Most of the time, these connections are made to a company server whose services you use, like Google, Microsoft, etc. However, you need to analyze each of these connections separately. This will help you determine if there are suspicious connections being made to a hacker's server.
 
  Do not close the Command Prompt; we will use the netstat information in the next steps.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Analyze Any Connections That Seem Suspicious
 
@@ -101,6 +107,14 @@ Here's how you can analyze the suspicious connections:
 1. Note the**PID** next to the suspicious**Established** connection in Command Prompt.  
 ![Note the PID Next to the Suspicious Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-note-the-pid-next-to-the-suspicious-established-connection-in-command-prompt.jpg)
 2. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Go to the**Details** tab.
 4. Click the**PID column** to sort processes according to their PIDs.
 5. Find the process with the same**PID** that you noted down earlier.  
@@ -116,6 +130,13 @@ Here's how you can analyze the suspicious connections:
 
  If there is any discrepancy in process details or the process itself seems suspicious, it is best to remove the associated program.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Remove Any Suspicious Programs
 
  To identify and remove the malicious apps behind these suspicious processes, follow these steps:
@@ -124,28 +145,14 @@ Here's how you can analyze the suspicious connections:
 ![Click on Open File Location by Right-clicking on Malicious Process in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-on-open-file-location-by-right-clicking-on-malicious-process-in-windows-task-manager.jpg)
 2. Once again, ensure the file is not associated with Windows or any other critical application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. If you're sure it's malware, right-click it and delete it.  
 ![Delete the Suspicious File After Locating it in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/9-delete-the-suspicious-file-after-locating-it-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Take Professional Help When Necessary
@@ -177,22 +184,20 @@ Here's how you can analyze the suspicious connections:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-youtubes-featured-comment-selection-for-2024/"><u>[Updated] Deciphering YouTube's Featured Comment Selection for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/44cm44oc44kk44k344o844gr44ki44kl44oq44ki44or44k44kk44og44kq44o844oh44kj44kq55sf5psplus6ycb44gu6kiy6yyy5oml5rov44cn/"><u>「ボイシーによるリアルタイムオーディオ生放送の記録手法」</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-step-by-step-tutorial-for-downloading-and-installing-aoc-monitor-drivers-on-various-windows-versions/"><u>A Comprehensive Step-by-Step Tutorial for Downloading and Installing AOC Monitor Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-seatechs-portable-blu-ray-burner-with-usb-connectivity-evaluating-its-reliability-and-writing-speed/"><u>Comprehensive Review of SeaTech's Portable Blu-Ray Burner with USB Connectivity: Evaluating Its Reliability and Writing Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-file-metrics-in-windows-with-easy-powershell-scripts/"><u>Discover File Metrics in Windows With Easy PowerShell Scripts</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-discord-set-up-issues-on-win-1011/"><u>Guide to Correcting Discord Set-Up Issues on Win 10/11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-huawei-mediapad-m5s-impressive-display-and-sound-quality/"><u>In-Depth Look at the Huawei MediaPad M5's Impressive Display & Sound Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-d3d11-errors-on-windows-11/"><u>Mastering the Art of Fixing D3D11 Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-stopping-self-generating-chromium-tabs/"><u>Mastering the Art of Stopping Self-Generating Chromium Tabs</u></a></li>
-<li><a href="https://facebook.techidaily.com/meet-the-new-portable-version-of-facebooks-portal/"><u>Meet the New Portable Version of Facebook's Portal</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pinnacle-of-support-enhanced-photographic-stand/"><u>Pinnacle of Support: Enhanced Photographic Stand</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-your-window-experience-through-shortcuts/"><u>Revolutionize Your Window Experience Through Shortcuts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/seamless-iphone-to-windows-1110-photo-and-video-transfer-methods-explained/"><u>Seamless iPhone to Windows (11/10) Photo and Video Transfer Methods Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-simple-fixes-conquer-winerror-740-on-winos/"><u>Swift and Simple Fixes: Conquer WinError 740 on WINOS</u></a></li>
-<li><a href="https://win11.techidaily.com/the-subtle-art-of-hidden-storage-in-windows-1110/"><u>The Subtle Art of Hidden Storage in Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-cooperative-touchscreen-actions-in-windows/"><u>Troubleshooting Non-Cooperative Touchscreen Actions in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winerror-0xc004f050-steps-to-resolve/"><u>WinError 0XC004F050: Steps to Resolve</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>[New] Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[Updated] 2024 Approved Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-uncover-collective-media-on-messenger-networks/"><u>[Updated] 2024 Approved Uncover Collective Media on Messenger Networks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-35-humorous-image-alterers-onlineiosandroid-edition/"><u>[Updated] Top 35 Humorous Image Alterers Online/iOS/Android Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 11 Pro | Stellar</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-best-no-cost-h2email-protected-player-for-effortless-playback-of-hevc-files/"><u>Download the Best No-Cost H.2([email Protected]) Player for Effortless Playback of .HEVC Files</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-windows-error-in-your-office-app/"><u>Efficient Methods to Fix Windows Error in Your Office App</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-windows-11-workflows-advanced-run-command-incorporation/"><u>Empowering Windows 11 Workflows: Advanced Run Command Incorporation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68/"><u>In 2024, Exploring the Cutting-Edge of UHD with LG's 27UD68</u></a></li>
+<li><a href="https://win11.techidaily.com/missed-upgrades-restore-your-pcs-hidden-enhancement-capabilities/"><u>Missed Upgrades? Restore Your PC's Hidden Enhancement Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-virtual-configurations-enhancing-pc-performance-on-windows-11/"><u>Prime Virtual Configurations Enhancing PC Performance on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-windows-pomodoro-tools-roundup/"><u>Prime Windows Pomodoro Tools Roundup</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-microsoft-teams-sign-in-problems-on-pc/"><u>Resolving Microsoft Teams Sign-In Problems on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/successfully-solving-steam-readwrite-issues-in-windows/"><u>Successfully Solving Steam Read/Write Issues in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-audio-tools-for-professional-podcast-creators-for-2024/"><u>Top Audio Tools for Professional Podcast Creators for 2024</u></a></li>
 </ul></div>
 

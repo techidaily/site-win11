@@ -1,7 +1,7 @@
 ---
 title: Redoing Lost Power Setup Options on WS 11
-date: 2024-10-29T02:57:40.791Z
-updated: 2024-11-02T00:45:22.740Z
+date: 2024-11-06T16:10:54.008Z
+updated: 2024-11-07T22:21:05.770Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
 To change power mode on Windows 11:
@@ -59,6 +66,13 @@ To change power mode on Windows 11:
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-default-power-plans-windows-11-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Before you try to restore the power plans, reset all the power plan settings to factory default. A reset will only fix issues that occurred due to incorrect configuration.
 
 To reset Windows default power plans:
@@ -68,16 +82,16 @@ To reset Windows default power plans:
 `powercfg -restoredefaultschemes`
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -102,13 +116,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use a different**powercfg** command to enable the High Performance power plan on Windows. This is useful if your system is missing only the High Performance power scheme. Here’s how to do it.
 
 1. [Open Command Prompt with administrator rights](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
@@ -127,13 +134,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Manually Create the Power Plans
 
  If you don’t want to use the preset power plans, you can create your own power plans on Windows. This should work irrespective of the Modern Standby state of your computer.
@@ -146,25 +146,26 @@ To create a custom Power Plan on Windows:
 4. Next, click on**Power Options** .  
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click**Create** .\`
 
@@ -191,17 +192,16 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-meetings-to-media-how-zoom-powers-fb-live-content/"><u>[New] From Meetings to Media How Zoom Powers FB Live Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-strategies-mastering-your-laptops-screen-recording/"><u>[New] Top Strategies Mastering Your Laptop's Screen Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-advanced-composition-strategies-with-blend-modes/"><u>[Updated] 2024 Approved Advanced Composition Strategies with Blend Modes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram-for-2024/"><u>[Updated] Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-winupdate-failure-x8019-error/"><u>Correcting WinUpdate Failure: X8019 Error</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easy-guide-to-rectify-ios-and-android-videos-not-sent-by-messenger-for-2024/"><u>Easy Guide to Rectify iOS and Android Videos Not Sent by Messenger for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-address-unresponsive-spotify-windows/"><u>Essential Steps to Address Unresponsive Spotify Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/exclude-non-critical-windows-suggestions-and-tips/"><u>Exclude Non-Critical Windows Suggestions and Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-cant-access-mail-error-in-windows-11-email-service/"><u>Rectifying Can't Access Mail Error in Windows 11 Email Service</u></a></li>
-<li><a href="https://win11.techidaily.com/top-review-the-ultimate-guide-to-garmin-forerunner-745-for-multisports-enthusiasts/"><u>Top Review: The Ultimate Guide to Garmin Forerunner 745 for Multisports Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-get-your-corsair-earphones-back-in-action/"><u>Troubleshooting Tips: How To Get Your Corsair Earphones Back In Action!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-becoming-a-youtube-guru-essential-production-know-how/"><u>[Updated] 2024 Approved Becoming a YouTube Guru Essential Production Know-How</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-conquer-the-social-networking-landscape-and-grow-your-followers/"><u>[Updated] Conquer the Social Networking Landscape and Grow Your Followers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-xs-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone XS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-exclusive-access-sharing-restricted-youtube-content-with-emailid/"><u>In 2024, Exclusive Access Sharing Restricted YouTube Content with EmailID</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-civi-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Civi 3 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-top-spot-for-note-taking-on-win-1011-oses/"><u>Keep Top Spot for Note Taking on Win 10/11 OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-visibility-settings-for-win-11-cursors/"><u>Navigating Visibility Settings for Win 11 Cursors</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-file-explorer-crashes-with-proactive-windows-11-tips/"><u>Prevent File Explorer Crashes with Proactive Windows 11 Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/score-the-high-performance-gaming-pro-carbon-z27n-mobo-at-no-cost-download-today/"><u>Score the High-Performance Gaming Pro Carbon (Z27n) Mobo at No Cost – Download Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-your-proxy-in-windows-11/"><u>Setting Up Your Proxy in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-god-mode-essential-tasks-to-enhance-efficiency/"><u>Windows 11 God Mode: Essential Tasks to Enhance Efficiency</u></a></li>
 </ul></div>
 

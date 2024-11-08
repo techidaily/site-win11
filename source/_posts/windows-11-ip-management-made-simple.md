@@ -1,7 +1,7 @@
 ---
 title: Windows 11 IP Management Made Simple
-date: 2024-10-29T04:36:25.393Z
-updated: 2024-11-01T16:43:28.654Z
+date: 2024-11-06T22:05:16.056Z
+updated: 2024-11-07T18:48:45.464Z
 tags:
   - windows10
   - windows11
@@ -39,15 +39,22 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change the Subnet Mask in Windows 11
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Change the Subnet Mask Using the Windows Settings
@@ -65,13 +72,6 @@ Here's how to do it:
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Change the Subnet Mask Using the Control Panel
 
  The Control Panel is the go-to place to configure window settings and make changes to your device. To use it to change the subnet mask, follow the below instructions:
@@ -83,13 +83,6 @@ Here's how to do it:
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
@@ -97,16 +90,10 @@ Here's how to do it:
 8. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
@@ -123,6 +110,13 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -145,16 +139,17 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-shorts-money-making-guide-key-requirements-and-potential-income/"><u>[New] 2024 Approved Youtube Shorts Money-Making Guide Key Requirements & Potential Income</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-pro-level-insights-transforming-your-instagram-feed/"><u>[Updated] In 2024, Pro-Level Insights Transforming Your Instagram Feed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-design-in-audio-branding/"><u>2024 Approved Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-activate-moonlight-setting-in-your-iphone-effortlessly/"><u>How To Activate Moonlight Setting In Your iPhone Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-chromes-failed-virus-detected-error-on-windows/"><u>How to Fix Chrome's Failed - Virus Detected Error on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reconciling-microphone-and-xbox-app-on-1011-pcs/"><u>Reconciling Microphone and Xbox App on 10/11 PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-cmd-appearance-without-prior-notice/"><u>Stopping CMD Appearance Without Prior Notice</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ins-and-outs-of-socket-programming-with-python-servers-on-pcs/"><u>The Ins and Outs of Socket Programming with Python Servers on PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/virtulive-suite-next-gen-video-transmission-and-digital-camcorder-platform/"><u>VirtuLive Suite: Next-Gen Video Transmission & Digital Camcorder Platform</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-demystifying-the-money-behind-1m-on-youtube/"><u>[New] In 2024, Demystifying the Money Behind 1M on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-m1-magic-cutting-edge-video-edits-for-ultra-smooth-results-for-2024/"><u>[New] M1 Magic Cutting-Edge Video Edits for Ultra-Smooth Results for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/achieve-peak-mac-operation-discover-stellars-fix/"><u>Achieve Peak Mac Operation - Discover Stellar’s Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-activity-log-of-your-windows-10-system/"><u>Decoding the Activity Log of Your Windows 10 System</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-missing-pin-issue-amidst-system-errors-on-win-11/"><u>How To Fix Missing PIN Issue Amidst System Errors on Win 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-moto-g24-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Moto G24 Without PUK Codes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/obs-live-video-to-insta-platform-for-2024/"><u>OBS Live Video to Insta Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-popular-win-11-22h2-hiccups/"><u>Resolving Popular WIN 11 22H2 Hiccups</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/revolutionize-facebook-ads-creative-video-tactics-revealed-for-2024/"><u>Revolutionize Facebook Ads Creative Video Tactics Revealed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-and-convenient-content-with-funimate-tools-for-2024/"><u>Secure and Convenient Content with Funimate Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-auto-scroll-issues-on-your-pcs-os/"><u>Solving Auto-Scroll Issues on Your PC's OS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-wizardry-of-managing-system-activities-and-changes/"><u>The Windows Wizardry of Managing System Activities & Changes</u></a></li>
 </ul></div>
 

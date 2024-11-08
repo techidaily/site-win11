@@ -1,7 +1,7 @@
 ---
 title: Guide to Clear Windows Webcam Blackout
-date: 2024-10-30T17:10:24.409Z
-updated: 2024-11-01T17:57:35.722Z
+date: 2024-11-01T19:31:06.601Z
+updated: 2024-11-07T23:10:12.987Z
 tags:
   - windows10
   - windows11
@@ -42,26 +42,26 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  These simple checks often resolve the problem without technical expertise.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart the Computer
 
  This may sound strange, but restarting your computer often resolves technical problems. It clears temporary files, refreshes system settings, and resolves conflicts that may cause webcams to black out.
 
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Webcam Drivers
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Roll Back Drivers
 
  If you recently updated your webcam drivers and now get a black screen, try reverting to the previous version. Here's how to do it:
@@ -88,6 +95,14 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 2. Right-click on your webcam driver and choose **Properties**.  
 ![Open Webcam Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-webcam-properties.jpg)
 3. In the Properties window, switch to the **Driver** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
 
@@ -105,18 +120,19 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 4. A pop-up will appear, asking if you're sure you want to remove it. Check the box next to **Attempt to remove the driver for this device** and click **Uninstall**.  
 ![Uninstall Camera driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-camera-driver.jpg)
 5. After finishing the process, restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. When your computer starts, open Device Manager again and click **Action** on the toolbar.  
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
 7. Select **Scan for hardware changes**. This will prompt Windows to detect your webcam and install drivers automatically.
 
  Once that's done, test your webcam again. It shouldn't show a black screen anymore.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check App Permissions
 
@@ -130,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
 
@@ -158,22 +167,15 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. In the Command Prompt window, enter the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resolving Windows Webcam Black Screen Issues
@@ -182,29 +184,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-are-opinions-on-goods-compensated-in-videos/"><u>[New] Are Opinions on Goods Compensated in Videos?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-allure-crafting-irresistible-podcast-previews/"><u>[New] Audiovisual Allure Crafting Irresistible Podcast Previews</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-opinions-best-browser-recording-apps-uncovered-for-2024/"><u>[New] Expert Opinions Best Browser Recording Apps Uncovered for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-advanced-6-apps-to-translate-film-content/"><u>[New] In 2024, Advanced 6 Apps to Translate Film Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-breakdown-hero4-black-functionality/"><u>2024 Approved Complete Breakdown Hero4 Black Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-clearing-defender-history-on-windows-pcs/"><u>A Comprehensive Guide to Clearing Defender History on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-policy-settings-with-windows-11-expertise/"><u>Accelerate Policy Settings with Windows 11 Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerating-virtualization-setting-up-win11-with-vmware-17-player/"><u>Accelerating Virtualization: Setting Up Win11 with VMware 17 Player</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-cannot-locate-gpeditmsc-error-in-windows/"><u>Addressing the Cannot Locate Gpedit.msc Error in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/amd-graphics-update-essentials-for-windows-11-users/"><u>AMD Graphics Update Essentials for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-save-location-blunders-on-windows-devices/"><u>Avoiding Save Location Blunders on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-productivity-with-widget-integration-in-windows-11/"><u>Boosting Productivity with Widget Integration in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/breached-bytebandit-ponder-the-path-for-a-possible-pivot/"><u>Breached ByteBandit: Ponder the Path for a Possible Pivot</u></a></li>
-<li><a href="https://win11.techidaily.com/1719285734353-breathe-life-back-into-your-computers-print-command-wwinplusp/"><u>Breathe Life Back Into Your Computer's Print Command (WWin+P)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-your-sidekick-how-github-copilot-stands-up-to-chatgpt-in-code-development/"><u>Choosing Your Sidekick: How GitHub Copilot Stands Up to ChatGPT in Code Development</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-hashtags-for-six-figure-youtube-growth/"><u>Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723807962856-the-complete-walkthrough-to-initiate-safe-mode-on-windows-10-learn-with-pictures/"><u>The Complete Walkthrough to Initiate Safe Mode on Windows 10 - Learn With Pictures!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-say-cheese-top-apps-to-convert-your-photos-into-cartoons/"><u>Updated Say Cheese! Top Apps to Convert Your Photos Into Cartoons</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +191,25 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-superior-approaches-to-live-cricket-broadcasting/"><u>[New] 10 Superior Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-overcome-blurred-images-the-best-online-enhancers-listed-for-2024/"><u>[New] Overcome Blurred Images The Best Online Enhancers Listed for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smartphone-security-systems-apples-x-vs-samsungs-facial-tech/"><u>[New] Smartphone Security Systems Apple’s X Vs. Samsung's Facial Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vlc-versus-mpc-top-free-video-players-showdown/"><u>[New] VLC versus MPC Top Free Video Players Showdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-overcome-hd-blockades-streaming-success-with-secure-browsers/"><u>[Updated] Overcome HD Blockades Streaming Success with Secure Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-no-more-files-notifications-on-win-11/"><u>Disabling 'No More Files' Notifications on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-application-couldnt-start-0xc000003e-hexadecimal-error/"><u>Fixing The Application Couldn't Start 0xC000003E Hexadecimal Error</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-the-windows-11-login-method-from-pin-to-password/"><u>How to Change the Windows 11 Login Method From PIN to Password</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-not-enough-usb-controller-resources-error-on-a-windows-computer/"><u>How to Fix “Not Enough USB Controller Resources” Error on a Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-msstore-crash-with-error-code-0x0-on-windows-1011/"><u>How to Overcome MsStore Crash with Error Code 0X0 on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-drawers-for-win-11-a-comprerancial-guide-to-best-apps/"><u>Ideal Drawers for Win 11: A Comprerancial Guide to Best Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expanding-storytelling-with-alternative-cinematography/"><u>In 2024, Expanding Storytelling with Alternative Cinematography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pro-freefire-compiling-premier-gaming-vids-and-hashtags-for-2024/"><u>Pro-FreeFire Compiling Premier Gaming Vids and Hashtags for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/recovering-files-after-a-drive-split-a-comprehensive-guide-for-windows-users-windows-11-8-7/"><u>Recovering Files After a Drive Split: A Comprehensive Guide for Windows Users (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/shielding-windows-default-screen-display-from-user-changes/"><u>Shielding Windows Default Screen Display From User Changes</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-approach-to-fix-windows-charmap-woes/"><u>Streamlining Your Approach to Fix Windows CharMap Woes</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wie-ubertragen-sie-ihre-personlichen-informationen-von-einem-alt-iphone-zu-neueren-modellen/"><u>Wie Übertragen Sie Ihre Persönlichen Informationen Von Einem Alt-iPhone Zu Neueren Modellen?</u></a></li>
+</ul></div>
+

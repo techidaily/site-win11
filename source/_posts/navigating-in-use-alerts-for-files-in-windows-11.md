@@ -1,7 +1,7 @@
 ---
 title: Navigating 'In Use' Alerts for Files in Windows 11
-date: 2024-10-27T21:15:23.803Z
-updated: 2024-11-02T00:41:02.905Z
+date: 2024-11-03T21:53:03.989Z
+updated: 2024-11-07T20:32:51.042Z
 tags:
   - windows10
   - windows11
@@ -46,32 +46,18 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan
 
@@ -81,6 +67,14 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 2. Click **Virus & threat protection** \> **Scan options** to access the Microsoft Defender antivirus tool.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-scan-options.jpg)
 3. Select the **Full scan** setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to initiate the malware scanning.  
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-full-scan-radio-button.jpg)
 5. Wait for the scanning to finish and select **Start actions** to remove detected malware.
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Any Unknown Programs in Task Manager
@@ -124,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
@@ -138,34 +132,18 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
 
  The potential solutions covered here are widely confirmed to resolve the “requested resource is in use” error. If it’s not caused by malware, disabling Explorer’s preview pane, as covered in resolution two, will usually fix the issue. Users confirm running an antivirus scan in safe mode (solution three) can fix the “required resource is in use” error when caused by malware.
 
  Here is how you can fix the “requested resource is in use” error on a Windows 10 or 11 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-must-have-tech-for-clear-streamed-content-for-2024/"><u>[New] Must-Have Tech for Clear Streamed Content for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-perfect-past-moments-on-fb-a-look-back-edition/"><u>[New] Perfect Past Moments on FB A Look Back Edition</u></a></li>
-<li><a href="https://win-hot.techidaily.com/44cm6auy5zob6loq44gq44k944ov44oi44km44kn44ki44ks5a6j5ywo44gr5aoy44kl44k144kk44oi44cn/"><u>「高品質なソフトウェアを安全に売るサイト」</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-resolving-windows-marketplace-failures-error-0x80073cf3/"><u>Deciphering and Resolving Windows Marketplace Failures (Error 0X80073CF3)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-activate-and-use-microsoft-365-suite-on-windows-or-mac/"><u>Easy Steps to Activate and Use Microsoft 365 Suite on Windows or Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-0x80070194-in-onedrive-errors/"><u>Eliminating Windows' 0X80070194 in OneDrive Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-programming-with-a-newly-installed-jdk-in-windows-11/"><u>Enhance Your Programming with a Newly Installed JDK in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-solving-blue-screens-caused-by-not-handled-error/"><u>Guide to Solving Blue Screens Caused by Not Handled Error</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-file-explorer-with-onedrive-integration/"><u>Initiating File Explorer with OneDrive Integration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tricks-for-fixed-windows-11-power-issue/"><u>Quick Tricks for Fixed Windows 11 Power Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/reawakening-computers-top-8-windows-restart-techniques/"><u>Reawakening Computers: Top 8 Windows Restart Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-your-login-experience-opting-for-stronger-protection-over-windows-11s-default-pin/"><u>Reimagining Your Login Experience: Opting for Stronger Protection over Windows 11'S Default PIN</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-storage-efficiently-identifying-large-disk-users/"><u>Streamline Your Storage: Efficiently Identifying Large Disk Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210802992-9788794430043-the-attack-on-the-ferris-wheel/"><u>THE ATTACK ON THE FERRIS WHEEL | Free Book</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-5-essential-applications-every-owner-of-a-kindle-paperwhite-3-should-have/"><u>Top 5 Essential Applications Every Owner of a Kindle Paperwhite 3 Should Have</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-rated-hd-video-editing-tools-for-professionals-and-beginners-for-2024/"><u>Top-Rated HD Video Editing Tools for Professionals and Beginners for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-your-speakers-solve-windows-10s-cut-out-sounds-here/"><u>Trouble with Your Speakers? Solve Windows 10'S Cut-Out Sounds Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-screen-sharing-disabling-pin-during-cast/"><u>Windows 11 Screen Sharing: Disabling PIN During Cast</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +152,21 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-guide-the-basics-of-google-podcasts-app/"><u>[New] Complete Guide The Basics of Google Podcasts App</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-infinix-note-30-vip-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Note 30 VIP Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>In 2024, Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-facebooks-visual-search-a-step-by-step-guide/"><u>Mastering Facebook's Visual Search: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-onedrive-obstacles-a-comprehensive-approach/"><u>Overcoming OneDrive Obstacles: A Comprehensive Approach</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-magic-6-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Magic 6 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-route-to-llm-and-chatbot-with-quoras-poe/"><u>Quick Route to LLM & Chatbot with Quora's POE</u></a></li>
+<li><a href="https://win11.techidaily.com/rebuild-windows-11-second-screen-fixes/"><u>Rebuild Windows 11 Second Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-repairing-windows-file-systems/"><u>Step-By-Step Guide to Repairing Windows File Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-shadowed-interface-opening-windows-private-individuality-analyzer/"><u>Unveiling the Shadowed Interface: Opening Windows' Private Individuality Analyzer</u></a></li>
+<li><a href="https://win11.techidaily.com/winupdates-troubleshooting-guide-for-error-x80246007/"><u>WinUpdates Troubleshooting Guide for Error X80246007</u></a></li>
+</ul></div>
+

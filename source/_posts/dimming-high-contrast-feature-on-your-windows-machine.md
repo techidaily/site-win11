@@ -1,7 +1,7 @@
 ---
 title: Dimming High Contrast Feature on Your Windows Machine
-date: 2024-11-01T02:48:12.304Z
-updated: 2024-11-02T04:26:46.545Z
+date: 2024-11-06T16:11:00.388Z
+updated: 2024-11-07T21:17:04.674Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
  High contrast themes offer customizability to tweak different screen elements, like text, links, background, button text, and more. It's a lot more helpful than dark mode, which just adds a dark or black-grayish background with a white color.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable High Contrast Mode on Windows
 
  If High Contrast Mode has been turned on and you'd like to change that, there are multiple ways to get the job done.
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ### 1\. Using the High Contrast Mode Shortcut keys
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using the Settings app
 
@@ -60,10 +60,23 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 5. Then, click on the**Apply** option. Windows will change back to the previous theme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using the Sign-in screen
@@ -75,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 3. The Accessibility menu will pop up. Click on the**Contrast Theme** toggle to disable it.  
 ![Disable High Contrast Mode Using Sign In Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-sign-in-screen.jpg)
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Using the Control Panel
 
@@ -112,20 +118,14 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Using Another Theme
 
@@ -149,16 +149,17 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 3. Now, press**Ctrl + S** to save the file. Type the name “**disablehc.bat** ” and click on the**save** button.  
 ![Disable High Contrast Mode Using a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-script.jpg)
 4. Go to the desktop again and right-click on the newly created .bat file.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Run as administrator** option in the context menu.
 6. UAC will pop up. Click on the**Yes** button to grant administrator privileges to the .bat file. Otherwise, it won’t be able to make changes to the system theme.
 7. The command prompt will pop up for a few seconds, run the script, and then close automatically. Your Windows system will disable the high contrast mode and switch to the aero theme.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Windows High Contrast Theme Won’t Bother You Anymore
 
@@ -179,21 +180,20 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-power-of-pause-with-instagrams-slow-motion/"><u>[New] In 2024, Unlock the Power of Pause with Instagram's Slow Motion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-navigating-the-world-of-audio-with-apods-for-2024/"><u>[New] Navigating the World of Audio with APods for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207975204-solved-ps4-controller-wont-charge/"><u>[SOLVED] PS4 Controller Won't Charge</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-live-cricket-watch-tactics-unveiled/"><u>[Updated] 2024 Approved Best Live Cricket Watch Tactics Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-list-of-window-screenshot-utilities/"><u>[Updated] In 2024, Ultimate List of Window Screenshot Utilities</u></a></li>
-<li><a href="https://win11.techidaily.com/5-best-windows-counterparts-to-procreate-app/"><u>5 Best Windows Counterparts to Procreate App</u></a></li>
-<li><a href="https://win11.techidaily.com/a-complete-guide-to-hdr-on-windows-11/"><u>A Complete Guide to HDR on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/amplify-efficiency-strategies-for-effective-multitasking-with-windows-11/"><u>Amplify Efficiency: Strategies for Effective Multitasking with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-to-prevent-unauthorized-device-usage/"><u>Best Practices to Prevent Unauthorized Device Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-windows-productivity-the-ultimate-toolkit-of-5plus-apps/"><u>Boost Your Windows Productivity: The Ultimate Toolkit of 5+ Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-security-with-improved-graphics-on-windows-11/"><u>Boosting Security with Improved Graphics on Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oneplus-ace-2-phone-screen-by-drfone-android/"><u>How Can We Unlock Our OnePlus Ace 2 Phone Screen?</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-common-wow-network-issues-on-pc/"><u>Overcoming Common WoW Network Issues on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-ios-gaming-boosters-pick-four-for-perfection/"><u>The Ultimate List of iOS Gaming Boosters: Pick Four for Perfection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-sound-on-your-desktop-or-laptop/"><u>Troubleshooting Complete Loss of Sound on Your Desktop or Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/1719368088856-troubleshooting-stuck-chrome-on-win11-easy-methods-here/"><u>Troubleshooting Stuck Chrome on Win11 – Easy Methods Here!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-vacation-adventures-reimagined-this-years-top-classics-for-2024/"><u>[New] Vacation Adventures Reimagined This Year's Top Classics for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-the-economic-incentives-behind-youtubes-shorts-programme-for-2024/"><u>[Updated] Decoding the Economic Incentives Behind YouTube's Shorts Programme for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-to-successful-mov-file-recording-in-windows-10-for-2024/"><u>[Updated] Secrets to Successful MOV File Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-12-innovative-techniques-for-livestreaming-classes-without-spending/"><u>2024 Approved 12 Innovative Techniques for Livestreaming Classes Without Spending</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplifying-photos-through-acoustics-internet-based/"><u>2024 Approved Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://win11.techidaily.com/deconstructing-the-keygen-virus-symptoms-damage-and-how-to-eradicate-it-on-windows/"><u>Deconstructing the Keygen Virus: Symptoms, Damage, and How to Eradicate It on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-around-regedit-is-not-found/"><u>How to Get Around Regedit Is Not Found</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-preserve-your-custom-audio-settings-on-windows/"><u>How to Preserve Your Custom Audio Settings on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-archive-it-right-expert-strategies-for-capturing-digital-tunes/"><u>In 2024, Archive It Right Expert Strategies for Capturing Digital Tunes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-turning-tides-exploring-unique-methods-to-reverse-youtube-videos/"><u>In 2024, Turning Tides Exploring Unique Methods to Reverse YouTube Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/master-plan-restore-google-drive-sync-on-your-desktop/"><u>Master Plan: Restore Google Drive Sync on Your Desktop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pearsons-language-learning-online-hub/"><u>Pearson's Language Learning Online Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/screenshots-secure-stow-in-windows/"><u>Screenshots' Secure Stow in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-windows-virtualbox-efail-0x80004005-glitch/"><u>Steps to Fix Windows Virtualbox E_FAIL (0X80004005) Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-peak-performance-windows-11s-best-productivity-widgets/"><u>Unlocking Peak Performance: Windows 11'S Best Productivity Widgets</u></a></li>
 </ul></div>
 

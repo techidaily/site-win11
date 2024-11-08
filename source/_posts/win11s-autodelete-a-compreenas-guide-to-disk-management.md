@@ -1,7 +1,7 @@
 ---
 title: "Win11's Autodelete: A Compreenas Guide to Disk Management"
-date: 2024-10-26T21:44:22.235Z
-updated: 2024-11-01T20:49:37.268Z
+date: 2024-11-03T16:38:32.236Z
+updated: 2024-11-07T19:09:49.178Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
  If you want, you can always turn off the setting by simply disabling the **Storage Sense** button later on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Deleted Old Files or Folders With the Command Prompt
@@ -62,20 +62,14 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your files will be removed as quickly as soon as you hit the above commands.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -89,6 +83,14 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 4. Right-click on the recently created folder and select the **Create Task** option.  
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
@@ -105,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 ![new action tab on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-tab-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similarly, in the **Add arguments** box, type in the following command:
@@ -127,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
@@ -144,25 +139,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-ideal-tools-for-secure-vimeo-downloads/"><u>[New] 2024 Approved Ideal Tools for Secure Vimeo Downloads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-seamless-image-transfers-across-operating-systems/"><u>[New] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unleashing-potential-profile-video-elevation/"><u>[New] In 2024, Unleashing Potential Profile Video Elevation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-zero-to-hero-on-instagram-fame/"><u>[Updated] 2024 Approved From Zero to Hero on Instagram Fame</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-dawn-for-unadvertised-windows-start-menus/"><u>A New Dawn for Unadvertised Windows Start Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-dimension-of-cleanliness-windows-eraser-feature/"><u>A New Dimension of Cleanliness: Windows' Eraser Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-disconnectivity-of-nvidias-geforce-experience-on-windows-11/"><u>Addressing the Disconnectivity of Nvidia's GeForce Experience on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/administrative-evolution-reimagining-control-in-a-windows-world/"><u>Administrative Evolution: Reimagining Control in a Windows World</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-ryzen-5-2500u-latest-driver-update-fast-and-simple-installation/"><u>AMD Ryzen 5 2500U Latest Driver Update - Fast and Simple Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/are-windows-11-widgets-relevant-for-modern-desktops/"><u>Are Windows 11 Widgets Relevant for Modern Desktops?</u></a></li>
-<li><a href="https://win-tips.techidaily.com/step-by-step-guide-safely-transferring-your-vmware-virtual-machine-data-without-loss/"><u>Step-by-Step Guide: Safely Transferring Your VMware Virtual Machine Data Without Loss</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-recovering-forgotten-facebook-comments/"><u>The Ultimate Guide to Recovering Forgotten Facebook Comments</u></a></li>
-<li><a href="https://win11.techidaily.com/1719370462941-understanding-power-settings-save-charges/"><u>Understanding Power Settings - Save Charges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027910361-webm/"><u>WEBM動画のスムーズな鑑賞 - 最新のプレイヤーソフトウェア</u></a></li>
-<li><a href="https://win11.techidaily.com/1719281347770-winshift-fixes-guide-needed/"><u>WinShift Fixes Guide Needed!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -170,3 +146,25 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-innovative-approaches-to-android-video-capture-for-2024/"><u>[New] Innovative Approaches to Android Video Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comprehensive-guide-to-nvidia-screener-use/"><u>[Updated] In 2024, Comprehensive Guide to NVIDIA Screener Use</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/androids-prime-video-calls-top-10-cost-free-options-for-2024/"><u>Android's Prime Video Calls Top 10 Cost-Free Options for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/compreenhensive-guide-for-youtube-short-video-creators-for-2024/"><u>Compreenhensive Guide for YouTube Short Video Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-adapter-with-ease-overcoming-challenges-on-windows-10-platforms/"><u>Connect Your Microsoft Wireless Adapter with Ease: Overcoming Challenges on Windows 10 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/dazzling-display-holiday-themed-window-wonders/"><u>Dazzling Display: Holiday Themed Window Wonders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-fix-non-syncing-itunes-album-covers-on-your-iphone-and-ipod-complete-guide/"><u>How to Fix Non-Syncing iTunes Album Covers on Your iPhone and iPod: Complete Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>In 2024, Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connections-with-spotify/"><u>Mastering Windows 11 Connections with Spotify</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-essential-tips-for-new-windows-11-users-avoid-these-errors/"><u>Nine Essential Tips for New Windows 11 Users - Avoid These Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/subtle-system-tweaks-windows-toolbars-unseen/"><u>Subtle System Tweaks: Windows Toolbars Unseen</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728505200837-windows1011/"><u>Windows10/11で欠落したユーザーディレクトリを回復する効果的な手順</u></a></li>
+</ul></div>
+

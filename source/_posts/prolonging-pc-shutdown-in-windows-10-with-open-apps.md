@@ -1,7 +1,7 @@
 ---
 title: Prolonging PC Shutdown in Windows 10 With Open Apps
-date: 2024-10-25T19:43:42.862Z
-updated: 2024-11-01T17:22:22.130Z
+date: 2024-10-31T23:43:40.013Z
+updated: 2024-11-07T21:24:14.626Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Windows Wait Longer When Logging Off
@@ -51,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
@@ -70,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/b41dfc1747c954c2591d35270b4a20079e5707f86
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1B. How to Change WaitToKillAppTimeout for All Users
@@ -84,6 +90,13 @@ This will apply altered log-off rules to all users on the PC.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
 
@@ -106,13 +119,6 @@ This will allow you to change the default value for all users.
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Give Apps More Time to Close When Logging Off
 
  If apps keep interrupting Windows when you shut down or log off, it would be wise to give them a little more time to finish up and close properly. That way, they won’t interrupt the log-off process and have you intervene manually.
@@ -132,24 +138,15 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rafting-a-youtube-video-essential-writing-guide-for-2024/"><u>[New] Crafting a YouTube Video Essential Writing Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-retro-elements-reviving-classic-vhs-tricks/"><u>[New] Prime Retro Elements Reviving Classic VHS Tricks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-a-celebrity-online-presence-nine-strategies-for-social-media-success/"><u>[Updated] Crafting a Celebrity Online Presence Nine Strategies for Social Media Success</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[Updated] Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-universalstream-2024-live-and-local-together/"><u>[Updated] UniversalStream 2024 Live & Local, Together</u></a></li>
-<li><a href="https://discover-best.techidaily.com/abbyy-and-sigma-software-distribution-forge-a-wider-alliance-to-enhance-global-reach/"><u>ABBYY and Sigma Software Distribution Forge a Wider Alliance to Enhance Global Reach</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-fix-guide/"><u>Ease Upgrade Rejections: Adobe Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-conquering-windows-11-display-preferences/"><u>Expert Guide: Conquering Windows 11 Display Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-delete-key-not-working-on-windows/"><u>How to Fix the Delete Key Not Working on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-make-a-collage-on-iphone-handy-tips/"><u>How to Make a Collage on iPhone [Handy Tips]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>In 2024, Exclusive Offer 20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-integration-of-skype-meetings-into-zoom-platform/"><u>In 2024, Seamless Integration of Skype Meetings Into Zoom Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/introducing-top-4-windows-programs-for-webp-image-viewer/"><u>Introducing Top 4 Windows Programs for WebP Image Viewer</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-permissions-obstacles-for-os-installation/"><u>Overcoming Permissions Obstacles for OS Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-windows-11-default-search-options/"><u>Reinstating Windows 11 Default Search Options</u></a></li>
-<li><a href="https://win11.techidaily.com/the-illusion-of-choice-confronting-microphone-and-camera-shackles/"><u>The Illusion of Choice: Confronting Microphone and Camera Shackles</u></a></li>
-<li><a href="https://win11.techidaily.com/title-customize-icon-spacing-on-modern-and-classic-windows-oses/"><u>Title: Customize Icon Spacing on Modern & Classic Windows OSes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-android-photo-enhancers-for-2024/"><u>Top 5 Android Photo Enhancers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-cure-for-hyper-v-error-code-0x8009030e/"><u>Unlocking Windows: Cure for Hyper-V Error Code 0X8009030E</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-a-complete-removal-manual/"><u>Eliminating WSL: A Complete Removal Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-approach-to-seamless-unification-of-windows-partitions/"><u>Expert Approach to Seamless Unification of Windows Partitions</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-hot-30i-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigate-through-iphone-screen-saving-fast/"><u>In 2024, Navigate Through iPhone Screen Saving Fast</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-hardware-inspection-via-windows-panels/"><u>Optimizing Hardware Inspection via Windows Panels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/posting-vimeo-perfecting-your-instagram-content-for-2024/"><u>Posting Vimeo Perfecting Your Instagram Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-maintain-static-windows-11-screens/"><u>Strategies to Maintain Static Windows 11 Screens</u></a></li>
+<li><a href="https://article-tips.techidaily.com/visual-filmmaking-tools-environmentally-friendly-for-2024/"><u>Visual Filmmaking Tools Environmentally Friendly for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-f34-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy F34 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

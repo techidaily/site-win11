@@ -1,7 +1,7 @@
 ---
 title: How Crucial Is Pagefile.sys and Its Deletion Dilemran
-date: 2024-10-27T03:45:04.917Z
-updated: 2024-11-01T16:54:25.275Z
+date: 2024-11-06T22:32:29.851Z
+updated: 2024-11-07T20:46:30.924Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,10 @@ Here's what you need to know.
 5. In the warning that pops up, click**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
@@ -65,13 +65,26 @@ Here's what you need to know.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Delete Pagefile.sys?
@@ -83,19 +96,6 @@ Here's what you need to know.
  Also, you might notice some apps becoming slower or crashing as well. That’s because they have nowhere to put the data they need to operate properly since your computer’s RAM is full and there is no Pagefile.sys to pick up the slack.
 
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Delete Pagefile.sys
 
@@ -111,23 +111,16 @@ Here's what you need to know.
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
@@ -148,13 +141,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
 5. In the Virtual Memory window, make sure the**Automatically manage paging file size for all drives** checkbox at the top is checked.
 6. Click on**OK** to close the Virtual Memory window and apply the changes.
@@ -171,12 +157,28 @@ Now, to bring back Pagefile.sys, follow the steps below:
 3. Click on the**Advanced system settings** link to open the System Properties window. On Windows 11, you will find the link on the right panel, while, on Windows 10, it will be on the left side menu.  
 ![the About page of the System window in the Settings app on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-about-windows-11.jpg)
 4. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the Performance Options window, select the**Advanced** tab and click**Change** .
 6. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
 7. Click on the radio button for**Custom size** . Immediately, you’ll see that the two text boxes below it (**Initial size** and**Maximum size**) are no longer grayed out.
 8. Enter the appropriate page file sizes in megabytes (MB) in both text boxes and then click**Set** .  
 ![the virtual memory dialog box on windows with the custom page file size set to 4096](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/virtual-memory-custom-size.jpg)
 9. Click**OK** to close the Virtual Memory window and apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Restart your Windows computer for the changes to take effect.
 
 ## Pagefile.sys, Demystified
@@ -200,19 +202,22 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ioneer-productions-leading-free-editors-on-android/"><u>[New] Pioneer Productions Leading Free Editors on Android</u></a></li>
-<li><a href="https://win11.techidaily.com/5-peak-auto-clickers-hotkeys-plus-high-performance/"><u>5 Peak Auto Clickers: Hotkeys + High Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/a-twelve-days-of-windows-11-christmas-guide/"><u>A Twelve Days of Windows 11 Christmas Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-verified-app-alerts-for-windows-users/"><u>Addressing Non-Verified App Alerts for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-windows-11-shutdown-time-for-ongoing-tasks/"><u>Adjusting Windows 11 Shutdown Time for Ongoing Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-window-settings-unseen-toolbar-configurations/"><u>Advanced Window Settings: Unseen Toolbar Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-your-excel-pace-on-a-windows-system/"><u>Boosting Your Excel Pace on a Windows System</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-viewing-experience-maximizing-utilization-of-picture-in-picture-on-netflix/"><u>Enhance Viewing Experience Maximizing Utilization of Picture-in-Picture on Netflix</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-steps-to-repair-non-functional-voice-chat-features-in-valorant/"><u>Essential Steps to Repair Non-Functional Voice Chat Features in Valorant</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hacking-htc-vive-for-a-nausea-free-session/"><u>Hacking HTC Vive for a Nausea-Free Session</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-change-the-time-setting-on-an-amazon-kindle-paperwhite-simplified/"><u>How To: Change The Time Setting On An Amazon Kindle Paperwhite Simplified</u></a></li>
-<li><a href="https://fox-links.techidaily.com/significant-strategies-for-modifying-playback-speed-on-spotify-for-2024/"><u>Significant Strategies for Modifying Playback Speed on Spotify for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-10-techniques-for-youtube-to-mp4-conversion/"><u>Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-find-x7-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Find X7 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transition-tactics-your-youtube-videos-on-instagram-for-2024/"><u>[Updated] Transition Tactics Your YouTube Videos on Instagram for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-honor-play-8t-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Honor Play 8T.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-ultimate-selection-of-12-free-anime-plug-ins-for-enhanced-viewing-on-kodi-versions-20-and-19/"><u>Discover the Ultimate Selection of 12 FREE Anime Plug-Ins for Enhanced Viewing on Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-chosen-vertical-mouse-options-for-enhanced-productivity/"><u>Expertly Chosen Vertical Mouse Options for Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-your-touch-keys-initial-setup-in-win-11/"><u>How to Reset Your Touch Keys' Initial Setup in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-googles-nearby-share-to-share-files-between-android-and-windows/"><u>How to Use Google's Nearby Share to Share Files Between Android and Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-master-the-art-of-swift-srt-to-text-transformation/"><u>In 2024, Master the Art of Swift SRT to Text Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/live-streaming-mac-all-at-no-charge/"><u>Live Streaming Mac, All at No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-command-line-for-wordpad-activation/"><u>Mastering Command Line for WordPad Activation</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-screen-size-in-windows-with-this-fix-guide/"><u>Mastering Screen Size in Windows, With This Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/minimize-intruding-windows-tips-and-tricks-alerts/"><u>Minimize Intruding Windows Tips and Tricks Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-username-changes-in-windows-11/"><u>Navigating UserName Changes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-ms-edge-steps-for-w11-os/"><u>Removing MS Edge: Steps for W11 OS</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-top-rated-photo-restoration-experts-insights-into-benefits-and-limitations/"><u>The Ultimate List of Top-Rated Photo Restoration Experts - Insights Into Benefits and Limitations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-11-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme 11 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-macx-dvd-ripper-proshow/"><u>マックでDVDをリッパして変更する - MacX DVD Ripper Pro：ダウンロードから始めまSHOW！</u></a></li>
 </ul></div>
 

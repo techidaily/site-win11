@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Error Code 0X80072f8f - 0X20000 on Windows
-date: 2024-10-29T21:44:21.077Z
-updated: 2024-11-01T21:03:25.555Z
+date: 2024-11-04T19:50:33.104Z
+updated: 2024-11-07T20:05:17.233Z
 tags:
   - windows10
   - windows11
@@ -66,19 +66,28 @@ When you have created a backup, follow these steps.
 4. Right-click in an empty area in the right pane and select**New** \>**DWORD (32-bit) Value** from the context menu.  
 ![New DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/auto-update-new-dword.jpg)
 5. Name this value as**AllowOSUpgrade** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![AllowOSUpgrade value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade.jpg)
 6. Double-click on**AllowOSUpgrade** and type**1** under Value data.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade-value-data.jpg)
 7. Hit**OK** and close the Registry Editor.
 
  You can now restart your PC and upon reboot, check if the Media Creation Tool works fine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete the Content of the Software Distribution Folder
 
@@ -92,26 +101,33 @@ When you have created a backup, follow these steps.
 2. Select all the contents of the Download folder and right-click on them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on the**bin icon** in the context menu to delete them.  
 ![Delete icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/delete-download.jpg)
 4. Once you delete the files, type**cmd** in the search area of the taskbar and select**Run as administrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type the following command in the Command Prompt window and hit**Enter** .  
 `wuauclt.exe /updatenow`  
 ![wuauclt.exe command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/wuauclt-exe-updatenow.jpg)
 6. Then, restart your PC and try launching Media Creation Tool again.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable Relevant Services
 
@@ -136,40 +152,13 @@ When you have created a backup, follow these steps.
 4. ![Windows update service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/services-windows-update-properties.jpg)
 5. In the Properties dialog, change the Startup type to**Automatic** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Startup type as automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/startup-type-automatic.jpg)
 6. If the service is stopped, click on the**Start button** and select**Apply** \>**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/start-service-status.jpg)
 7. Repeat the same steps for the rest of the above-mentioned services.
 
  Once done, check if you can run the Media Creation Tool without any issues now.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Perform a Clean Boot
 
@@ -183,28 +172,49 @@ Here is how you can perform a clean boot in Windows:
 ![Hide all Microsoft services option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/msconfig-hide-all-msservices.jpg)
 4. Click on the**Disable all button** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now, navigate to the**Startup** tab and click on**Open Task Manager** .  
 ![Open the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-open-task-manager.jpg)
 6. In the Startup tab, right-click on all the items and choose**Disable** .  
 ![Click on the Disable button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-program.jpg)
 7. Once done, close the Task Manager and go back to the System Configuration window.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Apply** \>**OK** to save the changes.
 9. Finally, restart your computer.
 
  If the error code 0x80072f8f - 0x20000 is not present after a clean boot, it suggests that the issue was caused by a software or driver conflict. If this situation is applicable, you can either manually remove the recently installed software that you think might be leading to the issue, or[perform a system restore](https://www.makeuseof.com/tag/windows-system-restore-works/) to return to an older functioning state of the system.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Your Antivirus
 
  If you are using a third-party antivirus in Windows, there is a chance that it is blocking the process of Media Creation Tool because of a false alarm. To check if this is the case, you can disable or uninstall your antivirus and then run the Media Creation Tool.
 
  If the antivirus program is the culprit, then we recommend switching to another similar service for better performance.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Media Creation Tool Error, Now Resolved
 
@@ -225,19 +235,18 @@ Here is how you can perform a clean boot in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-with-smart-end-screen-techniques/"><u>[Updated] In 2024, Elevate Your Video with Smart End Screen Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-streamlining-pc-video-cuts-with-inshot/"><u>[Updated] Streamlining PC Video Cuts with Inshot</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-elevate-your-content-the-essential-video-tutorial-for-youtube-photos/"><u>2024 Approved Elevate Your Content The Essential Video Tutorial for YouTube Photos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-tips-for-using-switch-pro-controller-with-steam/"><u>2024 Approved Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-is-mark-zuckerbergs-analysis-spot-on-zdnet-tech-insights/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Is Mark Zuckerberg's Analysis Spot-On? | ZDNet Tech Insights</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/guide-faciles-and-complet-conversion-de-dvd-en-fichiers-video-digitales-pour-windows-10-et-mac-utilisateurs/"><u>Guide Faciles & Complet : Conversion De DVD en Fichiers Vidéo Digitales Pour Windows 10 Et MAC Utilisateurs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-display-hiccup-error-code-x0001-geforce/"><u>Overcoming Display Hiccup: Error Code X0001, GeForce</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-disconnect-restarting-your-hotspot-in-windows-11/"><u>Overcoming the Disconnect: Restarting Your Hotspot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/skip-the-haste-disabling-early-edge-tab-activation-in-win11/"><u>Skip the Haste: Disabling Early Edge Tab Activation in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-zooming-start-scrolling-essential-mouse-repairs/"><u>Stop Zooming, Start Scrolling: Essential Mouse Repairs</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategic-timing-for-an-enhanced-fb-imagery/"><u>Strategic Timing for an Enhanced Fb Imagery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-tutorial-on-easy-driver-updates-for-the-microsoft-sculpt-keyboard/"><u>The Ultimate Tutorial on Easy Driver Updates for the Microsoft Sculpt Keyboard</u></a></li>
-<li><a href="https://win11.techidaily.com/top-windows-11-themes-missed-by-many/"><u>Top Windows 11 Themes Missed by Many</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-picks-of-premium-timelapse-capture-software/"><u>[New] 2024 Approved Expert Picks of Premium Timelapse Capture Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foodie-fables-enthralling-channel-names-for-epicureans-for-2024/"><u>[New] Foodie Fables Enthralling Channel Names for Epicureans for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ust-watch-asmr-video-gems-online-for-2024/"><u>[New] Must-Watch ASMR Video Gems Online for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ptimize-video-search-with-these-top-7-youtube-tags-extractor-tools-for-2024/"><u>[New] Optimize Video Search with These Top 7 Youtube Tags Extractor Tools for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728465565102-windows-11/"><u>三种方式清理Windows 11的外接硬盘：一个完备指南</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficiently-harnessing-gpt-3-in-your-python-projects-step-by-step-tutorial/"><u>Efficiently Harnessing GPT-3 in Your Python Projects: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cure-inactive-usb-ports-and-devices-in-microsoft-os/"><u>How to Cure Inactive USB Ports & Devices in Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-typing-quick-fixes-to-reduce-lag-in-win-1011/"><u>Jumpstart Your Typing: Quick Fixes to Reduce Lag in WIN 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-semaphore-expired-error-on-windows-1011/"><u>Overcoming 'Semaphore Expired Error' On Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-system-idleness-altering-boot-timeout-in-win11/"><u>Reducing System Idleness: Altering Boot Timeout in Win11</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/resolving-the-issue-when-your-files-wont-sync-with-amazon-cloud-drive-top-3-fixes/"><u>Resolving the Issue: When Your Files Won't Sync with Amazon Cloud Drive - Top 3 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-alleviating-usb-shortage-on-pcs/"><u>Strategies for Alleviating USB Shortage on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-code-word-prefixes-for-software-execution/"><u>Unlocking Code Word Prefixes for Software Execution</u></a></li>
 </ul></div>
 

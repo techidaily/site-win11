@@ -1,7 +1,7 @@
 ---
 title: Enhancing Grandparents' Window PCs with Age in Mind
-date: 2024-10-27T02:00:32.523Z
-updated: 2024-11-01T18:03:28.052Z
+date: 2024-11-06T21:47:58.243Z
+updated: 2024-11-07T19:07:53.710Z
 tags:
   - windows10
   - windows11
@@ -39,35 +39,35 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  You can also [enable the Narrator function on Windows](https://www.makeuseof.com/windows-11-start-narrator/) so that your grandparents will receive an audio description of what is currently onscreen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create Desktop Shortcuts for Your Grandparents' Preferred Programs
 
  This is a simple but important step. To make your grandparents' computer accessible for their specific needs, it’s a good idea to make sure the programs they use are easy to find. Therefore, add shortcuts to the desktop for just the programs they will use.
 
  Removing any unwanted or unused desktop shortcuts will also reduce any confusion or your grandparents opening unwanted or unfamiliar programs by accident.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename Programs and Apps With an Accurate Description
 
 ![Make your grandparents PC accessible with large desktop items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/make-your-grandparents-pc-accessible-with-large-desktop-items.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There’s a high chance that your grandparents won’t associate “Chrome” with the internet, “Outlook” with their email service provider, or find it easy to differentiate between each visual icon. Brand names and icon designs of various programs will seem nonsensical to your elderly relatives, so it’s best to rename desktop icons to something more descriptive that they will understand.
 
  You could either decide on new simple labels yourself (for example, change “Google Chrome” to “Internet Browser”.) Alternatively, ask your grandparents what they call each program and rename each shortcut icon as per your relative’s preference.
 
  To change the name of program shortcuts, simply right-click each icon and either click **Rename** or press **F2** to enter a personalized label.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set Up Email Filters to Avoid Message Overloads
 
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Once inbox rules are set in Outlook, all new emails will be redirected to your chosen folder. This should declutter your grandparents' inbox and make it less confusing for them to access.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Remote Desktop
 
  Even with all your efforts to make your grandparents' computer as accessible as possible, it’s likely they’ll still run into difficulties. While they may attempt to explain to you what they see on their screen over the phone, enabling remote desktop access can make the fixing process much easier when you’re not around.
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  An easy way to do this is to write up some basic instructions in their preferred document program (such as Word, Google Docs, or Notes if their PC is really old school!) and add a shortcut to the desktop. That way your grandparents will be able to preserve their sense of independence by troubleshooting and fixing their problems without your help.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Uninstall All Bloatware and Unnecessary Programs
 
 ![Remove bloatware from your grandparent's PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/remove-bloatware-from-your-grandparent-s-pc.jpg)
@@ -115,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Luckily, you can [easily remove bloatware from Windows](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) and other computers. Simply navigate to **Settings > Apps >** **Installed apps** to identify and uninstall any unwanted programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Disable Automatic Updates
 
  While computer updates can be important when new versions are released, automatic updates can confuse, disrupt, or even worry senior family members. If they’re using an ancient piece of hardware or if their computer use is very basic, automatic updates might not even be necessary for them to use their PC for their intended purposes.
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
  Instead, disable automatic updates by navigating to **Settings > System > Windows Update > Pause for one week** to temporarily disable automatic updates. Select the drop-down arrow to change this to **Pause for 5 weeks** to pause automatic updates for longer.
 
  Make sure you manually check available updates and implement any appropriate changes when necessary when you visit your grandparents.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Create Templates for Letters
 
@@ -144,26 +144,6 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
  Here are ways you can make your older relatives' computer more accessible to boost their sense of independence.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-virtual-reality-bike-adventures/"><u>[New] Explore Top Virtual Reality Bike Adventures</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-inside-look-at-whatsapps-voice-communication-design/"><u>[New] In 2024, Inside Look at WhatsApp's Voice Communication Design</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-an-engaging-fb-slideshow-experience/"><u>[Updated] Crafting an Engaging FB Slideshow Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-recover-an-off-screen-window-in-windows-11-and-11/"><u>6 Ways to Recover an Off-Screen Window in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-layer-of-simplicity-in-windows-photos-app-deletion/"><u>A New Layer of Simplicity in Windows Photos App Deletion</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-for-winning-website-conversion/"><u>A Step-by-Step for Winning Website Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-and-personalize-your-pcs-audio-with-windows-11-mixer/"><u>Activate and Personalize Your PC's Audio with Windows 11 Mixer</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-screen-driver-crash-in-windows-11/"><u>Addressing Screen Driver Crash in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boltgun-performance-tips-to-resolve-on-pc-interruptions/"><u>Boltgun Performance Tips to Resolve On-PC Interruptions</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-the-functions-of-winservicesexe/"><u>Breaking Down the Functions of Winservices.exe</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-xbox-360-slim-console-a-step-by-step-guide/"><u>Decoding the Xbox 360 Slim Console - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
-<li><a href="https://facebook.techidaily.com/stepping-back-breaking-ties-on-facebook/"><u>Stepping Back: Breaking Ties on Facebook</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/transforma-tus-audios-wma-en-versiones-de-alta-calidad-en-formato-wav-usando-la-herramienta-movavi-completamente-gratis/"><u>Transforma Tus Audios WMA en Versiones De Alta Calidad en Formato WAV Usando La Herramienta Movavi, Completamente Gratis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-7-digital-tools-for-seamless-audio-cutting-and-editing-for-2024/"><u>Updated Top 7 Digital Tools for Seamless Audio Cutting and Editing for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +151,24 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-boosting-engagement-techniques-for-snap-camera-on-teams/"><u>[New] Boosting Engagement Techniques for Snap Camera on Teams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-express-yourself-smartly-kapwings-meme-crafting/"><u>[New] In 2024, Express Yourself Smartly Kapwing's Meme Crafting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-creativity-top-10-yt-reaction-hacks/"><u>[New] In 2024, Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-into-profitability-on-youtube-beginners-guide/"><u>[Updated] 2024 Approved Step Into Profitability on YouTube - Beginner's Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-professional-iphone-cinematography-nine-crucial-tips-to-perfect-videos/"><u>2024 Approved Professional iPhone Cinematography Nine Crucial Tips to Perfect Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-most-effective-off-grid-linguistic-apps-ranked/"><u>Explore the Most Effective Off-Grid Linguistic Apps, Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/fasten-the-toggling-of-microsofts-taskbar-integrated-chat/"><u>Fasten the Toggling of Microsoft’s Taskbar-Integrated Chat</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failed-file-creation-on-win11s-camera-app/"><u>Fixing Failed File Creation on Win11's Camera App</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-a56s-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo A56s 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-potential-through-processor-options/"><u>Maximizing PC Potential Through Processor Options</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-11-notes-for-universal-accessibility/"><u>Optimize Windows 11 Notes for Universal Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-usage-chatgpt-alerts-on-pc/"><u>Overcoming High Usage ChatGPT Alerts on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/shattered-scenery-9-ways-to-restore-win11-screen-snapshots/"><u>Shattered Scenery? 9 Ways to Restore Win11 Screen Snapshots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-cradle-nurturing-market-gains-for-2024/"><u>Strategy Cradle Nurturing Market Gains for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-addressing-launch-failed-lunar-client-issues/"><u>Techniques for Addressing “Launch Failed Lunar Client” Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-definitive-window-by-window-walkthrough-of-hdr-in-windows-11/"><u>The Definitive Window-by-Window Walkthrough of HDR in Windows 11</u></a></li>
+</ul></div>
+

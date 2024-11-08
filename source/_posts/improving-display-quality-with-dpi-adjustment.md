@@ -1,7 +1,7 @@
 ---
 title: Improving Display Quality with DPI Adjustment
-date: 2024-10-29T00:35:28.472Z
-updated: 2024-11-01T19:15:25.808Z
+date: 2024-11-03T23:36:27.223Z
+updated: 2024-11-07T20:28:58.342Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -41,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 6. Select the one that best fits your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Display DPI Scaling Using the Registry Editor
@@ -76,10 +76,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 | Value data | DPI scale                  |  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | ---------- | -------------------------- |  
@@ -95,16 +95,23 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Scale the Display DPI on Windows
 
@@ -125,18 +132,22 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[New] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tips-for-filming-without-the-hindrance-of-sounds/"><u>[New] 2024 Approved Tips for Filming Without the Hindrance of Sounds</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-potential-in-depth-skype-call-recordings-for-2024/"><u>[New] Unlocking the Potential In-Depth Skype Call Recordings for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-audience-accumulation-expedition-tutorials-1mplus-milestone-for-2024/"><u>[Updated] Audience Accumulation Expedition Tutorial's 1M+ Milestone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-wintoys-an-overview-of-a-commanding-windows-tool/"><u>Decoding 'WinToys' : An Overview of a Commanding Windows Tool</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs-for-2024/"><u>How to Capture and Share Your Favorite Pics on Social Platforms with OBS for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Pro Unavailable Issue With Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/indulge-in-the-best-pc-experience-with-microsofts-picks/"><u>Indulge in the Best PC Experience with Microsoft's Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/lockdown-strategies-for-insider-content/"><u>Lockdown Strategies for Insider Content</u></a></li>
-<li><a href="https://article-tips.techidaily.com/navigate-motion-sickness-in-virtual-reality-with-ease/"><u>Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-corrupted-files-with-a-faulty-bin-on-windows-11/"><u>Rectifying Corrupted Files with a Faulty Bin on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-windows-voicemail-capture/"><u>Step-by-Step Guide to Windows Voicemail Capture</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-c300-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on C300 without backup.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exclusive-selection-of-fastest-screen-capture-apps-for-2024/"><u>[New] Exclusive Selection of Fastest Screen Capture Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-integrating-tracks-into-video-production-in-premiere-pro-for-2024/"><u>[New] Integrating Tracks Into Video Production in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed-for-2024/"><u>[Updated] Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-inspect-and-purging-windows-10-activities/"><u>Comprehensive Guide to Inspect & Purging Windows 10 Activities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12-4g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 12 4G has native HEVC support?</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/hibernation-vs-standby-windows-comparisons/"><u>Hibernation Vs. Standby: Windows Comparisons</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-purify-windows-ram-cache-quickly/"><u>How to Purify Windows' RAM Cache Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-train-your-dragon-movies-in-order/"><u>How to Train Your Dragon Movies in Order</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-for-free-video-translator-downloading/"><u>New A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1728497459717-ntfs/"><u>NTFS刻面修复指南-如何找回无意删除的分区部分</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-group-policy-settings-on-individual-windows-accounts/"><u>Personalizing Group Policy Settings on Individual Windows Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-audacitys-error-when-opening-sounds-on-win11/"><u>Remedying Audacity's Error When Opening Sounds on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-windows-best-free-software-download-picks/"><u>Safe Windows: Best Free Software Download Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-chromes-block-webp-format-for-saved-pics-windows-based/"><u>Switching Chromes: Block WebP Format for Saved Pics, Windows-Based</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-shoppers-list-the-finest-cable-modemrouter-sets/"><u>Ultimate Shopper's List: The Finest Cable Modem/Router Sets</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-digital-files-onedrive-fixes-for-windows/"><u>Unlocking Your Digital Files: OneDrive Fixes for Windows</u></a></li>
 </ul></div>
 

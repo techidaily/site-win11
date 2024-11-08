@@ -1,7 +1,7 @@
 ---
 title: Streamlining Subnet Masks on Win11
-date: 2024-10-30T00:17:30.871Z
-updated: 2024-11-02T03:11:49.964Z
+date: 2024-11-06T21:09:39.054Z
+updated: 2024-11-07T22:01:05.071Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
  The settings menu is the central hub of a Windows operating system. It's a place to configure different settings of your computer and manage the network. You can also use it to change the subnet mask.
@@ -58,20 +71,6 @@ Here's how to do it:
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Change the Subnet Mask Using the Control Panel
 
  The Control Panel is the go-to place to configure window settings and make changes to your device. To use it to change the subnet mask, follow the below instructions:
@@ -84,10 +83,16 @@ Here's how to do it:
 5. Choose**Properties** from the window that appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
@@ -95,16 +100,10 @@ Here's how to do it:
 7. Select the**Use the following address** option and enter the details.  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
@@ -124,6 +123,13 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -146,21 +152,18 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-alternative-secrets-to-sharing-files-efficiently/"><u>[New] 2024 Approved Alternative Secrets to Sharing Files Efficiently</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>[New] Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-visual-brand-integration-embedding-watermarks-and-logos-into-youtube-media/"><u>[Updated] In 2024, Visual Brand Integration Embedding Watermarks and Logos Into Youtube Media</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 and iPad Securely</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-generations-old-games-to-your-my-pictures-on-w11/"><u>Bridging Generations: Old Games to Your My Pictures on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-to-recovered-network-access/"><u>Bridging the Gap to Recovered Network Access</u></a></li>
-<li><a href="https://win11.techidaily.com/bsod-fix-tips-counteracting-issues-with-vmware-on-windows-11/"><u>BSOD Fix Tips: Counteracting Issues with VMware on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-11-alerts-fast-track/"><u>Bypassing Windows 11 Alerts Fast-Track</u></a></li>
-<li><a href="https://win11.techidaily.com/chrome-stuck-unlock-windows-11s-quick-fixes-now/"><u>Chrome Stuck? Unlock Windows 11'S Quick Fixes Now</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-outdated-files-with-confidence-using-windows-1011s-feature/"><u>Clear Outdated Files with Confidence Using Windows 10/11'S Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-screen-glitches-via-windows-11-driver-reset/"><u>Clear Screen Glitches via Windows 11 Driver Reset</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c210-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C210 Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-your-samsung-galaxy-watch-wont-accept-calls/"><u>Troubleshooting: What to Do When Your Samsung Galaxy Watch Won't Accept Calls</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-now-just-800-on-amazon-before-official-sales-events/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Now Just $800 on Amazon Before Official Sales Events</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-popular-themes-in-youtube-commentary/"><u>[New] Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>[New] Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-review-the-full-package-of-the-logitech-4k-webcam/"><u>[Updated] In 2024, Review The Full Package of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>2024 Approved Perfectly Shot Episodes Top Webcams for Podcast Producers</u></a></li>
+<li><a href="https://win11.techidaily.com/command-shortcut-companion-for-windows-users/"><u>Command Shortcut Companion for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-navigating-x-10-beginners-tips-to-boost-your-presence/"><u>Efficiently Navigating X: 10 Beginners' Tips to Boost Your Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-system-notifications-via-explorers-menu/"><u>Facilitating System Notifications via Explorer's Menu</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-meizu-21-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Meizu 21 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-syntpsys-bsod-error-on-your-windows-pc-a-step-by-step-guide/"><u>Solving the SYNTP.SYS BSOD Error on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-everlasting-file-erasure-with-windows-desktop-trash-setup/"><u>Unlock the Power of Everlasting File Erasure with Window's Desktop Trash Setup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/web2/"><u>Webブラウザにおける動画再生速度調整法：プレーヤー設定とキャッシュ管理を用いたテクニック2つ</u></a></li>
+<li><a href="https://win11.techidaily.com/your-smart-lock-at-risk-windows-hellos-latest-security-threat/"><u>Your Smart Lock at Risk? Windows Hello's Latest Security Threat</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Pagefile.sys Role in RAM Recycling & Cleanup
-date: 2024-10-31T18:05:08.769Z
-updated: 2024-11-01T16:01:52.790Z
+date: 2024-11-06T23:07:22.519Z
+updated: 2024-11-08T00:04:47.890Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ Here's what you need to know.
  Reading an app’s program files from Pagefile.sys is slower than reading them from RAM. The process is even slower when you're using a hard disk drive (HDD)[instead of a solid-state drive (SDD)](https://www.makeuseof.com/choose-ssd-or-hdd-storage/) . However, It’s faster than closing the app and then relaunching it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check the Size of Pagefile.sys
@@ -64,27 +64,7 @@ Here's what you need to know.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Delete Pagefile.sys?
 
@@ -95,6 +75,19 @@ Here's what you need to know.
  Also, you might notice some apps becoming slower or crashing as well. That’s because they have nowhere to put the data they need to operate properly since your computer’s RAM is full and there is no Pagefile.sys to pick up the slack.
 
  So unless your physical memory needs aren’t greater than your installed RAM’s capacity, we recommend leaving Pagefile.sys alone.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Delete Pagefile.sys
 
@@ -108,28 +101,36 @@ Here's what you need to know.
 2. Type**sysdm.cpl** in the search box and hit the**Enter** key to open the System Properties window.  
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
 7. You’ll get a warning from Windows. Click**Yes** to bypass it.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
 9. Restart your Windows computer for the changes to take effect.
@@ -137,10 +138,10 @@ Here's what you need to know.
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restore Pagefile.sys
@@ -159,6 +160,13 @@ Now, to bring back Pagefile.sys, follow the steps below:
 7. Restart your Windows computer for the changes to take effect.
 
  Once your computer boots up, and you go to the folder where Pagefile.sys is located, you will see that the file has returned, along with Swapfile.sys.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Resize Pagefile.sys
 
@@ -198,24 +206,20 @@ Now, to bring back Pagefile.sys, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-professional-insight-into-accurate-and-clear-vr-recording/"><u>[New] 2024 Approved Professional Insight Into Accurate and Clear VR Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-time-keeper-learning-to-rewind/"><u>[New] The Instagram Time Keeper Learning to Rewind</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-path-to-pure-audio-pazera-free-tool-review/"><u>[New] The Path to Pure Audio Pazera Free Tool Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-behind-the-scenes-expert-techniques-for-video-magic/"><u>[Updated] 2024 Approved Behind the Scenes Expert Techniques for Video Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-fixing-the-windows-update-file-absence-issue-error-0x80070003/"><u>Decoding and Fixing the Windows Update File Absence Issue (Error 0X80070003)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2016-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2016 Fix 2024 | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-manage-virtual-machines-tpm-and-secure-boot-on-vbox-70/"><u>How to Manage Virtual Machine's TPM and Secure Boot on VBox 7.0</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel P55 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-p40-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel P40?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-by-tom-your-guide-to-cutting-edge-hardware-solutions/"><u>In-Depth Reviews by Tom: Your Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-intrusive-minimize-feature/"><u>Overcoming Windows' Intrusive Minimize Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-printing-service-on-pc-post-error-alert-in-windows/"><u>Restoring Printing Service on PC, Post Error Alert in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-security-4-efficient-actions-to-banish-users-from-win11-systems/"><u>Simplified Security: 4 Efficient Actions to Banish Users From Win11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/sound-superchargers-select-tools-that-elevate-pc-volume-past-100-limit/"><u>Sound Superchargers: Select Tools That Elevate PC Volume Past 100% Limit</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-launching-sticky-notes-in-win11/"><u>Step-by-Step: Launching Sticky Notes in Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-premier-livestream-services-unveiled/"><u>Top 10 Premier Livestream Services Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-email-alerts-in-windows/"><u>Troubleshooting Non-Responsive Email Alerts in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-dxvks-role-in-linuxwindows-gameplay/"><u>Understanding DXVK's Role in Linux/Windows Gameplay</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transforming-audiencier-names-with-top-ai-tools/"><u>[New] 2024 Approved Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-spotlight-on-stories-crafting-three-effective-highlights/"><u>[New] Spotlight on Stories Crafting Three Effective Highlights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-record-yourself-on-webcam-via-vlc-media/"><u>[Updated] 2024 Approved Record Yourself on Webcam via VLC Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-diy-dynamics-unlock-creative-animation-potential-for-2024/"><u>[Updated] DIY Dynamics Unlock Creative Animation Potential for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-guide-to-xbox-screen-recording-techniques/"><u>[Updated] Essential Guide to Xbox Screen Recording Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-higher-views-on-instagram-videos/"><u>[Updated] In 2024, Unlocking Higher Views on Instagram Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphers-overcoming-the-common-steam-error-in-games-on-win-11/"><u>Deciphers: Overcoming the Common Steam Error in Games on Win 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-color-adobes-best-lut-recommendations-for-lightroom-users/"><u>In 2024, Mastering Color Adobe's Best LUT Recommendations for LightRoom Users</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-windows-care-self-updates-plus-gpu-switching-routine/"><u>Proactive Windows Care: Self-Updates + GPU Switching Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/procedures-to-thwart-insider-build-leaks/"><u>Procedures to Thwart Insider Build Leaks</u></a></li>
+<li><a href="https://win11.techidaily.com/resuming-printer-services-a-windows-guide/"><u>Resuming Printer Services: A Windows Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steady-precision-how-to-stop-mouse-speed-scaling-in-windows/"><u>Steady Precision: How to Stop Mouse Speed Scaling in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-lost-wi-fi-win-ethernet-woes/"><u>Troubleshooting Lost Wi-Fi: Win Ethernet Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-why-are-windows-folders-flagged-with-an-x/"><u>Unraveling: Why Are Windows Folders Flagged with an X?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shift Your Profile’s Label: Windows 11 Edition"
-date: 2024-10-30T19:14:20.551Z
-updated: 2024-11-01T21:43:34.431Z
+date: 2024-11-06T16:47:54.594Z
+updated: 2024-11-07T19:42:59.117Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
 
  Windows, by default, will use the first five characters of your user account name as the profile folder name. If you don’t like the user profile folder name, you can change it using a registry hack. Here, we show you how to change the name of the user profile folder in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But First, Some Potential Issues That May Arise From These Steps
 
  While the registry hack should help you successfully change your user account folder name, it can lead to some complications. For example, some of your Microsoft Store apps, including OneDrive and Outlook, can stop working.
@@ -59,14 +52,22 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
 3. Click on **Family & other users** in the right pane.  
 ![Windows 11 add user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Windows-11-add-user-account.png)
 4. Click **Other users.** This option is useful to create a local user account without a Microsoft Account.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add other user account in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-other-user-account-windows-11.png)
 5. Next, click on **I don’t have this person’s sign-in information.**  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Creating a local user account without a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-local-user-account-without-Microsoft-account.png)
@@ -94,26 +95,20 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
 ![User accounts properties.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-accounts-properties.jpg)
 5. In the **User Properties** dialog, you’ll see your **User name** and **Full name.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Type a name for your user name, click **OK** and **Apply**.  
 ![user account user name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/user-acount-user-name.jpg)
 2. Close the **User Account** dialog and perform a restart.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, open the Command Prompt. To do this, press **Win + R,** type **cmd,** and click **OK**.  
 ![SID command prompt user account.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/SID-command-prompt-user-account.png)
 4. In the Command Prompt window, type the following command to view **SID (Security Identifier)** for all user accounts:  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `wmic useraccount get name,SID`
 5. Here, note the **SID** for the user account you want to change the user profile folder name. In this case, the **SID** for the username **tashr** is **S-1-5-21-200486166-247335145-1769094253-1001.**
@@ -127,6 +122,14 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
 4. In the right pane, right-click on **ProfileImagePath** value and select **Modify**.  
 ![Modify profile image path in the registry editor.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/modify-profile-image-path-registry-editor.png)
 5. Enter a name you want for the profile folder and click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![add new name profile image path registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/add-new-name-profile-image-path-registry-editor.png)
 6. Close the Registry Editor and Command Prompt window if open.
 7. Next, press **Win + E** to open File Explorer and navigate to **C:\\Users\\.**  
@@ -139,32 +142,15 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
  Next, log out from your current account and sign in to the user account with the new user folder name. Open File Explorer and navigate to **C:\\Users\\**, and you should be able to use the previous profile with the new pathname.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Renaming the Default User Profile Folder in Windows 11, Made Easy
 
  While you can rename the user account in Windows 11 using the Control Panel, doing so will not change the user profile folder name. You need to modify the ProfileImagePath value in the Registry Editor with a different administrator account. Once done, you can remove the new administrator user account to declutter your login screen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-1k-fans-on-yt-your-strategic-playbook-for-success/"><u>[New] 2024 Approved 1K Fans on YT Your Strategic Playbook for Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-grassroots-video-marketing-strategies/"><u>[Updated] 2024 Approved Grassroots Video Marketing Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-view-the-applied-group-policies-on-windows/"><u>3 Ways to View the Applied Group Policies on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-scams-to-watch-out-for/"><u>5 ChatGPT Scams to Watch Out For</u></a></li>
-<li><a href="https://win11.techidaily.com/7-pivotal-points-for-reconnecting-your-obs-studio-link-win-compatible/"><u>7 Pivotal Points for Reconnecting Your OBS Studio Link (Win-Compatible)</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-operational-nvidia-cp-in-w11-environments/"><u>Addressing Non-Operational NVidia CP in W11 Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-overuse-steps-for-efficient-wlanextexe/"><u>Avoiding Overuse: Steps for Efficient Wlanext.exe</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-pagewide-pro-477dw-printer-drivers-for-windows-11-8-and-10-secure-downloads-here/"><u>Get Your HP PageWide PRO 477DW Printer Drivers for Windows 11, 8 & 10 - Secure Downloads Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/movavis-no-cost-audio-transformation-tool-convert-your-aac-files-to-high-quality-aiff-audio-streamingly/"><u>Movavi's No-Cost Audio Transformation Tool - Convert Your AAC Files to High-Quality AIFF Audio Streamingly!</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-offline-bliss-ideal-phone-games-without-sign-in/"><u>Play Offline Bliss: Ideal Phone Games Without Sign-In</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-audio-problem-a-guide-to-restoring-mic-functionality/"><u>Troubleshoot Your iPhone's Audio Problem: A Guide to Restoring Mic Functionality</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,3 +159,22 @@ thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-moments-logitech-webcam-filming-tutorials/"><u>[New] Capturing Moments Logitech Webcam Filming Tutorials</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-evaluating-second-count-for-a-20mb-visual-file/"><u>[New] Evaluating Second Count for a 20MB Visual File</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-6-online-webcam-recorders-for-2024/"><u>[Updated] Top 6 Online Webcam Recorders for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-love-the-cut-filmoras-top-10-edits-unveiled/"><u>2024 Approved Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-harmony-a-color-grading-journey-for-2024/"><u>Crafting Visual Harmony A Color Grading Journey for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failed-code-0x0000011b-on-win11/"><u>Eradicating Operation Failed Code 0X0000011B on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-converter-software-list/"><u>Essential Windows Converter Software List</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-latest-google-wireless-nest-video-doorbells-battery-edition/"><u>Expert Analysis of the Latest Google Wireless Nest Video Doorbells - Battery Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-check-if-your-storage-disk-is-hdd-or-ssd-on-windows/"><u>How to Check if Your Storage Disk Is HDD or SSD on Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/motioncure-heal-your-media-files/"><u>MotionCure: Heal Your Media Files</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-your-gear-usage-a-guide-to-windows-widgets/"><u>Navigating Your Gear Usage: A Guide to Windows Widgets</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-the-boxing-streaming-websites-you-cant-afford-to-miss-for-2024/"><u>New The Boxing Streaming Websites You Cant Afford To Miss for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-solving-defenders-0x80004004-problem/"><u>Unraveling and Solving Defender's 0X80004004 Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hidden-controls-for-taskbar-time/"><u>Unveiling the Hidden Controls for Taskbar Time</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Lessen Resource Usage by Disabling Unnecessary Features
-date: 2024-10-28T23:16:37.032Z
-updated: 2024-11-01T23:19:51.320Z
+date: 2024-11-04T23:54:12.807Z
+updated: 2024-11-07T22:34:27.172Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  The service helps ensure your PC stays protected against any virus, worms, and other malware by continually scanning files and programs on your PC in the background. If the Antimalware Service Executable finds a malicious file or program, it will immediately delete or quarantine the affected files.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Disable the Antimalware Service Executable?
@@ -47,22 +47,15 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  Ideally, you should not turn off the Antimalware Service Executable process. But if you have a reliable third-party antivirus installed, and the Antimalware Service Executable is still consuming a large chunk of your RAM or CPU, then it might make sense to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable the Antimalware Service Executable
 
  There are a few different ways you can disable the Antimalware Service Executable depending on the circumstances of your system’s performance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Real-time Protection
 
@@ -75,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 4. Disable the**Real-time protection** toggle button by bringing it to the**Off** position.
 
  Real-time protection will be turned back on automatically by Windows Security.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Turn Off Antimalware Service Executable Through Windows Security in the Registry Editor
 
@@ -89,14 +89,15 @@ To disable Antimalware Service Executable from the Registry Editor:
 3. Right-click on the**Windows Defender** folder and select**New > DWORD (32-bit) Value** .  
 ![regedit windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/regedit-windows-defender.jpg)
 4. Enter**DisableAntiSpyware** in the**Value name** field and**1** in the**Value data** field.
-5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Press**OK** to save your changes and restart your system for the changes to take effect.
 
 ## Should You Rely on Windows Security for Windows 10 and 11?
 
@@ -117,16 +118,24 @@ To disable Antimalware Service Executable from the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enlightened-storytelling-the-art-of-professional-shots/"><u>[New] 2024 Approved Enlightened Storytelling The Art of Professional Shots</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-god-of-thunder-returns-epic-dawn/"><u>[New] 2024 Approved God of Thunder Returns Epic Dawn</u></a></li>
-<li><a href="https://win11.techidaily.com/connectivity-compass-navigating-through-4-ways-of-net-speed-check/"><u>Connectivity Compass: Navigating Through 4 Ways of Net Speed Check</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortlessly-fixing-windows-11s-elan-tap-mishaps/"><u>Effortlessly Fixing Windows 11'S Elan Tap Mishaps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reducing-sound-boost-in-windows/"><u>Guide to Reducing Sound Boost in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-windows-11-secures-your-files-understanding-the-backup-feature/"><u>How Windows 11 Secures Your Files: Understanding the Backup Feature</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-c53-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme C53 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-uninstalled-hdd-in-windows-11-a-step-by-step-guide/"><u>Resolving Uninstalled HDD in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-revitalize-windows-timer-functions/"><u>Streamline and Revitalize Windows Timer Functions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oneplus-ace-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your OnePlus Ace 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-angled-artistry-elevating-youtube-video-editing-skills/"><u>[New] 2024 Approved Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-go-beyond-boundaries-with-panasonic-hx-a1-wearable-camera-for-2024/"><u>[New] Go Beyond Boundaries with Panasonic HX-A1 Wearable Camera for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>[New] Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-compre-written-in-the-stars-how-to-choose-an-ideal-podcast-title/"><u>[Updated] 2024 Approved A Compre Written in the Stars How to Choose an Ideal Podcast Title</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-speed-controls-unveiled-a-comprehensible-guide/"><u>[Updated] Game Speed Controls Unveiled A Comprehensible Guide</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/custom-chatgpt-modus-operandi-the-ultimate-5-methods/"><u>Custom ChatGPT Modus Operandi: The Ultimate 5 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-methods-to-fire-up-win-11-rdc/"><u>Cutting-Edge Methods to Fire Up Win 11 RDC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-memory-test-failed-errors-in-windows/"><u>Fixing 'Memory Test Failed' Errors in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-on-the-move-with-mods-simplified-sidecar-electric-bicycle/"><u>Get on the Move with Mod's Simplified Sidecar Electric Bicycle</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-a-novel-framework-redefining-admin-access-control/"><u>Introducing a Novel Framework: Redefining Admin Access Control</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steganography-hiding-zip-in-photos-windows-11/"><u>Mastering Steganography: Hiding ZIP in Photos (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-cant-access-the-source-problem-in-windows-os/"><u>Overcoming Can't Access the Source Problem in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/ready-set-go-virtualbox-on-win-starts-with-deps-checks/"><u>Ready, Set, Go! VirtualBox on Win Starts With Deps Checks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unresponsive-touch-pad-issues-in-windows-a-step-by-step-fix-for-windows-10-8-and-7-users/"><u>Resolve Unresponsive Touch Pad Issues in Windows: A Step-by-Step Fix for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unreachable-status-from-nvidia-on-win-pcs/"><u>Resolving Unreachable Status From NVIDIA on Win PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-setting-up-msoffice-on-windows-11/"><u>Streamlining the Process: Setting Up MSOffice on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-free-fun-on-switch-curated-collection/"><u>Unlock Free Fun on Switch: Curated Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-cab-file-mystique-its-structure-and-implementation-methods/"><u>Unraveling Windows Cab File Mystique: Its Structure & Implementation Methods</u></a></li>
 </ul></div>
 

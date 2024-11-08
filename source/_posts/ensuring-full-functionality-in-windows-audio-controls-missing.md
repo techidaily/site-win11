@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Full Functionality in Windows: Audio Controls Missing"
-date: 2024-10-31T00:15:45.539Z
-updated: 2024-11-02T02:03:37.617Z
+date: 2024-11-05T16:24:35.071Z
+updated: 2024-11-07T16:29:12.323Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  Let the Get Help app try all available fixes until the issue is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Bluetooth Services in Device Properties
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 1. Press **Win + R** to open **Run**.  
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
@@ -95,19 +88,20 @@ Remotely Controllable Device`
 2. Type **services.msc** and click **OK** to open the Services snap-in.  
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Bluetooth Audio Gateway Service  
 Bluetooth Support Service  
 Bluetooth User Support Service`
 4. If not, right-click on **Bluetooth Audio Gateway Service** and select **Restart**.  
 ![restart bluetooth services services snap in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-bluetooth-services-services-snap-in-windows.jpg)
 5. Once done, check the other two services. If not running, restart the services one by one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Close the Services snap-in and check for any improvements.
 
@@ -120,6 +114,13 @@ Bluetooth User Support Service`
 * **Update the driver**: You can [find and replace outdated drivers on Windows using Device Manager](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/). In Device Manager, expand the **Bluetooth** section and locate your Bluetooth adapter. On most computers, you may find an **Intel Bluetooth Wireless Bluetooth** device. Find the device and check if a new driver update is available.
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
@@ -137,38 +138,22 @@ Bluetooth User Support Service`
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
 7. Compare the version with the one available on your computer. Download the newer version if available. Run the installer and complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. During installation, your Bluetooth devices, including the headphone, keyboard, and mouse, may stop working temporarily. Wait for a few minutes for the changes to apply. Sometimes, a restart may be necessary to finish installing the update.
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://mondly-stories.techidaily.com/6-top-ranked-danish-movies-for-mastering-dialect/"><u>6 Top-Ranked Danish Movies for Mastering Dialect</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/become-an-influencer-grow-by-a-thousand-on-instagrammonth-for-2024/"><u>Become an Influencer Grow by a Thousand on Instagram/Month for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-samsung-un65nu8000fxza-when-high-cost-meets-mediocre-features-in-a-smart-tv-review/"><u>Dissecting the Samsung UN65NU8000FXZA: When High Cost Meets Mediocre Features in a Smart TV Review</u></a></li>
-<li><a href="https://win11.techidaily.com/does-file-explorer-keep-crashing-on-windows-11-try-these-fixes/"><u>Does File Explorer Keep Crashing on Windows 11? Try These Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-go-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark Go (2023) to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-windows-disabled-discord-overlay/"><u>How to Reactivate Windows' Disabled Discord Overlay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme Narzo 60 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-online-repositories-for-text-effect-graphics/"><u>In 2024, Leading Online Repositories for Text Effect Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-rdp-troubleshooting-in-windows-oses/"><u>Mastering RDP Troubleshooting in Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/spruce-up-your-windows-mail-and-schedule-with-pics/"><u>Spruce Up Your Window's Mail & Schedule With Pics</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-revealing-hidden-windows-drives/"><u>Strategies for Revealing Hidden Windows Drives</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +162,24 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-captivating-online-ads-for-facebook-for-2024/"><u>[New] Crafting Captivating Online Ads for Facebook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unleashing-the-future-of-action-recording-with-intova-for-2024/"><u>[Updated] Unleashing the Future of Action Recording With Intova for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsupported-devices-in-windows-installation/"><u>Fixing Unsupported Devices in Windows Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/from-batch-to-exe-windows-file-conversion/"><u>From Batch to EXE: Windows File Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/get-a-fresh-start-for-your-screens-history/"><u>Get a Fresh Start for Your Screen's History</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-blaze-2-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Blaze 2 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-communication-effectiveness-with-chatgpt-by-designing-targeted-user-profiles/"><u>Maximizing Communication Effectiveness with ChatGPT by Designing Targeted User Profiles</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-race-to-redefine-computing-speed-the-supercomputer-evolution/"><u>Meta's Race to Redefine Computing Speed - The Supercomputer Evolution</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-avi-files-with-ease-top-windows-8-video-editor-2023/"><u>New 2024 Approved Edit AVI Files with Ease Top Windows 8 Video Editor - 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721397902180-new-chatgpt-ios-app-revealed/"><u>New ChatGPT iOS App Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-interruptnothandled-blue-screen-on-w10w11/"><u>Overcoming INTERRUPT_NOT_HANDLED Blue Screen on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-the-could-not-called-issue-with-malwarebytes/"><u>Steps to Resolve the Could Not Called Issue with Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-switch-scores-language-barriers-down-with-windows-hotkeys/"><u>Swiftly Switch Scores: Language Barriers Down with Windows Hotkeys</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996580199-ultimate-guide-boost-your-war-thunder-game-with-5-key-optimization-strategies-for-higher-fps/"><u>Ultimate Guide: Boost Your War Thunder Game with 5 Key Optimization Strategies for Higher FPS !</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-vds-startup-sequence-in-windows/"><u>Unfreezing the VDS Startup Sequence in Windows</u></a></li>
+</ul></div>
+

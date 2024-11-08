@@ -1,7 +1,7 @@
 ---
 title: How To Reverse Color Mismatch in Microsoft Store
-date: 2024-10-28T18:07:36.927Z
-updated: 2024-11-01T21:26:11.851Z
+date: 2024-11-03T22:59:53.325Z
+updated: 2024-11-07T16:58:11.678Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check Your Internet Connection
 
@@ -86,10 +79,10 @@ Open Microsoft Store again and check if it’s now working.
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
@@ -106,20 +99,13 @@ Go through the below steps to change the Windows region:
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -130,9 +116,23 @@ Go through the below steps to change the Windows region:
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reset Your Windows PC
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Working Again
 
@@ -155,24 +155,19 @@ Go through the below steps to change the Windows region:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[New] In 2024, Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-spectrum-kinetics-examination/"><u>2024 Approved Full Spectrum Kinetics Examination</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-web-audio-solutions-guidebook-top-7-2023/"><u>2024 Approved Premium Web Audio Solutions Guidebook Top 7 2023</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-review-of-twelve-souths-bookbook-v2-accessory-for-your-macbook/"><u>A Comprehensive Review of Twelve South's BookBook V2 Accessory for Your MacBook</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-nvidia-experience-error-setting-retrieval-woes-in-windows-1011/"><u>Correcting NVIDIA Experience Error - Setting Retrieval Woes in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/erase-ms-defender-logs-a-guide-to-cleansing-on-windows-oses/"><u>Erase MS Defender Logs: A Guide to Cleansing on Windows OSes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-long-lasting-performance-and-features-of-the-samsung-galaxy-a20-for-budget-android-enthusiasts/"><u>Expert Review of the Long-Lasting Performance and Features of the Samsung Galaxy A20 for Budget Android Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bypass-size-constraints-essential-tips-for-resizable-gifs-on-discowin11/"><u>How to Bypass Size Constraints: Essential Tips for Resizable GIFs on DiscoWin11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-switch-from-standard-home-page-in-windows-11/"><u>How to Switch From Standard Home Page in Windows 11</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-15-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 15 Pro Waze | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-fixes-handling-error-code-0x80072f17/"><u>Microsoft Store Fixes: Handling Error Code 0X80072F17</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-process-of-turning-esd-files-into-windows-isos/"><u>Navigating the Process of Turning ESD Files Into Windows ISOs</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-insufficient-vm-ram-issue/"><u>Resolving Windows: Insufficient VM RAM Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-for-broken-windows-google-nearby-share/"><u>Troubleshooting Guide for Broken Windows Google Nearby Share</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-onoff-win-10-and-11-phishing-alerts/"><u>Turning On/Off Win 10 & 11 Phishing Alerts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-mastering-cell-merging-techniques-in-google-sheets/"><u>Ultimate Guide: Mastering Cell Merging Techniques in Google Sheets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-list-top-10-free-copyright-safe-chants-for-calm/"><u>[New] 2024 Approved Essential List Top 10 Free, Copyright-Safe Chants for Calm</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-8-android-visionaries-for-speedy-videos-for-2024/"><u>[New] Top 8 Android Visionaries for Speedy Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-stepwise-strategies-building-a-playlist-on-youtube/"><u>2024 Approved Stepwise Strategies Building a Playlist on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/curating-a-list-of-top-windows-11-sketch-apps/"><u>Curating a List of Top Windows 11 Sketch Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782445-9781591437796-delusions-in-science-and-spirituality/"><u>Delusions in Science and Spirituality | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24+ Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-windows-11-6-changes-that-could-revolutionize-the-taskbar/"><u>Innovating Windows 11: 6 Changes that Could Revolutionize the Taskbar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavionline-aacogg/"><u>Movaviで簡単な無料Online AACファイルを直接OGG形式に変換可能</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-slowness-issues-with-windows-monitor-app/"><u>Solving Slowness Issues with Windows Monitor App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-arduino-drivers-in-windows/"><u>Step-by-Step Guide: Installing Arduino Drivers in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-remedies-for-chatgpt-log-in-errors/"><u>Swift Remedies for ChatGPT Log-In Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-windows-update-configuration-errors/"><u>Troubleshooting Tips: Overcoming Common Windows Update Configuration Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-interrupt-at-breakpoint-in-debugging/"><u>Understanding and Solving 'Interrupt at Breakpoint' In Debugging</u></a></li>
+<li><a href="https://win11.techidaily.com/work-smart-not-harder-top-time-management-windows-apps/"><u>Work Smart, Not Harder: Top Time Management Windows Apps</u></a></li>
 </ul></div>
 

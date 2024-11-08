@@ -1,7 +1,7 @@
 ---
 title: "Windows 11'S Unanticipated Visual Quirks: A Countdown"
-date: 2024-10-25T17:49:45.256Z
-updated: 2024-11-01T23:58:28.577Z
+date: 2024-10-31T21:27:30.828Z
+updated: 2024-11-07T21:53:27.644Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  Still, let's have a look at the more noticeable design flaws present in Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. An Outdated Control Panel
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let's start off with one you very well may have noticed already. Found in the Windows 11 control panel is an option to backup and restore Windows 7.
 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  The accessibility menu is a bright white color, again ignoring your system's dark mode settings. This creates a noticeable contrast when opening two menus that are right next to each other.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Taskbar Oddities
 
 ![screenshot of the windows 11 taskbar showing context menu differences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_taskbar_context_menu_differences.jpg)
@@ -76,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  The taskbar is full of some interesting quirks. First, the context menu will appear slightly differently depending on if you're right-clicking the taskbar, an icon, or a system icon. Additionally, the flyouts for different system menus can adhere to different spacing, sizing, or brush coloration.
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. UI Ignoring Dark Mode
 
@@ -104,15 +90,28 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
  From Disk Management resembling something from XP, to Device Manager still showing signs of the Windows 10 days, you can find something a little different in every submenu of the Windows 11 settings menu.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Different Context Menus
 
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
@@ -122,6 +121,19 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  The spacing and general sizing of the context menu is different, but it doesn't stop there.
 
  Right-clicking on a taskbar icon will produce yet a different looking context menu. Even more, depending on your version of Windows 11, you can see a different context menu in the file explorer and even on different desktop icons.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. On-Screen Keyboard
 
@@ -134,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
  So you have a light mode header clashing with the dark mode program, neither of which supports light or dark mode to begin with.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows 11 Could Use Some Tidying Up
@@ -161,22 +173,18 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-light-up-the-screen-tips-and-steps-for-adding-gifs-to-snapchats/"><u>[Updated] 2024 Approved Light Up the Screen Tips and Steps for Adding GIFs to Snapchats</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-mac-microphone-software-a-detailed-look-at-the-five-top-picks-for-2024/"><u>[Updated] Best Mac Microphone Software A Detailed Look at the Five Top Picks for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-design-practices-for-career-advancement/"><u>[Updated] Cutting-Edge Design Practices for Career Advancement</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y27s-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y27s PC | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-windows-not-empty-directive-with-error-x80070091-fixes/"><u>Disabling Windows' Not Empty Directive with Error X80070091 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wi-fi-connectivity-fixing-incomplete-network-commands-on-pc/"><u>Enhancing Wi-Fi Connectivity: Fixing Incomplete Network Commands on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-windows-11-a-compreenas-list-of-must-have-modifications/"><u>Fine-Tuning Windows 11: A Compreenas List of Must-Have Modifications</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-the-character-map-in-windows-11/"><u>How to Open the Character Map in Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>In 2024, Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-x50-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor X50 Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y56-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y56 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-erratic-touchpad-movements-in-windows/"><u>Mending Erratic Touchpad Movements in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-sensors-windows-based-methods-for-examining-network-rate/"><u>Speed Sensors: Windows-Based Methods for Examining Network Rate</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreezing-gaming-combat-0x00000001-on-pcs/"><u>Unfreezing Gaming: Combat 0X00000001 on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unpackaging-problems-solved-fixing-windows-package-not-open-errors/"><u>Unpackaging Problems Solved: Fixing Windows Package Not Open Errors</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-pc-with-the-newest-msi-b35b350-tomahorse-drivers-ideal-for-windows-11-and-7-systems/"><u>Update Your PC with the Newest MSI B35ˈB350 TOMAHORSE Drivers: Ideal for Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beginning-vlog-essential-gear-and-initial-editing-tools/"><u>[New] Beginning Vlog Essential Gear & Initial Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-morning-analysis-fresh-insights/"><u>[New] Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-2023-guide-to-your-updated-lg-bp550-for-2024/"><u>[New] Ultimate 2023 Guide to Your Updated LG BP550 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>Android’s Favorite Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976533058-boosting-your-pc-controls-download-official-steelseries-drivers-tailored-for-windows-10-enthusiasts/"><u>Boosting Your PC Controls: Download Official SteelSeries Drivers Tailored for Windows 10 Enthusiasts!</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-task-managers-curious-display/"><u>Dissecting Task Manager's Curious Display</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-hide-hashtags-on-instagram/"><u>How to Hide Hashtags on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-failed-unzipping-in-windows-11-systems/"><u>How To Repair Failed Unzipping in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-into-whatsapps-call-ecosystem/"><u>In 2024, Journey Into WhatsApp's Call Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-disabling-gpgpu-task-ordering-in-winos/"><u>Navigating Disabling GPGPU Task Ordering in WinOS</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/terms-of-confidentiality-and-personal-information-security/"><u>Terms of Confidentiality and Personal Information Security</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-launching-fullscreen-gaming-on-pcs/"><u>Tips for Launching Fullscreen Gaming on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-options-on-nvidia-settings-window/"><u>Troubleshooting No Options on Nvidia Settings Window</u></a></li>
 </ul></div>
 

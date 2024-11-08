@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot AD DS Printer Problems in Modern Windows
-date: 2024-10-26T16:02:09.522Z
-updated: 2024-11-01T16:07:41.026Z
+date: 2024-11-02T22:10:14.406Z
+updated: 2024-11-07T20:29:48.522Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
@@ -70,14 +70,14 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Manually Add a Printer
 
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 4. Click **Yes** to remove the printer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Make sure the printer you want to add is connected to the PC.
@@ -102,16 +102,10 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 7. Select the printer you just removed and click **Next**.  
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
@@ -127,6 +121,14 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 3. Right-click the **Devices** registry key to select **Permissions**.  
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then select the **Full Control** checkbox within the **Allow** column.  
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
@@ -145,48 +147,24 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Printing Again on Windows
 
  The resolutions in this guide have worked for many users who’ve needed to fix the “Active Directory Domain Services” error on Windows PCs. So, maybe one of those possible fixes will work for you as well. Then you can print everything you need to with your preferred software packages in Windows again.
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-entertainme-join-and-create-fun-videos/"><u>[Updated] 2024 Approved EntertainMe! Join & Create Fun Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-periscope-pro-the-in-depth-usage-guidebook/"><u>[Updated] In 2024, Periscope Pro The In-Depth Usage Guidebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-for-igtv-video-submission/"><u>2024 Approved Step-by-Step Guide for IGTV Video Submission</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-latest-move-could-transform-how-you-access-spotify-playlists-on-apple-music-gadgetflow-insights/"><u>Apple's Latest Move Could Transform How You Access Spotify Playlists on Apple Music | GadgetFlow Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-moments-right-ideal-perspectives-on-iphone-for-2024/"><u>Capturing Moments Right Ideal Perspectives on iPhone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-multiple-mail-systems-merge-gmail-and-outlook-windows/"><u>Conquering Multiple Mail Systems: Merge Gmail and Outlook, Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-windows-11s-system-monitor-homepage/"><u>Customizing Windows 11'S System Monitor Homepage</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-working-keys-focus-on-windows-enter/"><u>Fixing Non-Working Keys: Focus on Windows Enter</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-a-stuck-windows-update-hurdle-a-plan-b/"><u>Navigating a Stuck Windows Update Hurdle: A Plan B</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-robloxs-access-denied-error-403-in-windows/"><u>Overcoming Roblox's Access Denied (Error 403) in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/synchronize-chrono-errors-chrome-and-pc-tick-alignment/"><u>Synchronize Chrono-Errors: Chrome & PC Tick Alignment</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655616-9781454943570-the-druid-path/"><u>The Druid Path | Free Book</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-cozy-winter-scenes-for-youtube-backdrops/"><u>Top 5 Cozy Winter Scenes for YouTube Backdrops</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -195,3 +173,27 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-become-a-youtube-visionary-with-these-production-insights/"><u>[New] 2024 Approved Become a YouTube Visionary with These Production Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-kickstart-a-successful-charity-contest-via-social-media/"><u>[New] In 2024, Kickstart a Successful Charity Contest via Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instructions-for-legit-free-vlc-player-download-on-macos/"><u>[New] Instructions for Legit Free VLC Player Download on macOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-combating-content-id-blocks-on-youtube-with-knowledge/"><u>2024 Approved Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unavailable-module-problem-in-your-software-application/"><u>Fixing the Unavailable Module Problem in Your Software Application</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 7 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-depth-analysis-leading-tv-streaming-providers-for-2024/"><u>In-Depth Analysis Leading TV Streaming Providers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-indicators-of-nature-a-procedure-to-incorflutter-a-windows-11-system-tray-icon/"><u>Integrating Indicators of Nature: A Procedure to Incorflutter a Windows 11 System Tray Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-incompatible-thx-audio-setup/"><u>Overcoming Windows' Incompatible THX Audio Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-heatwave-in-laptops-while-playing-graphically-demanding-games/"><u>Prevent Heatwave in Laptops While Playing Graphically Demanding Games</u></a></li>
+<li><a href="https://win11.techidaily.com/redoing-lost-power-setup-options-on-ws-11/"><u>Redoing Lost Power Setup Options on WS 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-disappearance-of-classic-windows-traits/"><u>The Disappearance of Classic Windows Traits</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-realm-of-identity-opening-the-windows-personal-character-diagnostic-tool/"><u>The Hidden Realm of Identity: Opening the Windows Personal Character Diagnostic Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-microsoft-store-app-installs/"><u>Troubleshooting Failed Microsoft Store App Installs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-xinput13dll-files-for-smooth-gaming-experience/"><u>Troubleshooting Missing Xinput1_3.dll Files for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-pagefilesys-role-in-ram-recycling-and-cleanup/"><u>Understanding Pagefile.sys Role in RAM Recycling & Cleanup</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-unanticipated-visual-quirks-a-countdown/"><u>Windows 11'S Unanticipated Visual Quirks: A Countdown</u></a></li>
+</ul></div>
+

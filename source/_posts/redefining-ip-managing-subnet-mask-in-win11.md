@@ -1,7 +1,7 @@
 ---
 title: "Redefining IP: Managing Subnet Mask in Win11"
-date: 2024-10-25T21:57:24.163Z
-updated: 2024-11-02T05:27:46.784Z
+date: 2024-11-01T22:24:05.850Z
+updated: 2024-11-07T16:23:58.080Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change the Subnet Mask in Windows 11
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
@@ -63,22 +63,15 @@ Here's how to do it:
 4. In the prompt that crops up, click on the drop-down icon and choose**Manual.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Enable the toggle next to the IP version you're using.
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Change the Subnet Mask Using the Control Panel
 
@@ -93,8 +86,29 @@ Here's how to do it:
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
 
@@ -110,19 +124,6 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -145,20 +146,17 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/he-art-of-turning-youtube-media-on-its-head/"><u>[New] The Art of Turning YouTube Media on Its Head</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-ide-speed-and-productivity-for-developers-on-windows/"><u>Enhancing IDE Speed & Productivity for Developers on Windows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/explore-the-finest-movie-series-youtubes-10-pack-no-cost-in-2024/"><u>Explore the Finest Movie Series YouTube's 10-Pack, No Cost, In 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-x-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone X Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-f5-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco F5 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities/"><u>In 2024, The Full Scale of Precision A Review of Asus PA32U's Capabilities</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-top-ranked-screen-recorder-for-seamless-youtubing/"><u>In 2024, Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-computing-detailed-breakdowns-from-toms-systems/"><u>Inside the World of Computing: Detailed Breakdowns From Tom's Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-system-restore-on-windows-for-past-fixes/"><u>Navigating System Restore on Windows for Past Fixes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/solucion-urgente-liderando-la-busqueda-para-reobtener-tus-archivos-eliminados-por-el-onedrive/"><u>Solución Urgente: Liderando La Búsqueda Para Reobtener Tus Archivos Eliminados Por (El) OneDrive</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-functionalities-of-fn-keys-on-windows-11-devices/"><u>Tailoring Functionalities of FN Keys on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-restoring-integrity-in-the-windows-registry/"><u>The Ultimate Guide to Restoring Integrity in the Windows Registry</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-full-potential-with-network-traffic-insight-via-win11s-netstat/"><u>Unlock Your Full Potential with Network Traffic Insight via Win11's Netstat</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-breakdown-how-to-pre-emptive-access-updates/"><u>ViVeTool Breakdown: How to Pre-Emptive Access Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-do-youtube-channels-get-paid-regularly-for-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-amd-classic-bundle/"><u>[New] In 2024, AMD Classic Bundle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-strategies-for-combining-obs-with-zoom-platform/"><u>[New] In 2024, Innovative Strategies for Combining OBS with Zoom Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-iphonescreen-recording-a-straightforward-guide/"><u>[New] IPhonescreen Recording A Straightforward Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-steps-for-effective-ez-grabber-implementation/"><u>[Updated] 2024 Approved Easy Steps for Effective EZ Grabber Implementation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>2024 Approved Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-pc-temperature-limits-in-windows/"><u>Configuring PC Temperature Limits in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-v2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic V2</u></a></li>
+<li><a href="https://win11.techidaily.com/has-windows-security-stopped-working-on-your-windows-11-heres-how-you-can-fix-it/"><u>Has Windows Security Stopped Working on Your Windows 11? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-stable-networks-in-windows-os/"><u>Navigating Stable Networks in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-triadic-widget-display-for-enhanced-productivity/"><u>Setting up Triadic Widget Display for Enhanced Productivity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-educator-approved-video-capture-apps/"><u>Top 10 Educator-Approved Video Capture Apps</u></a></li>
 </ul></div>
 

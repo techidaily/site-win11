@@ -1,7 +1,7 @@
 ---
 title: Tackling Semaphore Delay - Remedies for Win11/10 Error
-date: 2024-10-26T04:32:55.628Z
-updated: 2024-11-02T05:10:08.624Z
+date: 2024-11-03T23:10:00.952Z
+updated: 2024-11-08T00:07:03.599Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  It might be the case that the 0x80070079 error occurs on your PC because of an issue with one particularly large file in a group. So, try transferring (or copying) a smaller group of files to see if that makes a difference. If that works, move or copy more files of the files you need within another smaller batch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Connection Cable
 
  Error 0x80070079 can arise if there’s an issue with the cable you’re using for connecting an external USB storage drive to the computer. Try utilizing a different USB cable if you have one available. If you can see your current cable is visibly damaged, consider purchasing a replacement.
@@ -44,35 +51,9 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-command.jpg)
 4. Select **Next** to start the troubleshooting and apply the fixes suggested.  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-troubleshooter.jpg)
 
  Users who need to fix error 0x80070079 for network drives should consider utilizing the Network Adapter and Internet Connections troubleshooters. You can access both of those troubleshooters in Settings. Check out our [guide about running troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) in Windows for further details about how to open them in Windows 11/10\.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Perform Generic Windows-Based Fixes for Troubleshooting USB Drives
 
@@ -84,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run the CHKDSK Scan Command
 
  CHKDSK is Windows’ Check Disk utility that scans and repairs bad drive sectors. That tool could be useful for fixing error 0x80070079 if it’s caused by disk errors on a drive you’re trying to transfer files to. So, try scanning the target drive by running the CHKDSK via the Command Prompt. Our guide on [running Check Disk scans on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=The%20CHKDSK%20utility%20scans%20your,and%20sizes%2C%20and%20bad%20sectors.) includes full instructions for applying this potential fix.
@@ -91,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chkdsk-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Turn Off Any Active Firewalls
@@ -103,16 +91,16 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![Turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/customize-firewall-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable Your Antivirus Shields
 
  If you’ve installed a third-party antivirus (security) utility, that might be causing the issue by preventing or restricting data transfer between drives. Temporarily disable your antivirus software’s shield before selecting to move or copy files from one drive to another. To do that, click on the antivirus tool’s system tray icon with the right mouse button and select the disable shield option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Perform a Clean Boot
 
@@ -123,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update the Driver for Your PC’s Network Adapter Driver
@@ -143,16 +131,16 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
 ![The Format window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/format-seagate-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can apply this possible resolution as covered within our guide to [reformatting USB drives in Windows 11](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
 
  Reformatting a drive will wipe all the data on it. So, make sure you back up the drive’s data before reformatting if you want to keep any files on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset Your Network
 
@@ -161,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-reset-now-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you’ll need to reconnect your PC to the internet after applying this resolution. So, make sure you have your internet connection name and password details before resetting the network. You can usually find such details stuck on the bottom of most routers.
@@ -175,25 +163,6 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
 
  Some users might wonder what a semaphore is, which is an integer variable. The 0x80070079 error message highlights there’s been an operation timeout. This is how you can fix error 0x80070079 in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-restore-shadows-in-iphone-hdr-footage-using-premiere-pro-techniques/"><u>[New] Restore Shadows in iPhone HDR Footage Using Premiere Pro Techniques</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tay-steady-with-the-right-tripod-techniques-for-top-notch-video-content-for-2024/"><u>[New] Stay Steady with the Right Tripod Techniques for Top-Notch Video Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fixing-muted-audio-and-video-transmission-errors-on-fb-messengers-mobile-app/"><u>[Updated] In 2024, Fixing Muted Audio & Video Transmission Errors on FB Messengers Mobile App</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gaps-between-data-units-in-windows-11/"><u>Bridging Gaps Between Data Units in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-system-error-enable-blocked-windows-app/"><u>Bypass System Error: Enable Blocked Windows App</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-windows-autominize-a-practical-guide/"><u>Bypass Windows Autominize: A Practical Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/calm-nights-for-your-digital-companion/"><u>Calm Nights for Your Digital Companion</u></a></li>
-<li><a href="https://win11.techidaily.com/capturing-games-leveraging-intel-graphics-command-center/"><u>Capturing Games: Leveraging Intel Graphics Command Center</u></a></li>
-<li><a href="https://win11.techidaily.com/clean-and-efficient-windows-start-menu-sans-ads/"><u>Clean & Efficient: Windows Start Menu Sans Ads</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-videos-auditory-experience-on-youtube-for-2024/"><u>Elevate Your Video's Auditory Experience on YouTube for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-moto-g73-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Moto G73 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-sound-card-compatibility-fixes-with-windows-1187-now-solved/"><u>HP Sound Card Compatibility Fixes with Windows 11/8/7 – Now Solved</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/mastering-qnap-cloud-backups-drei-effektive-ansatze-fur-zuverlassige-datensicherung-schritt-fur-schritt-guideline/"><u>Mastering QNAP Cloud Backups: Drei Effektive Ansätze Für Zuverlässige Datensicherung (Schritt-Für-Schritt-Guideline)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/step-by-step-tutorial-on-adjusting-brightness-for-any-image-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Adjusting Brightness for Any Image Using FlipBuilder Tools</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,3 +170,21 @@ thumbnail: https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-most-acclaimed-3ip-voice-recorders-on-tablets/"><u>[Updated] 2024 Approved Most Acclaimed 3iP Voice Recorders on Tablets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhance-video-reach-strategic-insights-into-youtubes-tag-system/"><u>[Updated] Enhance Video Reach Strategic Insights Into YouTube's Tag System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfecting-your-reel-integrating-music-on-instagram-for-2024/"><u>[Updated] Perfecting Your Reel Integrating Music on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-complete-playbook-for-configuring-and-evaluating-in-stream-ads-on-facebook-for-2024/"><u>[Updated] The Complete Playbook for Configuring and Evaluating In-Stream Ads on Facebook for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-guide-how-to-backup-and-restore-files-from-windows-7-to-windows-11/"><u>Complete Guide: How to Backup and Restore Files From Windows 7 to Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delay-windows-10-shutdown-with-running-software-applications/"><u>How to Delay Windows 10 Shutdown with Running Software Applications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-blaze-curve-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Blaze Curve 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-device-control-in-windows-11-updates/"><u>Mastering Device Control in Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-upgrade-obstacles-windows-11-update-error-0x80246007/"><u>Overcoming Upgrade Obstacles: Windows 11 Update Error 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-inactive-conditional-filters-in-outlook-email/"><u>Reactivating Inactive Conditional Filters in Outlook Email</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-multitasking-the-art-of-shifting-windows-by-90-degrees/"><u>Simplify Multitasking: The Art of Shifting Windows by 90 Degrees</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-audio-acquisition-iphoneipad-edition-for-2024/"><u>The Ultimate Guide to Audio Acquisition IPhone/iPad Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-complex-registry-edits-with-command-prompt-scripts/"><u>Unlocking Complex Registry Edits with Command Prompt Scripts</u></a></li>
+</ul></div>
+

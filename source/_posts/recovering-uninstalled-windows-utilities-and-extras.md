@@ -1,7 +1,7 @@
 ---
 title: Recovering Uninstalled Windows Utilities and Extras
-date: 2024-10-27T20:41:47.180Z
-updated: 2024-11-02T00:05:29.183Z
+date: 2024-11-01T21:00:55.993Z
+updated: 2024-11-07T18:30:28.773Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,10 @@ To use the DISM tool, follow these steps:
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker or SFC Utility
@@ -61,6 +61,13 @@ To check your system using SFC, follow these steps:
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Want to know the best part?
 
@@ -105,16 +112,16 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -144,16 +151,16 @@ Here's how you can update Windows to the latest version:
 4. Right-click on the service and select**Restart** .  
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
 
  Once the service restarts, try installing the optional feature again, and it should work now.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
 
@@ -167,30 +174,24 @@ Here's how you can update Windows to the latest version:
 Get-WindowsOptionalFeature -Online  
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -211,20 +212,14 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>2024 Approved A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>2024 Approved Swift Transformations Top 5 No-Download, Online GIF to Video Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/battle-royale-in-vr-choosing-between-oculus-htc-vive-and-ps-vr/"><u>Battle Royale in VR Choosing Between Oculus, HTC Vive & PS VR</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breaking-through-to-brightness-effective-fixes-for-iphone-black-screen-issues/"><u>Breaking Through to Brightness: Effective Fixes for iPhone Black Screen Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-unforeseen-security-issues-in-win10win11/"><u>Counteracting Unforeseen Security Issues in Win10/Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-prime-sources-and-techniques-for-cutting-tamil-ringtones/"><u>Discovering Prime Sources & Techniques for Cutting Tamil Ringtones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/easy-avi-file-splitting-and-trimming-a-comprehensive-guide/"><u>Easy AVI File Splitting and Trimming A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-screen-recording-with-audio-in-the-latest-snipping-tool-update-max-156/"><u>Efficient Screen Recording with Audio in the Latest Snipping Tool Update (Max 156)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-fidelity-desktop-and-online-upconversion/"><u>Elite Fidelity Desktop & Online Upconversion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-evaluating-youtubes-potential-monthly-earnings/"><u>In 2024, Evaluating YouTube's Potential Monthly Earnings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-reset-for-mail-and-calendars-in-w11/"><u>Mastering the Reset for Mail & Calendars in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/meet-the-new-wave-exciting-laptops-from-ifa-2023/"><u>Meet the New Wave - Exciting Laptops From IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-issues-of-not-allowing-file-writes-on-windows-11/"><u>Overcoming Issues of Not Allowing File Writes on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-office-activation-roadblocks/"><u>Overcoming Windows Office Activation Roadblocks</u></a></li>
-<li><a href="https://win11.techidaily.com/win-sound-troubleshooting-overcoming-silence-hurdles/"><u>Win Sound Troubleshooting: Overcoming Silence Hurdles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-fundamentals-of-navigating-youtube-regulations-for-2024/"><u>[Updated] The Fundamentals of Navigating YouTube Regulations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-instructions-to-enhance-your-samsung-tv-with-a-firmware-upgrade/"><u>Comprehensive Instructions to Enhance Your Samsung TV with a Firmware Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-window-11s-task-management-filtering-and-theme-transformation/"><u>Expert Tips for Window 11'S Task Management: Filtering and Theme Transformation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-file-timeline-windows-11s-archive-access/"><u>Mastery of File Timeline: Windows 11'S Archive Access</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-free-disk-space-in-windows-with-these-7-tips/"><u>Maximizing Free Disk Space in Windows with These 7 Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset-for-2024/"><u>Quick and Easy How to Transform Your Mobile Device Into a VR Headset for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unbinding-and-bypassing-resistant-print-spoolers-on-windows/"><u>Unbinding & Bypassing Resistant Print Spoolers on Windows</u></a></li>
 </ul></div>
 

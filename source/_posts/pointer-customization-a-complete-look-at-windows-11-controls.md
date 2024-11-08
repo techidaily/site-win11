@@ -1,7 +1,7 @@
 ---
 title: "Pointer Customization: A Complete Look at Windows 11 Controls"
-date: 2024-10-29T17:25:35.284Z
-updated: 2024-11-02T01:49:50.232Z
+date: 2024-10-31T22:04:11.214Z
+updated: 2024-11-07T21:47:47.490Z
 tags:
   - windows10
   - windows11
@@ -35,44 +35,24 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 So, without further ado, let’s get into them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Choosing Your Mouse Pointer Style
 
  To[change the style of your Mouse pointer](https://www.makeuseof.com/change-your-cursor-on-windows/) , head over to**Settings > Accessibility** on your computer.
 
 ![Screenshot accessibility settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-accessibility-settings-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the**Mouse pointer and touch** category. You have the options White, Black, Inverted, and Custom under**Mouse pointer style.** As such, you can choose any of them to change your pointer style.
 
 ![Screenshot of mouse pointer settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Using the**Custom** item, you can choose a custom color for your pointer from the recommended ones or click**Choose another color** beneath to use a different one.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Adjusting Your Mouse Cursor Size
 
@@ -81,10 +61,10 @@ So, without further ado, let’s get into them.
 ![Screenshot showing size slider on mouse pointer settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-settings-page-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Increasing your Mouse Pointer Speed
@@ -94,10 +74,10 @@ So, without further ado, let’s get into them.
 ![screenshot of mouse pointer speed settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-mouse-pointer-speed-settings-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Drag the**Mouse pointer speed** slider to adjust your pointer speed.
@@ -114,11 +94,25 @@ So, without further ado, let’s get into them.
 
 ![Screenshot of primary mouse button settings page windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-primary-mouse-button-settings-page-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Additional Mouse Pointer Settings
 
  To tweak your mouse further, head over to**Additional mouse settings** on the same page.
 
 ![screenshot of additional mouse settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-additional-mouse-settings-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here, you can enable**ClickLock** to let you drag and drop without holding down the mouse button.
 
@@ -135,10 +129,16 @@ So, without further ado, let’s get into them.
  Hit**Apply** afterward to implement your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Customize Your Text Cursor
@@ -151,14 +151,14 @@ So, without further ado, let’s get into them.
 
  To turn it on, open **Settings > Accessibility** and select the **Text cursor** option.  Toggle on the text cursor indicator. ![screenshot of text cursor settings page windows 11](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-text-cursor-settings-page-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To change the indicator’s color, choose one of the displayed colors or select a custom one. You can also adjust its size by dragging the**Size** slider. View the top to preview your changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Changing the Text Cursor’s Thickness
 
@@ -187,20 +187,15 @@ So, without further ado, let’s get into them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-insights-mastering-your-game-recording-on-windows-10/"><u>[Updated] In 2024, Expert Insights Mastering Your Game Recording on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-microsoft-should-improve-the-windows-11-taskbar/"><u>6 Ways Microsoft Should Improve the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-winning-bittorrent-clients/"><u>A Comprehensive Guide to Winning BitTorrent Clients</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-roblox-inaccessibility-via-user-restrictions/"><u>Addressing Windows Error: Roblox Inaccessibility via User Restrictions</u></a></li>
-<li><a href="https://win11.techidaily.com/1719376423944-addressing-windows-faults-with-proven-remedies/"><u>Addressing Windows Faults with Proven Remedies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-disruption-bypass-game-glitches-immediately/"><u>Avoid Disruption - Bypass Game Glitches Immediately</u></a></li>
-<li><a href="https://win11.techidaily.com/best-fit-choosing-the-perfect-vms-for-your-windows-11-pc/"><u>Best Fit: Choosing the Perfect VMs for Your Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-parental-guides-to-choosing-superior-kids-tablets-insights-from-zdnet-ratings/"><u>Expert Parental Guides to Choosing Superior Kids’ Tablets - Insights From ZDNet Ratings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-vega-graphics-card-drivers-quick-and-effortless-updates-for-gamers/"><u>Get the Latest AMD Vega Graphics Card Drivers: Quick & Effortless Updates for Gamers!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209597234-9781495046018-haunted-america-faq/"><u>Haunted America FAQ | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719322695938-new-windows-11-users-beware-of-these-top-8-errors/"><u>New Windows 11 Users, Beware of These Top 8 Errors</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stellaris-game-analysis-intergalactic-exploration-and-strategy/"><u>Stellaris Game Analysis: Intergalactic Exploration & Strategy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-7-packet-opening-experience-hacks/"><u>Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-5-multimedia-sensation-apps-iphoneandroid-showdown/"><u>[New] In 2024, Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-start-inserting-images-into-your-instagram-feed/"><u>[New] Quick Start Inserting Images Into Your Instagram Feed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-analyzing-the-significance-of-instagrams-selfie-verification/"><u>[Updated] Analyzing the Significance of Instagram's Selfie Verification</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficiently-allocating-more-memory-to-minecraft-for-2024/"><u>Efficiently Allocating More Memory to Minecraft for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-guide-to-develop-personalized-window-11-lock-patterns/"><u>In-Depth Guide to Develop Personalized Window 11 Lock Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-glitches-the-top-10-tools/"><u>Mastering Windows Glitches: The Top 10 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-tackling-regular-windows-rainmeter-issues/"><u>The Insider's Guide to Tackling Regular Windows Rainmeter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-methods-to-disable-gpu-aided-prioritization-on-widno/"><u>Uncovering Methods to Disable GPU-Aided Prioritization on WIDNO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
 </ul></div>
 

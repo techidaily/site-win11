@@ -1,7 +1,7 @@
 ---
 title: Correcting PC's Lack of Sufficient Physical Memory (VM)
-date: 2024-10-25T21:35:04.791Z
-updated: 2024-11-01T21:44:31.934Z
+date: 2024-11-06T19:15:33.769Z
+updated: 2024-11-07T17:05:39.488Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 5. Select**Apply** to save the new administrator option for VMware.
 6. Then select**OK** to close WMware’s properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Edit the Config File
 
  Lots of users have been able to fix the “not enough physical memory” by editing VMWare’s**config.ini** file. Those users disabled a Host parameter within the software’s configuration file. To disable that Host parameter, open and edit VMware’s**config.ini** file as follows:
@@ -61,20 +54,20 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 6. Click**File** on Notepad’s menubar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select the menu’s**Save** option.  
 ![The Save option in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-save-option-in-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Expand the Virtual Memory for the Virtual Machine
@@ -87,6 +80,19 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 ![The memory bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-memory-bar.jpg)
 4. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Update VMware
 
  The “not enough physical memory” error will more likely arise on outdated WMware versions. So, ensure you’re utilizing the latest version of the software. This is how you can update VMware:
@@ -97,21 +103,14 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 ![The Software Updates option in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-software-updates-option.jpg)
 4. Then click the**Check for Updates** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option4.jpg)
 5. Press the**Get More Information** button for an available update.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Log into an account profile on the website that opens.
@@ -127,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
  The “not enough physical memory” error can be caused by a Windows update that conflicts with VMware. So, uninstalling a recent update could fix that issue for some users. Check out our guide about[uninstalling Windows updates](https://www.makeuseof.com/windows-11-uninstall-updates/) for further details on how to apply this potential solution.
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-uninstall-update-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
@@ -161,22 +167,19 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-renowned-companies-advancing-virtual-reality-tech/"><u>[Updated] Renowned Companies Advancing Virtual Reality Tech</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-approach-for-managing-cc-rights-and-usage-for-2024/"><u>Best Approach for Managing CC Rights & Usage for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-power-management-avoid-hibernation-of-usb-devices/"><u>Bypass Power Management: Avoid Hibernation of USB Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-windows-auto-lock-feature/"><u>Bypass Windows Auto-Lock Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-11-shop-error-code-x800704cf/"><u>Bypassing Windows 11 Shop Error: Code X800704CF</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-windows-11-registry-access-settings/"><u>Changing Windows 11 Registry Access Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-access-denied-errors-fixing-outlook-issues-in-windows-os/"><u>Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-corruption-fix-your-win1011-recycle-error/"><u>Clearing up CORRUPTION! Fix Your WIN10/11 Recycle Error</u></a></li>
-<li><a href="https://win11.techidaily.com/cmd-magic-show-unraveling-5-mesmerizing-maneuvers/"><u>CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-effortless-integration-for-windows-11s-touch/"><u>Download & Effortless Integration for Windows 11'S Touch</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-payment-structure-behind-item-assessment-videos/"><u>In 2024, Payment Structure Behind Item Assessment Videos?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-the-world-of-iphone-hdr-a-beginners-guide-for-2024/"><u>Navigating the World of iPhone HDR A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/196349-9781596255173-the-kingdom-of-god-is-within-you/"><u>The Kingdom of God is Within You | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-14-pro-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 14 Pro and Android Phones</u></a></li>
-<li><a href="https://win-able.techidaily.com/wolcen-crashes-no-more-how-to-optimize-performance-for-seamless-play/"><u>Wolcen Crashes No More – How to Optimize Performance for Seamless Play</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/earn-to-purge-your-devices-youtube-content-easily-for-2024/"><u>[New] Learn to Purge Your Device's YouTube Content Easily for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-convert-fb-videos-directly-to-mp3-2023-edition/"><u>[Updated] 2024 Approved Convert FB Videos Directly to MP3 - 2023 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[Updated] Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer/"><u>[Updated] Steps to Acquire Free and Safe VLC Player on a Mac Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-3-top-notch-smartphones-excelling-at-video-capture/"><u>2024 Approved 3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-win11-audio-problem-code-0xc00d36b4/"><u>Eliminating Win11 Audio Problem: Code 0xC00D36B4</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-google-pixel-fold-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Google Pixel Fold FRP Without Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-spark-10-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Spark 10 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-adobe-photoshop-closure-issues-on-latest-oses/"><u>Resolving Adobe Photoshop Closure Issues on Latest OSes</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-xands-the-ultimate-offer-extravaganza/"><u>Series X&S: The Ultimate Offer Extravaganza</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-capturing-windows-based-chats/"><u>The Art of Capturing Windows-Based Chats</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-one-side-headphone-output-in-windows-10/"><u>Troubleshooting One-Side Headphone Output in Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-solutions-why-isnt-my-amazon-prime-video-closed-captioning-functioning/"><u>Troubleshooting Solutions: Why Isn't My Amazon Prime Video Closed Captioning Functioning?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-enabling-immersive-sound-experience/"><u>Windows 11: Enabling Immersive Sound Experience</u></a></li>
 </ul></div>
 

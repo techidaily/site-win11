@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: Retrieving Device Hardware IDs via Windows"
-date: 2024-10-26T03:33:03.223Z
-updated: 2024-11-02T00:23:38.228Z
+date: 2024-11-04T20:51:04.804Z
+updated: 2024-11-07T17:47:44.737Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76b
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
@@ -76,6 +69,13 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the mouse option "msmouse" in the Command Prompt results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-mouse-option-in-the-command-prompt-results-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this case, the option in the "Published Name" category is**msmouse.inf** .
 
  Now that you've found the "Published Name" result for the mouse, here's how you can use it to find the hardware ID:
@@ -94,10 +94,10 @@ Let’s check out the steps you need to follow:
 ![Selecting the Hardware ID option in the Command Prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-in-the-command-prompt-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use PowerShell
@@ -113,13 +113,6 @@ Let’s check out the steps you need to follow:
 `Get-PnpDevice -PresentOnly | Sort-Object -Property &ldquo;Class&rdquo; | Format-Table -AutoSize`
 
 ![PowerShell window displaying device information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-window-displaying-device-information.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, look for your target device under the "FriendlyName" category.
 
@@ -148,13 +141,6 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the hardware ID option on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-on-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
 ## 4\. Use the Windows Device Console
@@ -171,6 +157,13 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the x64 folder in the Tools section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-x64-folder-in-the-tools-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you’re in the correct folder, follow these steps:
 
 1. Click the**File Explorer address bar** .
@@ -179,10 +172,10 @@ Once you’re in the correct folder, follow these steps:
 ![Typing the CMD command in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-the-cmd-command-in-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, type the following command into the Command Prompt and press**Enter** :
@@ -200,6 +193,13 @@ Once you’re in the correct folder, follow these steps:
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
  If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -222,21 +222,16 @@ Once you’re in the correct folder, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-infusing-storytelling-with-subtitles-enhancing-online-video-experience/"><u>[Updated] 2024 Approved Infusing Storytelling with Subtitles Enhancing Online Video Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/8-essential-techniques-for-improved-cs-go-play/"><u>8 Essential Techniques for Improved CS Go Play</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreayers-guide-accessing-windows-web-services-manager/"><u>A Compreayer's Guide: Accessing Windows Web Services Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-the-negative-side-of-low-end-windows-licenses/"><u>A Deep Dive Into the Negative Side of Low-End Windows Licenses</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-open-failed-error-on-ges-sharing-feature/"><u>Addressing Open Failed Error on GE's Sharing Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-photo-preview-boards-in-win-11/"><u>Adjusting Photo Preview Boards in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-the-cost-monitor-functionality-of-your-wifi-network/"><u>Adjusting the Cost Monitor Functionality of Your Wifi Network</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015593844-astro-a50-earpods-malfunction-heres-how-to-repair-them/"><u>Astro A50 EarPods Malfunction? Here's How to Repair Them!</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-missed-opportunities-top-9-outlook-enhancements-in-windows/"><u>Avoid Missed Opportunities: Top 9 Outlook Enhancements in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-computer-skills-keyboard-shortcuts-for-success/"><u>Boost Your Computer Skills: Keyboard Shortcuts for Success</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-leaders-engineering-digital-marvel-realms/"><u>In 2024, Leaders Engineering Digital Marvel Realms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-the-past-through-youtube-top-10-for-students-and-enthusiasts/"><u>Mastering the Past Through YouTube Top 10 for Students & Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-catchy-headline-creator/"><u>Prime Catchy Headline Creator</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-a34-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy A34 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/virtual-classrooms-future-learning-unleashed-for-2024/"><u>Virtual Classrooms Future Learning Unleashed for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-gameplay-streaming-tools-revealed-obs-or-fraps-for-2024/"><u>[New] Gameplay Streaming Tools Revealed OBS or Fraps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[New] Quick Start Guide Recording Your PC's Display with HP</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-10-leading-4k-displays/"><u>[Updated] 2024 Approved 10 Leading 4K Displays</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-how-to-take-photos-while-recording-videos-on-iphone/"><u>[Updated] How to Take Photos While Recording Videos on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-facile-e-libera-di-wma-a-mp3-online-ottima-soluzione-con-movavi/"><u>Conversione Facile E Libera Di WMA a MP3 Online - Ottima Soluzione Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-acquainted-with-windows-11s-widgets/"><u>Getting Acquainted with Windows 11'S Widgets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 Pro Device</u></a></li>
+<li><a href="https://win11.techidaily.com/is-google-chrome-not-opening-on-windows-11-try-these-fixes/"><u>Is Google Chrome Not Opening on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-lost-tabs-in-navigator-interface/"><u>Recovering Lost Tabs in Navigator Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-a-harmonious-windows-desktop/"><u>Strategies for a Harmonious Windows Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vr-dreamscapes-explore-the-best-on-youtube-for-2024/"><u>VR Dreamscapes Explore the Best on Youtube for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Playback Error in Media Player
-date: 2024-11-01T01:42:54.835Z
-updated: 2024-11-01T18:07:40.766Z
+date: 2024-11-01T21:05:02.385Z
+updated: 2024-11-07T17:44:42.366Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 5. Then exit Task Manager and open Windows Media Player to see if the error persists.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Video Playback Troubleshooter
@@ -61,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 5. Select **I want to continue** **with this troubleshooter** in Video Playback.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter.jpg)
@@ -73,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
  To utilize the same Video Playback troubleshooter in Windows 10, select the Update & Security settings category. Then you can reach the Video Playback repair utility by selecting **Troubleshoo**t > **Additional troubleshooters**. Select Video Playback and click **Run the troubleshooter**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Register DLL Files
@@ -90,7 +84,22 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 4. Next, execute this command to register the VBScript file: regsvr32 vbscript.dll  
 ![The regsvr32 vbscript.dll command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-regsver32-vbscript-command.jpg)
 5. Then select **OK** again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Go to your Start menu and select **Restart** from there.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Windows Media Player Network Sharing Service
 
@@ -107,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 7. Select **Apply** \> **OK** to save settings and exit the Windows Media Player Network Sharing Service Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Apply Full Access to Your Local User Folder
@@ -136,26 +151,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-full-control-option.jpg)
 7. Select **OK** on the Permissions Entry window and others open.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Third-Party Startup Items
 
  Disabling all third-party startup items (apps and services) is called clean booting. The purpose of clean booting is to prevent software conflicts by stopping third-party background programs and services from starting automatically. This troubleshooting method is recommended to check if a third-party app or service conflict with Windows Media Player is causing the “Server execution failed” error on your PC.
@@ -163,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-tab-in-msconfig.jpg)
 
  Our guide to [clean-booting Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential fix by disabling third-party apps and services with Task Manager and MSConfig. When you’ve done that, you’ll need to restart your PC open for a clean boot to take effect. Then open Windows Media Player and try playing some media files again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows Media Player
 
@@ -187,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 8. Select the **Windows Media Player** checkbox.
 9. Click **OK** to reinstall the software.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy Your Music and Videos in Windows Media Player
 
  Many WMP users have fixed the “Server execution failed” error with the potential solutions outlined in this guide. So, don’t ditch Windows Media Player until you’ve at least tried applying most of those potential fixes. One will probably get the “Server execution failed” WMP error fixed on your Windows PC. Then you can enjoy all the music and videos in your Windows Media Player playlists again.
@@ -195,26 +190,6 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
  Windows Media Player isn’t much good when it doesn’t play music or video. There are plenty of alternative media players, but you don’t have to ditch WMP because of the “server execution failed” error. This is how you can fix the “server execution failed” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-secure-your-content-copyright-checks-before-tiktok-sharing/"><u>[Updated] 2024 Approved Secure Your Content Copyright Checks Before TikTok Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-resize-images-in-windows-11/"><u>6 Ways to Resize Images in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/9-ways-to-shut-down-windows-11/"><u>9 Ways to Shut Down Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ais-impact-on-modern-windows-os-innovation/"><u>AI's Impact on Modern Windows OS Innovation</u></a></li>
-<li><a href="https://win11.techidaily.com/augmenting-linux-excellence-through-windows/"><u>Augmenting Linux Excellence Through Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/black-friday-offer-best-price-keys-fan-unlocked-for-all-year-lifetime-windows-11/"><u>Black Friday Offer: Best Price Keys Fan Unlocked for All-Year Lifetime Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-windows-activation-error-0x8007251d-fixes-and-tips/"><u>Breaking Down Windows Activation Error 0X8007251D: Fixes and Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-features-a-detailed-look-at-playstation-4-pros-4k-capabilities/"><u>Exploring the Features: A Detailed Look at PlayStation 4 Pro's 4K Capabilities</u></a></li>
-<li><a href="https://win-studio.techidaily.com/improve-performance-by-disabling-windows-10s-system-restore-feature/"><u>Improve Performance by Disabling Windows 10'S System Restore Feature</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cheap-yet-superior-gaming-keyboard-guide-under-100/"><u>In 2024, Cheap, Yet Superior Gaming Keyboard Guide Under $100</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>In 2024, Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-lightzone-professional-cross-platform-darkroom-toolset/"><u>Review of LightZone Professional: Cross-Platform Darkroom Toolset</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-finest-9-mic-recorders-web-based-edition/"><u>The Finest 9 Mic Recorders, Web-Based Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-honor-100-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor 100 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719258150800-win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-11/"><u>동영상 인코더 기법에 대한 TOP 11 프로그램 선보기: 현재 가장 좋은 방법</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -222,3 +197,25 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[New] In 2024, Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-explanation-deciphering-google-podcasts-app/"><u>[Updated] 2024 Approved Comprehensive Explanation Deciphering Google Podcasts App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-captivating-slow-motion-photos-for-instagram/"><u>[Updated] 2024 Approved Crafting Captivating Slow-Motion Photos for Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/convergence-mastery-the-ultimate-win-11-file-guide/"><u>Convergence Mastery: The Ultimate Win 11 File Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-your-pc-navigation-with-apple-maps/"><u>Empowering Your PC Navigation with Apple Maps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing/"><u>Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mx920-wi-fi-a3586dw-printer-drivers-installed-on-windows/"><u>Get Your Canon MX920 Wi-Fi A3586dw Printer Drivers Installed on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-implementing-google-play-in-win11-os/"><u>Guide to Implementing Google Play in Win11 OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ice-capped-inspiration-chinas-sports-spectacle-for-2024/"><u>Ice-Capped Inspiration China's Sports Spectacle for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-faces-in-flux-perfecting-motion-blur-on-human-figures-in-photos/"><u>In 2024, Faces in Flux Perfecting Motion Blur on Human Figures in Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-to-device-direct-and-indirect-video-transfers/"><u>In 2024, Instagram to Device Direct and Indirect Video Transfers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-windows-auto-lock-setting/"><u>Quick Guide to Windows Auto-Lock Setting</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-smooth-copy-paste-functionality-chromeedgefirefox/"><u>Restoring Smooth Copy-Paste Functionality (Chrome/Edge/Firefox)</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-deletion-practices-for-windows-bt-folders/"><u>Safe Deletion Practices for Windows ~BT Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-blueprint-for-customizing-windows-startup/"><u>The Complete Blueprint for Customizing Windows Startup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-10t-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme 10T 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/use-external-tools-explore-third-party-software-like-flux-redshift-or-display-temp-to-customize-display-behavior-according-to-time-of-day-and-ambient-light-32/"><u>Use External Tools: Explore Third-Party Software Like f.lux, Redshift, or Display Temp to Customize Display Behavior According to Time of Day and Ambient Light Conditions.</u></a></li>
+</ul></div>
+

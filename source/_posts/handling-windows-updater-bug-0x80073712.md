@@ -1,7 +1,7 @@
 ---
 title: "Handling Windows Updater Bug: 0X80073712"
-date: 2024-10-27T16:43:54.781Z
-updated: 2024-11-01T20:54:59.218Z
+date: 2024-11-02T19:49:04.559Z
+updated: 2024-11-07T20:46:43.143Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Complete system shutdown
 
  Windows OS enables the fast startup option by default. Even if you restart your system, or shut it down, it preserves the system state using hibernate. So, you need to perform a complete system shutdown and then power it back on to close and restart all background services.
@@ -50,13 +63,6 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -68,15 +74,16 @@ Repeat the following steps to start the necessary services:
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
-5. Similarly, set all the services as automatic and manually start them.
-6. **Close** the Services window and reattempt the Windows update.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Similarly, set all the services as automatic and manually start them.
+6. **Close** the Services window and reattempt the Windows update.
 
 ## 4\. Run the Disk Cleanup Tool
 
@@ -106,10 +113,10 @@ Repeat the following steps:
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
@@ -117,6 +124,13 @@ net start wuauserv net start cryptSvc net start bits net start msiserver
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
 7. Open the Windows update in Settings and try to download and install updates.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -130,29 +144,22 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
 
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update Windows Without Hiccups
 
@@ -173,16 +180,21 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/a-guide-to-remedy-onedrives-blob-tag-inaccuracy-error/"><u>A Guide to Remedy OneDrive's Blob Tag Inaccuracy Error</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-insight-into-fixing-directdraw-discrepancies-in-win1011/"><u>Advanced Insight Into Fixing DirectDraw Discrepancies in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/augment-win11-notebook-with-smart-companion/"><u>Augment Win11 Notebook with Smart Companion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-sony-and-bose-uncovering-the-best-immersive-soundbar-as-featured-in-our-latest-zdnet-analysis/"><u>Beyond Sony and Bose: Uncovering the Best Immersive Soundbar as Featured in Our Latest ZDNet Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-winapp-and-web-browser-mastery/"><u>Blueprint for WinApp and Web Browser Mastery</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-tecno-phantom-v-flip-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Phantom V Flip? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/device-issue-code-43-sorted/"><u>Device Issue: Code 43 Sorted</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-keeping-your-snapchat-images-intact-post-snap/"><u>In 2024, Essential Tips Keeping Your Snapchat Images Intact Post-Snap</u></a></li>
-<li><a href="https://win11.techidaily.com/1719307585235-the-key-to-no-fuss-vbox-installation-deps-please/"><u>The Key to No-Fuss VBox Installation? Deps, Please!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-cryptocurrency-success-with-chatgpt-explore-these-5-uses/"><u>Unlocking Cryptocurrency Success with ChatGPT: Explore These 5 Uses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ogg-webm/"><u>무료 OGG WEBM 영상 전환 - 모바일 사용자가 쉽게 사용할 수 있도록</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>[New] In 2024, Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-engage-inspire-convert-strategizing-for-impactful-instavideo-content/"><u>[Updated] Engage, Inspire, Convert Strategizing for Impactful InstaVideo Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-scaling-up-subscriber-numbers-with-savvy-strategies-for-2024/"><u>[Updated] Scaling Up Subscriber Numbers with Savvy Strategies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-geforce-error-x0001-on-windows-devices/"><u>Correcting GeForce Error X0001 on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypting-the-secure-key-conundrum-a-guide-to-five-fixes-for-windows-users/"><u>Decrypting the Secure Key Conundrum: A Guide to Five Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-windows-app-functionality-enhance-internet-connectivity/"><u>Elevate Windows App Functionality: Enhance Internet Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-webp-conversion-by-chrome-on-your-computer/"><u>Eliminate WebP Conversion by Chrome on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-blocked-notification-errors-for-your-pc/"><u>Fixing Blocked Notification Errors for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-force-camera-activation-notification-in-windows-11/"><u>How to Force Camera Activation Notification in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-v27-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo V27 Pro?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-navigating-free-art-online-a-guide-and-top-sites/"><u>In 2024, Navigating Free Art Online A Guide & Top Sites</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-narzo-60x-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme Narzo 60x 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-nooks-how-to-fix-file-transfer-issues-on-win11/"><u>Navigating Network Nooks: How to Fix File Transfer Issues on WIN11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-non-conformists-guide-to-mastering-nycs-social-networks/"><u>The Non-Conformist’s Guide to Mastering NYC's Social Networks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-corporate-communication-with-elite-language-apps/"><u>Transform Corporate Communication with Elite Language Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Turning Off/On Registry Editor on Windows 11
-date: 2024-10-27T22:04:26.358Z
-updated: 2024-11-02T04:15:57.705Z
+date: 2024-11-03T23:59:51.585Z
+updated: 2024-11-07T23:47:29.548Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 4. Click the **File** menu and select **Save as**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select **Desktop** in the **Save as** dialog box.
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Allowing or Disallowing Registry Editor Access on Windows
@@ -108,29 +108,6 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function-for-2024/"><u>[New] Archive Everyday Moments Seamlessly by Using VLC's Webcam Function for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-composing-cinematic-cues-trailer-soundscapes-guide-for-2024/"><u>[New] Composing Cinematic Cues Trailer Soundscapes Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-stories-secrets-for-success/"><u>[New] In 2024, Instagram Stories Secrets for Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>[New] Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-workflow-fine-tuning-mouse-clicks/"><u>Accelerate Your Workflow: Fine-Tuning Mouse Clicks</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-audacitys-unexpected-device-access-in-winos/"><u>Addressing Audacity's Unexpected Device Access in WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-spontaneous-store-openings-on-pc/"><u>Addressing Spontaneous Store Openings on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/batch-automation-for-file-repositioning-in-win-11/"><u>Batch Automation for File Repositioning in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/1719343067302-become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-devices-performance-with-quick-android-apk-installation-in-windows-11/"><u>Boost Your Device's Performance with Quick Android APK Installation in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-memory-usage-in-windows-without-complications/"><u>Boosting Memory Usage in Windows Without Complications</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-real-time-performance-on-windows-11-task-monitor/"><u>Boosting Real-Time Performance on Windows 11 Task Monitor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/download-the-ultimate-macx-pro-unlimited-no-cost-psp-video-transformation-tool/"><u>Download the Ultimate MacX Pro: Unlimited, No-Cost PSP Video Transformation Tool</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-versat-challenging-world-6-innovative-applications-for-chatgpts-coding-interpreter/"><u>Exploring the Versat Challenging World: 6 Innovative Applications for ChatGPT's Coding Interpreter</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-asus-rog-phone-8-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Asus ROG Phone 8 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-oneplus-e-9-critique-mathematics-still-on-the-lower-side/"><u>The OnePlus E 9 Critique: Mathematics Still on the Lower Side</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +115,24 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-every-creators-guide-to-youtube-revenue/"><u>[New] 2024 Approved Every Creator's Guide to YouTube Revenue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-find-n3-flip-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo Find N3 Flip Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-must-have-components-warning-on-windows-1011/"><u>Eradicating Must-Have Components Warning on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/error-x-demystified-correcting-the-0x80072746-mail-flaw/"><u>Error X Demystified: Correcting the 0X80072746 Mail Flaw</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-pc-and-gadget-performance-tips-straight-from-toms-hardware/"><u>Inside Look at PC and Gadget Performance: Tips Straight From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/monitors-unleashed-personalized-themes-for-multitaskers-on-win-1011/"><u>Monitors Unleashed: Personalized Themes for Multitaskers on Win 10/11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>New Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steamuidll-not-found-complication/"><u>Overcoming Steamui.dll Not Found Complication</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/passos-simples-para-transformar-suas-imagens-em-fotografias-classicas-com-o-mais-recente-tecnologia-de-filtragem/"><u>Passos Simples Para Transformar Suas Imagens Em Fotografias Clássicas Com O Mais Recente Tecnologia De Filtragem</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-cloud-issues-in-win-10/"><u>Resolving Steam Cloud Issues in Win 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-improve-yoga-900s-download-official-windows-10-drivers/"><u>Secure & Improve Yoga 900S: Download Official Windows 10 Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-flickering-screens-on-windows-11/"><u>Troubleshooting Flickering Screens on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-frozen-epic-game-launcher-instances/"><u>Troubleshooting Frozen Epic Game Launcher Instances</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-for-non-responsive-webcams-in-microsoft-teams-on-pc-operating-systems-windows-11107/"><u>Troubleshooting Guide for Non-Responsive Webcams in Microsoft Teams on PC Operating Systems (Windows 11/10/7)</u></a></li>
+</ul></div>
+

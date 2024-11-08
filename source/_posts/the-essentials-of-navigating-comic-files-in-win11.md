@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Navigating Comic Files in Win11
-date: 2024-10-31T04:00:44.613Z
-updated: 2024-11-01T21:17:37.619Z
+date: 2024-11-06T19:48:56.964Z
+updated: 2024-11-07T18:44:38.243Z
 tags:
   - windows10
   - windows11
@@ -49,27 +49,21 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 6. Press the**Add folder** **to library** button.  
 ![The Add folder to library button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-folder-to-library.jpg)
 7. Click the**Add local folder** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Next, select the Comic Books folder previously set up that includes some comics.
 9. Press the**Select Folder** button.
 10. Now you’ll see some thumbnail images for the comics in the selected folder inside the**Library** tab. Click a comic you want to read there to open in Cover.  
 ![Cover's Library tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/covers-library-tab.jpg)
 11. You can flick through the pages by clicking the comic and dragging the slider on the bar. Or press the left and right arrow keys.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The page scroll bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/page-scroll-bar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s best to read comics in a maximized Cover window since the text might otherwise be a bit small. Click the comic and select its**Two Page** and**Fit width** options to view double pages across the full width of the window. Then you can scroll down the pages with the mouse and flick through pages by pressing the arrow keys.
 
@@ -96,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 2. Bring up the YACReader app.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the button with the speech mark bubble icon on YACReader’s toolbar.
@@ -108,35 +102,42 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 ![The Open option in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-open-option.jpg)
 6. Press the**Next** and**Previous** arrow buttons on the toolbar to turn the comic’s pages.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The comics will also be a little small in a non-maximized YACReader window, as in Cover. So, it’s recommended to maximize the app’s window. Click the**Double-page mode** button to view two pages in a single window. Selecting the**Fit to Width** option will give you a view of the comic that’s not too small or big.
 
 ![The toolbar in YACReader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreaders-toolbar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can save pages in YACReader by clicking the**Set** bookmark button. Select the**Show bookmarks** option to view thumbnails for your saved pages. You can select a bookmarked page to open from there.
 
 ![The YACReader bookmarks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-bookmarks.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  YACReader’s**Show go to flow** option is one of its more unique features. Pressing that button brings up a box that displays page thumbnail previews you can flick through and open pages with. That’s a useful feature for selecting specific pages in a comic.
 
 ![YACReader's page flow feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/yacreader-page-flow-feature.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Page flow has five transition effect presets you can choose in the Options window. Click**Options** on the right side of YACReader’s toolbar. Select the**Page Flow** tab, and choose one of the five preset options. You can also tweak each preset by clicking**Show advanced settings** and dragging the bar slider options. Press the**Save** button and restart YACReader to apply a new preset.
 
 ![The Page Flow tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-page-flow-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Read Comics in Your Web Browser
 
@@ -152,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 ![A Star Wars comic open in a browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/star-wars-comic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Stuck Into Comics in Windows 11
@@ -177,24 +178,24 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-transform-videos-to-tweets-best-converters-revealed/"><u>[New] In 2024, Transform Videos to Tweets Best Converters Revealed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/avigating-away-from-youtube-penalties/"><u>[New] Navigating Away From YouTube Penalties</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-insiders-guide-to-online-video-affiliates/"><u>[Updated] The Insider’s Guide to Online Video Affiliates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>[Updated] Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-back-into-disconnected-adapters-a-six-step-guide-on-winos/"><u>Breathing Life Back Into Disconnected Adapters: A Six-Step Guide on WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-apple-and-windows-calendars-a-comprehensive-guide/"><u>Bridging Apple and Windows Calendars: A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nubia-red-magic-8s-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nubia Red Magic 8S Pro?</u></a></li>
-<li><a href="https://win11.techidaily.com/cheap-bargains-come-with-hidden-risks-for-windows-users/"><u>Cheap Bargains Come with Hidden Risks for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/chromium-and-windows-11-the-ultimate-synchronization-guide/"><u>Chromium & Windows 11: The Ultimate Synchronization Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/chromium-setup-for-windows-11-essential-guide/"><u>Chromium Setup for Windows 11: Essential Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/clearer-focus-utilizing-photos-app-background-blur-in-windows-11/"><u>Clearer Focus: Utilizing Photos App Background Blur in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-forbidden-errors-in-windows-os/"><u>Clearing Forbidden Errors in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-windows-0x80072af9-bug/"><u>Clearing Up Windows 0X80072AF9 Bug</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-insufficient-usb-controller-support/"><u>Combating Insufficient USB Controller Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/currents-of-creativity-more-than-electricity/"><u>Currents of Creativity: More Than Electricity</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-your-gaming-library-fixing-egl-shortcomings/"><u>Maximizing Your Gaming Library: Fixing EGL Shortcomings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-visual-capture-specialists-top-10-tools/"><u>[Updated] In 2024, Visual Capture Specialists' Top 10 Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/5-outstanding-no-cost-alternatives-to-skype/"><u>5 Outstanding No-Cost Alternatives to Skype</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-disabled-warning-unverified-adobe-in-windows/"><u>Eliminate Disabled Warning: Unverified Adobe in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-cortana-in-windows-with-vivetool/"><u>Empowering Cortana in Windows with ViveTool</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-and-change-keyboard-layouts-in-windows-11/"><u>How to Add and Change Keyboard Layouts in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-f5-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco F5 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-screenshot-storage-in-windows/"><u>Identify Screenshot Storage in Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-convert-facebook-posts-to-mp3-files/"><u>In 2024, Convert Facebook Posts to MP3 Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-memes-for-iphone/"><u>In 2024, Memes for iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-virtual-boards-with-ease-a-guide-to-using-google-meet-on-diverse-devices/"><u>In 2024, Navigating Virtual Boards with Ease A Guide to Using Google Meet on Diverse Devices</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptop-display-calmed-flickers-no-longer-an-issue/"><u>Laptop Display Calmed: Flickers No Longer an Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/nabizite-jak-ze-uprostrit-film-movavi-podrobny-tutoriel-pre-svih-otcov/"><u>Nabízíte Jak Ze Uprostřít Film Movavi - Podrobný Tutoriel Pre Svih Otcov</u></a></li>
+<li><a href="https://win11.techidaily.com/new-laptops-that-will-take-your-breath-away-ifa-2023/"><u>New Laptops That Will Take Your Breath Away - IFA 2023</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/purchase-microsoft-office-2019-get-installed-on-pc-or-mac-for-just-25-a-detailed-guide-by-techexpert/"><u>Purchase Microsoft Office 2019: Get Installed on PC or Mac for Just $25 – A Detailed Guide by TechExpert</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-keyboard-errors-windows-11s-function-keys/"><u>Rectify: Keyboard Errors - Windows 11'S Function Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-radeon-driver-transitions-on-new-windows-11-laptops/"><u>Smooth Radeon Driver Transitions on New Windows 11 Laptops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solving-the-main-issues-with-google-pixel-watch-3-insights-from-zdnet/"><u>Solving the Main Issues with Google Pixel Watch 3 - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-invisible-gadget-issue-in-windows-os/"><u>Tackling Invisible Gadget Issue in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/top-bargain-alert-lifetime-win10-starting-at-612/"><u>Top Bargain Alert: Lifetime Win10, Starting at $6.12</u></a></li>
 </ul></div>
 

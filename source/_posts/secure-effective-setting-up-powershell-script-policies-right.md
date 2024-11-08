@@ -1,7 +1,7 @@
 ---
 title: "Secure, Effective: Setting Up PowerShell Script Policies Right"
-date: 2024-10-25T19:58:26.588Z
-updated: 2024-11-01T20:45:06.343Z
+date: 2024-11-03T21:25:19.863Z
+updated: 2024-11-07T21:03:02.597Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -57,25 +64,18 @@ To change execution policy using Settings:
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -91,16 +91,16 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
 
@@ -144,10 +144,10 @@ The below table briefly explains all the execution policy scopes:
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
@@ -171,20 +171,18 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-editing-skills-with-fcps-ultimate-tools-list/"><u>2024 Approved Elevate Your Editing Skills with FCP's Ultimate Tools List</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
-<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-breakpoint-failed-on-your-windows-system/"><u>Addressing 'Breakpoint Failed' On Your Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-techniques-for-capturing-uac-alerts/"><u>Advanced Techniques for Capturing UAC Alerts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-decoded-simple-strategies-for-the-top-10-common-errors/"><u>Apple Pay Dilemmas Decoded: Simple Strategies for the Top 10 Common Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/audioscape-refresh-on-windows-the-driver-upgrade-path/"><u>Audioscape Refresh on Windows: The Driver Upgrade Path</u></a></li>
-<li><a href="https://win11.techidaily.com/basking-in-low-light-the-art-of-dark-modes-in-paint/"><u>Basking in Low Light: The Art of Dark Modes in Paint</u></a></li>
-<li><a href="https://win11.techidaily.com/bootable-windows-11-usb-setup-a-quick-easy-guide-to-3-methods/"><u>Bootable Windows 11 USB Setup: A Quick, Easy Guide to 3 Methods</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211345464-9783964464996-die-wahre-schule-ist-das-leben-band-1/"><u>Die wahre Schule ist das Leben - Band 1 | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-manipulate-cellphone-gps-data-for-varying-locations/"><u>How to Manipulate Cellphone GPS Data for Varying Locations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-seamless-integration-of-skype-meetings-into-zoom-platform/"><u>In 2024, Seamless Integration of Skype Meetings Into Zoom Platform</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722008075872-openais-revolutionary-shop-is-here-master-your-tailored-gpt-solutions-instantly/"><u>OpenAI's Revolutionary Shop Is Here – Master Your Tailored GPT Solutions Instantly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-achieving-ideal-mac-resized-instagram-video-content/"><u>[New] 2024 Approved Achieving Ideal Mac-Resized Instagram Video Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-invest-5-important-aspects-to-think-about-when-selecting-a-smartwatch/"><u>Before You Invest: 5 Important Aspects to Think About When Selecting a Smartwatch</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-steps-to-optimize-win11-network-preferences/"><u>Detailed Steps to Optimize Win11 Network Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-effortless-gameplay-capture-using-windows-and-intel-graphics/"><u>Direct, Effortless Gameplay Capture Using Windows and Intel Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-premium-3gp-films-for-free-expert-tips-on-mastering-3gp-downloaders-and-converters/"><u>Download Premium 3GP Films for Free: Expert Tips on Mastering 3GP Downloaders and Converters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-the-best-last-chance-deals-under-1000-laptops-at-costco-amazon-and-dell-this-holiday-season-zdnet/"><u>Find the Best Last Chance Deals: Under $1000 Laptops at Costco, Amazon, and Dell This Holiday Season | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-memory-integrity-on-windows-11-amid-issues/"><u>Reestablishing Memory Integrity on Windows 11 Amid Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-windows-fbm-errors-seamless-chats-ahead/"><u>Resolve Windows FBM Errors, Seamless Chats Ahead</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hot-verbalizer/"><u>Snapshot Verbalizer</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-avoiding-password-entry-for-rdp-connections/"><u>Stealth Mode: Avoiding Password Entry for RDP Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-switching-assistants-helping-you-ditch-your-mac-os/"><u>Top 5 Switching Assistants Helping You Ditch Your Mac OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unfolding-the-pros-and-cons-of-samsung-ru7300-a-stylish-curved-4k-television/"><u>Unfolding the Pros and Cons of Samsung RU7300, A Stylish Curved 4K Television.</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-witness-the-power-of-4k-the-most-impressive-video-demos-for-2024/"><u>Updated Witness the Power of 4K The Most Impressive Video Demos for 2024</u></a></li>
 </ul></div>
 

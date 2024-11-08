@@ -1,7 +1,7 @@
 ---
 title: "Resolving 0X8007045D Error in Windows 11: A Step-by-Step Guide"
-date: 2024-10-29T21:41:55.883Z
-updated: 2024-11-02T00:20:42.225Z
+date: 2024-10-31T16:04:46.295Z
+updated: 2024-11-07T18:46:12.597Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
  It isn't unheard of to encounter the 0x8007045d error because of a loosely connected USB stick or CD/DVD drive. So disconnect the external storage from your PC, reconnect it, and then check if it still works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Download the Affected Files Again
@@ -87,27 +94,7 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
 ![hardware and device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-device.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As soon as it finds the error, the tool will fix it right then and there. Check and see if the Windows 0x8007045d error is still present.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Copy Your Files From the USB Drive Onto Your PC
 
@@ -125,13 +112,26 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the 0x8007045d Error on Your Windows PC
@@ -155,16 +155,15 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>[New] 2024 Approved Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-zombie-survival-quest-top-8-game-guide/"><u>[New] In 2024, Zombie Survival Quest - Top 8 Game Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/combating-the-deadly-windows-10-fatality-code-c0000022/"><u>Combating the Deadly Windows 10 Fatality Code C0000022</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficient-message-tricks-for-keeping-within-data-limits/"><u>Efficient Message Tricks for Keeping Within Data Limits</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A54 5G FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-no-device-drivers-were-found-error-while-installing-windows/"><u>How to Fix the No Device Drivers Were Found Error While Installing Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-create-identity-a-quick-walkthrough-of-customizing-your-youtube-url/"><u>In 2024, Create Identity A Quick Walkthrough of Customizing Your YouTube Url</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-rectify-non-previewable-documents-in-outlook/"><u>Strategies to Rectify Non-Previewable Documents In Outlook</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-gamers-decision-controller-or-stick/"><u>Ultimate Gamers' Decision: Controller or Stick?</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-your-logitech-g403-controller-software-on-laptopdesktop/"><u>Update Your Logitech G403 Controller Software on Laptop/Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-activating-new-widget-selection-interface/"><u>Win11: Activating New Widget Selection Interface</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-iphone-picture-perfection-mastering-resolution-shifts/"><u>[New] 2024 Approved IPhone Picture Perfection Mastering Resolution Shifts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-apowersoft-screen-record-unveiled-top-alternatives-reviewed-for-2024/"><u>[New] Apowersoft Screen Record Unveiled - Top Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-fix-obs-full-screen-not-working-issue/"><u>[New] How To Fix OBS Full Screen Not Working Issue?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uick-start-to-clear-background-filming/"><u>[New] Quick Start to Clear Background Filming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-to-creating-engaging-high-quality-asmr-scenes-for-2024/"><u>[New] Step-by-Step Guide to Creating Engaging, High-Quality ASMR Scenes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/exposing-the-9-most-puzzling-w11-layouts/"><u>Exposing the 9 Most Puzzling W11 Layouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-do-you-refresh-the-dns-cache-in-a-macos-environment/"><u>How Do You Refresh the DNS Cache in a macOS Environment?</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-the-malfunction-of-windows-11s-brightness-control-fn/"><u>Remedies for the Malfunction of Windows 11'S Brightness Control Fn</u></a></li>
+<li><a href="https://win11.techidaily.com/wake-up-your-pcs-potential-with-these-fixes-that-can-rescue-broken-keyboard-shortcuts-in-windows/"><u>Wake up Your PC's Potential with These Fixes that Can Rescue Broken Keyboard Shortcuts in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-desktop-website-launcher-guide/"><u>Windows Desktop Website Launcher Guide</u></a></li>
 </ul></div>
 

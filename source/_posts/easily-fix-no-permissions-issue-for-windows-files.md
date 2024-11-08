@@ -1,7 +1,7 @@
 ---
 title: Easily Fix No-Permissions Issue for Windows Files
-date: 2024-10-29T00:45:48.947Z
-updated: 2024-11-01T16:21:12.809Z
+date: 2024-11-01T16:51:19.631Z
+updated: 2024-11-07T21:57:18.605Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  Now you know what causes this error, let's explore the solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -43,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 5. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
@@ -61,12 +74,28 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 4. Click on **Change** next to **Owner** in the top section.  
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
@@ -82,36 +111,15 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
  After that, try to open photos on your external hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the Program Compatibility Troubleshooter
 
@@ -123,22 +131,6 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
 
  In this article, we explain how to fix this error, so you can view your photos again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[New] Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
-<li><a href="https://win11.techidaily.com/7-exciting-additions-on-the-horizon-for-windows-11s-moment-22h2/"><u>7 Exciting Additions on the Horizon for Windows 11'S Moment #22H2</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-judicious-use-of-ping-in-windows-operations/"><u>A Guide to Judicious Use of Ping in Windows Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-outlook-performance-in-windows/"><u>Accelerate Outlook Performance in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-windows-11-laptop-touchpad-sensitivity-guide/"><u>Adjusting Windows 11 Laptop Touchpad Sensitivity Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/assess-if-your-system-qualifies-for-new-windows-11/"><u>Assess if Your System Qualifies for New Windows 11</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/explore-digiarty-software-co-ltd-windowsdvd-comprehensive-enterprise-info/"><u>Explore Digiarty Software Co., Ltd. (Windows/DVD) - Comprehensive Enterprise Info</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-k70e-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Redmi K70E Unlock Without Password</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-engagement-your-essential-list-of-15-opener-templates/"><u>In 2024, Mastering Engagement Your Essential List of 15 Opener Templates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/launching-an-impactful-instagram-live-session-for-2024/"><u>Launching an Impactful Instagram Live Session for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unmasking-your-digital-echoes-a-deep-dive-into-the-dead-internet-theory/"><u>Unmasking Your Digital Echoes: A Deep Dive Into the Dead Internet Theory</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wow-anomaly-handling-guide-fix-519/"><u>WoW Anomaly Handling Guide: Fix #519</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +138,25 @@ thumbnail: https://thmb.techidaily.com/4cec3aa1742a3433211bae608e6076ab0be167115
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-engaging-gamers-banners-using-pre-made-themes/"><u>[New] In 2024, Crafting Engaging Gamers' Banners Using Pre-Made Themes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-foremost-10-recording-apps-for-social-media-vids/"><u>[Updated] 2024 Approved Foremost 10 Recording Apps for Social Media Vids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-8-free-screen-recorder-for-android/"><u>[Updated] 2024 Approved Top 8 Free Screen Recorder for Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhancing-business-communication-with-professional-skype-recordings-for-2024/"><u>[Updated] Enhancing Business Communication with Professional Skype Recordings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-asmr-recorders-for-exceptional-audio-quality-for-2024/"><u>10 Best ASMR Recorders for Exceptional Audio Quality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>2024 Approved Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-filesize-metrics-with-powershell-techniques/"><u>Decoding Filesize Metrics with PowerShell Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-lenovo-display-drivers-step-by-step-guide/"><u>Download & Upgrade Lenovo Display Drivers - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-best-wsl-2-practices-in-windows/"><u>Elevate Your Workflow: Best WSL 2 Practices in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-autonomous-command-line-emergence-in-os/"><u>Eliminating Autonomous Command Line Emergence in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-your-computers-core-creating-and-analyzing-reports/"><u>Exploring Your Computer's Core: Creating & Analyzing Reports</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-download-speed-suddenly-dropping-to-zero-on-steam-for-windows/"><u>How to Fix the Download Speed Suddenly Dropping to Zero on Steam for Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pick-the-perfect-vr-headset-my-comprehensive-review-of-top-vision-pro-and-competitor-models-zdnet/"><u>How to Pick the Perfect VR Headset? My Comprehensive Review of Top Vision Pro and Competitor Models | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-recommendations-superior-voice-modification-tools/"><u>Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-unzipped-problems-with-these-easy-steps-for-win-11/"><u>Resolve Unzipped Problems with These Easy Steps for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-your-mouse-pointer-on-windows-10/"><u>Stabilizing Your Mouse Pointer on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-collection-6-top-notch-fps-software-for-windows-11/"><u>The Ultimate Collection: 6 Top-Notch FPS Software for Windows 11</u></a></li>
+</ul></div>
+

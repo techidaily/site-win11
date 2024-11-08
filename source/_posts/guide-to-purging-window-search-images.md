@@ -1,7 +1,7 @@
 ---
 title: Guide to Purging Window Search Images
-date: 2024-10-26T00:29:31.167Z
-updated: 2024-11-02T00:03:31.763Z
+date: 2024-11-06T16:43:00.336Z
+updated: 2024-11-07T22:15:25.962Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364be
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
@@ -51,10 +51,10 @@ Here is how you can do that:
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
@@ -66,27 +66,27 @@ If you are a Windows 11 user, you can use these steps as well:
 2. Click on**Search permissions** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
 
@@ -107,15 +107,16 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeted-timeline-capture-securing-your-social-media-videos/"><u>[New] 2024 Approved Tweeted Timeline Capture Securing Your Social Media Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xploring-the-world-of-aspect-ratios-in-youtube-content-for-2024/"><u>[New] Exploring the World of ASPECT RATIOS in YOUTUBE Content for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pictorial-word-constructor/"><u>[New] Pictorial Word Constructor</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aving-youtube-videos-a-legal-overview/"><u>[New] Saving YouTube Videos A Legal Overview</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/making-the-switch-what-you-need-to-know-before-upgrading-to-ios-14/"><u>Making the Switch: What You Need to Know Before Upgrading to iOS 14</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-highlight-control-in-windows-11-os/"><u>Mastering Highlight Control in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-batch-to-executable-conversion-in-windows/"><u>Mastering the Art of Batch-to-Executable Conversion in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/power-through-work-on-windows-our-picks-for-the-best-5plus-productivity-tools/"><u>Power Through Work on Windows: Our Picks for the Best 5+ Productivity Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-streamlining-storage-in-win-11/"><u>The Ultimate Guide to Streamlining Storage in Win 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-high-performance-chatgpt-suggestions-for-cryptocurrency-inquiries/"><u>Top 10 High-Performance ChatGPT Suggestions for Cryptocurrency Inquiries</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/days-gone-navigating-a-post-apocalyptic-future-on-two-wheels-a-game-review/"><u>'Days Gone': Navigating a Post-Apocalyptic Future on Two Wheels – A Game Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-seamless-selection-the-finest-10-online-vimeo-file-harvesters/"><u>[New] In 2024, Seamless Selection The Finest 10 Online Vimeo File Harvesters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-utilizing-snap-camera-feature-on-microsoft-teams-for-2024/"><u>[New] Utilizing Snap Camera Feature on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/download-pro-tip-top-free-tools-for-restoring-damaged-pictures/"><u>Download Pro-Tip: Top Free Tools for Restoring Damaged Pictures</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effective-techniques-for-drm-removal-from-ebook-pages/"><u>Effective Techniques for DRM Removal From eBook Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-click-issues-in-windows-11-a-step-by-step-guide/"><u>Fixing Click Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-network-proxy-errors/"><u>Overcoming Windows Network Proxy Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-limit-high-utilization-by-windows-module-worker/"><u>Solutions to Limit High Utilization by Windows Module Worker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/visual-storytelling-crafting-compelling-narratives-in-youtube-videos-for-2024/"><u>Visual Storytelling Crafting Compelling Narratives in YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/where-to-buy-gopro-cameras-best-cheap-gopro-deals-for-2024/"><u>Where to Buy GoPro Cameras Best Cheap GoPro Deals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-outlook-turbocharged-tips/"><u>Winning Strategies: Outlook Turbocharged Tips</u></a></li>
 </ul></div>
 

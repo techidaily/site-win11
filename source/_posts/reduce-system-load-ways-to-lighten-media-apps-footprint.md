@@ -1,7 +1,7 @@
 ---
 title: "Reduce System Load: Ways to Lighten Media Apps' Footprint"
-date: 2024-10-28T16:32:06.124Z
-updated: 2024-11-01T17:14:27.542Z
+date: 2024-11-02T16:16:29.327Z
+updated: 2024-11-07T18:01:24.084Z
 tags:
   - windows10
   - windows11
@@ -39,22 +39,16 @@ To install a Windows 11 update:
 
  You can also learn how to[manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to[Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off News and Interests
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Turn Off News and Interests on Windows 10
 
@@ -63,13 +57,6 @@ To install a Windows 11 update:
 1. Right-click on the**Taskbar** to open the context menu.  
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
@@ -96,6 +83,14 @@ To install a Windows 11 update:
 4. In the right pane, right-click on**Enable News and Interests** **on the taskbar** policy and select**Edit** .  
 ![turn off news and interest disabled 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled-1.jpg)
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
@@ -114,42 +109,36 @@ To disable the news feed feature using Windows Registry:
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
 2. Rename the new value as**EnableFeeds** .
 3. Double-click on the**EnableFeeds** value to edit it.  
 ![registry editor new key Windows new DWORd value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value-0.jpg)
 4. Type**0** in the**Value data** field and click**OK** to save the changes.
-5. Close the Registry Editor and restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Close the Registry Editor and restart your computer to apply the changes.
 
 ## 5\. Add and Disable EnableFeeds Using PowerShell
 
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 
@@ -159,6 +148,13 @@ To disable the news feed feature using Windows Registry:
 `REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds" /v "EnableFeeds" /t REG_DWORD /d 0 /f`
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
@@ -179,17 +175,19 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-perfect-end-youtube-outro-essentials-and-top-creators/"><u>[New] 2024 Approved The Perfect End YouTube Outro Essentials & Top Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-command-the-stage-of-youtube-with-studio-skills/"><u>[Updated] 2024 Approved Command the Stage of YouTube with Studio Skills</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-live-to-legacy-preserving-facebook-events-for-2024/"><u>[Updated] From Live to Legacy Preserving Facebook Events for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlock-the-full-potential-of-your-fb-timeline/"><u>[Updated] In 2024, Unlock the Full Potential of Your FB Timeline</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-overcoming-persistent-pc-game-crashes/"><u>Assassin's Creed Valhalla - Overcoming Persistent PC Game Crashes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/echoes-of-entertainment-vr-cinematic-worlds-for-2024/"><u>Echoes of Entertainment VR Cinematic Worlds for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unsupported-fingerprint-detector-issue-on-pc/"><u>Fixing Unsupported Fingerprint Detector Issue on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/hacks-expose-trust-in-your-biometric-windows-lock/"><u>Hacks Expose: Trust in Your Biometric Windows Lock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-sony-xperia-5-v-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Sony Xperia 5 V to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/powerful-practices-reactivating-explore-in-11os/"><u>Powerful Practices: Reactivating Explore in 11OS</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-windows-11s-soon-to-expire-licensing-message/"><u>Remedying Windows 11'S 'Soon-to-Expire' Licensing Message</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-resolving-error-code-0xc0000005-in-windows/"><u>Step-by-Step Guide: Resolving Error Code 0XC0000005 in Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-best-wearable-action-cameras-for-extreme-sport-for-2024/"><u>[New] Best Wearable Action Cameras For Extreme Sport for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-snapper-to-maker-wealth-creation-on-snapchat-platforms/"><u>[New] In 2024, From Snapper to Maker Wealth Creation on Snapchat Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-inside-look-youtube-lives-image-interpretation/"><u>[New] Inside Look YouTube Live's Image Interpretation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-making-your-mark-strategies-for-monthly-growth-on-instagram/"><u>[Updated] 2024 Approved Making Your Mark Strategies for Monthly Growth on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-frozen-and-blank-screen-problems-in-winsteam/"><u>Fixing Frozen and Blank Screen Problems in WinSteam</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x7b-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X7b in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-penning-persuasive-vlogger-content/"><u>In 2024, Strategies for Penning Persuasive Vlogger Content</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-world-of-windows-11-multi-tasking-like-a-pro/"><u>Navigating the World of Window's 11 Multi-Tasking Like a Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-rdr2-out-of-memory-mistake-by-boosting-your-pagefile-a-swift-solution/"><u>Resolve 'RDR2 - Out Of Memory' Mistake by Boosting Your Pagefile: A Swift Solution</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/reviving-windows-10-using-a-full-system-backup-a-comprehensive-tutorial/"><u>Reviving Windows 10 Using a Full System Backup: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remove-your-it-admin-cant-access-alert-on-pc/"><u>Steps to Remove Your IT Admin Can’t Access Alert on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-rectify-sound-malfunction-in-audacity-on-win-1111/"><u>Strategies to Rectify Sound Malfunction in Audacity on Win 11/11</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-go-2024-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark Go (2024) Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/what-no-longer-happens-in-windows-layouts/"><u>What No Longer Happens in Windows Layouts</u></a></li>
 </ul></div>
 

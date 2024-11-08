@@ -1,7 +1,7 @@
 ---
 title: Methods to Resolve 'Network Unavailable' Error in PC
-date: 2024-10-28T00:39:19.853Z
-updated: 2024-11-02T03:46:15.912Z
+date: 2024-11-01T22:13:15.538Z
+updated: 2024-11-07T20:52:51.648Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable Network Discovery on Your Computer
 
  Network discovery is a Windows setting that follows its name. It makes your computer visible on a network or a local home server. When by chance, the network discovery is disabled from settings, you can neither find other devices nor transfer anything on a network.
@@ -69,28 +76,21 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 ![Network And Internet Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/network-and-internet-settings-preview.jpg)
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
 ![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Clear the DNS Cache on Windows
@@ -106,14 +106,14 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 ![IpConfig Cmd In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ipconfig-cmd-in-command-prompt.jpg)
 4. Now you can retry sharing files on the network.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reset the TCP/IP Settings
 
@@ -129,18 +129,18 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 ![Windows Services App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-app-preview.jpg)
 4. Wait for a while till Windows force restarts the service. Once done, disconnect and then reconnect your internet.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's not it! You need to follow some more steps to address this issue.
 
  To start, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and type **netsh int ip reset**. Press the **Enter** key and restart your computer now.
 
  After a restart, the changes should take effect, and you may no longer face the network resource unavailable error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear Outdated ARP Cache
 
@@ -169,29 +169,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  We'll look closer at the possible solutions to overcome the network resource unavailable error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-digital-cosmos-display-top-pick-hdr-sky-sites-list/"><u>[New] In 2024, Digital Cosmos Display Top Pick HDR Sky Sites List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[Updated] 2024 Approved Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/7-annoying-wins-windows-11s-design-dissonance/"><u>7 Annoying Wins: Windows 11'S Design Dissonance</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/accelerating-attention-how-to-alter-video-speed-on-stories/"><u>Accelerating Attention How to Alter Video Speed on Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-install-net-application-complaint/"><u>Addressing the Install .NET Application Complaint</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-frustration-of-disconnected-discord-setup/"><u>Avoiding the Frustration of Disconnected Discord Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-wait-winning-strategies-to-fasten-upstart-in-win11/"><u>Beat The Wait: Winning Strategies to Fasten Upstart in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/blackview-minipc-ample-storage-average-speed/"><u>Blackview MiniPC: Ample Storage, Average Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-pc-life-after-declining-windows-11-upgrade/"><u>Boost Your PC Life After Declining Windows 11 Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-vram-maximizing-graphics-power-on-windows-os/"><u>Boosting VRAM: Maximizing Graphics Power on Windows OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-se-2022-how-to-unlock-a-disabled-iphone-se-2022-by-drfone-ios/"><u>Disabled iPhone SE (2022) How to Unlock a Disabled iPhone SE (2022)?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2020-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2020) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-your-pcs-os-a-step-by-step-guide-to-finding-the-windows-11-build-version/"><u>Identifying Your PC's OS: A Step-by-Step Guide to Finding the Windows 11 Build Version</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c67-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C67 4G FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/1719367006018-need-windows-help-find-support-tips-and-solutions/"><u>Need Windows Help? Find Support Tips & Solutions!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-your-hp-experience-expert-guide-to-screen-capture-for-2024/"><u>Optimizing Your HP Experience Expert Guide to Screen Capture for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-components-toms-hardware-breakdown/"><u>The Ultimate Resource for Computer Components - Tom's Hardware Breakdown</u></a></li>
-<li><a href="https://win11.techidaily.com/1719299925084-understanding-and-correcting-windows-error-0xc00000f/"><u>Understanding & Correcting Windows Error: 0Xc00000f</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -199,3 +176,25 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>[Updated] 2024 Approved Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-choice-10-free-youtube-subtitle-extractors/"><u>[Updated] 2024 Approved Essential Choice 10 FREE YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-youtube-monetization-a-cpm-perspective/"><u>[Updated] In 2024, Mastering YouTube Monetization A CPM Perspective</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-methods-syncing-ios-images-and-movies-to-windows/"><u>2024 Approved Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-tips-for-superior-4k-visual-quality-with-gear/"><u>Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-os-maintenance-the-unique-traits-of-chkdsk-scan-disk-vs-dissect/"><u>Explaining OS Maintenance: The Unique Traits of Chkdsk, Scan Disk Vs. Dissect</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/from-basic-to-pro-3-advanced-transition-techniques-in-fcp-for-2024/"><u>From Basic to Pro 3 Advanced Transition Techniques in FCP for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-session-invalid-error-in-steam-gaming/"><u>How To Prevent “Session Invalid” Error in Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-shutdown-hindered-error-from-peculiar-windows-programs/"><u>How to Resolve Shutdown Hindered Error From Peculiar Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-an-automatic-update-reminder-toolbar-on-windows-11/"><u>Implementing an Automatic Update Reminder Toolbar on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-professional-recording-software-for-education-sector/"><u>In 2024, Professional Recording Software for Education Sector</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-user-preferences-with-powertoys-across-devices/"><u>Keeping User Preferences with PowerToys Across Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-access-denial-during-os-installer-processes/"><u>Resolving Access Denial During OS Installer Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-directory-fullness-errors-with-code-0x80070091-on-windows-11/"><u>Resolving Directory Fullness Errors with Code: 0X80070091 on Windows 11</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-5-recommended-anime-video-platforms-and-players/"><u>Top 5 Recommended Anime Video Platforms and Players</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-discord-resolving-unresizeable-gif-issues-in-win11/"><u>Troubleshooting Discord: Resolving Unresizeable GIF Issues in Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-hue-harmonizer-tool/"><u>Ultimate Hue Harmonizer Tool</u></a></li>
+</ul></div>
+

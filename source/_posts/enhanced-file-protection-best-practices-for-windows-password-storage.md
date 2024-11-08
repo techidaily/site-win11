@@ -1,7 +1,7 @@
 ---
 title: "Enhanced File Protection: Best Practices for Windows Password Storage"
-date: 2024-10-27T00:12:48.706Z
-updated: 2024-11-01T20:11:45.359Z
+date: 2024-11-06T21:58:01.279Z
+updated: 2024-11-07T23:54:07.958Z
 tags:
   - windows10
   - windows11
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With Secure Edit
 
  Like LockNote, Secure Edit incorporates password and encryption features into your text file. However, it also lets you add images in PNG and BMP format. So, this is how you can add passwords to Windows text files with Secure Edit.
@@ -75,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The Secure Edit window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/secure-edit-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Input some content within the text editor.
@@ -87,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 3. Select the **Save as** option.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
@@ -112,22 +113,15 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 ![The open file with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-selection-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Visual Options** menu within Secure Edit includes customization options for the software. Click **Options** and **Visual Options** to access that menu. Then you can select four alternative themes from there.
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
@@ -156,19 +150,20 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
@@ -189,19 +184,6 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-inside-the-innovations-of-vegaspro-19/"><u>[New] Inside the Innovations of VegasPro '19</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pro-level-insights-transforming-your-instagram-feed/"><u>[Updated] 2024 Approved Pro-Level Insights Transforming Your Instagram Feed</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-resource-unavailable-on-windows-systems-149-chars/"><u>Correcting Resource Unavailable on Windows Systems (149 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-blockers-fixing-office-activation-failures/"><u>Disabling Blockers: Fixing Office Activation Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-false-vulnerability-signal-in-chrome/"><u>Eliminating False Vulnerability Signal in Chrome</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/quality-game-capture-apps-reviewed/"><u>High-Quality Game Capture Apps Reviewed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/modernize-your-vintage-tech-skip-windows/"><u>Modernize Your Vintage Tech, Skip Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-file-download-problems-in-windows/"><u>Strategies to Overcome File Download Problems in WIndows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -209,3 +191,17 @@ thumbnail: https://thmb.techidaily.com/053654aac9195ea45d1f77852c408a3b2770cc6c8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-simplysnap-screen-shots-for-w10-users/"><u>[New] In 2024, SimplySnap Screen Shots for W10 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-overcoming-inconsistency-stop-obs-frame-loss/"><u>[Updated] 2024 Approved Overcoming Inconsistency Stop OBS Frame Loss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-galaxy-s8-review-a-leap-forward-with-4k-display/"><u>[Updated] Galaxy S8 Review - A Leap Forward with 4K Display</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-updated-list-of-tiktok-competitors-for-the-savvy-user/"><u>[Updated] The Updated List of TikTok Competitors for the Savvy User</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-windows-store-app-installs-post-error/"><u>Enabling Windows Store App Installs Post-Error</u></a></li>
+<li><a href="https://win11.techidaily.com/from-novice-to-pro-mastering-windows-11s-ui-elements/"><u>From Novice to Pro: Mastering Windows 11'S UI Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-tackle-windows-snipshot-issue/"><u>Step-by-Step Guide to Tackle Windows Snipshot Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-grab-your-preferred-magsafe-charger-for-ios-gadgets-at-a-whopping-60-discount-read-more-on-zdnet/"><u>Unbeatable Deal Alert: Grab Your Preferred MagSafe Charger for iOS Gadgets at a Whopping 60% Discount - Read More on ZDNet!</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackling-windows-files-ending-read-lock/"><u>Unshackling Windows Files: Ending Read Lock</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Journey: From .bat to Executable on Windows OS"
-date: 2024-10-25T18:49:11.948Z
-updated: 2024-11-02T00:41:17.708Z
+date: 2024-11-01T19:32:19.188Z
+updated: 2024-11-07T21:44:58.103Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
  Now, there are two broad ways to go about it. First, you can rely on a handy converter and let it convert your BAT files to EXE file. But, if you’re more of a do-it-yourself person, you can also go the manual way. Let’s dive into using the in-built Windows tool first.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Convert Your Batch Files to EXE with IExpress
 
 [IExpress](https://en.wikipedia.org/wiki/IExpress) is a free Windows program, in use since Windows 2000, specifically designed to create self-extracted packages. This is what makes it super handy for converting your Batch (BAT) files into EXE ones as well.
@@ -41,22 +54,8 @@ To launch the IExpress app, follow the steps below:
 ![iexpress wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/iexpress-wizard.JPG)
 4. Enter a name for the**Package** **title** and hit**Next** again.  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
 5. Select**No prompt** and hit**Next** .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Select**Do not display** **a license** and click on**Next** .
 7. Click on**Add** to select the batch script you want to convert, and click on the**Next** button.
@@ -65,41 +64,22 @@ cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
 
  Stick with the default option in the**Show window** and**Finished message** menu, and click**Next** . Now, in the**Package Name and Options** menu, select**Browse** to pick a target path, name the file anything you’d like, and click on**Next** . In the following few pages, click on**Next** without changing anything.
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Convert Batch Files to EXE With a Converter
 
@@ -114,7 +94,21 @@ cmd /c Calculator.bat
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Converting Batch Files to EXEs on Windows
 
@@ -135,21 +129,24 @@ cmd /c Calculator.bat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-prime-presenter-prefix-planner/"><u>[New] Prime Presenter Prefix Planner</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-science-of-luts-elevating-photo-aesthetics-for-2024/"><u>[Updated] The Science of LUTs Elevating Photo Aesthetics for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/auto-arcade-adventures-for-kids/"><u>Auto Arcade Adventures for Kids</u></a></li>
-<li><a href="https://win11.techidaily.com/enriched-learning-through-ed-themed-ui-on-win-11/"><u>Enriched Learning Through Ed-Themed UI on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-file-notifications-in-windows-outlook/"><u>Eradicating File Notifications in Windows Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disregard-the-upcoming-expiry-alert-in-windows-1011/"><u>How To Disregard the “Upcoming Expiry” Alert in Windows 10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel Online with DigiSigner</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-c12-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia C12 to Roku | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-comprehensive-look-at-vr-video-recording-systems/"><u>In 2024, A Comprehensive Look at VR Video Recording Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-130-music-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia 130 Music FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-adjusting-admin-settings-on-windows-11/"><u>Master the Art of Adjusting Admin Settings on Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-english-pronunciation-via-intense-tongue-twisters/"><u>Mastering English Pronunciation via Intense Tongue Twisters</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablish-uninterrupted-gameplay-in-gaming-environment/"><u>Reestablish Uninterrupted Gameplay in Gaming Environment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-solve-the-magic-mouse-movement-error/"><u>Seamlessly Solve the Magic Mouse Movement Error</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-hidden-net-identity-errors-windows/"><u>Tackling Hidden Net Identity Errors Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-shield-of-anonymity-network-file-security-on-windows/"><u>The Shield of Anonymity: Network File Security on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-integrate-insta-tweet-and-snap-a-comprehensive-guide/"><u>[New] In 2024, Integrate Insta, Tweet & Snap A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[New] In 2024, Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>[New] Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-unfamiliar-yet-valuable-windows-11-tools/"><u>Discover Unfamiliar Yet Valuable Windows 11 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-why-you-shouldnt-disable-wins-11-notifications/"><u>Discover Why You Shouldn't Disable Wins 11 Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-have-the-budget-improve-older-pc-on-win10/"><u>Don’t Have the Budget? Improve Older PC on Win10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-tp-link-ub400-bluetooth-adapter-drivers-free-updates-available/"><u>Download the Latest TP-Link UB400 Bluetooth Adapter Drivers - Free Updates Available</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-broadcasted-theatrical-skits/"><u>In 2024, Excellence in Broadcasted Theatrical Skits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-stock-photos-their-journey-to-internet-fame/"><u>In 2024, Top Stock Photos Their Journey to Internet Fame</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-microsoft-store-error-0x80131500/"><u>Overcoming Microsoft Store Error 0X80131500</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/precious-playtimes-kids-fun-and-games-anthology-for-2024/"><u>Precious Playtimes Kids' Fun & Games Anthology for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-on-connectivity-discover-a-cost-effective-13-port-dock-station-featuring-dual-4k-hdmi-adapters-now-just-49-on-zdnet/"><u>Save Big on Connectivity: Discover a Cost-Effective 13-Port Dock Station Featuring Dual 4K HDMI Adapters, Now Just $49 on ZDnet</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-success-top-tips-to-overcome-windows-errors/"><u>Scripting Success: Top Tips to Overcome Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-the-essential-taskbar-for-windows-11-slate-devices/"><u>Setting Up the Essential Taskbar for Windows 11 Slate Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-switching-to-admin-command-prompt-anytime-anywhere/"><u>Swiftly Switching to Admin Command Prompt, Anytime, Anywhere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-app-issues-on-windows-10-and-11/"><u>Troubleshooting App Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-shared-content-via-geforce/"><u>Unblocking Shared Content via GeForce</u></a></li>
 </ul></div>
 

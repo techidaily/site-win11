@@ -1,7 +1,7 @@
 ---
 title: Legacy PC Transition to Windows 11 22H2
-date: 2024-10-28T05:00:53.042Z
-updated: 2024-11-02T03:10:45.461Z
+date: 2024-11-02T16:02:40.885Z
+updated: 2024-11-07T18:36:48.630Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
 ![iso file download windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/iso-file-download-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can[legally download the Windows 11 ISO](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft server directly or using Media Creation Tool. For this guide, we’ll use Media Creation Tool to download the ISO image file.
 
 1. Go to the[Microsoft Software Download page](https://www.microsoft.com/software-download/windows11) .
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 9. Once the download is complete, click**Finish** and follow the next step to download Windows 10 ISO.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Download a Windows 10 ISO
@@ -94,10 +101,10 @@ To download Windows 10 ISO:
 2. Next, disconnect your PC from the Internet. This prevents the setup from downloading updated files during installation and overwriting the modified dll file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once the Internet is disabled, open the extracted Windows 11 ISO folder and double-click on the**Setup file** . Click**Yes** if prompted by UAC.
@@ -105,48 +112,42 @@ To download Windows 10 ISO:
 ![windows 11 setup not right now updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-not-right-now-updates.jpg)
 5. Next, select**Note right now.** This will prevent the Windows setup from finding and installing newer updates causing the upgrade process to fail on unsupported hardware.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![windows 11 setup choose what to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-choose-what-to-install.jpg)
 6. In the**Choose what to keep** screen, select**Keep personal files and apps.**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click**Next** and then click on**Accept** .  
 ![windows 11 setup ready to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-setup-ready-to-install.jpg)
 8. Next, click on**Install** to install Windows 11 version 22H2 while keeping your personal files and apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Leave your computer idle until the installation process is complete. After the restart, you’ll have the latest Windows 11 22H2 running on your computer.
 
 To check your Windows specification:
 
 ![check windows specification windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-windows-specification-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press**Win + I** to open**Settings** .
 2. In the**System** tab, scroll down and click on**About** .
 3. Under Windows specifications, you’ll see**Version 22H2** if the upgrade was successful.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Go Back to the Previous Version
 
@@ -161,10 +162,16 @@ To go back to the previous version:
 3. Click on**Go back** under**Recovery options** . Then, follow the on-screen instructions to uninstall the Windows 22H2 update.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installing Windows 11 22H2 on Unsupported Hardware
@@ -188,21 +195,19 @@ To go back to the previous version:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-troubleshooting-obs-fullscreen-failure/"><u>[New] Troubleshooting OBS Fullscreen Failure</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-breakdown-of-funds-required-for-music-video-shooting/"><u>[Updated] Breakdown of Funds Required for Music Video Shooting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-handheld-cameras-for-uninterrupted-shots-for-2024/"><u>Best Handheld Cameras for Uninterrupted Shots for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/best-practices-for-rl-video-editing-and-post-processing-for-2024/"><u>Best Practices for RL Video Editing and Post-Processing for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-the-persistent-windows-update-problem-error-0x80240017-explained/"><u>Comprehensive Fix for the Persistent Windows Update Problem: Error 0X80240017 Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-substitute-methods-for-the-ls-command-in-windows/"><u>Discovering Substitute Methods for the LS Command in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-m-audio-fast-track-drivers-for-various-windows-versions-today/"><u>Download & Install M-Audio Fast Track Drivers for Various Windows Versions Today!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-high-resolution-pics-viewer-quickly/"><u>In 2024, Premium High-Resolution Pics Viewer, Quickly</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/masterful-remedies-overcoming-halo-e-3s-persistent-crashes-during-playtime-on-desktop/"><u>Masterful Remedies: Overcoming Halo E 3'S Persistent Crashes During Playtime on Desktop</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-create-a-heartfelt-valentines-day-video-message-for-your-special-someone/"><u>New In 2024, Create a Heartfelt Valentines Day Video Message for Your Special Someone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-systems-refusal-to-run-latest-windows-version/"><u>Overcoming System's Refusal to Run Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/perfectly-pairing-words-and-images-emoji-15-in-win11/"><u>Perfectly Pairing Words and Images: Emoji 15 in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-printmanagement-msc-error-a-step-by-step-guide/"><u>Solving 'PrintManagement' MSC Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tip-quiet-down-windows-hardware-keys/"><u>Tech Tip: Quiet Down Windows' Hardware Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-to-recover-lost-gpeditmsc-access/"><u>Unlocking Secrets to Recover Lost Gpedit.msc Access</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-control-panel-hacks-usb-access-management/"><u>Windows Control Panel Hacks: USB Access Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-a-sturdy-tiktok-bio-with-direct-url-integration/"><u>[New] Crafting a Sturdy TikTok Bio with Direct URL Integration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-facebook-connection-essentials/"><u>[New] In 2024, Insta-Facebook Connection Essentials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keep-track-who-dropped-off-my-insta-feed/"><u>[New] In 2024, Keep Track Who Dropped Off My Insta Feed?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/acid-pro-revisited-exploring-equivalent-tools-for-2024/"><u>ACID Pro Revisited Exploring Equivalent Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-xbox-game-pass-glitch-windows-11s-0x800700e9/"><u>Dealing with Xbox Game Pass Glitch: Windows 11'S 0X800700E9</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-change-heic-to-jpeg-using-windows-tools/"><u>Efficiently Change HEIC to JPEG Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-window-background-clarity-in-w11/"><u>Enhancing Window Background Clarity in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-30-compelling-video-presentation-ideas/"><u>In 2024, A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/privacy-preserving-photography-with-pixelated-faces-for-2024/"><u>Privacy-Preserving Photography with Pixelated Faces for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-showdown-detailed-review-of-the-s10plus-against-its-successor-the-s20/"><u>Samsung Galaxy Showdown: Detailed Review of the S10+ Against Its Successor, the S20</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-unsupported-media-error-on-windows-vlc/"><u>Solving the Unsupported Media Error on Windows, VLC</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

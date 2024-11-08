@@ -1,7 +1,7 @@
 ---
 title: Remedying DirectX Installation Obstacles
-date: 2024-10-30T19:56:32.194Z
-updated: 2024-11-02T00:43:09.005Z
+date: 2024-11-03T18:53:00.276Z
+updated: 2024-11-07T22:10:10.279Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 
  However, some users have reported experiencing the error under discussion when installing DirectX on a standard account, despite granting administrative rights. So, before applying further fixes, please switch to your administrator account if you are signed in with a standard user account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ensure You're Connected to the Internet
 
  Since the error message suggests checking your internet connection, make sure your device is connected to the internet and that it is functioning properly. To confirm that, go to your preferred web browser and search for anything. If the search process goes successfully and search results appear, your device is connected to the internet.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
  However, if you encounter an error while searching on a browser, there could be a problem with your internet connection. In that case, refer to our guide for[Windows 11 Wi-Fi problems](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/) , assess which problem is relevant to your situation, and apply the appropriate fixes. If the error was caused due to an unstable or inaccessible internet, restoring your connectivity will resolve it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable and Re-enable Your Network Connection
@@ -61,16 +54,24 @@ thumbnail: https://thmb.techidaily.com/07be777ce45c307461ad22ca534398f5c53e5285d
 ![Go to Advanced Network Settings in Network and Internet Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-advanced-network-settings-in-network-and-internet-tab-of-windows-settings-app.jpg)
 4. Click the**Disable** button next to the internet connection you are using.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
@@ -86,7 +87,21 @@ netsh winsock reset`
 
 ![Run Certain Commands in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-certain-commands-in-windows-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Temporarily Disable the Microsoft Defender Firewall
 
@@ -117,30 +132,10 @@ netsh winsock reset`
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
 6. Then, click**OK** in the**DirectX** window, and its files will be extracted to the desktop folder.  
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click OK in the DirectX Installation Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-click-ok-in-the-directx-installation-window.jpg)
 7. Now, locate**DXSetup** in the folder.  
 ![Locate DXSetup File in the DirectX Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-locate-dxsetup-file-in-the-directx-folder-in-windows-file-explorer.jpg)
 8. Run the setup file and follow the on-screen instructions. Hopefully, it will be installed successfully this time.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
 
@@ -163,22 +158,18 @@ netsh winsock reset`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-instantaneous-live-streaming-via-obs-and-instagram/"><u>[New] In 2024, The Ultimate Guide to Instantaneous Live Streaming via OBS & Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-definitive-guide-to-android-mobas-10-winners/"><u>[Updated] The Definitive Guide to Android MOBAs #10 Winners</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-maximize-your-screen-recording-experience-with-w8-tools/"><u>2024 Approved Maximize Your Screen Recording Experience with W8 Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlining-your-live-broadcast-ps4-recording-via-obs-studio/"><u>2024 Approved Streamlining Your Live Broadcast PS4 Recording via OBS Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-iis-manager-entry/"><u>Essential Tips for IIS Manager Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-on-skyrocketing-your-cs-gameplay/"><u>Expert Advice on Skyrocketing Your CS Gameplay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-htc-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on HTC </u></a></li>
-<li><a href="https://win11.techidaily.com/from-old-extensions-to-new-ones-the-windows-way/"><u>From Old Extensions to New Ones: The Windows Way</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic5-ultimate-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic5 Ultimate Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-synergizing-visual-cues-with-the-right-musical-choices/"><u>In 2024, Synergizing Visual Cues with the Right Musical Choices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/innovative-fb-video-editors-for-high-impact-advertising-campaigns-for-2024/"><u>Innovative Fb Video Editors for High-Impact Advertising Campaigns for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-windows-11-manager-access-restoration-techniques/"><u>Overcoming Obstacles: Windows 11 Manager Access Restoration Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-a-non-functional-windows-11-search-box-in-the-ui/"><u>Reactivating a Non-Functional Windows 11 Search Box in the UI</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-standard-plans-for-windows-11-battery-use/"><u>Restoring Standard Plans for Windows 11 Battery Use</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-text-display-error-in-windows-11-resource/"><u>Troubleshooting Text Display Error in Windows 11 Resource</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-online-how-to-mend-fall-guys-connection-glitches-on-pc/"><u>Winning Back Online: How to Mend Fall Guys Connection Glitches on PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-producing-high-impact-slack-channels/"><u>[New] The Art of Producing High-Impact Slack Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-foundational-approach-to-gradual-volume-adjustment-for-2024/"><u>[Updated] Foundational Approach to Gradual Volume Adjustment for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>[Updated] Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
+<li><a href="https://win11.techidaily.com/diminish-windows-volume-boost-feature/"><u>Diminish Windows Volume Boost Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-vmi-feature-in-windows-11-builds/"><u>How to Disable VMI Feature in Windows 11 Builds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/htc-vive-comfort-top-strategies-to-prevent-discomfort-for-2024/"><u>HTC Vive Comfort Top Strategies to Prevent Discomfort for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-2v-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 2V Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/key-management-for-customized-windows-tasks/"><u>Key Management for Customized Windows Tasks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightened-transition-tactics/"><u>Lightened Transition Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-a-smooth-sync-route-with-ms-to-do-app/"><u>Navigating a Smooth Sync Route with MS To-Do App</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-odds-5-ways-to-end-dark-screen-anomaly/"><u>Overcoming Odds: 5 Ways to End Dark Screen Anomaly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-personal-computing-how-apples-next-gen-m4-processor-infuses-advanced-ai-into-all-mac-devices-anticipated-launch-dates-disclosed/"><u>Revolutionizing Personal Computing: How Apple’s Next-Gen M4 Processor Infuses Advanced AI Into All Mac Devices - Anticipated Launch Dates Disclosed</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-to-mend-win-10win11-rd-errors/"><u>Tips and Tricks to Mend Win 10/Win11 RD Errors</u></a></li>
 </ul></div>
 

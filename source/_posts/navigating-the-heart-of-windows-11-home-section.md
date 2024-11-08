@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Heart of Windows 11: Home Section"
-date: 2024-10-28T01:19:29.318Z
-updated: 2024-11-01T20:42:12.977Z
+date: 2024-11-02T19:07:43.166Z
+updated: 2024-11-07T16:35:08.378Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
@@ -62,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/e431075a9d1c5a5fc01489c600cd9d77b46bf785e
  The enhanced Settings app with the included Home section isn't directly available in build 243943\. So, you must use Vivetool to enable the experimental feature. All you need to do is [download ViveTool from GitHub](https://github.com/thebookisclosed/ViVe/releases).
 
  After the download completes, navigate to the download location using File Explorer and extract the contents of the archive to a folder named "**Vive**". Move the folder containing the Vivetool to the **C** drive.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Home Section in the Settings App
 
@@ -87,6 +73,20 @@ vivetool /enable /id:42058313`
 ![Enable the New Home Section in the Settings App 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-the-new-home-section-in-the-settings-app-2-1.jpg)
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does the Enhanced Settings App Look Like?
 
  We compared the experimental and the old Settings app, and there are a few noticeable changes. For example, you automatically land on the Home section every time you open the enhanced Settings app.
@@ -104,10 +104,16 @@ vivetool /enable /id:42058313`
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Revamped Settings App on Windows
@@ -116,26 +122,6 @@ vivetool /enable /id:42058313`
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-ideal-screenshot-tools-for-live-broadcasts-on-youtube/"><u>[New] In 2024, Ideal Screenshot Tools for Live Broadcasts on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>[New] Passport Photo Creation Made Easy 10 Images at No Cost</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-your-video-impact-with-slow-motion-on-ig/"><u>[Updated] Enhance Your Video Impact with Slow Motion on IG</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>[Updated] In 2024, The Complete Checklist for Recording FB Chats and Meets</u></a></li>
-<li><a href="https://win11.techidaily.com/9-ways-to-fix-the-cant-switch-out-of-s-mode-issue-in-windows-11-or-10/"><u>9 Ways to Fix the “Can’t Switch Out of S Mode” Issue in Windows 11 or 10</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-immaculate-window-display-on-w11/"><u>A Guide to Immaculate Window Display on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-maintaining-perpetual-ps4-windows-tether/"><u>A Guide to Maintaining Perpetual PS4-Windows Tether</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-network-not-reachable-issues-on-windows-11-computers/"><u>Addressing 'Network Not Reachable' Issues on Windows 11 Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-failure-glitches-a-guide-for-fixing-windows-office-issues/"><u>Addressing Failure Glitches: A Guide for Fixing Windows Office Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/airplane-mode-heres-your-guide-for-win11/"><u>Airplane Mode? Here's Your Guide for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-system-stability-fixing-high-memory-usage-of-services/"><u>Boosting System Stability: Fixing High Memory Usage of Services</u></a></li>
-<li><a href="https://blog-min.techidaily.com/converti-file-aiff-su-formato-mp3-senza-costi-guida-completa-di-movavi/"><u>Converti File AIFF Su Formato MP3 Senza Costi: Guida Completa Di Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mastering-xbox-one-step-by-step-screen-capture-guide/"><u>In 2024, Mastering Xbox One Step-by-Step Screen Capture Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedying-the-saggy-effect-on-your-graphics-panel/"><u>Remedying the 'Saggy' Effect on Your Graphics Panel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-windows-pc/"><u>Troubleshooting FPS Drops & Stutters in Call of Duty: Modern Warfare 2 on Windows PC</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +129,25 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-decoding-auroras-advanced-photographic-capabilities/"><u>[New] Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-from-visual-tweets-to-mp3-outputs/"><u>[New] From Visual Tweets to MP3 Outputs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revolutionary-drone-editing-for-visual-storytellers/"><u>[New] Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://win11.techidaily.com/designed-with-the-educator-in-mind-asus-s15-review-revealed/"><u>Designed with the Educator in Mind: ASUS S15 Review Revealed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebooks-top-visual-discoveries-a-guide-for-2024/"><u>Facebook's Top Visual Discoveries A Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-intellij-unison-run-smoothly-on-win11/"><u>How to Make IntelliJ Unison Run Smoothly on Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>In 2024, Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-transform-your-tiktok-sound-altering-vocal-effects/"><u>In 2024, Transform Your TikTok Sound Altering Vocal Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-toolbar-additions-in-win-1011/"><u>Mastering Stealthy Toolbar Additions in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-your-keys-troubleshoot-win10-keyboard-problems/"><u>Resurrect Your Keys: Troubleshoot WIN10 Keyboard Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-fix-user-error-in-microsoft-oses/"><u>Solutions to Fix User Error in Microsoft OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-the-windows-11-v22h2-update-hurdle/"><u>Techniques to Overcome the Windows 11 V22H2 Update Hurdle</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-picks-why-the-ring-video-doorbell-pro-stands-out-in-reviews/"><u>Top Picks: Why the Ring Video Doorbell Pro Stands Out in Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-uptime-failure-solving-error-code-0x80246007-in-win11/"><u>Triumph over Uptime Failure: Solving Error Code 0X80246007 in Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unmissable-classic-and-modern-family-films-your-complete-dvd-movie-guide/"><u>Unmissable Classic and Modern Family Films: Your Complete DVD Movie Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
+</ul></div>
+

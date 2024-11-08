@@ -1,7 +1,7 @@
 ---
 title: "Tackling 0X80072746: A Step-by-Step Mail Correction in Windows"
-date: 2024-10-27T01:44:52.071Z
-updated: 2024-11-02T00:02:06.951Z
+date: 2024-11-04T21:53:27.528Z
+updated: 2024-11-07T19:46:11.051Z
 tags:
   - windows10
   - windows11
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 ![VPN settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-settings-windows.jpg)
 3. Enable the **Allow VPN over metered network** option.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Allow VPN over metered network in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-over-metered-network.jpg)
 4. Now, head over to the "Related settings" section and choose **Change adapter options**.
 5. Right-click on your LAN (Wi-Fi) connectivity and choose **Properties** from the context menu.
@@ -71,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
  You can now close the Settings app and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set Up Your Account Manually
@@ -92,15 +85,16 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 ![Manage accounts option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-accounts.jpg)
 3. Select the problematic email and choose **Delete account from this device** from the options available.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Delete the account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-mail-app.jpg)
 4. Confirm your action in the next window.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once the email account is removed, launch the official website of your email provider and copy the manual settings for IMAP. If these settings are not available, choose POP3\.
 
 1. Now, head back to the Mail client and launch the settings.
@@ -109,16 +103,30 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 3. Scroll down and choose **Advanced Setup**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
 5. Finally, click on **Sign in** and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update the Mail App
 
@@ -136,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Fix Corruption Issues Within the Mail App
 
  If updating the application did not help, there are also some other fixes that can help you resolve any corruption issues within the Mail app that might be leading to the problem. This involves [repairing and resetting the Mail application](https://www.makeuseof.com/mail-app-cant-get-mail-windows/).
@@ -157,21 +158,6 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ow-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[New] How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-behind-the-scenes-of-video-studios-xreview-analysis/"><u>[Updated] 2024 Approved Behind the Scenes of Video Studios XReview Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-into-a-non-operational-itunes-windows-app/"><u>Breathing Life Into a Non-Operational iTunes Windows App</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-unresponsive-programs-in-windows-systems/"><u>Bypassing Unresponsive Programs in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-pathway-for-smooth-windows-discord-installation/"><u>Clearing the Pathway for Smooth Windows Discord Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-windows-10-tracking-step-by-step-tutorial/"><u>Clearing Windows 10 Tracking: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-ins-and-outs-of-usb-30-transfer-velocity-cable-selection-and-connector-compatibility/"><u>Exploring the Ins and Outs of USB 3.0: Transfer Velocity, Cable Selection, and Connector Compatibility</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avs-video-editor-2023-review-pros-cons-and-verdict/"><u>In 2024, AVS Video Editor 2023 Review Pros, Cons, and Verdict</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mix-mastery-choosing-top-dj-videos-for-events/"><u>In 2024, Mix Mastery Choosing Top DJ Videos for Events</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-budget-savvy-4k-large-screen-options/"><u>In 2024, Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-8-plus-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 8 Plus? Fixed | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +165,25 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[New] 2024 Approved The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-documentarians-guide-to-captivating-audience/"><u>[New] The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-create-text-memes-with-meme-text-generator/"><u>[Updated] How to Create Text Memes with Meme Text Generator?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-gratuite-de-fichiers-flv-vers-ligne-movavi/"><u>Conversion Gratuite De Fichiers FLV Vers Ligne - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-resolving-error-code-0xc00000f-in-windows/"><u>Deciphering and Resolving Error Code 0xC00000F in Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-teac-pd-301-where-tasteful-style-meets-premium-sound/"><u>Exploring Teac PD-301: Where Tasteful Style Meets Premium Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/get-the-most-out-of-windows-11-essential-settings-for-upgraded-speed/"><u>Get the Most Out of Windows 11: Essential Settings for Upgraded Speed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>In 2024, Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-tasks-with-these-excellent-8-windows-timer-apps/"><u>Master Your Tasks with These Excellent 8 Windows Timer Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-pc-upgrades-trust-in-toms-hardware-expertise/"><u>Mastering Your PC Upgrades: Trust in Tom's Hardware Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-access-barriers-on-windows-11/"><u>Overcoming File Access Barriers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-control-panel-configurations-in-win11/"><u>Rediscover Lost Control Panel Configurations in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-non-existent-camera-issue-in-windows-device-hub/"><u>Resolve Non-Existent Camera Issue in Windows Device Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-clock-and-dates-windows-1011-guide/"><u>Tailor Your Clock and Dates: Windows 10/11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/track-down-and-fix-gone-data-devices-on-pc/"><u>Track Down and Fix Gone Data Devices on PC</u></a></li>
+</ul></div>
+

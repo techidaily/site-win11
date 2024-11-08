@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unstable Operating System with DF Gameplay
-date: 2024-10-30T02:27:51.075Z
-updated: 2024-11-01T21:19:44.577Z
+date: 2024-11-05T22:22:13.616Z
+updated: 2024-11-07T20:47:05.423Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
@@ -57,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -73,22 +73,15 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set the Resolution to Non-Widescreen
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
 
@@ -96,9 +89,23 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
@@ -113,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 5. Delete all the files except for**world.sav** .
 
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## New Game Version, New Game Crashes
 
@@ -144,24 +144,18 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>[New] Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>[Updated] Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-slomo-videography-app-review-update/"><u>[Updated] Ultimate Guide to SloMo Videography App Review Update</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725286044076-dvdmp4/"><u>無料で完全機能付き: DVD画像をMP4動画に変換する優秀なフリーツールを見つけた!</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-forlorn-windows-apps-back-into-use/"><u>Bringing Forlorn Windows Apps Back Into Use</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-windows-up-to-date-key-differences-from-w10-to-w11/"><u>Bringing Windows Up to Date: Key Differences From W10 to W11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-credential-manager-lockup-in-windows/"><u>Bypass Credential Manager Lockup in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-screen-locks-for-uninterrupted-presentations/"><u>Bypass Screen Locks for Uninterrupted Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-error-while-opening-sound-device-in-audacity-for-windows/"><u>Bypassing Error While Opening Sound Device in Audacity for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-printer-busy-on-windows-11-systems/"><u>Bypassing Printer Busy on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/classic-conundrum-playing-vintage-games-with-dosbox-x/"><u>Classic Conundrum: Playing Vintage Games with DOSBox-X</u></a></li>
-<li><a href="https://win11.techidaily.com/clean-slate-for-steam-game-accomplishments/"><u>Clean Slate for Steam Game Accomplishments</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-non-mic-working-on-windows-headsets/"><u>Combat Non-Mic Working on Windows Headsets</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-transition-from-youtube-to-instagram-reels-for-2024/"><u>Direct Transition From YouTube to Instagram Reels for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-v27-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from V27.</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-s23-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy S23 Ultra Devices | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-synthesizing-best-canon-sequential-videos/"><u>In 2024, Synthesizing Best Canon Sequential Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-stellar-file-shredder-ultimate-scheduled-deletion-tool-for-secure-file-and-folder-removal/"><u>Mac Stellar File Shredder: Ultimate Scheduled Deletion Tool for Secure File & Folder Removal</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unleashing-the-power-of-preparedness-in-your-streams/"><u>Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-engaging-audiences-full-rotational-cinematography-for-2024/"><u>[New] Engaging Audiences Full Rotational Cinematography for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-sync-combining-ig-and-youtube-videos/"><u>[Updated] Social Sync Combining IG and YouTube Videos</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-keeping-track-of-itunes-audio-visual-files/"><u>2024 Approved Keeping Track of iTunes Audio-Visual Files</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-workings-of-runtime-brokers-in-computing/"><u>Delving Into the Workings of Runtime Brokers in Computing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-device-control-intel-me/"><u>Enhance Device Control: Intel ME</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-notification-management-skills-on-win-11/"><u>Perfect Your Notification Management Skills on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resilience-reinstated-the-5-key-repairs-for-family-safe/"><u>Resilience Reinstated: The 5 Key Repairs for Family Safe</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-updating-windows-without-internet/"><u>Securely Updating Windows Without Internet</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-input-flows-disable-mouse-acceleration-on-win-devices/"><u>Streamline Your Input Flows: Disable Mouse Acceleration on Win Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209675538-9781789041545-the-ritual-of-writing/"><u>The Ritual of Writing | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/universal-technique-for-easy-video-downloads-across-all-sites-without-troublesome-urls/"><u>Universal Technique for Easy Video Downloads Across All Sites Without Troublesome URLs</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-creative-potential-with-microsofts-innovative-paint-updates/"><u>Unlock Your Creative Potential with Microsoft's Innovative Paint Updates</u></a></li>
 </ul></div>
 

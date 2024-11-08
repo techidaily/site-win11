@@ -1,7 +1,7 @@
 ---
 title: "Unlock Global Communication: Hotkey-Based Language Switching in WinOS"
-date: 2024-10-30T17:06:27.928Z
-updated: 2024-11-02T01:50:31.440Z
+date: 2024-11-02T17:31:01.541Z
+updated: 2024-11-07T22:04:40.829Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
@@ -62,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
@@ -74,7 +73,21 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
 ### How to Translate Files With DeepL
@@ -105,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
@@ -140,22 +146,22 @@ thumbnail: https://thmb.techidaily.com/56db2abce12454619eb56aa29719b3ba982081a75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-captivating-content-with-30-video-ideas/"><u>[New] Craft Captivating Content with 30 Video Ideas</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips-for-2024/"><u>[New] The Art of Viral Marketing Mastering Instagram Fame Through 9 Key Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-exploring-and-expunging-windows-history/"><u>Essential Steps for Exploring and Expunging Windows History</u></a></li>
-<li><a href="https://win-able.techidaily.com/farewell-to-frustration-expert-strategies-for-solving-state-of-decay-2s-crashing-problem/"><u>Farewell to Frustration: Expert Strategies for Solving State of Decay 2'S Crashing Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-discord-overlay-failure-a-step-by-step-guide/"><u>Fixing Windows Discord Overlay Failure: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-audio-alteration-for-stories-and-reels-on-ig/"><u>In 2024, The Art of Audio Alteration For Stories and Reels on IG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>In 2024, The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-listening-select-best-android-music-video-apps-for-2024/"><u>Master the Art of Listening Select Best Android Music Video Apps for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-win1110-store-issue-0x80072efd/"><u>Mastering the Resolution of Win11/10 Store Issue 0X80072EFD</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-errors-validating-windows-11-temporary-folder/"><u>Preventing Errors: Validating Windows 11 Temporary Folder</u></a></li>
-<li><a href="https://win11.techidaily.com/propelling-linux-with-powerful-windows-integration/"><u>Propelling Linux with Powerful Windows Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-diagnostics-error-on-pc/"><u>Solutions for Fixing 'Diagnostics Error' On PC</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-journey-through-original-diablo/"><u>Step-by-Step Journey Through Original Diablo</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-essential-tools-every-new-creator-needs-for-2024/"><u>The Essential Tools Every New Creator Needs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-ditch-integrated-video-on-windows/"><u>Why and How to Ditch Integrated Video on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-steering-classic-games-to-your-pics/"><u>Windows 11: Steering Classic Games to Your Pics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-advanced-recording-of-screenshots-live-streams-and-audio-files/"><u>WinxVideo AI: Advanced Recording of Screenshots, Live Streams, and Audio Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-today-in-virtual-reality-hardware/"><u>[New] Today in Virtual Reality Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-strategies-for-sport-streams-on-the-fly/"><u>[Updated] In 2024, Innovative Strategies for Sport Streams on the Fly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-assessing-splitcams-standards-in-the-videographer-space/"><u>2024 Approved Assessing SplitCam’s Standards in the Videographer Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-shifting-spectrum-skills-pro-tips-unveiled/"><u>2024 Approved Shifting Spectrum Skills - Pro Tips Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-guide-to-watermark-free-video-rotation-software-the-best-free-picks-for-your-needs/"><u>Discover the Ultimate Guide to Watermark-Free Video Rotation Software - The Best Free Picks for Your Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/guarantee-stable-performance-of-your-windows-ui/"><u>Guarantee Stable Performance of Your Window's UI</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-self-extraction-power-with-the-newest-windows/"><u>Harnessing Self-Extraction Power with the Newest Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-famebit-pathways-to-secure-youtube-partnerships/"><u>In 2024, Navigating FameBit Pathways to Secure YouTube Partnerships</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-approach-to-quiet-background-programs-in-win11/"><u>Methodical Approach to Quiet Background Programs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-vanguards-user-mode-service-issues-in-windows/"><u>Navigating Through Vanguard’s User-Mode Service Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/replacing-original-windows-pdf-displayer/"><u>Replacing Original Windows PDF Displayer</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-changes-made-by-nvidia-gui-on-win11-systems/"><u>Restoring Lost Changes Made by Nvidia GUI on Win11 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speech-to-text-magic-for-ms-word-users/"><u>Speech-to-Text Magic for MS Word Users</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-back-the-clock-stripping-webp-from-your-browsers-saves/"><u>Turn Back the Clock: Stripping WebP From Your Browser's Saves</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-fixing-silent-lenovo-computers-a-step-by-step-solution/"><u>Ultimate Guide: Fixing Silent Lenovo Computers - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-drop-error-step-by-step-solutions/"><u>Win11's Drop Error: Step-by-Step Solutions</u></a></li>
 </ul></div>
 

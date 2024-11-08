@@ -1,7 +1,7 @@
 ---
 title: Uniting Device Accessibility with Sticky Notes in Win11
-date: 2024-10-28T19:25:05.313Z
-updated: 2024-11-02T05:13:00.244Z
+date: 2024-10-31T21:19:15.257Z
+updated: 2024-11-07T18:25:55.325Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  If you use Windows Sticky Notes frequently, you may want to [open Sticky Notes at startup on Windows 11](https://www.makeuseof.com/open-sticky-notes-startup-windows/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up the Sync Feature on Windows Sticky Notes
@@ -66,26 +66,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![OneNote iPhone App Homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-homescreen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![OneNote iPhone App Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/onenote-folders.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -99,11 +86,32 @@ Close
 
  To create a new note, hit the plus icon in the bottom right corner of the screen. You’ll then see a display similar to the Sticky Notes app for Windows, including its text formatting options. One helpful tool is the camera button, which allows you to upload a photo from your camera or iOS photo album.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Use Your Windows Sticky Notes on Android Devices
 
 ![Sticky Notes list in OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-notes-list-in-onenote-for-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sticky Note Window on OneNote for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sticky-note-window-on-onenote-for-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Sort and filter options in OneNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sort-and-filter-options-in-onenote.jpg)
 
@@ -126,6 +134,13 @@ Close
 
 ![Feed settings in Microsoft Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/feed-settings-in-microsoft-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  An alternative way of using Windows Sticky Notes if you’re an Android user is through Microsoft Launcher. This polished launcher comes packed with features to boost your productivity and is a [must-have for Android users who own a PC](https://www.makeuseof.com/microsoft-android-apps-for-windows/).
@@ -134,23 +149,9 @@ Close
 
  As you're using a widget on a launcher, syncing may take a little longer than when using an app. However, you can sync your sticky notes manually at any point by hitting the three dots in the top right corner of the widget and selecting **Sync**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Sticky Notes Online
 
 ![Windows 11 Sticky Notes in Outlook Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-11-sticky-notes-in-outlook-online.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Screenshot by author - Joe Brown  
 
@@ -158,34 +159,11 @@ Screenshot by author - Joe Brown
 
  Ensuring you are signed in to your Microsoft Account, you can access [Windows Sticky Notes in Outlook](https://www.onenote.com/stickynotes) directly, or you can sign in to Outlook and access the dedicated **Notes** tab. This can be found inside the Folders dropdown menu from the sidebar. For faster access to your sticky notes, you can hit the star icon next to the **Notes** title to add it to your favorites.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Windows Sticky Notes on Any Device and Boost Your Productivity
 
  If you’re in a rush and need to jot things down fast, Windows Sticky Notes is a great app for quick and easy note-taking. With these solutions, you don’t need to rely on keeping one device to take notes. Access sticky notes everywhere using this guide.
 
  In this guide, we’ll explore how to use Windows Sticky Notes on all your devices, whether you’re an Android or iOS user, or if you're using a web browser.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-100-killer-facebook-bios-to-make-profile-attractive2-for-2024/"><u>[New] 100 Killer Facebook Bios to Make Profile Attractive2 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-videos-to-youtube-playlist/"><u>[New] How to Add Videos to YouTube Playlist?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>[Updated] In 2024, Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/8-strategies-to-solve-vmware-booting-woes-on-win11/"><u>8 Strategies to Solve VMware Booting Woes on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/h264-h264/"><u>發現H.2#64格式: H.264媒體播放解決方案、設定及支持的作業系統比較分析</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-windows-troubleshooting-locating-and-fixing-system-error-messages-using-commands/"><u>Advanced Windows Troubleshooting: Locating & Fixing System Error Messages Using Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-critical-windows-11-service-shutdowns/"><u>Avoiding Critical Windows 11 Service Shutdowns</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/how-to-turn-on-and-use-automatic-hdr-high-dynamic-range-in-windows-11-for-2024/"><u>How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11 for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-v27e-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo V27e FRP</u></a></li>
-<li><a href="https://win11.techidaily.com/1719231160491-streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-are-my-youtube-comments-desktopiosandroid-strategies/"><u>Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +172,23 @@ Screenshot by author - Joe Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-prime-5-replacements-for-twitter-users-for-2024/"><u>[New] Prime 5 Replacements for Twitter Users for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-why-integrate-hdr-into-your-film-and-video-workflow/"><u>2024 Approved Why Integrate HDR Into Your Film and Video Workflow</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-top-8-free-and-easy-ipod-video-transformers-your-ultimate-guide-for-seamless-conversion/"><u>Best Top 8 Free & Easy iPod Video Transformers: Your Ultimate Guide for Seamless Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-pc-conflicts-with-pct-guide/"><u>Conquer PC Conflicts with PCT Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-disabling-the-mystery-of-0x8007045d-on-windows-11/"><u>Decoding and Disabling the Mystery of 0X8007045d on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steams-unauthorized-files-problem-in-win11/"><u>Fixing Steam's Unauthorized Files Problem in Win11</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-recover-files-from-an-external-hard-drive-on-windows-10-and-macos/"><u>How to Recover Files From an External Hard Drive on Windows 10 & macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-chatgpt-plus-weighing-its-strengths-against-its-flaws/"><u>Inside ChatGPT Plus: Weighing Its Strengths Against Its Flaws</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-round-corners-on-windows-11/"><u>Rectify Round Corners on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-stream-disconnection-in-remote-pc-mode/"><u>Resolving Stream Disconnection in Remote PC Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-premium-apple-tv-vpn-in-202amelios-reviewed-rankings-for-the-best-of-2024-zdnet/"><u>Ultimate Guide to Choosing a Premium Apple TV VPN in 202Amelio's Reviewed Rankings for the Best of 2024 | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-adjusting-creation-and-modification-dates-in-windows/"><u>Understanding and Adjusting Creation & Modification Dates in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-trusting-chatbots-isnt-a-strategy-for-secure-key-creation/"><u>Why Trusting Chatbots Isn't a Strategy for Secure Key Creation</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Use of Nicknames for Applications
-date: 2024-10-27T21:48:54.639Z
-updated: 2024-11-01T20:46:04.350Z
+date: 2024-11-01T22:49:39.997Z
+updated: 2024-11-07T20:30:35.284Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/596dd6315d1559e3cb5b3aa52b6f2b9825ab34a39
  App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable App Execution Aliases in Settings
@@ -50,6 +56,13 @@ In Windows 11:
 
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In Windows 10:
 
 1. If you're using Windows 10, you'll find the aliases in**Settings > Apps & features** .
@@ -58,20 +71,19 @@ In Windows 10:
 
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
@@ -88,16 +100,16 @@ In Windows 10:
 ![editing app aliases in registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-regedit.jpg)
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
 
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
 
@@ -118,17 +130,24 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-complete-circular-imaging-and-its-distinct-characteristics/"><u>[Updated] 2024 Approved Complete Circular Imaging and Its Distinct Characteristics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fraps-screen-recorder-review/"><u>[Updated] Fraps Screen Recorder Review</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-address-invalid-label-warning-in-windows-11/"><u>Actions to Address 'Invalid Label' Warning in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-the-action-center-volume-mixing-in-windows-11/"><u>Activating the Action Center Volume Mixing in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/activatingdeactivating-filter-keys-on-microsoft-os/"><u>Activating/Deactivating Filter Keys on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/amplify-windows-steam-transfers-averting-sudden-halt/"><u>Amplify Windows Steam Transfers: Averting Sudden Halt</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-disasters-committing-to-weekly-windows-backup/"><u>Avoiding Disasters: Committing to Weekly Windows Backup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f54-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F54 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-spotlight-solutions-the-top-17-vlog-gear-lists/"><u>In 2024, Spotlight Solutions The Top 17 Vlog Gear Lists</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/mp4m4v/"><u>MP4からM4Vへのフリーコンバートガイド</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-building-a-gradual-audio-fade-out-feature-in-multimedia-projects-for-2024/"><u>Updated Building a Gradual Audio Fade-Out Feature in Multimedia Projects for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-portable-battery-packs-to-keep-recording-longer/"><u>[New] Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-no-pay-unlock-fcp-paths-to-a-free-edit-suite/"><u>[Updated] No Pay? Unlock FCP Paths to a Free Edit Suite</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-hues-harmonized-implementing-color-strategies/"><u>2024 Approved Hues Harmonized Implementing Color Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-text-alterations-with-snipping-tool/"><u>Cutting Edge Text Alterations with Snipping Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-hyperx-cloud-alpha-microphone-malfunctions/"><u>Effective Solutions for HyperX Cloud Alpha Microphone Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-your-windows-screenscape-remains-same/"><u>Ensure Your Windows Screenscape Remains Same</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-google-pixel-fold-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Google Pixel Fold Phones with/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme C51 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200 Phone with Broken Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/interface-revamp-visualizing-disk-and-network-resources/"><u>Interface Revamp: Visualizing Disk and Network Resources</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
+<li><a href="https://facebook.techidaily.com/next-gen-avatars-roll-out-for-oculus-users/"><u>Next-Gen Avatars Roll Out for Oculus Users</u></a></li>
+<li><a href="https://win11.techidaily.com/power-surprise-camouflaging-the-shutdown-icon-in-win11/"><u>Power Surprise: Camouflaging the Shutdown Icon in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/powerrename-the-essential-tool-for-files/"><u>PowerRename: The Essential Tool for Files</u></a></li>
+<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-overcoming-non-registered-devices-issue/"><u>Understanding & Overcoming Non-Registered Devices Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-your-youtube-revenue-adsense-rates-per-1k-viewer-for-2024/"><u>Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-disk-space-insights-via-powershell-scripts/"><u>Unlocking Disk Space Insights via PowerShell Scripts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-time-lapse-photography-made-easy-top-apps-for-iphone-and-android/"><u>Updated Time-Lapse Photography Made Easy Top Apps for iPhone and Android</u></a></li>
 </ul></div>
 

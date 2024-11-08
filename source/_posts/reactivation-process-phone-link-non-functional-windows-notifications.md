@@ -1,7 +1,7 @@
 ---
 title: "Reactivation Process: Phone Link' Non-Functional Windows Notifications"
-date: 2024-10-27T23:17:49.140Z
-updated: 2024-11-02T03:45:04.490Z
+date: 2024-11-01T20:46:12.897Z
+updated: 2024-11-07T16:10:57.525Z
 tags:
   - windows10
   - windows11
@@ -50,22 +50,15 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![Phone Link In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phone-link-in-app-notification-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Allow Phone Link App to Run in the Background
 
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ![Allow Phone Link to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-phone-link-to-run-in-the-background-on-windows.jpg)
 
  Is the background app permission options missing from the Settings app? Here's[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Battery Saver Mode
 
@@ -116,6 +102,20 @@ To disable the Do Not Disturb mode, use these steps:
 4. Expand the**Turn on do not disturb automatically** and clear all the checkboxes.  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Unlink and Link Your Phone Again
 
  Phone Link may fail to display any notifications on Windows if your Android or iPhone isn’t linked properly. To avoid issues caused by misconfigured setup, you can unlink your phone from Windows and start over. Here are the steps for the same.
@@ -127,9 +127,23 @@ To disable the Do Not Disturb mode, use these steps:
 
  Restart the Phone Link app and follow the on-screen instructions to pair your device again. After that, check if your notifications work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Try Generic Fixes for Windows Apps
 
  There are a few tricks you can try to fix the Phone Link app that also works with any other Windows app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repair or Reset the App
 
@@ -137,29 +151,9 @@ To disable the Do Not Disturb mode, use these steps:
 
  Another thing you can do is reset the Phone Link app to its default state. However, this process will remove all the app data, so you will have to set up the Phone Link app again. For more information on this, refer to our guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) .
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Update the App
 
  Using an outdated version of the Phone Link app can lead to compatibility issues at times. Also, if the app version you are using is buggy, notifications may stop working. Hence, it's a good idea to ensure that you're using the latest version of the app. If you need help with the same, check our guide on[how to update apps on Windows](https://www.makeuseof.com/update-apps-windows-11/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Phone Link App Notifications Not Working on Windows
 
@@ -182,18 +176,14 @@ To disable the Do Not Disturb mode, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-turbo-testing-our-compreenas-five-best-racing-games/"><u>[New] In 2024, Turbo Testing Our Compreenas Five Best Racing Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visual-upgrade-engine-windows-mac-and-online-edition-for-2024/"><u>[New] Visual Upgrade Engine – Windows, Mac & Online Edition for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts/"><u>[Updated] In 2024, Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-file-management-with-ais-best-tools/"><u>A New Era of File Management with AI's Best Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-roadmap-to-your-computers-heart-mouse-prop/"><u>A Step-by-Step Roadmap to Your Computer's Heart - Mouse Prop</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-error-code-30015-26-in-m365-software-for-pcs/"><u>Addressing Error Code 30015-26 in M365 Software for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-password-recall-issue-on-w10w11/"><u>Addressing the “Password Recall Issue on W10/W11”</u></a></li>
-<li><a href="https://win11.techidaily.com/adept-methods-for-switching-file-types-in-windows/"><u>Adept Methods for Switching File Types in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bound-windows-login-with-ms-account-essentials/"><u>Bound Windows Login with MS Account Essentials</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/oneplus-9-evaluation-calculations-fall-short-of-perfection/"><u>OnePlus 9 Evaluation: Calculations Fall Short of Perfection</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reviewing-samsungs-latest-wearable-tech-the-advanced-features-of-galaxy-watch-active-2/"><u>Reviewing Samsung's Latest Wearable Tech: The Advanced Features of Galaxy Watch Active 2</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-grayed-out-icloud-preferences-in-ios-with-these-4-tips/"><u>Revive Grayed-Out iCloud Preferences in iOS with These 4 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/1719350686194-unlock-exe-files-on-your-pc-no-more-issues/"><u>Unlock EXE Files on Your PC, No More Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-nord-3-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus Nord 3 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/construct-and-create-your-dream-city-in-cities-skylines-a-comprehensive-reveal/"><u>Construct and Create Your Dream City in 'Cities: Skylines': A Comprehensive Reveal</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scalable-earnings-via-youtube-beauty-channels/"><u>In 2024, Scalable Earnings via YouTube Beauty Channels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/massive-700-discount-on-the-newest-ipad-pro-dont-miss-out-this-labor-day-insights-for-tech-enthusiasts/"><u>Massive $700 Discount on the Newest iPad Pro: Don't Miss Out This Labor Day - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-windows-11-update-error-0x800f0922/"><u>Quick Guide to Overcome Windows 11 Update Error 0X800f0922</u></a></li>
+<li><a href="https://win11.techidaily.com/routine-for-accessing-and-clearing-activity-in-windows-11/"><u>Routine for Accessing and Clearing Activity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/save-smart-establish-a-weekly-windows-backup-routine/"><u>Save Smart: Establish a Weekly Windows Backup Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/winstore-issue-correcting-error-code-0x80073d26/"><u>WinStore Issue: Correcting Error Code 0X80073D26</u></a></li>
 </ul></div>
 

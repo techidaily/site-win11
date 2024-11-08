@@ -1,7 +1,7 @@
 ---
 title: Proven Methods for Accessing Disk Management (Win 10/11)
-date: 2024-10-25T23:16:16.505Z
-updated: 2024-11-01T22:18:22.935Z
+date: 2024-11-03T19:13:10.490Z
+updated: 2024-11-07T20:25:09.648Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,19 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  When you physically connect a new internal drive to your PC, Windows sees it as a blank disk with no allocated space. Therefore, it doesn't show up in the File Explorer. You can use Disk Management to create a partition and thus make your new drive usable in the operating system.
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
 
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Launch Disk Management From the Quick Access Menu
 
  While the search method may be popular, launching Disk Management from the Quick Access menu is the easiest way to open the Disk Management utility in Windows. The best part? You don't even need to use your keyboard, which is unlike any other method on this list.
@@ -76,25 +76,19 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -128,29 +122,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>[New] 2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education/"><u>[New] In 2024, Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-compelling-solo-videos-on-a-budget/"><u>[New] In 2024, Creating Compelling Solo Videos on a Budget</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-experts-choice-best-free-video-tools-listing/"><u>[Updated] 2024 Approved Expert's Choice Best Free Video Tools Listing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-insight-into-imovies-border-adjustments/"><u>[Updated] 2024 Approved Insight Into iMovie's Border Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-how-to-leverage-copernic-for-efficient-cloud-storage-searches/"><u>Discover How to Leverage Copernic for Efficient Cloud Storage Searches</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-connection-integrate-your-pc-and-phone-through-flow/"><u>Effortless Connection - Integrate Your PC & Phone Through Flow</u></a></li>
-<li><a href="https://win11.techidaily.com/find-your-inbox-efficiency-discover-faster-email-recovery-with-outlook-and-copernics-lightning-quick-search/"><u>Find Your Inbox Efficiency: Discover Faster Email Recovery with Outlook and Copernic's Lightning-Quick Search</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-shift-key-that-wont-work-step-by-step-guide-for-quick-resolution/"><u>Fix the Shift Key That Won’t Work: Step-by-Step Guide for Quick Resolution</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-11s-zerox-error-code-0x80049dd3-and-enhance-typing/"><u>Fix Windows 11'S Zerox Error (Code: 0X80049DD3) and Enhance Typing</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-the-wsl-error-4294967295-on-windows/"><u>How to Resolve the WSL Error 4294967295 on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ifttt-and-microsoft-to-dot-synergy-explained/"><u>IFTTT & Microsoft To-Dot Synergy Explained</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>In 2024, Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y27-4g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y27 4G</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-document-discovery-using-copernics-expert-text-search-features-for-professionals/"><u>Streamline Document Discovery Using Copernic's Expert Text Search Features for Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-virtualbox-70-on-windows-11-your-ultimate-walkthrough/"><u>Transitioning to VirtualBox 7.0 on Windows 11 – Your Ultimate Walkthrough</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-ipad-air-sleeves-for-2ebeanry-expert-evaluations-zdnet/"><u>Ultimate Selection of iPad Air Sleeves for 2Ebeanry: Expert Evaluations | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fixes-overcoming-firefox-page-load-issues-in-windows/"><u>Win Fixes: Overcoming Firefox Page Load Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-print-admin-a-user-friendly-approach/"><u>Windows Print Admin: A User-Friendly Approach</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +129,24 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ephemeral-insights-into-fb-episodes/"><u>[New] 2024 Approved Ephemeral Insights Into FB Episodes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-5-leading-apps-to-create-professional-youtube-intros/"><u>[New] In 2024, 5 Leading Apps to Create Professional YouTube Intros</u></a></li>
+<li><a href="https://facebook.techidaily.com/disconnection-directive-protocols-for-abandoning-fb-business-accounts/"><u>Disconnection Directive: Protocols for Abandoning FB Business Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-11r-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from 11R?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-connectivity-with-5ghz-networks/"><u>Mastering Windows 11: Connectivity with 5GHz Networks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/max-360-vs-hero-11-discovering-the-gopro-video-champion-for-2024/"><u>Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-a-non-functional-logitech-g733-microphone-top-tips-included/"><u>Quick Solutions for a Non-Functional Logitech G733 Microphone - Top Tips Included!</u></a></li>
+<li><a href="https://facebook.techidaily.com/scheduling-success-uncover-the-best-5-free-facebook-timing-methods/"><u>Scheduling Success: Uncover the Best 5 Free Facebook Timing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-the-size-limit-hurdle-in-discord-win11/"><u>Strategies to Overcome the Size Limit Hurdle in Discord (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-facebook-messenger-on-your-pc-now/"><u>Streamline Facebook Messenger On Your PC Now</u></a></li>
+<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-os-anomalies-a-comprehensive-guide-to-finding-and-fixing-windows-errors-through-command-prompt/"><u>Tackling OS Anomalies: A Comprehensive Guide to Finding & Fixing Windows Errors Through Command Prompt</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-ranking-video-capture-tools-enhance-your-gaming-footage/"><u>Top-Ranking Video Capture Tools: Enhance Your Gaming Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-windows-11-context-menus-move-and-copy-integration-guide/"><u>Upgrading Windows 11 Context Menus: Move and Copy Integration Guide</u></a></li>
+</ul></div>
+

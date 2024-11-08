@@ -1,7 +1,7 @@
 ---
 title: "Tailored BIOS Settings: The Way to Regulate PC Heat"
-date: 2024-10-30T02:43:14.901Z
-updated: 2024-11-01T21:25:07.883Z
+date: 2024-10-31T21:27:54.234Z
+updated: 2024-11-07T17:43:41.177Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
  The policy you set will depend on what you want to prioritize between performance and power. So, for example, if you want to conserve battery power on your laptop, you might want to go with the Passive cooling policy.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set the System Cooling Policy on Windows
 
  To set a system policy, start by opening the Control Panel. Press**Win + S** to open Windows Search, type**control panel** in the text box, and click on**Control Panel** in the results. For more ways to launch it, please read our guide on[how to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
@@ -44,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![the Power Options screen in the Control Panel on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Change advanced power settings** to open the Power Options menu.
@@ -55,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![The Edit Power Plan Settings screen in the Control Panel on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-power-plan-settings-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Expand**Processor power management** by clicking the**plus sign** on the right, and you will see**System cooling policy** . Expand that too.
@@ -66,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![Power Options menu on Windows with the System cooling policy expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-system-cooling.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will then see how the cooling policies are set – of course, what you see will depend on whether you’re on a desktop computer or laptop. To change them, click on the cooling policy’s link – so if**On battery** is set to**Passive** , click on**Passive** . This will turn it into a**dropdown** , so click on that and select the other cooling policy.
@@ -77,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 ![Selecting the system cooling policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/power-options-windows-changing-system-cooling.jpg)
 
  You can set the cooling policy for all your power plans. And if you’re changing the cooling policy to save battery power, consider reading our guide on[creating a custom power plan on Windows](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/) as well.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the System Cooling Policy You Want to Use
 
@@ -106,17 +112,18 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-rewind-a-twitch-live-stream/"><u>[New] How to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unseen-whatsapp-features-for-the-ultimate-messaging-experience/"><u>[Updated] 2024 Approved Unseen WhatsApp Features for the Ultimate Messaging Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-effortless-methods-for-capturing-google-voice-conversations/"><u>[Updated] Effortless Methods for Capturing Google Voice Conversations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-follow-the-footsteps-of-fan-driven-forums-for-2024/"><u>[Updated] Follow the Footsteps of Fan-Driven Forums for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-android-options-10-gb-emulation-tools/"><u>Best Android Options 10 GB Emulation Tools</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videos-with-effective-youtube-thumbnails/"><u>In 2024, Elevate Your Videos with Effective YouTube Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-no-error-message-in-win11-install/"><u>Steps to Overcome No Error Message in Win11 Install</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-error-0x80072f8f-0x20000/"><u>Strategies to Combat Error 0X80072f8f - 0X20000</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resuscitate-non-responsive-spotify-app-in-win11/"><u>Strategies to Resuscitate Non-Responsive Spotify App in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-correcting-directdraw-errors-in-win1011/"><u>Swiftly Correcting DirectDraw Errors in WIN10/11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/trimming-tips-select-the-top-5-url-shrinkers-for-youtube-for-2024/"><u>Trimming Tips Select the Top 5 URL Shrinkers for YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-secrets-to-hd-classic-quests-top-tips-and-tricks-on-windows-plus-scummvm/"><u>Unlock the Secrets to HD Classic Quests: Top Tips and Tricks on Windows + ScummVM</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-the-mechanism-for-personalizing-social-media-visuals/"><u>[New] 2024 Approved Understanding the Mechanism for Personalizing Social Media Visuals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harmonizing-workplay-by-incorporating-podcast-listening/"><u>[New] In 2024, Harmonizing Work/Play by Incorporating Podcast Listening</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[Updated] 2024 Approved Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/flv-asf/"><u>自由下載的 FLV 到 ASF 無關節流式影片格式切換器 - 移動威瓦</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-stuck-credential-management/"><u>Easy Fixes for Stuck Credential Management</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-clear-sound-fixing-xbox-mic-in-windows/"><u>Ensuring Clear Sound: Fixing Xbox Mic in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-mobile-mode-in-w11-systems/"><u>How To Turn Off Mobile Mode in W11 Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-command-line-in-quake-on-pc/"><u>Mastering the Command Line in Quake on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/refurbish-old-films-madvrs-power-for-windows-users/"><u>Refurbish Old Films: MadVR's Power for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c12-plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-start-spotlight-free-from-ads/"><u>Win 11 Start Spotlight: Free From Ads</u></a></li>
 </ul></div>
 

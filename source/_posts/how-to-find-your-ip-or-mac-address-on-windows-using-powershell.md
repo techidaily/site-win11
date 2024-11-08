@@ -1,7 +1,7 @@
 ---
 title: How to Find Your IP or MAC Address on Windows Using PowerShell
-date: 2024-10-26T23:12:16.082Z
-updated: 2024-11-02T04:49:40.312Z
+date: 2024-11-06T16:20:30.882Z
+updated: 2024-11-07T17:20:02.993Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 ![windows powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-powershell-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find the MAC Address on Your Windows
@@ -53,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
  That's it; this command will give you the details about all the network adapters from your system, along with their MAC addresses. Look over at the "MacAddress" column, and you will get the address.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### An Alternate Way to Find the MAC Address on Windows
@@ -73,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
  Your adapter will be listed along with its MAC address, referenced by "Description" and "Physical Address".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finding Your IP or MAC Address on Windows PC
@@ -85,25 +97,6 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
  While other more straightforward methods exist, you can find your IP or MAC address on Windows using PowerShell. Let's find out how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tweeting-visual-content-from-video-to-gif-transformation/"><u>[New] In 2024, Tweeting Visual Content From Video to GIF Transformation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ranked-best-voice-change-software-echo-magic-edition-for-2024/"><u>[New] Ranked Best Voice Change Software Echo Magic Edition for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-synchronizing-success-brand-partnerships-on-youtube-channel/"><u>[Updated] 2024 Approved Synchronizing Success Brand Partnerships on YouTube Channel</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-videography-with-youtubes-creative-commons/"><u>[Updated] Maximizing Videography with YouTube's Creative Commons</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-essential-edits-the-definitive-list-of-apps/"><u>2024 Approved Instagram's Essential Edits The Definitive List of Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-for-restoring-windows-hello-fingerprint-functionality/"><u>7 Key Steps for Restoring Windows Hello Fingerprint Functionality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/p-dive-into-the-world-of-youtubes-minis-for-2024/"><u>A Deep Dive Into the World of Youtube's Minis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-dawn-of-taskbars-in-windows-11-proposing-six-crucial-changes-for-enhanced-ux/"><u>A New Dawn of Taskbars in Windows 11: Proposing Six Crucial Changes for Enhanced UX</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-powershell-with-admin-privileges-on-windows-11/"><u>Accessing PowerShell with Admin Privileges on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-smooth-mouse-movement-on-modern-windows-oses/"><u>Achieving Smooth Mouse Movement on Modern Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/behind-the-veil-of-user-interface-accessing-windows-hidden-personality-editor/"><u>Behind the Veil of User Interface: Accessing Windows’ Hidden Personality Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-wake-up-alerts-win-1011-full-charge-ding/"><u>Boosting Wake-Up Alerts: Win 10/11 FULL CHARGE DING</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-c50-by-drfone-android/"><u>How to Bypass FRP from Poco C50?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a34-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A34 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-googles-ai-gemini-vision-workings-and-development/"><u>Understanding Google's AI Gemini: Vision, Workings & Development</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -111,3 +104,20 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boosting-video-quality-utilizing-youtube-studios-features/"><u>[New] 2024 Approved Boosting Video Quality Utilizing YouTube Studio's Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>[New] ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-global-reach-impact-of-vpn-use/"><u>ChatGPT and Global Reach: Impact of VPN Use?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-11-users-struggling-with-broken-hp-laptop-cameras-your-ultimate-resource/"><u>Effective Fixes for Windows 11 Users Struggling with Broken HP Laptop Cameras: Your Ultimate Resource</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-the-program-compatibility-troubleshooter-to-the-context-menu-on-windows/"><u>How to Add the Program Compatibility Troubleshooter to the Context Menu on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-14-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 14 Plus to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-concept-to-shares-how-to-create-hit-videos-for-fbinstagram/"><u>In 2024, From Concept to Shares How to Create Hit Videos for FB/Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-gained-from-windows-bsod-memory-logs/"><u>Insights Gained From Windows BSOD Memory Logs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-proven-methods-to-keep-minecraft-running-smoothly-on-your-pc-this-year/"><u>Mastering Stability: Proven Methods to Keep Minecraft Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-taskbar-absence-with-maximized-edges/"><u>Troubleshooting Taskbar Absence with Maximized Edges</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-shuttering-your-essential-knowledge-pool/"><u>Windows Shuttering: Your Essential Knowledge Pool</u></a></li>
+</ul></div>
+

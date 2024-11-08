@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Alterations: Windows 11'S Updated File Explorer"
-date: 2024-10-29T19:38:31.466Z
-updated: 2024-11-02T03:11:37.879Z
+date: 2024-11-01T20:14:14.989Z
+updated: 2024-11-07T16:26:31.327Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
  The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. A New Side Pane
@@ -58,14 +58,20 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
 
- You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
 
 ## 4\. A Gallery Section
 
@@ -73,11 +79,25 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -89,29 +109,9 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Built-In File Archive Support
 
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
@@ -121,29 +121,6 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-webster.techidaily.com/scend-video-rankings-top-seo-gadgets-revealed-for-2024/"><u>[New] Ascend Video Rankings – Top SEO Gadgets Revealed for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-social-storytelling-with-added-musicality-for-2024/"><u>[New] Elevate Your Social Storytelling with Added Musicality for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-tv-essentials-step-by-step-upload-guide-for-2024/"><u>[New] Instagram TV Essentials Step-by-Step Upload Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-best-non-sportful-activities-at-first-row/"><u>[Updated] Ranking the Best Non-Sportful Activities at First Row</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-between-vidma-and-rivals/"><u>2024 Approved The Ultimate Guide to Choosing Between Vidma and Rivals</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/"><u>6 Ways to Fix the Windows 11 Mail App When It Shows HTML Code for Emails</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-deleting-files-without-a-click-in-windows/"><u>A Step-by-Step Guide to Deleting Files Without a Click in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-network-drives-through-explorer-pane/"><u>Accessing Network Drives Through Explorer Pane</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-0x800704b3-network-hurdles-in-win1011/"><u>Addressing 0X800704B3 Network Hurdles in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-incorrect-profile-errors-windows-1011-guide/"><u>Addressing Incorrect Profile Errors: Windows 10/11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/assisting-users-with-erratic-swipes-on-windows-systems/"><u>Assisting Users with Erratic Swipes on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-printer-removal-on-win11-devices/"><u>Automating Printer Removal on Win11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-already-in-use-errors-and-unique-device-naming/"><u>Banish 'Already in Use' Errors and Unique Device Naming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-predecessors-how-gpt-4-surpasses-gpt-35/"><u>Beyond Predecessors: How GPT-4 Surpasses GPT-3.5</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/fehlerbehebung-wie-man-das-deaktivierte-feature-qsync-aktiviert/"><u>Fehlerbehebung: Wie Man Das Deaktivierte Feature Qsync Aktiviert</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-streamlined-method-acquire-free-secure-version-of-vlc-on-mac/"><u>In 2024, Streamlined Method Acquire Free, Secure Version of VLC on MAC</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-benefits-of-quick-resume-on-new-xbox-console/"><u>Navigating the Benefits of Quick Resume on New Xbox Console</u></a></li>
-<li><a href="https://win11.techidaily.com/1719330298923-self-host-your-local-free-windows-based-chatgpt-clone-using-gpt4all/"><u>Self-Host Your Local, FREE Windows-Based ChatGPT Clone Using GPT4All.</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +128,23 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-best-photo-boosts-for-perfecting-your-feed/"><u>[New] 2024 Approved Best Photo Boosts for Perfecting Your Feed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-hdr-power-play-is-sns-the-best-option/"><u>[New] HDR Power Play Is SNS the Best Option?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-why-does-imovie-enforce-dimensions-for-2024/"><u>[New] Why Does iMovie Enforce Dimensions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailoring-video-content-for-igtv-with-horizontal-footage/"><u>[Updated] Tailoring Video Content for IGTV with Horizontal Footage</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-windows-app-scam-busted-heres-the-evidence/"><u>ChatGPT Windows App Scam Busted – Here's the Evidence</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-glitch-a-guide-to-overcoming-microsoft-store-errors/"><u>Fixing the Glitch: A Guide to Overcoming Microsoft Store Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-privacy-blocking-insider-windows-11-releases/"><u>Maintaining Privacy: Blocking Insider Windows 11 Releases</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-update-issue-0x8024800c-error/"><u>Overcoming Windows Update Issue: 0X8024800C Error</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-include-sound-with-snipping-tool-screen-captures-max-156/"><u>Techniques to Include Sound with Snipping Tool Screen Captures (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-keys-to-free-jumpstart-your-pc-with-unbeatable-windows-11-612lifetime/"><u>The Keys to Free: Jumpstart Your PC with Unbeatable Windows 11, $6.12/Lifetime</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transform-trivial-images-into-masterpieces-online-for-2024/"><u>Transform Trivial Images Into Masterpieces Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-hot-30-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Hot 30 5G fingerprint</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-steps-to-eradicate-nonexistent-devices-in-pcs/"><u>Unveiling Steps to Eradicate 'Nonexistent' Devices in PCs</u></a></li>
+</ul></div>
+

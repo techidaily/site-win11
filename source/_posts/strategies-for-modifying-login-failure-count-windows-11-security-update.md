@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Modifying Login Failure Count: Windows 11 Security Update"
-date: 2024-10-27T05:13:42.811Z
-updated: 2024-11-02T00:41:42.173Z
+date: 2024-11-01T21:13:45.043Z
+updated: 2024-11-07T23:41:04.762Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
@@ -92,27 +92,6 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-duets-of-destiny-song-suggestions-for-the-big-ask/"><u>[New] 2024 Approved Duets of Destiny Song Suggestions for the Big Ask</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-links-purchasing-youtube-tones-online-for-2024/"><u>[New] Essential Links Purchasing YouTube Tones Online for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-ppt-recording-essential-tips-for-2024/"><u>[Updated] Mastering PPT Recording Essential Tips for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-podcast-promotion-unlocked-the-seo-guide-to-top-spotings/"><u>[Updated] Podcast Promotion Unlocked The SEO Guide to Top Spotings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-historical-youtube-viewers-treasure-trove/"><u>[Updated] Top 10 Historical YouTube Viewers' Treasure Trove</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-8t-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 8T</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-using-imessage-on-windows-pcs/"><u>Bridging the Gap: Using iMessage on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-verification-requirements-for-new-windows-installations/"><u>Bypassing Verification Requirements for New Windows Installations</u></a></li>
-<li><a href="https://win11.techidaily.com/cant-upload-files-in-google-chrome-for-windows-try-these-fixes/"><u>Can’t Upload Files in Google Chrome for Windows? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-cluttered-systems-hard-disk-defrag-in-win11/"><u>Clear Cluttered Systems: Hard Disk Defrag in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-screen-clarity-with-these-6-windows-fixes/"><u>Clear Screen Clarity with These 6 Windows Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-windows-email-error-code-0x800713f/"><u>Clearing Up Windows Email Error: Code 0X800713F</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-overcoming-the-domain-services-printer-error-on-windows-oses/"><u>Clearing Up: Overcoming the Domain Services Printer Error on Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/clipclick-no-luck-9-actions-to-reactivate-it-swiftly/"><u>ClipClick No Luck? 9 Actions to Reactivate It Swiftly</u></a></li>
-<li><a href="https://driver-install.techidaily.com/expert-tips-for-winning-over-windows-and-samsung-drives/"><u>Expert Tips for Winning Over Windows and Samsung Drives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-metaverse-unraveled-explore-these-6-vivid-models/"><u>The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix without backup.</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -120,3 +99,21 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>[New] Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-image-collections-the-best-macbook-wallpaper-packs/"><u>[Updated] Essential Image Collections The Best MacBook Wallpaper Packs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-fb-messenger-recordings-explained/"><u>Comprehensive FB Messenger Recordings Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-snap-windows-security-messages/"><u>Efficient Methods to Snap Windows' Security Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-rectifying-unresponsive-usb-ports-on-your-notebook-computer/"><u>Expert Tips for Rectifying Unresponsive USB Ports on Your Notebook Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-powerful-functions-of-garmin-venu-the-essential-companion-for-round-the-clock-health-monitoring/"><u>Explore the Powerful Functions of Garmin Venu: The Essential Companion for Round-the-Clock Health Monitoring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-httpswwwusgsgovspecial-topicwater-science-570/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-enter-input-on-windows-devices/"><u>Re-Establishing Enter Input on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-admin-level-terminal-on-demand/"><u>Seamless Admin-Level Terminal on Demand</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-freezing-issues-in-microsoft-teams-win11win10/"><u>Steps to Eliminate Freezing Issues in Microsoft Teams Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-windows-1110-we-encountered-an-error-for-oculus/"><u>Swiftly Solve Windows 11/10 We Encountered an Error for Oculus</u></a></li>
+<li><a href="https://win11.techidaily.com/verify-your-machines-suitability-for-windows-11/"><u>Verify Your Machine's Suitability for Windows 11</u></a></li>
+</ul></div>
+

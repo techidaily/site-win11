@@ -1,7 +1,7 @@
 ---
 title: "Personalize PC Maintenence: Assigning Win 11 Troubleshooter Buttons"
-date: 2024-10-31T21:28:59.001Z
-updated: 2024-11-01T23:43:53.094Z
+date: 2024-11-04T17:31:25.109Z
+updated: 2024-11-07T21:28:47.845Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 4. Press**T** (for troubleshooting) to establish a**Ctrl** +**Alt** +**T** key combination.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
 5. Select**Apply** to save your new troubleshooting hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OK** or**X** to close the Shortcut tab and window.
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
@@ -93,10 +101,10 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
@@ -104,10 +112,10 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
@@ -120,17 +128,18 @@ msdt.exe /id AudioPlaybackDiagnostic`
 4. Go into File Explorer (press**Win** +**E** to open), and bring up the directory containing the registry script’s ZIP archive.  
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
@@ -139,13 +148,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
 
  The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Some Shortcuts for Accessing Troubleshooters in Windows
 
@@ -166,22 +168,24 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-premium-psd-free-3d-text-treasure-hunt/"><u>[New] Premium PSD Free 3D Text Treasure Hunt</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-windows-11-100-disk-usage-in-task-manager/"><u>[SOLVED] Windows 11 100% Disk Usage in Task Manager</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-perfect-playback-overcoming-mutes-on-linkedin-video-posts/"><u>[Updated] 2024 Approved Perfect Playback Overcoming Mutes on LinkedIn Video Posts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[Updated] In 2024, Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-night-avenger-black-vs-day-defender-silver/"><u>[Updated] Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-clip-recording-solutions-for-2024/"><u>[Updated] Seamless Clip Recording Solutions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-selecting-podcasts-for-iphone-devices/"><u>[Updated] The Art of Selecting Podcasts for iPhone Devices</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-2022-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone SE (2022) Without a Passcode</u></a></li>
-<li><a href="https://win11.techidaily.com/a-buyers-blueprint-essential-steps-for-your-win-pc-purchase/"><u>A Buyer’s Blueprint: Essential Steps for Your Win PC Purchase</u></a></li>
-<li><a href="https://win11.techidaily.com/1719347210677-access-display-settings-right-click-on-the-desktop-and-select-display-settings/"><u>Access Display Settings: Right-Click on the Desktop and Select Display Settings.</u></a></li>
-<li><a href="https://win11.techidaily.com/adapting-to-new-horizons-migrating-apps-for-a-windows-11-laptop/"><u>Adapting to New Horizons: Migrating Apps for a Windows 11 Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/aligning-chromes-timeline-error-on-windows-machines/"><u>Aligning Chrome's Timeline Error on Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-unending-enter-password-interruptions-in-windows/"><u>Avoiding Unending Enter Password Interruptions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/blueprint-for-efficiently-updating-windows-solo/"><u>Blueprint for Efficiently Updating Windows Solo</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-pc-speed-post-media-downloads-on-w11/"><u>Boosting PC Speed Post Media Downloads on W11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guiding-kids-in-the-age-of-ai-5-essential-practices-for-responsible-chatgpt-use/"><u>Guiding Kids in the Age of AI: 5 Essential Practices for Responsible ChatGPT Use</u></a></li>
-<li><a href="https://win11.techidaily.com/1719228805701-quick-jot-down-techniques-in-windows-11-no-apps/"><u>Quick Jot-Down Techniques in Windows 11, No Apps!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data/"><u>[New] Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-explore-leading-platforms-offering-premium-vectr-art-resources/"><u>[New] In 2024, Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-unique-traits-of-ai-infused-machines/"><u>Demystifying the Unique Traits of AI-Infused Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-top-9-reasons-why-pc-users-excel-over-mac-lovers/"><u>Demystifying Top 9 Reasons Why PC Users Excel Over Mac Lovers</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-hidden-treasures-of-group-policy-settings/"><u>Discover the Hidden Treasures of Group Policy Settings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-overcoming-system-call-problems-in-windows/"><u>Expert Guide: Overcoming System Call Problems in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-xs-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone XS Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-meets-tradition-the-best-frame-makers/"><u>In 2024, Innovation Meets Tradition The Best Frame Makers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/losung-fur-nicht-abspielbaren-udf-dvd-film-mit-winx-dvd-ripper-download-jetzt/"><u>Lösung Für Nicht Abspielbaren UDF-DVD-Film Mit WinX DVD Ripper - Download Jetzt!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-restoring-router-access/"><u>Mastering the Art of Restoring Router Access</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209954480-9781071527016-meditacion-para-principiantes/"><u>Meditación Para Principiantes | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-for-win11-offline-installation-guide/"><u>Prepare for Win11: Offline Installation Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-crowded-taskbar-icons-collapse/"><u>Preventing Crowded Taskbar Icons Collapse</u></a></li>
+<li><a href="https://win11.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart/"><u>Siri or ChatGPT? Discover What Sets Them Apart</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steams-file-permission-issue-in-win11/"><u>Troubleshooting Steam's File Permission Issue in Win11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Device Disconnection Issues Within VirtualBox Environment
-date: 2024-10-29T04:24:04.738Z
-updated: 2024-11-02T00:31:06.699Z
+date: 2024-10-31T23:31:11.961Z
+updated: 2024-11-07T21:01:48.129Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now, you know the possible reasons why VirtualBox throws an error code when you connect a USB device. Here are the following methods you can try to fix the error code and successfully connect the USB device to the virtual machine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the "Failed to Attach the USB Device" Error in Windows
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
@@ -67,10 +74,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Click on the**Install** icon and select the extension pack file you downloaded in step 3.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click on the**Install** button, accept the**EULA** and click on the**I Agree** button.
@@ -88,6 +95,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Run the downloaded executable file and follow the on-screen instructions to install it on your system. Also, install the extension pack as illustrated in Method 3 above.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
  A mismatch in the USB controller settings can also produce the VirtualBox error. If you want to add a USB device to the VirtualBox virtual machine, you must select the correct USB controller option in the USB settings.
@@ -100,13 +114,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
 6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Reinstall the VBox USB drivers
 
  Corrupt or missing VBox USB drivers on your system could cause the Virtual Box error code. Reinstalling the USB drivers can fix the driver issue and allow USB devices to connect with the virtual machine.
@@ -118,19 +125,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Right-click on the file and select the**Install** option.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Reinstall VirtualBox
 
  If all the above methods don’t solve the ‘Failed to Attach the USB Device’ Error code, consider reinstalling the VirtualBox app on your system. Here’s how to do it.
@@ -141,10 +135,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 3. **UAC** will pop up. Click on**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Follow the on-screen prompts to uninstall VirtualBox from your system.
@@ -153,10 +147,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Connect USB Devices to Your Virtual Machine Once More
@@ -178,17 +172,19 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-aspect-ratio-essentials-for-social-network-videos/"><u>[New] In 2024, Aspect Ratio Essentials for Social Network Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-streams-into-premium-4k-videos-easily/"><u>[New] In 2024, Transform Streams Into Premium 4K Videos Easily</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-superior-animation-pack-for-text/"><u>[Updated] In 2024, Superior Animation Pack for Text</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-x50i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor X50i Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-guides-from-toms-digital-workshop/"><u>Comprehensive Computer Guides From Tom's Digital Workshop</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-the-slowdowns-swift-solutions-to-lag-in-star-wars-battlefront-2-windows-pc-edition/"><u>Conquer the Slowdowns: Swift Solutions to Lag in Star Wars Battlefront 2 Windows PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-non-windows-options-to-replace-the-windows-snipping-tool/"><u>Excellent Non-Windows Options to Replace the Window’s Snipping Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-overcoming-voice-typing-hiccups-in-windows-11/"><u>Expert Guide to Overcoming Voice Typing Hiccups in Windows 11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/eye-of-excellence-a-comprehensive-list-of-8k-cameras-for-2024/"><u>Eye of Excellence A Comprehensive List of 8K Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/from-cr2-to-windows-jpeg-a-compreenased-conversion-guide/"><u>From CR2 to Windows JPEG: A Compreenased Conversion Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-access-dropbox-and-google-drive-from-a-windows-drive-letter/"><u>How to Access Dropbox and Google Drive From a Windows Drive Letter</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 6 and iPad?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>[New] In 2024, Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-poco-x5-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adobe-troubleshooting-guide-fixing-application-launch-problem-with-error-message-0xc0000022/"><u>Adobe Troubleshooting Guide: Fixing Application Launch Problem with Error Message 0Xc0000022</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-between-vlc-and-mpc-for-free-video-viewing/"><u>Choosing Between VLC and MPC for Free Video Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-deadly-script-error-in-discord-for-windows-11-users/"><u>Combatting the Deadly Script Error in Discord for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-adjustments-your-guide-to-pointer-settings-in-win11/"><u>Effortless Adjustments: Your Guide to Pointer Settings in Win11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210467830-9781628601756-energetic-diagnosis/"><u>Energetic Diagnosis | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-samsung-galaxy-a05s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Samsung Galaxy A05’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>In 2024, The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/nextgen-development-essentials-premium-horizon-ai-nextjs-framework-bundle-with-comprehensive-stripe-supabase-setups-and-seamless-oauth-authentication-by-cre14/"><u>NextGen Development Essentials - Premium Horizon AI NextJS Framework Bundle with Comprehensive Stripe, Supabase Setups & Seamless OAuth Authentication by Creative Tim</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-synchronization-timely-windows-update/"><u>Seamless Synchronization: Timely Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/the-classic-console-redux-reviving-oldschool-pc-games/"><u>The Classic Console Redux: Reviving Oldschool PC Games</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-invisible-disk-in-os-environment/"><u>Unveiling Invisible Disk in OS Environment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-711-graphics-drivers-retry/"><u>Windows 7/11: Graphics Drivers Retry</u></a></li>
 </ul></div>
 

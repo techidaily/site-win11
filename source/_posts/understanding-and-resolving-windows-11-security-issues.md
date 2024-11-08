@@ -1,7 +1,7 @@
 ---
 title: Understanding & Resolving Windows 11 Security Issues
-date: 2024-10-28T02:22:58.479Z
-updated: 2024-11-02T00:39:42.025Z
+date: 2024-11-03T23:14:37.848Z
+updated: 2024-11-07T19:12:31.262Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run System File and Image Scans
 
  System file issues might be causing the “Unexpected error” on your PC. To check if that’s the case, run a System File Checker scan within the Command Prompt. Such a scan will repair the corrupted system files detected. Our guide on[utilizing the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to scan system files with that utility.
@@ -53,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
  Do you have an alternative third-party antivirus tool installed on your PC? If so, then there’s a possibility that antivirus software is causing the issue by conflicting with Microsoft Defender. At least try turning off the third-party AV utility by right-clicking the system tray icon for the app and selecting a disable context menu setting.
 
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
 
@@ -76,10 +76,17 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
@@ -96,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
@@ -125,15 +132,16 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 3. Next, double-click**Turn Off Microsoft Defender Antivirus** to check that policy.  
 ![The Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-defender-antivirus-policy-settings.jpg)
 4. Click**Not Configured** if that policy is set to**Enabled** .  
-![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
-5. Select the policy’s**Apply** and**OK** options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
+5. Select the policy’s**Apply** and**OK** options.
 
 ## 8\. Reset Windows or Perform an In-Place Upgrade
 
@@ -144,22 +152,21 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
  However, you could feasibly upgrade to a new Windows version via Settings. Open**Windows Update** in the Settings app to see if there’s a version upgrade available. If so, select to upgrade to the latest Windows build from there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run a Scan With Windows Security Again
 
@@ -180,19 +187,17 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-building-relationships-one-post-at-a-time-on-fb/"><u>[New] 2024 Approved Building Relationships One Post at a Time on FB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-periscope-techniques-for-effective-livestreams/"><u>[New] 2024 Approved Periscope Techniques for Effective Livestreams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[New] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/asterpiece-maker-top-free-editors-for-android-devices/"><u>[New] Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-new-ambiance-for-your-ps5/"><u>Crafting New Ambiance for Your PS5</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-windows-11-with-dolby-atmos-experience/"><u>Enriching Windows 11 with Dolby Atmos Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/from-separate-to-linked-coordinating-files-between-two-computers-with-aoemi/"><u>From Separate to Linked: Coordinating Files Between Two Computers with AOEMi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-12-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722892514236-how-to-turn-off-emergency-and-amber-alerts-on-iphone/"><u>How to Turn Off Emergency and Amber Alerts on iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-virtual-retailers-a-list-of-top-6-sites-for-buying-televisions/"><u>Navigating Virtual Retailers: A List of Top 6 Sites for Buying Televisions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-access-issues-with-roblox-for-windows-users/"><u>Overcoming Access Issues with Roblox for WINDOWS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-malfunction-fixing-windows-update-error-0x80246007/"><u>Swift Solution to Upgrade Malfunction: Fixing Windows Update Error 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-for-rectifying-fall-guys-connection-woes-in-windows/"><u>Winning Strategies for Rectifying Fall Guys Connection Woes in Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elite-slow-motion-choosing-the-best-video-cameras/"><u>[Updated] In 2024, Elite Slow Motion Choosing the Best Video Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>[Updated] Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-excellence-in-starting-points-for-panzoids/"><u>2024 Approved Excellence in Starting Points for Panzoids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beware-of-inefficient-chatgpt-integrations-top-6-to-ignore-for-better-workflow/"><u>Beware of Inefficient ChatGPT Integrations: Top 6 to Ignore for Better Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-virtualization-running-windows-11-on-vmware-player-17/"><u>Effortless Virtualization: Running Windows 11 on VMware Player 17</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-photography-and-videography-a-pixiz-approach-for-2024/"><u>Harnessing the Power of Photography & Videography A Pixiz Approach for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-mold-mirthful-media/"><u>In 2024, Mold Mirthful Media</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-data-flow-issues-with-windows-usb-devices/"><u>Mending Data Flow Issues with Windows' USB Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-safe-access-getting-back-to-normal-outlook/"><u>Overcoming Safe Access: Getting Back to Normal Outlook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/soundscapes-for-social-scenarios-on-facebook/"><u>Soundscapes for Social Scenarios on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727791623687-top-rated-ipad-models-comprehensive-reviews-by-tech-experts/"><u>Top Rated iPad Models : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/unmasking-the-covert-context-options-in-windows-11/"><u>Unmasking the Covert Context Options in Windows 11</u></a></li>
 </ul></div>
 

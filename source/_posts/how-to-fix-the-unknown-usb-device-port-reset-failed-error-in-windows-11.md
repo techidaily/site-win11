@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Unknown USB Device, Port Reset Failed Error in Windows 11
-date: 2024-10-28T03:26:19.870Z
-updated: 2024-11-02T00:20:15.455Z
+date: 2024-11-07T00:02:24.307Z
+updated: 2024-11-07T23:23:27.205Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Look for Hardware Changes
 
@@ -61,20 +61,13 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
@@ -106,7 +99,21 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -117,6 +124,13 @@ Next, restart your computer and check for the problem.
 3. Right-click on the problematic device, and choose**Update driver** from the context menu.  
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
@@ -139,20 +153,6 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
 
@@ -181,24 +181,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-investing-time-wisely-on-cover-art-creation/"><u>[New] 2024 Approved Investing Time Wisely on Cover Art Creation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-visual-snippet-retriever/"><u>[New] 2024 Approved Visual Snippet Retriever</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screensnapper-pro-the-ultimate-guide-to-capturing-your-world/"><u>[New] In 2024, ScreenSnapper Pro The Ultimate Guide to Capturing Your World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-soundtrack-of-success-on-instagram/"><u>[New] In 2024, The Soundtrack of Success on Instagram</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-expert-techniques-for-streaming-facebook-live-2023/"><u>[Updated] 2024 Approved Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-zooms-hidden-visual-treasures-with-filters/"><u>[Updated] 2024 Approved Unveiling Zoom's Hidden Visual Treasures with Filters</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unpacking-the-essence-of-digital-tales/"><u>2024 Approved Unpacking the Essence of Digital Tales</u></a></li>
-<li><a href="https://win11.techidaily.com/de-jam-windows-and-run-handbrake-successfully/"><u>De-Jam Windows and Run HandBrake Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/hacking-detection-guide-for-windows-users/"><u>Hacking Detection Guide for Windows Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/hold-your-breath-for-oculus-quest-iii-schedule-change/"><u>Hold Your Breath for Oculus Quest III Schedule Change</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fixes-for-malfunctioning-windows-charmap-errors/"><u>Mastering Fixes for Malfunctioning Windows CharMap Errors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-ready-for-the-movies-top-movie-trailer-apps-for-ios-for-2024/"><u>New Get Ready for the Movies Top Movie Trailer Apps for iOS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-access-to-forgotten-calendars-and-emails-in-w11/"><u>Reclaiming Access to Forgotten Calendars & Emails in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-anydesk-disconnections-in-windows-11/"><u>Remedying AnyDesk Disconnections in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-missing-links-top-9-fixes-for-a-healthy-bluetooth-in-win-11/"><u>Revive Missing Links: Top 9 Fixes for a Healthy Bluetooth in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-overcoming-your-windows-hello-fingerprint-failures/"><u>Solutions: Overcoming Your Windows Hello Fingerprint Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-strategies-top-9-fixes-to-avoid-wwe-freezes-in-windows-11/"><u>Swift Strategies: Top 9 Fixes to Avoid WWE Freezes in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-earnings-understanding-microsofts-revenue-model/"><u>Windows 11 Earnings: Understanding Microsoft's Revenue Model</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-going-above-and-beyond-without-the-need-for-vimeo/"><u>[New] Going Above and Beyond Without the Need for Vimeo</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-clear-shots-a-guide-to-still-image-stability/"><u>[Updated] In 2024, Clear Shots A Guide to Still Image Stability</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-perfect-smartphone-iphone-or-android-which-fits-your-needs-better/"><u>Choosing Your Perfect Smartphone: IPhone or Android – Which Fits Your Needs Better?</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-missing-device-driver-alert-on-new-windows-launch/"><u>Correcting Missing Device Driver Alert on New Windows Launch</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/elevate-your-site-visits-experience-the-benefits-of-cookiebot-powered-marketing-solutions/"><u>Elevate Your Site Visits - Experience the Benefits of Cookiebot Powered Marketing Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-philips-somneo-premium-quality-alarm-clock/"><u>Expert Analysis of the Philips Somneo: Premium Quality Alarm Clock</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-google-chromes-sudden-shutdown-issue-on-pc/"><u>Fixing Google Chrome’s Sudden Shutdown Issue on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/game-on-why-the-new-playstation-is-a-must-have-with-these-4-points/"><u>Game On: Why the New PlayStation Is a Must-Have with These 4 Points</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-your-airpods-a-guide-to-resolving-sound-problems-and-audio-interference/"><u>How to Troubleshoot Your AirPods: A Guide to Resolving Sound Problems and Audio Interference</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/logitech-bluetooth-mouse-compatibility-syncing-with-different-receiver-units-made-simple/"><u>Logitech Bluetooth Mouse Compatibility: Syncing with Different Receiver Units Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-to-resolve-gpsvc-latency-issue/"><u>Quick Tips to Resolve GPSVC Latency Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/running-driver-verifier-via-control-panel/"><u>Running Driver Verifier via Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-the-shush-remedies-for-reduced-keyboard-audio/"><u>Stop the Shush: Remedies for Reduced Keyboard Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-efficient-system-use-despite-high-usage-by-unrealcefsubprocess/"><u>Strategies for Efficient System Use Despite High Usage by UnrealCEFSubprocess</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-keep-high-cpu-usage-in-check-wlanext/"><u>Tips to Keep High CPU Usage in Check: WLANEXT</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-win11-caption-problems/"><u>Understanding and Resolving Win11 Caption Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-servers-7-strategies-to-overcome-no-server-errors-in-apex-(156-chars/"><u>Winning at Servers: 7 Strategies to Overcome 'No Server' Errors in Apex (<156 Chars)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Swiftly Switching to Admin Command Prompt, Anytime, Anywhere
-date: 2024-10-26T00:03:24.130Z
-updated: 2024-11-01T16:01:33.530Z
+date: 2024-10-31T21:24:03.479Z
+updated: 2024-11-07T21:28:58.528Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 ![Always Open the Windows Terminal as Administrator Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/always-open-the-windows-terminal-as-administrator-using-settings.jpeg)
 5. Then click**Save** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the terminal will open automatically in the admin terminal the next time you open it.
 
 ## 2\. How to Always Open the Windows Terminal as Administrator With Desktop Shortcut
@@ -55,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 `%LocalAppData%\Microsoft\WindowsApps\wt.exe`
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Give the shortcut a name, such as Windows Terminal.  
@@ -72,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 5. Finally, click**Finish** to create the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating the shortcut, you can find it on your desktop.
@@ -88,26 +89,13 @@ After creating the shortcut, you can find it on your desktop.
 ![Set to run Windows Terminal as an administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-to-run-windows-terminal-as-an-administrator.jpg)
 4. On the Properties window, click**Apply** \>**OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Terminal Now Opens With Admin Rights
@@ -129,16 +117,21 @@ After creating the shortcut, you can find it on your desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-quality-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>2024 Approved Quality Guffaws Uncover the Top 15 YouTube Comedy Talents</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-novices-net-a-comprehensive-look-at-visual-quality-measures/"><u>2024 Approved The Novice’s Net A Comprehensive Look at Visual Quality Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-system32-folder-on-windows-11/"><u>Accessing System32 Folder on Windows 11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/best-practices-for-zoom-engagement-on-win10-systems-for-2024/"><u>Best Practices for Zoom Engagement on Win10 Systems for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-productivity-with-these-8-window-study-secrets/"><u>Boost Productivity with These 8 Window Study Secrets</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-frozen-windows-pin-with-easy-fixes/"><u>Bypass Frozen Windows Pin with Easy Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/capture-notes-effortlessly-on-windows-11/"><u>Capture Notes Effortlessly on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/code-of-shadows-mastering-invisibles-in-win11/"><u>Code of Shadows: Mastering Invisibles in Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-av1-compression-a-beginners-overview/"><u>In 2024, AV1 Compression A Beginner's Overview</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-trending-topics-and-themes-to-hook-your-streams-attention/"><u>In 2024, Trending Topics and Themes to Hook Your Stream's Attention</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-boundaries-the-complete-breakdown-of-vce-22/"><u>2024 Approved Pushing Boundaries The Complete Breakdown of VCE 2.2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-105-classic-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia 105 Classic Fingerprint Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertir-archivos-mov-a-formato-swf-gratuito-en-linea-con-movavi/"><u>Convertir Archivos MOV a Formato SWF Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-failed-sync-with-onedrive-on-windows/"><u>Correcting Failed Sync with OneDrive on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-msvcr100dll-not-found-troubleshooting-steps-inside/"><u>How to Address 'Msvcr100.dll Not Found': Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y28-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y28 5G Unlock Without Password</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pioneering-pathways-in-virtual-reality-biking/"><u>In 2024, Pioneering Pathways in Virtual Reality Biking</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-windows-ui-with-supernatural-shortcuts/"><u>Infuse Windows UI with Supernatural Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-to-attach-reminders-in-win11win10/"><u>Innovative Approaches to Attach Reminders in Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-forcibly-disable-windows-11-print-devices/"><u>Instant Guide: Forcibly Disable Windows 11 Print Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-tiktok-sound-control-simple-methods-for-quieting-videos-for-2024/"><u>Mastering TikTok Sound Control Simple Methods for Quieting Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-blue-screen-windows-error-code-0xc0000001/"><u>Quick Fixes for Blue Screen - Windows Error Code 0xC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-a-computer-name-mistake-on-windows-11/"><u>Reversing a Computer Name Mistake on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-science-behind-generative-ai-working-principles-and-leading-company-examples/"><u>The Science Behind Generative AI: Working Principles & Leading Company Examples</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-itunes-crashes-on-windows/"><u>Troubleshooting: ITunes Crashes on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>Updated 2024 Approved Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
 </ul></div>
 

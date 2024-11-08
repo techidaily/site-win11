@@ -1,7 +1,7 @@
 ---
 title: Harnessing Self-Extraction Power with the Newest Windows
-date: 2024-10-29T17:23:01.022Z
-updated: 2024-11-02T03:17:16.722Z
+date: 2024-11-05T23:54:59.659Z
+updated: 2024-11-07T20:52:08.308Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ Now we can get started using IExpress Wizard:
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing the SFX Archive Made With IExpress
@@ -74,19 +74,19 @@ Now we can get started using IExpress Wizard:
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up an SFX Archive With 7-ZIP
@@ -118,20 +118,14 @@ Testing the SFX File With 7-ZIP
 
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
- You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
-
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -154,24 +148,22 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-avoid-delays-swift-time-lapse-recording-on-iphone/"><u>[New] Avoid Delays Swift Time-Lapse Recording on iPhone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-a-step-by-step-guide-to-mastering-quick-scrubbing/"><u>[Updated] A Step-by-Step Guide to Mastering Quick Scrubbing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premium-mac-graphics-collector/"><u>[Updated] In 2024, Premium Mac Graphics Collector</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-viewing-manipulating-stories-frame-rate-on-instagram/"><u>[Updated] Speedy Viewing Manipulating Stories' Frame Rate on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/0x8004def5-on-onedrive-unraveling-windows-11-troubles/"><u>0X8004DEF5 on OneDrive - Unraveling Windows 11 Troubles</u></a></li>
-<li><a href="https://win11.techidaily.com/7-innovative-uses-for-windows-11-god-mode/"><u>7 Innovative Uses for Windows 11 God Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-seamless-software-operation-with-4-key-pcts/"><u>Achieve Seamless Software Operation with 4 Key PCTs</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-audacitys-portaudio-hiccup-on-windows-11-and-11/"><u>Addressing Audacity’s PortAudio Hiccup on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-configuration-for-optimal-android-resource-use/"><u>Advanced Configuration for Optimal Android Resource Use</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-windows-management-application-hiccups/"><u>Avoid Windows Management Application Hiccups</u></a></li>
-<li><a href="https://win11.techidaily.com/awareness-on-7-key-windows-events-that-signal-infection/"><u>Awareness on 7 Key Windows Events That Signal Infection</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-notability-of-your-scribbles-with-strategic-sticky-note-placement-in-win-os/"><u>Boost Notability of Your Scribbles with Strategic Sticky Note Placement in Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-into-windowsstore-app-folder-secrets/"><u>Breaking Into WindowsStore App Folder Secrets</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clearing-up-invisible-display-problems/"><u>Clearing Up Invisible Display Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-list-of-top-hd-video-player-apps-android/"><u>Exclusive List of Top HD Video Player Apps, Android</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v29e-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V29e Location by Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[New] Enhancing Social Media Strategy Facebook-WhatsApp Video Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfecting-your-nocturnal-portrait-techniques-for-2024/"><u>[New] Perfecting Your Nocturnal Portrait Techniques for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-immaculate-image-freezing-your-desktop-view/"><u>[Updated] Immaculate Image Freezing Your Desktop View</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-requesting-for-unrestricted-access-to-shared-visual-and-audio-content/"><u>[Updated] In 2024, Requesting for Unrestricted Access to Shared Visual & Audio Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tailoring-hashtags-for-impactful-fb-brand-presence/"><u>[Updated] Tailoring Hashtags for Impactful FB Brand Presence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-to-superior-color-grading/"><u>[Updated] Unveiling the Secrets to Superior Color Grading</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-fuel-the-fire-top-videos-that-inspire-audiences/"><u>2024 Approved Fuel the Fire Top Videos That Inspire Audiences</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-walkthrough-for-integrating-virtual-games-in-playnite/"><u>Comprehensive Walkthrough for Integrating Virtual Games in Playnite</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-12-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 12</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-xs-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone XS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-printer-hurdles-on-the-latest-windows-version/"><u>Overcoming Printer Hurdles on the Latest Windows Version</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-windows-update-requests/"><u>Overriding Windows Update Requests</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-virtualbox-error-code-0x80004005-in-windows/"><u>Remedying Virtualbox Error Code: 0X80004005 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-no-write-windows-saving-hurdles/"><u>Strategies for Overcoming No Write Windows Saving Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-microsoft-copilot-how-to-use-copilot-in-windows/"><u>What Is Microsoft Copilot? How to Use Copilot in Windows</u></a></li>
 </ul></div>
 

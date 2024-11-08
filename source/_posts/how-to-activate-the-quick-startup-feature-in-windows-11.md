@@ -1,7 +1,7 @@
 ---
 title: How to Activate the Quick Startup Feature in Windows 11
-date: 2024-10-27T03:29:01.178Z
-updated: 2024-11-02T02:13:23.917Z
+date: 2024-10-31T23:56:30.055Z
+updated: 2024-11-07T23:50:12.625Z
 tags:
   - windows10
   - windows11
@@ -33,22 +33,15 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check if Fast Startup Is On or Off
 
 ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Often, a major Windows feature update may overwrite the power settings and disable Hibernate, thus disabling Fast Startup. Or you may experience unusual boot behavior even when you think Fast Startup is on. Before attempting to troubleshoot your computer, check if Fast Startup is on or off.
@@ -80,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
 5. Under **Shutdown settings**, check if **Hibernate** is available. If available, select **Hibernate** and click **Save changes** to show **Hibernate** in the Power menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
 
 ## How to Enable Hibernation in Windows 11
@@ -104,9 +90,23 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
  Now that you have enabled the hibernate feature, below are the various ways to enable and disable Fast Startup on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On or Off Fast Startup in the Control Panel
 
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
 
@@ -118,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 6. Under the **Shutdown settings** section, check the **Turn on fast startup (recommended)** option to turn on the feature.
 7. Uncheck the **Turn on fast startup option** to disable Fast Startup.
 8. Click **Save changes** to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using the Registry Editor
 
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 7. Type **1** in the **Value data** field and click **OK** to save the changes.
 8. To turn off Fast Startup, enter **0** in the **Value data** field and click **OK**.
 9. Close the Registry Editor and reboot your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using a Registry File
 
@@ -166,16 +166,16 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 7. Next, click **Save**.
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
 ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -196,6 +196,19 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Since fast startup depends on the Hibernate feature, you can disable Hibernate to turn off Fast start. However, this will also turn off Hibernate in Power options, so tread carefully.
 
 1. Press **Win + R** to open **Run**.
@@ -203,13 +216,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 3. In the Command Prompt window, type the following command and hit enter:  
 `Powercfg -h off`
 4. This will disable the Hibernate feature and also turn off Fast Startup.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Making Your Windows 11 PC Boot Better
 
@@ -219,23 +225,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-best-funny-fictional-frequencies/"><u>[New] 2024 Approved The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-creative-summit-top-talent-junction/"><u>[New] 2024 Approved The Creative Summit Top Talent Junction</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-5-expert-approaches-to-preserve-virtual-reality-adventures-for-2024/"><u>[Updated] 5 Expert Approaches to Preserve Virtual Reality Adventures for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-photos-with-simple-grading-techniques/"><u>2024 Approved Transform Your Photos with Simple Grading Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-enhancement-installation-of-plugins-step-by-step/"><u>ChatGPT Enhancement: Installation of Plugins Step by Step</u></a></li>
-<li><a href="https://win11.techidaily.com/deciph-written-by-your-name/"><u>Deciph Written by [Your Name]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-art-of-perfect-sound-recording-zooming-into-excellence-for-podcasts/"><u>In 2024, The Art of Perfect Sound Recording Zooming Into Excellence for Podcasts</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-java-install-process-on-your-windows-pc/"><u>Mastering Java Install Process on Your Windows PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-14-conjuntos-de-software-livre-para-gravadoras-de-dvd-no-windows-versoes-compativeis-com-win10-11-8-e-7/"><u>Top 14 Conjuntos De Software Livre Para Gravadoras De DVD No Windows: Versões Compatíveis Com Win10, 11, 8 E 7</u></a></li>
-<li><a href="https://win11.techidaily.com/unfreeze-windows-hibernate-with-simple-steps/"><u>Unfreeze Windows Hibernate with Simple Steps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-potential-of-home-coverage-with-the-netgear-orbi-rbs50y-a-detailed-review/"><u>Unlocking the Potential of Home Coverage with the Netgear Orbi RBS50Y - A Detailed Review</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-techniques-for-full-ram-utilization-on-windows/"><u>Unveiling Hidden Techniques for Full RAM Utilization on Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-copyright-claims-and-how-to-deal-with-a-strike-for-2024/"><u>YouTube Copyright Claims and How to Deal with a Strike for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -243,3 +232,24 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored/"><u>[New] Choosing the Clearer Display UltraWide vs UHD 4K Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-exploring-the-dynamics-of-fb-video-speeds-for-2024/"><u>[New] Exploring the Dynamics of FB Video Speeds for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-innovative-ways-to-leverage-zoom-for-fb-live-for-2024/"><u>[New] Innovative Ways to Leverage Zoom for FB Live for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-kinemaster-app-transform-your-gaming-world/"><u>[Updated] In-Depth Analysis KineMaster App - Transform Your Gaming World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-photo-libraries-for-free-visuals-worldwide/"><u>[Updated] Top 10 Photo Libraries for Free Visuals Worldwide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-guide-to-free-pc-software-for-capturing-tv/"><u>Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-calendar-personalization-in-windows-outlook/"><u>Mastering Calendar Personalization in Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-unable-to-locate-on-windows-xpvista7/"><u>Overcoming 'lsass.exe' Unable to Locate on Windows XP/Vista/7</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-taskbar-limitations/"><u>Overcoming Windows 11 Taskbar Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-google-chrome-from-autopilot-tab-creation-in-windows/"><u>Prevent Google Chrome From Autopilot Tab Creation in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-non-recognized-hardware-problems-win1011/"><u>Remedying Non-Recognized Hardware Problems, Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-and-fix-frozen-epic-games-launcher-error/"><u>Stop and Fix Frozen Epic Games Launcher Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-tech-analysis-and-reviews-by-toms-hardware/"><u>The Comprehensive Tech Analysis and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-rankings-why-ring-video-doorbell-2-leads-the-pack-in-reviews/"><u>The Definitive Rankings: Why Ring Video Doorbell ^2 Leads the Pack in Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
+</ul></div>
+

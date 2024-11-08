@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Command Control: Always Open Terminal as Administrator"
-date: 2024-10-29T23:12:45.451Z
-updated: 2024-11-01T22:48:14.572Z
+date: 2024-11-06T19:18:03.701Z
+updated: 2024-11-07T18:16:12.714Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
  Once you complete the above steps, the terminal will open automatically in the admin terminal the next time you open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Always Open the Windows Terminal as Administrator With Desktop Shortcut
@@ -62,15 +62,28 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 `%LocalAppData%\Microsoft\WindowsApps\wt.exe`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Give the shortcut a name, such as Windows Terminal.  
 ![Give the Desktop Shortcut Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/give-the-desktop-shortcut-name.jpg)
 5. Finally, click**Finish** to create the shortcut.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After creating the shortcut, you can find it on your desktop.
 
@@ -83,20 +96,13 @@ After creating the shortcut, you can find it on your desktop.
 4. On the Properties window, click**Apply** \>**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, whenever you need access to an elevated Windows Terminal, double-click the shortcut icon on your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows Terminal Now Opens With Admin Rights
 
@@ -117,16 +123,18 @@ After creating the shortcut, you can find it on your desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-top-studio-screening-shorts/"><u>[New] In 2024, Top Studio Screening Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-studio-vs-campers-contest/"><u>[Updated] Studio vs Camper’s Contest</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-open-the-startup-repair-tool-on-windows/"><u>5 Ways to Open the Startup Repair Tool on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/9-ways-to-fix-keyboard-shortcuts-not-working-in-windows/"><u>9 Ways to Fix Keyboard Shortcuts Not Working in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-not-sufficient-usb-issue-in-windows/"><u>Addressing “Not Sufficient USB” Issue in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/automate-app-colors-with-the-help-of-windows-11-features/"><u>Automate App Colors with the Help of Windows 11 Features</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-mismatch-of-speaker-assignment-due-to-another-app/"><u>Avoiding Mismatch of Speaker Assignment Due to Another App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/collecting-classics-copyrights-released/"><u>Collecting Classics Copyrights Released</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oneplus-11r-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/to-subscribe-or-not-to-subscribe-evaluating-chatgpt-plus-with-these-5-convincing-points/"><u>To Subscribe or Not to Subscribe: Evaluating ChatGPT Plus with These 5 Convincing Points.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-the-art-of-video-marketing-on-youtube/"><u>[New] Unlocking the Art of Video Marketing on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubes-evergreen-most-watched-video-catalog/"><u>[Updated] In 2024, YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-short-sensation-keywords-for-enhancing-video-shows-virality-for-2024/"><u>[Updated] Short Sensation Keywords for Enhancing Video Shows' Virality for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-rush-and-reaction-sochis-speed-showdown/"><u>2024 Approved Rush & Reaction Sochi's Speed Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movwav-movavi/"><u>無限制地瀏覽MOV到WAV轉化 - 利用Movavi自由下載的音頻編譯器</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/deciding-to-display-understanding-and-managing-off-facebook-activity-for-2024/"><u>Deciding to Display Understanding and Managing Off-Facebook Activity for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y100a-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y100A by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-shooting-essential-camera-gear-guide/"><u>In 2024, Revolutionize Your Shooting Essential Camera Gear Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-typing-speed-with-windows-10-and-11-keys/"><u>Maximize Typing Speed with Windows 10 & 11 Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-high-cpu-load-due-to-modules-installer-activity/"><u>Mitigating High CPU Load Due to Modules Installer Activity</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-to-freeing-windows-11-space/"><u>Quick-Fix Guide to Freeing Windows 11 Space</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-regedit-management-in-windows-11/"><u>Techniques for RegEdit Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-windows-woes-in-4-easy-steps/"><u>Troubleshoot Windows Woes in 4 Easy Steps</u></a></li>
 </ul></div>
 

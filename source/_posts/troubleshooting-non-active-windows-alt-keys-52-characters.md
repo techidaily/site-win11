@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Active Windows Alt Keys (52 Characters)
-date: 2024-10-31T19:19:57.876Z
-updated: 2024-11-01T17:39:22.528Z
+date: 2024-11-01T19:30:20.808Z
+updated: 2024-11-07T18:04:42.787Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Turn On Mouse Keys
 
  If you need to use ALT codes on Windows but find that they are not working, you might want to enable Mouse Keys when NUM LOCK is ON. This is an easy fix for many ALT code problems.
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
@@ -79,19 +86,6 @@ To get started, follow these steps:
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -109,6 +103,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -117,13 +118,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
 ![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
 3. Under the**Formats** tab, select a different language from the list.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
@@ -139,16 +133,23 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Troubleshooting Windows ALT codes
 
@@ -169,22 +170,24 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-7-must-have-metaverse-devices-you-need-to-prepare/"><u>[Updated] 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-frames-per-second-in-slow-motion-vids/"><u>2024 Approved Ideal Frames Per Second in Slow Motion Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>2024 Approved The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/edy-youtube-video-ideas-that-only-funny-people-are-allowed-to-try-for-2024/"><u>7 Comedy YouTube Video Ideas That Only Funny People Are Allowed to Try for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/affordable-microsoft-office-2019-bundle-deal-save-big-at-25-for-windowsmac-users-unlock-tips-inside/"><u>Affordable Microsoft Office 2019 Bundle Deal: Save Big at $25 for Windows/Mac Users | Unlock Tips Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/bridge-the-gap-connecting-your-computer-again/"><u>Bridge the Gap: Connecting Your Computer Again</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-windows-explorer-tab-lapses/"><u>Bridging Windows Explorer Tab Lapses</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-blocked-onedrive-fixes-for-windows-users/"><u>Bypassing Blocked OneDrive: Fixes for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-wsl-smart-choice/"><u>Bypassing WSL - Smart Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-constant-pc-startup-in-bios-mode/"><u>Circumventing Constant PC Startup in BIOS Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-the-path-for-startup-display-in-taskbar/"><u>Clearing the Path for Startup Display in Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-subdued-soundscape-stitches-for-garageband-workflows/"><u>In 2024, Subdued Soundscape Stitches for Garageband Workflows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-1password-leading-the-pack-expert-evaluation-of-premium-digital-key-management-solutions-by-zdnet/"><u>Is 1Password Leading the Pack? Expert Evaluation of Premium Digital Key Management Solutions by ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-9-best-skype-interview-tips-of-2024/"><u>The 9 Best Skype Interview Tips of 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/workout-and-stay-entertained-with-the-new-garmin-vivoactive-3-tracker/"><u>Workout and Stay Entertained with the New Garmin Vivoactive 3 Tracker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-art-of-adaptation-uploading-your-horizon-content-to-instagram-tv/"><u>[Updated] In 2024, The Art of Adaptation Uploading Your Horizon Content to Instagram TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-a-following-with-stunning-unboxing-content/"><u>2024 Approved Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-14-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 14 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mobile-photography-tools-reviewed-iphone-and-android-comparisons/"><u>Best Mobile Photography Tools Reviewed IPhone & Android Comparisons</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-routes-to-windows-11s-safe-mode-for-it-professionals/"><u>Direct Routes to Windows 11'S Safe Mode for IT Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-unwanted-quit-alerts-from-roblox-installations/"><u>Eliminating Unwanted 'Quit' Alerts From Roblox Installations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elite-communities-for-artificial-intelligence-prompts/"><u>Elite Communities for Artificial Intelligence Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-photo-functionality/"><u>Enhancing Windows Explorer Photo Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-users-from-changing-the-screensaver-on-windows/"><u>How to Stop Users From Changing the Screensaver on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-learning-with-legends-top-history-youtube-content-for-learners/"><u>In 2024, Learning with Legends Top History YouTube Content for Learners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>In 2024, Unlock the Potential of Your Phone Individual Ringtone Creation on Android</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-advanced-visuals-within-edges-security/"><u>Mastering Advanced Visuals Within Edge's Security</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-warhammers-precision-gameplay-end-stuttering-on-windows/"><u>Mastering Warhammer's Precision Gameplay - End Stuttering on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/re-enabling-disabled-recycle-bin-on-win11/"><u>Re-Enabling Disabled Recycle Bin on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-restrictions-for-microsoft-store-in-windows-11/"><u>Removing Restrictions for Microsoft Store in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-wh-1000xm4-review-the-new-standard-in-audio-excellence/"><u>Sony WH-1000XM4 Review: The New Standard in Audio Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-innovations/"><u>Tom's Tech Review: Unveiling the Latest Innovations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-s18e-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo S18e Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-setup-effortless-installation-of-legacy-applications/"><u>Windows 11 Setup: Effortless Installation of Legacy Applications</u></a></li>
 </ul></div>
 

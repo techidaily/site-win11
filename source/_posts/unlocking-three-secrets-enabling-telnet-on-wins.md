@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Three Secrets: Enabling Telnet on Wins"
-date: 2024-11-01T00:10:15.144Z
-updated: 2024-11-02T00:59:35.301Z
+date: 2024-11-02T20:51:22.042Z
+updated: 2024-11-07T18:34:07.643Z
 tags:
   - windows10
   - windows11
@@ -46,22 +46,15 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
@@ -77,16 +70,16 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -103,16 +96,10 @@ Follow these steps to install Telnet using Command Prompt:
 7. Type**exit** and press**Enter** to close Command Prompt.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check the Telnet Client Status on Your PC
@@ -124,6 +111,13 @@ Follow these steps to install Telnet using Command Prompt:
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
 2. In the Command Prompt window, type**Telnet** and press**Enter** .
 3. A new CMD with Microsoft Telnet will open.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
 
@@ -146,24 +140,24 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-scrutinizing-active-presenters-record-quality/"><u>[New] Scrutinizing Active Presenter's Record Quality</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-best-5-video-editing-platforms-that-dont-feature-in-youtoo/"><u>2024 Approved Best 5 Video Editing Platforms That Don't Feature in YouToo</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-peasy-top-strategies-for-intense-ipad-recording/"><u>2024 Approved Easy Peasy Top Strategies for Intense iPad Recording</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-efficiently-transforming-ttml-and-xml-into-high-quality-srts/"><u>2024 Approved Efficiently Transforming TTML and XML Into High-Quality SRTs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-unorganized-to-organized-music-youtubes-magic/"><u>2024 Approved From Unorganized to Organized Music Youtube's Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/30-minute-guide-to-resolving-windows-onedrive-fails/"><u>30 Minute Guide to Resolving Windows OneDrive Fails</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compre-written-by-derek-walsh-phd-dr-jeffrey-l-gardiner-phd-and-david-c-muller-phd-from-their-book-understanding-the-psychology-of-religion-exploring-god-33/"><u>A Compre Written by Derek Walsh, PhD; Dr. Jeffrey L. Gardiner, PhD; and David C. Muller, PhD; From Their Book Understanding the Psychology of Religion: Exploring God Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deeper-dive-into-reading-qr-codes-with-windows-os/"><u>A Deeper Dive Into Reading QR Codes with Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-write-prohibited-steam-directories-in-win-11/"><u>Addressing Write-Prohibited Steam Directories in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-xbox-apps-audio-challenges-in-windows-1011/"><u>Addressing Xbox App's Audio Challenges in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-frustration-with-11-troubleshooting-windows-tips/"><u>Avoid Frustration with 11 Troubleshooting Windows Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-conflict-over-shared-device-camera-error-0xa00f4243/"><u>Avoiding Conflict Over Shared Device (Camera, Error 0xA00F4243)</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-system-speed-implementing-a-smart-enhanced-run-feature/"><u>Boosting System Speed: Implementing a Smart Enhanced Run Feature</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/effortless-accuracy-meets-convenience-in-sabrenter-wired-minimalist-travel-gaming-mouse/"><u>Effortless Accuracy Meets Convenience in Sabrent'er Wired Minimalist Travel Gaming Mouse</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-the-world-of-decentralization-with-dapps-unlocking-their-potential-and-operating-mechanisms/"><u>Exploring the World of Decentralization with dApps – Unlocking Their Potential and Operating Mechanisms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminating-iphones-low-light-footage-easy-steps-for-2024/"><u>Illuminating iPhone's Low-Light Footage Easy Steps for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-90-gt-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor 90 GT Unlock Without Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor 70 Lite 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/1719310047074-overcome-compatibility-issues-with-easy-fixed-steps/"><u>Overcome Compatibility Issues with Easy Fixed Steps.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>[New] Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>[New] Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secure-your-facetime-discussions-with-screen-record/"><u>[Updated] In 2024, Secure Your FaceTime Discussions with Screen Record</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-audioanalyzer-reaction-to-recordings/"><u>2024 Approved AudioAnalyzer Reaction to Recordings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instas-power-players-a-guide-to-your-niches-movers-and-shakers/"><u>2024 Approved Insta’s Power Players A Guide to Your Niche's Movers & Shakers</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-this-file-has-no-app-windows-issue/"><u>Eliminating 'This File Has No App' Windows Issue</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-complete-comment-installer-le-logiciel-de-montage-video-libre-pour-votre-lecteur-dvd-en-une-journee/"><u>Guide Complète : Comment Installer Le Logiciel De Montage Vidéo Libre Pour Votre Lecteur DVD en Une Journée</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-finding-the-storage-for-your-desktop-pics/"><u>Guide: Finding the Storage for Your Desktop Pics</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-processors-faceoff-the-ryzen-5-9600x-vs-ryzen-n-7-9700x-review-for-ultimate-gaming-experience-on-zen-5-architecture/"><u>Next-Gen Processors Faceoff: The Ryzen 5 9600X Vs. Ryzen N 7 9700X Review for Ultimate Gaming Experience on Zen 5 Architecture</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-screen-quality-resetting-graphics-in-windows-11/"><u>Optimize Screen Quality: Resetting Graphics in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-stranded-status-on-xbox-for-pc-a-practical-approach/"><u>Solving ‘Stranded’ Status on Xbox for PC: A Practical Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-to-the-not-supported-interface-error/"><u>Swift Solutions to the Not-Supported Interface Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-choosing-a-free-internet-phone-service-in-202-communication-tools-best-free-calls-apps-for-this-year/"><u>The Essential Guide to Choosing a Free Internet Phone Service in 202 # Communication Tools: Best Free Calls Apps for This Year!</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-managing-deletion-alerts-in-windows-os/"><u>Tips for Managing Deletion Alerts in Windows OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-picks-downloading-templates-from-youtube-vids-for-2024/"><u>Top Picks Downloading Templates From YouTube Vids for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pubgs-network-errors-for-a-smoother-gaming-experience/"><u>Troubleshooting PUBG's Network Errors for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-discontinuation-what-does-this-mean-for-us/"><u>Windows 11 Taskbar Chat Discontinuation: What Does This Mean for Us?</u></a></li>
 </ul></div>
 

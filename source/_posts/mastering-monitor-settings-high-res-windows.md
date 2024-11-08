@@ -1,7 +1,7 @@
 ---
 title: "Mastering Monitor Settings: High Res Windows"
-date: 2024-10-26T01:40:18.399Z
-updated: 2024-11-01T17:11:10.083Z
+date: 2024-11-03T20:09:30.595Z
+updated: 2024-11-07T16:04:34.303Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -51,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Display DPI Scaling Using the Registry Editor
@@ -76,10 +75,16 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 | Value data | DPI scale                  |  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | ---------- | -------------------------- |  
@@ -97,21 +102,22 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Scale the Display DPI on Windows
 
@@ -132,22 +138,18 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-10-top-editing-apps-at-no-cost-online/"><u>[New] In 2024, 10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pros-of-expanded-ram-in-minecraft-gaming-world-for-2024/"><u>[New] Pros of Expanded Ram in Minecraft Gaming World for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-essential-guide-to-ios-podcast-acquisition/"><u>2024 Approved The Essential Guide to iOS Podcast Acquisition</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-code-e84-in-steam-games/"><u>Eliminating Error Code E84 in Steam Games</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-no-device-drivers-detected-in-windows-setup/"><u>Eliminating Error: No Device Drivers Detected in Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-text-input-experience-integrating-wordpad-triggers-in-windows-11/"><u>Enriching Text Input Experience: Integrating WordPad Triggers in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-nvidia-rtx-2060-driver-downloads-for-windows-11-10-8-and-7/"><u>Ensure Optimal Performance: NVIDIA RTX 2060 Driver Downloads for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/fitbit-versa-smartwatch-examined-cost-effective-style-for-health-enthusiasts/"><u>Fitbit Versa Smartwatch Examined: Cost-Effective Style for Health Enthusiasts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-chromes-screen-darkness-problem/"><u>Overcoming Chrome's Screen Darkness Problem</u></a></li>
-<li><a href="https://driver-install.techidaily.com/silence-windows-10-noise-reinstall-audio-drivers-first/"><u>Silence Windows 10 Noise? Reinstall Audio Drivers First</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-entry-tricks-beat-delayed-inputs-in-windows-11-environment/"><u>Speedy Entry Tricks: Beat Delayed Inputs in Windows 11 Environment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/t-force-vulcan-c30-from-teamgroup-unveiling-its-eco-friendly-ddr5-6000-prowess-in-a-detailed-review/"><u>T-Force Vulcan C30 From TeamGroup: Unveiling Its Eco-Friendly DDR5-6000 Prowess in a Detailed Review</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-sticking-notebooks-front-and-center/"><u>Tips for Sticking Notebooks Front and Center</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-error-262-robloxs-solution-path/"><u>Unraveling Error 262: Roblox's Solution Path</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-power-of-chatgpt-plus-9-essential-advantages-awaiting-you/"><u>Unveiling the Power of ChatGPT Plus: 9 Essential Advantages Awaiting You</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-war-against-sse-windows-woes/"><u>Winning War Against SSE Windows Woes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-customizing-characters-the-ae-font-guide/"><u>[New] 2024 Approved Customizing Characters The AE Font Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-turning-tides-in-photographic-history-retrieval-on-facebook/"><u>[New] In 2024, Turning Tides in Photographic History Retrieval on Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-comprehensive-examination-assessing-gecatas-game-logger/"><u>[Updated] In 2024, Comprehensive Examination Assessing Gecata's Game Logger</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-silent-sounds-garagebands-volume-control-magic/"><u>[Updated] Mastering Silent Sounds Garageband's Volume Control Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-ui-incorporating-an-indicator-of-current-weather-on-your-pcs-taskbar/"><u>Enhancing UI: Incorporating an Indicator of Current Weather on Your PC's Taskbar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-guide-to-premium-free-phone-video-chat-apps-iosandroid/"><u>In 2024, Essential Guide to Premium-Free Phone Video Chat Apps - iOS/Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-dailymotion-video-conversion-without-registration/"><u>In 2024, Free Dailymotion Video Conversion without Registration</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a78-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo A78</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-data-integrity-in-windows-systems-weekly/"><u>Preserving Data Integrity in Windows Systems, Weekly</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-controllers-with-ease-on-windows-steam/"><u>Rediscover Lost Controllers with Ease on Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-flawless-windows-performance-using-pct/"><u>Unleash Flawless Windows Performance Using PCT</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-freeze-no-more-disabling-autolock/"><u>Windows Freeze No More: Disabling AutoLock</u></a></li>
 </ul></div>
 

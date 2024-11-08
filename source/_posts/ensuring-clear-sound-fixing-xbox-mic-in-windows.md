@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Clear Sound: Fixing Xbox Mic in Windows"
-date: 2024-10-29T23:33:07.110Z
-updated: 2024-11-01T17:58:37.083Z
+date: 2024-11-02T18:01:14.167Z
+updated: 2024-11-07T16:02:53.707Z
 tags:
   - windows10
   - windows11
@@ -59,21 +59,14 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change the Default Format Output Option
@@ -89,16 +82,23 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 6. Click**Advanced** in the properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Then select the**2-channel, 16-bit, 48000 Hz (DVD Quality)** option in the drop-down menu.  
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
 8. Press**Apply** to save the new default format output setting.
 9. Click**OK** to exit the**Advanced** tab and properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Audio Input Device in the Xbox App
 
@@ -113,10 +113,16 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 5. Then select the microphone you want to use with the Xbox app in the Input device menu.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
@@ -126,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
  The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
 
 ![The Reset app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-app-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Driver for the Audio Input Device
 
@@ -137,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 4. Click**Uninstall** to confirm and remove the device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
 ## 8\. Reinstall the Xbox App
@@ -152,14 +158,14 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -180,22 +186,18 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-use-luts-in-adobe-photoshop-cc/"><u>[Updated] 2024 Approved How to Use LUTs in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-driving-virality-on-the-worlds-largest-network/"><u>2024 Approved Driving Virality on the World’s Largest Network</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-limited-it-administrator-power-error-on-windows/"><u>Bypassing Limited IT Administrator Power Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-read-only-settings-for-windows-folders/"><u>Bypassing Read-Only Settings for Windows Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/circumventing-intel-graphic-spec-limitations-a-guide-to-improvement/"><u>Circumventing Intel Graphic Spec Limitations: A Guide to Improvement</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-and-clean-automating-your-files-end-of-life-in-windows/"><u>Clear and Clean: Automating Your Files' End of Life in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-roadblocks-for-seamless-amd-software-setup/"><u>Clearing Roadblocks for Seamless AMD Software Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/closing-the-gap-between-pc-and-androids-pace/"><u>Closing The Gap Between PC and Android's Pace</u></a></li>
-<li><a href="https://win11.techidaily.com/coherent-ideas-at-a-glance-via-obsidian-canvas/"><u>Coherent Ideas at a Glance via Obsidian Canvas</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-lossed-graphics-a-guide-for-overwatch-2-players/"><u>Combat Lossed Graphics: A Guide for Overwatch 2 Players</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/dissecting-godfall-why-sonys-initial-ps5-gamble-proves-bland/"><u>Dissecting Godfall: Why Sony's Initial PS5 Gamble Proves Bland</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6 and iPad Securely</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>In 2024, Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigate-your-run-with-the-cutting-edge-timekeepers-of-2024/"><u>Navigate Your Run with the Cutting-Edge Timekeepers of 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/revisiting-old-friends-a-facebook-journey/"><u>Revisiting Old Friends: A Facebook Journey</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/squaring-the-circle-of-facebook-engagement-with-visuals-for-2024/"><u>Squaring the Circle of Facebook Engagement with Visuals for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>[New] In 2024, Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-calculating-clickers-contribution-to-youtube-earnings/"><u>[Updated] Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/9-effective-strategies-utilizing-chatgpt-for-improved-wellness/"><u>9 Effective Strategies: Utilizing ChatGPT for Improved Wellness</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-navigating-apple-pay-features-on-the-apple-watch/"><u>Complete Walkthrough: Navigating Apple Pay Features on the Apple Watch</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-disk-space-on-windows-using-altwindirstat/"><u>Decluttering Disk Space on Windows Using altWinDirStat</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-draw-on-the-desktop-on-windows-10-and-11/"><u>How to Draw on the Desktop on Windows 10 & 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-review-of-apeaksoft-for-video-capture-technology/"><u>In 2024, Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-playwriting-sanctuary-for-2024/"><u>Pinnacle Playwriting Sanctuary for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-fixing-frozen-itunes-on-your-pc/"><u>Step-by-Step Guide: Fixing Frozen iTunes on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-enlargement-win11-taskbar-icons-reimagined/"><u>The Art of Enlargement: Win11 Taskbar Icons Reimagined</u></a></li>
+<li><a href="https://win11.techidaily.com/unified-solutions-overcoming-issues-with-windows-defender-threat-engine/"><u>Unified Solutions: Overcoming Issues with Windows Defender Threat Engine</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-creating-synchronized-media-incorporating-video-into-audio-streams/"><u>Updated 2024 Approved Creating Synchronized Media Incorporating Video Into Audio Streams</u></a></li>
 </ul></div>
 

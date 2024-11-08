@@ -1,7 +1,7 @@
 ---
 title: "Revealing the Extremes: Processor Stages in Windows"
-date: 2024-10-28T18:57:37.708Z
-updated: 2024-11-01T16:47:02.810Z
+date: 2024-11-03T22:15:43.189Z
+updated: 2024-11-07T21:42:20.683Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,6 @@ To hide the maximum processor state, enter the below command:
 
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
 
  You can also show or hide these options using the Registry Editor. However, before you do so, create a restore point as a backup in case you make a mistake and need to return your Windows computer to a previously-working state. Check out[how to create a restore point in Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) for more information.
@@ -65,16 +58,10 @@ To hide the maximum processor state, enter the below command:
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
@@ -88,10 +75,10 @@ To hide the maximum processor state, enter the below command:
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
@@ -99,10 +86,10 @@ To hide the maximum processor state, enter the below command:
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -110,6 +97,13 @@ To hide the maximum processor state, enter the below command:
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\893dee8e-2bef-41e0-89c6-b55d0929964c`
 
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
 
@@ -130,22 +124,20 @@ To hide the maximum processor state, enter the below command:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-remove-youtube-videos/"><u>[Updated] How to Remove YouTube Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-rage-raid-and-rebel-without-a-gta-tale/"><u>[Updated] Rage, Raid and Rebel Without a GTA Tale</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-crafting-multiple-network-interfaces-on-macos-a-guide-to-enhanced-connectivity-options/"><u>1. Crafting Multiple Network Interfaces on macOS: A Guide to Enhanced Connectivity Options</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-fix-keyboard-input-lag-on-windows-11-and-11/"><u>7 Ways to Fix Keyboard Input Lag on Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-phone-dialer-in-windows-11/"><u>Accessing Phone Dialer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-operational-windows-11-taskbar/"><u>Addressing Non-Operational Windows 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-sync-failures-with-microsoft-to-do/"><u>Addressing Sync Failures with Microsoft To Do</u></a></li>
-<li><a href="https://win11.techidaily.com/adjust-screen-direction-on-windows-pc/"><u>Adjust Screen Direction on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/altwindirstat-reigniting-your-file-systems-potential-on-windows/"><u>AltWinDirStat: Reigniting Your File System's Potential on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-productivity-with-to-do-and-ifttt/"><u>Automating Productivity with To-Do and IFTTT</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-ultimate-selection-the-best-14-audio-transformation-applications-available-for-free/"><u>Discover the Ultimate Selection: The Best 14 Audio Transformation Applications Available for Free</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-delightfully-chaotic-world-of-overcooked-2/"><u>Dissecting the Delightfully Chaotic World of Overcooked 2</u></a></li>
-<li><a href="https://win11.techidaily.com/1719219819181-explore-the-full-capabilities-of-windows-snip-and-sketch-tool/"><u>Explore the Full Capabilities of Windows' Snip & Sketch Tool.</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-snapping-success-how-to-choose-the-best-camera-views-on-iphone/"><u>In 2024, Snapping Success How to Choose the Best Camera Views on iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-youtube-thumbnail-design-on-macos-unveiled/"><u>In 2024, YouTube Thumbnail Design on macOS Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leap-into-the-future-a-guide-for-windows-11-installation/"><u>Leap Into the Future A Guide for Windows 11 Installation</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedying-the-cross-platform-steam-sync-issue/"><u>Remedying the Cross-Platform Steam Sync Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ptimizing-content-visibility-premier-tracking-applications-for-youtubers/"><u>[New] Optimizing Content Visibility - Premier Tracking Applications for YouTubers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-potential-with-facebooks-live-a-comprehensive-guide-for-creators/"><u>[Updated] Unlocking Potential with Facebook’s LIVE A Comprehensive Guide for Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/al-symphony-adding-tracks-to-youtube-hub-for-2024/"><u>Digital Symphony Adding Tracks to Youtube Hub for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/easy-steps-to-watch-flv-files-on-your-ios-device/"><u>Easy Steps to Watch FLV Files on Your iOS Device</u></a></li>
+<li><a href="https://win11.techidaily.com/excellence-in-organizing-top-windows-to-dos-revealed/"><u>Excellence in Organizing: Top Windows To-Dos Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-sustainable-strategies-for-securing-over-a-million-viewers/"><u>In 2024, Sustainable Strategies for Securing Over a Million Viewers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-download-speeds-on-origin-proven-tips-and-tricks/"><u>Maximizing Download Speeds on Origin - Proven Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-common-rainmeter-challenges-on-pcs/"><u>Navigating the Maze of Common Rainmeter Challenges on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-no-saving-problem-with-photoapp/"><u>Remedy for 'No Saving' Problem with PhotoApp</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-guide-switching-your-netflix-location-in-minutes/"><u>Simple Guide: Switching Your Netflix Location in Minutes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-no-sound-issues-in-mp4-videos-a-simple-guide-to-troubleshooting-and-fixing/"><u>Solving No-Sound Issues in MP4 Videos: A Simple Guide to Troubleshooting & Fixing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-pin-modification/"><u>The Ultimate Guide to Windows PIN Modification</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-upgrade-top-5-tools-to-supercharge-your-pc/"><u>Turbo Upgrade: Top 5 Tools to Supercharge Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-security-reboot-a-guide-to-altering-rules/"><u>Windows Security Reboot: A Guide to Altering Rules</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Empower Your Windows Cmd Experience
-date: 2024-10-28T17:56:44.558Z
-updated: 2024-11-02T00:26:42.035Z
+date: 2024-11-06T18:25:21.038Z
+updated: 2024-11-07T18:33:14.132Z
 tags:
   - windows10
   - windows11
@@ -46,14 +46,20 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 ![Run Command Prompt Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Run-Command.jpg)
 3. This will open Command Prompt with administrative privileges. From here, you can enter any commands that you need to run.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
 
@@ -65,6 +71,14 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 2. Then select **Terminal (Admin)** from the menu that appears.  
 ![Run Command Prompt Via Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Via-Quick-Access-Menu.jpg)
 3. If you see a User Account Control message, click **Yes**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
 
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
@@ -79,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 5. If UAC appears on the screen, click **Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
  Task Manager is a tool that every Windows user should know about. It's a great way to see what programs are running on your computer and how many resources they're using at the same time. If you ever need to run a command prompt as an administrator, you can do so by opening Task Manager.
@@ -99,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 4. Click **OK** to launch the command prompt as an administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. How to Run Command Prompt as an Administrator Using the Control Panel
@@ -116,16 +123,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
@@ -138,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 4. Once you find the executable file, right-click on it and select **Run as administrator**.  
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
@@ -158,10 +166,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
@@ -178,16 +186,16 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
  This way you will never have to worry about finding it again.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. How to Run Command Prompt as an Administrator Using a Keyboard Shortcut
@@ -199,23 +207,16 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 ![Create Command Prompt Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/create-command-prompt-shortcut.jpg)
 3. On the next screen, give a name to this shortcut and click **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Now right-click on the shortcut and select **Properties**.
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Make sure to check the **Run as administrator** box and click **OK**.
@@ -233,23 +234,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  Some commands, however, require administrator-level privileges to run properly. As such, here are some quick and easy ways to open Command Prompt as an administrator in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-lenses-to-screens-reviewing-nikon-d7500/"><u>[New] In 2024, From Lenses to Screens Reviewing Nikon D7500</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-live-streams-on-fb-top-techniques-revealed/"><u>[Updated] In 2024, Capturing Live Streams on FB Top Techniques Revealed</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1-resolving-the-issue-why-windows-media-player-fails-to-play-mp4-files-now/"><u>1. Resolving the Issue: Why Windows Media Player Fails to Play MP4 Files Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-easy-to-follow-steps-for-exporting-youtube-and-pinterest-videos-as-mp3s/"><u>2024 Approved Easy-to-Follow Steps for Exporting YouTube and Pinterest Videos as MP3s</u></a></li>
-<li><a href="https://win11.techidaily.com/breathe-life-into-slow-windows-excel-with-easy-fixes/"><u>Breathe Life Into Slow Windows-Excel with Easy Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-the-gap-integrating-gmail-with-outlook-app-for-windows/"><u>Bridging the Gap: Integrating Gmail with Outlook App for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-microsofts-zero-error-on-windows-11/"><u>Bypassing Microsoft's Zero-Error on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-self-scrolling-in-your-windowed-world/"><u>Cease Self-Scrolling in Your Windowed World</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-fixes-for-windows-steam-remote-gaming-glitches/"><u>Essential Fixes for Windows Steam Remote Gaming Glitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-c12-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia C12 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stunning-close-ups-and-macros-with-iphones-advanced-lenses/"><u>Stunning Close-Ups & Macros with iPhone's Advanced Lenses</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlock-igtv-master-video-submission/"><u>Unlock IGTV Master Video Submission</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mpe-mp3-moveave/"><u>오피스 상대 공간의 MPE 파일을 원형 MP3로 자유성 이전화 - Moveave</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -257,3 +241,23 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-androids-screen-recording-capabilities/"><u>[Updated] 2024 Approved Unveiling Android's Screen Recording Capabilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-join-the-journey-to-a-calmer-mind-games/"><u>[Updated] Join the Journey to a Calmer Mind (Games)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-synchronize-your-surfing-master-multi-video-youtube-use-for-2024/"><u>[Updated] Synchronize Your Surfing Master Multi-Video YouTube Use for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-what-is-periscope-is-it-free-and-how-to-sign-up-it/"><u>2024 Approved What Is Periscope? Is It Free and How to Sign up It?</u></a></li>
+<li><a href="https://win11.techidaily.com/compatibility-crusade-four-key-windows-troubleshooters/"><u>Compatibility Crusade: Four Key Windows Troubleshooters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x9b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock X9b Phone Forgot Password</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-5ghz-connection-not-appearing-in-windows-11-try-these-7-fixes/"><u>Is Your 5GHz Connection Not Appearing in Windows 11? Try These 7 Fixes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/les-techniques-pour-deplacer-des-fichiers-de-classe-vers-dautres-disques-dur-windows-11/"><u>Les Techniques Pour Déplacer Des Fichiers De Classe Vers D'Autres Disques Dur Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-latest-features-for-taskbar-in-win11/"><u>Leveraging Latest Features for Taskbar in Win11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-unleash-your-creativity-top-free-video-editing-apps/"><u>New In 2024, Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-fix-crashing-file-explorers-on-up-to-date-windows-11/"><u>Quickly Fix Crashing File Explorers on Up-to-Date Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-missing-links-to-shared-windows-sites/"><u>Resurrect Missing Links to Shared Windows Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/superior-tools-replacing-windows-snipping-feature-in-various-oses/"><u>Superior Tools Replacing Windows' Snipping Feature in Various OSes</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-squeezes-out-misuse-in-easy-game-returns/"><u>Valve Squeezes Out Misuse in Easy Game Returns</u></a></li>
+</ul></div>
+

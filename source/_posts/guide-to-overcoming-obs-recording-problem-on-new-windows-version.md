@@ -1,7 +1,7 @@
 ---
 title: Guide to Overcoming OBS Recording Problem on New Windows Version
-date: 2024-10-29T20:36:23.026Z
-updated: 2024-11-01T22:19:43.830Z
+date: 2024-10-31T18:31:39.615Z
+updated: 2024-11-07T23:11:18.116Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  To restart OBS Studio, open the**Task Manager** (see how to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on OBS Studio, and choose**End Task.** Then, search for OBS Studio in the**Start Menu** and choose**Open** from the right pane.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Temporarily Disable Your Graphics Driver
 
  The error is likely to occur if there's corruption in the GPU log file that is used by the OBS Studio. To remove the corruption, you'll have to disable the graphics driver before launching the OBS Studio. Doing this will force the program to create a new GPU log.
@@ -51,14 +58,14 @@ Here's what you need to do:
 
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it! Return to OBS Studio and check if you are able to record.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Allow OBS Studio Through Your Firewall
 
@@ -70,37 +77,31 @@ Here's what you need to do:
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer and check if the problem continues.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Fix the Missing DLL Files
 
@@ -119,10 +120,16 @@ swresample-2.dll`
 Restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Edit the OBS-Ffmpeg-Mux Installation Folder
@@ -136,24 +143,25 @@ You can do that by following the below instructions:
 3. Click the**Advanced system settings** option.  
 ![Advanced system settings option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-system-settings.jpg)
 4. Click the**Environment Variables** button.  
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it! Now, start recording in OBS Studio and check if the problem persists.
 
@@ -196,16 +204,24 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-cross-media-broadcasting-4-strategies-to-air-fb-livests-on-tv-for-2024/"><u>[Updated] Cross-Media Broadcasting 4 Strategies to Air FB Livests on TV for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-enhance-tweet-management-the-most-effective-apps-for-tweets/"><u>[Updated] Enhance Tweet Management The Most Effective Apps for Tweets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-master-facebook-seo-essential-techniques-to-skyrocket-engagement/"><u>[Updated] In 2024, Master Facebook SEO Essential Techniques to Skyrocket Engagement</u></a></li>
-<li><a href="https://win-dash.techidaily.com/advanced-techniques-to-keep-your-ati-graphics-card-optimized-with-driver-updates-for-windows/"><u>Advanced Techniques to Keep Your ATI Graphics Card Optimized with Driver Updates for Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/begin-anew-with-windows-11-your-ultimate-guide-for-new-hard-drives/"><u>Begin Anew with Windows 11: Your Ultimate Guide for New Hard Drives</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-your-windows-ecosystem-wsl-and-win-11/"><u>Enhancing Your Windows Ecosystem: WSL & Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/five-steps-to-wipe-ms-defender-history-on-windows-systems/"><u>Five Steps to Wipe MS Defender History on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/get-direct-access-to-processes-in-win11-with-a-search-box/"><u>Get Direct Access to Processes in Win11 with a Search Box</u></a></li>
-<li><a href="https://win11.techidaily.com/minimize-delays-win11-optimized-launches/"><u>Minimize Delays: Win11 Optimized Launches</u></a></li>
-<li><a href="https://win11.techidaily.com/overruling-google-chromes-default-webp-imaging-process-pc-based/"><u>Overruling Google Chrome's Default WebP Imaging Process, PC-Based</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quickvideocapture-simple-desktop-app-for-w10-for-2024/"><u>QuickVideoCapture Simple Desktop App for W10 for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-hunters-top-5-video-recording-recommendations/"><u>[Updated] 2024 Approved Hunters' Top 5 Video Recording Recommendations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>[Updated] 2024 Approved Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[Updated] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>2024 Approved From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-and-correcting-microsofts-error-code-0x8007251d/"><u>Dissecting and Correcting Microsoft's Error Code: 0X8007251D</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enriching-life-in-golden-years-through-multilingualism/"><u>Enriching Life in Golden Years Through Multilingualism</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-purging-window-search-images/"><u>Guide to Purging Window Search Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ags-that-elevate-your-channels-visibility-and-value-for-2024/"><u>Hashtags that Elevate Your Channels' Visibility & Value for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-look-at-ais-impact-on-windows-11-performance/"><u>In-Depth Look at AI's Impact on Windows 11 Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-youtube-mastery-key-content-strategies-for-channels/"><u>Inspiring YouTube Mastery Key Content Strategies for Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-windows-lockout-challenge/"><u>Overcoming the Windows Lockout Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-to-streamline-your-workflow-in-the-world-of-windows-11/"><u>Pro Tips to Streamline Your Workflow in the World of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reigniting-hidden-net-discovery-protocols-win-os/"><u>Reigniting Hidden Net Discovery Protocols Win-OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-missing-dll-error-rockalldlldll/"><u>Remedying the Missing DLL Error: Rockalldll.dll</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-frozen-dashboard-in-windows/"><u>Reviving a Frozen Dashboard in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-auto-gpt-integration-solutions-for-six-typical-issues-faced-by-users/"><u>Streamlining Auto-GPT Integration: Solutions for Six Typical Issues Faced by Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-blaze-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Blaze Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-vanished-symbols-restoration-procedures/"><u>Win 11'S Vanished Symbols: Restoration Procedures</u></a></li>
 </ul></div>
 

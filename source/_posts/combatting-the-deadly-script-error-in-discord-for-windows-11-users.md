@@ -1,7 +1,7 @@
 ---
 title: Combatting the Deadly Script Error in Discord for Windows 11 Users
-date: 2024-10-31T22:22:06.363Z
-updated: 2024-11-02T01:12:25.108Z
+date: 2024-11-05T20:49:44.011Z
+updated: 2024-11-07T19:45:00.908Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -50,6 +43,20 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 6. Select the**Uninstall BetterDiscord** option, and click**Next** again.  
 ![The Uninstall BetterDiscord option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-betterdiscord-option.jpg)
 7. Choose a**Discord** version.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Uninstall** to finish.
 
 ## 3\. Delete Discord’s Data Folders
@@ -64,16 +71,30 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 4. Terminate all Discord-related processes by selecting them and clicking their**End task** options.  
 ![A Discord-related processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-related-process.jpg)
 5. Open Windows Explorer with**Win + E** .
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
 7. Then select the Discord data folder and click Explorer's**Delete** option on the**Home** tab or command bar.  
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
@@ -88,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
@@ -102,20 +116,13 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
 
@@ -134,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -143,19 +157,20 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
@@ -181,22 +196,18 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-the-world-of-speech-to-text-with-google-expertly/"><u>[New] In 2024, Navigating the World of Speech-to-Text with Google Expertly</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-facetune-deep-dive-elevating-your-photography-game/"><u>[Updated] In 2024, Facetune Deep Dive Elevating Your Photography Game</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-8-best-sketch-tools-for-digital-illustrators/"><u>[Updated] The 8 Best Sketch Tools for Digital Illustrators</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/canon-g9-mark-ii-blending-retro-appeal-with-modern-photography-features-for-travelers/"><u>Canon G9 Mark II: Blending Retro Appeal with Modern Photography Features for Travelers</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-display-not-responding-on-windows-11/"><u>Correcting 'Display Not Responding' On Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-visibility-utilizing-condensed-explorer-settings/"><u>Enhance Visibility: Utilizing Condensed Explorer Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Samsung Galaxy S24.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-showtime-showdown-who-wins-in-obstwitch-arena/"><u>In 2024, Showtime Showdown Who Wins in OBS/Twitch Arena</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-x80780119-error-windows-system-restore/"><u>Solving X80780119 Error: Windows System Restore</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-technology-turmoil-essential-techniques-for-windows-application-resets/"><u>Taming Technology Turmoil: Essential Techniques for Windows Application Resets</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-approach-to-unlock-your-start-menu-potential-in-windows-11/"><u>The Ultimate Approach to Unlock Your Start Menu Potential in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-when-phasmophobia-vr-fails-to-load/"><u>Troubleshooting Steps: Resolving Issues When Phasmophobia VR Fails to Load</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unreachable-ms-sql-server-for-malwarebytes-on-win-1011/"><u>Troubleshooting Unreachable MS SQL Server for Malwarebytes on Win 10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-the-lifespan-of-a-mailcom-email-address/"><u>What Is the Lifespan of a Mail.com Email Address?</u></a></li>
-<li><a href="https://win11.techidaily.com/winrar-file-integrity-6-strategies-for-checksum-precision/"><u>WinRAR File Integrity: 6 Strategies for Checksum Precision</u></a></li>
-<li><a href="https://win11.techidaily.com/worldwide-unity-windows-encompasses-iphoneipad-macpc-communities/"><u>Worldwide Unity: Windows Encompasses iPhone/iPad, Mac/PC Communities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-ppt-slides-via-webcam-2023-techniques-for-2024/"><u>[New] Capturing PPT Slides via Webcam 2023 Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtubes-maker-central-interface/"><u>[Updated] Navigating YouTube's Maker Central Interface</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-your-screenplay-free-software-insights-for-2024/"><u>Capturing Your Screenplay Free Software Insights for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-methods-to-move-tracks-from-your-macbook-onto-your-iphone-devices/"><u>Effortless Methods to Move Tracks From Your Macbook Onto Your iPhone Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/novice-to-pro-mastering-the-art-of-youtube-shorts-for-2024/"><u>From Novice to Pro Mastering the Art of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-edgeplus-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Edge+ (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-professional-gopro-footage/"><u>In 2024, A Step-by-Step Guide to Professional Gopro Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x0000011b-windows-crash-issue/"><u>Resolving 0X0000011B Windows Crash Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-vintage-tech-why-not-a-non-windows-route/"><u>Reviving Vintage Tech? Why Not a Non-Windows Route</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-spotify-from-launching-without-command/"><u>Stopping Spotify From Launching without Command</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-of-effective-video-narration-techniques-for-2024/"><u>The Essentials of Effective Video Narration Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-procedure-for-installing-new-os-windows-11-and-vmware/"><u>Unveiling the Procedure for Installing New OS - Windows 11 & VMware</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-of-running-sfc-in-windows/"><u>Unveiling the Process of Running SFC in Windows</u></a></li>
 </ul></div>
 

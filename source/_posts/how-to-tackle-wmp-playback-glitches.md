@@ -1,7 +1,7 @@
 ---
 title: How to Tackle WMP Playback Glitches
-date: 2024-10-26T17:13:28.085Z
-updated: 2024-11-02T00:32:30.179Z
+date: 2024-11-01T19:23:10.216Z
+updated: 2024-11-07T18:20:34.785Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  To utilize the same Video Playback troubleshooter in Windows 10, select the Update & Security settings category. Then you can reach the Video Playback repair utility by selecting **Troubleshoo**t > **Additional troubleshooters**. Select Video Playback and click **Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Register DLL Files
 
  Registering the jscript and vbscript DLL files is a widely confirmed fix for the “Server execution failed” error. You can register those files by executing a couple of simple regsvr commands like this:
@@ -71,19 +64,20 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 5. Then select **OK** again.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Go to your Start menu and select **Restart** from there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Windows Media Player Network Sharing Service
 
@@ -95,15 +89,37 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 4. Double-click **Windows Media Player Network Sharing** to access that service’s property settings.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-window2.jpg)
 5. Select the **Disabled** option on the **Startup** menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Disabled option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-disabled-option.jpg)
 6. Click **Stop** just below the **Startup type** menu.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Select **Apply** \> **OK** to save settings and exit the Windows Media Player Network Sharing Service Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Apply Full Access to Your Local User Folder
@@ -124,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-user-or-group.jpg)
 3. Press **Add** on the Advanced Security Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Select a Principal** to bring up a user group selection window.
 5. Select your user account again, as covered in steps six and seven.
 6. Click the **Full control** checkbox to select that basic permission setting.  
@@ -138,17 +147,16 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 7. Select **OK** on the Permissions Entry window and others open.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Startup Items
@@ -156,6 +164,13 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
  Disabling all third-party startup items (apps and services) is called clean booting. The purpose of clean booting is to prevent software conflicts by stopping third-party background programs and services from starting automatically. This troubleshooting method is recommended to check if a third-party app or service conflict with Windows Media Player is causing the “Server execution failed” error on your PC.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-tab-in-msconfig.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Our guide to [clean-booting Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential fix by disabling third-party apps and services with Task Manager and MSConfig. When you’ve done that, you’ll need to restart your PC open for a clean boot to take effect. Then open Windows Media Player and try playing some media files again.
 
@@ -167,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 2. Then click **Turn Windows features on or off** to bring up a utility for enabling/disabling features.  
 ![Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/programs-and-features-window.jpg)
 3. Double-click Media Features to extend it.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Deselect the **Windows Media Player** checkbox and select **Yes**.  
 ![The Windows Media Player checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-media-player-checkbox.jpg)
@@ -191,25 +199,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
  Windows Media Player isn’t much good when it doesn’t play music or video. There are plenty of alternative media players, but you don’t have to ditch WMP because of the “server execution failed” error. This is how you can fix the “server execution failed” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-spotting-the-top-10-covert-story-spectators/"><u>[New] Spotting the Top 10 Covert Story Spectators</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/enlightening-windows-users-on-camera-memory-issues/"><u>Enlightening Windows Users on Camera Memory Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone with Broken Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sierra-maximizing-your-icloud-drive-experience/"><u>In 2024, Sierra Maximizing Your iCloud Drive Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fast-download-rates-for-epic-launcher/"><u>Mastering Fast Download Rates for Epic Launcher</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-creativity-effective-techniques-for-generating-ideas-using-mindmaps-and-chatgpt/"><u>Maximizing Creativity: Effective Techniques for Generating Ideas Using Mindmaps & ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-failed-discord-setup-in-windows-11/"><u>Navigating Through Failed Discord Setup in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstate-luster-to-extended-volume-settings-in-wm/"><u>Reinstate Luster to Extended Volume Settings in WM</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-amend-browsers-copy-and-paste-issues-on-windows/"><u>Steps to Amend Browser's Copy & Paste Issues on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/taking-control-a-comprehensive-guide-to-touchpad-adjustment-on-windows-11/"><u>Taking Control: A Comprehensive Guide to Touchpad Adjustment on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-finest-alternatives-to-microsofts-core-applications/"><u>The Finest Alternatives to Microsoft's Core Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-stopping-windows-11-security-guard/"><u>Tutorial: Stopping Windows 11 Security Guard</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722957143204-ultimate-sound-quality-awaits-with-free-sound-blaster-audigy-fx-drivers-download-today/"><u>Ultimate Sound Quality Awaits with [Free] Sound Blaster Audigy Fx Drivers - Download Today</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -217,3 +206,18 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-avoid-washout-3-essential-tips-for-iphone-hd-video-enhancement-in-premiere-pro-for-2024/"><u>[New] Avoid Washout 3 Essential Tips for iPhone HD Video Enhancement in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-next-gen-experience-vr-in-leisure-and-media/"><u>[Updated] Next-Gen Experience VR in Leisure and Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-explore-the-limitless-potential-of-fb-vr-upload-tips/"><u>2024 Approved Explore the Limitless Potential of FB VR Upload Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-5-free-windows-podcast-polish-tools/"><u>Discovering 5 Free Windows Podcast Polish Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lower-lag-higher-frames-optimizing-your-roblox-experience/"><u>Lower Lag, Higher Frames: Optimizing Your Roblox Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-resolving-frequent-beat-saber-crashes-efficiently/"><u>Overcoming Technical Hurdles: Resolving Frequent Beat Saber Crashes Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-taskbar-button-image-glitches/"><u>Solutions for Taskbar Button Image Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-windows-error-30005-issue/"><u>Understanding and Resolving Windows Error 30005 Issue</u></a></li>
+</ul></div>
+

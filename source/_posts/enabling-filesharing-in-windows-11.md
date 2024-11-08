@@ -1,7 +1,7 @@
 ---
 title: Enabling Filesharing in Windows 11
-date: 2024-10-28T03:12:14.949Z
-updated: 2024-11-02T00:06:48.918Z
+date: 2024-11-04T20:58:22.675Z
+updated: 2024-11-07T16:24:03.984Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Archive Support in Windows 11
@@ -72,81 +72,46 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
 
  The support for many commonly used archive formats is a welcome addition to the Windows OS. It will surely trim down the dependence on WinRar and other tools to some extent. But there are still plenty of use cases for archive manager software, like compressing files to other formats, adding passwords, and choosing compression methods and other options.
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-behind-stock-image-memes-stories-that-stood-the-test-for-2024/"><u>[New] Behind Stock Image Memes Stories That Stood the Test for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-fix-the-local-device-name-is-already-in-use-error-on-windows/"><u>5 Ways to Fix the Local Device Name Is Already in Use Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-linux-vms-within-windows-via-hyper-v/"><u>A Step-by-Step Guide to Linux VMs Within Windows via Hyper-V</u></a></li>
-<li><a href="https://win11.techidaily.com/ace-the-art-of-completing-a-perfect-windows-update/"><u>Ace the Art of Completing a Perfect Window's Update</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-activation-issue-with-error-0x803f700f/"><u>Addressing Windows Activation Issue with Error 0X803F700f</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-gameplay-recording-harnessing-intel-graphics-hub/"><u>Advanced Gameplay Recording: Harnessing Intel Graphics Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/advancing-classic-games-in-hd-best-practices-with-scummvm-and-windows-os/"><u>Advancing Classic Games in HD: Best Practices with ScummVM and Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/affordable-access-securing-low-cost-windows-11-vcs/"><u>Affordable Access: Securing Low-Cost Windows 11 VCs</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-compatibility-woes-with-surface-firmware-upgrade-tips/"><u>Avoid Compatibility Woes with Surface Firmware Upgrade Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-the-challenges-of-windows-steam-content-blocks/"><u>Avoiding the Challenges of Windows Steam Content Blocks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crossing-over-sound-the-blend-technique/"><u>Crossing Over Sound The Blend Technique</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with electronic signature tool</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Bootloader Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-se-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone SE to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-close-shots-avoiding-distortion-in-videoleap-videos/"><u>In 2024, Navigating Close Shots Avoiding Distortion in Videoleap Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-vrs-impact-on-digital-cinema/"><u>In 2024, Unraveling VR's Impact on Digital Cinema</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726227825638-nsv-avi-movavi/"><u>NSV 투 AVI: 원격 내부에서 필자리로 영상 교체 - Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transforming-the-undead-inside-7-days-to-die-the-fun-new-twist-in-a-unique-gaming-environment/"><u>Transforming the Undead: Inside '7 Days to Die' - The Fun New Twist in a Unique Gaming Environment</u></a></li>
-<li><a href="https://win-dash.techidaily.com/iuodkplusodhplusocquodkeodgplusodieobrus9vplusobhoawutog5yuv55s757eo6zug44o757wx5zci44ks44kk44ojig/"><u>ビデオパッドの使い方: 動画編集・統合ガイド</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -155,3 +120,27 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-facing-copyright-challenges-on-youtube-know-your-rights/"><u>[New] 2024 Approved Facing Copyright Challenges on YouTube Know Your Rights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-engagement-natural-ways-to-popularize-your-videos-for-2024/"><u>[New] Elevate Engagement Natural Ways to Popularize Your Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>[New] In 2024, Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-fabricate-funnier-photos/"><u>[Updated] 2024 Approved Fabricate Funnier Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-streamlining-meetings-with-snap-camera-on-teams/"><u>[Updated] 2024 Approved Streamlining Meetings with Snap Camera on Teams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-master-multitask-media-consumption-employing-picture-in-picture-functionality/"><u>[Updated] Master Multitask Media Consumption Employing Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unveiling-the-lone-user-review-of-future-printer-world/"><u>2024 Approved Unveiling the Lone User Review of Future Printer World</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-mouseclicklock-usage-on-windows-pcs/"><u>Demystifying MouseClickLock Usage on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-error-132-wow-troubleshooting-guide/"><u>Eradicating Error #132: WoW Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-avoiding-file-explorer-oversights-in-windows-11/"><u>Expert Advice on Avoiding File Explorer Oversights in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-15-pro-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 15 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-security-using-powertoys-lockmaster/"><u>Mastering File Security: Using PowerToys' Lockmaster</u></a></li>
+<li><a href="https://win11.techidaily.com/purple-pc-predicament-simple-solutions-to-desktop-troubles/"><u>Purple PC Predicament: Simple Solutions to Desktop Troubles</u></a></li>
+<li><a href="https://article-files.techidaily.com/ranking-the-best-non-sportful-activities-at-first-row-for-2024/"><u>Ranking the Best Non-Sportful Activities at First Row for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-free-media-players-for-windows/"><u>The 7 Best Free Media Players for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-roadmap-for-utilizing-the-calculator-in-windows-11/"><u>The Roadmap for Utilizing the Calculator in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreeze-opera-downloads-tips-for-windows-users/"><u>Unfreeze Opera Downloads: Tips for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-system-index-adjustments/"><u>Unlocking System Index Adjustments</u></a></li>
+</ul></div>
+

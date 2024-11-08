@@ -1,7 +1,7 @@
 ---
 title: Optimizing Hardware Inspection via Windows Panels
-date: 2024-10-27T18:37:49.977Z
-updated: 2024-11-01T18:36:11.275Z
+date: 2024-11-05T22:58:27.028Z
+updated: 2024-11-07T20:21:02.723Z
 tags:
   - windows10
   - windows11
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
  These widgets serve as handy tools to closely monitor and optimize your system's performance. To access them, simply [download Dev Home from the Microsoft Store](https://apps.microsoft.com/store/detail/dev-home-preview/9N8MHTPHNGVV) and set it up.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up and Configure Windows Widgets on Dev Home
@@ -61,31 +55,32 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 2. Click on the **Add it now** button for the "New widget available" notification.  
 ![Click on the Add it now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-it-now-button.jpg)
 3. You should now see a list of the widgets available. Click on the plus icon associated with the widget you want to access.  
-![Click on the plus icon for widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plus-icon-widget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Click on the plus icon for widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plus-icon-widget.jpg)
 
  Once you do this, you should be able to see the details of your selected widget. You can use it to monitor hardware usage and access other important information efficiently.
 
 ![New widget in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-widget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed and Optimize Your Hardware Usage With Windows Widgets
@@ -94,22 +89,6 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  Below, we delve into the process of acquiring Windows Widgets offered by Dev Home and harnessing their power to effectively monitor and optimize the system's performance.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>[New] 2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-enhancing-your-media-projects-with-screenflow/"><u>[New] 2024 Approved The Ultimate Guide to Enhancing Your Media Projects with ScreenFlow</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-glacial-gala-winter-olympics-excellence/"><u>2024 Approved Glacial Gala Winter Olympics Excellence</u></a></li>
-<li><a href="https://win11.techidaily.com/7-symptoms-your-pc-may-need-a-new-beginning/"><u>7 Symptoms Your PC May Need A New Beginning</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-device-access-problems-in-audacity-win/"><u>Addressing Device Access Problems in Audacity (Win)</u></a></li>
-<li><a href="https://win11.techidaily.com/android-extension-in-w11-workspace-enhancing-productivity/"><u>Android Extension in W11 Workspace: Enhancing Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-productivity-through-strategic-task-management-in-windows-11/"><u>Boosting Productivity Through Strategic Task Management in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-into-win-oss-earlier-than-11/"><u>Integrate Canon MX870 Into Win OSs Earlier than 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30i-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30i</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-creating-hdr-in-photoshop-for-2024/"><u>The Ultimate Guide to Creating HDR in Photoshop for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202175401-trouble-with-your-huion-pen-heres-how-to-repair-it-fast/"><u>Trouble with Your Huion Pen? Here's How to Repair It Fast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-chatgpt-mastery-is-essential-discover-6-career-boosting-factors-for-job-seekers-and-workers/"><u>Why ChatGPT Mastery Is Essential? Discover 6 Career-Boosting Factors for Job Seekers & Workers</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +96,23 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-10-platforms-revolutionizing-how-you-discover-youtube-keywords/"><u>[Updated] 2024 Approved Top 10 Platforms Revolutionizing How You Discover YouTube Keywords</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-evaluation-of-slomo-recording-software-for-2024/"><u>Complete Evaluation of SloMo Recording Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-dramatic-effects-top-strategies-for-epic-gopro-videos-for-2024/"><u>Create Dramatic Effects Top Strategies for Epic GoPro Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-best-of-both-worlds-windows-and-games/"><u>Exploring the Best of Both Worlds: Windows & Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F04</u></a></li>
+<li><a href="https://win11.techidaily.com/master-naming-conventions-for-windows-files-max-156/"><u>Master Naming Conventions for Windows Files (Max 156)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-unreachable-network-paths/"><u>Overcoming Windows' Unreachable Network Paths</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winget-hurdles-on-windows-11-systems/"><u>Overcoming Winget Hurdles on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-absent-logins-in-windows-11-os/"><u>Recovering Absent Logins in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-prompt-gaps-seamless-action-integration-in-windows/"><u>Resolving Network Prompt Gaps: Seamless Action Integration in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sync-fail-resolving-outlook-app-errors-on-pcs/"><u>Sync Fail: Resolving Outlook App Errors on PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-raspberry-pi-400-examined-a-dual-purpose-computing-solution/"><u>The Revolutionary Raspberry Pi 400 Examined: A Dual-Purpose Computing Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-for-easily-refreshing-your-iphones-system/"><u>The Ultimate Tutorial for Easily Refreshing Your iPhone's System</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-microsoft-store-quick-sign-in-fixes/"><u>Unlocking the Microsoft Store: Quick Sign-In Fixes</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-g42-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of G42 5G on Mac?</u></a></li>
+</ul></div>
+

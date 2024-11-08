@@ -1,7 +1,7 @@
 ---
 title: Remedies for the Malfunction of Windows 11'S Brightness Control Fn
-date: 2024-10-31T16:05:21.425Z
-updated: 2024-11-01T18:36:46.853Z
+date: 2024-11-04T16:19:30.197Z
+updated: 2024-11-07T18:05:46.824Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
@@ -45,15 +38,22 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 2. Once you're in the Command Prompt window, type and execute the command below:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `msdt.exe -id DeviceDiagnostic`
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/f35c2ac390106705ee1454ace680e37ced6ad5998
 
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update the Keyboard Driver
 
  An outdated or corrupt driver could also be malfunctioning the brightness function key. In such a case, you can try to update your keyboard drivers and see if it solves the issue.
@@ -105,19 +98,6 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
 
@@ -145,6 +125,19 @@ To update the keyboard driver, follow these steps:
 
 Now check if your keyboard is working properly.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Scan for Malicious Programs
 
  If you downloaded any suspicious file or program, then the chances are that your keyboard is experiencing interference due to malware, spyware, or other malicious programs.
@@ -154,6 +147,13 @@ Now check if your keyboard is working properly.
  If you are more comfortable with command line tools, then[use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
 
  This should help you fix the issue of your keyboard not functioning properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Switch to a Different Keyboard
 
@@ -180,19 +180,24 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[New] Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-proven-3-step-framework-for-creating-persuasive-facebook-ad-content/"><u>[New] Proven 3-Step Framework for Creating Persuasive Facebook Ad Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-smart-choices-the-finest-android-screenshot-tools-5-for-2024/"><u>[New] Smart Choices The Finest Android Screenshot Tools, 5 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-behind-the-numbers-carryminatis-youtube-wealth-for-2024/"><u>[Updated] Behind the Numbers CarryMinati’s YouTube Wealth for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-user-management-in-windows-cmd/"><u>Comprehensive Guide to User Management in Windows CMD</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/delicious-tech-meets-practicality-scannable-eatable-qr-codes-made-with-3d-printing/"><u>Delicious Tech Meets Practicality: Scannable, Eatable QR Codes Made with 3D Printing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-errors-with-your-final-usb-gadget-when-windows-fails-to-detect/"><u>Fixing Errors with Your Final USB Gadget: When Windows Fails to Detect</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-c32-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia C32 Phone Hassle-Free</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-unpredicted-error-messages/"><u>Mastering the Resolution of Unpredicted Error Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-inoperative-clipboard-mechanism-win-11/"><u>Resolving Inoperative Clipboard Mechanism Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/six-secrets-to-temporarily-halt-updates-on-your-pc/"><u>Six Secrets to Temporarily Halt Updates on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-resource-roundup-top-free-must-haves-for-win11/"><u>The Ultimate Resource Roundup: Top Free Must-Haves for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/three-approaches-to-test-windows-11-activation/"><u>Three Approaches to Test Windows 11 Activation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-choices-purchasing-your-dreams-in-youtube-ringtones/"><u>[New] Prime Choices Purchasing Your Dreams in YouTube Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[New] Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-youtube-content-for-igtv-success/"><u>[New] Transforming YouTube Content for IGTV Success</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-access-royalty-free-clip-art-tips/"><u>2024 Approved Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-chromebook-c202sa-review/"><u>Asus Chromebook C202SA Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-activer-lencodage-avec-nvenc-dans-handbrake-pour-une-videoconversion-optimisee/"><u>Comment Activer L’encodage Avec NVENC Dans Handbrake Pour Une Vidéoconversion Optimisée?</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-color-variations-the-ultimate-windows-guide/"><u>Conquering Color Variations: The Ultimate Windows Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-active-microphone-input-for-obs-on-win-11/"><u>Ensuring Active Microphone Input for OBS on Win 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-phantom-v-fold-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Phantom V Fold Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-windows-11-shutdown-time-when-running-applications-are-present/"><u>Managing Windows 11 Shutdown Time when Running Applications Are Present</u></a></li>
+<li><a href="https://solve-help.techidaily.com/methodik-zum-umkehren-erfolgter-datentragerbereinigungen-tipps-and-tricks/"><u>Methodik Zum Umkehren Erfolgter Datenträgerbereinigungen - Tipps & Tricks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/razer-book-13-evaluation-compact-device-with-impressive-performance/"><u>Razer Book 13 Evaluation: Compact Device with Impressive Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-virtualbox-70-transition-windows-11-edition-guide/"><u>Seamless VirtualBox 7.0 Transition: Windows 11 Edition Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-insider-builder-from-unauthorized-use/"><u>Securing Insider Builder From Unauthorized Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-playbook-to-win-the-battle-against-bsod/"><u>The Complete Playbook to Win the Battle Against BSOD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-disk-read-failed-in-windows/"><u>Unraveling Disk Read Failed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/version-compatibility/"><u>Version Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-memory-caching-definition-and-deletion-tips/"><u>Windows Memory Caching: Definition and Deletion Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lifetime Dormancy Protocols for MS Security Software
-date: 2024-10-29T16:05:36.219Z
-updated: 2024-11-02T02:08:42.862Z
+date: 2024-11-03T19:01:03.527Z
+updated: 2024-11-07T16:56:28.381Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b62
  This guide will teach you how to disable Microsoft Defender permanently. It will stay off until you undo the steps you perform in this guide. If you only want Microsoft Defender to turn off for a short amount of time, check out[how to turn off Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) for a more temporary solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Tamper Protection First
@@ -52,20 +58,6 @@ thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b62
 4. Scroll down and click on the**Tamper Protection** toggle to disable it.  
 ![Disable Tamper Protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Disable-Tamper-Protection-2.jpg)
 5. Close the Windows Security app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable Microsoft Defender in Windows 11
 
@@ -83,7 +75,22 @@ thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b62
 4. Locate and click on the Microsoft Defender Antivirus option. Double-click on the**Turn-off Microsoft Defender Antivirus** policy to edit its settings.  
 ![Disable Windows Defender Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-policy-editor.jpg)
 5. Select the**Enabled** radio button and click on the**Apply** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Lastly, click on the**OK** button and close the Group Policy Editor. Restart your system and open Windows Security.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Disable Microsoft Defender Using Registry Editor
 
@@ -101,10 +108,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 6. Close the Registry Editor and restart your system to apply changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Launch Windows Security and visit the Virus and threat protection section. You will see a “ **No active antivirus provider. Your device is vulnerable.** ” message.
@@ -120,6 +127,19 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender" /v D
 ![Disable Windows Defender Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-cmd.jpg)
 4. Type**exit** to close the Command Prompt window and restart your system.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Disable Microsoft Defender Using Winaero Tweaker
 
  If you hate tweaking the registry or find running commands too complex, you can use a Windows customization program like Winaero Tweaker. It is a GUI application, so you will find it easier to search for various Windows settings and disable them in a few clicks.
@@ -131,13 +151,6 @@ Repeat the following steps:
 3. Click on the search icon and type Defender. Click on the**Microsoft Defender \\ Disable Microsoft Defender** search result.  
 ![Disable Windows Defender Using Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-winaero-tweaker.jpg)
 4. Then, click on the**Disable Microsoft Defender** checkbox. Scroll down and click on the**Reboot now** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
 
@@ -171,16 +184,24 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtubing-green-magic-ideas-that-come-to-life/"><u>[Updated] 2024 Approved Youtubing Green Magic – Ideas That Come to Life!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-quick-views-snap-and-share/"><u>[Updated] In 2024, FB Quick Views Snap & Share</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-solitary-voice-collective-applause-a-podcast-journey-for-2024/"><u>[Updated] Solitary Voice, Collective Applause A Podcast Journey for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-chrome-downloads-disruptions-in-the-windows-os/"><u>Addressing Chrome Downloads Disruptions in the Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/approaches-for-correcting-err-87-invalid-parameters-on-winos/"><u>Approaches for Correcting Err 87: Invalid Parameters on WinOS</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-ps3-storage-replace-original-hard-drive/"><u>Boost PS3 Storage - Replace Original Hard Drive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-mp3-to-ogg-conversion-tool-by-movavi-effortless-audio-format-transformation/"><u>Free Online MP3 to Ogg Conversion Tool by Movavi: Effortless Audio Format Transformation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 6s Plus Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/interactive-display-on-the-go-the-msi-pro-mp161e2-ultrabook-companion/"><u>Interactive Display on the Go: The MSI Pro MP161E2 Ultrabook Companion</u></a></li>
-<li><a href="https://win11.techidaily.com/1719284853027-ready-set-gain-administrator-status/"><u>Ready, Set, Gain Administrator Status!</u></a></li>
-<li><a href="https://win11.techidaily.com/1719330765099-troubleshooting-tips-for-your-windows-predicaments/"><u>Troubleshooting Tips for Your Windows Predicaments!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-unfollow-detection/"><u>[Updated] 2024 Approved Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-youtube-title-genesis-tools/"><u>2024 Approved Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-utilize-keyboard-shortcuts-for-window-control/"><u>Efficient Management: Utilize Keyboard Shortcuts for Window Control</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-instructions-removing-videos-from-youtubes-watchlater/"><u>In 2024, Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-battlefield-communication-a-guide-for-fixing-csgo-mic-failures/"><u>Mastering the Battlefield Communication: A Guide for Fixing CS:GO Mic Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/opening-markets-masterful-strategy-plots/"><u>Opening Markets Masterful Strategy Plots</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/pcted/"><u>PC及びスマホでTEDプレゼンテーション動画を保存するための手順</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-palette-a-step-by-step-guide/"><u>Perfecting Windows Palette: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-personal-files-while-extending-windows-storage/"><u>Preserve Personal Files While Extending Windows Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/priorities-in-purchasing-your-first-windows-notebook/"><u>Priorities in Purchasing Your First Windows Notebook</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-dealing-with-windows-exception-breakpoint-failure/"><u>Quick Fixes for Dealing with Windows Exception Breakpoint Failure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-cpu-consumption-by-antivirus-processes-on-modern-windows-operating-systems/"><u>Resolving Excessive CPU Consumption by Antivirus Processes on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-vintage-windows-file-layouts/"><u>Resurrecting Vintage Windows File Layouts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-directors-toolkit-youtube-lessons-on-film-making/"><u>The Director's Toolkit YouTube Lessons on Film Making</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unexplored-windows-11-treasures-to-enhance-your-experience/"><u>Unexplored Windows 11 Treasures to Enhance Your Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tips-manage-file-explorer-folders-visibility/"><u>Windows 11 Tips: Manage File Explorer Folders Visibility</u></a></li>
 </ul></div>
 

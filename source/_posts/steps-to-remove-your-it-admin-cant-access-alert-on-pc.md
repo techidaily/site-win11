@@ -1,7 +1,7 @@
 ---
 title: Steps to Remove Your IT Admin Can’t Access Alert on PC
-date: 2024-10-28T03:28:50.499Z
-updated: 2024-11-01T20:23:48.318Z
+date: 2024-11-04T23:32:19.730Z
+updated: 2024-11-07T16:12:46.720Z
 tags:
   - windows10
   - windows11
@@ -31,25 +31,11 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall Third-Party Security Software
 
  Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Remove Any Work or School Accounts
 
@@ -60,6 +46,20 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
@@ -78,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
 ![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
@@ -102,10 +95,16 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
@@ -120,6 +119,32 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
@@ -127,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
@@ -173,13 +198,6 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 ## Start Utilizing Windows Security Again
@@ -201,24 +219,21 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-no-cost-yield-assessment-apps-for-videos/"><u>[New] 2024 Approved No-Cost Yield Assessment Apps for Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-secrets-to-streamlining-lone-broadcasts-a-practical-guide/"><u>[Updated] Secrets to Streamlining Lone Broadcasts A Practical Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-persistent-white-image-display-issues-in-your-portable-pc/"><u>Effective Solutions for Persistent White Image Display Issues in Your Portable PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficient-movement-tactics-unlocking-the-power-of-teleport-in-minecraft/"><u>Efficient Movement Tactics: Unlocking the Power of Teleport in Minecraft</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-disjointed-sticky-note-behavior-on-w11-system/"><u>Fixing Disjointed Sticky Note Behavior on W11 System</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-sony-xperia-10-v-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Sony Xperia 10 V? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-secret-to-social-success-innovative-square-videography-tactics/"><u>In 2024, The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-xr-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone XR has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-copypaste-failures-in-windows-11/"><u>Preventing Copy/Paste Failures in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-robotic-silence-spacebar-sound-saviors-in-windows/"><u>Reverse Robotic Silence: Spacebar Sound Saviors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-money-with-smart-purchases-of-windows-11-deals/"><u>Saving Money with Smart Purchases of Windows 11 Deals</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-instruction-how-to-enhance-your-samsung-notebook-pro-with-an-ssd-upgrade/"><u>Step-by-Step Instruction: How to Enhance Your Samsung Notebook Pro with an SSD Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-mkv-to-mp4-format-change-on-pcs/"><u>Streamline: MKV to MP4 Format Change on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-programs-with-context-menu-additions/"><u>Streamlining Programs with Context Menu Additions</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-overcoming-server-issues-hindering-win-1111-store-functionality/"><u>Swift Solutions: Overcoming Server Issues Hindering Win 11/11 Store Functionality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-spark-10-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Spark 10 Pro Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-artistic-potential-of-windows-11-comics/"><u>Unlock the Artistic Potential of Windows 11 Comics</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11s-hidden-treasures-with-our-6-secrets-to-success/"><u>Unlock Windows 11'S Hidden Treasures with Our 6 Secrets to Success</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-mp4-metadata-editing-software-for-2024/"><u>Updated Top MP4 Metadata Editing Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cyclings-finest-gaming-experiences-for-2024/"><u>[New] Cycling's Finest Gaming Experiences for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-master-streaming-with-obs-studio-android-edition/"><u>[New] In 2024, Master Streaming with OBS Studio - Android Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveil-windows-xp-professional-for-video-production/"><u>[New] Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-beginning-your-journey-to-digital-creation/"><u>[Updated] 2024 Approved Beginning Your Journey to Digital Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-reducing-excessive-encoding-obs/"><u>[Updated] Reducing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simple-swift-and-superior-voice-tweaks-for-pubg-players-for-2024/"><u>[Updated] Simple, Swift, and Superior Voice Tweaks for PUBG Players for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/1717298245185-updated-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>[Updated] Valorant Portraits - Professional Thumbnails Made in a Flash!</u></a></li>
+<li><a href="https://win11.techidaily.com/1-mastering-formula-protection-a-step-by-step-guide-to-secure-your-data-in-ms-excel/"><u>1. Mastering Formula Protection: A Step-by-Step Guide to Secure Your Data in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-standard-file-formats-a-step-by-step-guide-using-libreoffice/"><u>Adjusting Standard File Formats: A Step-by-Step Guide Using LibreOffice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-playstation-network-status-a-guide-to-understanding-delays-and-disruptions/"><u>Determining PlayStation Network Status - A Guide to Understanding Delays and Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-finance-with-microsoft-excel-determining-loan-amounts-and-repayment-schedules/"><u>Mastering Finance with Microsoft Excel: Determining Loan Amounts and Repayment Schedules</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-waterfall-charts-a-step-by-step-guide-on-tailoring-visuals-in-ms-excel/"><u>Mastering Waterfall Charts: A Step-by-Step Guide on Tailoring Visuals in MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/protect-excel-worksheets-from-changes-master-the-art-of-cell-lockdown-techniques/"><u>Protect Excel Worksheets From Changes - Master the Art of Cell Lockdown Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-creating-visual-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Visual Charts with Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-designing-dynamic-table-headers-in-excel-spreadsheets/"><u>Step-by-Step Guide: Designing Dynamic Table Headers in Excel Spreadsheets</u></a></li>
+<li><a href="https://solve-news.techidaily.com/utiliser-la-technologie-dabbyy-par-butagaz-pour-simplifier-le-changement-de-fournisseurs-denergie-chez-les-particuliers/"><u>Utiliser La Technologie D'ABBYY Par Butagaz Pour Simplifier Le Changement De Fournisseurs D'énergie Chez Les Particuliers</u></a></li>
 </ul></div>
 

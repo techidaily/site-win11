@@ -1,7 +1,7 @@
 ---
 title: "Reconciling Error Code: 0X90017 on WinMedia Tool"
-date: 2024-10-30T20:43:54.364Z
-updated: 2024-11-01T19:58:46.737Z
+date: 2024-11-04T17:51:11.022Z
+updated: 2024-11-07T21:40:18.314Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ To run Media Creation Tool as administrator:
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
@@ -57,13 +57,6 @@ To run Media Creation Tool as administrator:
 5. Click**Apply** , and the security option will disappear.
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Install Any Pending Windows Updates
 
@@ -87,14 +80,28 @@ To run the Windows Update Troubleshooter:
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
@@ -124,16 +131,23 @@ DISM.exe /Online /Cleanup-image /Restorehealth
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
@@ -146,13 +160,6 @@ sfc /scannow
  Before we do a full clean of Windows, consider performing a repair reinstall. This allows you to perform an in-place upgrade and[reinstall the Windows OS without deleting your files and apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
  If all else fails, a clean install may be necessary. Make sure to create a backup of your data and then learn[how to clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Media Creation Tool Error 0x8007043C - 0x90017 Error
 
@@ -173,19 +180,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>[New] In 2024, Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-ranking-the-best-selling-virtual-reality-titles-for-2024/"><u>[New] Ranking the Best Selling Virtual Reality Titles for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>[Updated] In 2024, Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eye-catcher-gaming-creating-striking-template-designs/"><u>[Updated] In 2024, Eye Catcher Gaming Creating Striking Template Designs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-xbox-360-gamepad-compatibility-drivers-available-now/"><u>Free Xbox 360 Gamepad Compatibility Drivers Available Now</u></a></li>
-<li><a href="https://facebook.techidaily.com/integrating-social-tools-for-superior-collaborative-endeavors-on-facebook/"><u>Integrating Social Tools for Superior Collaborative Endeavors on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-screen-controls-for-better-accessibility/"><u>Mastering Windows' Screen Controls for Better Accessibility</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-effortless-audio-conversion-leading-free-apps-for-textualizing-voice-input-on-smartphones-and-tablets/"><u>New In 2024, Effortless Audio Conversion Leading Free Apps for Textualizing Voice Input on Smartphones & Tablets</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-invalid-temporary-folder-issues-on-w11/"><u>Preventing Invalid Temporary Folder Issues on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-functionality-fixing-malfunctioning-ccleaner-on-win1011/"><u>Regaining Functionality: Fixing Malfunctioning CCleaner on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-audio-on-windows-pcs/"><u>Steps for Restoring Audio on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-zero-x-eight-oh-three-one-f-error-in-microsoft-written-word/"><u>Taming Zero X Eight Oh Three One F Error in Microsoft' Written Word</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-display-brightness-control/"><u>Troubleshooting Unresponsive Display Brightness Control</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-the-mysteries-of-icloud-problems-in-ios-a-step-by-step-fixers-handbook/"><u>Unraveling the Mysteries of iCloud Problems in iOS: A Step-by-Step Fixer's Handbook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-videos-with-effective-end-credits/"><u>[New] Enhancing Vimeo Videos with Effective End Credits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-fabricate-funny-face-filters-giphy-style/"><u>[New] In 2024, Fabricate Funny Face Filters Giphy Style</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[Updated] Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-utility-mastery-handling-zipped-data-with-ease/"><u>Command Line Utility Mastery: Handling Zipped Data with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-methods-for-converting-mkv-to-mp4-on-windows/"><u>Effective Methods for Converting MKV to MP4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-remedies-for-the-vanishing-gpeditmsc-error/"><u>Effective Remedies for the Vanishing Gpedit.msc Error</u></a></li>
+<li><a href="https://win11.techidaily.com/erased-windows-elegance-top-6-features/"><u>Erased Windows Elegance: Top 6 Features</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mp4-stream-errors/"><u>Fixing MP4 Stream Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-convert-microsoft-word-docx-files-to-pdfs-in-windows-11/"><u>How to Convert Microsoft Word DOCX Files to PDFs in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-group-policy-for-msi-service-adjustment/"><u>How to Use Group Policy for MSI Service Adjustment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-of-ice-artistry-2022-edition/"><u>In 2024, The Best of Ice Artistry 2022 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-the-best-voice-alteration-programs-for-vtubers/"><u>In 2024, Unveiling the Best Voice Alteration Programs for VTubers</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-command-execution-installation-guide-for-advanced-run-feature/"><u>Maximize Command Execution: Installation Guide for Advanced Run Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wi-fi-woes-fixing-windows-lol-connection/"><u>Overcoming Wi-Fi Woes: Fixing Windows LoL Connection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ise-guide-to-youtube-video-enhancement-in-imovie-for-2024/"><u>Stepwise Guide to YouTube Video Enhancement in iMovie for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-rectify-missing-dependencies-on-windows-1111-pro/"><u>Tips to Rectify Missing Dependencies on Windows 11/11 Pro</u></a></li>
 </ul></div>
 

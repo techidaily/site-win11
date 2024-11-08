@@ -1,7 +1,7 @@
 ---
 title: Enhance Monitor Resolution in the Latest OS Update
-date: 2024-10-25T17:29:02.637Z
-updated: 2024-11-01T22:18:22.857Z
+date: 2024-11-04T16:02:24.773Z
+updated: 2024-11-07T23:46:55.865Z
 tags:
   - windows10
   - windows11
@@ -41,20 +41,13 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 6. Select the one that best fits your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Display DPI Scaling Using the Registry Editor
@@ -76,10 +69,10 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 | Value data | DPI scale                  |  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 | ---------- | -------------------------- |  
@@ -95,15 +88,23 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Scale the Display DPI on Windows
@@ -125,15 +126,24 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-on-the-go-photography-revolution-with-3dlut-apps/"><u>[New] On-the-Go Photography Revolution with 3DLUT Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[Updated] The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/annual-list-highest-rated-free-lut-sources-online/"><u>Annual List Highest Rated FREE LUT Sources Online</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-modify-windows-11-highlight-features/"><u>Easily Modify Windows 11 Highlight Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-smart-8-hd-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Smart 8 HD Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-repair-tool-access-crafting-shortcuts-for-win-1011/"><u>Mastering Repair Tool Access: Crafting Shortcuts for Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/mimicking-macos-layout-in-windows-5-essential-tweaks/"><u>Mimicking macOS Layout in Windows: 5 Essential Tweaks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-dynamic-approach-unveils-the-best-of-afrikaans-learning-in-just-7-points/"><u>Mondly’s Dynamic Approach Unveils the Best of Afrikaans Learning in Just 7 Points</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-dangers-opting-for-budgeted-windows-auth-keys/"><u>The Hidden Dangers: Opting for Budgeted Windows Auth Keys</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-in-motion-select-smartphones-that-enhance-videography-effortlessly/"><u>[New] Precision in Motion Select Smartphones that Enhance Videography Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-sprout-screencapture-transform-your-pc-footage-game/"><u>[Updated] Sprout ScreenCapture Transform Your PC Footage Game</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>2024 Approved Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://win11.techidaily.com/dimming-high-contrast-feature-on-your-windows-machine/"><u>Dimming High Contrast Feature on Your Windows Machine</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/economical-elegance-comparing-the-motorola-one-and-apples-iconic-design/"><u>Economical Elegance: Comparing the Motorola One and Apple's Iconic Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-nintendo-switch-lite-against-the-new-nintendo-switch-oled/"><u>Head-to-Head Comparison: Nintendo Switch Lite Against the New Nintendo Switch OLED</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-yuva-3-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Yuva 3 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-restrict-windows-11-from-monitoring-you/"><u>How to Restrict Windows 11 From Monitoring You</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x7b-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X7b Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-synchronizing-your-playstation-4-controller/"><u>Quick Fixes for Synchronizing Your PlayStation 4 Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/re-enrollment-a-guide-to-resurrecting-microsoft-store-apps/"><u>Re-Enrollment: A Guide to Resurrecting Microsoft Store Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/refining-windows-ambiance-integrating-this-pc-symbol/"><u>Refining Windows Ambiance: Integrating 'This PC' Symbol</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-the-extremes-processor-stages-in-windows/"><u>Revealing the Extremes: Processor Stages in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-rename-microsoft-admin-on-your-windows-11-system/"><u>Securely Rename Microsoft Admin on Your Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/temporarily-counteracting-windows-11-security-in-4-ways/"><u>Temporarily Counteracting Windows 11 Security in 4 Ways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/win10-video-capture-pro-professional-edition-for-2024/"><u>Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-excellence-a-guide-to-seamlessly-implement-optional-features/"><u>Windows Excellence: A Guide to Seamlessly Implement Optional Features</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-timeout-achieve-synchronized-timestamps/"><u>Windows Timeout: Achieve Synchronized Timestamps</u></a></li>
 </ul></div>
 

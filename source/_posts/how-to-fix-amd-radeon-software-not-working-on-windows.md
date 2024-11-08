@@ -1,7 +1,7 @@
 ---
 title: How to Fix AMD Radeon Software Not Working on Windows
-date: 2024-10-29T22:54:24.609Z
-updated: 2024-11-02T04:28:02.463Z
+date: 2024-11-03T16:07:24.860Z
+updated: 2024-11-07T17:29:28.382Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  If that works, permanently set AMD Radeon Software to run with elevated privileges. To do so, follow the steps in this article about [always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). However, note that you can’t permanently set the AMD Radeon Software MS Store app to run as administrator.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. End the RadeonSoftware Process Tree
 
  First, check if Task Manager shows a process for AMD Radeon Software. If it does, that effectively means the app is already running in the background. Terminating the process tree for AMD Radeon Software might then fix the issue. You can close the RadeonSoftware process tree like this:
@@ -53,13 +60,20 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![the-CN-folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/the-cn-folder.jpg)
 6. Right-click the CN folder and select **Delete**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can try erasing a specific file within the CN folder, which users have also confirmed works. To do that, open the CN folder to view its contents. Right-click the **gmdb.blb** file in that directory and select Delete.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable and Re-enable the AMD Radeon Graphics Adapter
@@ -71,13 +85,21 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 3. Right-click the AMD Radeon graphics card to select **Disable device**.  
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/disable-device-option.jpg)
 4. Click on **Yes** when asked to confirm the selected option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Wait a minute and right-click the AMD Radeon graphics card again to select **Enable device**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update AMD Graphics Driver
@@ -89,10 +111,17 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![A Download option for an AMD graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/amd-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restore the Previous AMD Driver Installed on Your PC
@@ -111,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/services-tab-in-msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Edit the CN Registry Key
 
  Editing the **CN** registry key is resolution confirmed to fix the “Radeon Settings and Driver versions do not match” error message some users see when they try to start AMD Radeon. This registry fix involves entering a new value for the **DriverVersion** string in the **CN** key. These are the steps for applying this registry fix:
@@ -129,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ![A driver version number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/driver-version-detail.jpg)
 5. Close the properties window and Device Manager tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, [open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) before continuing.
 
 1. Clear the registry address bar to input the following key location there:  
@@ -143,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 2. Double-click the **DriverVersion** string in the **CN** registry key.  
 ![The Value data box for the DriverVersion string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/value-data-box.jpg)
 3. Clear the **Value data** box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Press the **Ctrl** \+ **V** hotkey to paste the copied driver version number into the **Value data** box.  
 ![The Value data box for the DriverVersion string](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/value-data-box.jpg)
@@ -163,34 +171,9 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![The AMD Radeon Software page on Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/amd-radeon-software.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilize Your AMD Radeon Software Again
 
  AMD Radeon Software is undoubtedly important to access for configuring graphical settings. The potential resolutions in this guide have enabled many users to fix AMD Radeon not working and access its settings again. So, applying those Windows 11/10 fixes will probably kick-start AMD Radeon on your PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-blueprint-for-successful-metaverse-campaigns/"><u>[Updated] 2024 Approved Blueprint for Successful Metaverse Campaigns</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-list-of-twitter-sensations/"><u>[Updated] The Ultimate List of Twitter Sensations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-flawless-soundscape-secrets-to-high-resolution-audio-recording/"><u>2024 Approved Flawless Soundscape Secrets to High-Resolution Audio Recording</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daring-to-dream-mondlylanguages-celebrates-2-years/"><u>Daring to Dream: MondlyLanguages Celebrates 2 Years</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-when-amd-graphics-driver-wont-start/"><u>Effective Solutions When AMD Graphics Driver Won't Start</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-activating-macos-recovery-for-problem-solving/"><u>Expert Advice on Activating macOS Recovery for Problem Solving</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unlink-onedrive-from-windows-11-file-explorer/"><u>How To Unlink OneDrive From Windows 11 File Explorer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-essentials-for-becoming-a-top-notch-interviewer/"><u>In 2024, The Essentials for Becoming a Top-Notch Interviewer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inside-the-magic-understanding-srts-impact/"><u>Inside the Magic Understanding SRT's Impact</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-printer-not-found-error-in-windows-11/"><u>Mending 'Printer Not Found' Error in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-configurations-in-win11/"><u>Navigating Network Configurations in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-persistent-edge-toolbar-items/"><u>Removing Persistent Edge Toolbar Items</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-back-to-standard-contrast-on-windows/"><u>Turn Back to Standard Contrast on Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +182,21 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-discover-whats-brewing-in-windows-10-gaming-world/"><u>2024 Approved Discover What’s Brewing in Windows 10 Gaming World</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621282-9781632658920-conscious-ink-the-hidden-meaning-of-tattoos/"><u>Conscious Ink: The Hidden Meaning of Tattoos | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Phone with Broken Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-forward-your-twitch-experience/"><u>In 2024, Fast-Forward Your Twitch Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-tweets-to-tomes-the-full-year-in-video/"><u>In 2024, From Tweets to Tomes The Full Year in Video</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-7-plus-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-quest-3-leapfrogs-with-ai-capabilities-before-vision-pro-launch-tips-to-activate-and-explore-by-zdnet/"><u>Meta Quest 3 Leapfrogs with AI Capabilities Before Vision Pro Launch - Tips to Activate and Explore by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tactics-fixing-windows-printmanagement-loss/"><u>Step-by-Step Tactics: Fixing Windows 'Printmanagement' Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-win-no-connection-problems/"><u>Strategies for Resolving WIN No Connection Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-overheating-in-pcs-os-w11/"><u>Techniques to Prevent Overheating in PCs OS: W11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-enabling-and-repairing-miracast-on-windows-11/"><u>The Ultimate Walkthrough: Enabling and Repairing Miracast on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11-login-secrets-fixing-blank-pages/"><u>Unveiling Windows 11 Login Secrets: Fixing Blank Pages</u></a></li>
+</ul></div>
+

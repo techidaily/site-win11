@@ -1,7 +1,7 @@
 ---
 title: Powerful Techniques to Master Windows Accounting
-date: 2024-10-31T04:01:29.029Z
-updated: 2024-11-01T16:37:20.159Z
+date: 2024-11-05T16:18:55.663Z
+updated: 2024-11-07T18:29:13.621Z
 tags:
   - windows10
   - windows11
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Once you run the command, you'll be able to see, the user's full name, when their password expires, when they last logged in, whether they're an administrator, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Add and Delete a User Account
 
  To add a new user in Command Prompt, you need to use the **net user** command followed by the name of the new account, the desired password you wish to set, and the **/add** switch (this tells **net user** that you're adding a user). Here's the basic syntax of the command:
@@ -71,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 `net user Jill /delete`
 
  Now net user will remove the account from the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enable and Disable a User Account
 
@@ -103,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  If you want to enable an account on a domain, just use the **/active:yes** switch in the above command structure instead.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set User Account Login Times
 
  If you want to specify the times someone can log in, you can use the **/time** parameter to specify the account login times. You can use the basic syntax below:
@@ -121,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Now Jack can go back to logging in whenever he wants.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Set User Account Expiry Date
 
 ![setting an account expiriation date with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-an-account-expiriation-date-with-net-user.jpg)
@@ -141,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 `net user Jack /expires:27/07/2024`
 
  With the above command, Windows will disable the on the date you've set above.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Change the Password of a User Account
 
@@ -156,9 +155,29 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Set a Password Policy for Users
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
@@ -171,10 +190,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
@@ -189,13 +208,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
  Net user is a simple command to understand, allowing you to effectively manage your accounts from one location: Command Prompt. Of course, we haven't covered everything here, as there are too many parameters and switches to cover in a single guide.
@@ -204,20 +216,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  In this guide, we're going to show you how to use the net user command to perform various actions on user accounts on a Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-free-guide-to-capturing-windows-3-quick-steps/"><u>[New] In 2024, Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-self-animated-wonders-cutting-edge-techniques-for-you/"><u>[Updated] 2024 Approved Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inside-look-apples-m1-max-attachments/"><u>[Updated] Inside Look Apple's M1 Max Attachments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-step-by-step-fb-video-conversion-to-mp3-format-for-2024/"><u>[Updated] Step-by-Step FB Video Conversion to MP3 Format for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-enhancing-non-working-windows-batch-files/"><u>Deciphering and Enhancing Non-Working Windows Batch Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-get-your-revo-uninstaller-app-working-today/"><u>How To Get Your Revo Uninstaller App Working Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719373458449-learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-11-free-powerhouse-utilities-guide/"><u>Maximizing Windows 11: Free Powerhouse Utilities Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-windows-explorer-classics-effortlessly/"><u>Restoring Windows Explorer Classics Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/synching-windows-id-with-ms-online-profile/"><u>Synching Windows ID with MS Online Profile</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -225,3 +223,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-choreographed-battle-top-5-martial-arts-video-game-list-for-2024/"><u>[New] Choreographed Battle Top 5 Martial Arts Video Game List for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>[Updated] 2024 Approved Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/artificial-intelligence-pioneering-changes-that-are-reshaping-our-world/"><u>Artificial Intelligence: Pioneering Changes That Are Reshaping Our World</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-camouflage-win-1011-guidebook/"><u>Command Center Camouflage: Win 10/11 Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-nvidia-display-settings-are-not-available-error-on-the-nvidia-control-panel-for-windows/"><u>How to Fix the “Nvidia Display Settings Are Not Available” Error on the Nvidia Control Panel for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-missing-time-remaining-indicator-in-windows-11-pcs/"><u>How to Rectify Missing Time Remaining Indicator in Windows 11 PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/overcoming-challenges-with-video-file-conversions-tips-and-solutions/"><u>Overcoming Challenges with Video File Conversions: Tips & Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-user-screen-saver-alteration-in-windows/"><u>Preventing User Screen Saver Alteration in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-a-frozen-windows-start-button/"><u>Regaining Control over a Frozen Windows Start Button</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-solution-ensuring-seamless-synchronization-of-outlook-on-your-mac-computer/"><u>Step-by-Step Solution: Ensuring Seamless Synchronization of Outlook on Your Mac Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-windows-10s-full-potential-with-zoom-services/"><u>Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+</ul></div>
+

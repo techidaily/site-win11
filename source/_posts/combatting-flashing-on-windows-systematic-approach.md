@@ -1,7 +1,7 @@
 ---
 title: "Combatting Flashing on Windows: Systematic Approach"
-date: 2024-10-28T17:22:06.631Z
-updated: 2024-11-02T01:50:50.078Z
+date: 2024-11-01T23:40:32.019Z
+updated: 2024-11-07T19:16:29.547Z
 tags:
   - windows10
   - windows11
@@ -55,6 +55,13 @@ To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
@@ -64,18 +71,18 @@ To adjust your refresh rate:
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Remove the Driver
 
  First,[boot Windows in safe mode](https://www.makeuseof.com/windows-11-boot-safe-mode/ "How to Boot Into Windows 10 Safe Mode") :
 
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
 2. Select**Update & Security >** **Recovery** (Windows 10) or**System > Recovery** (Windows 11).
@@ -106,6 +113,13 @@ Next, use Device Manager to uninstall the display driver:
 
  Download the driver, install it, and see if the screen flashing problem has ceased.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roll Back to an Older Driver
 
  If the problem continues, it might be that the newest driver hasn't patched the problem. If the screen flickering occurred after a driver update, try rolling back to an older version.
@@ -123,10 +137,10 @@ Next, use Device Manager to uninstall the display driver:
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Problematic Applications
@@ -144,13 +158,6 @@ If this doesn't work, uninstall the program. To do so:
 3. Click**Sort by** and choose**Installation date** .
 4. Click the offending app and click**Uninstall** . You may need to restart your system for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Create a New Windows User Profile
 
  How do you stop your laptop or computer screen from flickering? Well, many Windows 10 and Windows 11 problems can often be solved by[creating a new user profile](https://www.makeuseof.com/windows-11-create-local-user-account/) . Screen flickering is one of them.
@@ -158,10 +165,10 @@ If this doesn't work, uninstall the program. To do so:
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To create a new account:
@@ -169,13 +176,6 @@ To create a new account:
 1. Press**Windows Key + I** to open Settings.
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows Screen Flickers... No More
 
@@ -198,20 +198,24 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-adeptly-archive-your-fb-friends-lives-in-seconds/"><u>[New] In 2024, Adeptly Archive Your Fb Friends' Lives in Seconds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/iral-visionaries-hashes-that-transform-short-videos-into-hits/"><u>[New] Viral Visionaries Hashes that Transform Short Videos Into Hits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-deep-dive-into-exceptional-screen-recording-using-adobe-captivity-for-2024/"><u>[Updated] A Deep Dive Into Exceptional Screen Recording Using Adobe Captivity for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-embracing-constructive-feedback-ignoring-the-rest/"><u>[Updated] Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>[Updated] Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
-<li><a href="https://win11.techidaily.com/bring-order-to-your-notetaking-chaos-using-obsidian-palette/"><u>Bring Order to Your Notetaking Chaos Using Obsidian Palette</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-winget-back-online-window-11-edition/"><u>Bringing Winget Back Online: Window 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-fixing-outdated-windows-user-password-issue/"><u>Bypassing: Fixing Outdated Window's User Password Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-unsolicited-search-menu-activation-win11-style/"><u>Cease Unsolicited Search Menu Activation, Win11 Style</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-path-nine-tricks-to-dodge-steady-windows-update-stalls/"><u>Clear the Path: Nine Tricks to Dodge Steady Windows Update Stalls</u></a></li>
-<li><a href="https://win11.techidaily.com/cleverly-camouflaged-these-programs-slow-down-windows-users/"><u>Cleverly Camouflaged, These Programs Slow Down Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-dota-2s-stalled-loading-scenes-a-step-by-step-guide-to-restarting-your-game/"><u>Fix Dota 2'S Stalled Loading Scenes - A Step-by-Step Guide to Restarting Your Game</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>In 2024, SDR Upgrade Manual Unveiling the Secrets of HDR Transformation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-the-thinkpad-usb-c-docking-station-the-ultimate-guide-to-thunderbolt-lan-driver/"><u>Installing the ThinkPad USB-C Docking Station: The Ultimate Guide to Thunderbolt ˈLAN Driver</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/premium-5-android-capture-and-screen-save-apps/"><u>Premium 5 Android Capture & Screen Save Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-control-over-your-spotify-default-podcast-recommendations/"><u>[New] 2024 Approved Control Over Your Spotify Default Podcast Recommendations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-ig-photos-with-the-ideal-frame-choices/"><u>[Updated] Perfect Your IG Photos with the Ideal Frame Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-too-many-requests-issue-in-win-based-software/"><u>Eliminating Too Many Requests Issue in Win-Based Software</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-individualize-windows-11s-screensaver/"><u>How to Individualize Windows 11'S Screensaver</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-1011/"><u>How to Restore Windows Photo Viewer in Windows 10/11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevate-your-mac-experience-with-these-5-snippers/"><u>In 2024, Elevate Your Mac Experience with These 5 Snippers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/interactive-testing-of-blinks-advanced-4-wireless-floodlight-surveillance-system/"><u>Interactive Testing of Blink's Advanced 4-Wireless Floodlight Surveillance System</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-to-your-core-pathway-to-activating-windows-internal-character-insight/"><u>Journey to Your Core: Pathway to Activating Windows' Internal Character Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-monitors-wallpaper-variety/"><u>Mastering Windows 11: Monitors' Wallpaper Variety</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-top-10-free-video-rotators-to-fix-your-orientation-issues/"><u>New The Top 10 Free Video Rotators to Fix Your Orientation Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/owc-mercury-pro-the-pinnacle-of-solid-state-drive-technology-explored-in-review/"><u>OWC Mercury Pro: The Pinnacle of Solid State Drive Technology Explored in Review</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-workflow-with-these-rdc-tips-windows-11-style/"><u>Revolutionize Your Workflow with These RDC Tips, Windows 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-icons-from-scaling-down/"><u>Stop Windows 11 Icons From Scaling Down</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-desktop-experience-with-spotlight-controls/"><u>Streamline Your Desktop Experience with Spotlight Controls</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210964298-9781088222041-the-orchids-cave/"><u>The Orchid´s Cave | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-dealing-with-unverified-application-warnings-on-pc/"><u>Tips: Dealing with 'Unverified Application' Warnings on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-zoom-recording-essentials-for-2024/"><u>Top 10 Zoom Recording Essentials for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-strategies-for-successfully-unlocking-a-zte-device/"><u>Top Strategies for Successfully Unlocking a ZTE Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-resource-for-free-sound-effects-a-guide-for-final-cut-pro-editors-for-2024/"><u>Updated The Ultimate Resource for Free Sound Effects A Guide for Final Cut Pro Editors for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Technique to Turn Off Keyboard for Your Win-Run Devices
-date: 2024-10-27T18:24:31.427Z
-updated: 2024-11-01T23:58:18.971Z
+date: 2024-11-06T22:16:35.186Z
+updated: 2024-11-07T22:36:47.717Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 2. Next, select **Uninstall Device** from the context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click **Yes** to confirm the action.
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 ![disable ps 2 port 18042prt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-ps-2-port-18042prt-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to disable your laptop keyboard permanently, you can disable your laptop’s built-in keyboard driver PS/2 i8042prt service using the Command Prompt. We'll use the sc command-line utility to configure the service and set its start parameter to disabled.
@@ -101,28 +101,29 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
 3. Select **Browse my computer for drivers**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 4. Next, select **Let me pick from a list of available drivers on my computer**.  
 ![update driver keyboard pick from list of available drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-keyboard-pick-from-list-of-available-drivers-device-manager.jpg)
 5. Uncheck the **Show compatible hardware** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select a random manufacturer under the **Manufacturer** column.  
 ![install incompatible keyboard driver windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-incompatible-keyboard-driver0windows.jpg)
 7. Click **Next**. Click **Yes** if an **Update Driver Warning** dialog appears.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Once installed, close Device Manager and reboot your computer.
 
  After the restart, your laptop keyboard will stop working. If you need to install the correct driver again to enable the keyboard, right-click on the keyboard device and select **Update driver**. Next, select **Search automatically for drivers**. Windows will look for a compatible driver and install it.
@@ -145,26 +146,6 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
 
  However, since the keyboard is an integral part of your portable computer, disabling its primary input method is a little tricky. Here, we show you how to temporarily and permanently disable the laptop keyboard on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-slow-it-down-high-quality-moments-in-instagram-reels/"><u>[New] In 2024, Slow It Down High-Quality Moments in Instagram Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reviewing-tech-trends-the-vlle-method/"><u>[New] Reviewing Tech Trends The VLLE Method</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-3-hd-film-scrapers-on-fb/"><u>[New] Top 3 HD Film Scrapers on Fb</u></a></li>
-<li><a href="https://win11.techidaily.com/10-early-symptoms-of-windows-needing-a-fresh-start/"><u>10 Early Symptoms of Windows Needing a Fresh Start</u></a></li>
-<li><a href="https://win11.techidaily.com/5-stealthy-ways-win11-accesses-your-details/"><u>5 Stealthy Ways Win11 Accesses Your Details</u></a></li>
-<li><a href="https://win11.techidaily.com/art-software-showdown-windows-programs-vs-procreate/"><u>Art Software Showdown: Windows Programs Vs. Procreate</u></a></li>
-<li><a href="https://win11.techidaily.com/artistic-substitutes-to-procreate-windows-based/"><u>Artistic Substitutes to Procreate, Windows-Based</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-loading-lag-quick-fix-for-lol-on-win/"><u>Avoid Loading Lag: Quick Fix for LOL on Win</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-glitches-enabling-latest-emojis-on-windows-11/"><u>Avoiding Glitches: Enabling Latest Emojis on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-windows-11-security-upgrading-pin-length/"><u>Boosting Windows 11 Security: Upgrading PIN Length</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-mov-movies-content-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-fix-skype-microphone-failure-on-windows-11-systems/"><u>Diagnose and Fix Skype Microphone Failure on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-straightforward-strategies-for-podcast-streaming/"><u>In 2024, Straightforward Strategies for Podcast Streaming</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/peakquality-resizer-cross-platform-edition/"><u>PeakQuality Resizer – Cross-Platform Edition</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/revive-your-aging-windows-10-pc-with-these-5-lifesaving-techniques-most-come-at-no-cost/"><u>Revive Your Aging Windows 10 PC with These 5 Lifesaving Techniques – Most Come at No Cost</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-the-essence-of-luts-for-professional-photography/"><u>Understanding the Essence of LUTs for Professional Photography</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -172,3 +153,27 @@ thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-seamless-transfer-your-path-to-storing-instagram-videos-on-pc/"><u>[Updated] Seamless Transfer Your Path to Storing Instagram Videos on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal-for-2024/"><u>[Updated] Which Is Better for Vloggers on Facebook Vertical or Horizontal for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-valorant-communication-breakdowns-on-windows-78/"><u>Combating Valorant Communication Breakdowns on Windows 7/8</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-sound-sequence-confluence-crossfading-explained/"><u>Decoding Sound Sequence Confluence Crossfading Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-obstacles-restoring-system-calls-on-win1111/"><u>Eliminating Obstacles: Restoring System Calls on Win11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-for-configuring-dns-in-windows-11/"><u>Expert Strategies for Configuring DNS in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-spontaneous-command-window-flashes/"><u>How to Stop Spontaneous Command Window Flashes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y28-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y28 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-unrealcefsubprocess-impact-on-system-resources/"><u>Lowering UnrealCEFSubprocess Impact on System Resources</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-windows-11-media-with-movie-maker-tools-for-2024/"><u>Mastering Windows 11 Media with Movie Maker Tools for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/preserve-your-data-while-refreshing-windows-11-a-step-by-step-guide/"><u>Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/qnap-nas/"><u>QNAP NAS 迁移备份的无障碍指南：两种免费技巧</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/record-video-with-logitech-webcam-guide-for-2024/"><u>Record Video with Logitech Webcam [Guide] for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-absence-of-msvcr120dll-in-windows-environments/"><u>Resolving Absence of MSVCR120.DLL in Windows Environments</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210632727-9781959018025-runes/"><u>Runes | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-to-resolve-no-servers-found-navigating-apex-legends-windows-(156-chars/"><u>Top Tips to Resolve 'No Servers Found': Navigating Apex Legends Windows (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-microsoft-store-on-windows-10-and-11-with-x800704cf-error/"><u>Unblocking Microsoft Store on Windows 10 & 11 with X800704CF Error</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery of Non-Initialized Disks on Windows
-date: 2024-10-29T02:38:39.422Z
-updated: 2024-11-01T20:13:40.962Z
+date: 2024-11-04T18:42:17.159Z
+updated: 2024-11-07T19:02:36.404Z
 tags:
   - windows10
   - windows11
@@ -40,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![Close-up picture of a Laptop’s USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pexels-castorly-stock-4065705.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A faulty USB port can also prevent your system from detecting the hard drive, resulting in the issue under discussion. Hence, it's imperative to ensure that the USB port is functioning correctly. To confirm that, just swap ports, i.e., plug the external drive into a different port than where it was connected before.
 
  If the external drive starts working immediately after switching ports, the port it was connected to earlier is either incompatible with your drive or has a problem. Thus, you should either keep using the other USB port or apply the fixes covered in our guide on [how to fix USB port issues on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) to make the faulty port work again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Scan and Resolve Hard Drive Issues
 
@@ -74,17 +81,10 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![updating the disk drive drivers in the device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/updating-the-disk-drive-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Rebuild the MBR
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![Click on Rebuild MBR in the MiniTool Partition Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-rebuild-mbr-in-the-minitool-partition-wizard.jpg)
 6. Right-click the disk again and select **Create**. Then, click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Format the Disk and Create a New Partition
 
  If the drive that fails to initialize is empty or contains no essential data, you should format it. Then, you can create a new partition by converting its format to GPT and assigning the new volume. It is the most recommended method for resolving the issue and has worked for many users. To accomplish that, follow these steps:
@@ -112,28 +119,27 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![run the clean disk disk part command in windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/clean-disk-disk-part-command-prompt.jpg)
 6. Then, type **"GPT"** and press **Enter** to convert the disk to GPT format.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. To create a new partition on a formatted drive, type **"create partition primary"** and hit **Enter**.
 8. Then, type **"format quick fs=ntfs"** and hit **Enter** to format the volume.  
 ![quick format ntfs usb drive command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quick-format-ntfs-usb-drive-command-prompt.jpg)
 9. Lastly, type **"assign"** and hit **Enter** to assign the drive letter.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the external drive presenting the error under discussion contains essential data, you shouldn't format it, as you'll lose data this way. Before taking this route, keep that in mind.
 
  Some [data recovery tools](https://www.makeuseof.com/best-data-recovery-software/) allow you to recover deleted files from formatted drives. If you need to format your external hard drive containing important data as a last resort, you can use these tools to retrieve your deleted data. However, they may not work in every situation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bring Your Disk Drive Back to Life
 
@@ -143,23 +149,6 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
  If you want to resolve this issue and successfully load the data, here are a few fixes you should try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-experts-manual-to-efficient-screencasting/"><u>[New] 2024 Approved The Expert's Manual to Efficient Screencasting</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-expert-techniques-for-acquiring-pristine-images-for-2024/"><u>[New] Expert Techniques for Acquiring Pristine Images for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-realignment-youtube-on-mac-display-ratio/"><u>[Updated] Quick Realignment YouTube on Mac Display Ratio</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-copy-pasting-expertise/"><u>Boost Your Typing, Copy-Pasting Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/concealment-command-challenge-the-invisible-start-menu-shutdown/"><u>Concealment Command Challenge: The Invisible Start Menu Shutdown</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-the-art-of-handling-several-zipped-items-with-one-command/"><u>Learn the Art of Handling Several Zipped Items with One Command</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-steelseries-keyboard-with-freshly-updated-steelengine-drivers/"><u>Optimize Your SteelSeries Keyboard with Freshly Updated SteelEngine Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-operation-7x09-on-win10/"><u>Overcoming Operation 7X09 on Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/revealing-windows-operating-edition-epoch/"><u>Revealing Windows Operating Edition Epoch</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-non-genuine-alert-on-windows-pc/"><u>Sidestep Non-Genuine Alert on Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-fetch-and-set-up-epson-xp-n410-printer-software-driver-downloads/"><u>Step by Step Instructions: Fetch and Set Up Epson XP-N410 Printer Software (Driver Downloads)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tag-friends-listen-to-this-podcast-story/"><u>Tag Friends Listen to This Podcast Story</u></a></li>
-<li><a href="https://win11.techidaily.com/window-navigation-optimization-adding-this-pc-icons/"><u>Window Navigation Optimization: Adding 'This PC' Icons</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +156,24 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-box-customization-havens-on-the-internet/"><u>[New] In 2024, Best Box-Customization Havens on the Internet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-the-art-of-playstation-4-recording/"><u>[New] In 2024, Mastering the Art of PlayStation 4 Recording</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-into-success-with-instant-youtube-thumbnail-skills/"><u>[New] Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevating-adventure-pro-gopro-strategies/"><u>[Updated] 2024 Approved Elevating Adventure Pro-GoPro Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/amazon-luna-gaming-console-analysis-impressive-cloud-based-play-experience/"><u>Amazon Luna Gaming Console Analysis: Impressive Cloud-Based Play Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-asus-trackpad-drivers-specifically-designed-for-windows-operating-systems/"><u>Find and Download ASUS Trackpad Drivers Specifically Designed for Windows Operating Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-excel-2019-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a Excel 2019 Using DigiSigner</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-htc-u23-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked HTC U23 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/huawei-appgallery-now-features-mondly-services/"><u>Huawei AppGallery Now Features Mondly Services</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-crafting-custom-chart-templates-in-excel/"><u>Step-by-Step Guide: Crafting Custom Chart Templates in Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-turning-off-autofill-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Turning Off AutoFill Feature in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-locate-external-workbook-links-within-microsoft-excel/"><u>Steps to Locate External Workbook Links Within Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-effective-household-budget-planning-using-microsoft-excel/"><u>Strategies for Effective Household Budget Planning Using Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-and-solving-the-problem-of-arrow-button-navigation-in-microsoft-excel/"><u>Troubleshooting and Solving the Problem of Arrow Button Navigation in Microsoft Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-on-utilizing-the-length-formula-len-in-ms-excel-spreadsheets/"><u>Ultimate Tutorial on Utilizing the Length Formula (LEN) in MS Excel Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-insights-with-microsoft-excel-understanding-and-utilizing-the-analyze-data-functionality/"><u>Unlock Insights with Microsoft Excel: Understanding and Utilizing the 'Analyze Data' Functionality</u></a></li>
+</ul></div>
+

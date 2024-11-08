@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Computer' Writable Archive Functionality
-date: 2024-10-26T23:53:37.339Z
-updated: 2024-11-02T01:36:47.385Z
+date: 2024-10-31T16:57:14.581Z
+updated: 2024-11-07T19:27:47.437Z
 tags:
   - windows10
   - windows11
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
  The update also introduced [Dynamic Lighting to Windows 11](https://www.makeuseof.com/enable-dynamic-lighting-windows-11/). This feature lets you control all your RGB lighting devices connected to your Windows PC without a third-party app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Archive Support in Windows 11
@@ -77,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
@@ -94,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
@@ -119,25 +113,6 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>[Updated] In 2024, The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
-<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-windows-wont-use-all-of-your-ram/"><u>4 Fixes to Try if Windows Won't Use All of Your RAM</u></a></li>
-<li><a href="https://win11.techidaily.com/ace-your-finances-with-windows-11-pro-discounts/"><u>Ace Your Finances with Windows 11 Pro Discounts</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disappearances-in-file-explorer/"><u>Addressing Disappearances in File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-printer-disconnection-on-windows-11-devices/"><u>Addressing Printer Disconnection on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/altering-the-native-pdf-reader-setup-in-windows/"><u>Altering the Native PDF Reader Setup in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-jpeg-creation-from-heic-images/"><u>Automating JPEG Creation From HEIC Images</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/crafting-your-dream-minecraft-house-with-ease/"><u>Crafting Your Dream Minecraft House with Ease</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/discover-the-essentials-of-iprogid-in-programming/"><u>Discover the Essentials of IProgID in Programming</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-hot-40i-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Hot 40i Lock Screen Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-upgrading-synaptics-touchscreen-driver-for-windows-users/"><u>The Ultimate Guide to Upgrading Synaptics Touchscreen Driver for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369400663-unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-vs-2-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic Vs 2? Here is How | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +120,24 @@ thumbnail: https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-expert-review-best-15-cameras-in-4k-resolution-for-2024/"><u>[New] Expert Review Best 15 Cameras in 4K Resolution for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-investing-right-choosing-the-best-camera-and-gear/"><u>[New] In 2024, Investing Right Choosing the Best Camera and Gear</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-handbook-for-morphvox-transformers/"><u>[Updated] In 2024, Ultimate Handbook for MorphVOX Transformers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-darktable-feature-deep-dive-tutorial/"><u>2024 Approved Darktable Feature Deep Dive Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>2024 Approved Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-the-apple-podcast-submission-process/"><u>2024 Approved Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-printing-brother-mfc-j480dw-driver-updates-for-microsoft-windows/"><u>Ensure Seamless Printing: Brother MFC-J480DW Driver Updates for Microsoft Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-driver-issue-eliminated-in-windows-security-patch/"><u>HD Driver Issue Eliminated in Windows Security Patch</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-efficiency-and-control-with-advanced-wsl-2-docker-tactics/"><u>Increase Efficiency and Control with Advanced WSL 2 Docker Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-your-gamer-goals-intact-a-guide-to-epic-saves/"><u>Keeping Your Gamer Goals Intact: A Guide to Epic Saves</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-microsoft-store-functionality-on-windows-devices/"><u>Reclaiming Microsoft Store Functionality on Windows Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx940dll-the-ultimate-guide-to-correct-the-missing-file-mishap/"><u>Resolving d3dx9_40.dll: The Ultimate Guide to Correct the 'Missing File' Mishap</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-manual-for-windows-users-using-imessage/"><u>The Ultimate Manual for Windows Users: Using iMessage</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-overcome-local-security-offline-warning/"><u>Tips to Overcome Local Security Offline Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/vivetool-methods-to-activate-cortana-in-windows/"><u>ViveTool Methods to Activate Cortana in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-gamers-secret-7-insider-moves-to-up-your-score/"><u>Win 11 Gamers' Secret: 7 Insider Moves to Up Your Score</u></a></li>
+</ul></div>
+

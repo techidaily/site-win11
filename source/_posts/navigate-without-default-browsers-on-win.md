@@ -1,7 +1,7 @@
 ---
 title: Navigate Without Default Browsers on Win
-date: 2024-10-27T20:36:27.346Z
-updated: 2024-11-02T02:49:40.721Z
+date: 2024-11-01T19:50:16.087Z
+updated: 2024-11-07T21:19:38.131Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 Let's talk about how you can use these to download a browser.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Winget
 
  If you're running Windows 10 v1809 or later, Winget is one of the easiest ways to download a browser without a browser. Start by launching PowerShell by searching for it in the Start Menu. Then, execute one of the following commands based on the browser you want to download:
@@ -65,6 +58,13 @@ Let's talk about how you can use these to download a browser.
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download a Browser Using the Curl Command
 
@@ -80,23 +80,9 @@ Paste the link in quotation marks like so:
 
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -123,13 +109,26 @@ Next, run the following command:
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the process is complete, you can start using the new browser.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -148,6 +147,13 @@ Run the following command in PowerShell:
 `Invoke-WebRequest link -o download.exe`
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
@@ -170,18 +176,20 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-definitive-ranking-of-11-top-audio-capture-gadgets/"><u>[New] In 2024, The Definitive Ranking of 11 Top Audio Capture Gadgets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>[New] Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-convert-your-youtube-files-effortlessly-to-webm/"><u>[Updated] 2024 Approved Convert Your YouTube Files Effortlessly to WebM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-walkthrough-for-enabling-your-windows-update-service-when-it-stops-working/"><u>Complete Walkthrough for Enabling Your Windows Update Service When It Stops Working</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/covertly-documenting-your-zoom-calls-with-movavi-the-unnoticed-approach/"><u>Covertly Documenting Your Zoom Calls with Movavi: The Unnoticed Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-insights-into-using-microsofts-error-resolution-w11/"><u>Expert Insights Into Using Microsoft's Error Resolution W11</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-option-to-skip-pcs-built-in-graphics/"><u>Exploring the Option to Skip PC's Built-In Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x800704cf-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error 0X800704CF in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-folder-descriptions-in-windows-11-explorer/"><u>Mastering Folder Descriptions in Windows 11 Explorer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/passos-simples-para-iniciar-transmissoes-de-video-do-whatsoup-em-desktops-e-smartphones/"><u>Passos Simples Para Iniciar Transmissões De Vídeo Do WhatSoup Em Desktops E Smartphones</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-append-folders-to-windows-11-menu/"><u>Step-by-Step Guide: Append Folders to Windows 11 Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/the-sunsetting-of-windows-7-and-81-by-microsoft/"><u>The Sunsetting of Windows 7 and 8.1 by Microsoft</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-color-reversal-making-blacks-from-whites/"><u>[New] Color Reversal Making Blacks From Whites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-demystifying-recmeisters-advanced-screen-capture-technology/"><u>2024 Approved Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/building-captivating-visual-puzzles-a-mosaic-journey/"><u>Building Captivating Visual Puzzles A Mosaic Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-run-the-command-prompt-as-an-administrator-in-windows/"><u>How to Run the Command Prompt as an Administrator in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/linuxs-surge-the-power-of-wsl-integration/"><u>Linux's Surge: The Power of WSL Integration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-understanding-and-fixing-the-apex-legends-error-23-issue/"><u>Resolved: Understanding and Fixing the 'Apex Legends' Error 23 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-geforce-sharing-errors/"><u>Steps to Resolve GeForce Sharing Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207259541-sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again!</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-pcs-behavior-set-idle-shutdown-for-windows-11/"><u>Tailor Your PC's Behavior: Set Idle Shutdown for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-wows-critical-crash-the-win11-solution/"><u>Taming WoW’s Critical Crash: The Win11 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/thriving-in-the-world-of-affordable-windows-10-deals/"><u>Thriving in the World of Affordable Windows 10 Deals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-youtube-spotlight-key-influences-on-your-viewership-position/"><u>Top YouTube Spotlight Key Influences on Your Viewership Position</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-successful-restoring-sound-functionality-in-firefox/"><u>Troubleshooting Successful: Restoring Sound Functionality in Firefox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-nostalgia-project-from-today-to-98/"><u>Windows Nostalgia Project: From Today to ‘98</u></a></li>
 </ul></div>
 

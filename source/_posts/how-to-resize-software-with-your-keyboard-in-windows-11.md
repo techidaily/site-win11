@@ -1,7 +1,7 @@
 ---
 title: How to Resize Software With Your Keyboard in Windows 11
-date: 2024-10-28T03:54:26.863Z
-updated: 2024-11-01T18:02:58.138Z
+date: 2024-11-03T16:02:43.840Z
+updated: 2024-11-08T00:02:57.530Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -50,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 ![Snap Layout options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/snap-layout-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Resize Software Windows With Custom Hotkeys
 
@@ -78,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
 4. Click the**Edit** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
 6. Press a letter to combine with your selected key.
@@ -94,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
@@ -117,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
 
@@ -146,22 +146,16 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-excellence-in-auditory-theatre-writing/"><u>[New] Excellence in Auditory Theatre Writing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-artisans-almanac-makeup-tools-and-more-on-youtube/"><u>[Updated] The Artisan's Almanac Makeup, Tools & More on Youtube</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreenas-for-navigating-windows-11s-troubleshooter/"><u>A Compreenas for Navigating Windows 11'S Troubleshooter</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-success-reinstalling-microsofts-pc-manager-in-winxp/"><u>Achieve Success: Reinstalling Microsoft's PC Manager in WinXP</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-failed-downloads-in-windows-environments/"><u>Addressing Failed Downloads in Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-installation-access-violation-on-win1011/"><u>Addressing Installation Access Violation on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-disk-read-failures-on-your-pc/"><u>Avoiding Disk Read Failures on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/backup-basics-protecting-your-digital-adventures-in-epic-games/"><u>Backup Basics: Protecting Your Digital Adventures in Epic Games</u></a></li>
-<li><a href="https://win11.techidaily.com/biometric-breach-are-windows-fingerprint-scanners-safe/"><u>Biometric Breach: Are Windows Fingerprint Scanners Safe?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-pcs-how-to-restore-audio-on-your-windows-11-system/"><u>Fixing Silent PCs: How to Restore Audio on Your Windows 11 System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>In 2024, Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
-<li><a href="https://discover-best.techidaily.com/luxembourg-based-deloitte-enhances-client-services-through-strategic-abbyy-collaboration/"><u>Luxembourg-Based Deloitte Enhances Client Services Through Strategic ABBYY Collaboration</u></a></li>
-<li><a href="https://win11.techidaily.com/1719333062146-resolve-windows-scheduler-glitches-now/"><u>Resolve Windows Scheduler Glitches Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017022574-troubleshoot-and-repair-your-astro-a50s-mic-problem-easily/"><u>Troubleshoot and Repair Your Astro A50's Mic Problem Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-master-facebook-broadcasting-with-devices-and-obs-studio-for-2024/"><u>[Updated] Master Facebook Broadcasting with Devices and OBS Studio for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/9-formas-para-solucionar-la-pantalla-azul-dispositivo-no-esta-listo-en-bitlocker-error-0x80070015/"><u>9 Formas Para Solucionar La Pantalla Azul 'Dispositivo No Está Listo' En BitLocker Error 0X80070015</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-experience-win11-narrator-keybindings/"><u>Elevate Your PC Experience: Win11 Narrator Keybindings</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminated-ideas-a-guide-to-organizing-notes-via-obsidian/"><u>Illuminated Ideas: A Guide to Organizing Notes via Obsidian</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-your-lenovo-display-in-slow-motion/"><u>In 2024, Capturing Your Lenovo Display in Slow Motion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/memorial-day-special-save-big-on-the-apple-watch-se-a-top-pick-of-my-latest-tech-buys-zdnet/"><u>Memorial Day Special: Save Big on the Apple Watch SE - A Top Pick of My Latest Tech Buys | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-roadmap-to-unblemished-wallpaper-clarity-in-w11/"><u>The Roadmap to Unblemished Wallpaper Clarity in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-game-files-three-windows-techniques/"><u>Uncovering Game Files: Three Windows Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/voice-to-text-made-easy-with-openais-whisper-in-your-windows-environment/"><u>Voice-to-Text Made Easy With OpenAI's Whisper in Your Windows Environment</u></a></li>
 </ul></div>
 

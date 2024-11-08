@@ -1,7 +1,7 @@
 ---
 title: How to Make Windows 10 Wait Longer When Shutting Down if You Have Running Tasks
-date: 2024-10-27T18:58:10.782Z
-updated: 2024-11-01T17:07:27.624Z
+date: 2024-11-03T19:04:39.011Z
+updated: 2024-11-07T20:55:17.951Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Should You Try First?
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
@@ -71,13 +78,6 @@ This will apply altered log-off rules to all users on the PC.
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2A. How to Set HungAppTimeout for Just Your User Account
 
  Doing this will change how long Windows waits for apps that it considers hung. This is just for your user account.
@@ -91,10 +91,10 @@ This will apply altered log-off rules to all users on the PC.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2B. How to Change HungAppTimeout for All Users
@@ -107,10 +107,10 @@ This will allow you to change the default value for all users.
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
@@ -132,17 +132,14 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-recording-google-voice-a-comprehensive-tutorial/"><u>[New] In 2024, Recording Google Voice A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-premium-picks-recommended-spots-for-procuring-snapchat-chime/"><u>[Updated] In 2024, Premium Picks Recommended Spots for Procuring Snapchat Chime</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/countdown-begins-how-microsoft-must-tackle-its-impending-crisis-before-windows-11-launch-date-digital-chronicles/"><u>Countdown Begins: How Microsoft Must Tackle Its Impending Crisis Before Windows 11 Launch Date | Digital Chronicles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-sound-saturated-instagram-visuals-for-2024/"><u>Crafting Sound-Saturated Instagram Visuals for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/defrost-stuck-menus-top-fixes-to-try-today/"><u>Defrost Stuck Menus: Top Fixes to Try Today</u></a></li>
-<li><a href="https://extra-support.techidaily.com/investigating-cash-for-review-scenarios-for-2024/"><u>Investigating Cash-for-Review Scenarios for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/leading-mac-graphics-recorder/"><u>Leading Mac Graphics Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-android-pc-connection-step-by-step-guide/"><u>Mastering Android-PC Connection: Step by Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-your-preferred-file-layout-settings/"><u>Reclaiming Your Preferred File Layout Settings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-tecno-pova-5-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Tecno Pova 5 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/traversing-technological-timelines-using-a-windows-7-key-in-windows-11-setup/"><u>Traversing Technological Timelines: Using a Windows 7 Key in Windows 11 Setup</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-x9a-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor X9a? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-screenshots-programs-ranked-1-8/"><u>[New] 2024 Approved Best Screenshots Programs Ranked #1-8</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exploring-beyond-the-screen-with-vr-for-2024/"><u>[New] Exploring Beyond the Screen with VR for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos-for-2024/"><u>[Updated] Versatile Online Creations Simple and Inclusive Ideas for Your First Videos for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guida-esclusiva-esegui-il-pieno-backup-di-windows-10-senza-costi-il-metodo-ottimale-e-gratuito/"><u>Guida Esclusiva: Esegui Il Pieno Backup Di Windows 10 Senza Costi - Il Metodo Ottimale E Gratuito</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-techniques-for-clearing-ms-defender-log-on-pc/"><u>Master the Techniques for Clearing MS Defender Log on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/slash-cpu-usage-spikes-utilizing-windows-rm-wisdom/"><u>Slash CPU Usage Spikes: Utilizing Window's RM Wisdom</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-app-screens-on-windows-11-properly/"><u>Tailoring App Screens on Windows 11 Properly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-panzoid-framework-assemblage/"><u>Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-potential-of-windows-11s-package-control-using-wingetui/"><u>Unleash the Potential of Windows 11'S Package Control Using WingetUI</u></a></li>
 </ul></div>
 

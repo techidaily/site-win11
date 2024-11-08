@@ -1,7 +1,7 @@
 ---
 title: Mastering Restricted Folder Permissions on Windows 10/11
-date: 2024-10-30T23:57:34.497Z
-updated: 2024-11-01T22:12:51.823Z
+date: 2024-11-04T20:21:47.065Z
+updated: 2024-11-07T18:42:06.005Z
 tags:
   - windows10
   - windows11
@@ -53,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 5. You can disable controlled folder access by executing this command:  
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
@@ -79,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/computer-configuration-in-group-policy-editor.jpg)
 4. Double-click**Windows Components** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the arrows for expanding**Microsoft Defender Antivirus** and**Microsoft Defender Exploit Guard** .
 
 1. Select**Controlled Folder Access** to view policy settings for that feature.
@@ -93,17 +86,17 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![The Controlled Folder Access policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-in-group-policy-editor.jpg)
 3. Select the Configure Controlled folder access window’s**Enabled** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Block** on the drop-down menu to select the strictest CFA mode. However, you can also select alternative**Audit Mode** ,**Block disk notification only** , and**Audit disk notification only** options for enabling controlled folder access.  
 ![The Configure the guard my folders feature drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configure-controlled-folder-access.jpg)
 5. Select**Apply** in the Configure Controlled folder access window.
 6. Click the Configure Controlled folder access window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
@@ -157,8 +150,23 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 3. Paste that script into Notepad by clicking in that app’s window and pressing**Ctrl** +**V** .  
 ![The controlled folder access registry script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-registry-script.jpg)
 4. Next, press**Ctrl** +**Shift** +**S** to view Notepad’s "Save as" window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Set the**Save as type** option to**All files** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/all-files-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Type**Turn on Control folder access.reg** inside the file name box.
 2. Select to save the script to the desktop location.
@@ -180,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
 4. Click**Yes** to erase that key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -192,23 +207,9 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 6. Click**Open** to add the selected game or software.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Controlled Folder Access for Greater Ransomware Protection
 
@@ -229,22 +230,24 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-plain-screeners-toolkit-for-win10-users/"><u>[New] 2024 Approved Plain Screener's Toolkit for Win10 Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-step-by-step-guide-to-the-top-20-strategies-for-successful-fb-videos/"><u>[New] In 2024, A Step-by-Step Guide to the Top 20 Strategies for Successful FB Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instasaves-the-leading-videophoto-downloaders/"><u>[New] InstaSaves The Leading Video/Photo Downloaders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>[New] Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clear-distraction-free-viewing-of-old-youtube-content/"><u>[Updated] 2024 Approved Clear, Distraction-Free Viewing of Old YouTube Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-gpt-3-vs-bard-who-leads-the-way/"><u>AI Showdown: GPT-3 Vs. Bard – Who Leads the Way?</u></a></li>
-<li><a href="https://win11.techidaily.com/compact-connoisseurs-panasonic-choice/"><u>Compact Connoisseur's Panasonic Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-mute-status-in-windows-audiosystem/"><u>Correcting Mute Status in Windows Audiosystem</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-support-solutions-with-movavi/"><u>Expert Support Solutions with Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/flawless-functionality-in-windows-zoom-eliminate-error-1132/"><u>Flawless Functionality in Windows Zoom - Eliminate Error 1132</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-visual-disk-space-analyzer-tool-to-the-context-menu-in-windows-11-and-11/"><u>How to Add a Visual Disk Space Analyzer Tool to the Context Menu in Windows 11 & 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-your-first-steps-in-video-content-creation/"><u>In 2024, Your First Steps in Video Content Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-network-key-inconsistencies-5-steps-for-windows-users/"><u>Navigating Through Network Key Inconsistencies: 5 Steps for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-cortana-journey-backup-and-restore-guide/"><u>Secure Your Cortana Journey: Backup and Restore Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015327796-the-problems-behind-us-play-games-and-stream-sound-on-discord-effectively/"><u>The Problem's Behind Us! Play Games and Stream Sound on Discord Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/trimming-up-surplus-graphics-from-windows-search/"><u>Trimming Up Surplus Graphics From Windows Search</u></a></li>
-<li><a href="https://win11.techidaily.com/unveil-top-6-trackers-to-master-your-computerinas-windows-domain/"><u>Unveil Top 6 Trackers to Master Your Computer'inas Windows Domain</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snicker-sphere-top-grade-no-charge-memes/"><u>[New] Snicker Sphere Top-Grade, No-Charge Memes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-arma-3-crashing-issues-2024-tips/"><u>[Solved] Arma 3 Crashing Issues | 2024 Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[Updated] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-delicate-film-opening/"><u>[Updated] In 2024, Delicate Film Opening</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-free-software-showdown-for-premium-audio-capture-tools/"><u>[Updated] In 2024, Free Software Showdown for Premium Audio Capture Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-xps-movie-magic-software-essentials/"><u>[Updated] In 2024, Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/extracting-cortana-usage-history-on-a-pc/"><u>Extracting Cortana Usage History on a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-a-frozen-opera-installer-in-windows-environment/"><u>Fix a Frozen Opera Installer in Windows Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-x50-gt-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor X50 GT Pattern Lock Screen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-superior-tools-for-fbx-file-recording/"><u>In 2024, 10 Superior Tools for FBX File Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-x50iplus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor X50i+ Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-failure-effective-ways-to-restore-functionality/"><u>Laptop Keyboard Failure: Effective Ways to Restore Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-access-denied-hurdles/"><u>Mastery over Windows Access Denied Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-pin-update-techniques/"><u>Mastery over Windows PIN Update Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-grayed-out-screensaver-in-win-os-top-fixes/"><u>Overcoming Grayed-Out Screensaver in Win OS: Top Fixes!</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-3d-painting-crucial-shortcuts/"><u>Speed Up 3D Painting: Crucial Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-troubles-of-disabled-secure-boot-in-windows-bios-settings/"><u>Tackling the Troubles of Disabled Secure Boot in Windows BIOS Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tactics-when-your-windows-defense-is-non-functional/"><u>Top Tactics When Your Windows Defense Is Non-Functional</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-solution-to-0x8007045d-on-your-windows-11-machine/"><u>Unlocking the Solution to 0X8007045D on Your Windows 11 Machine</u></a></li>
 </ul></div>
 

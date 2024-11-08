@@ -1,7 +1,7 @@
 ---
 title: "Executing Windows SFC: A Step-Wise Procedure"
-date: 2024-10-27T21:11:07.261Z
-updated: 2024-11-01T22:30:43.164Z
+date: 2024-11-02T18:52:21.200Z
+updated: 2024-11-07T21:09:48.477Z
 tags:
   - windows10
   - windows11
@@ -48,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
@@ -77,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
@@ -105,6 +98,19 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -117,24 +123,18 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -157,24 +157,24 @@ thumbnail: https://thmb.techidaily.com/18e0761348cb4d28e3480c4ed08a893497db31dc3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-quality-fb-pic-and-movie-creator-no-cost/"><u>[New] 2024 Approved Top Quality FB Pic & Movie Creator (No Cost)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-initial-steps-to-instagram-video-discussion-success/"><u>[New] Initial Steps to Instagram Video Discussion Success</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-quantum-hdr-techniques-for-professionals/"><u>[New] Mastering Quantum HDR Techniques for Professionals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-step-by-step-crafting-photos-into-engaging-videos-in-pixiz-for-2024/"><u>[New] Step-by-Step Crafting Photos Into Engaging Videos in Pixiz for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-decoding-the-functionality-of-youtubes-media-hub/"><u>[Updated] Decoding the Functionality of YouTube's Media Hub</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[Updated] In 2024, The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-screen-recorder-showdown-testing-recmeister/"><u>[Updated] The Ultimate Screen Recorder Showdown Testing Recmeister</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-viewers-into-valuables-a-creators-guide-to-youtube-monetization/"><u>[Updated] Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization</u></a></li>
-<li><a href="https://win11.techidaily.com/does-pressing-prtscr-start-snipping-tool-on-win-11-trick-to-block-it/"><u>Does Pressing PrtScr Start Snipping Tool on Win 11? Trick to Block It</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y200-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y200 Is Unlocked</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-discords-cannot-resize-gif-error-on-windows-11/"><u>How to Fix Discord's Cannot Resize GIF Error on Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G34 5G Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-window-transparency-on-windows-11-machines/"><u>Maximizing Window Transparency on Windows 11 Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-modifying-network-address-translation-in-wins-oses/"><u>Navigating and Modifying Network Address Translation in Wins OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/six-proven-techniques-for-pinpointing-your-pcs-brand-and-version/"><u>Six Proven Techniques for Pinpointing Your PC's Brand & Version</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-digital-life-using-windows-11s-taskbar-search/"><u>Streamline Your Digital Life: Using Windows 11'S Taskbar Search</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-over-win11-blue-screen-with-these-top-11-strategies/"><u>Triumph Over Win11 Blue Screen with These Top 11 Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-as-the-base-crafting-a-linux-vm-environment-via-hyper-v/"><u>Windows as the Base: Crafting a Linux VM Environment via Hyper-V</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-internet-window-upgrades-strategy/"><u>Zero Internet Window Upgrades Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instantize-image-movement-with-photoshop/"><u>[New] Instantize Image Movement with Photoshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expanding-possibilities-with-virtual-reality/"><u>[Updated] Expanding Possibilities with Virtual Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-media-management-on-instagram/"><u>[Updated] Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-nocostcam-the-infinite-gaming-screen-record-tool-for-2024/"><u>[Updated] NoCostCam The Infinite Gaming Screen Record Tool for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization/"><u>2024 Approved The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-incorporate-emulators-into-playnite/"><u>Effortlessly Incorporate Emulators Into Playnite</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11-isp-settings/"><u>Exploring Windows 11 ISP Settings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-12-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 12 mini? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y100t Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disk-space-optimization-on-win-1011/"><u>Mastering Disk Space Optimization on Win 10/11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-checking-powershell-versions-in-windows-11-with-help-from-revouninstaller/"><u>Mastering the Art of Checking PowerShell Versions in Windows 11 with Help From RevoUninstaller</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-incorporating-custom-tasks-into-windows-explorer/"><u>Maximizing Efficiency: Incorporating Custom Tasks Into Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/monitor-mania-tailoring-your-taskscape-with-themed-windows/"><u>Monitor Mania: Tailoring Your Taskscape with Themed Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/pathway-exploration-navigating-to-windowsstore-directory/"><u>Pathway Exploration: Navigating to WindowsStore Directory</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-onedrive-from-windows-file-explorer-a-guide/"><u>Removing OneDrive From Windows File Explorer: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-collection-best-free-aid-for-windows-11-users/"><u>The Pinnacle Collection: Best Free Aid for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-error-0x800f0831/"><u>Understanding and Remedying Windows Error 0X800F0831</u></a></li>
 </ul></div>
 

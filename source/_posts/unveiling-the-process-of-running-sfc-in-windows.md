@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Process of Running SFC in Windows
-date: 2024-10-29T03:55:48.235Z
-updated: 2024-11-01T23:57:54.960Z
+date: 2024-11-04T23:30:56.571Z
+updated: 2024-11-07T20:21:47.053Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -56,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -99,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
@@ -112,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
  You can find**sfcdetails.txt** by heading to**This PC > Local Disk (C:) > Windows > System32** .
 
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll see that the log file contains entries from the System File Checker only.
 
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
@@ -151,20 +151,22 @@ thumbnail: https://thmb.techidaily.com/2684d5fa5a1c919bbd381e1623060c80ce06ce757
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-assemble-media-pieces-in-youtube-sorted-views/"><u>[New] 2024 Approved Assemble Media Pieces in YouTube Sorted Views</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-follower-shedding-insight/"><u>[New] 2024 Approved Instagram Follower Shedding Insight</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elite-upgrades-top-picks-of-vr-handwear-devices/"><u>[Updated] In 2024, Elite Upgrades Top Picks of VR Handwear Devices</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-11-windows-10/"><u>如何有效地在切換到 Windows 11前保留 Windows 10 文件和設定</u></a></li>
-<li><a href="https://win-news.techidaily.com/nvme-ssdsamsungnvme-ssd/"><u>拓展容量：順利複製NVMe SSD資料給Samsung大型NVMe SSD</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boost-your-speaking-credentials-with-these-9-strategies/"><u>Boost Your Speaking Credentials with These 9 Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-users-contribute-to-ais-learning-in-real-time-chatgpt-scenarios/"><u>Can Users Contribute to AI’s Learning in Real-Time ChatGPT Scenarios?</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-mending-the-windows-performance-sensor/"><u>Diagnosing and Mending the Windows Performance Sensor</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-voice-translation-english-to-bangla-online-and-offline-apps/"><u>In 2024, Voice Translation English to Bangla Online and Offline Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/ram-cache-insight-and-clearing-methods-for-win-users/"><u>RAM Cache Insight & Clearing Methods for Win Users</u></a></li>
-<li><a href="https://win11.techidaily.com/shadows-no-more-restore-your-lost-windows-on-win10win11/"><u>Shadows No More: Restore Your Lost Windows on Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/tweak-improve-keyboard-shortcut-responsiveness-win-11-style/"><u>Tweak: Improve Keyboard Shortcut Responsiveness, Win 11 Style</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-new-academic-insights-through-the-use-of-4-powerful-ai-research-tools/"><u>Unlock New Academic Insights Through the Use of 4 Powerful AI Research Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-carryminati-the-youtube-money-trail-of-ajey-nagar-for-2024/"><u>[New] CarryMinati The YouTube Money Trail of Ajey Nagar for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-investors-guide-to-best-financial-youtube-sources/"><u>2024 Approved Investors' Guide to Best Financial YouTube Sources</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/e-lecture-documentation-for-2024/"><u>E-Lecture Documentation for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-linksys-velops-features-the-pinnacle-of-mesh-network-technology/"><u>Exploring Linksys Velop's Features: The Pinnacle of Mesh Network Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-bargain-asus-tuf-gaming-laptop-with-amd-ryzen-for-a-shocking-memorial-day-sale-only-658/"><u>Get the Best Bargain - Asus TUF (Gaming) Laptop with AMD Ryzen for a Shocking Memorial Day Sale: Only $658!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-earn-while-playing-games-online/"><u>In 2024, Earn While Playing Games Online</u></a></li>
+<li><a href="https://win11.techidaily.com/master-controller-compatibility-steams-essential-guide/"><u>Master Controller Compatibility: Steam's Essential Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-zero-error-guidance-to-resolve-windows-11-store-glitches/"><u>Mastery over Zero-Error: Guidance to Resolve Windows 11 Store Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-duo-assessment-navigating-through-glitches-and-costs/"><u>Microsoft Surface Duo Assessment: Navigating Through Glitches & Costs</u></a></li>
+<li><a href="https://win11.techidaily.com/protocols-to-regain-lost-connection-on-windows/"><u>Protocols to Regain Lost Connection on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-your-intel-unison-problems-with-these-steps/"><u>Resolve Your Intel Unison Problems with These Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-write-rights-to-steam-directories-with-windows-11/"><u>Securing Write Rights to Steam Directories with Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/laylist-pivot-new-order-strategies-for-youtube-for-2024/"><u>The Playlist Pivot New Order Strategies for YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-joining-onedrive-with-liveid-windows/"><u>The Ultimate Guide: Joining OneDrive with LiveID (Windows)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated/"><u>Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-weather-wisdom-best-forecasting-tools-roundup/"><u>Windows 11 Weather Wisdom: Best Forecasting Tools Roundup</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-gameplay-steps-to-recover-disconnected-league/"><u>Winning Back Gameplay: Steps to Recover Disconnected League</u></a></li>
 </ul></div>
 

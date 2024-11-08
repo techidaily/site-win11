@@ -1,7 +1,7 @@
 ---
 title: Unmasking the Covert Context Options in Windows 11
-date: 2024-10-26T23:33:14.479Z
-updated: 2024-11-02T04:27:34.214Z
+date: 2024-11-02T18:04:19.576Z
+updated: 2024-11-07T19:07:58.987Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Click on the **Apply** button.
@@ -86,17 +86,17 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
@@ -105,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-beat-o-vision-your-guide-to-the-years-most-shared-rap-tracks/"><u>[New] 2024 Approved Beat-O-Vision Your Guide to the Year's Most Shared Rap Tracks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-120plus-snapchat-private-story-name-ideas-to-make-you-unique-for-2024/"><u>[Updated] 120+ Snapchat Private Story Name Ideas to Make You Unique for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-ace-the-game-crafting-a-pro-gaming-channels-success-story/"><u>[Updated] Ace the Game Crafting a Pro Gaming Channels Success Story</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtube-insights-via-social-blade-mastering-your-video-metrics/"><u>[Updated] Unlock YouTube Insights via Social Blade Mastering Your Video Metrics</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-remove-the-microsoft-store-app-from-windows-11/"><u>3 Ways to Remove the Microsoft Store App From Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-tutorial-on-windows-11-hotspot-setup-procedures/"><u>A Comprehensive Tutorial on Windows 11 Hotspot Setup Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-fixing-windows-lsass-components-issue/"><u>A Guide to Fixing Windows Lsass Components Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/audioscapes-redefined-mastering-the-windows-driver-update-technique/"><u>Audioscapes Redefined: Mastering the Windows Driver Update Technique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/busting-the-myths-about-portable-power-why-the-20-anker-charger-is-a-game-changer-as-spotlighted/"><u>Busting the Myths About Portable Power - Why the $20 Anker Charger Is a Game-Changer, as Spotlighted</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -125,3 +112,22 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/0-masterpieces-in-job-market-insight-for-2024/"><u>[New] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-hashtag-use-for-maximum-marketing-reach/"><u>[Updated] 2024 Approved Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
+<li><a href="https://win-webster.techidaily.com/choose-the-iso-file-you-want-to-use-for-creating-the-boot-disk/"><u>Choose the ISO File You Want to Use for Creating the Boot Disk.</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-secure-your-browsing-in-win-11-using-microsofts-application-guard/"><u>Efficiently Secure Your Browsing in Win 11 Using Microsoft's Application Guard</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y78-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y78 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>In 2024, Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/interactive-sphere-expands-windows-for-iphonesipads-pcsmac-unveiled/"><u>Interactive Sphere Expands: Windows for iPhones/iPads, PCs/Mac Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-your-sticky-notes-on-pc/"><u>Maintaining Your Sticky Notes on PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide/"><u>New 2024 Approved PS4 Screenshot Sharing for Beginners A Simple and Easy Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/securing-top-quality-pixel-ringtones-where-to-go-in-2024/"><u>Securing Top Quality Pixel Ringtones Where to Go, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/sleek-software-not-so-slick-the-throttling-of-your-pcs-speed/"><u>Sleek Software, Not So Slick: The Throttling of Your PC's Speed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-6-hdmi-21-monitor-for-2024/"><u>Top 6 HDMI 2.1 Monitor for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-future-on-windows-empower-your-pc-with-vivetool/"><u>Unlocking the Future on Windows: Empower Your PC with ViVeTool</u></a></li>
+</ul></div>
+

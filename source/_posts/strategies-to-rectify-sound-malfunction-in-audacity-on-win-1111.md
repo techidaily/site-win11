@@ -1,7 +1,7 @@
 ---
 title: Strategies to Rectify Sound Malfunction in Audacity on Win 11/11
-date: 2024-10-31T19:24:42.123Z
-updated: 2024-11-01T21:36:05.580Z
+date: 2024-11-06T21:52:58.362Z
+updated: 2024-11-07T23:33:32.808Z
 tags:
   - windows10
   - windows11
@@ -52,8 +52,30 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 2. Next, double-click**Windows Audio** to bring up further options for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
 
@@ -72,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 6. Then select the**Recording** tab to view more devices.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
@@ -84,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Select the Rescan Audio Devices
@@ -99,6 +121,20 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 3. Select the**Rescan Audio Devices** option.  
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Audio Device Drivers
 
@@ -114,22 +150,8 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
 8. Restart your PC for automatic driver reinstallation. If some drivers aren’t reinstalled after the restart, select the**Action** \>**Scan for hardware** changes options in Device Manager.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update the Realtek Audio Codec Driver
 
@@ -144,19 +166,6 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Audacity
 
  A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our[ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
@@ -166,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 ![The download Audacity option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-audacity-options.jpg)
 
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
@@ -193,20 +195,18 @@ thumbnail: https://thmb.techidaily.com/fa22a25939ec5a747970e922450b5ed9de98bf9e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>[New] In 2024, Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-engaging-vlogger-subjects-each-day/"><u>[Updated] Engaging Vlogger Subjects Each Day</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-phantom-camera-pause-tips/"><u>2024 Approved Phantom Camera Pause Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beam-breakthroughs-lighting-know-how-for-video-success/"><u>Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/delving-into-lgs-high-end-gaming-screen-27ud68-review-for-2024/"><u>Delving Into LG's High-End Gaming Screen 27UD68 Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-taskmanager-stays-top-focused/"><u>Ensuring TaskManager Stays Top-Focused</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a25-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A25 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-the-outlook-failed-error-in-windows/"><u>How to Rectify the 'Outlook Failed' Error in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-play-40c-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor Play 40C</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/proposing-a-new-vision-for-windows-11s-taskbar-functionality/"><u>Proposing a New Vision for Windows 11'S Taskbar Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/secrets-to-affordable-windows-10-a-comprehensible-guide/"><u>Secrets to Affordable Windows 10: A Comprehensible Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-healing-defective-windows-registry-entries/"><u>Step-by-Step: Healing Defective Windows Registry Entries</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-evolution-retro-revamped-to-the-era-of-98/"><u>Windows Evolution Retro-Revamped: To the Era of 98</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-at-warhammer-40k-boltgun-fix-pc-stutter-issues/"><u>Winning at Warhammer 40K Boltgun: Fix PC Stutter Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-change-name-in-google-meet-on-laptop-and-mobile-devices/"><u>2024 Approved How to Change Name in Google Meet on Laptop and Mobile Devices?</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-techniques-for-parsing-forenames-and-family-names-efficiently/"><u>Excel Techniques for Parsing Forenames & Family Names Efficiently</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/video-views-to-vault-closure-income-insights-for-youtubers/"><u>From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://win11.techidaily.com/get-ready-microsoft-office-2024-announced-as-a-single-purchase-option/"><u>Get Ready: Microsoft Office 2024 Announced as a Single Purchase Option</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-systematically-generate-a-detailed-inventory-of-windows-login-details-and-personalized-setups/"><u>How To Systematically Generate A Detailed Inventory of Windows Login Details & Personalized Setups</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Phone without PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-and-resolving-looping-errors-a-guide-to-detecting-circular-references-in-excel/"><u>Identifying and Resolving Looping Errors: A Guide to Detecting Circular References in Excel</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S24</u></a></li>
+<li><a href="https://win11.techidaily.com/long-overdue-but-finally-here-the-latest-upgrade-for-microsoft-excels-cloud-version-unveiled/"><u>Long Overdue, but Finally Here: The Latest Upgrade for Microsoft Excel's Cloud Version Unveiled!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-text-setups-in-adobe-after-effects/"><u>Masterful Text Setups in Adobe After Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-management-in-excel-a-guide-to-advanced-sorting-and-filter-options/"><u>Mastering Data Management in Excel: A Guide to Advanced Sorting and Filter Options</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-power-of-ai-thumbnail-generators-for-2024/"><u>New Power of AI Thumbnail Generators for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-planning-mastery-in-cities-skylines-a-captivating-urban-design-game/"><u>Urban Planning Mastery in Cities: Skylines – A Captivating Urban Design Game</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Correcting Windows' Media Tool: Code 0X90017"
-date: 2024-10-30T02:24:04.847Z
-updated: 2024-11-02T04:17:54.082Z
+date: 2024-11-03T22:54:50.780Z
+updated: 2024-11-07T20:31:09.027Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ To run Media Creation Tool as administrator:
 ![run media creation tool as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-media-creation-tool-as-administrator.jpg)
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Unblock the Media Creation Tool
 
  Windows can block suspicious executable files from running to protect your computer. However, it can also block genuine files due to false positives.
@@ -49,15 +56,15 @@ To run Media Creation Tool as administrator:
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Install Any Pending Windows Updates
 
@@ -72,10 +79,17 @@ To update your Windows computer:
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -92,21 +106,14 @@ To run the Windows Update Troubleshooter:
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
 5. The update troubleshooter will initialize diagnostic and scan for issues. If found, it will apply the fix and show a status report. With the Windows Update dialog open, run Media Creation Tool and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
@@ -131,13 +138,6 @@ To run the DISM and System File Checker Tool:
 DISM.exe /Online /Cleanup-image /Restorehealth
 4. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt.jpg)  
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
@@ -175,16 +175,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-igtv-on-instagram-stories/"><u>[New] In 2024, Mastering the Art of IGTV on Instagram Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-cropping-in-the-digital-age/"><u>[Updated] Mastering the Art of Cropping in the Digital Age</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/apple-maps-integration-guide-for-windows-devices/"><u>Apple Maps Integration Guide for Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-woe-of-windows-11-and-geforce-nows-xc0f1103f/"><u>Eliminating the Woe of Windows 11 & GeForce Now’s Xc0f1103f</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-windows-media-player-for-easy-access/"><u>How to Open Windows Media Player for Easy Access</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-streamlining-your-social-video-logs-on-facebook/"><u>In 2024, Streamlining Your Social Video Logs on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-chatgpts-strengths-in-7-health-factors/"><u>Leveraging AI: ChatGPT's Strengths in 7 Health Factors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/maximizing-video-quality-with-zooms-format-tools/"><u>Maximizing Video Quality with Zoom's Format Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-windows-10-black-screen-with-simple-fixes/"><u>Overcome Windows 10 Black Screen with Simple Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-free-note-taking-tricks-for-windows-users/"><u>Quick, Free Note Taking Tricks for Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-privacy-and-security-with-apple-vision-pros-vpn-setup-explained-digital-guardian/"><u>Unlocking Privacy & Security with Apple Vision Pro's VPN Setup Explained | Digital Guardian</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/smr-gurus-recommend-best-microphones-reviewed-for-2024/"><u>[New] ASMR Gurus Recommend Best Microphones Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficient-video-cutting-techniques-to-boost-your-content/"><u>[Updated] In 2024, Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-heart-of-windows-11-home-section/"><u>Navigating the Heart of Windows 11: Home Section</u></a></li>
+<li><a href="https://games-able.techidaily.com/restricting-windows-11-game-bar-surveillance/"><u>Restricting Windows 11 Game Bar Surveillance</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3d-paint-shortcuts-for-professionals/"><u>Top 3D Paint Shortcuts for Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-internet-explorer-not-responding-errors/"><u>Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-offon-registry-editor-on-windows-11/"><u>Turning Off/On Registry Editor on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-steganography-the-practice-of-disguising-data-within-photos/"><u>Visual Steganography: The Practice of Disguising Data Within Photos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/win-7-microphone-troubles-discover-simple-solutions-here/"><u>Win 7 Microphone Troubles? Discover Simple Solutions Here</u></a></li>
 </ul></div>
 

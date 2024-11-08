@@ -1,7 +1,7 @@
 ---
 title: "Turn Back the Clock: Stripping WebP From Your Browser's Saves"
-date: 2024-10-25T18:06:18.596Z
-updated: 2024-11-01T20:22:11.318Z
+date: 2024-11-04T23:04:46.168Z
+updated: 2024-11-07T20:51:47.424Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  The WebP image format was introduced by Google more than a decade ago, and during the last few years, it has become mainstream. The images in this format are smaller and lighter than others, and its superior compressibility has made it quite popular lately. Even though it is smaller, it maintains a high level of quality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does Chrome Save Images as WebP?
 
  According to [Google Developers' documentation](https://developers.google.com/speed/webp), WebP images are more than 25% smaller than other popular image formats. Thus, they are relatively easy to load on the web, which helps web pages load faster. Due to this, most web developers prefer to serve WebP images on their websites to load quickly and boost their search engine rankings.
@@ -61,9 +54,24 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 1. Download the **Save image as Type** extension from the [Chrome web store](https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd/related?hl=en).  
 ![Adding the Save Image as Type Extension from the Chrome Web Store in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Adding-the-Save-Image-as-Type-Extension-from-the-Chrome-Web-Store-in-Chrome.jpg)
 2. Once added, navigate to the image you want to download in a different format than WebP.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Open the context menu by right-clicking on the image, and you'll see a **Save image as Type** option.
 4. To download an image in the desired format, navigate to the **Save image as Type** menu and choose your preferred format.  
 ![Selecting the Preferred Format by Navigating to the Save Image as Type Menu to Download Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2-Selecting-the-Preferred-Format-by-Navigating-to-the-Save-Image-as-Type-Menu-to-Download-Image-in-Chrome.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The extension supports JPEG, WebP, and PNG formats, so you can download any format you wish. If you are not interested in taking that route, follow the next workaround.
 
@@ -76,28 +84,28 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 ![Clicking on the Copy Image Option from the Context Menu by Right-clicking on the Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Copy-Image-Option-from-the-Context-Menu-by-Right-clicking-on-the-Image-in-Chrome.jpg)
 3. Launch the Paint app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press **CTRL + V** to paste the copied image into the Paint app.
 5. On the top-left corner of your screen, click the **File** tab.
 6. To save the image in the desired format, go to the **Save as** menu and choose the desired format.  
 ![Saving the Copied Image in the Desired Format by Clicking on the Save As Menu in Paint App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Saving-the-Copied-Image-in-the-Desired-Format-by-Clicking-on-the-Save-As-Menu-in-Paint-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have already downloaded the images in WebP format, open them in Paint and follow the same steps to convert them.
 
  Although this method doesn't affect image quality in most cases, if quality drops too much for specific images, you should download them in WebP format and then use the Paint app to convert them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use a Web-Based Image Converter
 
@@ -112,21 +120,14 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 5. Click **Start** once the image has been uploaded.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
 
@@ -134,42 +135,24 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can You Open WebP Images on Windows?
 
  Although there is no native way to open WebP images on Windows, as you generally open images in other formats via Windows Photos, there are some workarounds you can use. These workarounds include renaming the file extension, using a third-party app such as ImageGlass, opening them directly in web browsers, or enabling Windows Photo Viewer.
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Save WebP Images in Your Desired Format
 
  Downloading images in the WebP format and not being able to open them with the Windows Photos app can be highly irritating. By following our guide, you should understand why Chrome saves images as WebP and be able to download images in your desired format with the workarounds mentioned.
 
  But what exactly is the WebP format? In this article, we'll explain what this format is, why Chrome saves images in this format, and how you can stop it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creative-reactors-the-10-premier-video-responses/"><u>[New] 2024 Approved Creative Reactors The 10 Premier Video Responses</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-breaking-barriers-innovative-ways-to-hook-your-podcast-audience-for-2024/"><u>[New] Breaking Barriers Innovative Ways to Hook Your Podcast Audience for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[New] Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-windows-odbc-connectivity/"><u>A Comprehensive Guide to Windows' ODBC Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/"><u>Avoid Frustration: Fixing the Missing Print Feature on Windows.</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-wi-fi-connectivity-hurdles-clearing-up-vague-instructions/"><u>Breaking Down Wi-Fi Connectivity Hurdles: Clearing Up Vague Instructions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369512280-ifas-best-laptops-of-2023-now/"><u>IFA's Best Laptops of 2023, Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>In 2024, Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-nubia-red-magic-8s-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Nubia Red Magic 8S Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/1719346431441-navigate-through-common-snip-and-sketch-screen-capture-issues/"><u>Navigate Through Common Snip & Sketch Screen Capture Issues.</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-resolution-for-non-functioning-airdrop-effortless-solutions-explained/"><u>Quick Resolution for Non-Functioning AirDrop: Effortless Solutions Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/1719349600813-troubleshoot-unlock-handbrake-on-widows/"><u>Troubleshoot: Unlock HandBrake on Widows!</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +161,24 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>[New] 2024 Approved Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-smooth-streams-from-obs-to-insta/"><u>[Updated] 2024 Approved Smooth Streams From OBS to Insta</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>[Updated] Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-free-online-video-shrinker-effortless-video-downsizing-tools/"><u>1. Free Online Video Shrinker: Effortless Video Downsizing Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/conceal-non-active-applications-in-win11/"><u>Conceal Non-Active Applications in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/containing-insider-versions-to-trusted-users/"><u>Containing Insider Versions to Trusted Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/drone-titans-the-ultimate-industrial-heavylifters-for-2024/"><u>Drone Titans The Ultimate Industrial Heavylifters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-repair-a-non-functional-windows-search/"><u>How to Quickly Repair a Non-Functional Windows Search</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-access-unlimited-12-stream-livestream-content/"><u>In 2024, Access Unlimited 12-Stream Livestream Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-local-admin-login-turn-off-secure-answers-in-windows-11/"><u>Mastering Local Admin Login: Turn Off Secure Answers in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-password-reset-timeframe-post-failure-in-win-1011/"><u>Modifying Password Reset Timeframe Post-Failure in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-measures-to-escape-windows-login-attempts/"><u>Proactive Measures to Escape Windows Login Attempts</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-off-windows-monochrome-theme-blanket/"><u>Turning Off Windows' Monochrome Theme Blanket</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-companion-navigating-through-different-ipados-releases/"><u>Ultimate Companion: Navigating Through Different iPadOS Releases</u></a></li>
+</ul></div>
+
