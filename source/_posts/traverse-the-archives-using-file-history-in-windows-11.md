@@ -1,7 +1,7 @@
 ---
 title: "Traverse the Archives: Using File History in Windows 11"
-date: 2024-11-06T17:53:27.003Z
-updated: 2024-11-07T22:07:42.918Z
+date: 2024-11-13T23:31:06.329Z
+updated: 2024-11-18T00:59:19.020Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Using the Settings App
 
  The Settings app doesn't have File History as a separate section but can redirect you to its Control Panel page. Repeat the following steps:
@@ -59,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 ![Open File History Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings-app-1.jpg)
 4. The Control Panel window will open with the File History page.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -67,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 2. Type **control /name Microsoft.FileHistory** in the text box and press the **Enter** key.  
 ![Open File History Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-run-dialog-box.jpg)
 3. The File History page will open.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -80,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
@@ -96,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 3. File History will launch on your system. Close the Task Manager
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Using Terminal App
@@ -112,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
 4. Close the Terminal app.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Using a Desktop Shortcut
 
  The fastest method to access any app is by [creating a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/). You can switch to the desktop and launch programs with or without administrator privileges. Repeat the following steps:
@@ -130,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 4. Name the shortcut **File History** and click on the **Finish** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
@@ -144,23 +156,6 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/ease-upgrade-rejections-adobe-windows-tips/"><u>Ease Upgrade Rejections: Adobe Windows Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-phantom-opening-of-microsoft-shop/"><u>Fixing the Phantom Opening of Microsoft Shop</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-break-the-chain-of-interruptions-on-facebook-lives/"><u>In 2024, Break the Chain of Interruptions on Facebook Lives</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 6 Plus?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies/"><u>In 2024, Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies</u></a></li>
-<li><a href="https://win11.techidaily.com/multisystem-harmony-windows-launches-across-iphone-ipad-mac-and-windows/"><u>Multisystem Harmony: Windows Launches Across iPhone, iPad, Mac & Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-and-stylize-crafting-your-own-windows-calendar-vision/"><u>Simplify & Stylize: Crafting Your Own Window's Calendar Vision</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes/"><u>The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210530786-9780645000641-the-colour-medicine-oracle-guidebook/"><u>The Colour Medicine Oracle Guidebook | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-cookiebot-for-advanced-seo-management/"><u>The Power of Cookiebot for Advanced SEO Management</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-tech-determining-devices-birthdate/"><u>Windows Tech: Determining Device's Birthdate</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +163,27 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-windows-and-macos-screen-capture-tools-for-2024/"><u>[New] Expert Windows & macOS Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/osandroid-comparison-youtube-app-explored/"><u>[New] IOS/Android Comparison YouTube App Explored</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comedy-channel-guide-your-best-15-youtube-sources-for-2024/"><u>[Updated] Comedy Channel Guide Your Best 15 YouTube Sources for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-n3-flip-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-in-one-laptop-assessment-studying-working-and-enjoying-life-on-the-hp-chromebook-11/"><u>All-in-One Laptop Assessment: Studying, Working & Enjoying Life on the HP Chromebook 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-clash-with-gpt-vs-online-sheep-best-ai-ranked/"><u>Bards Clash with GPT, vs Online Sheep - Best AI Ranked</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-latest-iphone-12-top-pick-from-apple/"><u>Comprehensive Analysis of the Latest iPhone 12 - Top Pick From Apple</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-battery-alerts-windows-insider-guide/"><u>Enhancing Battery Alerts: Windows Insider Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-smooth-operation-of-file-explorer-on-latest-windows-11/"><u>Ensure Smooth Operation of File Explorer on Latest Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-budget-friendly-recorder-options-1-to-10-free-software-guide/"><u>In 2024, Budget-Friendly Recorder Options #1 to #10 Free Software Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/make-every-device-mobile-ready-with-easy-apk-installs-on-w11/"><u>Make Every Device Mobile-Ready with Easy APK Installs on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/reigning-in-resource-usage-for-superior-android-studio-speed/"><u>Reigning in Resource Usage for Superior Android Studio Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-persistent-windows-update-problems/"><u>Solving the Persistent Windows Update Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-absence-of-network-router-access/"><u>Troubleshooting Absence of Network Router Access</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-android-studios-full-potential-on-windows-pcs/"><u>Unleash Android Studio's Full Potential on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-steams-session-verification-failed-woes/"><u>Unraveling Steam's Session Verification Failed Woes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-here-i-collect-the-top-5-high-definition-video-editing-software-programs-out-there-in-the-market-now-read-on-and-try-them-out-for-2024/"><u>Updated Here I Collect the Top 5 High-Definition Video Editing Software Programs Out There in the Market. Now Read on and Try Them Out for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win-10-driver-failures-how-to-repair-the-dangerous-corruptedexpool-error-effectively/"><u>Win 10 Driver Failures: How to Repair the Dangerous 'CORRUPTED_EXPOOL' Error Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-sound-leveraging-the-volume-mixer-in-action-center/"><u>Windows 11 Sound: Leveraging the Volume Mixer in Action Center</u></a></li>
+</ul></div>
+

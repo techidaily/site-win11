@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of Error 0X800700E9 on Your Xbox Game Pass, Windows 11 Device
-date: 2024-11-05T17:26:37.800Z
-updated: 2024-11-07T16:34:45.991Z
+date: 2024-11-16T01:35:36.661Z
+updated: 2024-11-17T18:30:25.961Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  The Windows 10 troubleshooters are available within the**Update & Security** category of Settings. Click the**Troubleshoot** tab in that category and select**Additional troubleshooters** . Then you can select Windows Store Apps from there and click**Run** to access the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Delivery Optimization On in Settings
 
  Delivery Optimization is a service that enables Windows Update downloads from other PCs. Error 0x800700e9 often arises when Delivery Optimization is disabled in Windows. You can turn on Delivery Optimization via Settings like this:
@@ -49,14 +56,27 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 4. Turn on the**Allow downloads from other PCs** option to enable Delivery Optimization.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Allow downloads from other PCs option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-downloads-from-other-pcs-option.jpg)
 5. Click the**Devices on my local network** radio button.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can enable Delivery Optimization in Windows 10’s Settings app much the same. However, you’ll need to select the**Windows Update** category. Then click the**Deliver Optimization** tab in the**Windows Update** category to access and turn on the same**Allow downloads from other PCs** setting.
 
@@ -74,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![The Delivery Optimization Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-properties-window.jpg)
 7. Select**Apply** \>**OK** to save the service’s new settings.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Repeat steps four to seven for the Background Intelligent Transfer service.
 
  If the services are already running, try restarting them. Right-click the services and select their**Stop** options. Then you can start those services again by right-clicking them and selecting**Restart** .
@@ -95,17 +108,24 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc`  
 ![The DoSvc key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dovsc-key.jpg)
 4. Select the**DoSvc** key, and right-click the**Start** DWORD to select**Modify** .  
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/modify-option.jpg)
 5. Input**3** in the**Value** box and click**OK** .  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-dword-key.jpg)
 6. Exit Regedit, and restart the PC.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset or Repair the Xbox App
 
@@ -114,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Check out our guide on[resetting apps in Windows 11 and 10](https://www.makeuseof.com/windows-reset-app/) to clear the Xbox app’s data. The**Repair** option for the Xbox app in Settings is available just above its**Reset** button.
 
 ![The Reset option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Microsoft Store Cache
 
@@ -126,17 +153,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 4. Wait for MS Store to open automatically, and then try downloading Xbox Game Pass titles again.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
@@ -155,22 +175,15 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![The Network reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Error 0x800700e9 can also sometimes occur because of network issues. Performing a network reset is a good way to troubleshoot issues in this area; however, do note that this will restore your network components to their factory defaults and erase your Wi-Fi and Ethernet connections.
 
  Have a look at our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide for details about how to apply this troubleshooting method.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Your Xbox Game Pass Games Again
 
@@ -191,18 +204,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-insider-strategies-free-access-to-professional-imagery/"><u>[New] Insider Strategies Free Access to Professional Imagery</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-comprehensive-solutions-to-stop-your-discord-from-dropping-sound/"><u>2024 Comprehensive Solutions to Stop Your Discord From Dropping Sound</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-harmonious-mixes-the-audacity-crossfade-method-for-2024/"><u>Crafting Harmonious Mixes The Audacity Crossfade Method for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/al-dynamo-dames-the-next-generation-of-youtubes-powerhouses-for-2024/"><u>Digital Dynamo Dames The Next Generation of YouTube's Powerhouses for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-hidden-menus-finding-missing-configurations-in-win11/"><u>Discover Hidden Menus: Finding Missing Configurations in Win11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-apple-watch-sleep-enhancing-apps/"><u>Discover the Ultimate Selection of Apple Watch Sleep-Enhancing Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-learning-experience-winning-strategies-for-effective-windows-studying/"><u>Elevate Learning Experience: Winning Strategies for Effective Windows Studying</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-server-interaction-with-easy-bot-integration-on-discord/"><u>Elevate Your Server Interaction with Easy Bot Integration on Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/epic-launcher-stability-guide-for-windows/"><u>Epic Launcher Stability Guide for Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-insertar-un-disco-en-google-drive/"><u>Guía Paso a Paso Para Insertar Un Disco en Google Drive</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-vivas-multimedia-potential/"><u>Unlocking Viva's Multimedia Potential</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskmgr-incorporating-command-prompt-toolbar/"><u>Windows 11 TaskMgr: Incorporating Command Prompt Toolbar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-strategies-successful-webcam-and-gaming-recordings/"><u>[New] 2024 Approved Essential Strategies Successful Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-step-by-step-guide-to-uploading-videos-on-youtube/"><u>[New] The Ultimate Step-by-Step Guide to Uploading Videos on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-whimsical-logging-in-and-out-guide-for-2024/"><u>[New] Whimsical Logging in & Out Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-why-highlighted-content-flourishes-on-instagram-stories-for-2024/"><u>[New] Why Highlighted Content Flourishes on Instagram Stories for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-apeaksofts-screen-tech-revolution-2023-review/"><u>[Updated] 2024 Approved Apeaksoft's Screen Tech Revolution 2023 Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-11-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 11 Pro for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-apps-for-webp-images/"><u>Essential Windows Apps for WebP Images</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-complet-transfert-securise-de-fichiers-entre-systemes-dexploitation-windows-versions-11-8-et-7/"><u>Guide Complet : Transfert Sécurisé De Fichiers Entre Systèmes D'Exploitation Windows (Versions 11, 8 Et 7)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-engaging-unboxings-to-skyrocket-like-counts/"><u>In 2024, Crafting Engaging Unboxings to Skyrocket Like Counts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-calendar-personalization-in-windows-outlook/"><u>Mastering Calendar Personalization in Windows Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-taskbar-limitations/"><u>Overcoming Windows 11 Taskbar Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-non-recognized-hardware-problems-win1011/"><u>Remedying Non-Recognized Hardware Problems, Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-among-clumped-windows-symbols/"><u>Restoring Order Among Clumped Windows Symbols</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-preferences-adjusting-windows-11-hardware-controls/"><u>Tailored Preferences: Adjusting Windows 11 Hardware Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-adobe-photoshops-accessibility-on-w11-2023/"><u>Unblocking Adobe Photoshop's Accessibility on W11, 2023</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing System Solutions Access via Custom Keyboard Triggers
-date: 2024-11-03T19:53:21.019Z
-updated: 2024-11-07T16:26:13.656Z
+date: 2024-11-10T19:52:20.964Z
+updated: 2024-11-18T06:16:32.275Z
 tags:
   - windows10
   - windows11
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
 
  You can also set up shortcuts for opening any specific troubleshooters included within the Troubleshooting Control Panel applet. Each troubleshooter there has a pack ID with which you can set up a desktop shortcut for opening it. You can set up a troubleshooter shortcut in such a way via the Create Shortcut wizard with the following command:
@@ -99,15 +92,22 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
@@ -120,32 +120,33 @@ msdt.exe /id AudioPlaybackDiagnostic`
 4. Go into File Explorer (press**Win** +**E** to open), and bring up the directory containing the registry script’s ZIP archive.  
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
 
  The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Some Shortcuts for Accessing Troubleshooters in Windows
 
@@ -166,18 +167,20 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[New] 2024 Approved Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-free-enhancement-tool-for-pics-onlineapp/"><u>[New] Prime Free Enhancement Tool for Pics Online/App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-capture-techniques-for-your-lenovo-screen/"><u>[Updated] Quick Capture Techniques for Your Lenovo Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras/"><u>2024 Approved Camera Connoisseurs' Hits The Best 6 of the Year's 4K Cameras</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>2024 Approved Video Mastery Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-to-windows-alteration-via-hotkeys/"><u>Essential Guide to Windows Alteration via Hotkeys</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-tips-to-update-your-arduinos-usb-driver-on-a-pc-running-windows/"><u>Essential Tips to Update Your Arduino's USB Driver on a PC Running Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/examining-surface-laptop-studio-2-a-near-perfect-toolkit-revealed/"><u>Examining Surface Laptop Studio 2 - A Near-Perfect Toolkit Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-analysis-understanding-and-fixing-critical-ark-system-crashes/"><u>In-Depth Analysis: Understanding and Fixing Critical ARK System Crashes</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mystery-behind-rtx-crashes-in-high-end-gaming-pcs/"><u>Mystery Behind RTX Crashes in High-End Gaming PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-default-energy-settings-on-modern-windows/"><u>Reactivating Default Energy Settings on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/transformative-use-of-windows-tools-in-linux/"><u>Transformative Use of Windows Tools in Linux</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-product-code-retrieval-a-step-by-step-approach/"><u>Windows Product Code Retrieval: A Step-by-Step Approach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-joint-monitor-capture-procedure/"><u>[New] 2024 Approved Joint Monitor Capture Procedure</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-chuckles-and-challenges-best-fun-for-young-minds/"><u>[New] In 2024, Chuckles & Challenges - Best Fun for Young Minds</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/comparing-high-definition-recording-the-key-divergences-between-mts-and-m2ts-on-avchd-devices/"><u>Comparing High-Definition Recording: The Key Divergences Between MTS and M2TS on AVCHD Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-the-installation-hurdle-java-development-kit-in-windows-11/"><u>Conquering the Installation Hurdle: Java Development Kit in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/high-end-smartphone-showdown-comprehensive-review-of-the-samsung-galaxy-s10-premium-edition/"><u>High-End Smartphone Showdown: Comprehensive Review of the Samsung Galaxy S10 Premium Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bring-back-missing-steam-icons-efficiently/"><u>How to Bring Back Missing Steam Icons Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-non-loading-messages-on-discord-client/"><u>How To Fix Non-Loading Messages on Discord Client</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50iplus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X50i+ Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-vivo-s17-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Vivo S17</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-settings-in-windows/"><u>Navigating High DPI Settings in Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/preserve-your-digital-memories-effective-tips-for-leveraging-ntbackup-in-windows-versions-11-8-and-7/"><u>Preserve Your Digital Memories: Effective Tips for Leveraging NTBackup in Windows Versions (11, 8, and 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-non-functional-deskanywhere-on-win11/"><u>Steps to Rectify Non-Functional DeskAnywhere on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-features-managed-by-organization-errors-on-windows-11/"><u>Troubleshooting Features Managed by Organization, Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-code-0xc0000001/"><u>Troubleshooting Windows Error Code 0XC0000001</u></a></li>
 </ul></div>
 

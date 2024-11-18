@@ -1,7 +1,7 @@
 ---
 title: "Mastery at a Click: Top Tips for Win11 Mouse Settings"
-date: 2024-11-03T16:48:57.827Z
-updated: 2024-11-07T18:01:47.782Z
+date: 2024-11-11T23:48:35.946Z
+updated: 2024-11-17T23:07:49.841Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 3. Or, you can type **main.cpl** in the search bar and press **Enter** to open the Control Panel applet.  
 ![Open Mouse Properties Using Start Menu 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-start-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Using the Control Panel
 
  Before the Settings app came into the picture, Control Panel organized all the Windows tools under one shed. So, you can open the Mouse Properties applet using the Control Panel. Here’s how to do it:
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![Open Mouse Properties Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-control-panel.jpg)
 4. The Mouse Properties window will launch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Using Settings App
 
  Windows 11 Settings app slaps a fresh coat of paint on the bland UI of Windows 10 and contains a dedicated section for Mouse customization. It is part of a larger push to move everything to the Settings app and reduce dependency from the Control Panel. Repeat the following steps:
@@ -68,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 3. Scroll down and click on the **Mouse** option.  
 ![Open Mouse Properties Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will only find some mouse settings on this page. The rest of them are clubbed under the Related Settings section which opens the Mouse Properties applet or redirects you to the Display or Accessibility section.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
 
@@ -84,6 +70,20 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 1. Press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **control /name Microsoft.Mouse** in the text box and press the **Enter** key to launch the Mouse Properties applet.  
 ![Open Mouse Properties Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-run-dialog-box.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 5. Double-click on the **main.cpl** file to open Mouse Properties tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
@@ -111,20 +111,15 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 2. Click on the **Run new task** button. Type **control mouse** in the text box and click on the **OK** button.  
 ![Open Mouse Properties Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-mouse-properties-using-task-manager.jpg)
 3. The Mouse Properties window will launch.
-4. Close the Task Manager.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Close the Task Manager.
 
 ## 7\. Using Command Prompt
 
@@ -158,19 +153,19 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 6. Now, type the name of the shortcut. We named it **Mouse Settings**. Click on the **Finish** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You can double-click on the shortcut and adjust mouse settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Using a Keyboard Shortcut
@@ -192,29 +187,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  But it isn’t the only method to open the tool on Windows 11\. We will list out ten ways using which you can launch the tool on your system and calibrate your mouse or trackpad. Let’s begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-gamers-blueprint-for-money-making/"><u>[New] Gamer’s Blueprint for Money-Making</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>[New] In 2024, The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-chromeos-screeen-logging/"><u>[Updated] 2024 Approved Seamless ChromeOS Screeen Logging</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-setting-the-stage-your-first-virtual-boardroom-with-google/"><u>[Updated] Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-pcs-idle-interval/"><u>Configuring PC's Idle Interval</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-to-tackle-high-dpi-screen-issues/"><u>Essential Fixes to Tackle High DPI Screen Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unearth-hidden-keys-for-old-and-new-windows-editions/"><u>How to Unearth Hidden Keys for Old and New Windows Editions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-huawei-nova-y91-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Huawei Nova Y91</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>In 2024, Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-failed-operations-in-win-1011-environments/"><u>Overcoming 'Failed Operations' In Win 10/11 Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-m365-code-30015-26-glitch-on-windows-systems/"><u>Overcoming M365 Code 30015-26 Glitch on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-your-preferences-for-windows-explorer-layout/"><u>Resetting Your Preferences for Window's Explorer Layout</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-issues-with-default-app-settings-on-windows-11/"><u>Resolving Issues with Default App Settings on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolving-mic-issues-with-your-laptop-now-fixed/"><u>Step-by-Step Guide to Resolving Mic Issues with Your Laptop - Now Fixed!</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-conquering-unidentified-obs-studio-errors/"><u>Swift Solution: Conquering Unidentified OBS Studio Errors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-your-youtube-videos-with-customized-text-and-link-embeddings-for-2024/"><u>Tailoring Your YouTube Videos with Customized Text & Link Embeddings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-silent-windows-irq-noise/"><u>Unveiling the Secrets to Silent Windows' IRQ Noise</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-13-ultra-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi 13 Ultra Phones</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Open Hard Reset | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -222,3 +194,27 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovative-insights-for-aspiring-mac-users-a-guide-to-screen-recording/"><u>[Updated] 2024 Approved Innovative Insights for Aspiring Mac Users A Guide to Screen Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-eye-catching-vlog-talk-points-for-2024/"><u>[Updated] Eye-Catching Vlog Talk Points for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-tips-for-non-vid-based-self-education-success/"><u>[Updated] In 2024, Tips for Non-Vid Based Self-Education Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-warrior-spirits-rising-comparable-game-suggestions/"><u>[Updated] In 2024, Warrior Spirits Rising Comparable Game Suggestions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>[Updated] Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1-fix-apple-music-online-player-glitches-top-tips-and-troubleshooting-steps/"><u>1. Fix Apple Music Online Player Glitches: Top Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-timekeeping-for-your-nuptials-appleandroid-selection/"><u>2024 Approved Premium Timekeeping For Your Nuptials Apple/Android Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-printer-removal-methods-in-windows-11-os/"><u>Efficient Printer Removal Methods in Windows 11 OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emergency-rescue-techniques-for-a-wet-iphone-or-ipod/"><u>Emergency Rescue Techniques for a Wet iPhone or iPod</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-reaching-protected-windowsapps-location/"><u>Masterclass on Reaching Protected WindowsApps Location</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-quick-access-routine-add-onedrive-as-first-step/"><u>Mastering the Quick Access Routine: Add OneDrive as First Step</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11-and-geforce-nows-error-code-xc0f1103f/"><u>Navigating Through Windows 11 & GeForce Now’s Error Code Xc0f1103f</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-windows-without-bitlocker-4-workarounds/"><u>Secure Windows Without BitLocker: 4 Workarounds</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-task-execution-failure-error-0x8007000f/"><u>Strategies to Fix Task Execution Failure (Error 0X8007000f)</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-maintain-windows-time-settings/"><u>Strategies to Maintain Windows Time Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-addressing-error-0x0000004e-on-windows-systems/"><u>Swiftly Addressing Error 0X0000004E on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-onoff-windows-energy-efficient-settings/"><u>Switching On/Off Windows' Energy Efficient Settings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/what-sets-final-cut-pro-apart-from-final-cut-express-for-2024/"><u>What Sets Final Cut Pro Apart From Final Cut Express for 2024</u></a></li>
+</ul></div>
+

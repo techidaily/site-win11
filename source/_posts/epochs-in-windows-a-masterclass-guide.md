@@ -1,7 +1,7 @@
 ---
 title: "Epochs in Windows: A Masterclass Guide"
-date: 2024-11-06T17:45:00.807Z
-updated: 2024-11-07T19:10:42.729Z
+date: 2024-11-13T02:00:41.340Z
+updated: 2024-11-17T18:19:25.117Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  While this is not a tamper-proof mechanism, in most cases, the warranty details are sufficient to determine the age and value of a Windows laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check the Serial Number Using the Command Prompt
@@ -65,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -98,13 +98,6 @@ systeminfo.exe
 
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
 
  To view the Original install date, open Command Prompt and type the following command. Press Enter to continue.
@@ -112,6 +105,13 @@ systeminfo.exe
 systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check Your CPU Details
 
@@ -121,22 +121,15 @@ systeminfo | find /I "install date"
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
@@ -148,6 +141,19 @@ systeminfo | find /I "install date"
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -170,18 +176,24 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-for-students-discover-the-top-10-historical-youtube-channels-now-for-2024/"><u>[New] For Students, Discover the Top 10 Historical YouTube Channels Now for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>[Updated] 2024 Approved Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-5-gif-to-video-converters-online-no-need-to-download/"><u>[Updated] Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/descubre-las-mejores-tecnicas-gratis-para-comprimir-videos-en-formato-mkv-sin-perder-calidad-los-5-metodos-esenciales/"><u>Descubre Las Mejores Técnicas Gratis Para Comprimir Vídeos en Formato MKV Sin Perder Calidad: Los 5 Métodos Esenciales</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-search-bar-in-the-windows-11-settings-app-not-working/"><u>How to Fix the Search Bar in the Windows 11 Settings App Not Working</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-low-tide-the-guide-to-relaxation-on-windows/"><u>Navigating Low Tide: The Guide to Relaxation on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-free-downloads-for-easycap-drives/"><u>Quick Access: Free Downloads for EasyCAP Drives</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-the-favorite-photo-viewer-functionality-in-windows-11/"><u>Reactivating the Favorite Photo Viewer Functionality in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-user-profile-errors-in-windows-10-and-11/"><u>Rectifying User Profile Errors in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-strategy-for-swift-folder-setup-in-win11/"><u>Step-by-Step Strategy for Swift Folder Setup in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-tasks-to-enhance-pc-functionality/"><u>Streamlining Tasks to Enhance PC Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-pick-unlimited-valorant-sound-transformation-tool-free/"><u>Top Pick Unlimited Valorant Sound Transformation Tool (Free)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>[New] In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>[New] Versatile Online Creations Simple and Inclusive Ideas for Your First Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-entry-level-manual-for-effective-channel-creation/"><u>2024 Approved Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-folder-navigation-in-windows-11-integrating-new-commands/"><u>Elevate Your Folder Navigation in Windows 11 - Integrating New Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-giants-in-technology-llama-3-versus-gpt-4-who-will-prevail/"><u>Evaluating Giants in Technology: Llama 3 Versus GPT-4, Who Will Prevail?</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-a-script-error-in-windows-try-these-fixes/"><u>Getting a Script Error in Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-endless-edge-operation-on-windows-11/"><u>How to Handle Endless Edge Operation on Windows 11?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-poco-x5-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Poco X5 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-narzo-60-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme Narzo 60 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-prime-choice-best-microphone-for-youtubers/"><u>In 2024, Prime Choice Best Microphone for YouTubers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-ultimate-highlight-hits-ios-and-android-instagram-covers-apps/"><u>In 2024, Ultimate Highlight Hits IOS & Android Instagram Covers Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/is-disabling-yourphoneexe-a-good-idea-for-windows-home/"><u>Is Disabling YourPhoneExe a Good Idea for Windows Home?</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-repairing-non-working-windows-alt-keys/"><u>Methods for Repairing Non-Working Windows ALT Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-halt-indefinite-tab-generation-in-google-chrome/"><u>Methods to Halt Indefinite Tab Generation in Google Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-disks-effortlessly-mastery-of-4-steps-to-windows-disk-management-in-win11/"><u>Navigating Disks Effortlessly: Mastery of 4 Steps to Windows Disk Management in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-unresponsive-windows-software-woes/"><u>Navigating Through Unresponsive Windows Software Woes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstate-silenced-bluetooth-back-in-control-panel/"><u>Reinstate: Silenced Bluetooth, Back in Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/surge-into-success-7-key-methods-for-enhanced-windows-11-use/"><u>Surge Into Success: 7 Key Methods for Enhanced Windows 11 Use</u></a></li>
 </ul></div>
 

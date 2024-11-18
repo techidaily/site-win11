@@ -1,7 +1,7 @@
 ---
 title: "Solving the 0X800700E9 Error: Xbox Live Troubleshooting Guide"
-date: 2024-11-05T19:26:18.789Z
-updated: 2024-11-07T17:35:39.927Z
+date: 2024-11-11T20:41:55.020Z
+updated: 2024-11-17T20:24:35.333Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  The Windows 10 troubleshooters are available within the**Update & Security** category of Settings. Click the**Troubleshoot** tab in that category and select**Additional troubleshooters** . Then you can select Windows Store Apps from there and click**Run** to access the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn Delivery Optimization On in Settings
 
  Delivery Optimization is a service that enables Windows Update downloads from other PCs. Error 0x800700e9 often arises when Delivery Optimization is disabled in Windows. You can turn on Delivery Optimization via Settings like this:
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 5. Click the**Devices on my local network** radio button.
 
  You can enable Delivery Optimization in Windows 10’s Settings app much the same. However, you’ll need to select the**Windows Update** category. Then click the**Deliver Optimization** tab in the**Windows Update** category to access and turn on the same**Allow downloads from other PCs** setting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable the Delivery Optimization and BITS Services
 
@@ -80,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 ![The Delivery Optimization Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-properties-window.jpg)
 7. Select**Apply** \>**OK** to save the service’s new settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Repeat steps four to seven for the Background Intelligent Transfer service.
 
  If the services are already running, try restarting them. Right-click the services and select their**Stop** options. Then you can start those services again by right-clicking them and selecting**Restart** .
@@ -101,16 +80,24 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc`  
 ![The DoSvc key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dovsc-key.jpg)
 4. Select the**DoSvc** key, and right-click the**Start** DWORD to select**Modify** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/modify-option.jpg)
 5. Input**3** in the**Value** box and click**OK** .  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-dword-key.jpg)
 6. Exit Regedit, and restart the PC.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset or Repair the Xbox App
@@ -120,6 +107,20 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  Check out our guide on[resetting apps in Windows 11 and 10](https://www.makeuseof.com/windows-reset-app/) to clear the Xbox app’s data. The**Repair** option for the Xbox app in Settings is available just above its**Reset** button.
 
 ![The Reset option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Microsoft Store Cache
 
@@ -132,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 4. Wait for MS Store to open automatically, and then try downloading Xbox Game Pass titles again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
@@ -150,22 +151,22 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 4. Wait for the command to finish, and then exit the command app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
 
 ![The Network reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Error 0x800700e9 can also sometimes occur because of network issues. Performing a network reset is a good way to troubleshoot issues in this area; however, do note that this will restore your network components to their factory defaults and erase your Wi-Fi and Ethernet connections.
 
@@ -190,22 +191,22 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-new-era-of-business-with-vr-integration-for-2024/"><u>[New] A New Era of Business with VR Integration for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expert-tips-on-producing-high-quality-facebook-video/"><u>[New] In 2024, Expert Tips on Producing High-Quality Facebook Video</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audio-editing-wonders-for-youtube-filmmakers/"><u>[Updated] In 2024, Audio Editing Wonders for YouTube Filmmakers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-v30-lite-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo V30 Lite 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/fast-track-your-icloud-backups-expert-techniques-to-accelerate-the-process/"><u>Fast-Track Your iCloud Backups: Expert Techniques to Accelerate the Process!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-cure-the-access-denied-on-nvidia-control-panel-in-windows/"><u>How to Cure the Access Denied on Nvidia Control Panel in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/ifa-2023s-top-laptops-showcase/"><u>IFA 2023'S Top Laptops Showcase</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-storm-watch-applications-of-2024-find-your-perfect-match/"><u>Leading Storm Watch Applications of 2024: Find Your Perfect Match</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-task-management-with-windows-11s-search-functionality/"><u>Mastering Task Management with Windows 11’S Search Functionality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-frame-rates-effective-strategies-to-enhance-fps-in-the-game-rust/"><u>Maximizing Frame Rates: Effective Strategies to Enhance FPS in the Game 'Rust'</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras-for-2024/"><u>Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-admin-controlled-settings-errors-for-a-smooth-windows-11-experience/"><u>Rectify Admin-Controlled Settings Errors for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-access-10-ways-to-open-mouse-properties-in-win11/"><u>Simplified Access: 10 Ways to Open Mouse Properties in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-windows-11-remove-unused-wi-fi/"><u>Simplify Windows 11: Remove Unused Wi-Fi</u></a></li>
-<li><a href="https://win11.techidaily.com/the-silent-cycle-windows-11s-halt-procedure/"><u>The Silent Cycle: Windows 11'S Halt Procedure</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-to-fix-microsoft-stores-0x800704cf-issue/"><u>Troubleshooting Steps to Fix Microsoft Store's 0X800704CF Issue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webm-perevod-v-mp4-effektivnye-metody-konvertacii-dlya-videofajlov/"><u>WebM Перевод В MP4: Эффективные Методы Конвертации Для Видеофайлов</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-localizing-your-content-adding-subtitles-to-igtv/"><u>[New] In 2024, Localizing Your Content Adding Subtitles to IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>[New] Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-hero-series-advance-from-4-to-5/"><u>[Updated] In 2024, The Hero Series Advance From 4 to 5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-eco-friendly-film-tech-for-2024/"><u>[Updated] Top Eco-Friendly Film Tech for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-dimensions-understanding-ar-mr-and-vr/"><u>2024 Approved Interactive Dimensions Understanding AR, MR & VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pc-hdr-optimization-made-simple/"><u>2024 Approved PC HDR Optimization Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/from-ordinary-to-extraordinary-crafting-winning-slideshows-and-perfecting-images-in-win11-photos-app/"><u>From Ordinary to Extraordinary: Crafting Winning Slideshows & Perfecting Images in Win11 Photos App</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-printer-work-again-on-pc/"><u>How to Make Your Printer Work Again on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-from-project-board-to-public-display-imovie-on-youtube/"><u>In 2024, From Project Board to Public Display IMovie on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-converting-mkv-videos-to-mp4-in-windows/"><u>Mastering the Art of Converting MKV Videos to MP4 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-tools-for-data-handling-mastering-archive-creation-on-pc/"><u>Powerful Tools for Data Handling: Mastering Archive Creation on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-microsoft-store-failure-code-x800704cf/"><u>Rectifying Microsoft Store Failure Code X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-legacy-computers-with-the-latest-microsoft-os/"><u>Reviving Legacy Computers with the Latest Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-windows-11-widgets-for-productivity/"><u>The 7 Best Windows 11 Widgets for Productivity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-cant-i-answer-calls-fixing-communication-issues-with-samsung-galaxy-watch/"><u>Why Can't I Answer Calls? Fixing Communication Issues with Samsung Galaxy Watch</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-admin-launching-cmd-with-elevated-privileges/"><u>Windows Admin: Launching CMD with Elevated Privileges</u></a></li>
 </ul></div>
 

@@ -1,0 +1,180 @@
+---
+title: How to Choose a Browser That Uses Less RAM & CPU Across Operating Systems?
+date: 2024-11-13T04:01:04.487Z
+updated: 2024-11-18T09:57:35.554Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Choose a Browser That Uses Less RAM & CPU Across Operating Systems?
+excerpt: This Article Describes How to Choose a Browser That Uses Less RAM & CPU Across Operating Systems?
+keywords: Low-RAM Browsers,Efficient Browsing,Energy-Saving Browsers,Cross-OS Browser Selection,RAM/CPU Minimizing Tools,Operating Systems Compatibility,Optimal Browsing Performance
+thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f2a9c36b863ed5899c4ce463.jpg
+---
+
+## How to Choose a Browser That Uses Less RAM & CPU Across Operating Systems?
+
+ Do your device's RAM and CPU resources remain over-stressed by the browser you use, which adversely affects the overall performance of your device? One way to address this issue is to upgrade your hardware, but that's not always a viable solution. The other option is to opt for a browser that uses fewer resources.
+
+ In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How Will the Test Be Conducted?
+
+ For easier comparison, we will run the same processes on all browsers and keep them consistent across all devices. A YouTube video, WhatsApp Web, a Reddit video, and a blog-based website will be the processes we will run on each browser.
+
+ We'll use a new profile or guest mode on each browser to eliminate resource consumption by extensions and other browser processes. We will not run any other resource-intensive processes on our device when the test is in progress to avoid their impact. Also, the hardware acceleration will remain disabled.
+
+ Nonetheless, since multiple factors contribute to a browser's resource consumption, the strain a browser puts on devices with the same operating system may differ.
+
+ For example, a browser using more RAM on a Windows device from a specific manufacturer might use less RAM on a device with more efficient RAM. To provide a baseline, we will list the specifications of the devices used in the test.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Which Browser Uses the Least Memory and CPU Resources on a Windows Device?
+
+ For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
+
+![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
+
+| Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
+| --------------- | --------------- | ---------------------- |
+| Microsoft Edge  | 825-900         | 3-7                    |
+| Opera           | 850-950         | 12-34                  |
+| Mozilla Firefox | 950-1000        | 5-11                   |
+| Google Chrome   | 900-1000        | 7-25                   |
+
+ Microsoft Edge consumes the least CPU resources compared to other browsers, and Opera is the most processor-intensive browser on Windows. Moreover, even though all browsers consume nearly the same amount of RAM, Edge and Firefox's RAM consumption fluctuates the least, whereas Opera and Chrome's fluctuate more.
+
+**Verdict:** Based on the above results, Windows users should opt for Edge if they want to put the least burden on their CPU. For low memory consumption, you can either use Firefox or Edge. Nonetheless, since Firefox stresses your CPU a bit more, it's best to use Microsoft Edge on a Windows device.
+
+ If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
+
+## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
+
+ For [the Chromebook operating system, ChromeOS](https://www.makeuseof.com/what-is-chrome-os/), we will analyze the resource consumption of Opera, Firefox, and Chrome. Microsoft Edge is not available by default, so we'll exclude this browser. The following image shows the specifications of the Chromebook we are running this test on:
+
+![Lenovo Yoga N23 Chromebook Specifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lenovo-yoga-n23-chromebook-specifications.jpg)
+
+ After running the same processes on ChromeOS as we did on Windows, here's the breakdown of resources consumed by different browsers:
+
+| Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
+| --------------- | --------------- | ---------------------- |
+| Opera           | 700             | 17-30                  |
+| Mozilla Firefox | \-              | 100                    |
+| Google Chrome   | 550             | 7-35                   |
+
+ Firefox has become unresponsive even after running only one YouTube video and reached 100% CPU usage, almost causing the Chromebook to crash. Therefore, you should avoid Firefox on a Chromebook.
+
+ Opera consumes slightly fewer CPU resources, while Chrome strains it more. Opera, on the other hand, consumes more memory than Chrome.
+
+**Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
+
+## Which Browser Consumes the Least RAM and CPU on macOS?
+
+ For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
+
+![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
+
+ Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
+
+| Browser Name    | RAM Usage (MBs) | CPU Usage (Percentage) |
+| --------------- | --------------- | ---------------------- |
+| Safari          | 79.1            | 4.28 - 7.77            |
+| Opera           | 169.9           | 8.29 - 16.06           |
+| Mozilla Firefox | 432.5           | 6.67 - 11.0            |
+| Google Chrome   | 130.0           | 5.55 - 8.33            |
+
+ Safari outperforms all other browsers in terms of less strain on the hardware. Given that it is an Apple product, one would expect it to perform more efficiently than other browsers.
+
+**Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
+
+## What About Using Less Popular Browsers?
+
+ Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
+
+ Browsers such as Brave, DuckDuckGo, and Vivaldi consume a minimum number of resources yet offer nearly the same features as mainstream browsers. Thus, you can use a less popular browser if you find it less resource-intensive.
+
+ But how can you test which browser consumes the least resources, aside from those we have already tested?
+
+## How to Test Other Browsers' Resource Consumption Yourself
+
+ To check how much strain any browser puts on your device's hardware, follow these steps:
+
+1. Close all running processes on your device.
+2. Open the relevant resource monitoring app on your device: Task Manager in Windows, [Activity Monitor in macOS](https://www.makeuseof.com/tag/activity-monitor-mac-equivalent-ctrlaltdelete/), and Diagnostics in ChromeOS.
+3. Launch the browser you wish to test the resource consumption of and run a few processes on it.
+4. Observe how many resources your browser consumes in the monitoring app.  
+![Resources Consumption of Brave Browser in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resources-consumption-of-brave-browser-in-task-manager-on-windows.jpg)
+5. To compare this browser's resource consumption with others, run the same processes on other browsers and compare their results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Use the Most Efficient Browser
+
+ Browsers consume the most resources and hinder our user experience the most. Hopefully, our evaluations comparing the resources consumed by different browsers will help you choose the right one for your device. Furthermore, if the less popular browser consumes fewer resources on your device, you might be better off using it.
+
+ Make sure you optimize your browser fully, regardless of which one you choose. An optimized browser can perform better than one set to its default settings.
+
+ In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-future-of-techno-gaming-revenue/"><u>[New] 2024 Approved Future of Techno-Gaming Revenue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-mystery-of-storing-instagram-videos-pc-and-mac-users-guide/"><u>[New] Unlocking the Mystery of Storing Instagram Videos (PC & Mac Users Guide)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-whatsapp-call-data-a-compreayers-guide-for-2024/"><u>[Updated] Capturing WhatsApp Call Data A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 6</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-blackout-getting-out-of-dark-mode/"><u>Bypassing The Blackout: Getting Out Of Dark Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-driver-updates-for-nvidia-rtx-2070-super-on-windows-11/"><u>Download and Install Latest Driver Updates for Nvidia RTX 2070 Super on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/freedom-of-expression-say-no-to-facebook-tagged-photos/"><u>Freedom of Expression: Say No to Facebook Tagged Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-11r-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus 11R Through Google Earth?</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-imessage-for-windows-expert-techniques-revealed/"><u>Leveraging iMessage for Windows: Expert Techniques Revealed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/livetv-and-facebook-integrating-fb-livestreams-for-2024/"><u>LiveTV and Facebook Integrating FB Livestreams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/perfecting-your-youtube-experience-stop-previews/"><u>Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-pc-saving-spotlight-pictures-as-wallpapers/"><u>Personalizing Your PC: Saving Spotlight Pictures as Wallpapers</u></a></li>
+<li><a href="https://win11.techidaily.com/power-buttons-ahead-crafting-shortcuts-on-windows-11/"><u>Power Buttons Ahead: Crafting Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-enter-key-capabilities-in-win-os/"><u>Regaining Full Enter Key Capabilities in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-note-savvy-in-the-world-of-windows-11/"><u>Sticky Note Savvy in the World of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secret-of-your-computers-ram-type/"><u>Unlocking the Secret of Your Computer's RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-error-0x80300024-problems/"><u>Unraveling Windows' Error 0X80300024 Problems</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

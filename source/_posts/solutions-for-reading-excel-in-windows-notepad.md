@@ -1,7 +1,7 @@
 ---
 title: Solutions for Reading Excel in Windows Notepad
-date: 2024-11-06T00:09:54.457Z
-updated: 2024-11-07T23:14:38.605Z
+date: 2024-11-16T17:58:05.571Z
+updated: 2024-11-17T22:08:37.009Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Default Settings for File Types
 
  When you double-click on a file in Windows, the system knows which application to use to open it. By default, Excel files are configured to be opened with Excel. In some cases where these configurations have been changed, these files might open in Notepad instead.
@@ -51,17 +58,17 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
 
@@ -84,22 +91,15 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
 4. Press **Enter** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click **Yes** in the User Account Control prompt to proceed.
 
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use an Excel Repair Tool (if Applicable)
@@ -117,10 +117,16 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open and Use Excel Files Properly on Windows
@@ -131,23 +137,6 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-chat-to-tune-downloader-for-fb/"><u>[New] Chat to Tune Downloader for FB</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elite-10-volume-augmenters-for-all-os/"><u>[Updated] Elite 10 Volume Augmenters for All OS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-fb-sounds-unlimited-grab-and-go/"><u>[Updated] FB Sounds Unlimited Grab & Go</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ultimate-guide-to-choosing-a-top-tier-gif-maker/"><u>[Updated] In 2024, Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinterest-video-extraction-top-5-free-tools-ranked/"><u>2024 Approved Pinterest Video Extraction Top 5 Free Tools Ranked</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/can-you-afford-to-exclude-itop-from-your-setup/"><u>Can You Afford to Exclude ITop From Your Setup?</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-a-disconnected-printer-on-windows-systems/"><u>Fixing a Disconnected Printer on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/gaming-without-sweating-steps-to-keep-laptop-temperatures-low/"><u>Gaming without Sweating: Steps to Keep Laptop Temperatures Low</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-discords-fatal-javascript-issue-on-windows-11-and-11-elite/"><u>How to Correct Discord's Fatal Javascript Issue on Windows 11 & 11 Elite</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-find-x7-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Find X7</u></a></li>
-<li><a href="https://win11.techidaily.com/making-outdated-pcs-senior-safe-and-comfortable/"><u>Making Outdated PCs Senior-Safe and Comfortable</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-to-resolve-windows-operating-system-issue/"><u>Master Plan to Resolve Windows Operating System Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-restart-and-rejuvenate-freezing-spotify-in-windows-11/"><u>Techniques to Restart and Rejuvenate Freezing Spotify in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -155,3 +144,17 @@ thumbnail: https://thmb.techidaily.com/827b872e4173df13065942890d154daad888484fd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-charging-up-your-video-empire/"><u>[Updated] The Ultimate Guide to Charging Up Your Video Empire</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-0xc000003e-exception-in-pc-startup-procedure/"><u>Decoding the 0XC000003E Exception in PC Startup Procedure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y100-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y100 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-microsoft-store-applications-with-ease/"><u>Resurrect Microsoft Store Applications with Ease</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364377-9798869396860-spellbound-mastering-modern-satanism-witchcraft-rituals-explore-the-depths-of-occult-practices-with-this-comprehensive-guide-to-modern-rituals-and-spells-in-sat/"><u>Spellbound: Mastering Modern Satanism & Witchcraft Rituals - Explore the depths of occult practices with this comprehensive guide to modern rituals and spells in Satanism and witchcraft | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-to-subscription-the-youtube-partner-program-route/"><u>Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-pcs-issue-with-non-opening-battlenet/"><u>Troubleshooting: Win PC's Issue with Non-Opening Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hazards-of-keygen-virus-and-how-to-protect-your-systems/"><u>Unveiling the Hazards of Keygen Virus & How to Protect Your Systems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Workarounds for Managing Setup Service on Windows
-date: 2024-11-06T17:46:37.201Z
-updated: 2024-11-07T20:58:59.199Z
+date: 2024-11-14T04:20:41.586Z
+updated: 2024-11-17T22:57:30.541Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
  If you ever need to re-enable the service, follow the same procedure and click**Start** in the Service status section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use Local Group Policy Editor
@@ -64,23 +64,16 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 4. In the window that opens, select**Enabled** in the radio box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Under Options, click the drop-down menu and select**Always** .
 6. Then click**Apply** and**OK** to save changes.
 
  That's all there is to it. The Windows Installer service will now be disabled on your system. To re-enable it, simply follow the same steps, but set "Turn off Windows Installer" to**Not Configured** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Registry Editor
 
@@ -95,13 +88,20 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 4. In the right panel, double-click on**Start** and change its value from**2** to**4** .  
 ![Disable Windows Installer Service Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-installer-service-using-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you put the Value data, make sure the Base is set to**Hexadecimal** , then click**OK** . Now close the registry editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Turning Off the Windows Installer Service Made Easy
@@ -123,22 +123,18 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-blueprint-for-youtube-income-generation/"><u>[New] The Blueprint for YouTube Income Generation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-audience-organically-tactics-that-deliver-views/"><u>[Updated] In 2024, Building Audience Organically Tactics That Deliver Views</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-90-lite-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 90 Lite Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-premier-tools-for-fast-fixing-vid-for-2024/"><u>Android's Premier Tools for Fast-Fixing Vid for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209557409-9781578597017-celebrity-ghosts-and-notorious-hauntings/"><u>Celebrity Ghosts and Notorious Hauntings | Free Book</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/easy-steps-to-enhance-performance-with-a-new-graphics-card-installation/"><u>Easy Steps to Enhance Performance with a New Graphics Card Installation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722955271127-graduate-studies-focus-on-advanced-analysis-prediction-and-optimization-techniques/"><u>Graduate Studies Focus on Advanced Analysis, Prediction, and Optimization Techniques.</u></a></li>
-<li><a href="https://win11.techidaily.com/halting-unsolicited-windows-check-ups/"><u>Halting Unsolicited Windows Check-Ups</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-system-visibility-add-file-space-explorer-to-windows-menu/"><u>Improve System Visibility: Add File Space Explorer to Window's Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-task-management-on-windows-os/"><u>Mastering Task Management on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-name-files-effortlessly-with-powertoys/"><u>Navigate and Name Files Effortlessly With PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-sleep-settings-for-windows-pcs/"><u>Optimal Sleep Settings for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/pivotal-points-for-a-fresh-windows-installation-experience/"><u>Pivotal Points for a Fresh Windows Installation Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-safe-download-zones-for-windows-users/"><u>Top 10 Safe Download Zones for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-concepts-behind-ray-tracing/"><u>Unveiling the Concepts Behind Ray Tracing</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-system-power-metrics-and-management-guide/"><u>Windows System Power Metrics and Management Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[New] Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revelation-of-effortless-background-elimination-in-photopea/"><u>[New] Revelation of Effortless Background Elimination in Photopea</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-the-shift-in-strategy-on-the-latest-release-the-simplified-samsung-galaxy-s21-overview/"><u>Decoding the Shift in Strategy on the Latest Release: The Simplified Samsung Galaxy S21 Overview</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-whats-inside-the-cutting-edge-apple-iphone-15-pro-exclusive-look/"><u>Discover What's Inside the Cutting-Edge Apple iPhone 15 Pro - Exclusive Look!</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-hyper-v-in-windows-11-pro/"><u>Guide to Turn Off Hyper-V in Windows 11 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s23-fe-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instructions-for-deactivating-sound-quality-boosting-functions-on-windows-10/"><u>Instructions for Deactivating Sound Quality Boosting Functions on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-pro-keyboard-malfunction-heres-how-to-fix-it/"><u>MacBook Pro Keyboard Malfunction? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-screens-shine-on-windows-with-best-brightness-apps/"><u>Streamline Your Screens' Shine on Windows With Best Brightness Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2211570-9780007483327-sun-sign-moon-sign-discover-the-personality-secrets-of-the-144-sun-moon-combinations/"><u>Sun Sign, Moon Sign: Discover the personality secrets of the 144 sun-moon combinations | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-threats-a-user-guide-to-pc-security/"><u>Unveiling Hidden Threats: A User Guide to PC Security</u></a></li>
+<li><a href="https://win11.techidaily.com/why-steer-clear-of-bots-in-your-window-11-security-measures/"><u>Why Steer Clear of Bots in Your Window 11 Security Measures?</u></a></li>
 </ul></div>
 

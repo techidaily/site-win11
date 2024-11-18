@@ -1,7 +1,7 @@
 ---
 title: "Enabling Telnet: Three Steps for Win 10/11"
-date: 2024-11-03T22:29:53.050Z
-updated: 2024-11-07T21:50:09.390Z
+date: 2024-11-10T18:11:07.518Z
+updated: 2024-11-17T16:27:52.956Z
 tags:
   - windows10
   - windows11
@@ -46,16 +46,16 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use the Enable-WindowsOptionalFeature cmdlet to enable Telnet Client using Windows PowerShell. Useful if you are unable to turn on the feature using the Windows Features dialog and it is also faster than the GUI method.
 
@@ -71,21 +71,34 @@ To enable Telnet using Windows PowerShell:
 6. Close PowerShell and restart your PC.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -105,13 +118,6 @@ Follow these steps to install Telnet using Command Prompt:
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
 
 1. Launch Command Prompt as administrator (see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for in-depth steps).
@@ -119,10 +125,10 @@ Follow these steps to install Telnet using Command Prompt:
 3. A new CMD with Microsoft Telnet will open.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
@@ -146,19 +152,18 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[Updated] In 2024, Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/a-comprehensive-approach-to-live-video-on-websites-for-2024/"><u>A Comprehensive Approach to Live Video on Websites for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cambia-archivos-asf-a-formatos-compatibles-sin-coste-guia-de-conversion-gratuita-con-movavi/"><u>Cambia Archivos ASF a Formatos Compatibles Sin Coste - Guía De Conversión Gratuita Con Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-apple-iphone-12-pro-max-assessment-when-size-matters/"><u>Comprehensive Apple iPhone 12 Pro Max Assessment: When Size Matters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-the-ideal-whatsapp-ringtone-ios-and-android-guide/"><u>Crafting the Ideal WhatsApp Ringtone - iOS & Android Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-0x80d03801-glitches-on-microsoft-store/"><u>Eliminating 0X80D03801 Glitches on Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-update-error-0x800736cc-instantly/"><u>Eliminating Windows Update Error 0X800736CC Instantly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-15-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 15 Pro Max Apple ID on MacBook</u></a></li>
-<li><a href="https://win11.techidaily.com/rearrange-onedrive-on-win-11-easy-guide/"><u>Rearrange OneDrive on Win 11 – Easy Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-win11s-dns-cache-a-comprehensive-guide/"><u>Resetting Win11's DNS Cache: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-workspace-windows-11-widget-techniques/"><u>Revamp Your Workspace: Windows 11 Widget Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-walkthrough-for-accessing-components-in-w11/"><u>The Complete Walkthrough for Accessing Components in W11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wmvmp3-movavi/"><u>제공된 온라인 WMV/MP3 크리에이션 - Movavi의 무료 기회</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-a-strong-foundation-for-advertising-deals-using-famebit-methods/"><u>[New] 2024 Approved Building a Strong Foundation for Advertising Deals Using FameBit Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uncharted-territory-in-facebooks-meme-landscape/"><u>[New] Uncharted Territory in Facebook's Meme Landscape</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>[Updated] Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-subtle-sound-reduction-tactics-with-garageband/"><u>2024 Approved Subtle Sound Reduction Tactics with Garageband</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4a-mkv-movavi/"><u>免費線上服務：改變 M4A 成功 MKV - 使用 Movavi 音訊編解碼器</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-11-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 11 & 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-most-effective-9-microphone-capture-tools-online-2e/"><u>In 2024, The Most Effective 9 Microphone Capture Tools Online (2E)</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-ways-to-erase-taskview-on-bar/"><u>Innovative Ways to Erase TaskView on Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-restrictions-for-hidden-software/"><u>Overcoming Windows Restrictions for Hidden Software</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-setup-woes-ms-pc-manager-fix/"><u>Resolve Setup Woes: MS PC Manager Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-blackout-glitches-in-windows-remote-services/"><u>Unveiling Blackout Glitches in Windows Remote Services</u></a></li>
+<li><a href="https://win11.techidaily.com/why-and-how-to-flip-your-windows-display-angle-by-90-degrees/"><u>Why and How to Flip Your Windows Display Angle by 90 Degrees</u></a></li>
 </ul></div>
 

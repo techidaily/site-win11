@@ -1,7 +1,7 @@
 ---
 title: Masterclass on Reaching Protected WindowsApps Location
-date: 2024-11-03T18:55:15.891Z
-updated: 2024-11-07T23:28:05.850Z
+date: 2024-11-16T00:53:34.040Z
+updated: 2024-11-18T04:39:08.489Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1\. How to Access WindowsApps via File Explorer
 
  You can easily find the WindowsApps folder in the Windows File Explorer by unhiding the respective folder first. However, to access the folder and make changes to the files—you need to gain some extra rights by changing the ownership.
@@ -50,19 +57,27 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 1. Open the Windows File Explorer (**Win + E**) and go to the **C:\\Program Files** directory.  
 ![Program Files Directory In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Program-Files-Directory-In-Explorer.jpg)
 2. Now, click the **View** options button at the top of the File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change Ownership Properties to Get Access
 
@@ -74,39 +89,33 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 2. Once the context menu appears, select **Properties** from the list. You can also use a quick shortcut to open the folder properties, i.e., **Alt + Enter**.  
 ![WindowsApps Properties Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Properties-Option.jpg)
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
@@ -132,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
 
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
@@ -157,16 +159,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 3. On the next screen, click **Yes** to add it to the registry.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
@@ -187,27 +183,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-methods-for-amending-silent-obs-recordings/"><u>[New] 2024 Approved Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>[New] 2024 Approved Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-revised-interview-guidelines-for-captivating-listeners-for-2024/"><u>[New] Revised Interview Guidelines for Captivating Listeners for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-first-flight-fun-best-easy-to-use-drones/"><u>[Updated] 2024 Approved First Flight Fun Best Easy-to-Use Drones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-adding-srt-track-to-mp4-media/"><u>[Updated] Comprehensive Guide to Adding SRT Track to MP4 Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-consumer-contentment-masterful-unboxing-tactics/"><u>[Updated] In 2024, Crafting Consumer Contentment Masterful Unboxing Tactics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>[Updated] Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-brief-overview-of-the-quickest-chroma-key-tricks/"><u>2024 Approved Brief Overview of the Quickest Chroma Key Tricks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-x9a-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-how-to-banish-windows-temp-files-for-good/"><u>Discover How to Banish Windows Temp Files for Good</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-rectify-server-stumbled-issues-on-windows/"><u>Efficient Methods to Rectify Server Stumbled Issues on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/excellence-in-design-best-windows-laptops-for-24/"><u>Excellence in Design: Best Windows Laptops for '24</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-definitive-searches-in-windows-11/"><u>Instant Definitive Searches in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/making-windows-1011-notifications-directly-available-in-right-click/"><u>Making Windows 10/11 Notifications Directly Available in Right-Click</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-nddrive-mapping-in-win11/"><u>Mastering NDDrive Mapping in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-resuming-lost-remote-access-in-windows/"><u>Strategies for Resuming Lost Remote Access in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-screen-saver-duration-on-windows/"><u>Tailoring Screen Saver Duration on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -215,3 +190,23 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-with-precision-updating-status-and-avatars-in-discord/"><u>[New] Navigating with Precision Updating Status & Avatars in Discord</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pixel-problems-non-existent-videos-on-a6400/"><u>2024 Approved Pixel Problems Non-Existent Videos on A6400</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-top-10-online-subtitle-converters-for-free-convert-srt-files/"><u>2024 Approved Top 10 Online Subtitle Converters for FREE Convert SRT Files</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/1725284078500-winxdvd/"><u>人気WinXDVDを完全マスターするための使い方・テクニック解説!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-poco-x5-pro-frp-bypass-by-drfone-android/"><u>About Poco X5 Pro FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-or-disabling-data-tracking-on-wi-fi-connection-in-windows-11/"><u>Enabling or Disabling Data Tracking on Wi-Fi Connection in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-allonline-video-conversion-per-ogm-gratuita-usando-movavi/"><u>Guida All'Online Video Conversion per OGM Gratuita Usando Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-moto-g34-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Moto G34 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/network-neutrality-7-approaches-to-uac-safeguarding/"><u>Network Neutrality: 7 Approaches to UAC Safeguarding</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-dual-app-access-to-camera-error-code-0xa00f4243/"><u>Overcoming Dual App Access to Camera (Error Code: 0XA00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-defective-windows-keys-a-quick-guide/"><u>Solve Defective Windows Keys: A Quick Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-vmware-stops-working-in-windows-11/"><u>Steps to Tackle VMware Stops Working in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-c110-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia C110 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-win1111s-0x887a0006-error/"><u>Troubleshooting Win11/11's 0X887A0006 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enhanced-help-post-cortana-strategies/"><u>Windows' Enhanced Help: Post-Cortana Strategies</u></a></li>
+</ul></div>
+

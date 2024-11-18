@@ -1,7 +1,7 @@
 ---
 title: "Mastering Login Security: Tweaking the Reset Lockout After Fails in Windows 11"
-date: 2024-11-02T21:10:00.638Z
-updated: 2024-11-07T23:20:48.931Z
+date: 2024-11-10T20:13:52.553Z
+updated: 2024-11-18T02:26:35.850Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
@@ -92,24 +92,6 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  Exceed this threshold and you will need this counter to be reset, which you can do by waiting a set amount of time. Here’s how to change the time you must wait in order for the counter to be automatically reset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-your-ipad-as-a-creative-tool-for-time-lapse/"><u>[New] In 2024, Your iPad as a Creative Tool for Time Lapse</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-savvy-vr-tour-connoisseur/"><u>[Updated] Becoming a Savvy VR Tour Connoisseur</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-fix-live-video-interrupted-on-facebook/"><u>2024 Approved How to Fix Live Video Interrupted on Facebook?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/critically-acclaimed-top-8-oculus-rift-games/"><u>Critically Acclaimed Top 8 Oculus Rift Games</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-resolving-frozen-ctrl-issues-for-windows-11/"><u>Diagnosing and Resolving Frozen Ctrl Issues for Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y200e-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y200e 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-improve-performance-of-windows-download-area/"><u>How to Improve Performance of Windows Download Area</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-edge-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Edge 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-solutions-eliminating-screen-phantom-images-effortlessly/"><u>Simple Solutions: Eliminating Screen Phantom Images Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-solve-error-3-in-nvidia-opengl-win1011/"><u>Strategies to Solve Error 3 in NVIDIA OpenGL (Win10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-eliminate-pointer-shake-on-pcs/"><u>The Ultimate Guide to Eliminate Pointer Shake on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-veiled-window-of-you-uncovering-windows-private-self-profile-access/"><u>The Veiled Window of You: Uncovering Windows’ Private Self-Profile Access</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-tips-to-revive-a-frozen-wi-fi-mouse-on-windows/"><u>Top 5 Tips to Revive a Frozen Wi-Fi Mouse on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -117,3 +99,27 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-cutting-through-the-noise-top-15-non-gopro-cameras-for-2024/"><u>[New] Cutting Through the Noise Top 15 Non-GoPro Cameras for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unleash-creativity-with-top-9-free-tools-to-craft-your-brand/"><u>[New] In 2024, Unleash Creativity with Top 9 Free Tools to Craft Your Brand</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[New] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-8-trusted-online-content-marketing-tools-for-2024/"><u>[Updated] Discover 8 Trusted Online Content Marketing Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tips-for-stellar-video-conclusions/"><u>[Updated] In 2024, Tips for Stellar Video Conclusions</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-ceased-windows-security-activities/"><u>Counteracting Ceased Windows Security Activities</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-redefine-administrative-role-guide-for-windows-11-users/"><u>Efficiently Redefine Administrative Role: Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-configure-startup-services-in-windows-11/"><u>How to Configure Startup Services in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-11-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-keyboard-configuration-on-windows-11/"><u>Mastering Keyboard Configuration on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-process-for-iphones-and-ipads-step-by-step-tips/"><u>Mastering the Factory Reset Process for iPhones and iPads – Step-by-Step Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-funding-guide-adding-and-shopping/"><u>PlayStation Funding Guide: Adding and Shopping</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-windows-screen-saver-spot/"><u>Seeking Windows Screen Saver Spot</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-diagnostic-failures-on-computer-systems/"><u>Solutions for Diagnostic Failures on Computer Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-swift-and-effective-mkv-to-webm-file-transformation-techniques/"><u>Step-by-Step Guide: Swift and Effective MKV to WebM File Transformation Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-epic-games-access-on-your-system/"><u>Steps to Regain Epic Games Access on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-xbox-audio-settings-in-windows-11-os/"><u>Streamlining Xbox Audio Settings in Windows 11 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208863446-thyroid-lymphoma-while-uncommon-can-be-more-prevalent-in-individuals-with-a-history-of-autoimmune-thyroiditis-like-hashimotos-disease/"><u>Thyroid Lymphoma, While Uncommon, Can Be More Prevalent in Individuals with a History of Autoimmune Thyroiditis Like Hashimoto's Disease.</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-keys-locked-here-are-quick-fixes-to-regain-accessibility-of-your-shortcut-commands/"><u>Windows Keys Locked? Here Are Quick Fixes to Regain Accessibility of Your Shortcut Commands</u></a></li>
+</ul></div>
+

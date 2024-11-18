@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Workflow: Microsoft Tech Evolution"
-date: 2024-11-03T21:46:50.145Z
-updated: 2024-11-07T16:50:42.611Z
+date: 2024-11-14T19:33:51.849Z
+updated: 2024-11-18T00:59:30.144Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
@@ -53,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -64,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -87,10 +93,10 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -114,16 +120,19 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/1-resolving-disk-space-issues-on-windows-10-how-to-recover-deleted-files/"><u>1. 'Resolving Disk Space Issues on Windows 10: How to Recover Deleted Files'</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/fast-forward-your-footage-top-time-lapse-apps-for-mobile-for-2024/"><u>Fast Forward Your Footage Top Time-Lapse Apps for Mobile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-freezing-vlc-swift-solution/"><u>Fix Freezing VLC - Swift Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/from-source-code-to-disk-image-converting-esd-files-in-windows-settings/"><u>From Source Code to Disk Image: Converting ESD Files in Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-steps-to-unlock-stalled-files/"><u>Mastering Windows 11: Steps to Unlock Stalled Files</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-no-installation-required-10-free-online-video-compressors-for-2024/"><u>New No Installation Required 10 Free Online Video Compressors for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-connect-and-configure-racing-steering-wheels-with-pc-games/"><u>Step-by-Step Instructions to Connect and Configure Racing Steering Wheels with PC Games</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-correcting-directx-install-errors/"><u>Steps for Correcting DirectX Install Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/the-mechanism-behind-windows-reserve-memory-system/"><u>The Mechanism Behind Windows' Reserve Memory System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-c110-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia C110 Location | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/understanding-and-executing-photo-gender-modification-across-platforms-for-2024/"><u>Understanding and Executing Photo Gender Modification Across Platforms for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-mastering-video-posts-on-tiktok-your-guide-for-mac-and-pc-users/"><u>[Updated] Mastering Video Posts on TikTok Your Guide for MAC & PC Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-inverted-video-flows-on-instagram-guide/"><u>[Updated] Navigating Inverted Video Flows on Instagram [Guide]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/15-crucial-strategies-for-accessing-international-sport-events-for-2024/"><u>15 Crucial Strategies for Accessing International Sport Events for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-mobile-hotspot-on-the-go/"><u>Configuring Windows 11 Mobile Hotspot on the Go</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-the-source-file-error-in-windows-1110/"><u>Counteracting the Source File Error in Windows 11/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-luts-for-enhanced-visual-effects-in-ar-experiences/"><u>In 2024, Harnessing LUTs for Enhanced Visual Effects in AR Experiences</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-huawei-p60-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Huawei P60</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-fun-with-free-old-soccer-coaching-pc-game/"><u>Maximize Fun with Free Old Soccer Coaching PC Game</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-accessibility-of-phone-link-written-notes-on-windows/"><u>Regaining Accessibility of Phone Link' Written Notes on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategic-forecasts-for-social-media-success-fbs-vision-in-2ranking-for-2024/"><u>Strategic Forecasts for Social Media Success FB's Vision in 2Ranking for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-why-is-my-nvidia-cp-closed/"><u>Troubleshooting: Why Is My Nvidia CP Closed?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultra-wideband-uwb/"><u>Ultra-Wideband (UWB):</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-mystery-behind-non-installing-updater-in-win11-v22h2/"><u>Unlocking the Mystery Behind Non-Installing Updater in WIN11 V22H2</u></a></li>
 </ul></div>
 

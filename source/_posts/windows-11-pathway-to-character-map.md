@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Pathway to Character Map
-date: 2024-11-03T17:29:48.302Z
-updated: 2024-11-07T21:51:51.455Z
+date: 2024-11-11T22:39:55.591Z
+updated: 2024-11-17T18:03:03.648Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Character Map Using the Run Dialog
 
  The Run command dialog is another way to quickly find the apps and programs you are looking for. In order to open the Character Map using the Run dialog box, follow these steps:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Character Map From the Start Menu
 
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 3. Scroll down to the bottom and click**Windows Tools** .
 4. You will see a list of Windows tools on the next screen.
 5. Click twice on the**Character Map** . It will take you to the Character Map utility page.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Character Map Using the Control Panel
 
@@ -71,20 +78,6 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 ![Open Character Map Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Start-Menu.jpg)
 5. Double-click on the**Character Map** to open the utility.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. How to Open Character Map Through Task Manager
 
  In order to keep track of how your system is performing, be sure to check out Task Manager. With this tool, you can also open different applications, such as Character Map. Let me show you how you can do that.
@@ -96,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. How to Open Character Map Via File Explorer
 
  Getting things on a Windows PC is easy with the address bar in File Explorer. All you need to do is open Windows Explorer, search for the program you are looking for, and it will do the rest. Check out the following steps for opening the Character Map:
@@ -103,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 1. Press**Win + E** to open File Explorer. For other methods, see our guide to[opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Character Map Using a Desktop Shortcut
 
@@ -114,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 3. Click**Next** and then give your shortcut a name.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Name of the desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Name-of-the-desktop-shortcut.jpg)
@@ -134,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
  If Windows asks you to confirm before creating a shortcut, click**Yes** . The desktop shortcut will be created on your computer screen. The Character Map application will open when you double-click it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. How to Open Character Map Via Command Prompt or Windows PowerShell
@@ -159,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
 This way you can now easily access the tool from the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open a Character Map in a Snap
 
  If you've ever wanted to insert a special character into a document or email but couldn't find the symbol on your keyboard, Character Map is a tool that can help. Character Map is a utility on Windows that allows you to view and use characters from any installed font. Check out this guide for instructions on opening this tool.
@@ -185,21 +185,24 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-discover-top-10-budget-friendly-high-quality-webcams/"><u>[Updated] 2024 Approved Discover Top 10 Budget-Friendly, High-Quality Webcams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-iconic-music-library-app-android-focused/"><u>[Updated] Iconic Music Library App, Android-Focused</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-guide-to-navigate-widely-in-windows-11/"><u>Complete Guide to Navigate Widely in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-android-apps-compatible-with-windows-desktop-users/"><u>Essential Android Apps Compatible with Windows Desktop Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exclusive-review-the-ultimate-connectivity-experience-by-asus-rog-rapture-gt-ax11000-gaming-router/"><u>Exclusive Review: The Ultimate Connectivity Experience by Asus ROG Rapture GT-AX11000 Gaming Router</u></a></li>
-<li><a href="https://win11.techidaily.com/holiday-ify-windows-11-in-7-steps/"><u>Holiday-Ify Windows 11 in 7 Steps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>In 2024, From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-master-the-art-of-livestreaming-tech-tips-for-iosandroid-users/"><u>In 2024, Master the Art of Livestreaming Tech Tips for iOS/Android Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-civi-3-disney-100th-anniversary-edition-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Civi 3 Disney 100th Anniversary Edition for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-your-torrents-solutions-for-frozen-status-in-windows/"><u>Reactivate Your Torrents: Solutions for Frozen Status in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-common-post-upgrade-windows-11-hitches/"><u>Resolving Common Post-Upgrade Windows 11 Hitches</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-lol-connection-in-windows/"><u>Steps for Restoring LoL Connection in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-data-transfer-mastering-file-zip-and-unzip-commands/"><u>Streamlining Data Transfer: Mastering File Zip & Unzip Commands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-your-memories-into-engaging-facebook-slides/"><u>[New] 2024 Approved Transform Your Memories Into Engaging Facebook Slides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations/"><u>[New] Unveiling the Best Practices for Timing and Organizing Google Collaborations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-dissecting-instagrams-maximum-video-duration-rule/"><u>2024 Approved Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-premier-zero-cost-facebook-videoimage-craftsman/"><u>2024 Approved Premier Zero-Cost Facebook Video/Image Craftsman</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-oppo-a2-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A2 Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11.techidaily.com/driving-earnings-with-windows-11-a-microsoft-perspective/"><u>Driving Earnings with Windows 11: A Microsoft Perspective</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-jittery-graphics-for-a-smoother-experience-in-warzone/"><u>Eliminate Jittery Graphics for a Smoother Experience in Warzone</u></a></li>
+<li><a href="https://win11.techidaily.com/free-your-pc-expedite-with-tiny11/"><u>Free Your PC: Expedite with Tiny11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-hot-40i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Hot 40i</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-watch-record-and-edit-football-matches-for-free-for-2024/"><u>How to Watch, Record, and Edit Football Matches for Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ping-for-peak-performance-on-your-windows-devices/"><u>Leveraging Ping for Peak Performance on Your Windows Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-visual-content-creation-identifying-and-fixing-image-capture-issues/"><u>Mastering iPhone Visual Content Creation: Identifying & Fixing Image Capture Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-highlighted-text-windows-pdf-correction-methods/"><u>Mastery Over Highlighted Text: Windows PDF Correction Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-display-of-windows-amdnvidia-boost/"><u>Prevent Display of Windows' AMD/Nvidia Boost</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-theme-installation-in-windows-via-microsoft-store/"><u>Seamless Theme Installation in Windows via Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-practices-for-using-wsl-2-on-windows-11-and-11/"><u>The 5 Best Practices for Using WSL 2 on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-step-by-step-process-of-steam-achievement-reset/"><u>The Step-by-Step Process of Steam Achievement Reset</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-samsung-galaxy-tab-a-2020-uncovering-essential-component-absence/"><u>The Ultimate Guide to Samsung Galaxy Tab A (202^0): Uncovering Essential Component Absence</u></a></li>
+<li><a href="https://win11.techidaily.com/timely-and-secure-access-management-using-powertoys/"><u>Timely and Secure Access Management Using PowerToys</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Folder Corruption: Clearing Write Limitations"
-date: 2024-11-03T19:00:12.889Z
-updated: 2024-11-07T17:06:51.708Z
+date: 2024-11-12T18:17:57.786Z
+updated: 2024-11-17T18:37:59.494Z
 tags:
   - windows10
   - windows11
@@ -31,31 +31,11 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  As you now understand why folders in your computer are reverting to read-only mode, let's look at some ways to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Turn Off Folder Protection
 
  Do you use folder lock software to protect your data, but some of those protected folders become read-only at random? If so, the restrictions are likely imposed by the folder lock software. Thus, by turning off the security limitations for those folders, you might be able to fix the problem right away.
 
  If you don't use any folder lock software or turning off the protection doesn't help, move on to the next solution.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Rule Out a Folder-Specific Issue
 
@@ -81,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 4. Check the **Permissions for Users** section after selecting your account.  
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
 
  If you're an administrator, here's how you can change the access permissions of other users:
@@ -97,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
  To combat ransomware threats and safeguard users' data, Microsoft has introduced a ransomware protection feature. By using this feature, users can prevent third-party apps from changing their files and folders without their permission.
@@ -108,22 +102,17 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 3. Click on **Manage ransomware protection**.  
 ![Opening Manage Ransomware Protection Option under Virus and Threat Protection in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Opening-Manage-Ransomware-Protection-Option-under-Virus-and-Threat-Protection-in-Windows-Security-App-on-Windows.jpg)
 4. Turn off the toggle under **Controlled folder access**.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
 
@@ -139,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
@@ -164,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Run the SFC and CHKDSK Scans
@@ -181,22 +170,15 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
  If the issue under discussion occurred after installing a Windows update, you should uninstall it and revert to the previous version of Windows. Check out our article on [manually uninstalling Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) if you're unfamiliar with the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Relocate the Folders to Another Drive
 
  While it may initially seem strange, relocating the folders whose permissions get restricted to another drive also resolved the issue for some users. Therefore, move your folders from one drive to another, remove the read-only attribute, and see if they revert to read-only again. If relocating the folder to a different drive does not resolve the issue, go to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Go to Previous Restore Point
 
@@ -206,34 +188,18 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  If you're unfamiliar with the process, check out our article that explains [how to perform a system restore in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/#how-to-use-restore-point-to-restore-your-windows-11-system). For Windows 10, the process is nearly the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keep Your Files and Folders Editable
 
  Hopefully, applying the fixes mentioned in the article will help you prevent your folder from reverting to read-only mode. Moreover, to stop files from opening in read-only mode in a specific app, such as OneNote, you'll have to change the app settings.
 
  In this article, we'll explain why your folders revert to read-only mode and what you can do to prevent it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] 2024 Approved Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-7-3d-modeling-software-for-animation/"><u>[New] 7 3D Modeling Software for Animation</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/uide-to-producing-impactful-lifestyle-motivational-content-for-2024/"><u>[New] Guide to Producing Impactful Lifestyle Motivational Content for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-comparing-cloud-space-charges-methods-and-results/"><u>[Updated] In 2024, Comparing Cloud Space Charges Methods and Results</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-intersecting-experiences-dissecting-vr-augmented-and-mixed-reality/"><u>2024 Approved Intersecting Experiences Dissecting VR, Augmented & Mixed Reality</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-vanished-files-problem-on-windows-11/"><u>Correcting Vanished Files Problem on Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/evaluating-aurora-hdr-worth-the-investment-for-2024/"><u>Evaluating Aurora HDR Worth the Investment for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/key-factors-when-choosing-windows-video-codecs/"><u>Key Factors When Choosing Windows Video Codecs</u></a></li>
-<li><a href="https://win11.techidaily.com/open-local-group-policies-with-a-click-on-win11/"><u>Open Local Group Policies with a Click on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-outlooks-unpreviewable-files-issue-on-windows/"><u>Overcoming Outlook's Unpreviewable Files Issue on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unknown-disk-troubles-in-windows-xpvista78/"><u>Overcoming Unknown Disk Troubles in Windows XP/Vista/7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-app-not-verified-error-on-windows-pc/"><u>Quick Fixes for App Not Verified Error on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-false-device-errors-tips-and-tricks-windows/"><u>Removing False Device Errors: Tips and Tricks, WIndows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/surviving-splashes-and-spills-the-waterproof-integrity-of-the-new-iphone-15-model/"><u>Surviving Splashes and Spills: The Waterproof Integrity of the New iPhone 15 Model</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782507-9781591438564-the-man-who-knew-the-medicine/"><u>The Man Who Knew the Medicine | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-windows-compatible-bittorrent-apps/"><u>Top 5 Windows-Compatible BitTorrent Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweaking-image-previews-for-youtube-like-experience-in-twitter-videos/"><u>Tweaking Image Previews for YouTube-Like Experience in Twitter Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-slumber-techniques-quick-tips/"><u>Windows Slumber Techniques: Quick Tips</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -242,3 +208,23 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-perfect-panning-top-techniques-for-livestreaming-cricket-games/"><u>[Updated] Perfect Panning Top Techniques for Livestreaming Cricket Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incremental-movie-moment/"><u>2024 Approved Incremental Movie Moment</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-pixelpark-not-responding-issue-in-windows-11/"><u>How to Fix the PixelPark Not Responding Issue in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>In 2024, Simplify Screen Capture The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-permanent-erase-for-files-using-windows-11-trash-can/"><u>Instant Permanent Erase for Files Using Windows 11 Trash Can</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-virtualdub-substitutes-explore-these-video-editing-options/"><u>New In 2024, VirtualDub Substitutes Explore These Video Editing Options</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-functional-window-previews/"><u>Reinstating Functional Window Previews</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/replica-e-condivisione-di-immagini-per-sistemi-windows-11-tra-diverse-macchine/"><u>Replica E Condivisione Di Immagini per Sistemi Windows 11 Tra Diverse Macchine</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-your-way-fixing-non-working-intel-unison-in-windows-11/"><u>Restart Your Way: Fixing Non-Working Intel Unison in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210732661-9780762482528-take-back-the-magic/"><u>Take Back the Magic | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-shortcut-invention-your-own-command-language-in-win11/"><u>The Art of Shortcut Invention: Your Own Command Language in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-5-productivity-boosters-for-windows-11-users/"><u>The Ultimate 5 Productivity Boosters for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-devhome-your-ultimate-windows-11-hub/"><u>Unveiling DevHome: Your Ultimate Windows 11 Hub</u></a></li>
+</ul></div>
+

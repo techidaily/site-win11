@@ -1,7 +1,7 @@
 ---
 title: "Steps to Resolve Unrecognized HDD Issues: A Guide for Users, Win 11 Edition"
-date: 2024-10-31T20:49:01.603Z
-updated: 2024-11-07T16:15:49.609Z
+date: 2024-11-12T07:57:38.284Z
+updated: 2024-11-17T22:11:18.618Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/9841b29c6cea5f5f780b6eadf9d0ee4bcbe0f046f
 
  After that, carefully inspect the hard drive for any physical damage. Check for cracks, dents, or any other signs of wear. Additionally, check for any indications of liquid damage or unusual noises emanating from the hard drive. If you detect any of these issues, unfortunately, the only option is to replace your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Perform a Hard PC Reset
 
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
@@ -85,13 +78,20 @@ Image Credit: Tina Sieber
 4. Click **Apply**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change Your System Date and Time
 
@@ -101,14 +101,14 @@ Image Credit: Tina Sieber
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
 
- After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
@@ -118,24 +118,6 @@ Image Credit: Tina Sieber
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>[New] How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-bargains-in-2019-tcls-50-inch-50s425-roku-smart-tv-our-ultimate-review/"><u>Best Bargains in 2019: TCL's 50-Inch 50S425 Roku Smart TV - Our Ultimate Review!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhancing-mobile-video-playback-comparing-30-fps-with/"><u>Enhancing Mobile Video Playback: Comparing 30 FPS With</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-manage-windows-11-security/"><u>Essential Steps to Manage Windows 11 Security</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-8-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 8 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-top-tier-session-identifier-generator/"><u>In 2024, Top-Tier Session Identifier Generator</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-problems-with-downloading-data-on-windows/"><u>Navigating Through Problems with Downloading Data on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/no-cost-innovation-unveiling-free-dall-e-3-imagery-through-microsofts-bing-platform/"><u>No Cost Innovation: Unveiling Free DALL-E 3 Imagery Through Microsoft's Bing Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/quiet-windows-tracked-app-usage/"><u>Quiet Windows' Tracked App Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-google-chrome-error-on-microsoft-os/"><u>Resolving Google Chrome Error on Microsoft OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rev-up-with-hubsans-x4-fpv-quadcopter-review-for-2024/"><u>Rev Up with Hubsan's X4 FPV Quadcopter Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remedies-for-pcs-persistent-pink-flashes/"><u>Swift Remedies for PC's Persistent Pink Flashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-keyboard-stops-responding-on-startup/"><u>Troubleshooting Guide: Why Your Keyboard Stops Responding on Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-power-the-ultimate-guide-to-windows-performance/"><u>Unleash Power: The Ultimate Guide to Windows Performance</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +125,19 @@ Image Credit: Tina Sieber
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-irecorder-pro-in-depth-analysis/"><u>[New] 2024 Approved IRecorder Pro In-Depth Analysis</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-step-by-step-process-to-disengage-from-discord-groups/"><u>[New] In 2024, The Step-by-Step Process to Disengage From Discord Groups</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-syncing-sound-with-visuals-on-facebook-essential-guide-for-2024/"><u>[New] Syncing Sound with Visuals on Facebook - Essential Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-your-shorts-image-visible-again/"><u>[Updated] In 2024, How to Make Your Shorts' Image Visible Again</u></a></li>
+<li><a href="https://article-tips.techidaily.com/10-photography-composition-rules-for-iphone-for-2024/"><u>10 Photography Composition Rules for iPhone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-navigation-employing-apple-maps-on-windows/"><u>Cutting-Edge Navigation: Employing Apple Maps on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-a78-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo A78 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-and-customize-windows-photo-viewer-for-11-users/"><u>How to Reactivate and Customize Windows Photo Viewer for 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-with-smart-security-settings/"><u>Optimizing System Resources with Smart Security Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-the-disappearance-of-printmanagement-service/"><u>Quick Fix for the Disappearance of 'Printmanagement' Service</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-to-composing-compelling-video-blogging-plots/"><u>Secrets to Composing Compelling Video Blogging Plots</u></a></li>
+</ul></div>
+

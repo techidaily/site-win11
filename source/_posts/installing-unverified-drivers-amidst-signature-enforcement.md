@@ -1,7 +1,7 @@
 ---
 title: Installing Unverified Drivers Amidst Signature Enforcement
-date: 2024-11-06T22:17:16.800Z
-updated: 2024-11-07T22:25:29.652Z
+date: 2024-11-16T02:36:11.073Z
+updated: 2024-11-17T17:19:22.997Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  Your computer will then restart, and when it reboots, you'll be able to install those unsigned drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Driver Signature Enforcement in the Local Group Policy Editor
 
  You can also disable driver signature enforcement by tweaking the **Code signing for driver packages** policy in the Local Group Policy Editor (LGPE). Doing this will allow you to install unsigned drivers even if you restart your computer.
@@ -51,11 +44,26 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 1. Press **Win + S** to bring up Windows Search, enter **group policy** in the Search box, and select **Edit group policy** in the Search results.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
 2. Once the LGPE opens up, head to **User Configuration > Administrative Templates > System > Driver Installation**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click **Code signing for driver packages** and select **Edit**.  
 ![editing the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-the-code-signing-for-driver-packages-policy.jpg)
 4. Click the **Enabled** radio button, and then, in the **Options** section, click on the dropdown and select **Ignore**.  
 ![enabling the Code signing for driver packages policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-the-code-signing-for-driver-packages-policy.jpg)
 5. Click on **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to enable driver signature enforcement again, go back to step #4 and set the radio button to **Not configured**.
 
@@ -73,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![turning off driver signature enforcement in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/turning-off-driver-signature-enforcement-in-terminal.jpg)
 4. Hit **Enter** to run the command.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To turn on driver signature enforcement again, replace the command in step #3 with **bcdedit /set nointegritychecks off**.
 
  One potential problem you can run into when trying to turn off driver signature enforcement this way is an error stating **The value is protected by Secure Boot policy and cannot be modified or deleted**.
 
 ![Secure Boot error in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/secure-boot-error-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If that is the case, you can try [turning off Secure Boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) and trying again. But if you don't want to do this, using Startup Settings and the Local Group Policy Editor is perfectly okay.
 
@@ -97,41 +105,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 4. Hit **Enter** to run the command.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now restart your computer, and when it boots back up, it will be in test mode. After you're done installing those drivers, don't forget to disable test mode. The command to do that is **bcdedit /set testsigning off**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Now You Can Install Unsigned Drivers on Windows
 
  Installing unsigned drivers on Windows is not recommended, since they can lead to unexpected behavior. However, if you trust the driver, there's no reason why the OS should block you from installing it. Just use one of the methods mentioned above, and you should be able to install and use unsigned drivers on your Windows PC.
 
  In this guide, we're going to show you several ways to do it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-reconnecting-sound-tracks-to-obs-broadcasts-for-2024/"><u>[New] Reconnecting Sound Tracks to OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-explore-these-non-periscope-video-platforms-for-iphones-and-androids/"><u>[Updated] Explore These Non-Periscope Video Platforms for iPhones & Androids</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722577353542-can-the-asus-rt-ac88u-meet-your-gaming-needs-find-out-in-our-in-depth-review/"><u>Can the Asus RT-AC88U Meet Your Gaming Needs? Find Out in Our In-Depth Review</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-dichotomy-how-microsoft-and-native-windows-accounts-contrast/"><u>Exploring the Dichotomy: How Microsoft and Native Windows Accounts Contrast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flying-high-with-husqvarna-the-drone-revolution/"><u>Flying High with Husqvarna The Drone Revolution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-activate-and-restart-your-iphone-without-button-functionality-easy-fixes-for-common-issues/"><u>How To Activate and Restart Your iPhone Without Button Functionality - Easy Fixes for Common Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-alternatives-to-microsofts-snipping-feature-in-os-xlinux/"><u>Leading Alternatives to Microsoft's Snipping Feature in OS X/Linux</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-productivity-in-win11-effective-command-shortcuts-guide/"><u>Maximize Productivity in Win11: Effective Command Shortcuts Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivotal-ai-solutions-to-transform-your-enterprise-strategy/"><u>Pivotal AI Solutions to Transform Your Enterprise Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/silencing-security-qanda-for-local-admin-users-in-windows-11/"><u>Silencing Security Q&A for Local Admin Users in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dark-mode-in-paint/"><u>The Ultimate Guide to Dark Mode in Paint</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +126,23 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[Updated] In 2024, Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-simplifying-the-process-how-to-install-and-use-ez-grabber/"><u>[Updated] In 2024, Simplifying the Process How to Install and Use EZ Grabber</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>2024 Approved Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-samsung-sony-lg/"><u>DVDバックアップ＆ライブストリームテクニック: ビデオレコーダーで楽しむSamsung, Sony, LG</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-on-integrating-a-subwoofer-into-your-samsung-soundbar-setup/"><u>Expert Tips on Integrating a Subwoofer Into Your Samsung Soundbar Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-admin-access-launching-windows-terminal-effortlessly/"><u>Mastering Admin Access: Launching Windows Terminal Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-component-services-interface-in-windows-11/"><u>Mastering Component Services Interface in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-efficiency-with-top-5-keyboard-cars/"><u>Maximizing PC Efficiency with Top 5 Keyboard Cars</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-faulty-data-handling-of-usb-sticks-in-windows-os/"><u>Overcoming Faulty Data Handling of USB Sticks in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/power-through-the-month-discover-the-revolutionary-ecoflow-portable-power-station-featured-by-zdnet/"><u>Power Through the Month: Discover the Revolutionary EcoFlow Portable Power Station Featured by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-keyboard-speed-typingaid-way/"><u>Skyrocket Your Keyboard Speed - TypingAid Way</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-playthrough-solutions-to-exit-code-woc/"><u>Streamline Playthrough - Solutions to Exit Code WoC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-verizon-promotions-and-upgrades-available-this-month/"><u>Top Verizon Promotions & Upgrades Available This Month</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-malwarebytes-service-access-on-windows-devices/"><u>Unblocking Malwarebytes Service Access on Windows Devices</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-spezifische-kostenfreie-losungen-zur-datenaufwartssynchronisation-und-verwaltung/"><u>Windows-Spezifische Kostenfreie Lösungen Zur Datenaufwärtssynchronisation Und -Verwaltung</u></a></li>
+</ul></div>
+

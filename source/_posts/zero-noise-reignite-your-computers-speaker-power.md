@@ -1,7 +1,7 @@
 ---
 title: Zero Noise? Reignite Your Computer's Speaker Power
-date: 2024-11-03T18:42:11.184Z
-updated: 2024-11-07T18:40:01.957Z
+date: 2024-11-10T21:55:39.858Z
+updated: 2024-11-18T05:18:14.601Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
@@ -58,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Confirm That the HDMI Audio Is Selected
@@ -86,6 +93,19 @@ Audio should now play on your HDMI TV.
 
 ![update audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/update-audio-driver.png)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the same fix to update USB drivers if you use a USB headset or USB sound card.
 
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
@@ -108,6 +128,13 @@ Audio should now play on your HDMI TV.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -116,27 +143,7 @@ Audio should now play on your HDMI TV.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Check for Corruption of Windows System Files
 
@@ -150,13 +157,6 @@ Audio should now play on your HDMI TV.
  The SFC will scan the system and fix any errors that it finds. If there really was a corruption issue with system files, it'll be resolved by the end of this scan.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Disable Audio Enhancements
 
@@ -172,10 +172,10 @@ Audio should now play on your HDMI TV.
  This will turn off all enhancements that could be the cause of your speakers not working.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Your Computer Speakers Just Aren't Working
@@ -187,10 +187,10 @@ Audio should now play on your HDMI TV.
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Your Speakers Working Again?
@@ -212,18 +212,19 @@ Audio should now play on your HDMI TV.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-crafting-captivating-content-with-correct-dimensions/"><u>[New] 2024 Approved Crafting Captivating Content with Correct Dimensions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-best-free-design-resources-in-after-effects-land/"><u>[Updated] Best Free Design Resources in After Effects Land</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-convenient-steps-upside-down-video-via-vlc-application-for-2024/"><u>[Updated] Convenient Steps Upside Down Video via VLC Application for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-hottest-tiktok-trends-on-twitter/"><u>[Updated] The Hottest TikTok Trends on Twitter</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-digital-footprints-uncovering-device-ids-in-windows/"><u>Decoding the Digital Footprints: Uncovering Device ID's in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/detailed-explanation-of-bluescreenview-utility/"><u>Detailed Explanation of BlueScreenView Utility</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-choice-top-10-best-free-lut-downloads/"><u>In 2024, Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-pro-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-file-restriction-with-ease/"><u>Navigating Windows File Restriction with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-your-pc-writable-control-hub/"><u>Navigating Your PC' Writable Control Hub</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-amr-files-comprehensive-amr-file-conversion-handbook/"><u>New In 2024, Mastering AMR Files Comprehensive AMR File Conversion Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/win32keygen-explained-dangers-symptoms-and-removal-procedures/"><u>Win32/Keygen Explained: Dangers, Symptoms, and Removal Procedures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-screen-time-find-your-must-have-7-android-blockers/"><u>[Updated] Master Screen Time Find Your Must-Have 7 Android Blockers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-peak-psd-layer-magic/"><u>[Updated] Peak PSD Layer Magic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comprehensive-review-of-powerdirector-pro-suite/"><u>Comprehensive Review of PowerDirector Pro Suite</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking and Personalization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dive-into-drone-flying-with-the-syma-x5c-review-for-starters/"><u>Dive Into Drone Flying with the Syma X5C Review for Starters</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-triggering-pc-sleep-in-w10w11/"><u>Effortlessly Triggering PC Sleep in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-740-elevation-woes-on-windows-devices/"><u>Eliminating Error Code 740: Elevation Woes on Windows Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 5Gwith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-dism-fixes-code-0x800f082f/"><u>Mastering Windows' DISM Fixes: Code 0X800F082F</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-first-person-shooter-key-settings/"><u>Mastering Your First-Person Shooter: Key Settings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-video-vexations-through-sample-assistance/"><u>Reviving Video Vexations: Through Sample Assistance</u></a></li>
+<li><a href="https://win11.techidaily.com/sleek-and-simple-searching-compact-view-in-windows-explorer/"><u>Sleek and Simple Searching: Compact View in Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-overcoming-server-slips-in-ms-store-windows-os/"><u>Swift Solutions: Overcoming Server Slips in MS Store, Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-dxvks-influence-on-windows-gaming-quality/"><u>Understanding DXVK's Influence on Windows Gaming Quality</u></a></li>
 </ul></div>
 

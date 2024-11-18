@@ -1,7 +1,7 @@
 ---
 title: Privacy Tips for Keeping Emails Secret on Logon Screen
-date: 2024-11-01T22:04:13.370Z
-updated: 2024-11-07T22:07:04.029Z
+date: 2024-11-12T04:10:47.294Z
+updated: 2024-11-17T16:36:18.469Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 3. Under**Additional settings** , toggle off the switch next to **Show account details such as my email address on the sign-in screen** .  
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
 
  The Group Policy Editor (or gpedit.msc) is a handy Windows tool for configuring advanced system settings. You can also this tool to hide your email address from the Windows login screen.
@@ -50,20 +57,20 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
@@ -83,20 +90,13 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 7. Double-click on the newly created DWORD and enter**1** in the**Value data** field. Then, click**OK** .  
 ![Hide Email From Windows Login Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Exit the Registry Editor and restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
@@ -118,24 +118,20 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-android-phones-in-watching-vr-or-360-videos/"><u>[Updated] How to Use Android Phones in Watching VR or 360 Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-from-flat-panes-to-360-viewing-a-vr-comparison/"><u>2024 Approved From Flat Panes to 360 Viewing A VR Comparison</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>2024 Approved From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/assessing-ergodriven-topo-mats-how-they-transform-your-desk-into-a-comfort-zone-against-tiredness/"><u>Assessing Ergodriven Topo Mats: How They Transform Your Desk Into a Comfort Zone Against Tiredness</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-deep-into-windows-registry-tweaks-via-terminal-commands/"><u>Delving Deep Into Windows Registry Tweaks via Terminal Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-fix-tackling-winscomrssvc-errors-on-your-pc/"><u>Effective Fix: Tackling WinscomrsSvc Errors on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/embarking-on-the-journey-setting-up-outlook-preview-in-windows-11/"><u>Embarking on the Journey: Setting Up Outlook Preview in Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-p40plus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel P40+ to Mac? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-lava-blaze-curve-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/hush-unmet-system-mandates-on-windows-os/"><u>Hush Unmet System Mandates on Windows OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-fresh-twitter-conspiracies-the-inception-of-meta-verification-and-a-deep-dive-into-chatgpt/"><u>Navigating Through Fresh Twitter Conspiracies: The Inception of Meta Verification & A Deep Dive Into ChatGPT-</u></a></li>
-<li><a href="https://win11.techidaily.com/snip-and-sketch-vs-prtsc-the-windowed-capturing-conundrum/"><u>Snip and Sketch Vs. PrtSc: The Windowed Capturing Conundrum</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-activate-windows-admin-tools-in-homes/"><u>Step-by-Step: Activate Windows Admin Tools in Homes</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-fix-eliminating-connection-issues-in-windows/"><u>Streamline & Fix: Eliminating Connection Issues in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-c55-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco C55 Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-a-high-quality-smart-tv-for-2nnd-century-insights-from-zdnets-tech-experts/"><u>Ultimate Guide to Buying a High-Quality Smart TV for 2Nnd Century: Insights From ZDNet's Tech Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-fatal-components-missing-in-w10w11/"><u>Unraveling the 'Fatal Components Missing' In W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-wisely-enabling-tpm-and-secure-boot-pre-windows-11-installation/"><u>Upgrading Wisely: Enabling TPM and Secure Boot Pre-Windows 11 Installation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-excellence-on-youtube-through-enhancements/"><u>[Updated] 2024 Approved Audiovisual Excellence on YouTube Through Enhancements</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-sound-selection-optimal-websites-list/"><u>[Updated] Premium Sound Selection Optimal Websites List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-efficient-tactics-for-viewing-subscribers-on-yt/"><u>2024 Approved Efficient Tactics for Viewing Subscribers on YT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-understanding-your-chances-for-regular-youtube-payments/"><u>2024 Approved Understanding Your Chances for Regular YouTube Payments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-integration-in-microsoft-teams-for-seamless-webcam-backdrop-management/"><u>Advanced AI Integration in Microsoft Teams for Seamless Webcam Backdrop Management</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-strength-and-weakness-of-vyancs-link-tracker-sturdy-performance-marred-by-confusing-pricing-plans/"><u>Decoding the Strength and Weakness of Vyanc's Link Tracker: Sturdy Performance Marred By Confusing Pricing Plans</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-gpu-within-your-operating-system-windows/"><u>Disabling GPU Within Your Operating System Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/error-2e-disruption-fixes-for-windows-update/"><u>Error 2E Disruption? Fixes for Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/from-out-of-sight-to-front-and-center-recovering-windows-1011-panels/"><u>From Out of Sight to Front and Center: Recovering Windows 10/11 Panels</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-your-data-regularly-back-up-windows-files/"><u>Maintaining Your Data: Regularly Back Up Windows Files</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-online-ops-top-4-windows-steps-to-gauge-network-velocity/"><u>Optimize Your Online Ops: Top 4 Windows Steps to Gauge Network Velocity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-x50-gt-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor X50 GT Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-limited-access-to-wi-fi-in-windows-11-top-7-fixes/"><u>Unblock Limited Access to Wi-Fi in Windows 11: Top 7 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/win-back-control-solutions-to-thwart-stuck-menu-clicks/"><u>Win Back Control: Solutions to Thwart Stuck Menu Clicks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Offline Windows Updates: The Portable Guide"
-date: 2024-11-03T21:24:23.881Z
-updated: 2024-11-07T19:12:40.446Z
+date: 2024-11-15T05:03:40.748Z
+updated: 2024-11-18T08:00:33.480Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan for the Update Files
@@ -51,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
 ![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, that you know what's available, it's time to download the files for offline installation.
 
@@ -78,13 +65,26 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ![the Cache folder in the Portable Update folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-cache-folder-in-the-portable-update-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you're ready to move the program over to the offline computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install the Selected Windows Updates
 
@@ -95,44 +95,15 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Windows Updates Another Way
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-an-insiders-take-on-instagram-highlights/"><u>[New] An Insider's Take on Instagram Highlights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discover-the-magic-of-editing-in-60-seconds-with-snapseed/"><u>[Updated] 2024 Approved Discover the Magic of Editing in 60 Seconds with Snapseed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/10-ultimate-high-res-4k-mirrorless-cams-for-2024/"><u>10 Ultimate High-Res 4K Mirrorless Cams for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 mini</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/el-titles-that-shine-how-to-innovate/"><u>Channel Titles That Shine How to Innovate</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-output-5-essential-windows-11-workplace-apps/"><u>Enhance Output: 5 Essential Windows 11 Workplace Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi Redmi Note 12 Pro+ 5G.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/introduction-to-enhanced-window-for-selecting-widgets-in-win11/"><u>Introduction to Enhanced Window for Selecting Widgets in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-wi-fi-troubleshooting-in-windows-11-os-environment/"><u>Mastering Wi-Fi Troubleshooting in Windows 11 OS Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-black-screens-in-latest-win11-version/"><u>Navigating Through Black Screens in Latest Win11 Version</u></a></li>
-<li><a href="https://fox-within.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-daten-auf-ein-neues-ssd-ohne-wiederherstellung-des-betriebssystems/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Daten Auf Ein Neues SSD Ohne Wiederherstellung Des Betriebssystems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sifting-through-legacy-works-a-cultural-journey-for-2024/"><u>Sifting Through Legacy Works A Cultural Journey for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-neutralize-yellowish-screen-on-laptops/"><u>Techniques to Neutralize Yellowish Screen on Laptops</u></a></li>
-<li><a href="https://win11.techidaily.com/the-conquerors-guide-to-overcoming-11-windows-errors/"><u>The Conqueror's Guide to Overcoming 11 Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-setting-up-ms-office-work-in-win11/"><u>The Insider's Guide to Setting Up MS Office Work in Win11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-camtasia-shortcut-speeding-up-and-slowing-down-videos-for-2024/"><u>The Ultimate Camtasia Shortcut Speeding Up and Slowing Down Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-the-common-grumbles-about-new-os-release/"><u>Uncovering the Common Grumbles About New OS Release</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-eliminating-unsolicited-no-mail-errors-on-pc/"><u>Winning Strategies: Eliminating Unsolicited No Mail Errors on PC</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +112,19 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-inexpensive-pc-playback-solutions/"><u>[Updated] 2024 Approved Inexpensive PC Playback Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-elite-10-royale-combat-titles/"><u>[Updated] Elite 10 Royale Combat Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-mobile-gif-software-for-the-latest-iphones/"><u>[Updated] In 2024, Best Mobile GIF Software for the Latest iPhones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quantifying-videography-storage-needs-128gb/"><u>2024 Approved Quantifying Videography Storage Needs, 128GB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/direct-match-twitchs-battle-against-youtubes-dominance-for-2024/"><u>Direct Match Twitch's Battle Against YouTube's Dominance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/hypervisor-blues-heres-your-win-10-and-11-fix-guide/"><u>Hypervisor Blues? Here's Your Win 10 & 11 Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-windows-logins-passing-or-faltering-attempts/"><u>Insight Into Windows Logins: Passing or Faltering Attempts</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-ownership-related-settings-glitches-in-windows-11/"><u>Resolving Ownership-Related Settings Glitches in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/speed-up-your-media-conversion-winxvideo-ais-fast-gpu-boosted-video-and-audio-editing/"><u>Speed Up Your Media Conversion: Winxvideo AI's Fast, GPU-Boosted Video & Audio Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-efficiency-with-androids-quick-settings-tips-and-tricks/"><u>Unlock Efficiency with Android’s Quick Settings – Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-purging-history-from-ms-defender/"><u>Unveiling the Process for Purging History From MS Defender</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Data Management with AutoDelete in Windows
-date: 2024-11-02T18:39:41.991Z
-updated: 2024-11-07T22:55:57.571Z
+date: 2024-11-15T06:24:20.621Z
+updated: 2024-11-18T07:50:07.317Z
 tags:
   - windows10
   - windows11
@@ -56,20 +56,13 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 ![command prompt on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/command-prompt-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your files will be removed as quickly as soon as you hit the above commands.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use Task Scheduler on Windows
 
@@ -84,25 +77,25 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 ![task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/task-scheduler.jpg)
 5. In the **Name** box, enter a name for the task.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now, in the **General** tab, under the **Security options** section, select the **Run whether the user is logged on or not** option.
 7. Make sure the **Do not store password** checkbox is unselected.
 8. Click on the **Triggers** tab and select the **New** button.
 9. Select **On a schedule** option using the **Begin the task** setting.  
 ![new trigger section on task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-trigger-section-on-windows.jpg)
 10. Under the **Settings** section, set up the timings of the tasks you'd like to run. Finally, click on **OK**.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, head to the **Actions** tab and click on the **New** button. From the **Actions** drop-down menu, select the **Start a program** option.
 
@@ -128,13 +121,20 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 ![new action setting on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-action-setting-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it—finalize the changes by clicking **OK** once again, and you will be done in no time. From here forward, your files will be automatically deleted within the specified time. Of course, if you later change your mind you can always reverse this setting by simply deleting the new folder your created in first step (which in our case, will be **New Folder 1**).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Auto-Deleting Old Files or Folders on a Windows Computer
@@ -145,22 +145,6 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  You can get rid of Windows 10 bloatware. You can sort your right click menu. You can even declutter your search results. And of course, you can clean up your desktop. If you're looking for a more passive approach, here's how to erase old files on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-select-top-6-slide-show-apps-for-latest-iphone-models/"><u>[New] In 2024, Select Top 6 Slide Show Apps for Latest iPhone Models</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>[Updated] Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>2024 Approved Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-event-viewer-errors-in-windows-11/"><u>Fixing Windows Event Viewer Errors in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-13-ultra-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-z-flip-5withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy Z Flip 5with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-reno-11-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Reno 11 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-visual-performance-the-winning-plan-for-increased-vram/"><u>Skyrocket Your Visual Performance: The Winning Plan for Increased VRAM</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-cab-its-purpose-and-installation-guide/"><u>Unveiling Windows CAB: Its Purpose & Installation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1011-resolving-no-more-files-message/"><u>Win 10/11: Resolving 'No More Files' Message</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +152,27 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-best-free-video-meeting-software-roundup-for-professional-and-educational-purposes/"><u>[New] 2024 Approved The Best Free Video Meeting Software Roundup for Professional and Educational Purposes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-10-techniques-and-applications-for-cutting-out-foregrounds-in-jpg-photos/"><u>Best 10 Techniques & Applications for Cutting Out Foregrounds in JPG Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-limited-access-on-win11-wi-fi-with-9-key-strategies/"><u>Conquer Limited Access on Win11 Wi-Fi With 9 Key Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-personalized-experience-with-ms-store-themes/"><u>Crafting a Personalized Experience with MS Store Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-access-to-recently-opened-files-on-windows/"><u>Exclusive Access to Recently Opened Files on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unidentified-component-error-in-windows-system/"><u>Fixing Unidentified Component Error in Windows System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-zero-to-hero-hyper-v-setup-for-w11-home-users/"><u>From Zero to Hero: Hyper-V Setup for W11 Home Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-halt-automatic-cmd-surface-appearances/"><u>How to Halt Automatic CMD Surface Appearances</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-7-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/human-sensibility-in-creative-writing-overlooked-by-bots/"><u>Human Sensibility in Creative Writing Overlooked by Bots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a6400-absent-actors-where-are-the-videos/"><u>In 2024, A6400 Absent Actors Where Are the Videos?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>In 2024, Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-note-12-4g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi Note 12 4G FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-windows-experience-with-2023-leaders/"><u>Master Your Windows Experience with 2023 Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-files-attributes-date-editing-techniques/"><u>Mastering Windows Files' Attributes: Date Editing Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/neptune-display-premium-4k-all-in-one-screens/"><u>Neptune Display Premium 4K All-in-One Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-firewall-4-effective-strategies/"><u>Restoring Window's Firewall - 4 Effective Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/separate-accounts-simpler-life-remove-instagram-from-fb/"><u>Separate Accounts, Simpler Life: Remove Instagram From FB</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-1011-command-guide-for-ip-location/"><u>Windows 10/11 Command Guide for IP Location</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Altering Administrator's Account Name in Win11"
-date: 2024-11-05T18:40:16.407Z
-updated: 2024-11-07T16:41:46.668Z
+date: 2024-11-15T19:13:52.779Z
+updated: 2024-11-17T23:43:38.866Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  Your Microsoft account administrator name has been successfully changed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Change the Administrator Name Through Control Panel
 
  The Control Panel is a graphical user interface (GUI) in Microsoft Windows that you can use to change your computer's hardware and software features.
@@ -55,22 +62,22 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 4. Enter the new name and click**Change Name** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Rename account in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-account-in-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your Microsoft account administrator name will now be changed. Now you can access all the services provided by Windows with your new name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Change the Administrator Name Through Command Prompt
 
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  Press**Enter** to apply the changes. Your Microsoft account administrator name has been successfully changed. You can now sign in with your new Microsoft account administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Change the Administrator Name Through Run Command
 
  Another tool you can use to change the Microsoft account administrator name is the Run dialog command. Here's how to do it:
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 Your Microsoft account administrator name is now changed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make a Change to Your Windows Admin Name
@@ -134,14 +134,24 @@ Your Microsoft account administrator name is now changed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-unforgettable-mac-slideshows-with-ezvids-easy-video-editor-for-2024/"><u>Create Unforgettable Mac Slideshows with Ezvids Easy Video Editor for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-maps-mastery-pinpointing-plug-in-points-for-ev-owners/"><u>Google Maps Mastery: Pinpointing Plug-In Points for EV Owners</u></a></li>
-<li><a href="https://win11.techidaily.com/hacking-windows-11s-login-prompts-local-admin-edition/"><u>Hacking Windows 11'S Login Prompts: Local Admin Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-invisible-5ghz-networks-on-windows-11-guide-herein/"><u>Reclaim Invisible 5GHz Networks on Windows 11: Guide Herein</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-windows-event-logger-activity/"><u>Reinstating Windows Event Logger Activity</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-access-upgrading-grandparents-windows-pcs/"><u>Simplified Access: Upgrading Grandparents' Windows PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unconventional-techniques-for-opening-an-iphones-sim-port/"><u>Unconventional Techniques for Opening an iPhone's SIM Port</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a14-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy A14 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oost-your-tv-experience-automatic-loops-of-youtube-videos-for-2024/"><u>[New] Boost Your TV Experience Automatic Loops of YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-text-warping-techniques-in-photos-and-videos-for-2024/"><u>[New] Mastering Text Warping Techniques in Photos & Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-isprings-screen-recording-explored-for-2024/"><u>[Updated] ISpring's Screen Recording Explored for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-insider-guide-to-making-and-perfecting-haul-vlogs/"><u>2024 Approved The Insider Guide to Making and Perfecting Haul Vlogs</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-90-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 90 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-missing-supported-devices-problem-in-win11/"><u>How to Correct Missing Supported Devices Problem in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-handle-windows-error-0x80071a90/"><u>How To Correctly Handle Windows Error 0X80071A90</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-15-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 15 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-unlocking-win11-mouse-features/"><u>Navigating the Maze: Unlocking Win11 Mouse Features</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-access-microsoft-store-sign-in-solutions/"><u>Recovering Access: Microsoft Store Sign-In Solutions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/snapchat-trick-turn-videos-upside-down/"><u>Snapchat Trick Turn Videos Upside Down</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-code-0x8007045d/"><u>Strategies to Tackle Windows Error Code: 0X8007045D</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-click-lock-operations-for-windows-users/"><u>Streamlining Click Lock Operations for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-roblox-crashes-on-windows-demanding-termination/"><u>Troubleshooting Roblox Crashes on Windows Demanding Termination</u></a></li>
+<li><a href="https://win11.techidaily.com/wake-up-stuck-speaker-instant-fixes-for-tech-savvy/"><u>Wake Up Stuck Speaker: Instant Fixes for Tech-Savvy</u></a></li>
 </ul></div>
 

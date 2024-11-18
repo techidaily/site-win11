@@ -1,7 +1,7 @@
 ---
 title: "Enhance Auditory Experience on Win11: Setting Up Your Shortcuts"
-date: 2024-10-31T23:32:52.778Z
-updated: 2024-11-07T17:42:15.084Z
+date: 2024-11-11T04:53:19.435Z
+updated: 2024-11-18T03:18:32.220Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up a Mute Hotkey
 
  When you’ve extracted NirCmd’s archive, no program installation is required. Nor do you even need to launch it in any way. You will, however, need to note down, or copy, NirCmd’s extracted path. Then you can set up volume control shortcuts based on that utility’s commands. This is how you can establish a mute hotkey with NirCmd.
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![The mutesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/mutesysvolume-command.png)
 7. Click **Next** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
 
  Now you’ve got a Mute shortcut on your desktop. Start playing a video in a browser or media player, and click that shortcut to mute it. You can add a hotkey to that desktop Mute button as follows.
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 4. Select **Apply** to save.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up a Hotkey for Maximizing Volume
 
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
@@ -101,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![The setsysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/setsysvolcommand.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
@@ -118,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
  Decrease volume by 5,000 units: **“NirCmd folder path\\nircmd.exe” changesysvolume -5000**
 
 ![The changesysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/changesysvolume-command.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
@@ -147,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 ![The Hotkeys tab in Volume Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeys-tab.jpg)
 5. Select the **Volume** **up** checkbox and repeat the previous step to set a hotkey for raising the volume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Then select **Toggle Mute** and repeat step nine to set a keyboard shortcut for muting the volume.
 2. Now open a program to assign the hotkeys to. A web browser or media player from which you can play music and videos would be ideal.
 3. Click the **Mixer** tab to view a list of open apps.  
@@ -162,31 +155,18 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
 
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-9-live-game-streaming-platform-you-should-know/"><u>[New] Top 9 Live Game Streaming Platform You Should Know</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-financial-independence-through-youtube-and-adsense/"><u>[Updated] 2024 Approved Achieving Financial Independence Through YouTube and AdSense</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-huntings-top-5-high-quality-video-recorders/"><u>[Updated] Hunting's Top 5 High-Quality Video Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unforgettable-visuals-key-elements-in-podcast-logo-creation-for-2024/"><u>[Updated] Unforgettable Visuals Key Elements in Podcast Logo Creation for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enjoy-apples-airplay-feature-via-googlen-new-chromecast-for-ios-98-users/"><u>Enjoy Apple's AirPlay Feature via Google'n New Chromecast for iOS 9/8 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-tick-tock-restoring-windows-time-service/"><u>Fixing the Tick-Tock: Restoring Windows Time Service</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-only-one-side-of-your-headphones-working-on-windows/"><u>How to Fix Only One Side of Your Headphones Working on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-hot-30-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Hot 30 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-exception-breakpoint-hit-on-windows-issues/"><u>Overcoming Exception Breakpoint Hit on Windows Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-to-troubleshooting-with-winrm-utility/"><u>Pathways to Troubleshooting with WinRM Utility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-connecting-oculus-quest-2-with-your-smartphone/"><u>Step-by-Step Guide: Connecting Oculus Quest 2 with Your Smartphone</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-productivity-placing-shortcuts-next-to-windows-11s-power-icon/"><u>Streamlined Productivity: Placing Shortcuts Next to Windows 11'S Power Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-common-freezing-issues-with-steam-and-games-on-windows/"><u>Tackling Common Freezing Issues with Steam and Games on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/victory-over-visual-vexations-solve-sonic-adventures-full-screen-crash-issues-in-windows-11/"><u>Victory over Visual Vexations: Solve Sonic Adventure's Full-Screen Crash Issues in Windows 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -195,3 +175,25 @@ thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-cutting-edge-tools-to-revamp-virtual-performer-voices-for-2024/"><u>[New] Cutting-Edge Tools to Revamp Virtual Performer Voices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-keeping-it-secretive-watching-instagram-live-undetected/"><u>[New] Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recordtv-easy-cost-free-windows-software-tips-for-2024/"><u>[Updated] RecordTV Easy, Cost-Free Windows Software Tips for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secrecy-in-posts-how-to-oc/"><u>[Updated] Secrecy in Posts How to Oc</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-mouse-speed-on-win-11-a-step-by-step-guide/"><u>Disabling Mouse Speed on Win 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-update-and-enforce-gpos-in-windows/"><u>Effective Strategies to Update and Enforce GPOs in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-non-responsive-windows-enter-action/"><u>Enabling Non-Responsive Windows Enter Action</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-fidelity-webcams-for-professional-podcasting/"><u>High-Fidelity Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-raw-footage-to-final-cut-youtube-edition/"><u>In 2024, From Raw Footage to Final Cut YouTube Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keeping-windows-system-time-stable/"><u>Keeping Windows' System Time Stable</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-overcoming-steam-disk-errors-and-corruption/"><u>Quick Fixes for Overcoming Steam Disk Errors and Corruption</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-windows-11s-misbehaving-drags/"><u>Quick-Fix Windows 11'S Misbehaving Drags</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-original-windows-settings-after-restart/"><u>Reclaim Original Windows Settings After Restart</u></a></li>
+<li><a href="https://article-posts.techidaily.com/serenity-through-stories-a-review-of-parent-driven-narrative-vids-for-2024/"><u>Serenity Through Stories A Review of Parent-Driven Narrative Vids for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-fix-windows-update-error-0x80242016/"><u>Step-by-Step Fix: Windows Update Error 0X80242016</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-context-list-tailoring-for-less-clutter-and-more-speed/"><u>Win 11 Context List: Tailoring for Less Clutter and More Speed</u></a></li>
+</ul></div>
+

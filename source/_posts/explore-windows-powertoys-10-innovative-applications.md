@@ -1,7 +1,7 @@
 ---
 title: "Explore Windows PowerToys: 10 Innovative Applications"
-date: 2024-11-03T20:06:40.010Z
-updated: 2024-11-07T20:05:44.917Z
+date: 2024-11-11T05:46:10.366Z
+updated: 2024-11-17T23:48:59.320Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 **Note:** Windows 7, 8, and 8.1 didn’t receive official support for PowerToys, so you might have a hard time trying to get it to work if you’re still using older Windows versions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Identify Every Color
 
  How many times did you want to include in your designs a color displayed on your screen? Instead of struggling to recreate it, you could use PowerToys' Color Picker to identify any color, no matter if it's RGB or HEX code.
@@ -55,10 +48,16 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Rename Multiple Files at Once
@@ -70,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![Rename multiple files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
@@ -84,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
 
 ## 4\. Preview Files Easier
@@ -93,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![Preview files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/preview-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
@@ -106,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  Let’s say you created a Word doc to gather information from multiple files or apps. While you keep browsing through them, Word might get buried behind other windows. To keep this from happening, you could use PowerToys’**Always on Top** .
 
 ![PowerToys Always on Top tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-on-top-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This feature will keep the designated window in front of every other app, no matter which command you use. Even if you accidentally click**Minimize** , the window will stay up until you turn**Always on Top** off.
 
@@ -127,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
  Head to**Mouse utilities** and turn on the toggle for**Enable Find My Mouse** . The next time when your cursor is lost, all you have to do is press**Left Control** twice. Also, you can use the old method of shaking the mouse, but this time, PowerToys will detect the movement and indicate your cursor position.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Manage Your Keyboard
@@ -147,7 +146,21 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Remember Every Windows Shortcut
 
@@ -162,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 ![Keep your computer awake with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/awake-1.jpg)
 
  Now, instead of[changing the Power & sleep settings](https://www.makeuseof.com/windows-11-change-power-plan/) , you can use Awake. You can set Awake to keep your computer running indefinitely or for a set time. You can even choose to keep the monitor turned on.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Of PowerToys
 
@@ -191,19 +197,22 @@ thumbnail: https://thmb.techidaily.com/829f3e424c1b3b1991d559a20a197c8257f098aee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-screen-grabbers-top-picks-for-windows-11/"><u>[New] 2024 Approved Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-what-makes-a-comment-noteworthy-on-youtube/"><u>[New] Understanding What Makes a Comment Noteworthy on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-premium-free-music-without-breaking-copyrights/"><u>[Updated] In 2024, Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-snapspectacular-high-quality-windowsmac-screenshots/"><u>[Updated] In 2024, SnapSpectacular High-Quality Windows/Mac Screenshots</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[Updated] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
-<li><a href="https://win11.techidaily.com/cranking-cadence-select-tools-that-elevate-pc-sound-past-limit/"><u>Cranking Cadence: Select Tools That Elevate PC Sound Past Limit</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstarting-your-pc-with-offline-win11-setup/"><u>Jumpstarting Your PC with Offline Win11 Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ed-themed-windows-11/"><u>Mastering Ed-Themed Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-final-cut-pro-x-not-for-you-try-these-10-alternative-video-editors/"><u>New In 2024, Final Cut Pro X Not for You? Try These 10 Alternative Video Editors</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-systems-five-key-approaches-to-reinstate-defender-safeguard/"><u>Securing Systems: Five Key Approaches to Reinstate Defender Safeguard</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
-<li><a href="https://win11.techidaily.com/synopsis-shortcut-strategies-for-win11-narrator/"><u>Synopsis: Shortcut Strategies for Win11 Narrator</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-stabilizing-your-gameplay-for-monster-hunter-world-on-pc/"><u>Troubleshooting Guide: Stabilizing Your Gameplay for Monster Hunter World on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxdvd-professional-top-qualitat-dvd-kopierer-videoqualitatsverbesserer-und-konverter-fur-smartphones/"><u>WinXDVD Professional: Top-Qualität DVD-Kopierer, Videoqualitätsverbesserer Und -Konverter Für Smartphones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-5-lite-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 5 Lite Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/capture-abc-news-footage-quickly-with-the-abcnews-video-downloader-app/"><u>Capture ABC News Footage Quickly with the ABCNews Video Downloader App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-90-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor 90 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-playstation-network-disruption-in-windows-os/"><u>Correcting PlayStation Network Disruption in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-reserve-memory-feature/"><u>Decoding Windows Reserve Memory Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-your-launchdll-missing-error-with-easy-troubleshooting-steps/"><u>Eliminate Your Launch.dll Missing Error with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-inactive-window-control-center/"><u>Fixing an Inactive Window Control Center</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lags-and-crashes-a-players-manual-for-optimizing-pubg-performance/"><u>Fixing Lags & Crashes: A Player's Manual for Optimizing PUBG Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-same-user-ms-account-error-on-desktop/"><u>Fixing Same-User MS Account Error on Desktop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s18-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S18? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/qbittorrent-relocation-from-one-pc-to-another-seamless-move/"><u>QBittorrent Relocation: From One PC, To Another Seamless Move</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-default-windows-options-after-restart/"><u>Regain Default Windows Options After Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-desktop-icons-and-menus/"><u>Restoring Functionality to Windows Desktop Icons and Menus</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/simplified-guide-to-movie-recording-on-diverse-systems/"><u>Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-chrome-edge-firefox-pasting-problems/"><u>Steps to Correct Chrome, Edge, Firefox Pasting Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-free-editing-software-substitutes-a-pinnacle-studio-pour-pc-et-mac/"><u>Top 5 Free Editing Software Substitutes À Pinnacle Studio Pour PC Et MAC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-downloads-unlocked-with-free-online-and-global-viewing/"><u>Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
 </ul></div>
 

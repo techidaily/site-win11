@@ -1,7 +1,7 @@
 ---
 title: Stop Worrying, Fix the Non-Working Esc Key Today!
-date: 2024-11-06T17:31:08.031Z
-updated: 2024-11-07T16:51:20.432Z
+date: 2024-11-11T04:41:06.809Z
+updated: 2024-11-17T17:52:57.905Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  Another thing you can do is connect your keyboard to a different computer and test the Esc key. This will help you rule out any potential hardware-related issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your Computer
 
  Restarting your computer is an age-old troubleshooting tip that can help you with a variety of issues, including this one. Doing so will give Windows and its services a fresh start, resolving any temporary glitches.
@@ -42,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
  Open the**Start menu** , click the**power icon** , and select**Restart** from the resulting menu.
 
 ![Restart Windows Computer From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Restart-Windows-Computer-From-Start-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Troubleshooters
 
@@ -74,19 +68,6 @@ To run the keyboard troubleshooter on Windows:
 2. Type**msdt.exe -id DeviceDiagnostic** in the Open field and press**Enter** .
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Filter Keys
 
@@ -120,10 +101,10 @@ To run the keyboard troubleshooter on Windows:
  Once removed, restart your PC and allow Windows to automatically reinstall the missing driver during boot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Install Windows Updates
@@ -133,10 +114,17 @@ To run the keyboard troubleshooter on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Check for Malware
@@ -144,6 +132,13 @@ To run the keyboard troubleshooter on Windows:
  If the Esc key is still not working at this point, it’s worth ensuring that your PC isn’t infected by malware. For that, you can run a full system scan using Windows Defender or a third-party antivirus program.
 
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
 
@@ -166,17 +161,16 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using the Esc Key Again on Windows
@@ -198,18 +192,22 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>2024 Approved The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-red-magic-9-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Red Magic 9 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/conquering-peaks-comparing-gopro-hero5-black-and-session-for-2024/"><u>Conquering Peaks Comparing GoPro Hero5 Black and Session for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus with a Mask On</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools/"><u>Mastering the Art of Screen Recording An In-Depth Look at ZD Software Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-customization-of-fax-pages-in-win11/"><u>Navigating Through Customization of Fax Pages in Win11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/perfect-harmony-the-finest-cd-tech-2024-edition/"><u>Perfect Harmony: The Finest CD Tech, 2024 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-your-window-experience-with-top-product-key-deals/"><u>Revolutionizing Your Window Experience with Top Product Key Deals</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solutions-nine-fixes-to-avoid-wwe-crashes-windows-11/"><u>Speedy Solutions: Nine Fixes to Avoid WWE Crashes Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/ultimate-fb-video-player-guide-top-picks-listed/"><u>Ultimate FB Video Player Guide Top Picks Listed</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-11-calendar-for-organization/"><u>Utilizing Windows 11 Calendar for Organization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-7-best-and-free-srt-translation-websites-unveiled/"><u>[New] 7 Best & Free SRT Translation Websites Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-review-showdown-max-360-vs-hero-11-edition/"><u>[New] GoPro Review Showdown Max 360 VS Hero 11 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-realms-united-identifying-the-7-best-strategy-rivals-for-2024/"><u>[New] Realms United Identifying the 7 Best Strategy Rivals for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-5-innovative-yt-tales-share-your-life-journey-for-2024/"><u>[Updated] 5 Innovative YT Tales Share Your Life Journey for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-smart-way-to-combine-igtv-with-stories/"><u>[Updated] The Smart Way to Combine IGTV with Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-revolutionizing-reality-best-vr-gadgets-today/"><u>2024 Approved Revolutionizing Reality Best VR Gadgets Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-of-the-best-a-detailed-look-at-every-available-ipad/"><u>Best of the Best: A Detailed Look at Every Available iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win1011-graphics-memory-increase-your-pcs-punch/"><u>Enhancing Win10/11 Graphics Memory: Increase Your PC's Punch</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-portable-software-integration-w11/"><u>Essential Steps for Portable Software Integration W11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-controller-blunders-on-pc/"><u>Fixing Steam Controller Blunders on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-translate-foreign-languages-with-hotkeys-in-windows-10-and-11/"><u>How to Translate Foreign Languages With Hotkeys in Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-app-review-for-crafting-unique-reels/"><u>In 2024, The Ultimate App Review for Crafting Unique Reels</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-wi-fi-deletion-on-windows-11/"><u>Navigating Wi-Fi Deletion on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-net-core-runtime-error-on-windows-a-guide/"><u>Resolving .NET Core Runtime Error on Windows: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-order-steady-your-windows-updates-again/"><u>Restore Order: Steady Your Windows Updates Again</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/savor-the-ultimate-bargains-oneplus-prime-shopping-fiesta-deals/"><u>Savor the Ultimate Bargains: OnePlus Prime Shopping Fiesta Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-less-clutter-automating-your-trash-bin-emptying-procedure/"><u>The Path to Less Clutter: Automating Your Trash Bin Emptying Procedure</u></a></li>
 </ul></div>
 

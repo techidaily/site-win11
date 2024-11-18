@@ -1,7 +1,7 @@
 ---
 title: Restoring Window's Firewall - 4 Effective Strategies
-date: 2024-11-01T16:48:33.743Z
-updated: 2024-11-07T21:28:51.975Z
+date: 2024-11-15T06:11:13.061Z
+updated: 2024-11-18T01:34:14.254Z
 tags:
   - windows10
   - windows11
@@ -49,14 +49,14 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
- After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
 
 ## 3\. Reset the Windows Firewall settings
 
@@ -71,21 +71,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
 2. Once done, open Run again.
@@ -96,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 6. Wait for the command to execute and then restart your computer. Check if the problem is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Registry Editor
@@ -120,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
@@ -138,29 +131,18 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-a-beginners-pathway-for-live-streaming-pre-recorded-content/"><u>[New] A Beginner's Pathway for Live Streaming Pre-Recorded Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-sketch-it-right-top-8-proficient-drawing-apps-for-iphone-users-for-2024/"><u>[New] Sketch It Right Top 8 Proficient Drawing Apps for iPhone Users for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-x1000d-vivid-full-action-cam-test/"><u>2024 Approved Sony X1000D Vivid - Full Action Cam Test</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Moto G23</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends/"><u>In 2024, Farming Fun & Friendship The Best AgriGames to Bond With Friends</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 11 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-through-tech-wonders-the-ultimate-guide-from-toms-hardware/"><u>Navigating Through Tech Wonders: The Ultimate Guide From Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-hang-how-to-fix-dxgierrordevicehunk/"><u>Overcoming Device Hang: How to Fix DXGI_ERROR_DEVICE_HUNK</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-non-terminated-processes-windows/"><u>Quick Guide to Fixing Non-Terminated Processes Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/snapping-a-snapshot-with-windows-11s-toolkit/"><u>Snapping a Snapshot with Windows 11'S Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-minimized-tiworkerexe-cpu-activity/"><u>Solutions for Minimized TiWorker.exe CPU Activity</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-closed-nvidia-cp-window/"><u>Strategies for Addressing Closed NVidia CP Window</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-systems-with-microsofts-pc-manager-setup-on-win11/"><u>Streamlining Systems with Microsoft's PC Manager Setup on Win11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +151,23 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-re-establishing-obs-audio-recording-capabilities-for-2024/"><u>[New] Re-Establishing OBS Audio Recording Capabilities for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-newbies-guide-to-av1-codec/"><u>[Updated] In 2024, The Newbie's Guide to AV1 Codec</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-sphere-shift-identifying-the-days-hottest-tweets-for-2024/"><u>[Updated] Social Sphere Shift Identifying the Day's Hottest Tweets for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-turning-off-instagrams-igtv-in-a-nutshell/"><u>[Updated] Turning Off Instagram's IGTV in a Nutshell</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-gestures-and-swipes-for-flawless-pc-use-in-windows/"><u>Enhancing Gestures and Swipes for Flawless PC Use in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-no-hypervisor-detected-error-on-windows-sandbox/"><u>How to Solve No Hypervisor Detected Error on Windows Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/key-to-savings-discover-black-fridays-top-price-on-windows-11-at-612lifetime/"><u>Key to Savings - Discover Black Friday's Top Price on Windows 11 at $6.12/Lifetime</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-windows-ease-center-the-essential-guide/"><u>Navigating To Windows Ease Center: The Essential Guide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ps5-master-reset-a-step-by-step-guide-on-saving-your-saved-games/"><u>PS5 Master Reset: A Step-by-Step Guide on Saving Your Saved Games</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-your-calendar-the-windows-outlook-way/"><u>Revamping Your Calendar - The Window's Outlook Way</u></a></li>
+<li><a href="https://techtrends.techidaily.com/showdown-of-smartwatches-is-it-time-to-switch-to-google-pixel-or-stick-with-apple-watch-s9-insights-expert-analysis/"><u>Showdown of Smartwatches: Is It Time to Switch to Google Pixel or Stick with Apple Watch S9? Insights Expert Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-dll-not-loaded-in-steam/"><u>Strategies for Fixing Dll Not Loaded in Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-fix-resurrecting-missing-dxgidll-file/"><u>Win11 Fix: Resurrecting Missing Dxgi.dll File</u></a></li>
+<li><a href="https://discover-best.techidaily.com/youtube-chrome/"><u>YouTube 字幕ファイルを Chrome ブラウザで簡単にダウンロード</u></a></li>
+</ul></div>
+

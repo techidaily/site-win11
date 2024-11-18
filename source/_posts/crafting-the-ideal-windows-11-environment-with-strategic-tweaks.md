@@ -1,7 +1,7 @@
 ---
 title: Crafting the Ideal Windows 11 Environment with Strategic Tweaks
-date: 2024-11-03T21:23:16.090Z
-updated: 2024-11-07T16:45:27.727Z
+date: 2024-11-10T17:37:21.087Z
+updated: 2024-11-18T00:05:20.822Z
 tags:
   - windows10
   - windows11
@@ -41,28 +41,15 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set Up Nearby Sharing
 
 ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
@@ -78,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
@@ -87,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 ![Find My Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-my-device-edit.jpg)
 
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out[how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Tweak the Night Light Setting to Get Better Sleep
 
@@ -99,29 +100,22 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Set Active Hours
 
  If you used Windows 10 previously, you might already be familiar with Active hours. The feature is meant to give you more control over Windows updates.
 
 ![Active Hours](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-active-hours-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
  Windows 11 understands your daily activity and automatically chooses a timescale during which you usually do not use your PC. You can choose manually select the time if your daily usage does not follow a particular pattern. You need to tweak this setting to ensure that Windows updates do not come in the way of whatever you are doing during your work schedule.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Enable Dark Mode to Reduce Eyestrain
 
@@ -138,10 +132,10 @@ Here is how you can enable Dark mode on your Windows 11 PC:
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You Are Better Off Enabling the Above Windows 11 Settings
@@ -163,19 +157,16 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-outro-aesthetics-selecting-templates-any-budget/"><u>[New] Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos/"><u>[Updated] Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-resolve-security-error-in-windows-11/"><u>Essential Steps to Resolve Security Error in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fan-up-how-to-reduce-overheating-while-playing-games/"><u>Fan Up: How to Reduce Overheating While Playing Games</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic5-ultimate-phone-without-password-by-drfone-android/"><u>How To Unlock Honor Magic5 Ultimate Phone Without Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c50-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco C50 Phone without PIN</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out/"><u>In 2024, GoPro’s Underwater Journey Essential Tactics to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-tasks-at-the-forefront-a-guide-to-sticky-notes-elevation-on-win-11/"><u>Keep Your Tasks at the Forefront: A Guide to Sticky Notes Elevation on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/next-gen-notion-how-windows-11-differs-from-its-predecessor/"><u>Next-Gen Notion: How Windows 11 Differs From Its Predecessor</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-failure-error-code-0x80073d26/"><u>Quick Fix for Microsoft Store Failure: Error Code 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-workflow-adjusting-shortcut-placement-on-win11/"><u>Streamline Your Workflow: Adjusting Shortcut Placement on Win11</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-new-workforce-understanding-facebooks-metamates/"><u>The New Workforce: Understanding Facebook’s ‘Metamates’</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-into-the-world-of-incredible-ig-filmmaking/"><u>[New] In 2024, Step Into the World of Incredible IG Filmmaking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>[Updated] Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-cameras-for-face-recording-facing-screen-included/"><u>Elite Cameras for Face Recording Facing Screen Included</u></a></li>
+<li><a href="https://win11.techidaily.com/epochs-in-windows-a-masterclass-guide/"><u>Epochs in Windows: A Masterclass Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressive-french-greetings-for-every-occasion-and-setting/"><u>Expressive French Greetings for Every Occasion & Setting</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-bluetooth-audio-alone-no-controls-available/"><u>Fixing Windows Bluetooth Audio Alone - No Controls Available</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-youtube-elite-earnings-leader/"><u>Global YouTube Elite Earnings Leader</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-the-art-of-adding-youtube-playlists-to-your-website-seamlessly/"><u>In 2024, Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-using-app-guard-for-cam-plus-mic-on-edge/"><u>Securely Using App Guard for Cam + Mic on Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-solutions-for-disallowed-login-attempts-in-windows/"><u>Top 8 Solutions for Disallowed Login Attempts in Windows</u></a></li>
 </ul></div>
 

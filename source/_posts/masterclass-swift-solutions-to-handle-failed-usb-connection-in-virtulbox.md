@@ -1,7 +1,7 @@
 ---
 title: "Masterclass: Swift Solutions to Handle Failed USB Connection in VirtulBox"
-date: 2024-11-01T23:14:13.085Z
-updated: 2024-11-07T19:28:10.639Z
+date: 2024-11-14T08:56:01.996Z
+updated: 2024-11-17T16:42:56.710Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now, you know the possible reasons why VirtualBox throws an error code when you connect a USB device. Here are the following methods you can try to fix the error code and successfully connect the USB device to the virtual machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the "Failed to Attach the USB Device" Error in Windows
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
@@ -43,6 +50,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 ### 1\. Restart VirtualBox
 
  Before you move on to other advanced fixes, restart the VirtualBox application. If restarting the app doesn’t work, restart Windows. It will restart all the processes and services including the ones VirtualBox needs to function properly. Now, connect a USB device and try to attach it to a virtual machine in VirtualBox. If it still doesn’t show up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Check the USB Device on the Host System
 
@@ -55,6 +69,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  If the USB port on your system malfunctions, the USB drive won’t show up in Device Manager or File Explorer. But if the USB drive doesn’t appear in the device manager even after changing the port, it could have a hardware malfunction. In that case, try connecting another USB drive to VirtualBox virtual machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Install the VirtualBox Extension Pack
 
  VirtualBox can only attach USB 1.0 devices to a virtual machine. You need to install the extension pack to add USB 2.0 or 3.0 devices. Here’s how to do it.
@@ -66,23 +87,9 @@ Here are some possible reasons for the VirtualBox USB devices error.
 ![_Install the VirtualBox Extension Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/_Install-the-VirtualBox-Extension-Pack.jpg)
 5. Click on the**Install** icon and select the extension pack file you downloaded in step 3.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click on the**Install** button, accept the**EULA** and click on the**I Agree** button.
 7. Wait for the extension pack to install.
 8. Run the virtual machine and try to connect the USB device to it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Update VirtualBox
 
@@ -95,13 +102,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Run the downloaded executable file and follow the on-screen instructions to install it on your system. Also, install the extension pack as illustrated in Method 3 above.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
  A mismatch in the USB controller settings can also produce the VirtualBox error. If you want to add a USB device to the VirtualBox virtual machine, you must select the correct USB controller option in the USB settings.
@@ -112,14 +112,21 @@ Here are some possible reasons for the VirtualBox USB devices error.
 4. Then, select the USB 2.0 or 3.0 controller option located below the**Enable USB controller** option.  
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
-6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
 
 ### 6\. Reinstall the VBox USB drivers
 
@@ -133,10 +140,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Reinstall VirtualBox
@@ -171,20 +178,22 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts-for-2024/"><u>[New] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-templates-for-sustainable-storytelling/"><u>[Updated] Free Templates for Sustainable Storytelling</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-exclusive-downloads-top-8-stealthy-tools/"><u>[Updated] In 2024, Exclusive Downloads Top 8 Stealthy Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-taking-command-of-zoom-breakout-sessions/"><u>[Updated] Taking Command of Zoom Breakout Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/content-authenticity-at-risk-explore-these-8-pitfalls-when-using-ai-chatbots-for-writing/"><u>Content Authenticity at Risk? Explore These 지8 Pitfalls When Using AI Chatbots for Writing</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-connectivity-mastering-the-use-of-winnettools/"><u>Enhance Connectivity: Mastering the Use of WinNetTools</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-no-internet-access-on-an-ethernet-connection-on-windows/"><u>How to Fix No Internet Access on an Ethernet Connection on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-performance-issues-with-netflix-on-windows/"><u>Improving Performance Issues with Netflix on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-custom-key-combinations-on-windows-11/"><u>Mastering Custom Key Combinations on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-crashes-and-freezes-with-vmware-in-windows-11/"><u>Overcoming Crashes & Freezes with VMware in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-missing-windows-6-essential-tactics-in-win11/"><u>Reactivating Missing Windows: 6 Essential Tactics in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-display-driver-startup-fails-issue-on-windows-11/"><u>Rectifying Display Driver Startup Fails Issue on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971724448-ultimate-guide-to-install-logitech-driving-force-pro-on-windows-7810-free-downloads-available/"><u>Ultimate Guide to Install Logitech Driving Force Pro on Windows 7/8/10 - Free Downloads Available</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-windows-10-webcam-recording-top-10-software-options/"><u>Updated 2024 Approved Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
-<li><a href="https://win-net.techidaily.com/44kq44oq44oz44or44k544kr44oh44op44gu44ov44kh44kk44or44gl44kj55s75yop44ks5zue5b6p44gz44kl5pa55rov/"><u>オリンパスカメラのファイルから画像を回復する方法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[Updated] 2024 Approved Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>[Updated] Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-success-top-strategies-for-converting-bup-files-to-mp4-smoothly/"><u>1. Success! Top Strategies for Converting BUP Files to MP4 Smoothly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-avoid-facebooks-invasion-keeping-feeds-free-of-ads/"><u>2024 Approved Avoid Facebook's Invasion Keeping Feeds Free of Ads</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-win11-with-a-custom-screensaver/"><u>Enhance Win11 with a Custom Screensaver</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-computer-experience-with-these-win11-god-mode-secrets/"><u>Enhance Your Computer Experience with These Win11 God Mode Secrets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cadences-and-crescendos-your-ringtone-repository-guide/"><u>In 2024, Cadences and Crescendos Your Ringtone Repository Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-key-to-wealth-in-web-videos-view-count-imperative/"><u>In 2024, The Key to Wealth in Web Videos View Count Imperative</u></a></li>
+<li><a href="https://win11.techidaily.com/lock-out-period-customization-in-windows-os/"><u>Lock Out Period Customization in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-virtual-memory-expansion-in-windows-11-updates/"><u>Mastering Virtual Memory Expansion in Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-experience-the-top-10-for-windows-11-display-controls/"><u>Optimize Your Experience: The Top 10 for Windows 11 Display Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-smooth-operations-anydesk-and-win11-synergy/"><u>Restoring Smooth Operations: AnyDesk & Win11 Synergy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stages-of-change-for-2024/"><u>Stages of Change for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-by-step-strategies-for-sizzling-tiktok-videos-via-mac-editing-for-2024/"><u>Step-by-Step Strategies for Sizzling TikTok Videos via Mac Editing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-lockout-timer-after-failed-windows-sign-in/"><u>Tailoring Lockout Timer After Failed Windows Sign-In</u></a></li>
+<li><a href="https://win11.techidaily.com/winsplit-solutions-for-syncing-displays/"><u>WinSplit: Solutions for Syncing Displays</u></a></li>
 </ul></div>
 

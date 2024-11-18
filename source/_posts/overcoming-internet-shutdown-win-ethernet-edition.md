@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Internet Shutdown: Win Ethernet Edition"
-date: 2024-11-03T16:10:26.927Z
-updated: 2024-11-07T21:55:54.155Z
+date: 2024-11-14T19:17:28.252Z
+updated: 2024-11-17T19:20:45.186Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Rule Out Router Issues
 
  To make sure the problem isn't with your router, take the following steps:
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Troubleshoot Your Ethernet Connection
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Rule Out Operating System Issues
 
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -93,18 +93,18 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, restart your device once to ensure the changes take effect.
 
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  DNS serves as the backbone of your internet connection and translates domain names into IP addresses. If you haven't changed your DNS since your internet service provider set up your connection, likely, you're still using the DNS server the internet service provider assigned you initially.
 
@@ -113,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset the Network Settings
@@ -139,27 +133,6 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audience-engagement-the-most-excellent-webcams-for-podcasts/"><u>2024 Approved Audience Engagement The Most Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-future-filming-top-15-video-cameras-to-watch/"><u>2024 Approved Future Filming – Top 15 Video Cameras to Watch</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-date-and-time-showcase-on-taskbar/"><u>Customizing Date and Time Showcase on Taskbar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-food-monitoring-tools-the-ultimate-top-6-list/"><u>Essential Food Monitoring Tools: The Ultimate Top 6 List</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2021-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2021 Files</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-13-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 13 Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-s21-fe-5g-2023-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy S21 FE 5G (2023) Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-forward-with-windows-multiple-folder-creation-features/"><u>Leap Forward with Windows' Multiple Folder Creation Features</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-opening-hesitant-exe-files/"><u>Mastering the Art of Opening Hesitant Exe Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/migrar-flash-animaciones-gratis-de-swf-a-formato-mp4-usando-la-herramienta-en-linea-de-movavi/"><u>Migrar Flash Animaciones Gratis De SWF a Formato MP4 Usando La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/revamping-your-pcs-firewall-5-methods/"><u>Revamping Your PC's Firewall: 5 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-engineer-windows-1011-error-0xc00ce556/"><u>Reverse Engineer Windows 10/11 Error 0xC00CE556</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-efficiency-mapping-drives-on-windows-11-pro/"><u>Unlock Efficiency: Mapping Drives on Windows 11 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-index-configuration-in-windows/"><u>Unlock Index Configuration in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/using-your-android-on-windows-11-as-an-effective-webcam/"><u>Using Your Android on Windows 11 as an Effective Webcam</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +140,24 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-expertise-in-forming-inspiring-collage-photos/"><u>[New] 2024 Approved Expertise in Forming Inspiring Collage Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-camera-screen-to-insta-story-editing-high-aspect-video-with-fcpx/"><u>[New] From Camera Screen to Insta Story Editing High Aspect Video with FCPX</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-designing-engaging-instagram-feature-film-posts-for-2024/"><u>[Updated] Designing Engaging Instagram Feature Film Posts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-youtubes-cost-structure-explained/"><u>[Updated] In 2024, Youtube's Cost Structure Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>[Updated] Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-your-twitch-sessions-step-by-step/"><u>2024 Approved Capturing Your Twitch Sessions Step by Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-mobile-photography-with-targeted-blurs/"><u>2024 Approved Perfect Your Mobile Photography with Targeted Blurs</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-to-perfection-the-8-premium-windows-video-editing-software/"><u>Cut to Perfection: The 8 Premium Windows Video Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-problematic-error-0x80300024-in-winxp/"><u>Disabling Problematic Error: 0X80300024 in WinXP</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-and-easy-dns-cleanup-on-windows-11/"><u>Fast and Easy DNS Cleanup on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23plus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-y100-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo Y100 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-faulty-wheel-in-windows/"><u>Navigating the Faulty Wheel in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/pagefilesys-in-windows-functions-and-frequent-questions-answered/"><u>Pagefile.sys in Windows: Functions & Frequent Questions Answered</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-full-potential-to-windows-11s-fixer-tools/"><u>Restoring Full Potential to Windows 11'S Fixer Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-enhancements-a-leap-forward-in-the-22h2-moment/"><u>Windows 11 Enhancements: A Leap Forward in the 22H2 Moment</u></a></li>
+</ul></div>
+

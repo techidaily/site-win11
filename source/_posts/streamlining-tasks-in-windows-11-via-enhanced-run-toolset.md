@@ -1,7 +1,7 @@
 ---
 title: Streamlining Tasks in Windows 11 via Enhanced Run Toolset
-date: 2024-10-31T23:11:48.181Z
-updated: 2024-11-07T22:07:26.461Z
+date: 2024-11-11T05:18:35.466Z
+updated: 2024-11-17T18:41:14.387Z
 tags:
   - windows10
   - windows11
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -90,32 +97,31 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
@@ -136,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
@@ -143,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
@@ -172,24 +178,21 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/aws-surrounding-personal-recording-on-youtube-site-for-2024/"><u>[New] Laws Surrounding Personal Recording on YouTube Site for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-revised-video-standards-aspect-ratios-included-for-2024/"><u>[New] Twitter's Revised Video Standards Aspect Ratios Included for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-of-the-best-android-calls-with-more-than-just-two/"><u>[Updated] 2024 Approved Best of the Best Android Calls with More Than Just Two</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views/"><u>[Updated] 2024 Approved Next-Level Immersion Top 10 Innovative PC VR Headsets for 360 Views</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-windows-11-geforce-x0001-hiccup/"><u>Eradicating Windows 11 GeForce X0001 Hiccup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-camcorders-transforming-podcast-engagement/"><u>In 2024, Optimal Camcorders Transforming Podcast Engagement</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovators-at-war-notion-ai-vs-gpt-3-in-the-spotlight/"><u>Innovators at War: Notion AI Vs. GPT-3 in the Spotlight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-at-home-productivity-in-6-simple-steps-with-chatgpt/"><u>Maximize At-Home Productivity in 6 Simple Steps with ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-steam-login-failures-with-windows-and-rust-code/"><u>Navigating the Maze of Steam Login Failures with Windows & Rust Code</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-detection-hardware-errors/"><u>Overcoming Non-Detection Hardware Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-and-efficiency-5-handy-tips-for-managing-windows-folders/"><u>Quick Access & Efficiency: 5 Handy Tips for Managing Windows Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/seeking-efficiency-the-ultimate-guide-to-low-ram-browser-choices/"><u>Seeking Efficiency: The Ultimate Guide to Low-RAM Browser Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/spinning-visuals-easy-6-tips-to-flip-image-on-your-pc/"><u>Spinning Visuals Easy: 6 Tips to Flip Image on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-for-using-winstall-for-group-applications-on-windows-11/"><u>The Essential Guide for Using Winstall for Group Applications on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/trim-tabs-before-they-tab-w11-guide-to-disabling-edge/"><u>Trim Tabs Before They Tab: W11 Guide to Disabling Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/win-over-lags-6-key-fixes-for-a-swift-windows-11/"><u>Win Over Lags: 6 Key Fixes for a Swift Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-comprehensive-look-at-youtube-to-facebook-file-transfers/"><u>[Updated] 2024 Approved A Comprehensive Look at YouTube-to-Facebook File Transfers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>[Updated] 2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-who-are-you-unraveling-youtuber-personalities-in-6-quizzes/"><u>2024 Approved Who Are You? Unraveling YouTuber Personalities in 6 Quizzes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/becoming-an-expert-in-fisheye-panoramic-shots-for-2024/"><u>Becoming an Expert in Fisheye Panoramic Shots for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-mpeg/"><u>DVDフリーコンバータ - 無料でMPEGへの変換ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-usb-management-in-windows-11/"><u>Effortless USB Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-11-art-apps-ranked/"><u>Essential Windows 11 Art Apps Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-mcuicnt-entry-not-found-error-in-windows-os/"><u>Fixing McUICnt Entry Not Found Error in Windows OS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/limiting-processes-a-pc-guide/"><u>Limiting Processes: A PC Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mp60-minipc-expansive-hard-drives-effortless-execution/"><u>MP60 MiniPC: Expansive Hard Drives, Effortless Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-inbuilt-pdf-printer/"><u>Personalizing Windows' Inbuilt PDF Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fire-shortcuts-in-microsoft-project/"><u>Quick-Fire Shortcuts in Microsoft Project</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X9b Location | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-approaches-to-retaining-musical-pitch-while-diminishing-song-speed/"><u>Updated Approaches to Retaining Musical Pitch While Diminishing Song Speed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tap Into a World of Possibilities: Enabling Gestures on Microsoft Edge (Windows 11)"
-date: 2024-10-31T19:45:23.246Z
-updated: 2024-11-07T20:28:08.854Z
+date: 2024-11-12T07:39:17.971Z
+updated: 2024-11-18T06:09:06.802Z
 tags:
   - windows10
   - windows11
@@ -50,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
  You can also use the **Reset all gestures** option to restore all the gestures to their default settings.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Quickly Navigate Between Pages Using Mouse Gestures on Edge for Windows 11
@@ -68,23 +62,6 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/advanced-techniques-for-using-the-instagram-sticker-question-mark/"><u>Advanced Techniques for Using the Instagram Sticker Question Mark</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boost-your-instagrams-accessibility-with-easy-caption-features/"><u>Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capacity-limit-how-many-vids-in-128gb/"><u>Capacity Limit How Many Vids in 128GB?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-the-gtx-43/"><u>Fixing the GTX 지오크스 43 오류 문제: 웹사이트에서 찾기 위한 금고 해결 방식</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-a60-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Itel A60 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/research-made-easy-the-ultimate-guide-to-citation-formats-for-chatgpt-contributions/"><u>Research Made Easy: The Ultimate Guide to Citation Formats for ChatGPT Contributions</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-spotify-link-troubles-with-win11/"><u>Resolving Spotify Link Troubles with Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-disabling-windows-license-deadline-alerts/"><u>Solutions for Disabling Windows License Deadline Alerts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96162168-9781785357145-soulworks/"><u>SoulWorks | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/speeding-up-your-computer-restart-the-windows-11-fast-startup-guide/"><u>Speeding Up Your Computer Restart: The Windows 11 Fast Startup Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-starting-afresh-with-windows-11-installation/"><u>The Art of Starting Afresh with Windows 11 Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-modifying-windows-1011-nat-settings/"><u>Understanding and Modifying Windows 10/11 NAT Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-fixes-for-windows-11s-grayed-out-memory-option/"><u>Unveiling Hidden Fixes for Windows 11’S Grayed-Out Memory Option</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -92,3 +69,21 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-fix-for-paused-facebook-livestreams-2023s-tips-and-tricks-for-2024/"><u>[New] Quick Fix for Paused Facebook Livestreams, 2023'S Tips & Tricks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-experience-the-future-with-these-top-iphone-vr-titles/"><u>[Updated] In 2024, Experience the Future with These Top iPhone VR Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>[Updated] Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatgpts-built-in-enhancements/"><u>Decoding ChatGPT's Built-In Enhancements</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/"><u>Elevating Your Work with Impeccable Thumbnails</u></a></li>
+<li><a href="https://win11.techidaily.com/expediting-remedies-for-virtualboxs-efail-error-on-windows/"><u>Expediting Remedies for Virtualbox’s E_FAIL Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-child-safety-in-windows-11-settings/"><u>Implementing Child Safety in Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/novice-to-pro-generating-win11-sefx-archives/"><u>Novice to Pro: Generating Win11 SEFx Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-chrome-file-upload-obstacles-in-windows-os/"><u>Overcoming Chrome File Upload Obstacles in Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-optimize-webview2-memory-on-edge/"><u>Strategies to Optimize WebView2 Memory on Edge</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/streamline-your-video-livestreaming-vlc-strategies-for-2024/"><u>Streamline Your Video Livestreaming VLC Strategies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-smart-search-utilizing-microsofts-ai-features-in-bing-for-android/"><u>Unlocking Smart Search: Utilizing Microsoft's AI Features in Bing for Android</u></a></li>
+</ul></div>
+

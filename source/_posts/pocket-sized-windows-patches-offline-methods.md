@@ -1,7 +1,7 @@
 ---
 title: "Pocket-Sized Windows Patches: Offline Methods"
-date: 2024-11-04T19:01:44.362Z
-updated: 2024-11-07T17:47:37.839Z
+date: 2024-11-10T19:42:33.886Z
+updated: 2024-11-17T18:04:50.431Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
  After launching Portable Update, click on **Start** for the app to download the files it needs to run. This process shouldn't take long, and when it's done, the app should open completely.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Scan for the Update Files
@@ -54,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
 ![an empty search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/an-empty-search-tab-in-portable-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the Portable Update completes its search, it will list the available Windows updates that you can download.
 
 ![a populated search tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-populated-search-tab-in-portable-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, that you know what's available, it's time to download the files for offline installation.
 
@@ -79,48 +73,31 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
  Now you're ready to move the program over to the offline computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Install the Selected Windows Updates
 
  Unplug the USB drive with Portable Update on it, plug it into the offline computer, and launch it. Now, go to the **Install** tab, select all the downloads you want to install, and then click **Start** in the top-right corner. Portable Update will then install the updates.
 
 ![the Install tab in Portable Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-tab-in-portable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After Portable Update does its thing, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to let the OS finish installing the updates on its side of things (like it normally does).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Windows Updates Another Way
 
  You can update an offline computer easily with Portable Update. As long as you have the program and all the necessary Windows Update files, the process should be a breeze. The best part is that you can update any other computer that needs an update this way, even if it has internet access.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-launch-xp-movie-editor-for-seamless-editing-for-2024/"><u>[New] Launch XP Movie Editor for Seamless Editing for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-igniting-your-individual-brand-flame/"><u>[Updated] Igniting Your Individual Brand Flame</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-common-windows-problems-addressing-the-entry-point-not-found-error/"><u>DIY Fixes for Common Windows Problems: Addressing the Entry Point Not Found Error</u></a></li>
-<li><a href="https://win11.techidaily.com/epic-launcher-stability-stop-crashes-and-freezes-on-pcs/"><u>Epic Launcher Stability: Stop Crashes & Freezes on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-perfection-of-surface-laptop-studio-2-creativity/"><u>Exploring the Perfection of Surface Laptop Studio 2 Creativity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-huawei-by-drfone-android/"><u>Full Guide to Unlock Your Huawei</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/up-your-content-with-these-effective-freefire-video-hashtags-for-2024/"><u>Game Up Your Content with These Effective FreeFire Video Hashtags for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-steams-share-feature-a-comprehensive-walkthrough/"><u>Mastering Steam's Share Feature: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/scribble-to-screen-find-the-best-notes-tools-on-windows/"><u>Scribble to Screen: Find the Best Notes Tools on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-informed-on-the-go-configuring-slack-push-alerts-on-ios-devices-and-apple-smartwatches-zdnet-insights/"><u>Stay Informed On The Go: Configuring Slack Push Alerts on iOS Devices & Apple Smartwatches | ZDNET Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
-<li><a href="https://win11.techidaily.com/win-tech-tip-repair-razer-synapse-in-1110/"><u>Win Tech Tip: Repair Razer Synapse in 11/10</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +106,23 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-fusing-live-streams-combining-cameras-plus-monitors/"><u>[New] In 2024, Fusing Live Streams Combining Cameras + Monitors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>[New] In 2024, Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-live-stream-to-youtube-with-wirecast/"><u>[Updated] How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-new-sound-centric-wearable-tech-expected-price-point-and-launch-details-revealed/"><u>Apple's New Sound-Centric Wearable Tech: Expected Price Point and Launch Details Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/enlarge-windows-memory-protect-user-data/"><u>Enlarge Windows Memory, Protect User Data</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-concept-to-completion-using-magix-video-pro-x-for-2024/"><u>From Concept to Completion Using Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-persistent-0x800f0831-error-in-windows-11-and-11/"><u>How to Fix a Persistent 0X800f0831 Error in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-persistent-crashing-in-insurgency-sandstorm-a-complete-guide/"><u>How to Fix Persistent Crashing in Insurgency: Sandstorm - A Complete Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manage-and-learn-about-bios-with-revouninstaller-tools/"><u>How to Manage and Learn About BIOS with RevoUninstaller Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/master-method-skipping-windows-11-logon/"><u>Master Method: Skipping Windows 11 Logon</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-linux-with-windows-software/"><u>Maximizing Linux with Windows Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/narrative-innovators-academy-elite-list/"><u>Narrative Innovators Academy - Elite List</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-blackout-mystery/"><u>NVIDIA Blackout Mystery</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-error-for-mfc71udll/"><u>Troubleshooting Win Error for Mfc71u.dll</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-phones-in-the-windows-audio-domain/"><u>Unleashing Potential: Phones in the Windows Audio Domain</u></a></li>
+</ul></div>
+

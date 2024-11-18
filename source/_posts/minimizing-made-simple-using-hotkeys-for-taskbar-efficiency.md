@@ -1,7 +1,7 @@
 ---
 title: "Minimizing Made Simple: Using Hotkeys for Taskbar Efficiency"
-date: 2024-11-06T16:57:13.162Z
-updated: 2024-11-07T22:12:12.924Z
+date: 2024-11-12T02:55:51.371Z
+updated: 2024-11-18T09:37:33.898Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 2. Extract the MinimizeToTray ZIP archive to a folder. This [how-to unzip ZIP files guide](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/) includes instructions for extracting ZIP archives on a Windows 11 PC.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option5.jpg)
 3. Double-click **MinimizeToTray** in the software’s extracted folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open a window to try out the MinimizeToTray hotkey.
 5. Press **Alt** \+ **F1** to minimize the active software window to the system tray.
 
@@ -59,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![The context menufor MinimizetoTray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/minimizetotray-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to change the MinimizeToTray hotkeys, select **Configs** on its context menu. That will bring up a window on which you can set the keyboard shortcuts for minimizing and restoring windows. Click inside a hotkey box and press some keys to set a different keyboard shortcut. Select **OK** in the Edit Hotkeys window to save your new keyboard shortcuts.
@@ -70,17 +78,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![The Edit Hotkeys window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-hotkey-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Minimize Windows to the System Tray With 4t Tray Minimizer
@@ -106,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ![The 4t Tray Minimizer Free window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Plus, you can minimize windows to the system tray without pressing the **Shift** \+ **Esc** hotkey. To do so, right-click their **Minimize** buttons.
 
  4t Tray Minimizer has some additional hotkeys you can utilize. Pressing the **Shift** \+ **Ctrl** \+ **M** keyboard shortcut will minimize all windows to the system tray. You can also press **Shift** \+ **Ctrl** \+ **R** to quickly restore all the windows minimized in the tray.
@@ -118,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ![The new title bar options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/additional-title-bar-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The hotkeys for those title bar options are disabled by default. However, you can enable them by selecting the **Show disabled** hotkeys checkbox on the **Keyboard** tab. Select the checkboxes for the active window hotkeys to enable those keyboard shortcuts.
 
  If you want to add even more new options to the window title bar, check out eXtra Buttons and Chameleon Window Manager Lite. This guide about [adding more buttons to window title bars](https://www.makeuseof.com/windows-10-11-add-new-buttons-to-title-bars/) provides further details about how to utilize those software packages.
@@ -135,21 +136,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  However, some third-party software packages enable you to minimize windows to the system tray with hotkeys. This is how you can minimize software to the Windows system tray area with keyboard shortcuts.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elevating-the-cold-with-five-cozy-cinematic-elements/"><u>[New] 2024 Approved Elevating the Cold with Five Cozy Cinematic Elements</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-guide-to-essential-asmr-video-facts/"><u>[New] In 2024, A Guide to Essential ASMR Video Facts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop/"><u>[Updated] Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-instruction-for-wm6-install/"><u>[Updated] Step-by-Step Instruction for WM6 Install</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamsmart-beyond-the-dacast-shell-for-2024/"><u>[Updated] StreamSmart Beyond the DaCast Shell for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-tweets-to-tomes-the-full-year-in-video-for-2024/"><u>From Tweets to Tomes The Full Year in Video for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/outlook-and-pc-steps-to-address-sync-troubles/"><u>Outlook & PC: Steps to Address Sync Troubles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/prime-picks-of-youtubes-snackable-shorter-videos-free-for-2024/"><u>Prime Picks of YouTube's Snackable Shorter Videos (FREE) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-stopping-accidental-keystrokes/"><u>Strategies for Stopping Accidental Keystrokes</u></a></li>
-<li><a href="https://win11.techidaily.com/stylish-and-streamlined-customizing-your-win11-desktop/"><u>Stylish & Streamlined: Customizing Your Win11 Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-techniques-to-identify-your-windows-computer-name/"><u>Top 6 Techniques to Identify Your Windows Computer Name</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,3 +143,25 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-process-invert-video-order-using-vlc-application/"><u>[New] 2024 Approved Easy Process Invert Video Order Using VLC Application</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-drones-to-dream-innovative-editing-approaches-for-2024/"><u>[New] Drones to Dream Innovative Editing Approaches for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-techniques-for-optimal-steam-gameplay-capture/"><u>[New] Top Techniques for Optimal Steam Gameplay Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-ai-visual-effects-system-for-2024/"><u>[New] Ultimate AI Visual Effects System for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-innovators-pathway-advanced-video-editing-techniques-for-instagram/"><u>[Updated] 2024 Approved The Innovator's Pathway Advanced Video Editing Techniques for Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-accessories-for-travel-footage-production/"><u>2024 Approved Accessories for Travel Footage Production</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-masterclass-in-picture-text-edits-and-overlays/"><u>2024 Approved Masterclass in Picture Text Edits and Overlays</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-windows-11-remote-access/"><u>Essential Steps for Windows 11 Remote Access</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-post-production-colors/"><u>In 2024, Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-local-drive-space-in-windows-11-safely-no-data-loss-max-156-chars/"><u>Maximize Your Local Drive Space in Windows 11 Safely (No Data Loss, Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-ignored-devices-with-the-help-of-razer-synapse/"><u>Remedying Ignored Devices with the Help of Razer Synapse</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-silenced-volume-copies/"><u>Resetting Windows' Silenced Volume Copies</u></a></li>
+<li><a href="https://win11.techidaily.com/revel-in-microsofts-exclusive-windows-suite/"><u>Revel in Microsoft's Exclusive Windows Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-regain-accessibility-of-display-preferences/"><u>Solutions to Regain Accessibility of Display Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-subsystem-for-linuxs-error-code-4294967295/"><u>Tackling Windows Subsystem for Linux's Error Code: 4294967295</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-cloud-operation-fixes-for-windows-11-users/"><u>Unlocking Cloud Operation Fixes for Windows 11 Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Unresponsive Windows Software Woes
-date: 2024-10-31T20:27:02.766Z
-updated: 2024-11-07T23:56:12.801Z
+date: 2024-11-15T22:00:32.387Z
+updated: 2024-11-18T02:52:35.235Z
 tags:
   - windows10
   - windows11
@@ -39,20 +39,13 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 2. Type **WSReset.exe** in the dialog box and press Enter.  
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check for Microsoft Store Updates
@@ -63,16 +56,23 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 2. Click the **Library** icon. This will be on the left side of the Store app.  
 ![Check for Microsoft Store Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-for-microsoft-store-updates.jpg)
 3. Next, click the **Get updates** button to check for available updates.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If updates are available, click **Update all** to download and install them.
 
  After following the steps above, restart your computer and see if it resolves the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Windows Store Apps Troubleshooter
 
@@ -84,21 +84,14 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 3. Scroll down to **Windows Store Apps** and click the **Run** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 4. Wait for the troubleshooter to detect any problem and fix it if necessary.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After performing the instructions, try launching the app again and see if it works. If not, you can try the next solution below.
 
@@ -131,6 +124,19 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Enable Hyper-V in Windows Features
 
  Hyper-V is a Microsoft virtualization technology that lets some Microsoft Store apps run. If it isn't enabled on your device, you may encounter the “This app will not work on your device” error when installing certain programs.
@@ -142,16 +148,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Once done, click **OK > Apply** to save the changes.
@@ -166,31 +166,18 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  If there are still problems, you can try [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It will launch the device with a minimal set of drivers and programs, allowing you to identify any 3rd-party applications that may be causing the error. Once done, restart your computer normally and check if the error has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keep Your Apps Up and Running on Windows
 
  It's okay if you receive a "this app will not work on your device" message; it just means that your system doesn't meet an app's requirements or there is a corrupted Microsoft Store cache. Thankfully, our guide offers solutions to resolve this issue quickly.
 
  There could be various reasons for this issue depending on the app, such as a corrupted cache file or system problems. Read this guide to learn more about this error and how to fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-movies-with-top-10-professional-cinema-gear/"><u>[New] 2024 Approved Mastering Movies with Top 10 Professional Cinema Gear</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-a-must-have-for-tweeting-videos-aspect-ratio-compliance/"><u>[New] A Must-Have for Tweeting Videos Aspect Ratio Compliance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos-for-2024/"><u>[New] Boost Visual Impact Learning to Edit Videos Using StoryRemix and Windows Photos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-remove-recommended-podcasts-from-spotify/"><u>[Updated] 2024 Approved How To Remove Recommended Podcasts From Spotify</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-infographic-cache-of-2017s-yt-facts-and-figures/"><u>[Updated] In 2024, The Infographic Cache of 2017’S YT Facts and Figures</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725289563587-winx-dvd-copy-pro-dvdiso/"><u>公式 WinX DVD Copy Pro - 無料！使いやすくて素早いDVD、ISO、フォルダーへの安全なコピー機能を提供</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-errors-in-windows-media-playback/"><u>Correcting Errors in Windows Media Playback</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/easy-guide-downloading-flash-videos-on-macos/"><u>Easy Guide: Downloading Flash Videos on macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-methods-to-refresh-file-explorer-in-windows-11/"><u>Essential Methods to Refresh File Explorer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-erase-google-chromes-default-webp-saving-on-your-pc/"><u>How to Erase Google Chrome's Default WebP Saving on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-try-connecting-your-device-bluetooth-pairing-error-in-windows-11-and-11/"><u>How to Fix the “Try Connecting Your Device” Bluetooth Pairing Error in Windows 11 & 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/mighty-gaming-cos-market-strategy-raises-questionstalk-show-episode/"><u>Mighty Gaming Co.'s Market Strategy Raises Questions![Talk Show Episode]</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-canary-an-easy-guide-for-users/"><u>Unlocking Windows Canary: An Easy Guide for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-fixing-error-code-0x80040610-in-windows/"><u>Unveiling the Secrets to Fixing Error Code 0X80040610 in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win-friendly-ways-to-address-exit-code-1-wow/"><u>Win-Friendly Ways to Address Exit Code: 1 WoW</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -199,3 +186,22 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[New] 2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elite-architects-pioneering-instagram-hlv-makers-for-2024/"><u>[Updated] Elite Architects Pioneering Instagram HLV Makers for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-essential-audio-drivers-from-msi-for-seamless-windows-experience/"><u>Download Essential Audio Drivers From MSI for Seamless Windows Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-effortless-mac-x-flv-video-transcoding-tool-no-cost-solution-for-flv-format-on-macos/"><u>FREE: Effortless Mac X FLV Video Transcoding Tool - No Cost Solution for FLV Format on macOS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-dysfunctional-windows-keyboard-keys/"><u>Realigning Dysfunctional Windows Keyboard Keys</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-load-screen-hacked-master-these-fixes-for-seamless-gaming/"><u>Red Dead Redemption 2 Load Screen Hacked - Master These Fixes for Seamless Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-server-slip-ups-overcoming-ms-store-glitches-on-win-1011/"><u>Resolving Server Slip-Ups: Overcoming MS Store Glitches on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-revive-failing-voice-access-features-in-windows-11/"><u>Steps to Revive Failing Voice Access Features in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-methods-for-computer-audio-recording-with-movavi-a-comprehensive-guide/"><u>Top 5 Methods for Computer Audio Recording with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-frequent-problems-with-the-iphone-13-solutions-unveiled/"><u>Top 6 Frequent Problems with the iPhone 13: Solutions Unveiled!</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-notepad-in-w11-with-insightful-ai/"><u>Transform Notepad in W11 with Insightful AI</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-email-failures-in-windows-11s-mail-app/"><u>Troubleshooting Email Failures in Windows 11'S Mail App</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-the-fitbit-versa-2-an-in-depth-review-for-health-enthusiasts-with-smartwatch-capabilities/"><u>Unboxing and Testing the Fitbit Versa 2: An In-Depth Review for Health Enthusiasts with Smartwatch Capabilities</u></a></li>
+</ul></div>
+

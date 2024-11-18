@@ -1,7 +1,7 @@
 ---
 title: Enable Auto-Updates for Windows & Swap AMD GPU Drivers
-date: 2024-11-03T16:50:53.933Z
-updated: 2024-11-07T19:04:46.009Z
+date: 2024-11-16T16:00:33.385Z
+updated: 2024-11-17T18:16:26.521Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  AMD has addressed this issue and provided a quick fix. To fix the error, you'll need to stop Windows from automatically installing the AMD graphics drivers. Then, reinstall the AMD graphics driver using AMD software.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Roll Back the AMD Graphics Driver
 
 ![amd radeon display adapter driver roll back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-display-adapter-driver-roll-back.jpg)
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![amd radeon software installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-software-installer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can reinstall the AMD Software driver using the existing driver. This may fix temporary issues with the driver causing the conflict. Follow these steps to repair and reinstall the AMD graphics driver:
 
 1. Press**Win + E** to open File Explorer and navigate to the following location:  
@@ -71,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  If you encounter an AMD error 195, temporarily[disable Windows Defender Firewall](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and**Real-Time Threat Protection** and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Reinstall the AMDSoftware Graphics Driver
 
 ![amd software adrenaline edition uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-software-adrenaline-edition-uninstall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists, try to remove and reinstall the AMD Software graphics driver. Once uninstalled, you can download the latest driver using the AMD Software.
 
@@ -91,13 +91,6 @@ To uninstall the AMD graphics driver:
 3. Next, search for**AMD Software** .  
 ![unisntall amd graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unisntall-adm-graphics-driver.jpg)
 4. Click**Uninstall** and then**Uninstall** again to confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Select**AMD Radeon Graphics** and click**Uninstall** .
 
@@ -123,15 +116,23 @@ To undo the recent changes using a restore point:
 3. In the**System Restore** dialog, select the**Recommended** **restore** option. If not, select the**Choose a different restore point** option**.**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select a**restore point** and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
 5. Read the description and click**Finish** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. System Restore will restart and restore your PC to the state it was in before the date of the selected restore point.
 
 ## Fixing the Windows Update May Have Automatically Replaced Your AMD Driver
@@ -153,22 +154,18 @@ To undo the recent changes using a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-art-of-adding-emojis-to-youtube-comments/"><u>[New] The Art of Adding Emojis to YouTube Comments</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-craft-a-unique-channel-look-for-free/"><u>[Updated] 2024 Approved Craft a Unique Channel Look for Free</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-swift-solution-tweeting-videos-not-functioning-chrome/"><u>[Updated] In 2024, Swift Solution Tweeting Videos Not Functioning Chrome</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bringing-out-the-best-advanced-color-correction-in-gopro-for-2024/"><u>Bringing Out the Best Advanced Color Correction in GoPro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-blank-filespace-and-delete-them-using-windows-tools/"><u>Discover Blank Filespace and Delete Them Using Windows Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-your-gaming-experience-mastering-steam-recordings/"><u>Elevate Your Gaming Experience - Mastering Steam Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-benefits-of-dxvk-on-your-windows-pc/"><u>Exploring the Benefits of DXVK on Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-a-non-installable-windows-store-app/"><u>Fix a Non-Installable Windows Store App</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-list-the-finest-10-pixel-archives-at-zero-cost/"><u>Master List The Finest 10 Pixel Archives at Zero Cost</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-new-wave-with-copilot-key-for-windows-11-enthusiasts/"><u>Navigating the New Wave with Copilot Key for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-windows-taskbar-thumbnail-failures/"><u>Remedy Windows Taskbar Thumbnail Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-ending-non-registered-users-in-windows/"><u>Securely Ending Non-Registered Users in WIndows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-file-explorer-by-omitting-onedrive/"><u>Streamlining Your File Explorer by Omitting OneDrive</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-overcoming-halo-infinites-black-screen-problem/"><u>The Ultimate Guide to Overcoming Halo Infinite's Black Screen Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-performance-reducing-boot-time/"><u>Win11 Performance: Reducing Boot Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-building-mental-armor-against-online-critics/"><u>[New] 2024 Approved Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-recorder-freedom-top-10-no-cost-choices-for-cameras-for-2024/"><u>[New] Screen Recorder Freedom Top 10 No-Cost Choices for Cameras for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-innovative-split-screen-videos-for-youtube-sharing/"><u>2024 Approved Innovative Split-Screen Videos for YouTube Sharing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/backtrack-with-your-iphone-films-for-2024/"><u>Backtrack with Your iPhone Films for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-effective-win-11-sandbox-setup/"><u>Essential Tips for Effective Win 11 Sandbox Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-initiating-a-pure-boot-in-windows-11/"><u>Guide to Initiating a Pure Boot in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-configure-a-windows-hello-fingerprint-login-on-windows-11/"><u>How to Configure a Windows Hello Fingerprint Login on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-15-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 15 and iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-terminals-administrator-barrier/"><u>Navigating Windows Terminal's Administrator Barrier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinpointing-the-premier-top-10-pc-vr-headset-models-of-2-written-by-dr-jane-smith-on-january-15-2023-for-2024/"><u>Pinpointing the Premier Top 10 PC VR Headset Models of 2 Written by Dr. Jane Smith on January 15, 2023 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/proper-techniques-for-auditory-and-visual-recordings-using-the-snipping-tool-in-windows-11-max-156/"><u>Proper Techniques for Auditory & Visual Recordings Using the Snipping Tool in Windows 11 (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-onedrive-error-code-x04dec5-on-windows-11-login/"><u>Tackling ONEDRIVE Error Code X04Dec5 on Windows 11 Login</u></a></li>
 </ul></div>
 

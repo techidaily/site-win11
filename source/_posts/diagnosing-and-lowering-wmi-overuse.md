@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Lowering WMI Overuse
-date: 2024-11-03T20:17:12.336Z
-updated: 2024-11-07T16:13:22.083Z
+date: 2024-11-16T08:13:14.437Z
+updated: 2024-11-18T04:32:38.940Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  So if you're not in a hurry, give it some time and let it finishes before trying anything else.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your Computer
 
  If there is no ongoing update process or system maintenance, and CPU usage is still abnormally high, restart your computer. This will kill all running programs, including "Windows Modules Installer Worker" and any other process that might be causing the issue.
@@ -49,17 +56,25 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 4. Locate and click on the **Troubleshooting** option.  
 ![Troubleshooting in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/troubleshooting-in-control-panel.jpg)
 5. On the right side, click **Other troubleshooters**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 6. Click **Run** next to **Windows Update**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The troubleshooter will now run and attempt to fix any Windows Update issues. After the troubleshooter finishes its scan and fixes any problems, see if it solves your problem.
 
@@ -73,19 +88,20 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 4. Right-click on it and select **Restart** from the menu.  
 ![Restart Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-update-service.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the service has been restarted, check if the "Windows Modules Installer Worker" process is still using a lot of CPU power.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set Windows Update to Manual Mode
@@ -105,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
  Once done, restart your computer and see if CPU usage has reduced. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Windows Update
 
  If high CPU usage persists, you can disable Windows Update completely. This is not a recommended long-term solution since updates are crucial for security and performance. But if needed, you can disable it for now and check CPU usage.
@@ -125,25 +134,11 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 5. Upon stopping the Windows Update service, double-click on it to open its Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. On the **General** tab, click **Startup type** and select **Disabled** from the dropdown.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 7. Click **Apply** \> **OK** to save your changes.
 
  After performing the above steps, close the Services window and restart your computer. Check if the "Windows Modules Installer Worker" process is still using CPU resources. Don't forget to enable Windows Update once you're done troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Clear the SoftwareDistribution Folder
 
@@ -162,6 +157,14 @@ C:\Windows\SoftwareDistribution\
 4. In the SoftwareDistribution folder, use **Ctrl + A** to select all contents then delete them.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 5. If a pop-up menu asks for permission, click **Continue**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. After deleting the Software Distribution folder, you will need to restart the services you stopped previously. For this, launch the elevated command prompt again and run the following command:  
 `net start wuauserv  
 net start bits  
@@ -169,13 +172,6 @@ net start cryptSvc
 net start msiserver`
 
  Now close the Command Prompt window and restart your computer. Now check if the Windows Modules Installer Worker process still consumes CPU power.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -189,22 +185,6 @@ net start msiserver`
 
  In this article, we will discuss how to resolve CPU usage issues with Windows Modules Installer Worker.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-hd-video-the-best-android-players/"><u>[Updated] 2024 Approved Mastering HD Video The Best Android Players</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-audible-riches-from-social-media-videos-fb-to-mp3-guide/"><u>[Updated] Audible Riches From Social Media Videos - FB To MP3 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-essentials-in-av1-compression/"><u>[Updated] Exploring the Essentials in AV1 Compression</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-lift-the-shadow-off-games-tips-for-clear-recordings-without-black-screen-in-obs/"><u>[Updated] Lift the Shadow Off Games Tips for Clear Recordings without Black Screen in OBS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-how-to-sharing-videos-from-youtube-on-instagram/"><u>[Updated] The Essential How-To Sharing Videos From YouTube on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-zero-cost-gems-for-flourishing-windows-11-pcs/"><u>Essential Zero-Cost Gems for Flourishing Windows 11 PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-best-iphone-vr-games-today-for-2024/"><u>Explore the Best iPhone VR Games Today for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-youtube-censorship-effective-techniques-for-viewing-prohibited-videos-online/"><u>Overcoming YouTube Censorship: Effective Techniques for Viewing Prohibited Videos Online</u></a></li>
-<li><a href="https://win11.techidaily.com/preserving-progress-epic-games-backup-essentials/"><u>Preserving Progress: Epic Games Backup Essentials</u></a></li>
-<li><a href="https://fox-info.techidaily.com/prime-examples-14-dynamic-text-animations/"><u>Prime Examples 14 Dynamic Text Animations</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-print-sharing-snags-with-step-by-step/"><u>Solving Print Sharing Snags with Step-by-Step</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-phone-pc-connection-with-windows-11/"><u>Streamlining the Phone-PC Connection with Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -212,3 +192,23 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub-for-2024/"><u>[Updated] From Play to Pro Setting up a PS4 Game Broadcast Hub for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-c53-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-silence-by-design-techniques-for-gradually-dimming-soundtracks-in-premiere-pro/"><u>2024 Approved Silence by Design Techniques for Gradually Dimming Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-approach-to-updating-xp-pcs-device-drivers/"><u>Direct Approach to Updating Xp PCs' Device Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-to-artistic-expression-opening-ms-paint-in-win11/"><u>First Steps to Artistic Expression: Opening MS Paint in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-there-was-a-problem-resetting-your-pc-error/"><u>How to Fix the 'There Was a Problem Resetting Your PC' Error</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-interface-enhancement-displaying-hardware-usage/"><u>Innovative Interface Enhancement: Displaying Hardware Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-connections-secure-drives-transfer-in-windows-11/"><u>Invisible Connections: Secure Drives Transfer in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/makers-revolutionary-creation-a-fully-functional-underwater-3d-printer-for-aquatic-environments/"><u>Makers' Revolutionary Creation: A Fully Functional Underwater 3D Printer for Aquatic Environments</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles/"><u>Masterful Bio Upgrade Merging Linktree with TikTok's Profiles</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-mitigating-yellow-tint-in-pc-monitors/"><u>Methods for Mitigating Yellow Tint in PC Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/remote-desktop-integration-for-mobile-devices/"><u>Remote Desktop Integration for Mobile Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranking-home-theater-computers-for-ultimate-entertainment-in-234/"><u>Top-Ranking Home Theater Computers for Ultimate Entertainment in 2^34</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-battlenet-login-problems-in-windows-environment/"><u>Unblocking Battle.net Login Problems in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-identifying-5-unexpected-ui-shifts/"><u>Windows 11: Identifying 5 Unexpected UI Shifts</u></a></li>
+</ul></div>
+

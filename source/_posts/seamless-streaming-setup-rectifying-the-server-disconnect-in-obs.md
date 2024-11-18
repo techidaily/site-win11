@@ -1,7 +1,7 @@
 ---
 title: "Seamless Streaming Setup: Rectifying the Server Disconnect in OBS"
-date: 2024-10-31T19:52:30.613Z
-updated: 2024-11-07T16:04:35.858Z
+date: 2024-11-11T01:32:09.666Z
+updated: 2024-11-18T09:37:04.578Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
  Having identified the reasons behind the issue, let's get into fixes that helped others users troubleshoot the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Try Performing Basic Repairs
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 1. Open the**Settings menu** by pressing the**Win** **\+ I** hotkeys.
 2. Head towards**System** \>**About.**  
 ![System About page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/System-Type.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Under the**Device specifications** section, check the value next to the**System type.**
 
@@ -94,16 +101,10 @@ Relaunch OBS Studio and check for the problem.
 4. Click**Apply** \>**OK.**
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Corruption Within the OBS Installation
@@ -116,10 +117,10 @@ Relaunch OBS Studio and check for the problem.
 3. Click**Yes** to confirm your selection, and then click**Yes** again to the UAC that appears.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process is complete. After that, relaunch OBS Studio and check if the issue continues.
@@ -151,22 +152,15 @@ Relaunch OBS Studio and check for the problem.
 ![MTU Size in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/MTU-Size.jpg)
 4. Type the following command and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `netsh inteface ipv4 set subinterface <Your connection name> mtu=1400 store=persistent`
 
  The MTU size is now changed. Launch OBS Studio and check for the problem again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OBS Studio "Failed to Connect to Server" Error Fixed
@@ -188,22 +182,18 @@ Relaunch OBS Studio and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-intriguing-indulgences-the-ultimate-list-of-websites-for-puzzling-boxes/"><u>[New] Intriguing Indulgences The Ultimate List of Websites for Puzzling Boxes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-vr-limitations/"><u>[New] Understanding VR Limitations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-finding-storylines-with-google-trends-analysis-techniques/"><u>[Updated] 2024 Approved Finding Storylines with Google Trends Analysis Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-macs-visual-excellence-10-list-of-ultimate-screens/"><u>[Updated] 2024 Approved Mac's Visual Excellence #10 List of Ultimate Screens</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-undercover-guide-to-enhancing-your-window-11-experience-for-2024/"><u>[Updated] The Undercover Guide to Enhancing Your WINDOW 11 Experience for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-compelling-macos-sierra-coders-for-vids/"><u>2024 Approved Compelling MacOS Sierra Coders for Vids</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-your-stored-wireless-network-secrets-a-guide-to-finding-hidden-wi-fi-passwords-in-windows-11/"><u>Discovering Your Stored Wireless Network Secrets: A Guide to Finding Hidden Wi-Fi Passwords in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-performance-erase-sluggish-windows-11-frustration/"><u>Elevate Performance: Erase Sluggish Windows 11 Frustration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-5740-ready-simple-driver-downloads-steps/"><u>Get Your HP OfficeJet #5740 Ready: Simple Driver Downloads Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/guidance-to-resolve-improper-token-usage-problems/"><u>Guidance to Resolve Improper Token Usage Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-users-from-tampering-with-windows-time/"><u>How To Stop Users From Tampering with Windows Time</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-languages-swiftly-on-windows-with-key-combinations/"><u>Navigate Through Languages Swiftly on Windows With Key Combinations</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-solutions-to-common-fall-guys-connectivity-issues-in-windows/"><u>Quick Solutions to Common Fall Guys Connectivity Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-windows-cameras-capability-to-record/"><u>Restoring Windows Camera's Capability to Record</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-auto-opens-of-windows-11s-search-functionality/"><u>Taming Auto-Opens of Windows 11'S Search Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-potential-turn-your-pc-into-a-transcoding-network-with-tdarr/"><u>Unleash Potential: Turn Your PC Into a Transcoding Network with Tdarr</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[New] 2024 Approved Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xpert-tips-to-transform-lengthy-videos-into-engaging-segmented-content-for-2024/"><u>[New] Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-seamless-switch-exchanging-playlists-across-streaming-platforms/"><u>[New] In 2024, Seamless Switch Exchanging Playlists Across Streaming Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-escape-room-games-you-should-try/"><u>[Updated] Top 10 Escape Room Games You Should Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-full-rotational-camera-systems-enhancing-media/"><u>2024 Approved Affordable, Full Rotational Camera Systems Enhancing Media</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-feast-of-anarchy-our-expert-take-on-overcooked-2s-recipe-for-disaster/"><u>A Feast of Anarchy: Our Expert Take on Overcooked! 2'S Recipe for Disaster</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-audio-precision-with-these-five-editors/"><u>Enhance Audio Precision with These Five Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-windows-defender-error-code-0x80004004/"><u>How to Handle Windows Defender Error Code 0X80004004</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-e8024002e-in-windows-updates/"><u>Navigating Error E:8024002E in Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-authenticity-choosing-legitimate-windows-software/"><u>The Art of Authenticity: Choosing Legitimate Windows Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-digiarty-solutions-comprehensive-guide-to-pricing-licensing-upgrades-collaboration-tech-support-and-offerings/"><u>Understanding Digiarty Solutions: Comprehensive Guide to Pricing, Licensing, Upgrades, Collaboration, Tech Support & Offerings</u></a></li>
 </ul></div>
 

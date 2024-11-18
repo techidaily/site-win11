@@ -1,7 +1,7 @@
 ---
 title: Solutions for Preventing VSCode Freeze on W11
-date: 2024-10-31T18:27:46.481Z
-updated: 2024-11-07T16:28:16.368Z
+date: 2024-11-15T16:07:25.503Z
+updated: 2024-11-18T03:26:35.021Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 
 **Right-click** on the Start button and select the**Restart** option from the Power user menu. After the system restarts, run the Visual Studio Code with administrator permissions and check if it crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable Hardware Acceleration
 
  Hardware acceleration can cause problems on the low-spec system running the Visual Studio app. There isn’t an option for this feature in the app settings. So, you must modify the argv.json file to disable it. Here's how:
@@ -58,20 +51,34 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 3. Now, enter the following command in the argv.json file:**"disable-hardware-acceleration": true**  
 ![Disable Hardware Acceleration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-hardware-acceleration.jpg)
 4. Press**Ctrl+ S** to save the changes to the file.
-5. Restart the app and check if it crashes now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Restart the app and check if it crashes now.
 
 ## 4\. Perform a Clean Boot
 
  Often, third-party apps and services can interfere with other apps and cause app freezes and crashes. So, to rule out this possibility, do a[clean boot of your Window system](https://www.makeuseof.com/clean-boot-windows-11/) with only Microsoft-related services enabled on startup.
 
  If Visual Studio Code works fine after a clean boot, retry the clean boot while enabling some third-party service. Repeat this process until you find the problematic service or app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Visual Studio Code Extensions
 
@@ -83,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 ![Disable Visual Studio Code Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-visual-studio-code-extensions.jpg)
 4. Repeat this process for all extensions to disable them.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now restart the Visual Studio Code app and run it for some time without any extensions. If it doesn't crash, an extension is probably the reason behind the crash.
 6. To identify the extension, revisit the Extension settings in the app and right-click on a disabled extension. Select the**Enable** option.
 7. Check if Visual Studio Code encounters a crash when this extension is active. Repeat the process to find the culprit extension and remove it from the app.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Exclude Visual Studio Code in Windows Defender
 
@@ -107,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 ![Update the Visual Studio Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-visual-studio-code.jpg)
 3. If there is an update available, download and install it and restart your computer.
 4. Launch the app again and use it for some time while keeping an eye out for crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Roll Back the Last Windows Update
 
@@ -128,28 +142,22 @@ winget uninstall Microsoft.VisualStudioCode
 ![Reinstall Visual Studio Code 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-1.jpg)
 7. Launch the Command Prompt with admin privileges again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Then type the following command and press the enter key:**winget install Microsoft.VisualStudioCode**  
 ![Reinstall Visual Studio Code 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-2.jpg)
 9. It will take a while to download and install the app on your system. You won’t need to interact with the installer window or grant any permissions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Run Visual Studio Code now and check if the app encounters any crashes now.
 
 ## 10\. Use the Web Version
 
  Microsoft even offers a[web version of Visual Studio Code](https://vscode.dev/) which you can use as a temporary solution. You can sign in to the web version and sync your files and settings. Moreover, you can install a PWA from the browser of Visual Studio Code and launch it directly from your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Visual Studio Code Won’t Crash Anymore on Windows 11
 
@@ -170,22 +178,24 @@ winget uninstall Microsoft.VisualStudioCode
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-critical-analysis-the-true-value-of-instas-selfie-confirmation-for-2024/"><u>[New] Critical Analysis The True Value of Insta's Selfie Confirmation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-conference-quality-the-list-of-top-10-free-audio-capture-for-2024/"><u>[New] Elevate Conference Quality The List of Top 10 Free Audio Capture for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-immaculatecapture-the-best-w10-recorder/"><u>[Updated] In 2024, ImmaculateCapture The Best W10 Recorder</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-nvidia-drivers-compatible-with-windows-1178/"><u>Download Updated NVIDIA Drivers Compatible with Windows 11/7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-upstream-store-problem-code-x800704cf/"><u>Easing Upstream Store Problem: Code X800704CF</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-jittery-audio-output-in-microsofts-legacy-operating-systems-windows-107-upgrades/"><u>Effective Remedies for Jittery Audio Output in Microsoft's Legacy Operating Systems - Windows 10/7 Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-disabling-win11s-security-feature/"><u>Guide to Disabling Win11’s Security Feature</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-x90s-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo X90S online without jailbreak</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-steam-speeds-averting-rapid-download-declines/"><u>Mastering Steam Speeds: Averting Rapid Download Declines</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-classic-icon-style-for-window-11s-search-field/"><u>Restoring Classic Icon Style for Window 11'S Search Field</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-gaming-joy-with-non-responsive-controllers-on-windows/"><u>Restoring Gaming Joy with Non-Responsive Controllers on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steering-clear-of-setup-snags-in-windows-11-and-10s-pubg/"><u>Steering Clear of Setup Snags in Windows 11 & 10'S PUBG</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-use-of-ping-command-in-pc-operations/"><u>Strategic Use of Ping Command in PC Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-winbubble-powered-customizations/"><u>The Ultimate Guide to WinBubble-Powered Customizations</u></a></li>
-<li><a href="https://win11.techidaily.com/thriving-without-a-direct-step-to-windows-11-heres-how/"><u>Thriving Without a Direct Step to Windows 11, Here's How</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-using-handbrake-mastering-dvd-conversion-techniques/"><u>Ultimate Guide to Using Handbrake: Mastering DVD Conversion Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>[New] Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-average-income-for-popular-youtube-creators/"><u>[Updated] 2024 Approved Average Income for Popular YouTube Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-techniques-for-simple-iphone-screenshot-processes/"><u>[Updated] Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-vimeo-id-picture-guide-width-depth-moment/"><u>[Updated] Vimeo ID Picture Guide Width, Depth, Moment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auroras-high-dynamic-range-a-game-changer/"><u>Aurora's High Dynamic Range A Game Changer?</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-the-excess-12-non-essential-windows-software-for-removal/"><u>Cut the Excess: 12 Non-Essential Windows Software for Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-non-adjustable-gif-sizes-on-discowin11/"><u>Decoding the Mystery of Non-Adjustable GIF Sizes on DiscoWin11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-on-demand/"><u>Disabling Windows 11 Firewall on Demand</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/drive-traffic-and-engagement-using-the-cookiebot-engine/"><u>Drive Traffic and Engagement Using the Cookiebot Engine</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-method-to-address-error-0x80246007-on-win11/"><u>Efficient Method to Address Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-analysis-top-5-high-end-recording-apps/"><u>Expert Analysis Top 5 High-End Recording Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guia-passo-a-passo-para-salvar-um-video-do-adobe-after-effects-e-renderiza-lo-com-sucesso/"><u>Guia Passo a Passo Para Salvar Um Video Do Adobe After Effects E Renderizá-Lo Com Sucesso</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/patching-the-black-screen-problem-in-window-8-pcs/"><u>Patching the Black Screen Problem in Window 8 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-disk-technology-using-windows-features/"><u>Pinpoint Disk Technology Using Windows Features</u></a></li>
+<li><a href="https://win11.techidaily.com/revise-record-times-essential-tools-for-altering-createdmodified-dates-in-win8/"><u>Revise Record Times: Essential Tools for Altering Created/Modified Dates in Win8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-shifting-dates-forward-by-months-using-ms-excel/"><u>Step-by-Step Guide: Shifting Dates Forward by Months Using MS Excel</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-disk-errors-on-pc/"><u>Troubleshooting Steam Disk Errors on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-power-of-dism-in-win11-repairs/"><u>Unlocking the Power of Dism in Win11 Repairs</u></a></li>
 </ul></div>
 

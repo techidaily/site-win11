@@ -1,7 +1,7 @@
 ---
 title: "The Connoisseur’s Guide: Navigating & Tweaking Windows Registry Through CLI"
-date: 2024-11-01T22:49:55.707Z
-updated: 2024-11-07T17:30:35.466Z
+date: 2024-11-14T22:08:16.176Z
+updated: 2024-11-18T07:31:07.961Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  If you're finding it hard the commands out on your own, don't worry. We will simplify it for you and show you how to get started using them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add and Delete Keys in the Windows Registry
 
  To add a key to the registry using Command Prompt, you need to use the **reg add** command while specifying the path to the new key and whether you want to force the operation with the **/f** switch(this will bypass the need for the confirmation prompt).
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
 ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
 
@@ -100,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Copy Registry Entries From One Key to Another
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, you might want to copy the values from one key to another in the registry. This is as easy as using the **reg copy** command while specifying the key you're copying them from and the one you're copying them to (keep in mind that both keys have to already exist before you run the command). Here's an example:
 
@@ -120,10 +120,16 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
  Unfortunately, there's no way to copy specific values from one key to another. You'll have to use the Registry Editor for that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Import Registry Entries
@@ -136,9 +142,23 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Once you run that command, the contents of the reg file will be merged with the registry.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -151,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 `reg query HKLM\SOFTWARE\MyNewKey /v MyValue > C:\Users\CHIFUNDO\Desktop\MyRegFile.reg`
 
  The resulting registry file will only contain the key and the specific value you exported.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Save Registry Entries
 
@@ -173,13 +186,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
 `reg restore HKLM\SOFTWARE\MyNewKey2 C:\Users\CHIFUNDO\Desktop\MyRegFile.hiv`
@@ -194,19 +200,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  Although using it takes a little more know-how than the Registry Editor, our guide should be able to get you started.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-video-integration-with-apple-music/"><u>[Updated] 2024 Approved Mastering Video Integration with Apple Music</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-costs-not-quality-top-5-budget-friendly-filters/"><u>Cut Costs, Not Quality: Top 5 Budget-Friendly Filters</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-s23plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy S23+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-nord-ce-3-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Nord CE 3 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-screenshots-with-windows-uac/"><u>Mastering the Art of ScreenShots with Windows UAC</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-prevent-freezing-of-epic-games-launcher-on-pc/"><u>Methods to Prevent Freezing of Epic Games Launcher on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-the-reduction-keeping-your-window-11-icons-full-size/"><u>Stop the Reduction: Keeping Your Window 11 Icons Full-Size</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -214,3 +207,21 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-change-voice-on-snapchat-with-2-easy-methods/"><u>[New] How to Change Voice on Snapchat with 2 Easy Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-find-the-best-8-spots-for-free-3d-text-psd-downloads/"><u>[Updated] Find the Best 8 Spots for FREE 3D Text PSD Downloads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-your-virtual-identity-the-metaverse-simplified/"><u>[Updated] In 2024, Crafting Your Virtual Identity - The Metaverse Simplified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-negative-narratives-of-virtual-reality-tech/"><u>2024 Approved The Negative Narratives of Virtual Reality Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-video-performance-in-instagram-reels-mobile/"><u>Enhancing Video Performance in Instagram Reels (Mobile)</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-max-and-min-cpu-in-power-settings-labyrinth/"><u>Exploring Max & Min CPU in Power Settings Labyrinth</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-service-not-started-for-virtual-disks-on-pc/"><u>Fixing Service Not Started for Virtual Disks on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 13 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Pro Max Properly</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-web-workload-the-lowest-ram-browser-choices-for-windows/"><u>Minimizing Web Workload: The Lowest RAM Browser Choices for Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/practical-experience-with-your-new-9-inch-lenovo-tabby-gadget/"><u>Practical Experience with Your New 9-Inch Lenovo Tabby Gadget</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-no-such-file-or-directory-errors/"><u>Strategies for Addressing 'No Such File or Directory' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-aw-snap-error-in-google-chrome-on-winos/"><u>Troubleshooting “Aw, Snap!” Error in Google Chrome on WinOS</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate a Disabled Printer Service in Win
-date: 2024-11-03T19:16:18.534Z
-updated: 2024-11-07T19:17:48.429Z
+date: 2024-11-10T16:36:33.719Z
+updated: 2024-11-18T09:41:00.046Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  Whichever error you encounter, the solutions for fixing them are the same.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run the Printer Troubleshooter
 
  The built-in Printer troubleshooter in Windows 10 and 11 lets you [find and fix printing problems](http://www.makeuseof.com/windows-11-printer-not-working/). The troubleshooter scans the system for common print problems and automatically resolves them. It can check and restart the print spooler service if stopped.
@@ -47,31 +54,25 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
 6. Select the printer you want to troubleshoot and click **Next**.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart Print Spooler Service
 
 ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can check and rerun the print spooler service in the Services snap-in to fix the print spooler service is not running error. Here's how to do it:
 
@@ -94,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 4. Right-click on **Print Spooler** and select **Properties**.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. In the pop-up dialog that opens, click the drop-down for **Startup type** and select **Automatic.**  
@@ -129,15 +130,16 @@ C:\Windows\System32\spool\PRINTERS
 7. Here, clear all the files inside the Printers folder. Click **Yes** if prompted by **User Account Control (UAC).** Do Not Delete the **PRINTERS** folder, but only the files inside the folder.  
 ![delete printer spooler service files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/delete-printer-spooler-service-files.jpg)
 8. Close File Explorer and go back to the **Services** snap-in.  
-![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
-9. Select and right-click on the **Print Spooler** service and select **Start**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
+9. Select and right-click on the **Print Spooler** service and select **Start**.
 
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
 
@@ -157,37 +159,26 @@ C:\Windows\System32\spool\PRINTERS
 6. Click on your currently active network **(Public / Private).**
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Toggle the switch under **Microsoft Defender Firewall** to turn off **Firewall**. Click **Yes** if prompted by **UAC**.  
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
 8. With the Firewall disabled, create a new print job, and see if it completes successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Once done, enable the **Windows Defender Firewall** protection.
 
  If you use your printer frequently, disabling Windows Defender Firewall is not a feasible solution. You’ll need to investigate the issue further to allow the connection through the Firewall.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your Printer Driver
 
@@ -202,13 +193,6 @@ C:\Windows\System32\spool\PRINTERS
 5. Next, select **Search automatically for drivers**. Windows will scan for a new driver update and download and install it if available.
 
  If no new updates are available, use your printer manufacturer’s website to download the latest driver for your printer model.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Printer Driver
 
@@ -225,10 +209,10 @@ C:\Windows\System32\spool\PRINTERS
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
@@ -239,22 +223,6 @@ C:\Windows\System32\spool\PRINTERS
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-maximize-your-setup-with-best-8-5k-tvs-for-2024/"><u>[New] Maximize Your Setup with Best 8 5K Tvs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-intricacies-of-crafting-a-virtual-experience/"><u>[New] The Intricacies of Crafting a Virtual Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-makeup-moments-captured/"><u>2024 Approved Exquisite Makeup Moments Captured</u></a></li>
-<li><a href="https://win11.techidaily.com/command-turn-off-windows-nvidia-overlay-effects/"><u>Command: Turn Off Windows NVIDIA Overlay Effects</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-thx-spatial-sound-woes-on-windows-systems/"><u>Fixing THX Spatial Sound Woes on Windows Systems</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/gopro-goprogoogle/"><u>GoPro 還原歸位工具：迅速讓已被移除的GoPro影片與照片回到Google上</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fixing-windows-11-compatibility-glitches/"><u>Guide to Fixing Windows 11 Compatibility Glitches</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-design-principles-for-captivating-fb-advertising/"><u>In 2024, Design Principles for Captivating FB Advertising</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-storage-the-ultimate-guide-to-file-deleting-in-win11/"><u>Maximizing Storage: The Ultimate Guide to File Deleting in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-ready-five-fixed-strategies-for-secure-boot-dilemmas/"><u>Reboot Ready: Five Fixed Strategies for Secure Boot Dilemmas</u></a></li>
-<li><a href="https://network-issues.techidaily.com/wireless-adapter-vanished-in-windows-10-how-to-recover/"><u>Wireless Adapter Vanished in Windows 10, How to Recover?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -262,3 +230,21 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-share-a-world-view-iphone-360-film-techniques/"><u>[New] Share a World View IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/4-metodos-provenientes-para-recuperar-archivos-comprimidos-en-windows-guia-paso-a-paso-desde-w7-hasta-la-ultima-version/"><u>4 Métodos Provenientes Para Recuperar Archivos Comprimidos en Windows: Guía Paso a Paso Desde W7 Hasta La Última Versión</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-workspace-transformation-go-fancywm/"><u>Dynamic Workspace Transformation: Go FancyWM</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-hyper-v-for-flawless-linux-vm-development-on-windows/"><u>Harnessing Hyper-V for Flawless Linux VM Development on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-screen-flashing-on-windows-11-pcs/"><u>How to Stop Screen Flashing on Windows 11 PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-excellent-video-capture-tools-android-edition-five-picks/"><u>In 2024, Excellent Video Capture Tools Android Edition - Five Picks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT Neo 5</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667370-9781547577637-meditacion-activa-tus-chakras-y-reduce-la-ansiedad-y-la-depresion/"><u>Meditación: Activa Tus Chakras Y Reduce La Ansiedad Y La Depresión | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-upgrades-a-windows-11-in-place-blueprint/"><u>Reimagining Upgrades: A Windows 11 In-Place Blueprint</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-hidden-windows-startup-details/"><u>Revealing Hidden Windows Startup Details</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/simplify-your-reaction-video-creation-a-step-by-step-guide-with-filmora/"><u>Simplify Your Reaction Video Creation A Step-by-Step Guide with Filmora</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-10-causes-of-iphone-screen-brightness-adjustment/"><u>Understanding the 10 Causes of iPhone Screen Brightness Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/why-limiting-antiviruses-is-key-for-your-windows-pcs-health/"><u>Why Limiting Antiviruses Is Key for Your Windows PC's Health</u></a></li>
+</ul></div>
+

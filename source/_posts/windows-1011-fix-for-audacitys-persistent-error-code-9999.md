@@ -1,7 +1,7 @@
 ---
 title: Windows 10/11 Fix for Audacity's Persistent Error Code 9999
-date: 2024-11-07T00:05:52.144Z
-updated: 2024-11-07T23:20:04.953Z
+date: 2024-11-12T23:26:43.425Z
+updated: 2024-11-18T08:07:52.034Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Close All Communication Apps Before Running Audacity
 
  Error 9999 can arise because of other messaging and video conference apps, such as Skype, Teams, Google Meet, and Zoom, using the microphone. Such apps can run in the background when you’re utilizing Audacity on the taskbar. If you have other communication apps installed that can potentially conflict with Audacity, try closing them like this:
@@ -59,14 +52,21 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
 6. Then open Audacity and try recording something again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Microphone Access for Audacity
 
@@ -78,22 +78,8 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Microphone Driver
 
@@ -106,19 +92,21 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 4. Click the confirmation dialog’s**Uninstall** option.  
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
@@ -140,13 +128,20 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall Audacity
 
@@ -175,16 +170,20 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-seamless-obs-integration-on-your-mac-a-detailed-walkthrough-for-2024/"><u>[New] Seamless OBS Integration on Your Mac A Detailed Walkthrough for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-disable-win-11s-hub-mode/"><u>Efficient Methods to Disable Win 11'S Hub Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-your-files-optimizing-deletion-dialogues-in-windows/"><u>Fine-Tuning Your Files: Optimizing Deletion Dialogues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-resolving-cannot-locate-gpeditmsc-in-windows/"><u>Guide to Resolving Cannot Locate Gpedit.msc in Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-macbook-air/"><u>How to Reset MacBook Air</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-ce-3-lite-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord CE 3 Lite 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/learn-how-to-edit-audio-files-for-free-in-windows/"><u>Learn How to Edit Audio Files for Free in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-network-errors-in-windows-11-for-seamless-internet-access/"><u>Overcoming Network Errors in Windows 11 for Seamless Internet Access</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-cuts-in-kinemaster-transition-essentials-for-2024/"><u>Precision Cuts in Kinemaster Transition Essentials for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-iphone-functionality-how-to-restore-non-emergency-features-when-sos-is-persistent/"><u>Reviving iPhone Functionality: How To Restore Non-Emergency Features When SOS Is Persistent</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-utilizing-windows-11-mixer-menu/"><u>Understanding and Utilizing Windows 11 Mixer Menu</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-live-4-proven-recording-techniques-for-fb-for-2024/"><u>[New] Streamline Live 4 Proven Recording Techniques for FB for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elevate-your-social-media-presence-syncing-srt-uploads-with-platforms-for-2024/"><u>[Updated] Elevate Your Social Media Presence Syncing SRT Uploads with Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-high-speed-replicas-best-racing-games-for-2024/"><u>[Updated] High-Speed Replicas Best Racing Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-art-of-iptv-screen-recording/"><u>[Updated] Navigating the Art of IPTV Screen Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-learning-with-legends-top-history-youtube-content-for-learners/"><u>In 2024, Learning with Legends Top History YouTube Content for Learners</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-game-data-security-epics-backup-guide/"><u>Maximizing Game Data Security: Epic's Backup Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/most-portable-and-efficient-laptops-of-the-year-2024-our-detailed-analysis-pcmag/"><u>Most Portable and Efficient Laptops of the Year 2024: Our Detailed Analysis | PCMag</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-windows-11-registry-to-discover-hidden-themes/"><u>Navigating the Windows 11 Registry to Discover Hidden Themes</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-switching-master-control-invisibility/"><u>Stealthy Switching: Master Control Invisibility</u></a></li>
+<li><a href="https://win11.techidaily.com/system-saviors-handbook-mastering-13-recovery-tips/"><u>System Savior's Handbook: Mastering 13 Recovery Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-combat-non-functional-speech-feature-in-word-2013plus/"><u>Tips to Combat Non-Functional Speech Feature in Word 2013+</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-non-functional-headset-microphone/"><u>Troubleshooting Windows: Non-Functional Headset Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/virtual-readiness-webcammic-validation-steps-windows/"><u>Virtual Readiness: Webcam/Mic Validation Steps (Windows)</u></a></li>
 </ul></div>
 

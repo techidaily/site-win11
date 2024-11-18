@@ -1,7 +1,7 @@
 ---
 title: Taking Charge of Your Saved Games with Epic Launcher
-date: 2024-11-03T16:20:23.349Z
-updated: 2024-11-07T21:21:26.261Z
+date: 2024-11-15T08:33:27.813Z
+updated: 2024-11-18T04:02:16.649Z
 tags:
   - windows10
   - windows11
@@ -47,35 +47,36 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 3. Next, right-click the cover image thumbnail for the game you want to check and select **Manage**.  
 ![The Manage option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-option.jpg)
 4. You should see a **Cloud Saves** setting in the management options. Toggle on the **Cloud Saves** option if it’s off (but it shouldn’t be if you’ve already selected **Enable Cloud Saves**).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
@@ -89,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 3. Scroll down the game’s page to the saved game data location details. You can find the saved game data at the Windows or Epic Games Launcher paths specified there.  
 ![The Save game data location details for Subnautica](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/save-game-location-details.jpg)
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Right-click the game’s saved game folder and select **Copy**.  
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
@@ -111,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
  Now you can ensure you don’t lose any saved gaming progress before reinstalling Epic Games titles or because of data corruption by backing up game save files with the methods above.
@@ -119,26 +120,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-free-online-archive-copyright-free-gaming-harmonies/"><u>[New] Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-analysis-simplified-hdr-techniques/"><u>[Updated] 2024 Approved Comprehensive Analysis Simplified HDR Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comparing-future-cloud-bill-predictions/"><u>[Updated] Comparing Future Cloud Bill Predictions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximize-your-youtube-srt-a-three-pronged-plan/"><u>2024 Approved Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-windows-11s-default-read-only-settings/"><u>Combatting Windows 11'S Default Read-Only Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-windows-audio-recorder-error-code-9999/"><u>Deciphering Windows' Audio Recorder Error Code 9999</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/discover-the-coolest-20-animated-concepts-on-tiktok/"><u>Discover the Coolest 20 Animated Concepts on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/features-in-windows-11-control-panel/"><u>Features in Windows 11 Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-engage-end-task-capability-on-your-windows-11-computer/"><u>Guide to Engage End Task Capability on Your Windows 11 Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-activating-and-deactivating-the-sleep-feature-in-windows-11-systems/"><u>Guide: Activating and Deactivating the Sleep Feature in Windows 11 Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-days-for-podcast-drops/"><u>In 2024, Optimal Days for Podcast Drops</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-chrome-to-windows-11-a-step-by-step/"><u>Navigating Chrome to Windows 11: A Step-by-Step</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-s17t-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo S17t</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restore-a-shut-down-or-disabled-instagram-profile-effectively/"><u>Restore a Shut Down or Disabled Instagram Profile Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/smart-choices-optimal-forecasting-software-on-windows/"><u>Smart Choices: Optimal Forecasting Software on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win11s-system-call-failures-with-ease/"><u>Solving Win11's System Call Failures with Ease</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -146,3 +127,27 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-20-popular-tiktok-country-songs-to-take-a-relax-and-dance-to/"><u>[New] 20 Popular TikTok Country Songs to Take a Relax and Dance To</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-secrets-behind-compelling-captions-for-captivating-tiktok-content/"><u>[Updated] In 2024, The Secrets Behind Compelling Captions for Captivating TikTok Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210643527-9781608688395-conversations-with-the-zs-book-one/"><u>Conversations with the Z’s, Book One | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-and-tricks-for-efficient-application-management-with-wpm/"><u>Expert Tips & Tricks for Efficient Application Management with WPM</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-integration-seamless-video-content-creation-for-2024/"><u>Image Integration Seamless Video Content Creation for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-it-safe-to-delete-the-windows-bt-folder/"><u>Is It Safe to Delete the Windows ~BT Folder?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-transition-implementing-win11-in-vmware-platform/"><u>Mastering Windows Transition: Implementing Win11 in VMware Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/professional-photoshop-tips-how-to-cut-out-unwanted-areas/"><u>Professional Photoshop Tips: How to Cut Out Unwanted Areas</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-rectify-error-0x800700e1-on-windows-11-pcs/"><u>Quick Fixes to Rectify Error 0X800700E1 on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-non-start-warnings-in-windows-search-service/"><u>Resolving Non-Start Warnings in Windows Search Service</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recording-on-macos-ahead-with-bandicam-or-camtasia-in-2024/"><u>Screen Recording on MacOS Ahead with Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-onedrive-tag-validity-problem-in-windows-filesystem/"><u>Solving the OneDrive Tag Validity Problem in Windows Filesystem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taking-your-videos-to-the-next-level-expert-pc-methods-for-youtubers-for-2024/"><u>Taking Your Videos to the Next Level Expert PC Methods for YouTubers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-python-server-use-for-windows-file-exchange/"><u>The Essentials of Python Server Use for Windows File Exchange</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-ryzen-9-9950x-supercharge-at-6-ghz-reap-plus27-in-multi-core-geekbench-results/"><u>Transform Your Ryzen 9 9950X - Supercharge at 6 GHz, Reap +27% in Multi-Core Geekbench Results</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-vk-essential-facts-on-russias-social-network/"><u>What Is VK?: Essential Facts on Russia’s Social Network</u></a></li>
+<li><a href="https://win11.techidaily.com/why-opt-for-dxvk-in-windows-gaming-scene/"><u>Why Opt for DXVK in Windows' Gaming Scene?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Remove Windows High Contrast Mode
-date: 2024-10-31T16:20:48.921Z
-updated: 2024-11-07T17:55:28.143Z
+date: 2024-11-17T03:37:43.441Z
+updated: 2024-11-18T05:01:12.702Z
 tags:
   - windows10
   - windows11
@@ -33,20 +33,40 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
  High contrast themes offer customizability to tweak different screen elements, like text, links, background, button text, and more. It's a lot more helpful than dark mode, which just adds a dark or black-grayish background with a white color.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable High Contrast Mode on Windows
 
  If High Contrast Mode has been turned on and you'd like to change that, there are multiple ways to get the job done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Using the High Contrast Mode Shortcut keys
 
  To disable high contrast mode on Windows using keyboard shortcuts, press the**Left Alt + Left Shift + Print Screen** keys at once. You won’t see any pop-up window to confirm the action, but you will hear a “beep” sound before the system reverts to the default theme. You can use this shortcut again if you need to re-enable High Contrast mode.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using the Settings app
 
@@ -69,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 ![Disable High Contrast Mode Using Sign In Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-sign-in-screen.jpg)
 4. Windows will revert to the default theme. Enter your PIN or password and log in.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Using the Control Panel
 
  To disable the high contrast mode in Windows 11 and 10, do as follows:
@@ -86,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 4. Now, select the**Choose a high contrast theme** option.  
 ![Disable High Contrast Mode Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-control-panel.jpg)
 5. Navigate to**Themes > Contrast Themes** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click on the drop-down menu in the Contrast Themes option and select the**None** option.
 7. Then, click on the**Apply** button.
@@ -112,6 +118,20 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 2. Type “**shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}** ” in the text input area and press the Enter key.  
 ![Disable High Contrast Mode Using Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-run-box.jpg)
 3. The old personalization settings control panel window will launch.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click on any system theme. It will deactivate the current high-contrast theme and apply the selected theme.
 
 ### 6\. Using Another Theme
@@ -126,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
  If you want to re-enable the high-contrast theme, you have to visit the "high contrast theme" section here and choose a compatible theme.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Using a Script
 
  It is also possible to revert to a system theme using a script file on Windows. It will take less time as opposed to navigating the settings app to disable the high contrast mode. Here’s how to do it:
@@ -143,16 +156,17 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 3. Now, press**Ctrl + S** to save the file. Type the name “**disablehc.bat** ” and click on the**save** button.  
 ![Disable High Contrast Mode Using a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-high-contrast-mode-using-a-script.jpg)
 4. Go to the desktop again and right-click on the newly created .bat file.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Run as administrator** option in the context menu.
 6. UAC will pop up. Click on the**Yes** button to grant administrator privileges to the .bat file. Otherwise, it won’t be able to make changes to the system theme.
 7. The command prompt will pop up for a few seconds, run the script, and then close automatically. Your Windows system will disable the high contrast mode and switch to the aero theme.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Windows High Contrast Theme Won’t Bother You Anymore
 
@@ -173,21 +187,18 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-playtime-registration-and-logout-tutorials/"><u>[New] 2024 Approved Playtime Registration & Logout Tutorials</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tiny-content-overview-made-easy/"><u>[New] Tiny Content Overview Made Easy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-foundation-for-success-equipping-new-channels/"><u>[Updated] The Foundation for Success Equipping New Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-shifting-default-printer-on-pcs/"><u>Fixing the Shifting Default Printer on PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v27e-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V27e phone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-spot-surreptitious-windows-threats/"><u>How to Spot Surreptitious Windows Threats</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-itel-p55-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Itel P55 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-windows-terminal-from-full-attention-to-restful-idleness/"><u>Navigating the Windows Terminal: From Full Attention to Restful Idleness</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-security-shield-activationdeactivation/"><u>Navigating Windows 11'S Security Shield Activation/Deactivation</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-persistent-0xf0831-issue-in-win11/"><u>Overcoming the Persistent 0XF0831 Issue in Win11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-ultimate-tutorial-on-sharing-your-ios-gaming-sessions-on-twitch-via-obs/"><u>The Ultimate Tutorial on Sharing Your iOS Gaming Sessions on Twitch via OBS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-a05-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy A05 Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-a-seamless-windows-11-upgrade-an-in-place-method/"><u>Unveiling the Secrets of a Seamless Windows 11 Upgrade: An In-Place Method</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990214784-why-does-premiere-pro-keep-failing-in-windows-1110-expert-tips-to-stop-the-collapse/"><u>Why Does Premiere Pro Keep Failing in Windows 11/10? Expert Tips to Stop the Collapse!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-boot-masterclass-understanding-all-configurations/"><u>Windows Boot Masterclass: Understanding All Configurations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlock-a-new-dimension-with-these-must-try-iphone-apps/"><u>[New] 2024 Approved Unlock a New Dimension with These Must-Try iPhone Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-adobe-premiere-and-youtube-uploads/"><u>[Updated] The Ultimate Guide to Adobe Premiere and YouTube Uploads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-definitive-2023-bandicam-handbook-for-gamers/"><u>2024 Approved The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://win-info.techidaily.com/winfrexe/"><u>解決「winfr.exe未被識別為內部或外部命令」的錯誤</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-dism-issue-0x800f082f/"><u>Comprehensive Guide to Fixing DISM Issue 0X800F082F</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-sharing-problems-with-geforce-experience-in-windows/"><u>Eradicating Sharing Problems with GeForce Experience in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-system-the-best-windows-apps-to-drop/"><u>Simplify Your System: The Best Windows Apps to Drop</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-powertoys-to-win11/"><u>Step-by-Step Guide: Adding PowerToys to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-msvcr120-dll-file-correction-on-windows/"><u>Strategies for MSVCR120 Dll File Correction on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/swipe-for-success-the-art-of-flipping-videos-on-instagram-for-2024/"><u>Swipe for Success The Art of Flipping Videos on Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-correcting-system-call-errors-on-win1011/"><u>Techniques for Correcting System Call Errors on Win10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-no-cost-youtube-sbd-tools-for-2024/"><u>Top 10 No-Cost YouTube SBD Tools for 2024</u></a></li>
 </ul></div>
 

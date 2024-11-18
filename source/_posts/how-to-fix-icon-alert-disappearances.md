@@ -1,7 +1,7 @@
 ---
 title: How To Fix Icon Alert Disappearances
-date: 2024-10-31T18:27:04.626Z
-updated: 2024-11-07T22:03:03.169Z
+date: 2024-11-12T16:57:12.503Z
+updated: 2024-11-18T07:18:38.741Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 4. Scroll down to the**Notifications from apps and other senders** section and ensure that your favorite apps are allowed to display notifications on Windows.  
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Allow Apps to Run in the Background
 
  If your apps do not have the necessary permission to run in the background, they will fail to fetch new data and display any notifications. This may lead you to believe that notification badges are not working for the taskbar apps. To avoid this, you should ensure that your apps are allowed to run in the background on Windows by following the steps below.
@@ -66,7 +59,21 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Explorer Process
 
@@ -89,22 +96,15 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
@@ -127,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay on Top of App Alerts With Notification Badges
@@ -154,18 +154,18 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-cross-platform-video-playback-made-easy-with-chromes-pip-for-2024/"><u>[New] Cross-Platform Video Playback Made Easy with Chrome's PIP for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-profitability-guide-cpm-and-earnings-analysis/"><u>[New] In 2024, YouTube Profitability Guide CPM and Earnings Analysis</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing/"><u>[Updated] Driving Engagement and Visibility Effective Strategies for FB Video Marketing</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/financially-friendly-furry-cam-review/"><u>Financially Friendly Furry Cam Review</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-keep-sticky-notes-always-on-top-on-windows-11-and-11/"><u>How to Keep Sticky Notes Always on Top on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-errors-with-winservicesexe/"><u>How to Resolve Errors with Winservices.exe</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-telnet-into-win-1011-systems-tutorial/"><u>Integrating Telnet Into Win 10/11 Systems (Tutorial)</u></a></li>
-<li><a href="https://win11.techidaily.com/master-profile-management-name-alteration-in-w11/"><u>Master Profile Management: Name Alteration in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-mechanics-scheduling-activities-to-avoid-unwanted-windows-11-updates/"><u>Mastering the Mechanics: Scheduling Activities to Avoid Unwanted Windows 11 Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-prevent-date-modifications-on-windows/"><u>Techniques to Prevent Date Modifications on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-getting-your-mouse-drivers-working-on-windows-easy-fix/"><u>Troubleshooting: Getting Your Mouse Drivers Working on Windows Easy Fix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-purchasing-video-games-for-oculus-quest-2/"><u>Ultimate Guide: Purchasing Video Games for Oculus Quest 2</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-instagram-glitch-reverse-angle-video-mystery-for-2024/"><u>[New] Instagram Glitch Reverse-Angle Video Mystery for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-online-converter-turn-facebook-vids-into-mp3/"><u>[New] Online Converter Turn Facebook Vids Into MP3</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-easy-iphonesideways-capturing-the-moment/"><u>[Updated] In 2024, Easy iPhonesideways Capturing the Moment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-multimedia-for-iphone-users/"><u>[Updated] Integrating Multimedia for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-workplace-performance-by-adopting-a-dev-centric-approach-zdnet/"><u>Elevate Workplace Performance by Adopting a Dev-Centric Approach | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-interaction-with-microsofts-hololens-review/"><u>In 2024, The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166476-9798822924871-my-supernatural-life/"><u>My Supernatural Life | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proton-vpn-login-tips-how-to-change-your-email-plus-debunking-the-myth-of-counterfeit-windows-chatgpt-apps/"><u>Proton VPN Login Tips: How to Change Your Email + Debunking the Myth of Counterfeit Windows ChatGPT Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-to-disable-disk-read-error/"><u>Quick Fix Guide to Disable “Disk Read” Error</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-behindahead-time-error-in-chrome-windows/"><u>Tackling Behind/Ahead Time Error in Chrome-Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-windows-font-library-multi-language/"><u>The Ultimate Windows Font Library (Multi-Language)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
 </ul></div>
 

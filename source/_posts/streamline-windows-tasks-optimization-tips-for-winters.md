@@ -1,7 +1,7 @@
 ---
 title: "Streamline Windows Tasks: Optimization Tips for Winters"
-date: 2024-11-03T16:35:46.036Z
-updated: 2024-11-07T22:51:07.584Z
+date: 2024-11-12T17:19:44.289Z
+updated: 2024-11-18T03:27:39.748Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 ![Manage installed apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-apps-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the **Apps** tab, all of your installed software is color-coded, and you can tell which one is a Microsoft or third-party app. Additionally, you can have Wintoys display only one category or sort them alphabetically, or by size, among other options.
 
 ## 3\. Tweak Your System for Better Performance
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 ![Control startup apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-wintoys-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, in the same tab, you can find settings to [improve your Windows computer performance during gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). For instance, you could turn on the toggle next to **Ultimate performance plan**.
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 ![Enable HAGS on Windoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hags-wintoys-1.jpg)
 
  Now, if you’re really looking the make the most out of your hardware while gaming, you could also turn on the **HAGS (Hardware-accelerated GPU scheduling)** feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Manage Storage Space
 
@@ -85,16 +85,16 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 ![Declutter storage space on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/declutter-wintoys-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, in the same tab, you’ll find the **Declutter** drop-down menu. Using it, you can delete all junk files, clear Microsoft Store cache, flush the DNS cache, or even delete all restore points to save space.
 
  If you decide to delete all restore points, make sure to [create a new restore point](https://www.makeuseof.com/windows-11-create-restore-point/), in case something goes wrong, and you need to revert your system to a previous state.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Desktop Design
 
@@ -104,20 +104,27 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 ![Change destkop design with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/desktop-wintoys-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These are just a few of the available tweaks that can change how Windows looks and feel.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run Repair Tools Without Command Prompt
 
  There are plenty of things on a Windows computer that can go wrong without much of a warning. You might encounter frequent program crashes, data loss, or the inability to access your files. Now, the most efficient way to fix these problems is to run the SFC, CHKDSK, and DISM scans. Instead of opening Command Prompt and searching online for the correct lines, you can use Wintoys.
 
 ![Run repair tools without Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-wintoys-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the **Health** tab, click on **Repair**. There, you can select the tool to fix your problem. On Command Prompt, you’d have to run the lines one at a time. However, on Wintoys, you can select all tools and Wintoys will run them for you. This way, you don’t have to monitor the process and can even step away from your computer as the issue is getting fixed.
 
@@ -128,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 ![Stop Windows from showing you ads](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-ads-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Protect Your Privacy
@@ -154,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 ![Manage Windows services with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-services-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, there are more criteria that you can use to find a certain service. If you need more information about one of the services, click the **Description**. Finally, to change the service’s settings, click the **three-dot** icon next to it. There, you can start, stop, restart, or change the service’s mode.
 
 ## Make the Most Out of Wintoys
@@ -169,27 +169,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  But how can you make the process easier? If you don’t want to go through the Settings menu, edit the Registry, or run Command Prompt lines, Wintoys will make the job easier for you. In this article, we’ll take a look at some of the best Wintoys features and how you can use them to get the most out of your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-strategic-planning-making-memorable-tiktok-videos/"><u>[New] In 2024, Strategic Planning Making Memorable TikTok Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-upgrade-your-facebook-journey-mastering-look-back-edits/"><u>[Updated] In 2024, Upgrade Your Facebook Journey Mastering Look Back Edits</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1-essential-subscription-why-retro-gamers-cant-miss-playstation-plus-premium/"><u>1. Essential Subscription: Why Retro Gamers Can't Miss PlayStation Plus Premium</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-choice-android-sky-dumps-and-safes/"><u>2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-for-establishing-an-invisible-wi-fi-network-with-win-11/"><u>Easy Steps for Establishing an Invisible Wi-Fi Network with Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-user-experience-with-size-configurations-on-win11/"><u>Elevating User Experience with Size Configurations on Win11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/41272535-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>Get Your Hand on the Latest 50 YouTube Promo Banners</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-methods-discovering-pcs-ip-and-mac-addresses-ps-way/"><u>Proven Methods: Discovering PC's IP & MAC Addresses, PS Way</u></a></li>
-<li><a href="https://win11.techidaily.com/subtle-networking-mastering-wi-fi-hiding-techniques/"><u>Subtle Networking: Mastering Wi-Fi Hiding Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-onoff-win11s-online-scan-feature/"><u>Switching On/Off Win11's Online Scan Feature</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-13-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 13 on MetroPCS</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-chromiums-internet-access-in-windows-safety-measures/"><u>Unblock Chromium's Internet Access in Windows Safety Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-speed-in-3d-paint-with-essential-keys/"><u>Unlocking Speed in 3D Paint with Essential Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-win11-for-google-play-access/"><u>Unlocking Win11 for Google Play Access</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-best-android-video-editing-apps-free-and-paid-options/"><u>Updated Best Android Video Editing Apps Free and Paid Options</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +176,21 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/capture-gifs-like-pro-on-any-mac-for-2024/"><u>Capture GIFs Like Pro on Any Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-no-files-found-error-in-windows-11/"><u>Disabling 'No Files Found' Error in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-840-g3-printer-drivers-step-by-step-guide/"><u>Download & Install HP 840 G3 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>In 2024, Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g04-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Motorola Moto G04</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-journey-decoded-tracing-the-development-from-initial-release-to-version-180/"><u>IOS Journey Decoded: Tracing the Development From Initial Release to Version 18.0</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-an-eye-on-your-windows-gatekeeping-credentials-trend/"><u>Keep an Eye on Your Window's Gatekeeping Credentials Trend</u></a></li>
+<li><a href="https://fox-links.techidaily.com/leverage-smart-organization-in-mematic-for-2024/"><u>Leverage Smart Organization in Mematic for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-menu-mastery-vanishing-the-start-button-on-win11/"><u>Masked Menu Mastery: Vanishing the Start Button on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-portable-pcs-with-a-windows-core/"><u>Powerful Portable PCs with a Windows Core</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y200e-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y200e 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-the-battle-against-unresizable-gifs-in-discord-for-windows-11/"><u>Winning the Battle Against Unresizable GIFs in Discord for Windows 11</u></a></li>
+</ul></div>
+

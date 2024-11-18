@@ -1,7 +1,7 @@
 ---
 title: "Crucial Windows 11 Do's and Don'ts: The Red Alert List"
-date: 2024-11-05T00:25:12.580Z
-updated: 2024-11-07T18:55:56.577Z
+date: 2024-11-13T06:17:35.436Z
+updated: 2024-11-18T00:50:46.292Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  However, if you're confused about whether you should purchase antivirus software, [check out if Microsoft Defender is good enough for you](https://www.makeuseof.com/is-microsoft-defender-the-best-antivirus-for-your-pc-in-2021/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. You Should Not Download Software From Untrusted Sources
@@ -54,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  If you're not good at searching the internet, try using Microsoft Store to download your apps. Apps available on the Microsoft Store are checked by Microsoft and considered safe. Notably, downloading anything from Microsoft Store will require a Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Windows Updates Are Important, Never Miss Them
 
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
 
@@ -71,15 +71,22 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  Granted, Windows updates can cause annoyance sometimes and impact your workflow. But most of the time, only a small set of users with specific pieces of hardware are affected. And even if you're part of that small set of users, Microsoft is quick enough to issue a fix via a software update. In short, the rewards are bigger than the risks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. You Should Not Choose Weak Passwords
 
 ![Password and lock symbol on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-passwords-browser.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While being able to log in to our online accounts and services without having to type a password sounds like a great idea, we're not quite there yet. We use passwords everywhere to keep our online and offline accounts safe.
@@ -92,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  If you're not a pro at generating a strong password by yourself, check our list of the [best password generators for Windows](https://www.makeuseof.com/desktop-password-generators-windows/).
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Never Use Public Wi-Fi Without VPN
 
 ![connecting to a virtual private network on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/laptop-screen-showing-a-vpn-connection.jpg)
@@ -114,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  Before the benefits lure you into logging into public WiFi, just be aware of the risk involved. However, you can mitigate the risks by using a VPN service.
 
  A VPN service will not expose your true identity to hackers, thus helping you stay protected and protect your privacy. We have a guide to help you choose between the [fastest VPN services](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Outdated Software Can Give You Trouble, Try to Avoid Them
 
@@ -126,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ## 7\. You Shouldn't Disable User Account Control, Unless You're an Advanced User
 
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  User Account Control (UAC) is a security feature in Windows 11\. It's enabled by default to keep your PC safe from risks that could be triggered when you make specific changes to your PC.
 
@@ -154,25 +148,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-potential-youtubes-role-in-modern-education-strategies-for-2024/"><u>[New] Discovering Potential YouTube's Role in Modern Education Strategies for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-worldly-stories-startup-guide-for-future-travel-vloggers/"><u>[Updated] In 2024, Crafting Worldly Stories Startup Guide for Future Travel Vloggers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-engineering-unique-tiktok-outro-animations/"><u>[Updated] In 2024, Engineering Unique TikTok Outro Animations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/"><u>2024 Approved Your Guide to the Top 8 Tablets for Next-Level Photo Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/embrace-the-past-playing-old-pc-games-through-dosbox-x/"><u>Embrace the Past: Playing Old PC Games Through DOSBox-X</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-win-xpvista-df-failsafe/"><u>How to Stop Win XP/Vista DF Failsafe</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openai-losing-its-grip-on-managing-chatgpt-effectively/"><u>Is OpenAI Losing Its Grip on Managing ChatGPT Effectively?</u></a></li>
-<li><a href="https://win11.techidaily.com/join-the-winning-circle-insider-program-tips/"><u>Join the Winning Circle: Insider Program Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oneplus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your OnePlus Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-dll-errors-focus-on-msvcp140dll/"><u>Overcoming DLL Errors: Focus on MSVCP140.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-persistent-scroll-failures-in-office-excel/"><u>Resolve Persistent Scroll Failures in Office Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-connect-now-bluetooth-frustration-on-your-system/"><u>Sidestep 'Connect Now' Bluetooth Frustration on Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-playtime-windows-plus-unplugged-ps3-pad/"><u>Streamline Playtime: Windows + Unplugged PS3 Pad</u></a></li>
-<li><a href="https://article-helps.techidaily.com/taming-the-audio-in-your-canva-videos-step-by-step-for-2024/"><u>Taming the Audio in Your Canva Videos Step by Step for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unclickable-elements-in-windows-11/"><u>Troubleshooting Unclickable Elements in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +155,22 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructing-an-inviting-subscribe-link-for-youtube-enthusiasts/"><u>[New] In 2024, Constructing an Inviting Subscribe Link for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-asus-mg28uq-4k-monitor-review/"><u>[Updated] ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/adjusting-your-kindle-paperwhite-display-a-step-by-step-guide/"><u>Adjusting Your Kindle Paperwhite Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-dvd-copying-tools-of-2023-top-6-dvd-burner-programs-reviewed/"><u>Best DVD Copying Tools of 2023: Top 6 DVD Burner Programs Reviewed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-mend-common-directdraw-errors-plaguing-win11-users/"><u>Expert Tips to Mend Common DirectDraw Errors Plaguing Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-master-fcs-world-winning-gameplay-on-a-budget-pc/"><u>How to Master FC's World: Winning Gameplay on a Budget PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mp3-mastery-guide-top-10-video-to-audio-picks/"><u>In 2024, MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-elevenlabs-genai-vs-other-voice-generation-technologies/"><u>In-Depth Review of ElevenLabs' GenAI Vs. Other Voice Generation Technologies</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-4-typical-gpu-woes-solutions-explored/"><u>Navigating 4 Typical GPU Woes: Solutions Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steams-inaccessible-remote-mode/"><u>Overcoming Steam's Inaccessible Remote Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wsl-hurdles-in-new-windows-11-version/"><u>Overcoming WSL Hurdles in New Windows 11 Version</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-win-11s-menu-with-fewer-choices-displayed/"><u>Streamline Win 11'S Menu with Fewer Choices Displayed</u></a></li>
+<li><a href="https://win11.techidaily.com/triple-play-win-11-tips-how-to-transform-gaming-for-ultimate-fun-and-finesse/"><u>Triple Play Win 11 Tips: How to Transform Gaming for Ultimate Fun and Finesse</u></a></li>
+</ul></div>
+

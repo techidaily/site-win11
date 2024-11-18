@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Access Denied' And Hidden Folder Issues in Outlook 2019/2022
-date: 2024-11-04T23:13:44.461Z
-updated: 2024-11-07T16:30:39.599Z
+date: 2024-11-10T22:22:09.432Z
+updated: 2024-11-18T09:24:50.058Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
  If the basic checks and fixes do not resolve the error, it's time to move on to serious troubleshooting.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Add-In Interference
 
  The add-in interference is the leading cause of Outlook not launching and presenting the "the set of folders cannot be opened" error, as reported by numerous users on various online forums. Running Outlook in Safe mode is the best way to confirm that since it launches the app without add-ins and other elements.
@@ -46,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![Run Outlook in Safe Mode by Running a Command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-run-outlook-in-safe-mode-by-running-a-command-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the app launches without an error, the add-in interference must have been the culprit. Therefore, stay in safe mode and turn off any interfering add-ins. Here's how:
@@ -57,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 1. Go to the **File** tab and select **Options**.  
 ![Select Options in the File Tab of Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-select-options-in-the-file-tab-of-outlook.jpg)
 2. Go to the **Add-ins** tab in the left menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select **"COM Add-ins"** from the **Manage** menu, then click **Go**.  
 ![Click on the Go Button After Selecting the COM Add-ins Option From the Manage Dropdown Menu in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-click-on-the-go-button-after-selecting-the-com-add-ins-option-from-the-manage-dropdown-menu-in-outlook.jpg)
 4. Uncheck the boxes behind any add-ins you don't need and disable them.
@@ -72,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 4. Click the **Data Files...** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select the OST file location and click **Open File Location...**  
 ![Click the Open File Location Button After Selecting the OST File in the Data Files Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-click-the-open-file-location-button-after-selecting-the-ost-file-in-the-data-files-tab.jpg)
 6. Right-click the file in the **File Explorer** and select **Properties**. If the file type is **OST**, the file is in the right place, and no action is needed.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ensure the File Type Is OST by Going to Properties in the Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-ensure-the-file-type-is-ost-by-going-to-properties-in-the-windows-file-explorer.jpg)
 
@@ -106,6 +120,14 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 5. Click on the **Add** button.  
 ![Click on the Add Button in the Show Profiles Menu in Mail Microsoft Outlook Settings in the Windows Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-click-on-the-add-button-in-the-show-profiles-menu-in-mail-microsoft-outlook-settings-in-the-windows-control-panel.jpg)
 6. Follow the instructions on the screen to create your new profile.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Launch a new Outlook profile.
 
  If Outlook launches successfully, a corrupt profile could be to blame. So, continue to use the new profile after adding your account. If switching profiles does not help, go to the next step.
@@ -117,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![Run a Command to Reset the Navigation Pane in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-run-a-command-to-reset-the-navigation-pane-in-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, relaunch Outlook. If resetting the navigation pane doesn't work, you should delete the XML file manually. To do this, press **Win + R**, type **"%localappdata%\\Microsoft\\Outlook"** and hit **Enter**. After that, delete any XML files you find in this folder.
@@ -137,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 3. Click **Browse**, paste the path from the error window into the **Inbox Repair** tool, and click Start.  
 ![Click Start After Pasting the Path From the Error Window into the Inbox Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-click-start-after-pasting-the-path-from-the-error-window-into-the-inbox-repair-tool.jpg)
 4. Then, click the **Repair** button to complete the repair.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can't locate the Outlook folder in the path mentioned above, see our [guide on repairing the PST file](https://www.makeuseof.com/repair-pst-without-scanpst/) for the exact path.
 
@@ -163,43 +178,11 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
  If any underlying problem with the Outlook client contributed to this issue, running this tool will most likely resolve the issue.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Run Outlook on Windows Without a Hitch
 
  Running into irritating errors when launching the Outlook client can hinder our productivity. Hopefully, you now better understand what causes the "the set of folders cannot be opened" error. In addition, by carefully applying the fixes listed above, you should be able to fix the error and launch Outlook successfully.
 
  Likewise, using an incompatible version of Outlook or the same email address in multiple mail apps may also result in an error. Here are some fixes you should apply to resolve the issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-guide-to-instagram-leadership/"><u>[New] In 2024, Step-by-Step Guide to Instagram Leadership</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-enjoy-unparalleled-quality-youtubes-elite-4k-solutions/"><u>[Updated] In 2024, Enjoy Unparalleled Quality YouTube's Elite 4K Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-comprehensive-guide-converting-avi-files-into-mp4-format-using-ffmpeg/"><u>1. Comprehensive Guide: Converting AVI Files Into MP4 Format Using FFmpeg</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-free-online-converter-convert-wav-files-to-swf-format-with-movavi/"><u>1. Free Online Converter: Convert WAV Files to SWF Format with Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/early-insights-into-the-power-and-performance-of-the-samsung-galaxy-s2-ultra/"><u>Early Insights Into the Power and Performance of the Samsung Galaxy S2# Ultra</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-vivo-y100-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y100 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revamp-windows-dashboard-imagery-anytime/"><u>How to Revamp Window's Dashboard Imagery Anytime</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-by-drfone-ios/"><u>How to Unlock Apple iPhone SE?</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-restricted-folder-access-via-group-policy-on-windows-10/"><u>Implementing Restricted Folder Access via Group Policy on Windows 10</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-13-pro-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 13 Pro Max Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-mail-obstacle-error-code-0x80072746-unraveled/"><u>Overcoming Windows Mail Obstacle: Error Code 0X80072746 Unraveled</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-slow-battlenet-downloads-on-windows/"><u>Quick Fix for Slow Battle.net Downloads on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-basic-settings-for-your-windows-explore/"><u>Restoring Basic Settings for Your Windows Explore</u></a></li>
-<li><a href="https://win11.techidaily.com/tactical-toolbox-techniques-disguise-power-buttons-in-win11/"><u>Tactical Toolbox Techniques: Disguise Power Buttons in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-syncing-your-firestick-with-the-perfect-remote-control/"><u>Ultimate Guide: Syncing Your Firestick with the Perfect Remote Control</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -208,3 +191,27 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[New] 2024 Approved Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-budget-friendly-alternatives-to-premium-vr-headsets/"><u>[Updated] Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-reality-tiktoks-artistic-transformations/"><u>[Updated] Elevate Reality TikTok's Artistic Transformations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cadence-captors-embrace-free-online-tempo-apps/"><u>[Updated] In 2024, Cadence Captors – Embrace Free Online Tempo Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-srt-to-xmlssattml-mastery-guide/"><u>[Updated] Step-by-Step SRT to XML/SSA/TTML Mastery Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-action-gopro-for-dynamic-time-lapses/"><u>2024 Approved Expertise in Action GoPro for Dynamic Time-Lapses</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-build-numbers-in-windows-releases/"><u>Decoding Build Numbers in Windows Releases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/desktop-icon-shakefix-a-step-by-step-guide-to-halting-the-wiggle/"><u>Desktop Icon Shakefix: A Step-by-Step Guide to Halting the Wiggle</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-k11x-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo K11x FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-desk-decorations-through-windows-11-techniques/"><u>Elevating Desk Decorations Through Windows 11 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-systemtray-feature-number-lock-on-win-11-taskbar/"><u>Enhance SystemTray: Feature Number Lock on Win 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-onedrive-error-0x80070194/"><u>Eradicating Windows OneDrive Error: 0X80070194</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-oversight-board-function-and-impact-explored/"><u>FB Oversight Board: Function & Impact Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-x80780119-windows-system-image-faults/"><u>How To Eliminate X80780119 Windows System Image Faults</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons/"><u>In 2024, Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-voice-recorder-on-windows-11-via-keyboard-tricks/"><u>Navigating Voice Recorder on Windows 11 via Keyboard Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-language-settings-for-keyboards/"><u>Navigating Windows 11'S Language Settings for Keyboards</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-invalid-temp-folder-issue-in-w11/"><u>Troubleshooting Invalid Temp Folder Issue in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-history-newly-opened-pages/"><u>Unlocking Windows History: Newly Opened Pages</u></a></li>
+</ul></div>
+

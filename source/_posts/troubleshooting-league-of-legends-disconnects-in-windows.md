@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting League of Legends Disconnects in Windows
-date: 2024-11-04T22:00:14.311Z
-updated: 2024-11-07T22:41:37.626Z
+date: 2024-11-11T08:05:18.745Z
+updated: 2024-11-18T00:38:36.251Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
  The League of Legends client randomly disconnects when you're not connected to the internet or your connection drops or weakens. Other causes of this issue include Riot servers being down, Windows Defender or firewall blocking your connection, a problem with the game's client, your router blocking the game's connection, or interference from your ISP.
 
  To fix the League of Legends disconnecting issue, you should ensure you're properly connected to the internet, the connection isn't weak or unstable, the Riot servers aren't down, whitelist the game from Windows Defender or antivirus to rule out their interference, resolve League of Legends client issues, and check for router or ISP problems.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## But First, Some Preliminary Checks…
 
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
 ![Flushing DNS Cache in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/2-Flushing-DNS-Cache-in-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the internet isn't connected or is unstable, follow these steps:
 
 * Double-check that your PC is connected to the right Wi-Fi signal.
@@ -78,25 +92,11 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
  If you do not experience the same issue on a different network, the problem lies with your primary internet connection. It could be a hardware issue with your router, a restriction from your ISP, or something else. You should have your ISP representative inspect your internet to rule out all of this.
 
  However, if the problem persists after changing the internet, the OS must be at fault.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Whitelist the League of Legends on Windows Defender
 
@@ -122,10 +122,10 @@ Proceed to the next step if the above checks and fixes do not help.
 5. Afterward, follow the on-screen instructions to fix your files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Report the Problem to Riot Games
@@ -135,10 +135,10 @@ Proceed to the next step if the above checks and fixes do not help.
  If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the League of Legends Disconnecting Issue
@@ -160,17 +160,19 @@ Proceed to the next step if the above checks and fixes do not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-top-10-tips-for-excellent-xbox-game-playbacks-for-2024/"><u>[New] Top 10 Tips for Excellent Xbox Game Playbacks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>[Updated] Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
-<li><a href="https://blog-min.techidaily.com/youtube4k/"><u>「安心! YouTube/4Kなどのビデオフォーマットを自由に変換」</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-a24-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy A24 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>In 2024, Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>In 2024, Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-visual-appeal-enabling-emoji-15-in-win11/"><u>Maximize Visual Appeal: Enabling Emoji 15 in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ideal-windows-10-artistic-software-lineup-of-7/"><u>The Ideal Windows 10 Artistic Software Lineup of 7</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-reconfiguring-windows-updates/"><u>The Ultimate Guide to Reconfiguring Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-perplexing-aesthetics-decoded/"><u>Windows 11'S Perplexing Aesthetics Decoded</u></a></li>
-<li><a href="https://win11.techidaily.com/your-guide-to-win11s-versatility-homes-vs-professional-suites/"><u>Your Guide to Win11's Versatility: Homes Vs. Professional Suites</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-scripts-to-screen-making-youtube-splits/"><u>[New] In 2024, From Scripts to Screen Making YouTube Splits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[Updated] 2024 Approved Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-taking-flight-in-video-editing-a-drone-perspective/"><u>2024 Approved Taking Flight in Video Editing A Drone Perspective</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/breaking-barriers-twitter-to-facebook-posting-process/"><u>Breaking Barriers Twitter-to-Facebook Posting Process</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-into-fcs-world-with-zero-cost-ocm/"><u>Dive Deep Into FC's World with Zero-Cost OCM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/foundations-of-easing-volume-control-in-audition-for-2024/"><u>Foundations of Easing Volume Control in Audition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-on-recalibrating-windows-energy-schemes/"><u>Guide on Recalibrating WIndows Energy Schemes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c210-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C210 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-windows-11-clipboard-glitches/"><u>Mitigating Windows 11 Clipboard Glitches</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-music-without-spending-a-dime-10-free-recording-software-options/"><u>New Make Music Without Spending a Dime 10 Free Recording Software Options</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-start-on-windows-speech-to-text-feature/"><u>Overcoming 'Failed' Start on Windows Speech-to-Text Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fix-in-game-voice-chat-issues-in-valorant/"><u>Quick Guide to Fix In-Game Voice Chat Issues in Valorant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-determining-your-pcs-memory-in-windows-with-speed-and-simplicity/"><u>Step-by-Step Guide: Determining Your PC's Memory in Windows with Speed and Simplicity</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-amd-graphics-driver-freshness/"><u>Streamlining Windows 11 AMD Graphics Driver Freshness</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Workspace: Learning Fn Key Management"
-date: 2024-10-31T22:39:22.578Z
-updated: 2024-11-07T20:06:41.018Z
+date: 2024-11-12T21:55:34.040Z
+updated: 2024-11-18T06:00:20.676Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Use the Keyboard
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  In several keyboards, the Esc key acts as a Function padlock key. You will notice a small padlock icon on the Esc key if that is the case for your keyboard.
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Access the BIOS Settings
 
@@ -57,35 +64,22 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
 7. Alternatively, in the Advanced tab, access the**Function key behavior** .
 8. Choose the**Function key** option to lock it.  
 ![Function Key Behavior](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key.jpg)
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
 
@@ -99,6 +93,13 @@ Follow these steps to proceed:
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
 
@@ -119,20 +120,24 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-system-prerequisites-for-running-big-sur-on-macs/"><u>[New] 2024 Approved System Prerequisites for Running Big Sur on Macs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-online-subtitles-our-choice-of-free-services/"><u>[New] Mastering Online Subtitles Our Choice of Free Services</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-social-media-landscape-facebook-daily-use/"><u>[Updated] 2024 Approved Navigating Social Media Landscape Facebook Daily Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y77t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y77t to Roku | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-and-use-a-theme-from-the-microsoft-store/"><u>How to Install and Use a Theme From the Microsoft Store</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-successfully-get-the-av1-codec-enhancement-for-your-windows-11-pc-the-top-three-approaches/"><u>How to Successfully Get the AV1 Codec Enhancement for Your Windows 11 PC – The Top Three Approaches</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-actions-to-address-windows-camera-hiccups/"><u>Immediate Actions to Address Windows Camera Hiccups</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-lowering-sounds-on-mac-and-pc-gradually-and-invisibly/"><u>In 2024, Lowering Sounds On Mac & PC Gradually and Invisibly</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-code-0x80780119/"><u>Steps to Overcome Windows' Code 0X80780119</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-device-naming-processes-and-eliminate-windows-errors/"><u>Streamline Device Naming Processes and Eliminate Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-your-mouse-double-click-pace-top-3-adjustment-techniques/"><u>Tailor Your Mouse Double-Click Pace: Top 3 Adjustment Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-working-intel-unison-in-windows-11/"><u>Troubleshooting Non-Working Intel Unison in Windows 11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-zero-cost-vob-video-editors-a-comprehensive-review/"><u>Updated In 2024, Best Zero-Cost VOB Video Editors A Comprehensive Review</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-mastery-illuminating-peak-and-trough-states/"><u>Windows Mastery: Illuminating Peak & Trough States</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-the-world-of-video-calls-hangouts-for-android/"><u>[New] In 2024, Explore the World of Video Calls Hangouts for Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-visual-perfection-ahead-comprehensively-mastering-video-enhancer-22/"><u>[New] In 2024, Visual Perfection Ahead Comprehensively Mastering Video Enhancer 2.2</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-innovative-camera-insights-the-best-of-2024-unpacked/"><u>[New] Innovative Camera Insights – The Best of 2024 Unpacked</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prodigious-story-making-worlds-top-8-institutions-for-2024/"><u>[New] Prodigious Story Making World's Top 8 Institutions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mobile-methods-download-gifs-from-twitter-on-devices/"><u>[Updated] In 2024, Mobile Methods Download GIFs From Twitter on Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nce-choice-great-movies-not-on-the-main-list/"><u>Audience Choice Great Movies Not on the Main List</u></a></li>
+<li><a href="https://win11.techidaily.com/counteract-non-selectable-text-in-windows-readers/"><u>Counteract Non-Selectable Text in Windows Readers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-easy-to-use-tips-for-live-broadcasts-mobile/"><u>Discover Easy-to-Use Tips for Live Broadcasts (Mobile)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-diy-game-indispensable-articles-and-hacks-from-the-stellar-toolkit-collection/"><u>Elevate Your DIY Game - Indispensable Articles & Hacks From the Stellar Toolkit Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-auditory-experience-on-win11-setting-up-your-shortcuts/"><u>Enhance Auditory Experience on Win11: Setting Up Your Shortcuts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-join-the-fortune-changing-club-free-50-banners-await/"><u>In 2024, Join The Fortune-Changing Club Free 50 Banners Await!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-copy-paste-troubleshooting-in-chromeedgefirefox/"><u>Mastering Copy-Paste Troubleshooting in Chrome/Edge/Firefox</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unterminated-process-issues-in-windows-os/"><u>Overcoming Unterminated Process Issues in Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/push-boundaries-in-image-editing-expert-distortion-techniques/"><u>Push Boundaries in Image Editing Expert Distortion Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-unresponsive-volume-slider-on-pc/"><u>Reviving Unresponsive Volume Slider on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-0x800700e9-error-xbox-live-troubleshooting-guide/"><u>Solving the 0X800700E9 Error: Xbox Live Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-voice-recordings-made-simple-with-win-11s-shortcuts/"><u>Speedy Voice Recordings Made Simple with Win 11'S Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-text-vision-windows-11-notepad-customization-guide/"><u>Tailoring Your Text Vision: Windows 11 Notepad Customization Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-copy-and-paste-on-chrome-edge-firefox-os/"><u>Unblocking Copy & Paste on Chrome, Edge, Firefox OS</u></a></li>
 </ul></div>
 

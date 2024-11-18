@@ -1,7 +1,7 @@
 ---
 title: "Win 11: Method to Rectify Missing Time Remaining Gauge"
-date: 2024-10-31T17:46:23.523Z
-updated: 2024-11-07T22:42:36.807Z
+date: 2024-11-14T19:56:24.326Z
+updated: 2024-11-18T07:35:55.591Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
  It isn't entirely obvious what the root cause is. It could be a conflict in the Registry, which can occur during the update process. It also seems to have been deliberately disabled by Microsoft in some updates. Perhaps because the company is working on power and battery settings for a future update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Battery Time Estimate in the Registry
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 4. Right-click the Power key and select**New > DWORD (32-bit) Value** . Set the name of this DWORD as**EnergyEstimationEnabled** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Double-click the new DWORD and set the Value data to**1** . Click**Ok** to close the window.  
@@ -64,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 6. Repeat the previous two steps to create two more DWORD values called**EnergyEstimationDisabled** and**UserBatteryDischargeEstimator** .
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You don't need to change the Value data for these, as they should default to a 0 value.
@@ -81,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
  Close the Registry Editor and restart your laptop. When you hover over the battery icon in the System Tray, it should show the estimated time remaining. And while you're at it, check out[how to add shortcuts to the System Tray](https://www.makeuseof.com/windows-11-add-shortcuts-menu-to-system-tray/) to make it even more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix a Missing Battery Time Estimate on Windows
@@ -106,16 +100,19 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-fully-encompassed-angle-gearing-for-2024/"><u>[New] Fully Encompassed Angle Gearing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-gamers-blueprint-securing-memorable-moments-with-4-methods/"><u>[Updated] The Gamers' Blueprint Securing Memorable Moments with 4 Methods</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>2024 Approved Next-Gen Escapades Upcoming Best PlayStation VR Games to Try</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hevchdh2-65-4k8k/"><u>高效能HEVC壓縮技術：免費HD影片H.2 65 解碼器提供4K/8K播放功能</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-local-installation-tips-for-getting-started-with-llama-2/"><u>Easy Local Installation Tips for Getting Started with LLAMA 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-picks-safest-and-most-reliable-mobile-devices-for-children-today/"><u>Expert Picks: Safest and Most Reliable Mobile Devices for Children Today</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-windows-11-status-bar-with-a-weather-icon/"><u>Personalize Windows 11 Status Bar with a Weather Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivation-guide-for-apps-from-the-microsoft-store/"><u>Reactivation Guide for Apps From the Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-your-disappearing-apps-top-6-techniques-for-win-1011/"><u>Resurrect Your Disappearing Apps: Top 6 Techniques for Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-data-wins-prime-encryption-software-154-chars/"><u>Secure Your Data: Win's Prime Encryption Software (154 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-microsoft-edge-shortcut-keeps-appearing-on-your-desktop/"><u>What to Do if Microsoft Edge Shortcut Keeps Appearing on Your Desktop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-humorous-harmonics-optimal-ringtone-sites/"><u>[New] 2024 Approved Humorous Harmonics Optimal Ringtone Sites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[Updated] 2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exploring-top-ios-psp-emulation-tools-for-gamers/"><u>[Updated] Exploring Top iOS PSP Emulation Tools for Gamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/efficient-windows-file-review-methods-for-2024/"><u>Efficient Windows File Review Methods for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-audio-service-requiring-a-restart-on-boot/"><u>How to Fix the Windows Audio Service Requiring a Restart on Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-hard-drive-capacities-leveraging-windows-diskusage-command-skills/"><u>Navigating Hard Drive Capacities: Leveraging Windows' DiskUsage Command Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/paving-the-path-to-seamless-device-symbiosis/"><u>Paving the Path to Seamless Device Symbiosis</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/prime-streamer-gear-essential-livestream-tools-unveiled/"><u>Prime Streamer Gear Essential Livestream Tools Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-saved-gaming-milestones-with-epic-support/"><u>Safeguarding Saved Gaming Milestones with Epic Support</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-shutters-and-hangouts/"><u>The Ultimate Guide to Windows Shutters and Hangouts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g-stylus-5g-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G Stylus 5G (2023) without backup.</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-selection-of-top-10-security-apps-to-protect-your-windowsandroid-systems-from-hacks/"><u>Ultimate Selection of Top 10 Security Apps to Protect Your Windows/Android Systems From Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-reclaiming-your-sound-settings/"><u>Win10/11: Reclaiming Your Sound Settings</u></a></li>
 </ul></div>
 

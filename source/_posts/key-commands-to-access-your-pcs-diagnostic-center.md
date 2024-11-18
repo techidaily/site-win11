@@ -1,7 +1,7 @@
 ---
 title: Key Commands to Access Your PC's Diagnostic Center
-date: 2024-11-05T21:29:11.703Z
-updated: 2024-11-07T16:32:58.247Z
+date: 2024-11-11T17:16:47.373Z
+updated: 2024-11-18T05:22:56.494Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 ![Opening the System Information tool using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use File Explorer's Address Bar
 
  You can also use File Explorer's address bar to open various apps. In most cases, this tool comes in handy if the Start menu search bar isn't working.
@@ -55,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![Typing msinfo32 in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-msinfo32-in-the-File-Explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Run Command Dialog Box
@@ -75,17 +68,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![Opening the System Information tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Run-command-dialog-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use the Start Menu
@@ -112,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 ![Opening the System Information tool using the system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-system-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use the Control Panel
 
  The Control Panel is a reliable tool that can help you troubleshoot most PC issues. Now, the best part about it is that it also allows you to open various apps.
@@ -125,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![Selecting System from the Control Panel menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-System-from-the-Control-Panel-menu-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use the Task Manager
@@ -145,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Search for the System Information Tool in the System32 Folder
@@ -183,16 +176,16 @@ Want to make the System Information tool easily accessible?
 4. Type the following command and press**Enter** to open the System Information app:  
 `msinfo32`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Use a System Information Desktop Shortcut
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
@@ -206,6 +199,13 @@ Want to make the System Information tool easily accessible?
  Type**System Information App** in the**Name** box. From there, press the**Finish** button.
 
  From now on, you can easily access the System Information app by clicking your desktop shortcut. And if you want to make things easier, you can pin your desktop shortcut to the taskbar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Access the Windows System Information Tool Using Your Favorite Method
 
@@ -226,24 +226,24 @@ Want to make the System Information tool easily accessible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-guide-to-adding-your-own-video-images/"><u>[Updated] Step-by-Step Guide to Adding Your Own Video Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/broadcast-platform-showdown-obs-or-twitch-studio-for-2024/"><u>Broadcast Platform Showdown OBS or Twitch Studio for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-windows-11s-services-a-beginners-guide/"><u>Deciphering Windows 11’S Services: A Beginner's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/expedite-pc-wake-up-modifying-boot-menu-delay/"><u>Expedite PC Wake-Up: Modifying Boot Menu Delay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-best-10-websites-for-professional-vectors-for-2024/"><u>Explore Best 10 Websites for Professional Vectors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-fingerprint-login-via-windows-hello/"><u>Implementing Fingerprint Login via Windows Hello</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-method-to-identify-recent-instagram-unfollows/"><u>In 2024, Method to Identify Recent Instagram Unfollows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-with-chatgpt-on-a-mac-essential-instructions/"><u>Maximize Your Productivity with ChatGPT on a Mac: Essential Instructions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-90-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 90 Phone Now with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-wow-crash-132-a-guide-for-users/"><u>Preventing WoW Crash #132: A Guide for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-solve-windows-rdp-errors-on-1111-pro-editions/"><u>Quick Guide to Solve Windows RDP Errors on 11/11 Pro Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/realtek-card-reader-drivers-download-and-install-on-windows-10-devices/"><u>Realtek Card Reader Drivers: Download & Install on Windows 10 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/step-into-the-big-picture-resizing-w11-ui-elements/"><u>Step Into the Big Picture: Resizing W11 UI Elements</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-navigation-for-windows-iscsi-initiator-mastery/"><u>Step-by-Step Navigation for Windows iSCSI Initiator Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-controlling-unintentional-hotkeys/"><u>Techniques for Controlling Unintentional Hotkeys</u></a></li>
-<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-for-lost-ubisoft-game-launcher/"><u>Troubleshooting Guide for Lost Ubisoft Game Launcher</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-stuck-audio-during-video-streaming-in-google-chrome-and-mozilla-firefox/"><u>Troubleshooting Stuck Audio During Video Streaming in Google Chrome and Mozilla Firefox</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-macbook-cam-filming-basics-for-2024/"><u>Ultimate Guide MacBook Cam Filming Basics for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-blogging-essentials-choosing-the-best-cameras-and-lenses/"><u>[New] Video Blogging Essentials Choosing the Best Cameras and Lenses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-complete-walkthrough-for-android-audio-personalization/"><u>[Updated] In 2024, The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-unique-book-trail-showcases/"><u>[Updated] In 2024, Unique Book Trail Showcases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfected-text-templates-for-professional-use/"><u>[Updated] Perfected Text Templates for Professional Use</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-retracing-instagram-pictures-roots-for-2024/"><u>[Updated] The Art of Retracing Instagram Pictures' Roots for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-demystifying-youtube-edits-an-in-depth-analysis-and-review/"><u>2024 Approved Demystifying YouTube Edits An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-simplified-guide-to-free-youtube-card-designing/"><u>2024 Approved Simplified Guide to Free YouTube Card Designing</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-read-only-folders-in-win11/"><u>Eliminate Read-Only Folders in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-power-user-capabilities-with-windows-and-sudo/"><u>Enhanced Power User Capabilities with Windows & Sudo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y100-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y100 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-locally-managed-users-in-win1110/"><u>Leveraging Locally Managed Users in WIN11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-pc-repair-accessibility-mapping-custom-keys-for-win-11-tools/"><u>Optimize PC Repair Accessibility: Mapping Custom Keys for Win 11 Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-methods-with-dism-for-system-restoration/"><u>Proven Methods with DISM for System Restoration</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-an-erratic-discord-overlay-in-windows/"><u>Quick Fixes for an Erratic Discord Overlay in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-failed-ccleaner-installation-in-windows-1011/"><u>Repairing Failed CCleaner Installation in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-remedy-for-error-0x8000fffd-on-pcs/"><u>Step-by-Step Remedy for Error 0X8000FFFD on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-email-attachment-handling-with-ms-word-reading-mode/"><u>Streamline Email Attachment Handling with MS Word Reading Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-insights-into-data-space-usage-via-the-power-of-windows-diskusage-command/"><u>Unlocking Insights Into Data Space Usage via the Power of Windows DiskUsage Command</u></a></li>
 </ul></div>
 

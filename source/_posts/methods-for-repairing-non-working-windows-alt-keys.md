@@ -1,7 +1,7 @@
 ---
 title: Methods for Repairing Non-Working Windows ALT Keys
-date: 2024-11-04T20:42:02.565Z
-updated: 2024-11-07T19:55:38.014Z
+date: 2024-11-14T05:40:38.039Z
+updated: 2024-11-17T22:02:35.916Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 
  Doing this should allow you to use ALT codes again, as it will enable you to type characters by clicking the numeric keypad with the mouse cursor. This is especially useful if your laptop does not have a separate number pad or if you’re using a smaller keyboard without one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Modify the System Settings
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
@@ -79,13 +72,6 @@ To get started, follow these steps:
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -103,6 +89,19 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -113,20 +112,13 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Under the**Formats** tab, select a different language from the list.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Troubleshoot With a Clean Boot
 
@@ -137,9 +129,25 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
@@ -163,21 +171,17 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-financial-flourishing-with-glamour-vlogs/"><u>[New] 2024 Approved Financial Flourishing with Glamour Vlogs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-illuminate-a-guide-to-great-vlog-images-for-2024/"><u>[New] How to Illuminate A Guide to Great Vlog Images for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimize-your-macs-screen-record-functionality-with-keystrokes/"><u>[Updated] 2024 Approved Optimize Your Mac's Screen Record Functionality with Keystrokes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/accelerate-your-pc-booting-windows-11-faster-with-simple-tricks/"><u>Accelerate Your PC: Booting Windows 11 Faster with Simple Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-forecasting-software-w10w11/"><u>Cutting-Edge Forecasting Software W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/empower-your-windows-pc-leverage-tdarr-for-multi-node-transcoding/"><u>Empower Your Windows PC: Leverage Tdarr for Multi-Node Transcoding</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-counter-dark-screens-while-playing-windows-titles/"><u>Guidelines to Counter Dark Screens While Playing Windows Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-depth-hyperx-cloud-alpha-wireless-headset-evaluation-exceptional-long-lasting-battery-performance-for-gamers-and-music-lovers-techradar/"><u>In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-complexity-palm-2-versus-gpt-4/"><u>Navigating AI Complexity: PaLM 2 Versus GPT-4</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-stubborn-0x800736cc-windows-update-error/"><u>Overcoming the Stubborn 0X800736CC Windows Update Error</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-a-non-responsive-resource-monitor-in-windows-11-environment/"><u>Reviving a Non-Responsive Resource Monitor in Windows 11 Environment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-srt-export-issues-in-adobe-premiere-pro-for-2024/"><u>Solving SRT Export Issues in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-multitasking-with-quick-access-on-win-11/"><u>Streamline Multitasking with Quick Access on Win 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-20-best-free-and-paid-gif-software-options-for-2024/"><u>The 20 Best Free and Paid GIF Software Options for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-pixel-perfect-grids-elevate-your-vision/"><u>Ultimate Pixel Perfect Grids Elevate Your Vision</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-ultimate-command-center-in-windows-11/"><u>Unlocking The Ultimate Command Center in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimizing-zoom-conferences-the-power-of-filters/"><u>[New] 2024 Approved Optimizing Zoom Conferences The Power of Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-excellence-discover-the-best-15-gopro-action-cam-luts-for-2024/"><u>Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-system-errors-win-os-and-df-conundrums-solved/"><u>Deciphering System Errors: Win OS and DF Conundrums Solved</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-phone-integration-for-next-gen-windows-users/"><u>Enhancing Phone Integration for Next-Gen Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-preparations-to-make-when-restarting-windows/"><u>Essential Preparations to Make When Restarting Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8620-driver-update-and-download-instructions-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Update and Download Instructions for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-access-the-windows-iscsi-initiator-guide/"><u>Mastering Access: The Windows iSCSI Initiator Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-network-speed-exiting-the-100mbps-window/"><u>Maximize Your Network Speed: Exiting the 100Mbps Window</u></a></li>
+<li><a href="https://win11.techidaily.com/paint-your-window-apps-incorporate-favourite-images/"><u>Paint Your Window Apps - Incorporate Favourite Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-art-of-product-placement/"><u>The Art of Product Placement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tips-for-assembling-the-ultimate-diy-airplane-emulation-system-on-your-personal-computing-machine/"><u>Top Tips for Assembling the Ultimate DIY Airplane Emulation System on Your Personal Computing Machine</u></a></li>
 </ul></div>
 

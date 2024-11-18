@@ -1,7 +1,7 @@
 ---
 title: "Invisible Connections: Secure Drives Transfer in Windows 11"
-date: 2024-11-02T18:37:27.644Z
-updated: 2024-11-07T16:18:56.881Z
+date: 2024-11-15T00:18:11.227Z
+updated: 2024-11-18T00:41:22.846Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
@@ -58,6 +58,14 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 `list volume`  
 ![List of Drives in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/list-of-drives-in-command-prompt.jpg)
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
 `select volume X`
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
@@ -69,10 +77,10 @@ To hide a drive in Windows with Command Prompt, follow these steps:
  If you like using Command Prompt, why not check our guide on[how to master the Command Prompt in Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Hide a Drive Using the Group Policy Editor
@@ -113,27 +121,27 @@ Here's what you need to do:
 8. In the**Edit DWORD (32-bit) Value** dialog box, select**Decimal** as the Base.  
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
-![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
 
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -156,21 +164,18 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-start-your-quest-for-quick-snapstreaming-today/"><u>[New] Start Your Quest for Quick Snapstreaming Today</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-tasks-the-8-superior-facebook-schedulers/"><u>2024 Approved Optimize Tasks The 8 Superior Facebook Schedulers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-s18-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo S18 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-storm-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Storm 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-12-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme 12 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budget-savvy-shoppers-best-cameras-for-2024/"><u>Budget-Savvy Shoppers' Best Cameras for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-xp-pen-artist-16-pro-the-ultimate-drawing-tablet/"><u>Comprehensive Review of the XP-Pen Artist 16 Pro: The Ultimate Drawing Tablet</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-find-and-delete-empty-folders-on-windows/"><u>How to Find and Delete Empty Folders on Windows</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrating-c270-webcam-with-modern-windows-11-system/"><u>Integrating C270 Webcam with Modern Windows 11 System</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/soluciones-rapidas-para-quitar-ojos-rojos-en-fotografias-usando-movavis-tools/"><u>Soluciones Rápidas Para Quitar Ojos Rojos en Fotografías Usando Movavi's Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-solve-windows-1011s-unable-to-open-share-error/"><u>Steps to Solve Windows 10/11'S Unable to Open Share Error</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-tackle-usb30-device-malfunctions-in-windows/"><u>Steps to Tackle USB3.0 Device Malfunctions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/taking-back-control-with-fresh-windows-11-installation/"><u>Taking Back Control with Fresh Windows 11 Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-adjusting-file-deletion-warnings/"><u>Understanding & Adjusting File Deletion Warnings</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-shutdown-4-steps-for-windows-firewall/"><u>Unlocking the Shutdown: 4 Steps for Windows' Firewall</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-rapid-response-feature-windows-11s-qa-tool/"><u>Utilizing Rapid Response Feature: Windows 11'S QA Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-switch-strike-force-your-top-10-game-lineup/"><u>[New] 2024 Approved Switch Strike Force Your Top 10 Game Lineup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship-for-2024/"><u>[Updated] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>[Updated] Master Class Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/10-en-un-disco-duro-exterior-metodos-faciles/"><u>10 en Un Disco Duro Exterior - Métodos Fáciles</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-os-repair-procedures-chkdsk-sfc-dism-insights/"><u>Deciphering OS Repair Procedures: CHKDSK, SFC, DISM Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-amd-rx-6800-xt-drivers-for-optimal-performance-on-windows-pcs-windows-111087/"><u>Download Updated AMD RX 6800 XT Drivers for Optimal Performance on Windows PCs (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow/"><u>From Standard to Spectacomed Adding Fonts to After Effects Workflow</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-directx-download-issues-in-os/"><u>How to Rectify DirectX Download Issues in OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-god-mode-in-windows-11-a-compreranble-approach/"><u>Mastering God Mode in Windows 11: A Compreranble Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-null-sound-driver-error-on-windows-pc/"><u>Resolving Null Sound Driver Error on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-dreaded-wacatacbml-trojan-identification-and-removal-strategies/"><u>The Dreaded Wacatac.B!ml Trojan - Identification and Removal Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-improving-laptop-performance-with-external-monitors/"><u>Tips for Improving Laptop Performance with External Monitors</u></a></li>
 </ul></div>
 

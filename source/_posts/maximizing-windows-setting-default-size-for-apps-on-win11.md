@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Windows: Setting Default Size for Apps on Win11"
-date: 2024-11-01T18:44:12.806Z
-updated: 2024-11-07T22:47:32.658Z
+date: 2024-11-12T09:04:43.178Z
+updated: 2024-11-18T05:04:38.022Z
 tags:
   - windows10
   - windows11
@@ -57,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
@@ -78,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -92,6 +91,14 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -102,10 +109,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
@@ -121,10 +128,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -146,21 +153,17 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-picks-for-mp4-audio-gear/"><u>[New] Expert Picks for MP4 Audio Gear</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-premiere-sneak-peeks-cinema-edition/"><u>[Updated] 2024 Approved Premiere Sneak Peeks - Cinema Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-tonal-trails-the-journey-of-audio-blending-for-2024/"><u>[Updated] Tonal Trails The Journey of Audio Blending for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-efficiently-moving-photosvideos-between-iphones/"><u>2024 Approved Efficiently Moving Photos/Videos Between iPhones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-lenovo-thinkphone-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Lenovo ThinkPhone to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-why-gamers-love-windows-more/"><u>Decoding Why Gamers Love Windows More</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-driver-cant-load-on-this-device-on-windows-11/"><u>How to Fix “A Driver Can’t Load on This Device” On Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-dnssddll-not-found-or-missing-errors/"><u>How to Fix Dnssd.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-email-formatting-excising-extraneous-html-in-windows-11/"><u>Mastering Email Formatting: Excising Extraneous HTML in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedy-to-the-problematic-non-existent-printmanagement/"><u>Quick Remedy to the Problematic Non-Existent 'Printmanagement'</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-shortcut-problems-fixing-function-keys-in-windows-11/"><u>Rectify: Shortcut Problems - Fixing Function Keys in Windows 11</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/rver-2016-guia-completa-y-paso-a-paso/"><u>Rver 2016: Guía Completa Y Paso a Paso</u></a></li>
-<li><a href="https://win11.techidaily.com/what-sets-ai-technology-apart-an-analysis/"><u>What Sets AI Technology Apart: An Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-arm-easy-download-and-setup-from-iso-guide/"><u>Windows 11 ARM: Easy Download & Setup From ISO Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-search-methods-for-enhancing-performance/"><u>Windows 11 Search: Methods for Enhancing Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-the-world-of-filmmaking-best-cameras-for-novices/"><u>[New] Navigating the World of Filmmaking Best Cameras for Novices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[Updated] 2024 Approved Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sprinkle-spirits-into-your-screens-animated-text-techniques/"><u>[Updated] In 2024, Sprinkle Spirits Into Your Screens Animated Text Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-win10win11-system-alert-mishaps/"><u>Correcting Win10/Win11 System Alert Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-windows-1011-ui-install-portable-menu-extensions/"><u>Elevate Windows 10/11 UI: Install Portable Menu Extensions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-effective-techniques-on-how-to-check-website-uptime-via-ping/"><u>Guide: Effective Techniques on How To Check Website Uptime Via Ping</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-prevent-backward-typing-in-windows/"><u>Guidelines to Prevent Backward Typing in Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/in-depth-guide-best-mp4-downloader-services-beyond-video2mp3/"><u>In-Depth Guide: Best MP4 Downloader Services Beyond Video2MP3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-playtime-without-interruptions-resolving-gas-station-simulator-pc-crashes/"><u>PC Playtime Without Interruptions: Resolving Gas Station Simulator PC Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-installation-despite-past-errors/"><u>Perfect Installation Despite Past Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrims-sse-struggles-a-guide-to-repair-windows-errors/"><u>Skyrim's SSE Struggles: A Guide to Repair Windows Errors</u></a></li>
 </ul></div>
 

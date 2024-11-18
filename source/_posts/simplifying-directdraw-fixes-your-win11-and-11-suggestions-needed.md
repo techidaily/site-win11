@@ -1,7 +1,7 @@
 ---
 title: "Simplifying DirectDraw Fixes: Your Win11 & 11 Suggestions Needed"
-date: 2024-11-01T18:08:45.819Z
-updated: 2024-11-08T00:19:06.043Z
+date: 2024-11-10T22:05:06.126Z
+updated: 2024-11-17T16:31:18.445Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  If selecting the compatibility mode setting doesn’t work, consider utilizing the Program Compatibility Troubleshooter. This [Program Compatibility Troubleshooter guide](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/) provides guidelines for accessing and utilizing that troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set a 640 x 480 Resolution for the Game
 
  The DirectX error can also occur because your monitor’s resolution is incompatible with that of the affected game or software. Remember that higher resolutions of today might not have existed in an old game’s release year.
@@ -63,8 +56,24 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 4. Next, click on the **Display resolution** drop-down menu.  
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Try starting the game or software.
 
 ## 3\. Enable Legacy Component Features
@@ -76,34 +85,13 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![The Turn Windows features on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-turn-windows-features-on-or-off-option.jpg)
 3. Double-click **Legacy Components** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Then select the **DirectPlay** checkbox.  
 ![The DirectPlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directplay-option.jpg)
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
 ![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
 6. Press **OK** to install the features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart Windows after installing the features.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -114,24 +102,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![The Download option for Microsoft DirectX End-User Runtime](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option3.jpg)
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/#:~:text=the%20Command%20Prompt%3A-,Press%20Win%20%2B%20R%20to%20open%20the%20Run%20command%20dialog%20box,Explorer%20and%20then%20press%20Enter.) to go to whatever folder your browser is set to download files to.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Double-click the DirectX End-User Runtime Web Installer file (otherwise **dxwebsetup.exe**) to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Then click **I accept** to make your agreement with Microsoft.  
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try Some Basic Windows Fixes
 
@@ -143,11 +117,25 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run the Affected App in Windowed Mode
 
  Running the game or software in windowed mode can also address resolution issues. To do so, check out our article about [forcing games into windowed mode on Windows](https://www.makeuseof.com/windows-10-11-windowed-mode-games/). Follow the instructions for that guide’s third method to set the software to start in windowed mode.
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reinstall the Affected Game or Software
 
@@ -155,32 +143,27 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
 
  Those are the best and most likely potential resolutions to work for fixing the DirectDraw error on Windows 11/10 PCs. One of the possible solutions in this guide will likely get the DirectDraw error sorted on your PC since many users have fixed that issue by applying them. Then you can return to playing the games that didn’t start because of that error.
 
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-8-proven-methods-for-earnings-on-tiktok/"><u>[New] Top 8 Proven Methods for Earnings on TikTok</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cut-the-cord-download-fb-videos-on-pc-and-mobile/"><u>[Updated] Cut the Cord - Download FB Videos on PC & Mobile</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-strategies-for-creating-your-own-intelligent-house/"><u>Budget-Friendly Strategies for Creating Your Own Intelligent House</u></a></li>
-<li><a href="https://win11.techidaily.com/designed-permanent-file-wastebasket-for-windows-desktops-win1011/"><u>Designed Permanent File Wastebasket for Windows Desktops (Win10/11)</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-overall-winner-yet-a-slight-drawback/"><u>Google Play Pass: Overall Winner, Yet a Slight Drawback</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-samsung-galaxy-a05s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Samsung Galaxy A05s Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-application-error-fixing-unhandled-exceptions/"><u>Overcoming 'Application Error': Fixing Unhandled Exceptions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-xp-error-code-0xfffffff-fixing-print-issues/"><u>Overcoming XP Error Code 0xFFFFFFF: Fixing Print Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quirky-quirks-your-simple-steps-for-memelore-mastery-for-2024/"><u>Quirky Quirks Your Simple Steps for Memelore Mastery for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-obs-for-smooth-recording-and-broadcasting/"><u>Resolved: Troubleshooting OBS for Smooth Recording and Broadcasting</u></a></li>
-<li><a href="https://win11.techidaily.com/sky-high-achievement-essential-widgets-boosting-win-11-output/"><u>Sky-High Achievement: Essential Widgets Boosting Win 11 Output</u></a></li>
-<li><a href="https://win11.techidaily.com/stay-clear-of-7-common-windows-11-missteps-as-a-newbie/"><u>Stay Clear of 7 Common Windows 11 Missteps as a Newbie</u></a></li>
-<li><a href="https://win11.techidaily.com/the-key-to-seamless-icons-on-pcs/"><u>The Key to Seamless Icons on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/time-machine-troubleshooting-and-restoring-windows-time-service/"><u>Time Machine: Troubleshooting and Restoring Windows Time Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-implementing-the-if-formula-successfully-in-excel-spreadsheets/"><u>Ultimate Tutorial on Implementing the IF Formula Successfully in Excel Spreadsheets</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -189,3 +172,27 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-dos-and-donts-for-twilight-self-portraiture/"><u>[New] Essential Do's and Don'ts for Twilight Self-Portraiture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-pixiz-for-creating-dynamic-photo-videos/"><u>[New] In 2024, Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-art-of-patience-mastering-the-craft-of-producing-captivating-slow-motion-videos-and-photos-for-instagram/"><u>[Updated] 2024 Approved The Art of Patience Mastering the Craft of Producing Captivating Slow Motion Videos and Photos for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>[Updated] Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-recipe-realms-stepwise-food-videography/"><u>[Updated] In 2024, Recipe Realms Stepwise Food Videography</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-windows-on-compact-devices/"><u>Cutting-Edge Windows on Compact Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-xbox-game-pass-glitch-windows-11s-0x800700e9/"><u>Dealing with Xbox Game Pass Glitch: Windows 11'S 0X800700E9</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-change-heic-to-jpeg-using-windows-tools/"><u>Efficiently Change HEIC to JPEG Using Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-window-background-clarity-in-w11/"><u>Enhancing Window Background Clarity in W11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-ace-2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Ace 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-narzo-60-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme Narzo 60 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-google-pixel-8-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Google Pixel 8 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-steam-and-windows-11-privilege-problems/"><u>Navigating Through Steam and Windows 11 Privilege Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-restoring-deleting-action-on-windows-devices/"><u>Regaining Control: Restoring Deleting Action on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-unsupported-media-error-on-windows-vlc/"><u>Solving the Unsupported Media Error on Windows, VLC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/will-facebook-vids-air-on-tv-this-year-or-later/"><u>Will Facebook Vids Air On TV This Year or Later?</u></a></li>
+</ul></div>
+

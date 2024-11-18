@@ -1,7 +1,7 @@
 ---
 title: Efficient Printer Removal Methods in Windows 11 OS
-date: 2024-11-04T22:59:48.958Z
-updated: 2024-11-07T16:47:12.348Z
+date: 2024-11-15T05:37:40.657Z
+updated: 2024-11-18T00:18:52.199Z
 tags:
   - windows10
   - windows11
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 6. Wait for the driver to uninstall, then look for any other drive or software associated with the printer and remove them too.
 7. Once uninstalled, restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Remove the Printer Using the Control Panel
 
  You can use the classic Control Panel to manage your printers. Removing the printer from the Control Panel should work if the printer wasn’t removed correctly during the uninstallation process.
@@ -86,29 +93,24 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Windows 11 Control Panel Showing the Hardware and Sound Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound.jpg)
 4. Next, click on **Devices and Printers.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Under the **Printers** section, locate and select the printer device you want to remove.  
 ![Remove Printer Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-ccontrol-panel.jpg)
 6. Right-click on the printer and select **Remove Device.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **Yes** to confirm the action.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove the Printer Using Windows' Print Server Properties
@@ -128,15 +130,15 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Print Server Properties Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-driver-prin-server-properties.jpg)
 7. Next, select the **Remove driver and driver package** option.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall the Printer Using the Device Manager
 
@@ -149,26 +151,33 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 3. In Device Manager, click on **View** and select **Show hidden devices.**  
 ![Device Manager App With Show Hidden Devices Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/device-manager-show-hidden-devices.jpg)
 4. Next, expand the **Printers** section to view your printer.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click on the printer and select **Uninstall device.**  
 ![Uninstall Printer Option Selected in Device Manager on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-device-manager.jpg)
 6. Select the **Delete the driver software for this device** option and click **Uninstall**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. How to Uninstall a Printer Using the Command Prompt
 
@@ -187,13 +196,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 5. In the above command, replace **Your\_Printer\_Name** with the name of your printer.
 6. Hit **Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Remove the Printer Drive Using Print Management
 
  Print Management is a Windows utility controlling printers, drivers, ports, and servers. You can use the tool to remove printer drivers from your Windows computer. The Print Management utility is not available in the Home edition of the Windows operating system.
@@ -206,10 +208,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 3. In the left pane, expand the **Print Servers** section,
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click on your **Local Printer** server name to expand it.
@@ -218,16 +220,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 6. In the right pane, select and right-click on the printer you want to remove.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Select **Delete** and click **Yes** to confirm the action.
@@ -254,21 +250,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  You can remove any connected printer from the Settings panel. If that does not work, you can use the Command Prompt and other ways to remove the printer. Here, we show you the many ways to delete a printer on Windows computers.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>[New] Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-drones-unveiled-a-comprehensive-buyers-preparation-plan/"><u>[Updated] In 2024, Drones Unveiled A Comprehensive Buyer’s Preparation Plan</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-drive-space-a-comprehensible-guide-to-using-diskusage-commands/"><u>Decoding Drive Space: A Comprehensible Guide to Using DiskUsage Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-bypassing-missing-windows-logins-on-pcs/"><u>Guide to Bypassing Missing Windows Logins on PCs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210235979-9781582707259-miracle-minded-manager/"><u>Miracle Minded Manager | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-eradicating-directdraw-failures-on-win1011-systems/"><u>Quick Guide: Eradicating DirectDraw Failures on WIN10/11 Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-video-to-live-wallpaper-converters-a-step-by-step-guide-for-2024/"><u>Top Video to Live Wallpaper Converters A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-world-of-tanks-blitz-app-freezes-or-fails-to-load/"><u>Troubleshooting Steps When World of Tanks Blitz App Freezes or Fails to Load</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-anomaly-correction-controlling-a-roaming-pointer/"><u>Win11 Anomaly Correction: Controlling a Roaming Pointer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/win11s-top-5-cost-free-applications-for-recording-screens/"><u>Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -276,3 +257,22 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-post-images-for-2024/"><u>[New] Constructing Unique Instagram Post Images for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-metaverse-makeover-easy-avatar-construction/"><u>[New] In 2024, The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>[New] Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-av1-decoding-for-newcomers/"><u>[Updated] 2024 Approved AV1 Decoding for Newcomers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-uniting-friends-across-operating-systems-with-skype-groups/"><u>[Updated] 2024 Approved Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-watchability-adding-time-stamps-to-youtube-videos-for-2024/"><u>[Updated] Enhancing Watchability Adding Time Stamps to YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/branding-success-on-fb-through-immersive-cover-videos/"><u>Branding Success on FB Through Immersive Cover Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-the-starting-point-of-your-touch-keyboard-on-windows-11/"><u>Correcting the Starting Point of Your Touch Keyboard on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-protect-windows-default-time-setting/"><u>How To Protect Windows Default Time Setting</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-windows-handbrake-hurdle-quickly/"><u>Overcome Windows HandBrake Hurdle Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win-1011-ad-ds-printer-errors/"><u>Overcoming Win 10/11 AD DS Printer Errors</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-guide-to-windows-server-2012-backup-and-restore-using-wbadmin/"><u>Step-by-Step Guide to Windows Server 2012 Backup and Restore Using WBAdmin</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-honor-x7b-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor X7b Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-struggle-fixing-microphone-issues-in-google-meet/"><u>Windows Users Struggle: Fixing Microphone Issues in Google Meet</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Window to Your Digital Past: File History Guide"
-date: 2024-11-01T18:05:22.229Z
-updated: 2024-11-07T17:53:51.147Z
+date: 2024-11-11T17:18:54.484Z
+updated: 2024-11-18T02:16:01.795Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 2. Type **File History** in the search box. Click on the first relevant search result to open File History in a new window.  
 ![Open File History Using Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using Control Panel
 
  File history previously lived in the Settings app in Windows 10 but is now only present in Control Panel's System and Security section. Here's how to access it:
@@ -51,20 +58,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 3. Type **File History** and click on the **Restore your files with File History** search result.  
 ![Open File History Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings-app-1.jpg)
 4. The Control Panel window will open with the File History page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Using the Run Dialog Box
 
@@ -87,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Using Task Manager
@@ -108,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
 3. File History will launch on your system. Close the Task Manager
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Using Terminal App
 
  If you love the terminal and don’t like the idea of opening menus or searching for an app or tool, you can open File History using the Terminal app. Here’s how to do it:
@@ -117,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 3. Now, type the following command and press the **Enter** key to execute it: **control /name Microsoft.FileHistory**  
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
 4. Close the Terminal app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Using a Desktop Shortcut
 
@@ -129,52 +130,25 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 4. Name the shortcut **File History** and click on the **Finish** button.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Access File History Settings In a Jiffy
 
  Microsoft came with this excellent physical backup option for Windows OS. Now, you know eight easy methods to access File History, run a manual backup session, and tweak its settings. You can even add and remove folders in File History, but that requires a bit more effort.
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-digital-notepad-delight-photography-enhancers/"><u>[New] In 2024, Digital Notepad Delight Photography Enhancers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-taking-your-virtual-meetings-to-new-heights-with-zoom-filters-for-2024/"><u>[New] Taking Your Virtual Meetings to New Heights with Zoom Filters for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram-for-2024/"><u>[Updated] Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/complete-analysis-triangulating-life-with-samsung-vr-for-2024/"><u>Complete Analysis Triangulating Life with Samsung VR for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/desktop-dots-best-notepad-alternatives-for-windows/"><u>Desktop Dots: Best Notepad Alternatives for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-the-taskbar-on-windows-11-slate-devices/"><u>Establishing the Taskbar on Windows 11 Slate Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-enable-and-restore-visibility-of-your-youtube-video-comments/"><u>Expert Tips to Enable and Restore Visibility of Your YouTube Video Comments</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-the-exception-breakpoint-has-been-reached-error-on-windows/"><u>How to Fix the “The Exception Breakpoint Has Been Reached” Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/provide-transparency-publish-information-on-cdcss-operations-safety-measures-privacy-policies-and-compliance-efforts-to-reassure-customers-and-stakeholders-41/"><u>Provide Transparency: Publish Information on CDCS's Operations, Safety Measures, Privacy Policies, and Compliance Efforts to Reassure Customers and Stakeholders About the Company'alignment with Best Practices in the Drone Delivery Sector.</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-secure-memory-functionality-7-steps-to-success-in-win11/"><u>Reclaiming Secure Memory Functionality: 7 Steps to Success in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-malwarebytes-link-to-services-after-failure-in-windows-11/"><u>Reinstating Malwarebytes Link to Services After Failure in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/removing-unwanted-reflections-and-red-eye-from-pet-portraits/"><u>Removing Unwanted Reflections and Red-Eye From Pet Portraits</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-call-of-duty-wwii-mishap-fixing-the-error-code-4220/"><u>Resolving Call of Duty WWII Mishap: Fixing the Error Code 4220</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-fixing-non-recognized-usb-devices-and-failed-resets-on-windows-1n/"><u>Step-by-Step Troubleshooting for Fixing Non-Recognized USB Devices and Failed Resets on Windows 1N</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-windows-with-these-powerful-powertoy-features/"><u>Supercharge Windows with These Powerful PowerToy Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-connectors-designed-for-playstation-5-devices/"><u>Ultimate Connectors: Designed for PlayStation 5 Devices</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -183,3 +157,17 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-seo-compendium-for-enhanced-visibility/"><u>[Updated] The Ultimate YouTube SEO Compendium for Enhanced Visibility</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-sauvegardez-votre-systeme-windows-10-avec-une-cle-usb-a-laide-du-plus-puissant-logiciel-de-securite-economique/"><u>Comment Sauvegardez Votre Système Windows 10 Avec Une Clé USB À L'aide Du Plus Puissant Logiciel De Sécurité Économique</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-folder-not-read-allowed-error-in-personal-computers-outlook-2016/"><u>Fixing 'Folder Not Read-Allowed' Error in Personal Computers Outlook 2016</u></a></li>
+<li><a href="https://win11.techidaily.com/from-virtualbox-62-to-v70-upgrading-made-simple-for-win11-users/"><u>From VirtualBox 6.2 to v7.0: Upgrading Made Simple for Win11 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-6-minecraft-oriental-house-ideas-you-should-try/"><u>In 2024, Top 6 Minecraft Oriental House Ideas You Should Try</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-apple-tv-4ks-third-gen-upgrade/"><u>In-Depth Analysis: Apple TV 4K's Third Gen Upgrade</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-modern-warfares-dev-error-6034-a-detailed-guide-to-fixing-for-call-of-duty-fans/"><u>Navigating Through Modern Warfare's Dev Error 6034 - A Detailed Guide to Fixing for Call of Duty Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-frozen-pages-and-stuck-scrolling-in-excel-2-point/"><u>Prevent Frozen Pages and Stuck Scrolling in Excel 2 Point</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-windows-11-troubles/"><u>Quick Remedies for WINDOWS 11 Troubles</u></a></li>
+</ul></div>
+

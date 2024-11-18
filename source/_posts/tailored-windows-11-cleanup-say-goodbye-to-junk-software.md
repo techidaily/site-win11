@@ -1,7 +1,7 @@
 ---
 title: "Tailored Windows 11 Cleanup: Say Goodbye to Junk Software"
-date: 2024-11-04T20:00:54.769Z
-updated: 2024-11-07T19:03:56.900Z
+date: 2024-11-14T18:34:06.173Z
+updated: 2024-11-17T23:34:20.194Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 * [Remove Bloatware Using Win11Debloat](#remove-bloatware-using-win11debloat)
 * [Try a Clean Install of Windows 11](#try-a-clean-install-of-windows-11)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Bloatware apps on Windows 11 can include Mail and Calendar, OneNote, Microsoft Teams, Candy Crush, and various third-party apps.
@@ -55,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As mentioned, bloatware is a term for apps you don’t want or need, but that come pre-installed on your Windows PC. These could be Microsoft apps the company pushes, like Microsoft Teams or the Mail and Calendar app. Or it could be third-party apps from your device manufacturer—this is especially prevalent among pre-built computers and laptops.
@@ -66,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
  Common bloatware apps on Windows 11 include OneNote, Microsoft Teams, and Candy Crush. Third-party bloatware apps, like McAfee or Norton antivirus apps, Netflix, and CCleaner, could also come with your PC.
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Uninstall Bloatware Using Windows 11 Settings
 
@@ -88,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  With this, you can manually remove pre-installed apps quickly, as the Settings window does not close after uninstalling one app. Note that you cannot remove some apps, like Photos and the Microsoft Store, with this method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Remove Pre-Installed Windows 11 Apps From the Start Menu
 
  Another way to remove unwanted apps is to remove them straight from the Start menu. While tedious if you plan to remove several programs, it's quick if you only need to uninstall one or two apps:
@@ -106,6 +79,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 4. You will then see a pop-up box asking you to confirm app uninstallation; click **Uninstall** once again, and the app will be removed.
 
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Remove Bloatware Using Win11Debloat
 
@@ -121,13 +107,26 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Win11Debloat Powershell Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/win11debloat-powershell-setup.jpg)
 7. Once you’ve chosen, remember to follow the on-screen instructions to run the uninstallation process successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try a Clean Install of Windows 11
@@ -144,6 +143,14 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 3. Click on **Reset PC**.  
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
@@ -151,38 +158,25 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
 8. Once you’ve confirmed this setting, hit **Next**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you click the reset button, your computer will execute a Windows 11 clean install. This will remove most third-party bloatware, although you’ll still need to remove unwanted Windows apps manually. Alternatively, you can [cleanly install Windows 11 from an ISO](https://www.makeuseof.com/how-to-clean-install-windows-11/) file to ensure a truly fresh installation.
 
  Although bloatware isn’t typically dangerous, these apps are annoying as they could slow your PC down, especially if they all launch when you turn your computer on. So by removing these apps—and quickly doing so—you’re reducing your PC’s workload, allowing it to run better.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-minecraft-survival-shelter-mastery/"><u>[New] Minecraft Survival Shelter Mastery</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>[Updated] The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210065087-9781989838518-bedtime-stories-guided-meditations-for-busy-adults/"><u>Bedtime Stories & Guided Meditations for Busy Adults | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-educating-kids-with-a-safe-secure-approach-in-5-ways/"><u>ChatGPT: Educating Kids with a Safe, Secure Approach in 5 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-the-quest-for-perfect-slideshows-9-tactics-for-microsoft-powerpoint-and-pcs/"><u>Conquering the Quest for Perfect Slideshows: 9 Tactics for Microsoft PowerPoint & PCs</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-asus-vivobook-11-your-ideal-small-sized-laptop-for-everyday-tasks/"><u>Exploring the Features of ASUS VivoBook 11 - Your Ideal Small-Sized Laptop for Everyday Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-common-internal-networking-errors-in-win-1011/"><u>Handling Common Internal Networking Errors in Win 10/11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-make-money-from-instagram-for-2024/"><u>How to Make Money From Instagram for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-fix-guide-overcoming-workspace-malfunctions-in-windows-os/"><u>Immediate Fix Guide: Overcoming Workspace Malfunctions in Windows OS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s24-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/launch-of-apples-vision-pro-the-beginning-of-the-developer-lab-series-zdnet-insights/"><u>Launch of Apple's Vision Pro: The Beginning of the Developer Lab Series - ZDNet Insights</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728493260903-pc/"><u>PCハードドライブのパスワードやプライバシー情報を完全消去する方法</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-mend-crashing-asana-apps-on-desktops/"><u>Steps to Mend Crashing Asana Apps on Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-locating-windows-component-services-tool/"><u>Understanding & Locating Windows Component Services Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-wi-fi-connectivity-a-step-by-step-guide-to-restoring-links-in-windows/"><u>USB Wi-Fi Connectivity: A Step-by-Step Guide to Restoring Links in Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +185,23 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-lean-cloud-archive-efficient-low-cost-large-data/"><u>[New] Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-matchmaking-in-the-youtube-collaboration-arena/"><u>[New] The Art of Matchmaking in the YouTube Collaboration Arena</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-disable-unsolicited-youtube-video-listings/"><u>[Updated] Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-kid-friendly-driving-delights-for-2024/"><u>[Updated] Ultimate Kid-Friendly Driving Delights for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamvid-studio-xtreme/"><u>2024 Approved StreamVid Studio Xtreme</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-anime-style-youtube-subscribe-buttons-using-filmora/"><u>2024 Approved The Essential Guide to Anime-Style YouTube Subscribe Buttons Using Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsofts-commitment-to-long-term-support-of-windows-11/"><u>Decoding Microsoft's Commitment to Long-Term Support of Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-7-plus-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://win11.techidaily.com/modernize-windows-audios-with-a-simple-driver-update-routine/"><u>Modernize Windows Audios with a Simple Driver Update Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-of-missing-windows-key-presses/"><u>Regain Control of Missing Windows Key Presses</u></a></li>
+<li><a href="https://facebook.techidaily.com/safe-silliness-navigating-friendly-teasing-digitally/"><u>Safe Silliness: Navigating Friendly Teasing Digitally</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-restoring-vanished-windows-11-panes/"><u>Top Strategies for Restoring Vanished Windows 11 Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-the-shadows-of-window-11s-interface/"><u>Uncovering the Shadows of Window 11'S Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-securely-without-lock-screen/"><u>Unlock Windows Securely Without Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-notes-made-simple-no-software-required/"><u>Windows 11 Notes Made Simple, No Software Required</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Disable Rounded Corners in Windows 11
-date: 2024-11-03T23:19:45.192Z
-updated: 2024-11-07T18:52:13.073Z
+date: 2024-11-16T20:30:07.018Z
+updated: 2024-11-18T06:54:43.141Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
  Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable Rounded Corners in Windows 11 Using the Registry Editor
@@ -63,13 +63,20 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 7. [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) to apply the changes.  
 ![Disable Rounded Corners in Windows 11 via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-rounded-corners-in-windows-11-via-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
@@ -85,20 +92,13 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disabling Rounded Corners in Windows 11 Is Easy
 
@@ -108,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
  The good news is that it is possible to disable rounded corners in Windows 11, and this guide will walk you through three easy methods for the same.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-avoiding-common-pitfalls-in-pc-based-youtube-video-editing-for-2024/"><u>[New] Avoiding Common Pitfalls in PC-Based YouTube Video Editing for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-decoding-the-new-era-of-video-editing-with-vivacut/"><u>[Updated] Decoding the New Era of Video Editing with VivaCut</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-method-to-personalize-iphone-ringtones/"><u>[Updated] In 2024, Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instavision-blend-androidplusios-video-tiles/"><u>[Updated] InstaVision Blend Android+iOS Video Tiles</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-elevated-command-window-a-comprehensive-tutorial/"><u>Fixing Non-Elevated Command Window: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/gain-instant-administrator-entry-with-terminal-anytime/"><u>Gain Instant Administrator Entry with Terminal Anytime</u></a></li>
-<li><a href="https://fox-links.techidaily.com/implement-xps-video-editing-suite-instantly-for-2024/"><u>Implement XP's Video Editing Suite Instantly for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-7-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 7 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/insightful-insights-essential-windows-11-weather-apps-guide/"><u>Insightful Insights: Essential Windows 11 Weather Apps Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-90-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 90 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g04-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G04</u></a></li>
-<li><a href="https://win11.techidaily.com/productivity-boost-quick-access-via-pinned-gmail-windows-side/"><u>Productivity Boost: Quick Access via Pinned Gmail Window's Side</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-1110s-d3d11-compatible-gpu-riddle/"><u>Unraveling Windows 11/10'S D3D11 Compatible GPU Riddle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win10win11-troubleshooting-hardware-recognition-issues/"><u>Win10/Win11: Troubleshooting Hardware Recognition Issues</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +115,17 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-videographers-essential-openers/"><u>[Updated] Free Videographer's Essential Openers</u></a></li>
+<li><a href="https://win11.techidaily.com/create-a-window-showcase-customizing-with-spotlight-picture-inspired-backgrounds/"><u>Create a Window Showcase: Customizing with Spotlight Picture-Inspired Backgrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-sticky-notes-in-win11win10-apps/"><u>Expert Guide to Sticky Notes in Win11/Win10 Apps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/guide-mending-macs-kernel-crashes/"><u>Guide: Mending Mac's Kernel Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/partner-up-strategies-optimal-selection-for-youtube-teams-for-2024/"><u>Partner Up Strategies Optimal Selection for YouTube Teams for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-updating-your-samsung-phones-usb-drivers/"><u>Ultimate Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
+</ul></div>
+

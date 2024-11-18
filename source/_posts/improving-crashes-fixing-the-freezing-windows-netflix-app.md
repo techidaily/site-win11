@@ -1,7 +1,7 @@
 ---
 title: "Improving Crashes: Fixing the Freezing Windows Netflix App"
-date: 2024-11-03T17:53:21.257Z
-updated: 2024-11-07T18:56:57.894Z
+date: 2024-11-12T23:29:01.493Z
+updated: 2024-11-18T02:07:03.516Z
 tags:
   - windows10
   - windows11
@@ -38,17 +38,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![Task Manager in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/netflix-task-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check if Netflix Is Down
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![Check if Netflix is down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/downdetector-netflix-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update Netflix
@@ -75,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![Update Netflix app in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-netflix-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the Windows Store Apps Troubleshooter
@@ -94,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
  Windows will now scan your apps installed from the Microsoft Store and automatically fix any detected problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair the App
@@ -111,7 +104,21 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![Repair Netflix](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/repair-netflix-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If repairing the app didn’t fix the problem, you can try resetting it. Go through the instructions above again, and select**Reset** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Update Your Display Adapters
 
@@ -122,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 3. Right-click the driver and select**Update** .
 
 ![Update graphics driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-driver-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve updated the drivers, but you’re still having issues watching Netflix or any other media content on your computer, it might be one of the[signs that it's time to upgrade your graphics card](https://www.makeuseof.com/signs-its-time-to-upgrade-your-graphics-card/) .
 
@@ -144,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![Windows 11 graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/netflix-graphics-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Reset Microsoft Store
 
  In general, if you can’t open the Netflix app, it’s because of corrupted Microsoft Store files. If this happens, you shout reset Microsoft Store.
@@ -159,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 2. Type**cmd** and press**Shift + Enter** to open Command Prompt with administrative rights.
 3. Type**wsreset.exe** and press**Enter** to run the command.
 4. Launch Microsoft Store and reinstall Netflix.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Delete the DNS Cache
 
@@ -209,20 +209,20 @@ Restart your computer and check if Netflix is now working.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-screen-capture-tools-manycam-obs-studio-and-more/"><u>Best Free and Premium Screen Capture Tools: ManyCam, OBS Studio & More</u></a></li>
-<li><a href="https://win-info.techidaily.com/convertidor-mp3-a-m4a-sin-costo-herramienta-rapida-y-facil-descubra-el-movavi/"><u>Convertidor MP3 a M4A Sin Costo: Herramienta Rápida Y Fácil, Descubra El Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-m365-error-30015-26-in-windows-environment/"><u>Disabling M365 Error 30015-26 in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-device-is-unreachable-error-0x80070141-on-windows/"><u>How to Fix the “Device Is Unreachable” Error 0X80070141 on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-12-pro-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 12 Pro In Easy Steps | Stellar</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 14 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-with-ease-the-key-to-configuring-a-tablet-bar-on-windows-11/"><u>Navigating with Ease: The Key to Configuring a Tablet Bar on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-the-accurate-battery-life-predictor-on-win-11-machines/"><u>Reinstating the Accurate Battery Life Predictor on Win 11 Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-fifa-21-wont-boot-and-solutions/"><u>Troubleshooting Guide: Why FIFA 21 Won't Boot and Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-onedrive-with-your-microsoft-account/"><u>Uniting OneDrive with Your Microsoft Account</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unveiling-the-reasons-behind-ascents-delayed-release/"><u>Unveiling the Reasons Behind Ascent's Delayed Release</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-expert-approved-free-vob-video-editing-solutions/"><u>Updated 2024 Approved Expert-Approved Free VOB Video Editing Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-vectors-top-virtual-environments-for-windows-11-tech/"><u>Winning Vectors: Top Virtual Environments for Windows 11 Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-bundle-extravaganza-save-big-secure-xbox-game-pass-and-more-on-amazons-fire-tv-stick-4k-shop-now-on-zdnet/"><u>Xbox Bundle Extravaganza: Save Big, Secure Xbox Game Pass and More on Amazon's Fire TV Stick 4K | Shop Now on ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-avoid-story-filler-how-to-use-multiple-images-wisely-on-insta/"><u>[Updated] In 2024, Avoid Story Filler How to Use Multiple Images Wisely on Insta</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-profitable-collaborations-with-brands-on-youtube/"><u>Building Profitable Collaborations with Brands on Youtube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/captivatescreen-scrutiny-platform-for-2024/"><u>CaptivateScreen Scrutiny Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-choice-7-premium-mac-videos-for-2024/"><u>Excellent Choice 7 Premium Mac Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-nat-type-on-windows-1110/"><u>How to Change NAT Type on Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-vivo-g2-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo G2 Phone?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-realme-12-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Realme 12 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/le-guide-complet-migrer-vers-un-disque-plus-grand-sur-votre-console-ps4-a-laide-dun-hddssd/"><u>Le Guide Complet : Migrer Vers Un Disque Plus Grand Sur Votre Console PS4 À L'aide D'un HDD/SSD</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-frozen-media-player-apps-in-windows-11/"><u>Quick Fixes for Frozen Media Player Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-affected-windowed-netflix-on-your-pc/"><u>Reviving Affected Windowed Netflix on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/start-your-freezes-fix-handbrake-windows-issue/"><u>Start Your Freezes: Fix HandBrake Windows Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-hack-for-recovering-windows-1011-keys/"><u>The Ultimate Hack for Recovering Windows 10/11 Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/voice-activated-freedom-mastering-the-keyboard-of-windows-narrator/"><u>Voice-Activated Freedom: Mastering the Keyboard of Windows Narrator</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-rejtingovye-agentstva-po-seo-v-gorode-frankfurt-germaniya-servis-seo-powersuite/"><u>Топ-Рейтинговые Агентства По SEO В Городе Франкфурт, Германия - Сервис SEO PowerSuite</u></a></li>
 </ul></div>
 

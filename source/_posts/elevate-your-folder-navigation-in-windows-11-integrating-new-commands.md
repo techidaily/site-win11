@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Folder Navigation in Windows 11 - Integrating New Commands
-date: 2024-11-02T21:29:31.281Z
-updated: 2024-11-07T19:38:28.322Z
+date: 2024-11-17T09:28:04.610Z
+updated: 2024-11-17T17:36:26.248Z
 tags:
   - windows10
   - windows11
@@ -65,28 +65,15 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
 
@@ -109,17 +96,18 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
 2. Press the**Browse** button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
@@ -128,6 +116,14 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
@@ -135,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
@@ -160,22 +156,21 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-exploring-virtual-realities-shortcomings-for-2024/"><u>[Updated] Exploring Virtual Realities' Shortcomings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-facetime-made-simple-for-android-users/"><u>[Updated] FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-vip-racing-edition-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 VIP Racing Edition to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-apks-on-modern-windows-oses/"><u>Fast Tracking APKs on Modern Windows OSes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-nvidia-3d-vision-driver-update-installed-on-any-version-of-windows-today/"><u>Get Your Free Nvidia 3D Vision Driver Update Installed on Any Version of Windows Today!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g73-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G73 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-adobes-ease-purchase-via-microsoft/"><u>Mastering Adobe's Ease: Purchase via Microsoft</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ocm-free-legacy-soccer-management-game/"><u>Mastering OCM: Free Legacy Soccer Management Game</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ize-visibility-with-well-structured-yt-summaries/"><u>Maximize Visibility with Well-Structured YT Summaries</u></a></li>
-<li><a href="https://fox-access.techidaily.com/perfecting-pro-photography-iphones-best-light-tactics-for-2024/"><u>Perfecting Pro Photography IPhone's Best Light Tactics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-format-required-error/"><u>Quick Guide to Overcome Format Required Error</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-disappearing-elements-in-windows-11-desktop/"><u>Recovering Disappearing Elements in Windows 11 Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-a-transparent-taskbar-on-win11/"><u>Step-by-Step Guide to a Transparent Taskbar on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/uninterrupted-qbittorrent-service-with-new-hardware-setup/"><u>Uninterrupted qBittorrent Service with New Hardware Setup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-hello-fingerprint-scanners-were-hacked-should-you-still-use-them/"><u>Windows Hello Fingerprint Scanners Were Hacked: Should You Still Use Them?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-stepwise-instructions-preserve-your-memories-by-uploading-to-snapchat/"><u>[Updated] In 2024, Stepwise Instructions Preserve Your Memories by Uploading to Snapchat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-expand-your-macbook-airs-portability-with-this-new-sleek-docking-station-zdnet/"><u>Effortlessly Expand Your MacBook Air's Portability with This New, Sleek Docking Station (ZDNet)</u></a></li>
+<li><a href="https://win11.techidaily.com/flat-faces-for-windows-cutting-corners-off/"><u>Flat Faces for Windows: Cutting Corners Off</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-effortless-youtube-playback-downloading-content-to-idevices/"><u>In 2024, Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70e-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi K70E Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://driver-error.techidaily.com/iphone-se-not-detected-on-fedora-core-os-solution-found-here/"><u>IPhone SE Not Detected on Fedora Core OS - Solution Found Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-social-and-multiplayer-worlds-subscribing-to-and-using-ea-play-on-ps5/"><u>Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-rufus-for-bypassing-tpmsecure-boot-in-windows-11/"><u>Navigating Rufus for Bypassing TPM/Secure Boot in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-os-limits-with-win11-upgrade-guide/"><u>Overcoming OS Limits with Win11 Upgrade Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-windows-n-features-which-to-choose/"><u>Scrutinizing Windows N Features: Which to Choose?</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-touchpad-glitches-in-windows-environment/"><u>Solving Touchpad Glitches in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/teamwork-enhanced-agile-communication-tech/"><u>Teamwork Enhanced: Agile Communication Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-viewing-all-episodes-of-indiana-jones-saga-sequentially/"><u>The Ultimate Guide: Viewing All Episodes of Indiana Jones Saga Sequentially</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-entry-level-gaming-edit-suite-reviews-for-2024/"><u>Top Entry-Level Gaming Edit Suite Reviews for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-dvd-to-computer-the-easy-way-to-convert-and-store-your-favorite-movies/"><u>Updated In 2024, DVD to Computer The Easy Way to Convert and Store Your Favorite Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-windows-audio-device-graph-isolation-and-is-it-a-problem/"><u>What Is Windows Audio Device Graph Isolation and Is It a Problem?</u></a></li>
 </ul></div>
 

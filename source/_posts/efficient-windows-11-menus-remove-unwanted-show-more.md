@@ -1,7 +1,7 @@
 ---
 title: "Efficient Windows 11 Menus: Remove Unwanted Show More"
-date: 2024-11-03T22:21:40.769Z
-updated: 2024-11-07T18:10:23.184Z
+date: 2024-11-15T03:00:23.269Z
+updated: 2024-11-17T21:51:12.089Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 Next, restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -58,19 +51,6 @@ Next, restart your computer for the changes to take effect.
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
@@ -95,7 +75,22 @@ Next, restart your computer for the changes to take effect.
 4. Name the value as**"UndockingDisabled"** and press**Enter** .  
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
@@ -109,21 +104,21 @@ Next, restart your computer for the changes to take effect.
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
 4. Check the**Enable classic full context menus** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
@@ -145,21 +140,22 @@ Next, restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20-best-anime-opening-songs-of-all-time/"><u>[New] 20 Best Anime Opening Songs of All Time</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>[New] 2024 Approved A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essentials-of-blurring-photo-borders/"><u>[Updated] The Essentials of Blurring Photo Borders</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-adobe-reader-from-the-microsoft-store/"><u>Essential Tips for Adobe Reader From the Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-lockout-mechanism-after-unsuccessful-sign-ons-in-w10w11/"><u>Fine-Tuning Lockout Mechanism After Unsuccessful Sign-Ons in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-package-installation-failures-across-various-os-versions/"><u>Fixing Package Installation Failures Across Various OS Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-razer-synapse-not-detecting-razer-devices-in-windows-11-and-11/"><u>How to Fix Razer Synapse Not Detecting Razer Devices in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-resolve-printer-not-detected-error-in-windows-11/"><u>Methods to Resolve Printer Not Detected Error in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-z-fold-5-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy Z Fold 5 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New 2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-space-limit-in-windows-os/"><u>Overcoming Disk Space Limit in Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-stutter-and-freezing-problems-in-forza-horizon-5/"><u>Resolved: Fixing Stutter and Freezing Problems in Forza Horizon 5</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-launching-works-on-windows-10plus/"><u>Step-by-Step: Launching Works on WIndows 10+</u></a></li>
-<li><a href="https://win-able.techidaily.com/transforming-audio-files-from-wav-to-ogg-format-with-easy-steps-both-offline-and-online-solutions/"><u>Transforming Audio Files From WAV to Ogg Format with Easy Steps - Both Offline & Online Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-detecting-razers-with-synapse-on-windows/"><u>Troubleshooting Non-Detecting Razers with Synapse on Windows</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-blaze-2-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Blaze 2 Pro.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-strategies-for-capturing-fb-chats/"><u>[New] 2024 Approved Advanced Strategies for Capturing FB Chats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-digital-artists-10-favorite-background-switchers/"><u>[Updated] 2024 Approved Digital Artists' 10 Favorite Background Switchers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-to-avoid-obs-framing-errors-for-2024/"><u>[Updated] Essential Tips to Avoid OBS Framing Errors for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-y100i-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo Y100i to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-censorship-in-chatbots-implications-for-daily-interactions/"><u>Decoding AI Censorship in Chatbots - Implications for Daily Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-offline-tools-for-windows-updates/"><u>Essential Offline Tools for Windows Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-win11-wireless-driver-patches/"><u>Essential Tips: Win11 Wireless Driver Patches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/experience-portable-power-the-new-minisforum-ti-touchscreen-mini-pc-ultra-9-cpu-inside/"><u>Experience Portable Power: The New MinisForum Ti Touchscreen Mini PC - Ultra 9 CPU Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/fond-memories-fresh-look-windows-1198-makeover/"><u>Fond Memories, Fresh Look: Windows 11/98 Makeover</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-required-privilege-is-not-held-by-client-error-0x80070522-in-windows-1110/"><u>How to Fix the “Required Privilege Is Not Held by Client” Error 0X80070522 in Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-your-mixers-audio-preferences-in-windows-10/"><u>Maintain Your Mixer's Audio Preferences in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-outlook-access-issue-opening-restricted-folders-in-windows/"><u>Resolving Outlook Access Issue: Opening Restricted Folders in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-fixing-no-disk-found-on-nvidia-devices/"><u>Step-by-Step Walkthrough: Fixing 'No Disk Found' On NVIDIA Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-analysis-microsofts-near-perfect-device-for-designers/"><u>Studio 2 Analysis: Microsoft's Near-Perfect Device for Designers</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-windows-11-firewall-settings-through-the-context-menu/"><u>Tailoring Windows 11 Firewall Settings Through the Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-hack-for-backdrop-blur-in-w11s-advanced-photo-editing-tools/"><u>The Ultimate Hack for Backdrop Blur in W11's Advanced Photo Editing Tools</u></a></li>
 </ul></div>
 

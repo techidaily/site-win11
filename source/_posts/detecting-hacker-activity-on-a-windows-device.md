@@ -1,7 +1,7 @@
 ---
 title: Detecting Hacker Activity on a Windows Device
-date: 2024-11-02T19:13:50.728Z
-updated: 2024-11-07T23:54:06.227Z
+date: 2024-11-12T03:07:33.677Z
+updated: 2024-11-18T02:22:13.264Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,25 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
  Once you have closed down all nonessential processes and carried out a malware scan, you can start looking for any malicious programs lurking on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Inspect Your Device for Spyware or Hacking Attempts
 
  In the modern era, malware infections are usually programmed to actively (but secretly) operate on the victim's computer. For instance,[cryptojackers](https://www.makeuseof.com/what-is-cryptojacking-how-to-detect-it/) use victims' computer resources for crypto mining, keyloggers gather login credentials by monitoring keystrokes, and spyware tracks users' activity in real-time and shares it with the hackers.
 
  Each of these malware types relies on a remote connection to the hacker's server where the data is sent, the mining software runs, or whatever else the hacker is trying to accomplish. By identifying those suspicious connections established on our device, we can determine whether our device has actually been compromised.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Check for Suspicious Connections
 
@@ -51,10 +65,10 @@ netstat -ano
 ![Run Netstat-ano Command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-run-netstat-ano-command-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command will show you all the TCP connections the apps, programs, and services have established to remote hosts.
@@ -63,16 +77,16 @@ netstat -ano
 
 ![Find the Suspicious Process with Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-find-the-suspicious-process-with-established-connection-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don't panic if you see a lot of established connections. Most of the time, these connections are made to a company server whose services you use, like Google, Microsoft, etc. However, you need to analyze each of these connections separately. This will help you determine if there are suspicious connections being made to a hacker's server.
 
  Do not close the Command Prompt; we will use the netstat information in the next steps.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Analyze Any Connections That Seem Suspicious
 
@@ -82,13 +96,6 @@ Here's how you can analyze the suspicious connections:
 2. Go to a popular IP location lookup site, such as IPLocation.net.
 3. Paste your copied IP address here and click the**IP Lookup** button.  
 ![click on the ip lookup button after pasting the copied ip address on ip location website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-the-ip-lookup-button-after-pasting-the-copied-ip-address-on-ip-location-website.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This website will provide you with information about the IP address. Check the ISP and organization that use this IP address. If the IP address belongs to a well-known company whose services you use, such as Google LLC, Microsoft Corporation, etc., there is nothing to worry about.
 
@@ -102,17 +109,17 @@ Here's how you can analyze the suspicious connections:
 ![Note the PID Next to the Suspicious Established Connection in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-note-the-pid-next-to-the-suspicious-established-connection-in-command-prompt.jpg)
 2. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Go to the**Details** tab.
 4. Click the**PID column** to sort processes according to their PIDs.
 5. Find the process with the same**PID** that you noted down earlier.  
 ![Find the Process with Relevant PID in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-find-the-process-with-relevant-pid-in-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the process belongs to a third-party service that you frequently use, you don't need to close it. However, you should still verify that this process belongs to the company you believe it does,as a hacker can hide their malicious processes under the guise of a malicious one. So, right-click on the suspicious process and select**Properties** .
 
@@ -132,15 +139,15 @@ Here's how you can analyze the suspicious connections:
 ![Click on Open File Location by Right-clicking on Malicious Process in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-on-open-file-location-by-right-clicking-on-malicious-process-in-windows-task-manager.jpg)
 2. Once again, ensure the file is not associated with Windows or any other critical application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. If you're sure it's malware, right-click it and delete it.  
 ![Delete the Suspicious File After Locating it in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/9-delete-the-suspicious-file-after-locating-it-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Take Professional Help When Necessary
 
@@ -149,13 +156,6 @@ Here's how you can analyze the suspicious connections:
  However, you should be aware that hackers can conceal their malware from netstat output by programming it that way. Likewise, they can code the program so it does not appear in Task Manager. Seeing no suspicious connections in the netstat output or not finding the suspicious process in Task Manager doesn't mean your device is safe.
 
  Therefore, if you see signs of a hacked device in your system, such as high resource consumption in Task Manager, system slowdowns, unknown apps getting installed, Windows Defender turning off frequently, the creation of suspicious new user accounts, and similar, you should consult a professional. Only then can you be sure that your device is completely secure.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Don't Let Hackers Spy on You for Long
 
@@ -178,16 +178,24 @@ Here's how you can analyze the suspicious connections:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-beyond-imagination-vr-powered-movies/"><u>[New] Beyond Imagination VR-Powered Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-elevating-your-youtube-entrance-ranks/"><u>[New] The Essentials of Elevating Your Youtube Entrance Ranks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>2024 Approved Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-security-certificate-errors-in-mozilla-firefox/"><u>Comprehensive Guide to Fixing Security Certificate Errors in Mozilla Firefox</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-windows-11s-admin-level-powershell-prompt/"><u>Launching Windows 11'S Admin-Level PowerShell Prompt</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-inaccessibility-issues-with-csgo-on-w11/"><u>Overcoming Inaccessibility Issues with CS:GO on W11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sail-through-history-with-assassins-creed-valhalla-a-captivating-viking-chronicle-set-amidst-castles-and-kingdoms/"><u>Sail Through History with 'Assassin's Creed: Valhalla' - A Captivating Viking Chronicle Set Amidst Castles & Kingdoms</u></a></li>
-<li><a href="https://win11.techidaily.com/take-command-of-your-computing-experience-multiply-folders-in-win11plus11/"><u>Take Command of Your Computing Experience: Multiply Folders in Win11+11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-potential-of-vram-on-modern-pcs/"><u>Unlock Full Potential of VRAM on Modern PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-terminal-visual-element/"><u>Upgrade Your Terminal Visual Element</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-saving-instagrams-finest-in-your-photo-gallery/"><u>[New] 2024 Approved Saving Instagram's Finest in Your Photo Gallery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-telltale-signs-your-chat-is-hidden/"><u>[New] Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tips-to-nail-every-green-screen-scene/"><u>[New] Top Tips to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips/"><u>[Updated] From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-11-pro-level-screen-recorders-for-mac-users/"><u>[Updated] Top 11 Pro-Level Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-strategies-for-clear-communication-on-google-meet/"><u>2024 Approved Expert Strategies for Clear Communication on Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-inside-look-at-optimizing-channels-in-youtube-studio/"><u>2024 Approved Inside Look at Optimizing Channels in YouTube Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-next-gen-recording-nine-leading-webmicrone-recorders-23/"><u>2024 Approved Next-Gen Recording Nine Leading Webmicrone Recorders ('23)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-blue-screen-of-death-error-0xc000021a-on-win-108-issue-resolved/"><u>Comprehensive Solutions for Blue Screen of Death Error 0xC000021A on Win 10/8 [Issue Resolved]</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-notepad-in-w11-with-digital-oracle/"><u>Enhance Notepad in W11 with Digital Oracle</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-efficiently-erasing-image-borderlines/"><u>Expert Guide: Efficiently Erasing Image Borderlines</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-address-stalled-torrents-on-pc/"><u>How to Quickly Address Stalled Torrents on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/procedures-for-pairing-airpods-to-windows-computers/"><u>Procedures for Pairing AirPods to Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-the-endless-storage-drain-on-windows-pc/"><u>Reverse the Endless Storage Drain on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-explanations-for-using-bluescreenview-tech/"><u>Simplified Explanations for Using BlueScreenView Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-quick-solutions-for-failed-item-drops/"><u>Win11: Quick Solutions for Failed Item Drops</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-compatible-hardware-test-suites/"><u>Windows-Compatible Hardware Test Suites</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-fakeware-in-windows-marketplace/"><u>Winning Against Fakeware in Windows Marketplace</u></a></li>
 </ul></div>
 

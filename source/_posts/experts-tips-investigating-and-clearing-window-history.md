@@ -1,7 +1,7 @@
 ---
 title: "Expert's Tips: Investigating & Clearing Window History"
-date: 2024-11-01T19:40:10.137Z
-updated: 2024-11-07T23:06:39.106Z
+date: 2024-11-15T17:38:52.248Z
+updated: 2024-11-17T23:37:55.392Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Delete Your Windows Activity History via Settings on Windows 10
 
  If you're on Windows 10, perform the following:
@@ -57,23 +64,16 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
- This will clear the activity history for the account you're currently using.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This will clear the activity history for the account you're currently using.
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -84,19 +84,19 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
@@ -104,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
@@ -116,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
  Then, untick **Send my activity history to Microsoft** to stop your data from being sent to Microsoft's servers. Now that both boxes are unticked, you should notice a lack of activity tracking in the future.
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
 
@@ -148,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -155,19 +162,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
  As such, a privacy-minded person may feel uneasy that their new PC has Windows 10\. If you'd rather not scrub the drive clean to install a different operating system, you can take steps to reduce what data Microsoft gathers about you.
 
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keeping Your Data Safe in Windows 10
 
@@ -177,20 +171,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>2024 Approved In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-12plus-5g-lock-screen-password-by-drfone-android/"><u>How To Change Realme 12+ 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-t2-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo T2 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>In 2024, Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>In 2024, Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-potential-top-5-productivity-tools-for-windows-11-professionals/"><u>Maximize Your Potential: Top 5 Productivity Tools for Windows 11 Professionals</u></a></li>
-<li><a href="https://win11.techidaily.com/notepad-nightmare-unlock-access-with-our-expert-troubleshooting-guide/"><u>Notepad Nightmare: Unlock Access with Our Expert Troubleshooting Guide</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-sound-choice-handbook-understanding-and-selecting-superior-audio-formats/"><u>The Sound Choice Handbook Understanding & Selecting Superior Audio Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-understanding-error-code-0x0000003b-bsod/"><u>Unraveling Windows: Understanding Error Code 0X0000003B BSOD</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-voice-access-solutions-for-common-issues/"><u>Win11 Voice Access: Solutions for Common Issues</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -198,3 +178,23 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effective-approaches-to-capturing-high-def-live-games/"><u>[New] Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-preserve-the-illusion-professional-tactics-for-vr-gaming-logging/"><u>[Updated] 2024 Approved Preserve the Illusion Professional Tactics for VR Gaming Logging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-chefs-roadmap-creating-culinary-content/"><u>[Updated] 2024 Approved The Chef's Roadmap Creating Culinary Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>2024 Approved How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>2024 Approved Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-missing-windows-lsass-component/"><u>Dealing with Missing Windows LSass Component</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-ideal-free-dvd-viewing-tools-for-windows-11-users-among-our-top-picks/"><u>Discover the Ideal Free DVD Viewing Tools for Windows 11 Users Among Our Top Picks!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximize-audience-impact-peak-viewing-hours/"><u>In 2024, Maximize Audience Impact - Peak Viewing Hours</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rediscover-the-hidden-ubisoft-hub/"><u>Methods to Rediscover the Hidden Ubisoft Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-automatic-updates-notifications-on-pc/"><u>Preventing Automatic Updates Notifications on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/self-reliant-strategies-to-safeguard-your-computer/"><u>Self-Reliant Strategies to Safeguard Your Computer</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-conceal-windows-11s-search-icon/"><u>Tricks to Conceal Windows 11'S Search Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-indexers-control-panel/"><u>Unveiling Indexer's Control Panel</u></a></li>
+</ul></div>
+

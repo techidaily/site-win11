@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Resolving iOS Photo Import Issues on Windows OS"
-date: 2024-11-06T16:46:01.144Z
-updated: 2024-11-07T21:57:47.856Z
+date: 2024-11-14T18:47:57.797Z
+updated: 2024-11-18T04:20:42.518Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  So, don’t try to import all images on your iPhone. Try selecting to transfer a smaller number of photos you most want to view on your Windows PC. Then you can more easily identify problematic image files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Select the Import Pictures Context Menu Option
 
  Some users have said they got around the “Something went wrong” import failure error by selecting an alternative option for transferring them. Those users selected to transfer the images from iPhones with Explorer’s**Import pictures** context menu option, which is more of a workaround than a fix for the Photos import error. You can try importing your photos by selecting that option as follows:
@@ -52,13 +45,27 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 6. Choose some images to transfer and click the**Import** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Restart the Apple Mobile Device Service
 
@@ -68,17 +75,24 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 2. Then double-click**Apple Mobile Device Service** to bring up its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-window.jpg)
 3. Select**Automatic** if a different**Startup type** setting is set.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Stop** to halt the service.  
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Hardware Acceleration in Photos
 
@@ -91,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Select the "Keep Originals" Option on Your iPhone
 
  One of the most widely confirmed fixes for the “Something went wrong” error is to select the Keep Originals iPhone setting. Selecting that option stops automatic JPEG conversion for importing pictures. You’ll need to apply this potential solution on your iPhone as follows:
@@ -102,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Repair and/or Reset the Photos App
 
  Photos is a UWP (Universal Windows Platform) app with**Repair** and**Reset** troubleshooting options you can select when it’s not working right. In this case, Photos isn’t working right because you can’t import iPhone images with it. So, selecting its**Repair** /**Reset** options could feasibly resolve that Photos issue.
@@ -109,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Close the OneDrive App
 
@@ -127,39 +148,26 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
 4. Open the Photos app and click the user account picture in it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Try importing images with Photos again.
 
  Note that the instructions above are for the legacy Windows 10 Photos app. You can’t select to sign out of a user account in Windows 11’s default Photos app. In Windows 11’s Photos app, click**Settings** and turn off the**OneDrive – Personal** option.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Disable Microsoft Defender (or Other Antivirus Utility)
 
  Sometimes antivirus (security) tools can interfere with file importing from other devices. To ensure that doesn’t happen, temporarily disable antivirus utilities on your PC before attempting to import images. If you haven’t installed any security software,[disable Microsoft Defender Antivirus in Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) by turning off that app’s real-time protection.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
 
@@ -184,20 +192,18 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-video-clarity-with-expert-tips-for-youtube-editors/"><u>[New] 2024 Approved Elevate Video Clarity with Expert Tips for YouTube Editors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-black-and-white-to-richness-embracing-hdrs-power-for-2024/"><u>[Updated] From Black and White to Richness Embracing HDR's Power for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-game-of-thrones-ringtones-premier-download-websites-ranked-for-2024/"><u>[Updated] Game of Thrones Ringtones Premier Download Websites Ranked for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/age-of-empires-4-lag-solutions-techniques-for-uninterrupted-play/"><u>Age of Empires 4 Lag Solutions: Techniques for Uninterrupted Play</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-code-non-working-windows-headset-mic/"><u>Deciphering the Code: Non-Working Windows Headset Mic</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-access-to-linux-activating-the-microsoft-feature/"><u>Direct Access to Linux: Activating the Microsoft Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/guarding-your-pc-top-7-windows-security-tips/"><u>Guarding Your PC: Top 7 Windows Security Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-easy-speech-alteration-for-sony-playstation-devices/"><u>In 2024, Easy Speech Alteration for Sony PlayStation Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/lg-stylo-6-smartphone-review-unmatched-beauty-and-ergonomic-stylus-experience/"><u>LG Stylo 6 Smartphone Review: Unmatched Beauty and Ergonomic Stylus Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210773353-9781649697332-one-fine-day/"><u>One Fine Day. | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-steam-library-synchronization-error/"><u>Resolving Windows Steam Library Synchronization Error</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/by-step-guide-to-essential-youtube-equipment-for-2024/"><u>Step-by-Step Guide to Essential YouTube Equipment for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/switch-off-windows-11-defender-firewall-now/"><u>Switch Off Windows 11 Defender Firewall Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-tech-hacks-remove-pesky-temp-files/"><u>Windows Tech Hacks: Remove Pesky Temp Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breezy-video-capture-testimony/"><u>[Updated] Breezy Video Capture Testimony</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>[Updated] Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>[Updated] How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>2024 Approved Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-runtime-brokers-functionality-at-runtime/"><u>Deciphering Runtime Broker's Functionality at Runtime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/defeat-fearsome-creatures-a-comprehensive-review-of-monster-hunter-worlds-epic-adventure/"><u>Defeat Fearsome Creatures! A Comprehensive Review of Monster Hunter: World's Epic Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-performance-how-to-use-all-available-ram-in-windows/"><u>Enhancing Performance: How to Use All Available RAM in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-vip-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 VIP Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-google-maps-on-your-windows-pc/"><u>How to Install Google Maps on Your Windows PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mend-windows-11s-camera-app-f429f-error/"><u>Strategies to Mend Windows 11’S Camera APP F429F Error</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-call-journals/"><u>The Ultimate Guide to Windows' Call Journals</u></a></li>
 </ul></div>
 

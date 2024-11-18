@@ -1,7 +1,7 @@
 ---
 title: Stop INTERRUPT_EXCEPTION on Windows 11 Blue Screen
-date: 2024-11-04T21:00:50.296Z
-updated: 2024-11-07T18:25:57.604Z
+date: 2024-11-11T06:40:34.078Z
+updated: 2024-11-18T06:31:22.169Z
 tags:
   - windows10
   - windows11
@@ -37,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  Now that we know the potential causes, let's look at the solutions that helped several affected users fix the issue. Proceed with the one that fits your situation the best.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Boot Into WinRe if Your PC Won't Launch
 
  If the BSOD error is preventing you from booting into the system at all, you will need to access the recovery environment of Windows to perform the troubleshooting methods.
@@ -59,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, remember that this key may be different for you, depending on your device. In some devices, it is F9 or F12 key. It is best to check your manufacturer's official website for this information.
@@ -74,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
  Here, click on the**Restart** button. Once the system reboots, you should see a list of options. Choose**5** or press the**F5** key to boot into**Safe Mode with Networking** . After booting into Safe Mode, you can perform the solutions below.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Delete the Problematic Registry Keys
 
@@ -95,16 +89,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 7. Delete the APOIM values from here by right-clicking on the value and choosing**Delete** .  
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Remove the Problematic Software
 
@@ -121,10 +116,10 @@ Here is what you need to do:
 5. Follow the on-screen instructions to complete the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
@@ -162,21 +157,22 @@ Here is what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-master-2-screen-grab-tools-for-2024/"><u>[New] Master 2 Screen Grab Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/direct-linking-of-onedrive-and-microsoft-live-id/"><u>Direct Linking of OneDrive and Microsoft Live ID</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tial-audio-tools-free-superior-dj-templates-online/"><u>Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-most-value-from-windows-11-product-codes/"><u>How to Get the Most Value From Windows 11 Product Codes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-vr-headset-picks-for-uavs/"><u>In 2024, Premium VR Headset Picks for UAVs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-vhs-classic-check-goofy-and-his-gangs-joke-time/"><u>In 2024, VHS Classic Check Goofy and His Gang's Joke Time</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-huggingchat-the-free-collaborative-ai-chat-platform/"><u>Inside HuggingChat: The Free, Collaborative AI Chat Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-in-stopping-windows-11s-surveillance-systems/"><u>Mastery in Stopping Windows 11'S Surveillance Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/optimized-email-checking-securely-placement-of-gmail-bar/"><u>Optimized Email Checking: Securely Placement of Gmail Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-supported-audio-problems-windowss/"><u>Overcoming Non-Supported Audio Problems Windowss</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quality-matters-the-advantages-and-disadvantages-of-different-fps-for-2024/"><u>Quality Matters The Advantages & Disadvantages of Different FPS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-windows-bad-graphics-drivers-causing-frequent-minecraft-game-crashes/"><u>Solve Window's Bad Graphics Drivers Causing Frequent Minecraft Game Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-new-contender-asuss-answer-to-rog-ally/"><u>The New Contender: ASUS's Answer to ROG Ally</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-5-essential-factors-to-assess-when-shopping-for-your-ideal-fitness-band/"><u>Top 5 Essential Factors to Assess When Shopping for Your Ideal Fitness Band</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-most-memory-economical-windows-browsing-apps/"><u>Unraveling the Most Memory Economical Windows Browsing Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-video-production-essential-lessons-for-beginners/"><u>[New] Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-learn-to-conduct-zoom-webinars-a-newbies-blueprint-for-2024/"><u>[Updated] Learn to Conduct Zoom Webinars A Newbie's Blueprint for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[Updated] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-comparing-digital-dimensions-metaverse-and-multiverse/"><u>2024 Approved Comparing Digital Dimensions Metaverse & Multiverse</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-w10w11s-error-code-e1/"><u>Disabling W10/W11's Error Code E1</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-capabilities-with-chatgpt-on-windows/"><u>Enhance PC Capabilities with ChatGPT on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pcs-prowess-tackling-lags-in-windows-11/"><u>Ignite Your PC's Prowess: Tackling Lags in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solutions-for-stubborn-windows-application-errors/"><u>Immediate Solutions for Stubborn Windows Application Errors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>In 2024, Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-and-save-your-linkedin-content-the-ultimate-guide-to-best-tools/"><u>In 2024, Capture & Save Your LinkedIn Content The Ultimate Guide to Best Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-disabled-timed-lock-screen-delay/"><u>Remedy for Disabled Timed Lock Screen Delay</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-no-signs-after-os-launch/"><u>Solving No Signs After OS Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-rectifying-something-went-wrong-in-outlook/"><u>Step-by-Step: Rectifying 'Something Went Wrong' In Outlook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thumbnail-mastery-for-youtube-channel-graphics-for-2024/"><u>Thumbnail Mastery for YouTube Channel Graphics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-store-troubleshooting-tips-for-error-x800704cf/"><u>Windows Store Troubleshooting Tips for Error X800704CF</u></a></li>
 </ul></div>
 

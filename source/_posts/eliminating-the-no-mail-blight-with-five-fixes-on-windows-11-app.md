@@ -1,7 +1,7 @@
 ---
 title: Eliminating the 'No Mail' Blight with Five Fixes on Windows 11 App
-date: 2024-10-31T19:48:27.609Z
-updated: 2024-11-07T19:55:02.502Z
+date: 2024-11-17T09:27:28.501Z
+updated: 2024-11-18T09:40:53.469Z
 tags:
   - windows10
   - windows11
@@ -35,27 +35,27 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check the Date and Time on Windows
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Allow Mail Through the Windows Firewall
 
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use the Windows Update Troubleshooter
 
  It's common for UWP apps to run into issues. Fortunately, you can quickly get rid of all such issues using the[built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) . To eliminate the Mail app issue, you'll have to use the Windows Store Apps troubleshooter. Here's how to use it:
@@ -81,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 1. Open the Settings app and go to**System** \>**Troubleshoot** \>**Other troubleshooters** .
 2. Click the**Run** button next to**Windows** **Store Apps** .  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
@@ -100,10 +86,25 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 3. Enable the toggle next to**Email access** .  
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
 
 Now, restart your system and check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair and Reset the Mail App
 
@@ -113,14 +114,15 @@ Now, restart your system and check for the issue.
 2. Click the**three dots** next to**Mail and Calendar** app and choose**Advanced options.**  
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
-![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
 
@@ -129,16 +131,10 @@ Now, restart your system and check for the issue.
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
@@ -162,18 +158,19 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>[New] In 2024, Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[Updated] 2024 Approved Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-mixology-a-review/"><u>ChatGPT and the Art of Mixology: A Review</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-windows-11s-netstat-capabilities-for-traffic-analysis/"><u>Dissecting Windows 11'S Netstat Capabilities for Traffic Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-guide-getting-your-iphones-alarm-to-ring-on-time-again/"><u>Expert Guide: Getting Your iPhone's Alarm to Ring on Time Again</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-absent-windows-updates-on-your-pc/"><u>Fixing Absent Windows Updates on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-glitched-search-how-to-tackle-issues-in-windows-11-settings/"><u>Fixing Glitched Search: How to Tackle Issues in Windows 11 Settings</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-view-avi-videos-on-your-iphone-easy-step-by-step-guide/"><u>How to View AVI Videos on Your iPhone - Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/silence-running-apps-on-windows-11/"><u>Silence Running Apps on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-system-innovative-apps-of-2023/"><u>Skyrocket Your System: Innovative Apps of 2023</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-ecovacs-deebot-t30s-combo-the-all-in-one-robovac-with-stair-climbing-ability/"><u>Ultimate Guide to Ecovacs Deebot T30S Combo: The All-in-One RoboVac with Stair Climbing Ability</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-keygen-virus-in-windows-causes-and-removal-guide/"><u>Understanding Keygen Virus in Windows: Causes and Removal Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>[New] 2024 Approved From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>[New] 2024 Approved The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>[New] In 2024, Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visionary-devices-pushing-computing-limits/"><u>[New] In 2024, Visionary Devices Pushing Computing Limits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-moviemaker-masterwin8/"><u>2024 Approved MovieMaker MasterWin8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-chromeos-upgrade-seamless-windows-11-integration-now-on-chromebooks-the-zdnet-tech-report/"><u>Discover the Latest ChromeOS Upgrade: Seamless Windows 11 Integration Now on Chromebooks - The ZDNET Tech Report</u></a></li>
+<li><a href="https://win11.techidaily.com/envisioning-the-digital-landscape-beyond-windows-11/"><u>Envisioning the Digital Landscape: Beyond Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-vanishing-windows-11-login-screens/"><u>Steps to Solve Vanishing Windows 11 Login Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-visuals-crafting-your-wt-terminal-scheme/"><u>Tailored Visuals: Crafting Your WT Terminal Scheme</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-talk-windows-age-assessment/"><u>Tech Talk: Windows Age Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/the-significance-of-additional-yearly-updates-in-windows-11-h2-release/"><u>The Significance of Additional Yearly Updates in Windows 11 H2 Release</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/ultimate-guide-how-to-seamlessly-insert-gifs-into-instagram-posts/"><u>Ultimate Guide: How to Seamlessly Insert GIFs Into Instagram Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-xbox-stranded-tangle-in-modern-os/"><u>Unraveling the Xbox Stranded Tangle in Modern OS</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728503708761-windows-pc/"><u>Windows PC中影片捄助：四法方便成功保存</u></a></li>
 </ul></div>
 

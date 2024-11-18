@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Overscan for Optimal Screen Fit
-date: 2024-11-04T22:18:52.132Z
-updated: 2024-11-07T20:36:40.606Z
+date: 2024-11-13T04:49:48.911Z
+updated: 2024-11-18T02:45:07.876Z
 tags:
   - windows10
   - windows11
@@ -42,14 +42,14 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 3. Click the drop-down menu next to **Display resolution** to select the correct resolution from the list. If you don’t know the appropriate display resolution for your display, refer to the product manual or experiment with different options.  
 ![Change Display Resolution in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-display-resolution-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When attempting this fix, some users report having their screen resolution settings appear grayed out. If such is the case for you too, check our guide on [fixing inaccessible screen resolution settings on Windows](https://www.makeuseof.com/windows-inaccessible-screen-resolution-settings/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Change the Display Scale
 
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
  If adjusting the display resolution and scale via the Windows Settings app proves ineffective, you can try using the built-in graphics control panel to apply the changes. The exact steps will vary depending on whether your PC is equipped with Intel, NVIDIA, or AMD graphics.
 
  Here's how you can use the graphics control panels for each type:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix Overscanning Using the Intel Graphics Command Center
 
@@ -97,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 7. Click **OK** and then **Apply**.  
 ![Fix Overscanning Using the NVIDIA Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-using-the-nvidia-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix Overscanning via AMD Radeon Settings
 
 1. Right-click on an empty spot on your desktop and select **AMD Radeon Settings** from the context menu.
@@ -111,19 +97,20 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 3. Move the slider next to **HDMI Scaling** to make the display fit the screen.  
 ![Fix Overscanning via AMD Radeon Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/fix-overscanning-via-amd-radeon-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you make the necessary adjustments using the above steps, the issue should not occur again.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Adjust Your Monitor’s Display Settings
@@ -141,14 +128,14 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 3. In the **Display Color Calibration** window, follow the on-screen prompts.  
 ![Calibrate Display on Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calibrate-display-on-windows-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Complete the calibration process and see if the overscanning issue still occurs on Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Run the Hardware and Devices Troubleshooter
 
@@ -163,14 +150,14 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 6. Click **Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the troubleshooter to find and fix any issues, and see if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Fixes
 
@@ -178,6 +165,13 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 * **Update Display Drivers:** Faulty or outdated display drivers on your PC can cause such anomalies. You can try [updating the display drivers on your Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) computer to see if that helps.
 * **Install Windows Updates:** It is possible that the overscanning issue is caused by a buggy Windows build. In such cases, [installing pending Windows updates](https://www.makeuseof.com/update-windows-manually/) should help resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Overcome Overscanning on Windows
 
@@ -187,29 +181,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  Fortunately, it’s possible to fix the overscanning or overscaling issues in Windows so that all the content is visible. This guide will walk you through the process.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-information.techidaily.com/new-camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece/"><u>[New] Camera Kings Collide SJ6 Powerhouse Vs. Yi 4K Masterpiece</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>[New] In 2024, Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-mastering-oculus-the-premium-vr-gaming-headset-for-2024/"><u>[New] Mastering Oculus The Premium VR Gaming Headset for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-record-google-hangout-4-solutions-for-2024/"><u>[New] Record Google Hangout [4 Solutions] for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo/"><u>[Updated] In 2024, Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-your-iphone-the-secrets-to-hdr-image-magic/"><u>[Updated] In 2024, Mastering Your iPhone The Secrets to HDR Image Magic</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-pages-to-production-creating-a-movie-blueprint/"><u>2024 Approved From Pages to Production Creating a Movie Blueprint</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-read-only-mode-on-your-windows-folders/"><u>Defeating Read-Only Mode on Your Windows Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-preventing-roblox-crashes/"><u>Guidelines for Preventing Roblox Crashes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-xr21-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia XR21 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-windows-right-click-functionality-for-software-alerts/"><u>Innovating Windows' Right-Click Functionality for Software Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-0x800700e1-a-step-by-step-guide-for-windows-11/"><u>Overcoming Error 0X800700E1: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-insufficient-access-errors-during-app-installation/"><u>Overcoming Insufficient Access Errors During App Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-dns-processes-on-windows-11/"><u>Streamlining DNS Processes on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unreliable-clipboard-functionality-win-11/"><u>Tackling Unreliable Clipboard Functionality Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/taking-advantage-becoming-a-part-of-windows-11-insiders/"><u>Taking Advantage: Becoming a Part of Windows 11 Insiders</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-backup-possibilities-how-to-use-system-restore-on-windows-11/"><u>Unlocking Backup Possibilities: How to Use System Restore on Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/wondering-about-chatgpt-plus-value-explore-the-top-5-features-worth-your-subscription/"><u>Wondering About ChatGPT Plus Value? Explore the Top 5 Features Worth Your Subscription</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -217,3 +188,18 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-with-these-8-windows-timers/"><u>Elevate Your Workflow with These 8 Windows Timers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freely-accessible-platforms-for-professional-photography-edits-for-2024/"><u>Freely Accessible Platforms for Professional Photography Edits for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-outlook-alert-performance-a-step-by-step-approach/"><u>Improving Outlook Alert Performance: A Step-by-Step Approach</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-note-30-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Note 30 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-excel-notation-on-notepad/"><u>Quick Fixes for Excel Notation on Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-control-windows-setup-service-status/"><u>Steps to Control Windows Setup Service Status</u></a></li>
+</ul></div>
+

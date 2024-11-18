@@ -1,7 +1,7 @@
 ---
 title: How to Redo Installation of Unavailable Windows Add-Ons
-date: 2024-11-06T23:47:57.863Z
-updated: 2024-11-07T17:36:52.487Z
+date: 2024-11-15T21:05:40.481Z
+updated: 2024-11-17T22:52:15.850Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ To use the DISM tool, follow these steps:
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -95,26 +102,20 @@ Follow these steps to run the update troubleshooter on Windows:
 2. Scroll down and click**Troubleshoot > Other troubleshooters.**  
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
-![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
-4. Follow the prompts to complete the troubleshooting process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
+4. Follow the prompts to complete the troubleshooting process.
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -128,15 +129,22 @@ Here's how you can update Windows to the latest version:
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. Now, you can install any update that is available for your computer.
 
  By default, Windows automatically downloads and installs updates, but you can also check for updates manually by following the steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Module Installer Service
@@ -156,16 +164,10 @@ Here's how you can update Windows to the latest version:
  Once the service restarts, try installing the optional feature again, and it should work now.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows Features Using PowerShell
@@ -180,13 +182,6 @@ Here's how you can update Windows to the latest version:
 Get-WindowsOptionalFeature -Online  
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
@@ -218,24 +213,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-making-every-frame-count-in-instagram-videos-for-2024/"><u>[New] Making Every Frame Count in Instagram Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-download-youtube-tunes-without-risk-for-free-for-2024/"><u>[Updated] How to Download YouTube Tunes Without Risk for Free for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>[Updated] In 2024, Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/le-unsolicited-youtube-video-listings/"><u>Disable Unsolicited YouTube Video Listings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-non-responsive-logitech-settings-in-windows-os/"><u>How To Resolve Non-Responsive Logitech Settings in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-vm-setup-recommendations-for-windows-11-innovators/"><u>Ideal VM Setup Recommendations for Windows 11 Innovators</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 10 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/introducing-command-line-interface-to-taskmgr-windows/"><u>Introducing Command Line Interface to TaskMgr (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-windows-11-app-opening/"><u>Master the Art of Windows 11 App Opening</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-utorrent-download-speed-windows-wise/"><u>Maximize uTorrent Download Speed Windows-Wise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-m4r-to-ogg-web/"><u>Movavi 소프트웨어에서 안전하고 제공되는 무료 M4R to OGG 변환 – 원활한 Web 연습</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-tips-to-diminish-ambient-sound-in-videos/"><u>Professional Tips to Diminish Ambient Sound in Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-fixing-system-call-failure-on-windows-pcs/"><u>Quick Guide: Fixing 'System Call Failure' On Windows PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-among-us-freezes-and-crashing-issues-tips-and-solutions/"><u>Resolving 'Among Us' Freezes and Crashing Issues – Tips & Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/routes-to-the-windows-11-security-configuration/"><u>Routes to the Windows 11 Security Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-secure-transform-your-windows-pin-today/"><u>Swift and Secure: Transform Your Windows PIN Today</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-for-overcoming-iphone-camera-focusing-glitches-for-2024/"><u>Tips for Overcoming iPhone Camera Focusing Glitches for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/title-personalizing-icon-gaps-on-modern-and-vintage-winoses/"><u>Title: Personalizing Icon Gaps on Modern & Vintage WinOSes</u></a></li>
-<li><a href="https://win11.techidaily.com/zipping-and-unzipping-made-simple-with-powershell-examples/"><u>Zipping & Unzipping Made Simple with PowerShell Examples</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-non-disclosure-measures-for-video-footage/"><u>[New] 2024 Approved Non-Disclosure Measures for Video Footage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] In 2024, Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] 2024 Approved From Amateur to Professional Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-panoramic-versus-full-immersion-visual-media-tech/"><u>2024 Approved Exploring Panoramic Versus Full-Immersion Visual Media Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-starting-a-system-restore-on-windows-11/"><u>Essential Techniques for Starting a System Restore on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-microsoft-store-issue-x800704cf-on-pcs/"><u>Guide to Correcting Microsoft Store Issue X800704CF on PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-streaming-apple-tv-with-your-fire-stick-device/"><u>Guide: Streaming Apple TV with Your Fire Stick Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-flip-your-pcs-two-screens/"><u>How to Flip Your PC's Two Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>In 2024, PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-sandbox-initialization-guide/"><u>Mastering Windows 11 Sandbox: Initialization Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-overcoming-white-out-screens-in-win1011/"><u>Tactics for Overcoming White Out Screens in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-made-winterral-ambiance/"><u>Tailor-Made WinTerral Ambiance</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-menu-how-to-reduce-extra-options-displayed/"><u>Windows 11 Menu: How to Reduce Extra Options Displayed</u></a></li>
 </ul></div>
 

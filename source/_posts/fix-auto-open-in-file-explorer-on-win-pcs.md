@@ -1,7 +1,7 @@
 ---
 title: Fix Auto-Open in File Explorer on Win PCs
-date: 2024-11-05T19:22:26.214Z
-updated: 2024-11-08T00:20:17.282Z
+date: 2024-11-16T17:41:48.851Z
+updated: 2024-11-18T06:02:23.059Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
@@ -69,18 +76,18 @@ To run the System Maintenance troubleshooter on Windows:
 
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Check for Corrupted System Files
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
 
  If you need help running these tools, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
 
@@ -89,16 +96,10 @@ To run the System Maintenance troubleshooter on Windows:
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Install Windows Updates
@@ -112,10 +113,10 @@ To run the System Maintenance troubleshooter on Windows:
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
@@ -127,13 +128,6 @@ To run the System Maintenance troubleshooter on Windows:
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prevent File Explorer From Opening Automatically on Windows
 
@@ -154,22 +148,20 @@ To run the System Maintenance troubleshooter on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-massive-popularity-in-stock-imagery-tales-of-success/"><u>2024 Approved Massive Popularity in Stock Imagery Tales of Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-pathway-to-pro-youtube-earnings-on-every-device/"><u>2024 Approved The Pathway to Pro Youtube Earnings on Every Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-review-discover-whats-new-in-the-fourth-generation-echo-experience/"><u>Cutting-Edge Review: Discover What's New in the Fourth Generation Echo Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-the-best-deals-of-octobers-prime-shopping-event-must-have-discounts-still-up-for-grabs-cnet-insights/"><u>Dive Into the Best Deals of October's Prime Shopping Event: Must-Have Discounts Still Up for Grabs | CNET Insights</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/effortless-conversion-of-media-files-videos-and-audio-made-simple/"><u>Effortless Conversion of Media Files: Videos & Audio Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-audio-enhancements-on-windows/"><u>How to Disable Audio Enhancements on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12-pro-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12 Pro 4G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-win11s-perplexing-bluescreen/"><u>Mastering the Art of Fixing Win11's Perplexing Bluescreen</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-problems-efficiently-using-the-official-apple-assistance-app/"><u>Navigating iPhone Problems Efficiently Using the Official Apple Assistance App</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-elite-car-beat-merging-software-for-mac-platforms-for-2024/"><u>New Elite Car Beat Merging Software for Mac Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-steams-session-invalidation-message-for-players/"><u>Resolving Steam's Session Invalidation Message for Players</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-cannot-read-from-file-in-windows-os/"><u>Troubleshooting “Cannot Read From File” In Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-network-connections-toolset-on-windows/"><u>Understanding Network Connections Toolset on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-device-on-windows-11-post-code-22-issue/"><u>Unlocking Device on Windows 11 Post Code 22 Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-inbox-notifications-in-a-windows-setting/"><u>Unlocking the Potential of Inbox Notifications in a Windows Setting</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-laptop-phone-speed-divide/"><u>Unraveling the Laptop-Phone Speed Divide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-dji-mavic-pro-pioneering-the-aerial-photography-frontier/"><u>2024 Approved DJI Mavic Pro Pioneering the Aerial Photography Frontier</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-sustainable-practices-greening-urban-landscapes/"><u>2024 Approved Sustainable Practices Greening Urban Landscapes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-swiftly-secure-screen-shots-on-windows/"><u>2024 Approved Swiftly Secure Screen Shots on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-doodles-your-desktop-art-journey-in-windows-11/"><u>Digital Doodles: Your Desktop Art Journey in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-geforce-rtx-3070-drivers-for-windows-11-and-10-free/"><u>Download & Update GeForce RTX 3070 Drivers for Windows 11 and 10 – Free</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-missing-solve-it-with-these-win11-fixes/"><u>Dxgi.dll Missing? Solve It with These Win11 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-customize-win11-connection-protocols/"><u>How to Customize Win11 Connection Protocols</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-note-13-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi Note 13 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-wmi-service-resource-consumption/"><u>Minimizing WMI Service Resource Consumption</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-failed-system-call-in-windows-devices/"><u>Resolving 'Failed System Call' In Windows Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-huawei-nova-y71-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Huawei Nova Y71? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-issue-of-dark-pixels-on-windows-steam/"><u>Tackling the Issue of Dark Pixels on Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-windows-best-webp-image-viewers/"><u>The Ultimate List of Windows' Best WebP Image Viewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-do-different-led-colors-on-my-playstation-4-controller-indicate/"><u>What Do Different LED Colors on My PlayStation 4 Controller Indicate?</u></a></li>
 </ul></div>
 

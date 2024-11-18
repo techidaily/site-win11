@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Wonky Windows Photoshop
-date: 2024-11-03T16:51:42.627Z
-updated: 2024-11-07T17:18:00.823Z
+date: 2024-11-12T22:55:07.070Z
+updated: 2024-11-17T21:10:55.893Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
  Consider trying more specific solutions if these general fixes don't solve your Photoshop problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete All Third-Party Plugins
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 2. Temporarily move all the third-party plugins from the **Plug-ins** folder to another location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Now restart Adobe Photoshop.
@@ -78,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
  We asked to move the plugin folders to another location for a reason. After the restart, move the plugin folders back one by one. This way, you can check which third-party plugin is causing problems.
 
  Once you get Adobe Photoshop running, we have some [free Adobe Photoshop plugins for your creative suite](https://www.makeuseof.com/tag/free-adobe-photoshop-plugins/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update Your Adobe Photoshop Program
 
@@ -114,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 3. Select all the preset folders that you've recently installed and delete them. This action will remove the presets from Adobe Photoshop.  
 ![Adobe Photoshop Presets Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-presets-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. If Photoshop operates normally with presets removed, it indicates that a corrupted preset is at fault.
 
 ## 5\. Use the Adobe Creative Cloud Cleaner Tool
@@ -130,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 3. Close Adobe Photoshop now and run the **AdobeCreativeCloudCleanerTool.exe** file as an **Administrator**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. A Command Prompt window will appear now. Type the alphabet "**e**" there and press **Enter**.  
@@ -155,15 +155,16 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 3. Double-click on the folder that shows your current Adobe Photoshop version. We're using the **2023** version for this guide.  
 ![Adobe Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-folder-in-file-explorer.jpg)
 4. Again, double-click on the folder that says **Adobe Photoshop \[version\] Settings**.
-5. Press **Ctrl + A** to select and delete all the files inside the settings folder. This will reset your Adobe Photoshop settings to their default state.  
-![Adobe Photoshop Settings Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-settings-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Press **Ctrl + A** to select and delete all the files inside the settings folder. This will reset your Adobe Photoshop settings to their default state.  
+![Adobe Photoshop Settings Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-settings-folder.jpg)
 
  If you're using the beta version, please remove it altogether. Beta versions offer some features in development, but this sometimes introduces new bugs and glitches!
 
@@ -178,41 +179,22 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 ![Windows Image Acquisition Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-image-acquisition-service.jpg)
 3. Repeat the same step with the following services to restart them: **Windows Font Cache Service**, **Application Information**, and **Program Compatibility Assistant Service**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once done, restart Adobe Photoshop and check whether it's working correctly.
 
  If restarting the Windows services fails, please reinstall Adobe Photoshop on your computer. This will reset all the corrupted data of the app and reconfigure the settings to their default state.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adobe Photoshop Is Fixed and Working
 
  The best part is even if you're not tech-savvy, there are many ways to troubleshoot Adobe Photoshop issues on Windows. Running the Adobe Creative Cloud Cleaner utility will usually do the job. If not, you can reset all the Photoshop settings to default for a check.
 
  Often, it's not Adobe Photoshop but your Windows system causing such issues. So, let's explore some effective methods to solve Adobe Photoshop-related problems on your Windows computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>[New] 2024 Approved Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-the-maze-of-selecting-film-teasers-music-for-2024/"><u>[Updated] Navigating the Maze of Selecting Film Teasers' Music for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/consolidating-zoom-schedules-on-android-ios-and-desktop-platforms-for-2024/"><u>Consolidating Zoom Schedules on Android, iOS & Desktop Platforms for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-gallery-feature-in-file-explorer/"><u>Enable Gallery Feature in File Explorer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/from-creation-to-consumption-posting-vids-on-twtplustumb-for-2024/"><u>From Creation to Consumption Posting Vids on Twt+Tumb for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 8</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-windows-update-not-working-try-these-7-fixes/"><u>Is Windows Update Not Working? Try These 7 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/link-onedrive-to-windows-microsoft-id-easily/"><u>Link OneDrive to Windows Microsoft ID Easily</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/next-level-web-insights-without-cookiebot-find-out-how/"><u>Next-Level Web Insights without Cookiebot - Find Out How!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free/"><u>No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-error-0xffffffff-a-step-by-step-guide/"><u>Resolving Windows Error 0xFFFFFFFF: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-photos-right-effective-rotation-methods-for-windows-11/"><u>Turning Photos Right: Effective Rotation Methods for Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steelseries-x70-optical-mouse-solving-the-non-responsive-nub-issue-full-step-by-step-guide/"><u>Ultimate Troubleshooting SteelSeries X70 Optical Mouse: Solving the Non-Responsive Nub Issue - Full Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-custom-snap-maneuvers-using-powertoys/"><u>Unleashing Custom Snap Maneuvers Using PowerToys</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -221,3 +203,20 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-instagram-marketing-ultimate-guide-to-video-success/"><u>[Updated] In 2024, Navigating Instagram Marketing Ultimate Guide to Video Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[Updated] In 2024, Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-tricks-for-captivating-boomerangs-for-2024/"><u>[Updated] Innovative Tricks for Captivating Boomerangs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-recorders-report-card-best-in-class-rated/"><u>2024 Approved The Recorder's Report Card Best in Class Rated</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-elgato-hd60-driver-troubles-step-by-step-solutions/"><u>Easy Fixes for Your Elgato HD60 Driver Troubles - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-graphics-performance-with-extra-vram/"><u>Enhance Graphics Performance with Extra VRAM</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-window-11-search-a-comprehensive-list/"><u>Improving Window 11 Search: A Comprehensive List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>In 2024, Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-repairing-could-not-create-vm-error-in-windows/"><u>Steps for Repairing 'Could Not Create VM' Error in WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-ui-proposals-to-refresh-windows-11s-widget-space/"><u>Transformative UI: Proposals to Refresh Windows 11'S Widget Space</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-lost-window-panes-6-steps-to-take-with-win11/"><u>Unveiling the Lost Window Panes: 6 Steps to Take with Win11</u></a></li>
+</ul></div>
+

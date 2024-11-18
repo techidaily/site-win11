@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Update: Error Code 0X800736CC"
-date: 2024-11-04T20:44:45.313Z
-updated: 2024-11-07T20:42:25.304Z
+date: 2024-11-11T23:33:12.143Z
+updated: 2024-11-18T03:21:14.026Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the Windows Update Troubleshooter
 
  If restarting the PC doesn't work, you can use the Windows Update Troubleshooter. This built-in utility solves minor problems that prevent Windows from updating correctly.
@@ -42,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
@@ -67,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
 
 ## 4\. Disable your Antivirus Temporarily
@@ -76,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
@@ -154,29 +174,9 @@ net start cryptsvc`
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 8. Now, you have the batch script on your desktop. Right-click on it and select **Run as administrator**.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. When the UAC pops up, click **Yes** to grant elevated privileges.
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Try Generic Windows Update Fixes
 
@@ -192,27 +192,6 @@ net start cryptsvc`
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oost-visibility-selecting-the-right-youtube-thumbnail-dimensions-for-2024/"><u>[New] Boost Visibility Selecting the Right YouTube Thumbnail Dimensions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-unlimited-mcb-theme-images/"><u>[New] In 2024, Access Unlimited MCB Theme Images</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-50plus-viral-tiktok-slogans-for-success/"><u>[New] In 2024, Top 50+ Viral TikTok Slogans for Success</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-ways-to-turn-your-shorts-into-a-money-machine-on-youtube/"><u>[Updated] 2024 Approved Top Ways to Turn Your Shorts Into a Money Machine on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-visual-language-mastering-the-art-of-gifting-with-gifs-for-2024/"><u>[Updated] Snapchat's Visual Language Mastering the Art of Gifting with Gifs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-obs-recording-with-live-audio-settings-windows-11-guide/"><u>Enhance OBS Recording with Live Audio Settings, Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-fix-for-microsoft-store-error-on-win1111/"><u>Guiding Fix for Microsoft Store Error on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-a-new-era-of-usability-top-6-recommendations-for-the-windows-11-taskbar/"><u>Initiating a New Era of Usability: Top 6 Recommendations for the Windows 11 Taskbar</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726026613529-pc/"><u>PC画面におけるビデオ品質向上・低下の効果的な方法</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-image-snapshots-in-win11-ui/"><u>Personalize Image Snapshots in Win11 UI</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-x5-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco X5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-reset-your-windows-11-printer-settings/"><u>Regain Control: Reset Your Windows 11 Printer Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-access-to-exiled-pin-eraser-tool-in-windows-11/"><u>Restoring Access to Exiled Pin Eraser Tool in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-connectivity-in-windows-1110/"><u>Step-by-Step Tutorial for Enabling Bluetooth Connectivity in Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/unable-to-access-a-shared-folder-on-windows-try-these-fixes/"><u>Unable to Access a Shared Folder on Windows? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-woes-a-guide-to-fixing-non-detectable-wi-fi/"><u>Win11 Woes: A Guide to Fixing Non-Detectable Wi-Fi</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1725289014560-winxvideo-ai/"><u>WinxVideo AI 正式推出:高端影片編輯解決方案及其對應的標準</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -220,3 +199,22 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-cinematic-magic-advanced-kinemaster-techniques/"><u>2024 Approved Crafting Cinematic Magic Advanced Kinemaster Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-techniques-for-effortless-background-blur-using-windows-11-photos/"><u>Cutting Edge Techniques for Effortless Background Blur Using Windows 11 Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-utilization-of-ping-commands-in-windows-networks/"><u>Effective Utilization of Ping Commands in Windows Networks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-moto-e13-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Moto E13 Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor X7b Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-plus-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Plus Bootloader Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-chatbeta-web-enhancements/"><u>Navigating GPT ChatBeta Web Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-event-log-failures-in-windows-11/"><u>Overcoming Event Log Failures in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-deactivated-thermal-control-on-winpc/"><u>Overhauling Deactivated Thermal Control on WinPC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-destinations-amplifying-youtube-videos-for-2024/"><u>Premier Destinations Amplifying YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-javascript-catastropes-windows-11-and-11-s-solutions-for-discord/"><u>Resolve Javascript Catastropes: Windows 11 & 11 S Solutions for Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-back-to-original-touch-key-settings-on-windows/"><u>Reverting Back to Original Touch Key Settings on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-get-your-fallout-3-running-smoothly-again-updated-guide/"><u>Step-by-Step Fixes to Get Your Fallout 3 Running Smoothly Again - Updated Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-narzo-60-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme Narzo 60 5G Phone Network-Ready</u></a></li>
+</ul></div>
+

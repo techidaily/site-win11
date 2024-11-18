@@ -1,7 +1,7 @@
 ---
 title: "Reviving Silent Alerts: Fixing Non-Functional Notifications in Window's OS"
-date: 2024-10-31T19:45:46.876Z
-updated: 2024-11-07T21:52:12.493Z
+date: 2024-11-13T02:57:59.521Z
+updated: 2024-11-17T17:24:33.947Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 6. Check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications for Phone Link on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-phone-link-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check In-App Notification Settings
 
  The Phone Link app allows you to choose which notifications from your phone appear on your PC. You need to review Phone Link’s in-app settings and ensure that notifications for calls, messages, or other apps are not disabled.
@@ -53,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Allow Phone Link App to Run in the Background
 
  On Windows, you can block specific apps from running in the background and using system resources. If you have previously restricted the Phone Link app from working in the background, it will fail to sync notifications. As a result, you won't receive any notifications for calls, messages, or other app alerts.
@@ -67,21 +87,7 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Phone Link to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-phone-link-to-run-in-the-background-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Is the background app permission options missing from the Settings app? Here's[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Battery Saver Mode
 
@@ -95,14 +101,14 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Do Not Disturb Mode
 
@@ -117,16 +123,16 @@ To disable the Do Not Disturb mode, use these steps:
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Unlink and Link Your Phone Again
@@ -155,10 +161,16 @@ To disable the Do Not Disturb mode, use these steps:
  Using an outdated version of the Phone Link app can lead to compatibility issues at times. Also, if the app version you are using is buggy, notifications may stop working. Hence, it's a good idea to ensure that you're using the latest version of the app. If you need help with the same, check our guide on[how to update apps on Windows](https://www.makeuseof.com/update-apps-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing Phone Link App Notifications Not Working on Windows
@@ -182,24 +194,21 @@ To disable the Do Not Disturb mode, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-video-mastery-tips-add-3-captivating-captions-on-instagram/"><u>[New] 2024 Approved Video Mastery Tips Add 3 Captivating Captions on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ngled-artistry-elevating-youtube-video-editing-skills/"><u>[New] Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-windows-10-camera-software-review-top-10/"><u>[New] Ultimate Windows 10 Camera Software Review - Top 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos/"><u>[Updated] In 2024, YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-secret-to-striking-visuals-optimal-video-aspect-ratios-for-2024/"><u>[Updated] The Secret to Striking Visuals Optimal Video Aspect Ratios for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-disk-read-errors-with-ease-on-windows-os/"><u>Disabling Disk Read Errors with Ease on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-list-of-cost-effective-windows-car-software-solutions/"><u>Exclusive List of Cost-Effective Windows Car Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-your-windows-file-system-with-easy-temp-deletion-tips/"><u>Fix Your Windows File System with Easy Temp Deletion Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-online-methods-post-windows-setup/"><u>Getting Online: Methods Post-Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tackle-no-supported-devices-error-on-windows-instance/"><u>How to Tackle No Supported Devices Error on Windows Instance</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-calculating-expenses-for-youtubers-success/"><u>In 2024, Calculating Expenses for YouTubers' Success</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-k70-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi K70 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://win11.techidaily.com/making-a-smart-choice-with-windows-11-home-or-enhanced-professional-package/"><u>Making a Smart Choice with Windows 11: Home or Enhanced Professional Package</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-windows-the-ultimate-5-optimization-aids/"><u>Maximize Windows: The Ultimate 5 Optimization Aids</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-preview-errors-in-microsoft-office-for-pc-users/"><u>Overcoming Preview Errors in Microsoft Office for PC Users</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-a-jittery-mouse-icon/"><u>Troubleshooting a Jittery Mouse Icon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>[New] From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-streamlining-youtube-videos-adding-subtitles-and-cc-proficiently/"><u>2024 Approved Streamlining YouTube Videos Adding Subtitles & CC Proficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-invisible-window-bar/"><u>Crafting an Invisible Window Bar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-asus-routers-for-optimal-home-and-office-connectivity/"><u>Discover the Leading ASUS Routers for Optimal Home & Office Connectivity</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/efficiently-managing-insurance-claims-with-ecclesia-the-abbyy-integration/"><u>Efficiently Managing Insurance Claims with Ecclesia: The ABBYY Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/enhancing-video-narratives-mastering-fade-effects/"><u>Enhancing Video Narratives Mastering Fade Effects</u></a></li>
+<li><a href="https://article-files.techidaily.com/explore-google-chromes-advanced-multiscreen-capabilities-for-2024/"><u>Explore Google Chrome's Advanced Multiscreen Capabilities for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-strategic-approaches-to-mass-acquirement-of-tiktok-videos/"><u>In 2024, Strategic Approaches to Mass Acquirement of TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/offscreen-wonderland-revive-windows-on-your-1011-device/"><u>Offscreen Wonderland: Revive Windows on Your 10/11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-restoring-volume-mixer-defaults/"><u>Regain Control: Restoring Volume Mixer Defaults</u></a></li>
+<li><a href="https://win11.techidaily.com/shielding-game-progress-a-comprehensive-backup-approach/"><u>Shielding Game Progress: A Comprehensive Backup Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-removing-absence-of-display-during-win-remoting/"><u>Strategies for Removing Absence of Display During Win Remoting</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-truth-seekers-toolkit-for-discerning-social-identity-authenticity/"><u>The Truth-Seeker's Toolkit for Discerning Social Identity Authenticity</u></a></li>
+<li><a href="https://win11.techidaily.com/the-webs-wallpaper-7-efficient-methods-to-unlock-your-browsers-in-win-os/"><u>The Web's Wallpaper: 7 Efficient Methods to Unlock Your Browsers in Win OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleashing-creative-potential-with-instas-bokeh-effects/"><u>Unleashing Creative Potential with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-windows-iscsi-initiator-and-how-do-you-access-it/"><u>What Is the Windows iSCSI Initiator, and How Do You Access It?</u></a></li>
 </ul></div>
 

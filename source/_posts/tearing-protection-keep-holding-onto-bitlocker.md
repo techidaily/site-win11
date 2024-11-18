@@ -1,7 +1,7 @@
 ---
 title: Tearing Protection? Keep Holding Onto BitLocker
-date: 2024-11-06T16:59:14.453Z
-updated: 2024-11-07T16:27:49.545Z
+date: 2024-11-13T17:01:42.565Z
+updated: 2024-11-18T04:12:33.659Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -79,27 +85,6 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 
  It's also worth noting that despite this exploit, BitLocker remains secure, and the actual encryption underpinning it, AES-128 or AES-256, is still secure.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-in-class-iphone-and-android-video-enhancers/"><u>[New] Best-In-Class iPhone and Android Video Enhancers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-efficient-obs-settings-for-thrifty-users/"><u>[New] In 2024, Efficient OBS Settings for Thrifty Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-explore-largest-collection-of-free-vector-graphics-portals/"><u>[Updated] Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[Updated] In 2024, Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-perfect-photos-at-a-click-top-captioning-software/"><u>[Updated] Perfect Photos at a Click Top Captioning Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/basics-of-evolving-media-and-graphics-for-2024/"><u>Basics of Evolving Media and Graphics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-maximize-disk-capacity-in-windows-systems/"><u>Efficiently Maximize Disk Capacity in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-and-read-comics-in-windows-11/"><u>How to Open and Read Comics in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-process-control-on-windows-108/"><u>Mastering Process Control on Windows 10/8</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/meet-the-minimums-premiere-pro-system-requirements-explained/"><u>Meet the Minimums Premiere Pro System Requirements Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-roblox-error-262-resolution/"><u>Navigating Through Roblox Error 262 Resolution</u></a></li>
-<li><a href="https://win11.techidaily.com/patched-past-microsofts-cutoff-of-windows-7-and-81-security-updates/"><u>Patched Past: Microsoft's Cutoff of Windows 7 and 8.1 Security Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-uncooperative-controllers-on-pc/"><u>Quick Fixes for Uncooperative Controllers on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80240034-in-windows-10-updates/"><u>Resolving 'Error Code: 0X80240034' In Windows 10 Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-voice-recordings-unveiled-mastering-keyboard-shortcuts-on-win-11/"><u>Speedy Voice Recordings Unveiled: Mastering Keyboard Shortcuts on Win 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-television/"><u>Steps to Install Applications on Your Samsung Smart Television</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11-wireless-potential-a-complete-guide-to-setting-up-a-hotspot/"><u>Unlocking Window's 11 Wireless Potential: A Complete Guide to Setting Up a Hotspot</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -107,3 +92,20 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-techniques-to-amplify-youtube-video-clarity-for-2024/"><u>[New] Techniques to Amplify YouTube Video Clarity for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-film-and-image-repository-highlights-for-2024/"><u>[Updated] Free Film and Image Repository Highlights for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>[Updated] Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-invisible-social-presence-for-2024/"><u>[Updated] Recognizing Invisible Social Presence for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-remedy-dxgierrordevicehunk-in-win1011/"><u>Guide to Remedy DXGI_ERROR_DEVICE_HUNK in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-windows-users-through-gif-resizing-woes-in-discord/"><u>Guiding Windows Users Through GIF Resizing Woes in Discord</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-superior-5-options-to-connect-on-the-net/"><u>In 2024, Superior 5 Options to Connect on the Net</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-classics-polishing-your-archive-with-windows-madvr/"><u>Reviving Classics: Polishing Your Archive With Windows MadVR</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-capture-mastering-windows-11s-microphone-shortcuts/"><u>Speedy Capture: Mastering Windows 11'S Microphone Shortcuts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-best-4k-mirrorless-cameras-for-2024/"><u>Top 10 Best 4K Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-require-promotion-windows-error-how-to-guide/"><u>Unraveling 'Require Promotion' Windows Error: How-To Guide</u></a></li>
+</ul></div>
+

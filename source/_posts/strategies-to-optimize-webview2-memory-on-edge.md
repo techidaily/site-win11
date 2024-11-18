@@ -1,7 +1,7 @@
 ---
 title: Strategies to Optimize WebView2 Memory on Edge
-date: 2024-11-02T18:30:20.792Z
-updated: 2024-11-07T19:42:06.987Z
+date: 2024-11-15T19:11:36.189Z
+updated: 2024-11-18T06:28:29.041Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  Technically, there are only a few ways to resolve the increased memory consumption issue. Let's check them one by one to see which one works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Update Microsoft Edge First
 
  As mentioned earlier, Microsoft Edge WebView2 is connected to Microsoft Edge, the default Windows browser. If WebView2 consumes a lot of memory, consider updating Microsoft Edge first.
@@ -70,21 +63,14 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 3. A new browser tab will open, and it'll scan for any available new version updates and install them. Once the browser installs all the updates, restart Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. After updating, we recommend restarting the computer. And after a restart, [open the Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) and check the **Memory** percentage status for an idea.  
 ![Memory Status In Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memory-status-in-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you fail to update using the given steps, you can always download the updated version from [Microsoft.com](https://www.microsoft.com/en-us/edge/download?form=MA13FJ).
 
@@ -97,16 +83,10 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Reset Microsoft Edge's Settings
@@ -117,7 +97,33 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
 ![Mirosoft Edge Reset Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mirosoft-edge-reset-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As mentioned above, resetting will remove your personalized browser settings. So, note down any specific settings you may want to change later.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Edge WebView2's Process Is Back to Normal
 
@@ -127,23 +133,6 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
 
  In this article, we'll look at the Microsoft Edge WebView2 process and guide you on preventing it from hogging your computer's memory.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-playground-of-champions-celebrating-top-10-epic-game-sagas-for-2024/"><u>[New] Playground of Champions Celebrating Top 10 Epic Game Sagas for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quickcapture-5000-chrome-os-recording-pro/"><u>[New] QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-bargains-comparing-cloud-storage-prices-for-2024/"><u>Best Bargains Comparing Cloud Storage Prices for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/defeating-ue4s-crash-demons-a-comprehensive-guide-for-windows-users/"><u>Defeating UE4's Crash Demons: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-1111-invalid-profile-messages-quickly/"><u>Fixing Windows 11/11 'Invalid Profile' Messages Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-on-preventing-dynamic-app-sort-in-taskmgr/"><u>Guide on Preventing Dynamic App Sort in TaskMgr</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-serious-sam-4-from-freezing-or-hiccupping-on-your-computer-top-tips/"><u>How to Stop Serious Sam 4 From Freezing or Hiccupping on Your Computer – Top Tips!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-uncover-missing-ubisoft-launcher/"><u>How To Uncover Missing Ubisoft Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-for-productivity-place-gmail-on-windows-sidebar/"><u>Personalize for Productivity: Place Gmail on Window's Sidebar</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-a-disabled-windows-11-media-app/"><u>Reactivating a Disabled Windows 11 Media App</u></a></li>
-<li><a href="https://win11.techidaily.com/time-tinkering-windows-desktops-hidden-puzzle/"><u>Time Tinkering: Windows Desktop's Hidden Puzzle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubuntu-installation-guide-ensure-system-compatibility-and-avoid-crashes/"><u>Ubuntu Installation Guide: Ensure System Compatibility & Avoid Crashes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-your-intel-82579lm-device-on-a-windows-system/"><u>Update Your Intel 82579LM Device on a Windows System</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -151,3 +140,19 @@ thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-selecting-prime-4k-recorders-and-tools/"><u>[New] 2024 Approved Selecting Prime 4K Recorders and Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-high-definition-recordings-picking-the-best-frame-rate-wisely/"><u>[New] High-Definition Recordings Picking the Best Frame Rate Wisely</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-melding-audio-with-visuals-digitally/"><u>[Updated] Melding Audio With Visuals Digitally</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-immerse-yourself-with-the-new-visor-xr-headset-directly-tackling-the-visionpros-main-flaws-techinnovator/"><u>1. Immerse Yourself with the New Visor XR Headset: Directly Tackling the VisionPro's Main Flaws | TechInnovator</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-aligner-correctement-la-partition-dun-ssd-guide-pratique/"><u>Comment Aligner Correctement La Partition D'un SSD - Guide Pratique</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-color-grading-techniques-in-gopro-studio/"><u>Mastering Color Grading Techniques in GoPro Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-fixes-to-tackle-non-syncing-google-drive-windows/"><u>Nine Fixes to Tackle Non-Syncing Google Drive Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-spotify-not-responding-error-in-windows-11/"><u>Overcoming Spotify Not Responding Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-self-opening-of-file-explorer/"><u>Preventing Self-Opening of File Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-low-resource-message-in-vmware/"><u>Strategies to Combat Low Resource Message in VmWare</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-approach-to-overcoming-device-detachment-issue/"><u>Win 11'S Approach to Overcoming Device Detachment Issue</u></a></li>
+</ul></div>
+

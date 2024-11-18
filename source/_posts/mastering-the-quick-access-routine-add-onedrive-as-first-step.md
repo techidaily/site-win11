@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Quick Access Routine: Add OneDrive as First Step"
-date: 2024-11-06T23:02:36.773Z
-updated: 2024-11-07T22:56:57.247Z
+date: 2024-11-14T16:10:51.861Z
+updated: 2024-11-17T17:02:38.363Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using the Registry Editor
 
  You can also use the Registry Editor to set OneDrive as your default File Explorer view. But be warned: if you make an incorrect change to the system registry, you could damage your computer. We recommend [backing up the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing it.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 6. Double-click on this newly created value and set its value to **4**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **OK** and close the registry window.
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
@@ -90,22 +97,15 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 ![Open File Explorer to OneDrive Using REG File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-file-explorer-to-onedrive-using-reg-file.jpg)
 7. Double-click the REG file you just created. If you're prompted for permission to change your computer, click **Yes**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Finally, restart your computer for the changes to take effect.
 
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
@@ -114,26 +114,6 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 
  Read this comprehensive guide if you want File Explorer to open OneDrive instead of Quick Access.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ptimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>[New] Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-action-and-adventure-with-ions-pro-3-camera-insight/"><u>[Updated] 2024 Approved Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure-for-2024/"><u>[Updated] Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-mp4-video-tagging-top-editor-recommendations/"><u>Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-starfield-applications-spike-in-cpu-usage-with-our-latest-2024-fixes/"><u>Eliminate Starfield Application's Spike in CPU Usage with Our Latest 2024 Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales/"><u>Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-7-fixes-for-non-scrolling-mouse-wheels/"><u>Mastering 7 Fixes for Non-Scrolling Mouse Wheels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://win11.techidaily.com/say-goodbye-to-wasted-space-clear-windows-temp-files/"><u>Say Goodbye to Wasted Space: Clear Windows Temp Files</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-win-vbox-install-deps-must-come-first/"><u>Secure Win VBox Install: Deps Must Come FIRST</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-adjust-standard-user-permissions-in-windows/"><u>Steps to Adjust Standard User Permissions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-the-default-commands-interpreter-in-windows/"><u>Tweaking the Default Commands Interpreter in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-runtime-error-0x800700c6/"><u>Understanding and Correcting Windows Runtime Error 0X800700C6</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-turmoil-steady-the-systems-hour/"><u>Windows Time Turmoil: Steady the System's Hour</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +121,27 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dive-into-the-deep-end-of-facebook-meme-culture/"><u>[New] In 2024, Dive Into The Deep End of Facebook Meme Culture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-tutorial-customizing-the-final-frame-of-a-vimeo-video-for-2024/"><u>[New] Ultimate Tutorial Customizing the Final Frame of a Vimeo Video for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-performance-on-pc-install-canon-printer-software-for-windows/"><u>Boost Performance on PC: Install Canon Printer Software for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-pioneer-bdr-xs06-external-blu-ray-burner-a-focus-on-mobility-and-efficiency/"><u>Comprehensive Analysis of the Pioneer BDR-XS06 External Blu-Ray Burner: A Focus on Mobility & Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-gone-regain-it-on-windows-11-heres-why/"><u>Dxgi.dll Gone? Regain It on Windows 11, Here's Why</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-a-guide-to-widget-additions-in-windows-11/"><u>Elevate Your Workspace: A Guide to Widget Additions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-code-80080300-with-microsoft-teams-on-win11/"><u>Fixing Error Code 80080300 with Microsoft Teams on Win11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamer-profitability-analysis-and-verification/"><u>In 2024, Streamer Profitability Analysis and Verification</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-repair-fixing-windows-office-system-hiccups/"><u>Mastering Repair: Fixing Windows Office System Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-solving-xc0f1103f-issue-on-windows-geforce/"><u>Method for Solving XC0F1103F Issue on Windows, GeForce</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/gen-gamers-wealth-wave-predictions-for-2024/"><u>Next-Gen Gamers' Wealth Wave Predictions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-wows-critical-failure-code-132/"><u>Quick Fixes for WoW’s Critical Failure Code #132</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-non-loading-steamuidll-on-windows/"><u>Remedy for Non-Loading SteamUI.DLL on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-a-robust-python-server-for-effective-filesharing-in-windows/"><u>Scripting a Robust Python Server for Effective Filesharing in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-to-clear-the-ultimate-guide-to-professional-audio-recording/"><u>Silent to Clear The Ultimate Guide to Professional Audio Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-minimizing-webview2-footprint-on-windows/"><u>Steps for Minimizing WebView2 Footprint on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-g24-power-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola G24 Power without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
+

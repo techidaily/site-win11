@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows: Non-Functional Headset Microphone"
-date: 2024-11-02T22:51:06.507Z
-updated: 2024-11-07T17:00:40.473Z
+date: 2024-11-16T08:10:18.040Z
+updated: 2024-11-17T16:25:53.782Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  If none of the above checks and fixes work, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure That the Microphone Isn't Muted
 
  There is usually a button on most headsets that allows you to muffle the microphone. This control enables users to mute themselves when not participating in a conversation. If your headset also has one, make sure you haven't muted it by mistake.
@@ -61,33 +68,27 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Microphone and Test It
 
@@ -97,22 +98,15 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
@@ -125,31 +119,31 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't see the headset microphone in the list of recording devices, it could be disabled. In such a case, right-click anywhere in the **Recording** tab and select **Show Disabled Devices**.
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, set your headset microphone as the default audio input device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Change the App Permissions for the Microphone
 
@@ -175,27 +169,6 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  If you want to fix the underlying issue and get your headset microphone working, here are a few steps you can take.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-utilize-youtubes-prominent-slot-a-compreenhensive-strategy-guide/"><u>[New] 2024 Approved Utilize YouTube's Prominent Slot A Compreenhensive Strategy Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-sierras-best-top-5-mac-videography-software-insights/"><u>[Updated] Sierra's Best Top 5 Mac Videography Software Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transcription-made-simple-at-no-cost/"><u>[Updated] Transcription Made Simple At No Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-step-by-step-guide-adding-your-digital-driving-permit-to-apple-wallet-on-your-ios-device-location-dependent-instructions/"><u>1. Step-by-Step Guide: Adding Your Digital Driving Permit to Apple Wallet on Your iOS Device – Location Dependent Instructions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-earnings-top-tier-strategies-for-side-hustles-building-pcs-and-collecting-retro-handheld-gaming-systems/"><u>Boosting Your Earnings: Top-Tier Strategies for Side Hustles, Building PCs, and Collecting Retro Handheld Gaming Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-the-0x80780119-windows-image-error/"><u>Correcting the 0X80780119 Windows Image Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-s23-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel S23</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/design-humorous-graphics-with-adobe/"><u>Design Humorous Graphics with Adobe</u></a></li>
-<li><a href="https://win11.techidaily.com/echoes-of-ancient-gaming-enhancing-titles-with-retroarchs-artistry/"><u>Echoes of Ancient Gaming: Enhancing Titles with RetroArch's Artistry</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-systray-ui-adding-key-indicators-on-win11/"><u>Enhancing SysTray UI: Adding Key Indicators on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-windows-from-opening-spotify-autoplay/"><u>Prevent Windows From Opening Spotify Autoplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-proven-tactics-to-reduce-ais-false-impressions-and-enhance-accuracy/"><u>Six Proven Tactics to Reduce AI's False Impressions and Enhance Accuracy</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-windows-11-file-management-using-text-actions-in-snip/"><u>Streamline Windows 11 File Management Using Text Actions in Snip</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-tasks-on-windows-integrating-an-advanced-run-command-utility/"><u>Streamlining Tasks on Windows: Integrating an Advanced Run Command Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/the-voice-commander-keyboard-tricks-for-windows-11-narrator/"><u>The Voice Commander: Keyboard Tricks for Windows 11 Narrator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/veelvliks-ontmoet-video-naar-mp3-professionele-converteermachine/"><u>Veelvliks Ontmoet Video Naar MP3 - Professionele Converteermachine</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-the-art-of-scheduling-updates-and-downtime/"><u>Windows 11: The Art of Scheduling Updates and Downtime</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +176,24 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-music-discoveries-on-spotify/"><u>2024 Approved Top 10 Music Discoveries on Spotify</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-for-registry-repair-in-win11/"><u>Effective Strategies for Registry Repair in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-graphics-problem-code-3-windows-and-nvidia/"><u>Eradicating Graphics Problem Code 3: Windows & NVidia</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/get-your-free-upgrade-for-winx-dvd-ripper-platinum-with-the-latest-oem-key-how-to-install/"><u>Get Your Free Upgrade for WinX DVD Ripper Platinum with the Latest OEM Key - How to Install !</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-complet-transferer-des-donnees-entre-deux-disques-durs-sous-windows/"><u>Guide Complet : Transférer Des Données Entre Deux Disques Durs Sous Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-10t-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme 10T 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/increase-your-savings-with-a-huge-80-off-the-elegoo-neptune-plus-ideal-for-big-prints/"><u>Increase Your Savings with a Huge $80 Off the Elegoo Neptune Plus – Ideal for Big Prints</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leading-window-call-apps-2-1-sorted/"><u>Leading Window Call Apps, #2-#1 Sorted</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-graphics-potential-an-ultimate-windows-10-and-11-vram-guide/"><u>Maximize Your Graphics Potential: An Ultimate Windows 10 & 11 VRAM Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-non-displayed-search-results/"><u>Overcoming Windows 11'S Non-Displayed Search Results</u></a></li>
+<li><a href="https://win11.techidaily.com/premier-aid-compendium-free-essential-tools-for-win11-pcs/"><u>Premier Aid Compendium: Free, Essential Tools for Win11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-calendars-with-personal-flair-using-windows-outlook/"><u>Reimagine Calendars with Personal Flair Using Windows Outlook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-unison-unit-for-voice-broadcasting/"><u>Ultimate Unison Unit for Voice Broadcasting</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-windows-history-for-easy-management/"><u>Unlock the Secrets of Windows History for Easy Management</u></a></li>
+</ul></div>
+

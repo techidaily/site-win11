@@ -1,7 +1,7 @@
 ---
 title: "System Savior's Handbook: Mastering 13 Recovery Tips"
-date: 2024-11-03T20:15:08.144Z
-updated: 2024-11-07T23:41:54.072Z
+date: 2024-11-14T09:07:15.115Z
+updated: 2024-11-17T19:07:30.449Z
 tags:
   - windows10
   - windows11
@@ -33,18 +33,18 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
  To get started, type **Restore Point** into your search bar and click on the result titled **Create a restore point**. Click the button labelled **Create** and choose a name, then wait for the process to complete and see if an error message pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check System Restore is Active on All Volumes
 
  System Restore may simply not be activated on your computer. This is particularly relevant if you're using more than one drive, or have recently swapped your system storage from one volume to another, as drives can have their protection turned on and off individually.
 
 ![Check system restore status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-restore-status-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Type **Restore Point** into the search bar and click on **Create a Restore Point**. You'll see the Available Drives listed under the Protection Settings subheading, alongside a column telling you whether or not they're protected.
 
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
  Click the Configure button and you'll be able to tweak your **Disk Space Usage**. Try using the slider to increase your allocated space, then create a new Restore Point to see whether it has had the desired effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Manually Delete Restore Points
 
  As we’ve mentioned, System Restore will fail to create a new restore point if there’s no available storage space on your computer. However, you can [manually delete older restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) that you no longer need to free up some space for System Restore to work.
@@ -84,11 +91,31 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 ![Check System Restore services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-restore-services-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Run Check Disk via Command Prompt
 
  Check Disk is a system tool built into Windows that can verify the integrity of a file system, and fix logical errors. To access the utility, in the Start menu search bar, search for **command prompt** and select **Run as administrator**.
 
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To run Check Disk, input the following command:
 
@@ -106,23 +133,9 @@ sfc /scannow
 
 ![Boot your computer in Safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/safe-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To boot into Safe Mode, type **msconfig** into the search bar and open **System Configuration**. Head to the **Boot** tab and tick the checkbox marked **Safe boot**, with the radio toggle set to **Minimal**. Then try running System Restore from Safe Mode.
 
  If this didn't work for you, there are [other methods to boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Try Selective Startup
 
@@ -130,20 +143,27 @@ sfc /scannow
 
 ![Use selective startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/selective-startup-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can check and uncheck the **Load system services** and **Load startup items** boxes to customize how your computer behaves at startup. For more information on using Selective Startup to troubleshoot, refer to Microsoft's guide to the process.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Consult the Event Viewer
 
  You might be able to find some clues about errors pertaining to System Restore processes by delving into the Event Viewer. Search for the utility and open it up to get started — you'll need to expand the **Windows Logs** folder, then click on **Applications**.
 
 ![Check Windows event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/event-viewer-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll through the results to find anything with **Error** in the **Level** column. Click on an individual event to display its description, and see if that offers up any reason that it might be connected to System Restore. You can do a Google search for any related errors that you find to see what the best course of action is.
 
@@ -153,16 +173,16 @@ sfc /scannow
 
 ![Restore Point Creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restore-point-creator-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Among a host of other advantages, Restore Point Creator offers users the opportunity to schedule the task for the future, and instruct their system to wake up at that specified time. This option is available by navigating to **System Restore Point Utilities** \> **Schedule creation of System Restore Points** and then checking the box labelled **Wake computer if the system is sleeping**.
 
  One point to remember is that Restore Point Creator uses Task Scheduler to implement this feature. As such, you'll have to check that your computer is compatible with the tool.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Employ a Third-Party Alternative
 
@@ -170,25 +190,11 @@ sfc /scannow
 
  You might also check out these [rescue and restore disks for your Windows System Restore](https://www.makeuseof.com/tag/5-best-rescue-disks-windows-system-restore/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 13\. Factory Reset Your Computer
 
  If none of the above solutions fixed System Restore, and you’re stuck with a system full of bugs and glitches, you should factory reset your computer. This is a bold move, as it will return your PC to the state it was when you bought it.
 
  Before doing so, make sure to [back up any personal data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) you might need, so long as you’re able to.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Windows System Restore
 
@@ -211,21 +217,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-superior-battery-packs-and-charger-systems-for-hero5/"><u>[New] Superior Battery Packs and Charger Systems for Hero5</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-superior-screen-quality-10-in-4ks-for-2024/"><u>[New] Superior Screen Quality – #10 in 4Ks for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/echniques-for-efficiently-blending-flv-files/"><u>[New] Techniques for Efficiently Blending FLV Files</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insta-stories-enhancing-background-blur-technique/"><u>2024 Approved Insta Stories Enhancing Background Blur Technique</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-installs-msibundle-and-appxappxpack-files-from-store/"><u>Enhance Your Windows Experience: Installs MsiBundle & Appx/Appxpack Files From Store</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-techniques-to-tackle-outlook-error-0x80040610-in-windows/"><u>Expert Techniques to Tackle Outlook Error 0X80040610 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-significance-of-copilot-key-with-windows-11/"><u>Exploring the Significance of Copilot Key with Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-11-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 11 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-meizu-21-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Meizu 21 Pro FRP Bypass</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/droid-comparison-youtube-app-explored/"><u>IOS/Android Comparison YouTube App Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-screen-mirroring-failure-a-guide-to-solutions/"><u>Overcoming Screen Mirroring Failure: A Guide to Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-usb-recognition-failures-on-windows-11/"><u>Resolving USB Recognition Failures on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-hibernation-4-techniques-for-windows-users/"><u>Reviving Hibernation: 4 Techniques for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/selecting-the-optimal-nearby-sharing-technique-googles-or-windows-way/"><u>Selecting the Optimal Nearby Sharing Technique: Google's or Windows' Way</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-smooth-gaming-expert-advice-to-resolve-back-4-blood-crashes-on-windows/"><u>Unlock Smooth Gaming: Expert Advice to Resolve 'Back 4 Blood' Crashes on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-in-writing-discover-6-strategies-using-chatgpt/"><u>Unlocking the Power of AI in Writing: Discover 6 Strategies Using ChatGPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-budget-saving-stratospheric-storage-for-heavy-dumps/"><u>[New] In 2024, Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/trategic-approaches-to-youtube-short-glitches/"><u>[New] Strategic Approaches to YouTube Short Glitches</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-your-iphones-video-loops-for-2024/"><u>[Updated] Streamlining Your iPhones Video Loops for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-10-gratis-video-chat-solutions-for-corporate-and-schools/"><u>[Updated] Top 10 Gratis Video Chat Solutions for Corporate & Schools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-11f-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 11F 5G FRP</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-n55withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo N55with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-7-hd-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 7 HD for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-list-winning-ds-emulators-for-nintendo-switch-fans/"><u>Master List: Winning DS Emulators for Nintendo Switch Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-fbm-hiccups-on-windows-seamlessly/"><u>Navigate Through FBM Hiccups on Windows Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-output-9-proven-methods-to-improve-windows-video-quality/"><u>Optimal Output: 9 Proven Methods to Improve Window's Video Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-typing-speed-on-windows-uncover-the-quickest-fixes/"><u>Skyrocket Your Typing Speed on Windows: Uncover the Quickest Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-local-security-not-active-error/"><u>Steps to Rectify 'Local Security Not Active' Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-java-installation-obstacles-on-windows-os/"><u>Unblocking Java Installation Obstacles on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-for-managing-setup-service-on-windows/"><u>Workarounds for Managing Setup Service on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-to-administrative-restrictions-on-software-installs/"><u>Workarounds to Administrative Restrictions on Software Installs</u></a></li>
 </ul></div>
 

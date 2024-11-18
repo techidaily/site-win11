@@ -1,7 +1,7 @@
 ---
 title: How to Install Win11 Offline, Effortlessly
-date: 2024-11-05T23:03:37.249Z
-updated: 2024-11-07T19:35:06.515Z
+date: 2024-11-17T01:32:05.055Z
+updated: 2024-11-18T00:10:24.597Z
 tags:
   - windows10
   - windows11
@@ -53,21 +53,15 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 ![Windows-11-setup-screen-install-now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-screen-install-now.jpg)
 4. Click **Install Now.**  
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
@@ -80,37 +74,23 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
 ![Windows-11-setup-select-installation-i-don't-have-internet-connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-i-don-t-have-internet-connection.jpg)
 4. Follow the on-screen instructions to complete the setup. When you reach the **Let’s connect you to a network screen**, click on **I don’t have Internet** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, click on **Continue with limited setup.**  
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
- Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -125,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 ![open task manager command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-task-manager-command-prompt.png)
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **More Details** to open Task Manager in full view.
 5. In the **Processes** tab, locate **Network Connection Flow.** Use the search bar in Task Manager to find the Network Connection Flow process.  
 ![Windows 11 setup select installation task manager kill network connection flow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-task-manager-kill-network-connection-flow.jpg)
@@ -146,9 +113,23 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  Now you will be back in the setup wizard. It will show some loading animation and then proceed to the next step. Here enter your name and password to [create a local user account in Windows 11](http://www.makeuseof.com/ways-to-create-local-user-account-windows/) and complete the setup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Directly Kill Network Connection Flow Using the Command Prompt
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
@@ -156,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -173,19 +161,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-securely-capture-web-series-every-time-you-watch/"><u>[New] In 2024, How to Securely Capture Web Series Every Time You Watch</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>[New] In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-memory-management-via-pagefilesys/"><u>Delving Into Windows' Memory Management via Pagefile.sys</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-ospreys-ambient-weather-ws-2902a-station-great-value-for-money-and-extensive-capabilities/"><u>In-Depth Analysis of Osprey's Ambient Weather WS-2902A Station - Great Value for Money & Extensive Capabilities!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-pick-for-iphoneandroid-face-modifications-for-2024/"><u>Prime Pick for iPhone/Android Face Modifications for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-data-access-on-windows-via-everythingapp/"><u>Rapid Data Access on Windows, via EverythingApp</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-older-pcs-boot-images/"><u>Reviving Older PCs' BOOT Images</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-restore-functional-file-transfer-in-chrome-windows/"><u>Steps to Restore Functional File Transfer in Chrome, Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -193,3 +168,25 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-rapid-expansion-youtube-channels-boosting-brainpower/"><u>[New] 2024 Approved Rapid Expansion YouTube Channels Boosting Brainpower</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leveraging-skype-for-interactive-home-office-video-conferencing/"><u>[New] In 2024, Leveraging Skype for Interactive Home Office Video Conferencing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-engagement-on-instagram-stories-mastering-multi-image-techniques/"><u>[Updated] In 2024, Boost Engagement on Instagram Stories Mastering Multi-Image Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-review-movavi-video-pro-2024-enhanced-edition/"><u>[Updated] Review Movavi Video Pro 2024 Enhanced Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creative-teaching-incorporating-youtube-into-your-curriculum-for-2024/"><u>Creative Teaching Incorporating YouTube Into Your Curriculum for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-made-easy-the-best-fixers-for-windows/"><u>Debugging Made Easy: The Best Fixers for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/educate-and-innovate-themes-for-windows-11/"><u>Educate and Innovate: Themes for Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/incredible-drone-photoshoot-contenders-10/"><u>Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-your-commands-overcoming-shortcut-setbacks-in-windows/"><u>Reclaim Your Commands: Overcoming Shortcut Setbacks in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hidden-panes-6-tricks-for-windows-11/"><u>Reviving Hidden Panes: 6 Tricks for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-resource-usage-on-windows-11-for-better-performance/"><u>Streamline Resource Usage on Windows 11 for Better Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-journey-of-personalized-instagram-notification-creation/"><u>The Journey of Personalized Instagram Notification Creation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-best-earbuds-2024-edition/"><u>The Ultimate Comparison: Best Earbuds, 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-features-for-creatives-the-latest-in-paint-upgrades/"><u>Transformative Features for Creatives: The Latest in Paint Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-innovative-windows-11-widget-selection-process/"><u>Unlocking Innovative Windows 11 Widget Selection Process</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-cause-of-non-responsive-windows-search/"><u>Unveiling the Cause of Non-Responsive Windows Search</u></a></li>
+</ul></div>
+

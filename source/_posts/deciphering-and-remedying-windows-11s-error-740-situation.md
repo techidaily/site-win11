@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Remedying Windows 11'S Error #740 Situation
-date: 2024-11-03T18:27:22.928Z
-updated: 2024-11-07T23:25:15.284Z
+date: 2024-11-15T17:20:45.398Z
+updated: 2024-11-17T20:07:03.678Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
  If your Windows PC has the Group Policy Editor, try changing the behavior of UAC’s elevation prompt with that tool. Selecting the **Elevate without prompting** setting for the User Account Control: Behavior policy could fix error 740 for some users.
@@ -92,38 +85,18 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Admin Approval Mode
@@ -134,9 +107,24 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 2. Double-click the **User Account Control: Admin Approval Mode for the Built-in Administrator account** policy setting.  
 ![The Admin Approval Mode policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/admin-approval-mode-policy.jpg)
 3. Click the **Disabled** radio button if this policy is enabled.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
 5. To close the policy window, select the **OK** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -147,19 +135,20 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
 
@@ -175,25 +164,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  This is how you can fix error 740 within Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-through-photos-app-issues-in-windows-11/"><u>[New] Navigating Through Photos App Issues in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/treamlining-creation-top-10-easy-to-create-biz-channels-on-youtube/"><u>[New] Streamlining Creation Top 10 Easy-to-Create Biz Channels on YouTube</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlock-creative-potential-in-tiktok-with-voice-modification/"><u>[Updated] 2024 Approved Unlock Creative Potential in TikTok with Voice Modification</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-photo-sharpening-mastery-with-1-10-online-editors/"><u>[Updated] In 2024, Photo Sharpening Mastery with #1-10 Online Editors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-increase-your-channels-reach-with-these-2-tricks/"><u>2024 Approved Increase Your Channel's Reach with These 2 Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-reactivating-frozen-windows-itunes-application/"><u>Essential Tips: Reactivating Frozen Windows iTunes Application</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-tips-for-discarding-unwanted-youtube-files/"><u>In 2024, The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-the-future-of-transportation-insights-on-teslas-robotaxi-estimated-price-tags-and-release-schedule/"><u>Inside the Future of Transportation - Insights on Tesla's Robotaxi: Estimated Price Tags and Release Schedule</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-20c-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 20C Device</u></a></li>
-<li><a href="https://win11.techidaily.com/pinnacle-task-organizers-winning-windows-to-dos/"><u>Pinnacle Task Organizers: Winning Windows To-Dos</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-deadbacklit-keyboard-top-5-fixes-in-windows/"><u>Revive Deadbacklit Keyboard: Top 5 Fixes in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-11-oral-saga-commencement/"><u>The Windows 11 Oral Saga Commencement</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-the-visual-appearance-of-winterm/"><u>Tweaking the Visual Appearance of WinTerm</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-service-reset-a-comprehensive-guide/"><u>Windows Time Service Reset: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-gameplay-reasons-to-prefer-windows-over-linux/"><u>Winning Gameplay: Reasons to Prefer Windows Over Linux</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,3 +171,25 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-camera-technology-for-youtube-stars-for-2024/"><u>[New] Cutting-Edge Camera Technology For YouTube Stars for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-breakthrough-visuals-hp-envy-27-monitors-4k-showcase/"><u>[New] In 2024, Breakthrough Visuals HP Envy 27 Monitor's 4K Showcase</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-network-settings-in-mixer-macos-for-2024/"><u>[New] Navigating Network Settings in Mixer macOS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-uncovered-the-hidden-youtube-shorts-fix/"><u>2024 Approved Uncovered The Hidden YouTube Shorts Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-data-compression-a-cli-command-guidebook/"><u>Conquering Data Compression: A CLI Command Guidebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-a-viral-youtube-sensation-simplified-action-plan/"><u>Creating a Viral YouTube Sensation Simplified Action Plan</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-perfect-balance-of-elegance-and-tech-an-in-depth-review-of-fitbit-charge-4/"><u>Exploring the Perfect Balance of Elegance & Tech: An In-Depth Review of Fitbit Charge 4</u></a></li>
+<li><a href="https://win11.techidaily.com/is-file-explorer-unstable-in-windows-11-discover-solutions/"><u>Is File Explorer Unstable in Windows 11? Discover Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4aaudacity/"><u>M4A音楽形式をAudacityで読み込めない時のワザとコツ</u></a></li>
+<li><a href="https://win11.techidaily.com/pure-performance-ditch-bloatware-in-win11/"><u>Pure Performance: Ditch Bloatware in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-windows-automatic-scroll-habits/"><u>Rectify Windows' Automatic Scroll Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/rehabilitating-a-crash-prone-windows-11-bin/"><u>Rehabilitating a Crash-Prone Windows 11 Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unsupported-fingerprint-errors-in-windows-os/"><u>Solving Unsupported Fingerprint Errors in Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/spacebound-backup-plans-how-stranded-astronauts-may-secure-a-second-liftoff/"><u>Spacebound Backup Plans: How Stranded Astronauts May Secure a Second Liftoff</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-overcoming-disk-read-errors/"><u>Steps for Overcoming Disk Read Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-write-access-denial-on-windows-11/"><u>Strategies to Address Write Access Denial on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-microsoft-edge-issues-on-your-pc/"><u>Troubleshooting Guide: Solving Microsoft Edge Issues on Your PC</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Revival Strategies for .NET on Your PC (Max 156)
-date: 2024-11-04T16:56:44.538Z
-updated: 2024-11-07T18:38:30.857Z
+date: 2024-11-13T17:59:25.786Z
+updated: 2024-11-18T01:40:21.330Z
 tags:
   - windows10
   - windows11
@@ -54,13 +54,6 @@ To run the .NET Framework Repair Tool
 ![control panel turn windows features on or off 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/control-panel-turn-windows-features-on-or-off-1.jpg)
 5. Here, uncheck**.NET Framework 3.5** and**.NET Framework 4.8 Advanced Services** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
 
@@ -77,10 +70,23 @@ After the restart:
 5. Once the feature is enabled, click**Restart** to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Repair .NET Framework Using PowerShell
@@ -96,14 +102,28 @@ After the restart:
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `winget install Microsoft.dotNetFramework`
 7. PowerShell will download and extract the package. You will see a successfully installed message once the process is complete.
 8. Restart your PC to apply the changes and check for any improvements.
@@ -120,19 +140,6 @@ To manually install older versions of the .NET Framework:
 4. Once the download is complete, open the download location and run the**dotnetfx.exe** file to launch the setup. Click**Yes** , if prompted by UAC.
 5. Next, follow the on-screen instructions to complete the setup.
 6. Restart your PC and then try to install the app to see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the System File Checker Tool
 
@@ -171,15 +178,21 @@ To run the System File Checker tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[New] 2024 Approved Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-end-screen-creation-made-simple-free-templates-and-guides/"><u>[Updated] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-filmmakers-choice-selecting-perfect-lenses-for-youtube-creation-for-2024/"><u>[Updated] Filmmaker's Choice Selecting Perfect Lenses for YouTube Creation for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/achieve-superior-visual-experience-transforming-your-videos-into-premium-quality-dvd-format/"><u>Achieve Superior Visual Experience: Transforming Your Videos Into Premium Quality DVD Format</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-soccuper-du-probleme-des-donnees-manquantes-sur-un-peripherique-usb-une-analyse-detaillee/"><u>Comment S'occuper Du Problème Des Données Manquantes Sur Un Périphérique USB : Une Analyse Détaillée</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-not-enough-memory-available-error-for-vms/"><u>How to Overcome 'Not Enough Memory Available' Error for VMs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-to-buy-adobe-reader-in-microsoft-store/"><u>Navigate to Buy Adobe Reader in Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-pairing-process-for-airpods-and-windows-pcs/"><u>Streamlined Pairing Process for AirPods and Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-system-cooling-policy-on-windows-and-how-do-you-set-it/"><u>What Is the System Cooling Policy on Windows and How Do You Set It?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ace-your-video-masterful-use-of-hash-tags-in-games/"><u>[New] 2024 Approved Ace Your Video Masterful Use of Hash Tags in Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>[New] 2024 Approved Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-finding-the-best-sound-editing-software-for-video-makers-for-2024/"><u>[Updated] Finding the Best Sound Editing Software for Video Makers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-dark-visual-settings-in-wincalc-app/"><u>Enable Dark Visual Settings in WinCalc App</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-procuring-mac-address-on-windows-11-devices/"><u>Essential Guide: Procuring MAC Address on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-nba-live-streams-15-ways-to-watch-the-action/"><u>Free NBA Live Streams 15 Ways to Watch the Action</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-undo-personalized-windows-sleep-settings/"><u>How To Undo Personalized Windows Sleep Settings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-peeking-at-high-resolution-display-innovation-the-dell-p2715q-review/"><u>In 2024, Peeking at High-Resolution Display Innovation - The Dell P2715Q Review</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-stop-motion-on-instagram-from-concept-to-viral-sensation/"><u>New 2024 Approved The Ultimate Guide to Stop Motion on Instagram From Concept to Viral Sensation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-itunes-needed-master-the-art-of-self-restoring-and-refreshing-your-iphones-os/"><u>No iTunes Needed? Master the Art of Self-Restoring and Refreshing Your iPhone's OS</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-data-disasters-in-windows-systems/"><u>Preventing Data Disasters in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-at-notifications-on-win-11/"><u>The Insider’s Look at Notifications on Win 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-cleaners-comprehensive-expert-reviews-techradar/"><u>Top-Rated Roborock Vacuum Cleaners - Comprehensive Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-access-steps-to-locate-and-restore-your-hidden-pin-in-win-11/"><u>Unlocking Access: Steps to Locate and Restore Your Hidden PIN in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-subsystem-discontinued-adapting-to-new-android-setup/"><u>Windows Subsystem Discontinued: Adapting to New Android Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Game Data Security: Epic's Backup Guide"
-date: 2024-11-01T21:24:03.178Z
-updated: 2024-11-07T23:10:45.754Z
+date: 2024-11-11T22:02:24.928Z
+updated: 2024-11-17T21:17:51.425Z
 tags:
   - windows10
   - windows11
@@ -50,32 +50,31 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Handle a Cloud Save Conflict
 
  Sometimes you might see Cloud Save conflict error messages when you select to start games with Epic Games. That error prompts you to select an **Upload to Cloud** or **Download to Machine** option with newer or older files. Always select the newer file option when a **Cloud Save** conflict arises to ensure you retain your latest saves.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up Saved Data for Games in Your Epic Library
@@ -91,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 4. [Launch File Explorer](https://www.makeuseof.com/windows-file-explorer-not-opening/) to open the Windows or Epic Games Launcher saved data path specified for your game on its PCGamingWiki page.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right-click the game’s saved game folder and select **Copy**.  
@@ -111,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Secure Saved Gaming Progress for Your Epic Games Library
 
  Now you can ensure you don’t lose any saved gaming progress before reinstalling Epic Games titles or because of data corruption by backing up game save files with the methods above.
@@ -119,27 +125,6 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
  Fortunately, there are two ways you can back up saved game data for games installed with Epic Games Launcher. Doing so will enable you to reinstall Epic Games titles without losing your saved progress. This is how you can back up saved data for Windows 11/10 games installed via Epic Games Launcher.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-win11-elite-screen-recording-software/"><u>[New] 2024 Approved Win11 Elite Screen Recording Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harmonizing-workplay-by-incorporating-podcast-listening/"><u>[New] In 2024, Harmonizing Work/Play by Incorporating Podcast Listening</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-a-distinctive-youtube-channel-url/"><u>[Updated] Step-by-Step Guide to a Distinctive YouTube Channel URL</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-chatai-gdt-and-aichat-stand-out-as-top-ranking-ai-chatbot-apps-for-downloads/"><u>Discover Why ChatAi GDT & AiChat Stand Out as Top-Ranking AI Chatbot Apps for Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-access-mac-and-switch-gameplay/"><u>Easy Access: Mac and Switch Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-zip-or-unzip-files-using-the-command-prompt-and-windows-powershell/"><u>How to Zip or Unzip Files Using the Command Prompt and Windows PowerShell</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-non-recoverable-trash-into-your-windows-workspace/"><u>Integrating Non-Recoverable Trash Into Your Windows Workspace</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-10-restore-eliminating-error-code-0x80042306/"><u>Mastering Windows 10 Restore: Eliminating Error Code 0X80042306</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-avoiding-disk-read-errors/"><u>Mastering Windows: Avoiding Disk Read Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mystery-unraveled-what-is-the-new-gpt/"><u>Mystery Unraveled: What Is the New GPT?</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-mmc-snaps-not-displayed-on-windows/"><u>Navigating Through MMC Snaps Not Displayed on Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nikon-z7-review-a-masterclass-in-modern-mirrorless-technology/"><u>Nikon Z7 Review: A Masterclass in Modern Mirrorless Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-access-to-tools-setting-up-command-line-tricks/"><u>Speedy Access to Tools: Setting up Command-Line Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-dll-failure-in-steam-interface/"><u>Steps to Correct DLL Failure in Steam Interface</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-premier-list-of-cable-modems-find-the-perfect-match/"><u>The Premier List of Cable Modems - Find the Perfect Match</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-microsofts-phone-link-application-functionality/"><u>Understanding Microsoft's Phone Link Application Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-gaming-experience-free-steelseries-mouse-driver-download-available/"><u>Upgrade Your Gaming Experience - Free SteelSeries Mouse Driver Download Available</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +132,20 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/"><u>[New] Audio Perfection Achieved Expert Tips Without a Microphone for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-top-vr-bike-games-a-compreayers-guide/"><u>[New] In 2024, TOP VR Bike Games A Compreayer’s Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-use-luts-in-adobe-after-effect/"><u>[Updated] How to Use LUTs in Adobe After Effect</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dribbble-artwork-aspect-ratio-guide/"><u>Dribbble Artwork Aspect Ratio Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-your-windows-licenses-will-expire-soon-message/"><u>How To Disable Your Windows Licenses Will Expire Soon Message</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a24-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A24 Without PUK Codes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-wonky-windows-photoshop/"><u>Quick Fix for Wonky Windows Photoshop</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-x709-error-on-microsoft-os/"><u>Remedies for X709 Error on Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/sky-high-success-in-windows-11-top-productivity-apps-ranked/"><u>Sky-High Success in Windows 11: Top Productivity Apps Ranked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/social-video-marketing-insights-for-small-business-infographic-for-2024/"><u>Social Video Marketing Insights for Small Business [Infographic] for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-why-your-digital-pen-is-failing-on-windows/"><u>Unraveling Why Your Digital Pen Is Failing on Windows</u></a></li>
+</ul></div>
+

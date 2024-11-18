@@ -1,7 +1,7 @@
 ---
 title: Ensure Smooth Operation of File Explorer on Latest Windows 11
-date: 2024-11-03T22:52:39.630Z
-updated: 2024-11-07T23:24:20.598Z
+date: 2024-11-15T04:41:07.133Z
+updated: 2024-11-18T01:50:10.809Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Clear File Explorer Cache
 
  File Explorer, like any other program, accumulates cache data to improve its performance. However, when this data becomes outdated or corrupt, it can lead to a variety of issues, including the one discussed here. You can try getting rid of the existing File Explorer cache to see if that helps. To do so, use these steps:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure File Explorer Options
 
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
@@ -89,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the Windows Memory Diagnostic Tool
@@ -103,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
 ## 7\. Troubleshoot in Clean Boot Mode
@@ -110,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
  We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
@@ -148,22 +148,20 @@ thumbnail: https://thmb.techidaily.com/668fe014e6bae21be4d1f17bf36923c523f3242cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[Updated] Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-the-world-inside-the-popularity-of-facebook-twitter-instagram-and-youtube/"><u>Connecting the World: Inside The Popularity of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-the-ultimate-gaming-experience-with-amd-tweaks/"><u>Crafting the Ultimate Gaming Experience with AMD Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-task-manager-steps-for-prominence-atop-windows/"><u>Elevating Task Manager: Steps for Prominence Atop Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/facebook-image-discovery-top-techniques-for-effective-search-results/"><u>Facebook Image Discovery: Top Techniques for Effective Search Results</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-rx-5700-xt-graphics-card-driver-for-windows-operating-systems-111087/"><u>Get the Latest AMD RX 5700 XT Graphics Card Driver for Windows Operating Systems (11/10/8/7)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-filter-processes-and-set-a-new-theme-in-the-windows-11-task-manager/"><u>How to Filter Processes and Set a New Theme in the Windows 11 Task Manager</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-changing-your-monitor-display-issues-and-solutions-unveiled/"><u>Mastering the Art of Changing Your Monitor Display: Issues and Solutions Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-issue-error-x80300024-in-winxp/"><u>Mitigating Issue: Error X80300024 in WinXP</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-system-failure-resolve-error-0xc0000001-on-win1011/"><u>Overcoming System Failure: Resolve Error 0xC0000001 on Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-user-profile-issues-on-windows-1111-system/"><u>Resolving User Profile Issues on Windows 11/11 System</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-naturally-17-commonplace-spanish-phrases/"><u>Speak Naturally: 17 Commonplace Spanish Phrases</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-route-to-integrating-apple-events-in-windows-11/"><u>The Ultimate Route to Integrating Apple Events in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-picks-15-fantastic-free-uninstaller-programs-to-clean-your-system/"><u>Top Picks: 15 Fantastic Free Uninstaller Programs to Clean Your System</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smartwatches-a-buyers-guide/"><u>Top Rated Smartwatches : A Buyer's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-recycle-bin-fix-overcoming-corruption-errors/"><u>Win10/11 Recycle Bin Fix: Overcoming Corruption Errors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-free-themes-for-dynamic-youtuber-profiles/"><u>[New] Free Themes for Dynamic YouTuber Profiles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-channel-prodigy-skyrocketing-with-content-innovation-for-2024/"><u>[Updated] Channel Prodigy Skyrocketing with Content Innovation for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c22-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia C22 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-blaze-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Blaze 2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-xs-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone XS Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808045850-error-code-80240020-comprehensive-troubleshooting-steps-for-windows-10-installation-issues-resolved/"><u>Error Code 80240020: Comprehensive Troubleshooting Steps for Windows 10 Installation Issues Resolved!</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-wi-fi-erasure-on-windows-11/"><u>Guide to Wi-Fi Erasure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/instantly-stop-notifications-in-windows-11-ui/"><u>Instantly Stop Notifications in Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-for-saving-files-from-external-hard-drives-in-various-windows-os-windows-11-10-8-7/"><u>Step-by-Step Guide for Saving Files From External Hard Drives in Various Windows OS (Windows 11, 10, 8, 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-lengthen-windows-11-shutdown-process-during-tasks-execution/"><u>Strategies to Lengthen Windows 11 Shutdown Process During Tasks Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-workflow-microsoft-tech-evolution/"><u>Streamlined Workflow: Microsoft Tech Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-efail-error-0x80004005-in-virtualbox-windows/"><u>Tackling the E_FAIL (Error 0X80004005) in VirtualBox Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-new-apple-iphone-15-pro-insider-hands-on-analysis/"><u>The Ultimate Guide to the New Apple iPhone 15 Pro: Insider Hands-On Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-in-live-streaming-efficient-capture-techniques-via-intel/"><u>Winning in Live Streaming: Efficient Capture Techniques via Intel</u></a></li>
 </ul></div>
 

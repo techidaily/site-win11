@@ -1,7 +1,7 @@
 ---
 title: "Eradicating Graphics Problem Code 3: Windows & NVidia"
-date: 2024-10-31T17:18:11.498Z
-updated: 2024-11-07T22:00:52.541Z
+date: 2024-11-13T17:31:28.036Z
+updated: 2024-11-17T19:48:35.659Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Select the 3D App Visual Simulation Option
 
  Some users have fixed OpenGL error code 3 by selecting a**Visual Simulation** preset option within the NVIDIA Control Panel. However, note that option is only available for NVIDIA Quadro graphics adapters. So, you can’t see and select that setting if your PC doesn’t have a Quadro GPU. This is how to select the**3D App Visual Simulation** setting in the NVIDIA Control Panel:
@@ -53,20 +60,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
 
  Have you recently updated your PC’s graphics driver? If so, the new driver could be causing the error code 3 issue on your PC. You might be able to resolve error code 3 by rolling back a recent graphics driver update.
@@ -77,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Select the Repair and Reset Options for the Affected App
 
  If error code 3 occurs for a Universal Windows Platform app or game, try fixing it with the**Repair** or**Reset** options. Each UWP app has options for repairing and resetting you can select within Settings. Check out our article about[resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) to clear the app’s data.
@@ -91,6 +77,26 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
  However, it’s recommended to select an app’s**Repair** option first. The**Repair** troubleshooting option is just about above the**Reset** button and doesn’t eradicate data. So, select**Repair** to see if that fixes error code 3 first.
 
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Affected Software
 
@@ -110,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on[how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop Error Code 3 Crashing Your Software on Windows
 
@@ -138,19 +144,21 @@ thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-securing-a-stable-stream-of-earnings-on-youtube/"><u>[New] Securing a Stable Stream of Earnings on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-apex-artists-among-online-video-titans/"><u>[Updated] 2024 Approved Apex Artists Among Online Video Titans</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-visual-narratives-with-ease-unleash-your-creativity-through-slide-shows-and-image-repair-in-windows-11-photos-app/"><u>Crafting Visual Narratives with Ease: Unleash Your Creativity Through Slide Shows & Image Repair in Windows 11 Photos App</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-downloads-and-updates-mastering-your-scansnap-on-windows-today/"><u>Effortless Driver Downloads & Updates: Mastering Your ScanSnap on Windows Today</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-clear-auditory-feedback-during-powerpoint-recordings/"><u>Guidelines for Clear Auditory Feedback During PowerPoint Recordings</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leverage-netflixs-picture-in-picture-functionality/"><u>Leverage Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-windows-1110s-nvidia-access-errors/"><u>Remedy Windows 11/10'S NVIDIA Access Errors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-steam-network-via-dns-cleanup/"><u>Streamlining Your Steam Network via DNS Cleanup</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-to-pc-proficiency-report-creation-mastery/"><u>The Blueprint to PC Proficiency: Report Creation Mastery</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-download-and-use-kinemaster-on-your-mac-for-2024/"><u>Updated How to Download and Use KineMaster on Your Mac for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-to-do-if-microsoft-outlook-only-opens-in-safe-mode-on-windows/"><u>What to Do if Microsoft Outlook Only Opens in Safe Mode on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win11win11-troubleshooting-guide-for-invalid-user-issue/"><u>Win11/Win11 Troubleshooting Guide for Invalid User Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-onboard-for-your-playstation-2020-steam-deck/"><u>Windows Onboard for Your PlayStation 2020 (Steam Deck)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-spy-on-fb-chronicles-discreetly/"><u>[New] Spy on FB Chronicles Discreetly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-macpros-screenflow-insight-a-comprehensive-guide/"><u>[Updated] MacPro's ScreenFlow Insight A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-gaming-experience-with-corsairs-void-pro-download-and-instantly-setup-on-windows/"><u>Get the Best Gaming Experience with Corsair's Void Pro - Download and Instantly Setup on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-leveraging-artificial-intelligence-with-bing-for-android-users/"><u>Guide to Leveraging Artificial Intelligence with Bing for Android Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f54-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F54 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207641604-keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-leaving-s-mode-in-windows/"><u>Mastering the Art of Leaving S Mode in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-your-way-through-2023s-best-games-for-the-portable-powerhouse-steam-deck/"><u>Navigate Your Way Through 2023'S Best Games for the Portable Powerhouse, Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-missing-wi-fi-a-fix-guide-for-windows-11-users/"><u>Remedying Missing Wi-Fi: A Fix Guide for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-stanley-j5c09-big-in-size-efficient-in-performance/"><u>Review of Stanley J5C09: Big in Size, Efficient in Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-productivity-microsofts-incorporation-of-ai-into-the-windows-11-taskbar/"><u>Seamless Productivity: Microsoft's Incorporation of AI Into the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/should-you-opt-for-the-constrained-scope-of-windows-11-s-mode/"><u>Should You Opt for the Constrained Scope of Windows 11 S Mode?</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-configure-your-pc-audio-output-windows-11-mixer-guide/"><u>Streamline and Configure Your PC Audio Output: Windows 11 Mixer Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audacitys-windows-audio-issue/"><u>Troubleshooting Audacity's Windows Audio Issue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-closed-captioning-issues-in-win-10/"><u>Unraveling Closed Captioning Issues in Win 10</u></a></li>
 </ul></div>
 

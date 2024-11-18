@@ -1,7 +1,7 @@
 ---
 title: Guide to Prevent and Repair Failed GeForce Scans on Win
-date: 2024-11-02T18:51:51.502Z
-updated: 2024-11-07T16:00:11.596Z
+date: 2024-11-12T09:11:04.230Z
+updated: 2024-11-18T07:01:50.480Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  Regardless of the reason, this issue deprives you of squeezing the full potential of your graphics card! Thus, we recommend you try out the below-mentioned fixes immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Add the Game or App Manually
 
  The program relies on a[database of NVIDIA GeForce Experience-supported games](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) for scanning. GeForce Experience can only optimize the games that are officially supported.
@@ -42,13 +49,6 @@ Follow these steps to add a game or app for optimization manually:
 1. Click the toggle next to your account name and select**Account** .  
 ![GeForce Experience Dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-dashboard.jpg)
 2. Click**GAMES & APPS > ADD** to open the Windows File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Select the folder where you've installed the game or app and click**Select Folder** .  
 ![Game Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-folder-location.jpg)
@@ -78,10 +78,10 @@ Follow these steps to add a game or app for optimization manually:
  Please note that restarting the Windows services is not the only fix! If you're still struggling to scan your game, move forward to try some advanced troubleshooting measures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run GeForce Experience as an Administrator
@@ -104,13 +104,6 @@ Follow these steps to add a game or app for optimization manually:
 
  Now that you have a restore point set up, check out[how to fix broken Windows registry items](https://www.makeuseof.com/fix-broken-registry-items-windows-11/) . Remember to follow the provided guidance carefully and always double-check what you do to avoid any issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Delete the NVIDIA AppData Folder
 
  On Windows, there is a folder called AppData that stores your specific data related to applications, such as settings, temporary files, and caches.
@@ -126,13 +119,26 @@ Follow these steps to add a game or app for optimization manually:
 ![NVIDIA Corporation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-corporation-folder.jpg)
 4. Once you delete the folder, open GeForce Experience and check for scanning issues.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We advise you to be very careful while deleting files from the AppData folder. Deleting the wrong file can lead to other problems that may leave you in trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall GeForce Experience on Your Desktop
@@ -153,19 +159,25 @@ Follow these steps to add a game or app for optimization manually:
 ![GeForce Experience Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the scanning issue was related to the corrupted software files, this reinstallation process should resolve.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back to Scanning in GeForce Experience
@@ -189,17 +201,16 @@ Follow these steps to add a game or app for optimization manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-enhance-projects-no-cost-templates-for-pp-prodigies/"><u>[New] Enhance Projects No-Cost Templates for PP Prodigies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-gopro-camera-showdown/"><u>[Updated] 2024 Approved The Ultimate GoPro Camera Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-words-to-wax-mastering-voice-note-techniques/"><u>[Updated] From Words to Wax Mastering Voice Note Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-windows-uac-images/"><u>Comprehensive Guide to Windows UAC Images</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-windowed-mode-switch-to-fullscreen-successfully/"><u>Conquering Windowed Mode: Switch to Fullscreen Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-setting-up-the-outlook-preview-app/"><u>Expert Advice: Setting up the Outlook Preview App</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pinpoint-your-pcs-ram-quickly-on-windows/"><u>How to Pinpoint Your PC's RAM Quickly on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-store-error-0x80d03801/"><u>How to Resolve Store Error 0X80D03801</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-11r-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 11R to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>In 2024, Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-hd-cameras-for-wildlife-enthusiasts/"><u>Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-techniques-for-green-screen-shooting-excellence/"><u>[Updated] 2024 Approved Essential Techniques for Green Screen Shooting Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-display-dpi-scaling-in-windows-11/"><u>How to Change Display DPI Scaling in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ice-warriors-unleashed-at-2022-games/"><u>Ice Warriors Unleashed at 2022 Games</u></a></li>
+<li><a href="https://win11.techidaily.com/sd-reader-unseen-in-windows-explore-solutions/"><u>SD Reader Unseen in Windows Explore - Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-fresh-radeon-graphics-drivers-in-windows-11/"><u>Tailored Guide to Fresh Radeon Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-drone-that-never-loses-you-top-10-list-for-2024/"><u>The Drone that Never Loses You - Top 10 List for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-unbeatable-holiday-sales-on-hp-products-exclusive-pick/"><u>Top 16 Unbeatable Holiday Sales on HP Products - Exclusive Pick</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/ultimate-guide-how-to-successfully-copy-your-c-drive-to-an-external-storage-device-on-windows/"><u>Ultimate Guide: How to Successfully Copy Your C Drive to an External Storage Device on Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-top-5-best-free-flv-video-editors/"><u>Updated In 2024, Top 5 Best Free FLV Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-keys-down-top-strategies-to-mend-non-functional-shortcuts-in-your-os/"><u>Windows Keys Down! Top Strategies to Mend Non-Functional Shortcuts in Your OS</u></a></li>
 </ul></div>
 

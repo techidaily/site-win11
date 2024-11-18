@@ -1,7 +1,7 @@
 ---
 title: Telnet Setup Simplified for Win11 Computers
-date: 2024-11-06T19:58:23.362Z
-updated: 2024-11-07T20:32:12.335Z
+date: 2024-11-16T20:17:56.537Z
+updated: 2024-11-18T07:10:11.067Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ If you need to disable Telnet:
 2. Click**OK** and wait for the feature to uninstall.
 3. Click on**Restart** now to reboot your PC and apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Telnet Client Using Windows PowerShell
 
 ![enable telnet client powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-client-powershell.jpg)
@@ -63,16 +70,16 @@ To enable Telnet using Windows PowerShell:
 `Disable-WindowsOptionalFeature -Online -FeatureName TelnetClient`
 6. Close PowerShell and restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Install Telnet Client Using Command Prompt
 
 ![enable telnet command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-telnet-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer Command Prompt over PowerShell, you can use the DISM /Online command to enable the optional features on your Windows 11 computer.
 
@@ -88,22 +95,15 @@ Follow these steps to install Telnet using Command Prompt:
 6. Wait for the success message.
 7. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check the Telnet Client Status on Your PC
 
 ![telnet status enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/telnet-status-enabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check if the Telnet client is enabled on your PC using a Command Prompt command. When enabled, the Telnet command will open a new CMD to connect to remote servers and perform other tasks.
@@ -113,10 +113,10 @@ Follow these steps to install Telnet using Command Prompt:
 3. A new CMD with Microsoft Telnet will open.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## All the Ways to Enable Telnet On Your Windows 11 Computer
@@ -140,22 +140,14 @@ Follow these steps to install Telnet using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamless-file-transition-youtube-to-mp4-high-definition-upgrade-included/"><u>[New] 2024 Approved Seamless File Transition YouTube to MP4, High-Definition Upgrade Included</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-enhancing-video-experience-with-apple-melodies/"><u>[New] Enhancing Video Experience with Apple Melodies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users/"><u>[New] Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-0x8007045d-bsod-on-windows-11-computers/"><u>Eliminating 0X8007045D BSOD on Windows 11 Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-lava-storm-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Lava Storm 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-use-airpods-on-the-nintendo-switch-a-comprehensive-guide/"><u>Is It Possible to Use AirPods on the Nintendo Switch? A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/leveraging-keywords-and-metadata-in-podcast-seo/"><u>Leveraging Keywords and Metadata in Podcast SEO</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-the-stubbornness-of-a-non-opening-windows-notepad-with-ease/"><u>Overcome the Stubbornness of a Non-Opening Windows Notepad with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-functional-search-on-windows-11/"><u>Overcoming Non-Functional Search on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-inconsistent-settings-in-your-windows-file-history/"><u>Resolving Inconsistent Settings in Your Windows File History</u></a></li>
-<li><a href="https://win11.techidaily.com/revealing-the-process-disabling-gpu-task-execution-windows/"><u>Revealing the Process: Disabling GPU Task Execution Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-launch-discord-on-your-mac/"><u>Step-by-Step Guide to Launch Discord on Your Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-windows-update-failure-0xca00a009/"><u>Steps to Correct Windows Update Failure 0xCA00A009</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rectifying-the-server-disconnect-issue-obs-style/"><u>The Ultimate Guide to Rectifying the Server Disconnect Issue, OBS Style</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-smooth-stress-free-upgrades-in-windows-11/"><u>The Ultimate Guide to Smooth, Stress-Free Upgrades in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/unlocking-the-potential-of-your-logitech-mx-series-expert-setup-and-configuration-tips/"><u>Unlocking the Potential of Your Logitech MX Series - Expert Setup and Configuration Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-hidden-power-of-windows-11/"><u>2024 Approved Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bring-back-missing-bluetooth-on-windows/"><u>How to Bring Back Missing Bluetooth on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-v29-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo V29</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-your-lg-televisions-channels-what-you-must-understand/"><u>Inside Look at Your LG Television's Channels - What You Must Understand</u></a></li>
+<li><a href="https://win11.techidaily.com/overlooked-wonders-of-windows-11-the-essential-skills/"><u>Overlooked Wonders of Windows 11 - The Essential Skills</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90 Lite</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-stuck-apps-camera-request-error-0xa00f4243/"><u>Unblocking Stuck App's Camera Request: Error 0xA00F4243</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstall-and-re-install-restoring-windows-update-service/"><u>Uninstall and Re-Install: Restoring Windows Update Service</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620254672-when-your-iphone-battery-fails-explore-these-smart-repair-techniques/"><u>When Your iPhone Battery Fails, Explore These Smart Repair Techniques!</u></a></li>
 </ul></div>
 

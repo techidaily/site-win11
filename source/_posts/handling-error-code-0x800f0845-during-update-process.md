@@ -1,7 +1,7 @@
 ---
 title: "Handling Error Code: 0X800F0845 During Update Process"
-date: 2024-11-05T00:22:28.498Z
-updated: 2024-11-07T18:31:41.933Z
+date: 2024-11-17T05:03:24.951Z
+updated: 2024-11-18T02:27:38.405Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
  So what can you do now? Cumulative updates are quality updates, so these must be installed. Fortunately, as there are ways to get past the 0x800f0845 error and install the failed updates.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Run the Windows Update Troubleshooter
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
 4. Then click**Run** on the**Windows Update** troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-update-troubleshooter.jpg)
 
  The Windows Update troubleshooter will automatically run its scans to diagnose problems. After troubleshooting completes, you'll get the message that changes have been made to your system and you should try attempting the tasks you were doing earlier.
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![Windows Update Troubleshooting Complete Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-troubleshooting-complete.jpg)
 
  So close the troubleshooter and restart your computer. Then try updating Windows again and check if the failed update gets installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Antivirus Software
 
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 Try updating Windows now and see if the update gets installed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the System File Checker and the DISM Tool
 
  Corrupted Windows system files could also be the cause of the 0x800f0845 error. To scan, repair, and replace such damaged files, run the System File Checker or SFC scan.
@@ -92,13 +99,6 @@ Try updating Windows now and see if the update gets installed.
  To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Update Components
 
@@ -131,10 +131,10 @@ net start cryptsvc`
  Once you have run all the commands, the update error should have got fixed. Restart your PC and try installing the updates again.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Install the Update Manually via the Microsoft Update Catalog
@@ -151,10 +151,10 @@ net start cryptsvc`
  Select the update that matches your system in Microsoft Update Catalog and click the**Download** button.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. The**Download** page will open with the file download link. Click on the link to download the update.  
@@ -167,16 +167,16 @@ net start cryptsvc`
 ![Click Restart Now to Complete Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-to-complete-installation.jpg)
 7. Just click the**Restart Now** button to complete the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. After your PC restarts, go to the**Windows Update history** page.  
 ![Cumulative Update Successfully Installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-successfully-installed.jpg)  
  The update that failed to install would have been successfully installed—as you can see in the screenshot above, the KB5023706 update was installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stay Updated for a Secure and Smooth Windows Experience
 
@@ -197,20 +197,17 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-masterful-snapchat-editing/"><u>[New] Step-by-Step Guide to Masterful Snapchat Editing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transforming-views-into-audience-with-effective-fb-videos/"><u>[Updated] 2024 Approved Transforming Views Into Audience with Effective FB Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-seamless-integration-of-switch-pro-into-steam-games/"><u>2024 Approved Seamless Integration of Switch Pro Into Steam Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>2024 Approved The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
-<li><a href="https://video-capture.techidaily.com/5-top-android-ps2-game-simulators-for-2024/"><u>5 Top Android PS2 Game Simulators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-error-messages-leveraging-command-prompt-for-efficient-windows-troubleshooting/"><u>Decoding Error Messages: Leveraging Command Prompt for Efficient Windows Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-effortlessly-acquire-and-implement-msixbundle-and-appx-files/"><u>How to Effortlessly Acquire and Implement Msixbundle & Appx Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>In 2024, Mastering Soundscapes The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-mix-fold-3-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Mix Fold 3 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-visual-cue-adjustments/"><u>Navigating Windows 11'S Visual Cue Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tier-vm-setups-to-power-up-windows-11-pcs/"><u>Top-Tier VM Setups to Power Up Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-language-switches-using-keyboard-shortcuts-in-windows-11-devices/"><u>Unlock Language Switches: Using Keyboard Shortcuts in Windows 11 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your iPhone 14 Pro? How to Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-dispute-unite-divergent-seconds/"><u>Windows Time Dispute: Unite Divergent Seconds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unveiling-youtubes-mechanism-post-upload/"><u>[New] In 2024, Unveiling YouTube's Mechanism Post-Upload</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturezone-win-10s-best-recorder/"><u>[Updated] In 2024, CaptureZone Win 10'S Best Recorder</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/digital-image-coloring-upside-down/"><u>Digital Image Coloring Upside Down</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-microsofts-assistant-service-on-pc/"><u>Disable Microsoft's Assistant Service on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-lag-to-leaderboard-how-to-supercharge-gameplay-on-a-windows-11-machine/"><u>From Lag to Leaderboard: How to Supercharge Gameplay on a Windows 11 Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-chrome-file-download-malfunction-on-windows-computers/"><u>Guiding Through Chrome File Download Malfunction on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-update-tutorial-compatible-with-microsofts-surface-book-series/"><u>NVIDIA Driver Update Tutorial – Compatible with Microsoft's Surface Book Series</u></a></li>
+<li><a href="https://win11.techidaily.com/pocket-sized-windows-patches-offline-methods/"><u>Pocket-Sized Windows Patches: Offline Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-pc-solutions-for-when-it-wont-turn-on/"><u>Reviving Your PC: Solutions for When It Won't Turn On</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-your-windows-11-account-lost-pin-recovery/"><u>Steps to Regain Your Windows 11 Account: Lost PIN Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-windows-activation-error-0x803f700f/"><u>Strategies for Overcoming Windows Activation Error: 0X803F700f</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965669511-updated-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montages-o/"><u>Updated Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players for 2024</u></a></li>
 </ul></div>
 

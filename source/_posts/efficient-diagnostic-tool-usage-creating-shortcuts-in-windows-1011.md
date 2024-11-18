@@ -1,7 +1,7 @@
 ---
 title: "Efficient Diagnostic Tool Usage: Creating Shortcuts in WIndows 10/11"
-date: 2024-11-02T17:37:44.255Z
-updated: 2024-11-07T18:42:57.136Z
+date: 2024-11-15T20:59:49.690Z
+updated: 2024-11-18T04:42:44.488Z
 tags:
   - windows10
   - windows11
@@ -46,18 +46,24 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  The Troubleshooting shortcut will have the same folder library icon as Explorer’s taskbar button. If you would prefer something else, you can change the icon via the shortcut’s properties window. Check out our guide about[how to customize icons on Windows](https://www.makeuseof.com/tag/customize-icon-windows/) for details.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Taskbar and Start Menu Troubleshooting Shortcuts
 
  You can easily convert the Troubleshooting Applet desktop shortcut into a taskbar or Start menu one. To do so in Windows 11, click the Troubleshooting Applet shortcut with the right mouse button and select**Show more options** . Select**Pin to taskbar** on the classic menu to stick the same shortcut on the taskbar. Or click**Pin to Start** to have one for opening the Troubleshooting applet from the pinned area of the Start menu.
 
 ![The Pin to taskbar option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-to-taskbar-option.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
 
@@ -71,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 4. Press**T** (for troubleshooting) to establish a**Ctrl** +**Alt** +**T** key combination.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
 5. Select**Apply** to save your new troubleshooting hotkey.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**OK** or**X** to close the Shortcut tab and window.
 
@@ -112,10 +111,17 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
@@ -138,10 +144,10 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
@@ -167,18 +173,18 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-science-of-quantum-hdr/"><u>[New] Mastering the Science of Quantum HDR</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus/"><u>[Updated] From Free to Profitable Unlocking YouTube's Monetization at 500+</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-chaos-no-more-restoring-ps4-devices-touchpad/"><u>Controller Chaos No More: Restoring PS4 Device's Touchpad</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://discover-community.techidaily.com/how-to-seamlessly-move-your-windows-imaging-to-another-drive/"><u>How to Seamlessly Move Your Windows Imaging to Another Drive</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-functional-windows-rulesets-in-outlook/"><u>Reinstating Functional Windows Rulesets in Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-file-explorer-quick-fixes-for-windows-1011/"><u>Reviving File Explorer: Quick Fixes for Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-access-making-shortcuts-on-uwp-windows-apps/"><u>Simplifying Access: Making Shortcuts on UWP Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-epic-games-downloads-on-windows-pcs/"><u>Streamlining Epic Games Downloads on Windows PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/terras-treasures-selecting-the-top-mapping-games/"><u>Terra's Treasures Selecting the Top Mapping Games</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-your-guide-to-cutting-edge-computer-components-t17239718709591/"><u>Tom's Tech Insights: Your Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-blue-screen-0x8007007e/"><u>Understanding and Remedying Windows Blue Screen 0X8007007E</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-tools-for-capturing-facebook-live-videos/"><u>[Updated] Top 5 Tools for Capturing Facebook Live Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-mp4-files-to-mov-format-online-at-no-cost-with-movavi-converter/"><u>Convert MP4 Files to MOV Format Online at No Cost with Movavi Converter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-websites-conversion-rates-with-our-advanced-analytics-tools/"><u>Cookiebot-Enabled: Enhance Your Website's Conversion Rates with Our Advanced Analytics Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-thunderbolt-driver-software-for-pcs-fresh-updates-available/"><u>Download Thunderbolt Driver Software for PCs - Fresh Updates Available</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-xs-max-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone XS Max?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-x90s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo X90S to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-workspace-positioning-gmail-bar-for-quick-access/"><u>Master Your Workspace: Positioning Gmail Bar for Quick Access</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-6-premier-performance-trackers-for-pcs/"><u>Navigate Through 6 Premier Performance Trackers for PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ps4-screenshot-secrets-revealed-easy-guide-for-gamers/"><u>PS4 Screenshot Secrets Revealed: Easy Guide for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-common-windows-update-failures/"><u>Rectifying the Common Windows Update Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-typical-rainmeter-glitches-on-pc/"><u>Solutions for Typical Rainmeter Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-immutable-windows-energy-modes/"><u>Tips for Dealing with Immutable Windows Energy Modes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-error-code-0x800736cc/"><u>Troubleshooting Windows Update: Error Code 0X800736CC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Power: Windows Task Scheduler for Batches"
-date: 2024-11-04T18:27:35.697Z
-updated: 2024-11-07T20:02:53.722Z
+date: 2024-11-15T16:27:35.471Z
+updated: 2024-11-17T22:42:46.431Z
 tags:
   - windows10
   - windows11
@@ -37,39 +37,19 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![the Task Scheduler in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-scheduler-in-windows-search.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the right panel, under **Actions**, click on **Create Basic Task**.
 
 ![the Task Schedular on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-schedular-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Give the task a descriptive name and then click on **Next**. The **Description** part is optional, but it's good practice to fill it in so you don't forget what the task does.
 
 ![creating a basic task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/creating-a-basic-task-in-task-scheduler-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pick a trigger, which is when you want the task to run, by clicking on the appropriate radio button, and then click on **Next**. In our example, we picked **Daily**, meaning we want to run the task every day.
@@ -80,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![setting the preferences for the daily trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-the-preferences-for-the-daily-trigger-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you need to select an action, and for our batch file, will are going to select the **Start a program** radio button and click **Next**.
 
 ![choosing an action in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-an-action-in-task-scheduler.jpg)
@@ -95,7 +68,21 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ![choosing a program or script to automate in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-a-program-or-script-to-automate-in-task-scheduler.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Removing the Batch File From the Task Scheduler
 
@@ -104,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
  To do that, open Task Scheduler (as shown above) and select the task you automated, which will be in the middle panel. In the right panel, under **Actions**, click on either **Disable** to stop it for now or **Delete** to remove it from Task Scheduler.
 
 ![a scheduled Task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/a-scheduled-task-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you clicked on **Delete**, confirm your action by clicking **Yes** in the popup. That means if you want to automate the batch file again, you'll have to do the scheduling process all over (as shown in the previous section).
 
@@ -115,24 +109,6 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-internets-influencers-top-10-global-youtube-sensations/"><u>[New] 2024 Approved Internet's Influencers Top 10 Global YouTube Sensations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-and-mastering-video-content-on-yt-shorts/"><u>[New] Understanding and Mastering Video Content on YT Shorts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-transforming-fb-videos-into-mp3-files/"><u>2024 Approved Transforming Fb Videos Into MP3 Files</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-common-windows-11-troubles-quickly/"><u>Conquering Common WINDOWS 11 Troubles Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/curb-the-vibrant-contrast-in-windows-os/"><u>Curb the Vibrant Contrast in Windows OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-no-cost-software-solutions-for-crafting-premium-4khd-youtube-masterpieces/"><u>Excellent No-Cost Software Solutions for Crafting Premium 4K/HD YouTube Masterpieces</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-latest-alternatives-to-tiktok-that-are-making-waves/"><u>In 2024, The Latest Alternatives to TikTok That Are Making Waves</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-tasks-with-bar-tools-in-mspcm-for-w11/"><u>Perfecting Tasks with Bar Tools in MSPCM for W11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-xerror-0x80246007/"><u>Quick Fixes for Windows Update XError 0X80246007</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-guide-overcome-the-0x00000001-mishap-in-format-factory-using-simple-methods/"><u>Quick Guide: Overcome the 0X00000001 Mishap in Format Factory Using Simple Methods</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/rai-tv-video-grabber-seamless-raitv-content-acquisition-for-shows-and-films/"><u>Rai TV Video Grabber - Seamless Rai.tv Content Acquisition for Shows and Films</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-brightening-your-windows-11-cursor/"><u>Step-by-Step: Brightening Your Windows 11 Cursor</u></a></li>
-<li><a href="https://win11.techidaily.com/the-evolution-of-windows-marching-towards-feb23/"><u>The Evolution of Windows: Marching Towards FEB23</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Reset Code | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +116,23 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-stuck-on-loading-screen/"><u>[Solved] Red Dead Redemption 2 Stuck on Loading Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-crafting-cinematic-content-with-precision-ratios/"><u>[Updated] 2024 Approved Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-video-popularity-predictor-top-8-insight-for-2024/"><u>[Updated] Ultimate Video Popularity Predictor Top 8 Insight for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-series-for-animating-fonts/"><u>2024 Approved Exquisite Series for Animating Fonts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c22-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C22 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-hot-30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix Hot 30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>In 2024, Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-protected-browsing-boosting-graphics-on-window-11/"><u>Maximizing Protected Browsing: Boosting Graphics on Window 11</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-techniques-to-activate-wordpad-in-computer-os/"><u>Proven Techniques to Activate WordPad in Computer OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnect-between-os-and-hardware/"><u>Resolving Disconnect Between OS and Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/the-4-best-password-managers-for-windows-11/"><u>The 4 Best Password Managers for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-jdk-installation-the-insiders-guide-for-windows-11/"><u>Unraveling JDK Installation: The Insider's Guide for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/update-your-windows-account-pin-with-ease/"><u>Update Your Windows Account Pin with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-recognition-issues-solved-effective-tips-for-windows-10-users/"><u>USB Recognition Issues Solved: Effective Tips for Windows 10 Users</u></a></li>
+</ul></div>
+

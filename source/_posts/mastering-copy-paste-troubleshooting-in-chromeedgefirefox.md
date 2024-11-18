@@ -1,7 +1,7 @@
 ---
 title: Mastering Copy-Paste Troubleshooting in Chrome/Edge/Firefox
-date: 2024-11-05T23:35:12.984Z
-updated: 2024-11-07T16:22:42.803Z
+date: 2024-11-15T03:20:48.859Z
+updated: 2024-11-18T05:52:21.597Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  If none of the above basic checks help, it's time to move on to the other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check How Widespread the Issue Is
 
  Some websites turn off text selection and copy-pasting to prevent users from copying large chunks of their content and abusing it elsewhere. Therefore, it's crucial to ensure that the problem isn't isolated to one website. You can test that by opening another website and copying and pasting text from there.
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 ![A person typing with two fingers on a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-person-typing-with-two-fingers-on-a-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The most common way to copy and paste text is to use the **CTRL + C** (copy) and **CTRL + V** (paste) shortcuts. If you also use the same approach to copy-paste text, but it's not working, ensure the keys are working correctly. The best way to confirm that is to copy and paste the text outside the browser.
@@ -70,11 +63,25 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  However, if you can copy-paste text outside the browser but not within it, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Other Active Applications
 
  If another app already uses **CTRL + C** or **CTRL + V** as a hotkey for performing a specific action, pressing the shortcut in Chrome may not copy or paste the text due to a conflict from another app. Therefore, temporarily turn off any other apps currently running on your device to see if it resolves the issue.
 
  If it fixes the issue, change the hotkey in the app that could be causing the copy-paste operation to fail. If closing the apps doesn't help, ensure your security suite isn't interfering.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check Your Security Settings
 
@@ -84,23 +91,9 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  If the keyboard keys work fine elsewhere but not within your browser, your security settings could be blocking you from copying text from the browser to the clipboard. To avoid this, [whitelist your browser in the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Clear the Clipboard Cache and History
 
 ![Clear Clipboard History From Clipboard Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clear-Clipboard-History-From-Clipboard-Tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Piled-up clipboard data can also impair the copy-paste process in apps. It's more likely to happen if you have never cleared the clipboard cache or history prior to this. If that's true, refer to our guide on [how to clear clipboard history](https://www.makeuseof.com/windows-11-clear-clipboard-history/) and see if clearing it fixes the issue at hand.
 
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 3. Navigate to the **Appearance** tab on the left.
 4. Scroll to the **Context menus** section and turn off the toggle next to the **Show mini menu when selecting text** option.  
 ![Disable mini menu in Microsoft Edge Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-mini-menu-in-microsoft-edge-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Check for Browser Interference
 
@@ -132,14 +132,14 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
 ![Copy the text using the right-click context menu on a website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/copy-the-text-using-the-right-click-context-menu-on-a-website-1.jpg)
 
- If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If that doesn't work either, you can install the Auto Copy extension that [automatically copies text when you select it](https://www.makeuseof.com/automatically-copy-chrome-edge-firefox-text/).
 
 ## Copy-Paste Your Text Again Effortlessly
 
@@ -151,22 +151,6 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  Here are some fixes you can apply to stop browsers from preventing you from copying and pasting.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-advanced-viewing-techniques-for-tiktok-content-for-2024/"><u>[New] Advanced Viewing Techniques for TikTok Content for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-saving-techniques-capturing-your-google-voice-conversations/"><u>[Updated] In 2024, Time-Saving Techniques Capturing Your Google Voice Conversations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-science-behind-effective-instagram-puzzle-posts/"><u>2024 Approved The Science Behind Effective Instagram Puzzle Posts</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-widget-integration-in-windows-11/"><u>Cutting-Edge Widget Integration in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-solutions-to-bypass-disallowed-logins-on-windows/"><u>Effective Solutions to Bypass Disallowed Logins on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-dev-drive-essential-setup-for-windows-11-programmers/"><u>Exploring Dev Drive: Essential Setup for Windows 11 Programmers</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-and-windows-the-integrity-disruption-scenario/"><u>Ftdibus.sys & Windows: The Integrity Disruption Scenario</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/i-tried-both-apple-watch-series-9-vs-fitbit-charge-6/"><u>I Tried Both: Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/setting-the-mood-fading-to-black/"><u>Setting the Mood Fading To Black</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-apple-airtag-gadgets-and-enhancements/"><u>Top-Rated Apple AirTag Gadgets & Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-graphics-card-info-windows-11-edition/"><u>Unlocking Graphics Card Info: Windows 11 Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-innovations-in-sound-personalization-examining-voice-transformation-gadgets/"><u>Updated Innovations in Sound Personalization Examining Voice Transformation Gadgets</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -174,3 +158,27 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-social-blades-role-in-deciphering-the-dynamics-of-youtube-statistics/"><u>[New] 2024 Approved Social Blade's Role in Deciphering the Dynamics of YouTube Statistics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-role-of-background-melody-in-a-cinematic-commercial-for-2024/"><u>[Updated] The Role of Background Melody in a Cinematic Commercial for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm5pya5by344gu44kt44or6zug5yi25l2c44ks44kk44oj77ya57eo6zug44k944ov44oi44ks5l244gj44gf44og44kv44ol44od44kv44cn/"><u>「最強のキル集制作ガイド：編集ソフトを使ったテクニック」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-console-sound-amplification-and-modifications-for-ps4ps5/"><u>2024 Approved Game Console Sound Amplification and Modifications for PS4/PS5</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-steam-login-interruptions-via-rust-for-windows-enthusiasts/"><u>Combatting Steam Login Interruptions via Rust for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-anydesk-fixes-for-frequent-windows-glitches/"><u>Fast-Tracking AnyDesk Fixes for Frequent Windows Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-90-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 90 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/masterful-motorsports-discover-the-5-leading-racers-simulators-for-2024/"><u>Masterful Motorsports Discover the 5 Leading Racers Simulators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-achievement-roadblocks-on-steam-games/"><u>Overcoming Achievement Roadblocks on Steam Games</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-google-chromes-aw-snap-error/"><u>Overcoming Google Chrome’s Aw, Snap! Error</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-windows-voice-to-text-program-through-whisper-and-autohotkey/"><u>Personalized Window's Voice-to-Text Program Through Whisper & AutoHotkey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-tool-for-perfect-openings-anywhere-you-go/"><u>Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-methods-to-temporarily-halt-windows-security-in-windows-11/"><u>Quick Methods to Temporarily Halt Windows Security in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reinvigorating-antiquated-directx-software-by-integrating-dxvk/"><u>Reinvigorating Antiquated DirectX Software by Integrating DXVK</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/reviving-your-system-mastering-the-art-of-windows-11-pc-recovery-with-three-essential-techniques/"><u>Reviving Your System: Mastering the Art of Windows 11 PC Recovery with Three Essential Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-methods-for-finding-and-downloading-movies-without-costing-a-penny/"><u>Top Methods for Finding and Downloading Movies Without Costing a Penny</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-microphone-record-with-confidence/"><u>Windows 11 Microphone: Record with Confidence</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-modern-standby-uncovered-issues-and-impacts/"><u>Windows Modern Standby Uncovered: Issues & Impacts</u></a></li>
+</ul></div>
+

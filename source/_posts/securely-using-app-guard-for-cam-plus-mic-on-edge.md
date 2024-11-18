@@ -1,7 +1,7 @@
 ---
 title: Securely Using App Guard for Cam + Mic on Edge
-date: 2024-11-03T19:02:12.343Z
-updated: 2024-11-07T16:17:50.124Z
+date: 2024-11-17T01:33:03.608Z
+updated: 2024-11-18T08:49:24.757Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable the Camera and Microphone Using Registry Editor
@@ -68,10 +68,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
@@ -80,10 +80,16 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 9. Then click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
@@ -91,16 +97,16 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
  If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Your Camera and Mic Is Now Supported in Edge Application Guard
@@ -122,22 +128,22 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-initial-steps-in-kinetic-illustration-techniques/"><u>[New] Initial Steps in Kinetic Illustration Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-rounded-corners-in-windows-desktop/"><u>Cutting Rounded Corners in Windows Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-through-the-conundrum-fixer-blocked-not-broken/"><u>Cutting Through the Conundrum: Fixer Blocked, Not Broken</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-windows-n-suites-which-ones-best/"><u>Dissecting Windows N Suites: Which One's Best?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/easy-plot-development-basics-for-2024/"><u>Easy Plot Development Basics for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/end-bluetooth-disturbance-in-win10/"><u>End Bluetooth Disturbance in Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-alternative-processes-to-start-your-programs-on-windows/"><u>Finding Alternative Processes to Start Your Programs on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-and-fantastic-the-top-10-lut-sources-for-2024/"><u>Free & Fantastic The Top 10 LUT Sources for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-disconnect-errors-in-windows-discord/"><u>Solutions to Disconnect Errors in Windows Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-windows-error-for-non-existent-mfc71udll/"><u>Steps to Fix: Windows Error for Non-Existent Mfc71u.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-xbox-service-disconnect-error/"><u>Steps to Overcome Xbox Service Disconnect Error</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-screen-with-smooth-window-10-captions/"><u>Streamline Your Screen with Smooth Window 10 Captions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-future-of-presentations-text-conversion-powered-by-speech-for-2024/"><u>The Future of Presentations Text Conversion Powered by Speech for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-great-debate-sony-vegas-pro-vs-adobe-premiere-pro-for-professional-video-editing/"><u>The Great Debate Sony Vegas Pro vs Adobe Premiere Pro for Professional Video Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-emerging-cybersecurity-developments-insights-and-forecasts/"><u>Top 7 Emerging Cybersecurity Developments: Insights & Forecasts</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-beatmaking-breakdown-top-8-digital-audio-workstations-daws-for-mac-and-pc-enthusiasts/"><u>Updated In 2024, Beatmaking Breakdown Top 8 Digital Audio Workstations (DAWs) For Mac & PC Enthusiasts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-muting-zoom-a-step-by-step-guide-for-quiet-calls-on-laptops-and-phones-for-2024/"><u>Updated Muting Zoom A Step-by-Step Guide for Quiet Calls on Laptops & Phones for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-voice-customization-on-instagram-revealed/"><u>[New] Step-by-Step Voice Customization on Instagram Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adjust-privacy-settings-for-secure-online-viewing/"><u>[Updated] 2024 Approved Adjust Privacy Settings for Secure Online Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-windows-parse-mishap/"><u>Decoding the Mystery of Windows' Parse Mishap</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-jumpstart-your-windows-update-process/"><u>Essential Steps to Jumpstart Your Windows Update Process</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-mend-the-missing-link-top-9-ways-to-reconnect-bluetooth-in-win-11/"><u>How to Mend the Missing Link: Top 9 Ways to Reconnect Bluetooth in Win 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>In 2024, Live Streaming Showdown OBS vs Wirecast Faceoff</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/resolving-no-security-code-on-facebook-login-attempt/"><u>Resolving No Security Code on Facebook Login Attempt</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-portaudio-glitches-in-audacity-on-windows-11/"><u>Resolving PortAudio Glitches in Audacity on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-favorite-shows-with-losmovies-downloader-the-ultimate-free-tool-for-saving-streams/"><u>Secure Your Favorite Shows with LosMovies Downloader: The Ultimate Free Tool for Saving Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-reading-excel-in-windows-notepad/"><u>Solutions for Reading Excel in Windows Notepad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tl-wn722n-adapter-unrecognized-on-windows-troubleshooting-guide/"><u>TL-WN722N Adapter Unrecognized on Windows - Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-methods-for-downloading-tiktok-content-without-a-watermark/"><u>Top Methods for Downloading TikTok Content without a Watermark</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-windows-laptop-lags-after-connecting-to-an-external-monitor/"><u>What to Do if Windows Laptop Lags After Connecting to an External Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/which-windows-fits-the-bill-analyzing-home-versus-pro-features/"><u>Which Windows Fits the Bill? Analyzing Home Versus Pro Features</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-spotify-fixing-connection-flubs-quickly/"><u>Win11 & Spotify: Fixing Connection Flubs Quickly</u></a></li>
 </ul></div>
 

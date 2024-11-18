@@ -1,7 +1,7 @@
 ---
 title: Setting up a Permanently Deletable Desktop Bin on Windows 11 & 11
-date: 2024-11-01T16:28:23.077Z
-updated: 2024-11-07T19:31:39.166Z
+date: 2024-11-11T17:12:17.775Z
+updated: 2024-11-18T02:49:25.767Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 
  Note that file shredders don’t work on SSD (solid-state drives). Such drives store data on flash memory, which is different from disk storage. However, you can still wipe solid-state drives with the software and methods covered in our guide on[if SSDs can really securely delete data](https://www.makeuseof.com/tag/ssd-secure-delete-data/) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a File Deletion Bin to the Desktop With Free File Wiper
 
  Free File Wiper is, as its title implies, freely available software for Windows platforms. That’s also a portable app for which no installation is required. This software has four options for wiping (overwriting) data thoroughly. You can add a Free File Wiper bin to the Windows 10 and 11 desktop like this:
@@ -54,38 +61,17 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Now you’ll see a Free File Wiper bin icon somewhere on the Windows desktop. Left-click and drag that icon to reposition it if necessary.
 
  To permanently delete something with the shredder app, bring up Explorer, left-click a file, and then drag it onto the Free File Wiper bin desktop icon. A warning prompt will appear that says you won’t be able to recover the file after wiping it. Select**Yes** if you’re sure about permanently erasing the file.
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
 
@@ -104,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
@@ -117,13 +110,26 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
@@ -146,24 +152,20 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-aesir-clash-dawn-of-the-gods/"><u>[New] 2024 Approved Aesir Clash Dawn of the Gods</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ontent-composer-arena-for-2024/"><u>[New] Content Composer Arena for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>[New] In 2024, Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/03122666-new-in-2024-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>[New] In 2024, Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>[Updated] Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-operational-failures-in-windows-os/"><u>Correcting Operational Failures in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-differences-exe-vs-msi-installation/"><u>Decoding the Differences: Exe vs Msi Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-best-free-desktop-password-makers-on-windows/"><u>Discover Best Free Desktop Password Makers on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-improve-cloud-storage-access-fixing-onedrive-in-w11/"><u>How to Improve Cloud Storage Access: Fixing OneDrive in W11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-guide-to-no-cost-meme-magic/"><u>In 2024, The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-tips-for-navigating-windows-11-widgets/"><u>Innovative Tips for Navigating Windows 11 Widgets</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/kinemaster-editors-unite-building-fluid-sequences-together-for-2024/"><u>Kinemaster Editors Unite Building Fluid Sequences Together for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-windows-11-mastering-the-taskbars-quick-search/"><u>Launching Windows 11: Mastering the Taskbar's Quick Search</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/limitations-of-chatgpt-compared-to-traditional-web-search-techniques/"><u>Limitations of ChatGPT Compared to Traditional Web Search Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-troubleshooting-for-windows-msc-not-found-error/"><u>Mastering Troubleshooting for Windows MSC Not Found Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-crash-in-32-bit-applications-print-driver-host/"><u>Resolving the Crash in 32-Bit Applications' Print Driver Host</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11s-5ghz-wi-fi-connection-problems/"><u>Resolving Windows 11'S 5GHz Wi-Fi Connection Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-cybersecurity-why-more-than-one-antivirus-is-unnecessary-for-windows-pcs/"><u>Simplify Cybersecurity: Why More Than One Antivirus Is Unnecessary for Windows PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-learn-to-optimize-google-meet-host-plus-participant-without-spending-a-dime/"><u>[New] 2024 Approved Learn to Optimize Google Meet (Host + Participant) Without Spending a Dime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-mobile-phones-diy-webcam-for-video-recording/"><u>[New] Mastering Mobile Phones DIY Webcam for Video Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[Updated] Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>2024 Approved The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Samsung Galaxy A25 5G.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhanced-user-engagement-with-innovative-cookiebot-solutions/"><u>Enhanced User Engagement with Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/visionary-to-victory-channel-command-school/"><u>From Visionary to Victory Channel Command School</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-windows-event-log-problems/"><u>Guiding Through Windows Event Log Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Ace 3 FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-hardware-analysis-using-windows-widgets/"><u>Insightful Hardware Analysis Using Windows Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/instalwin11nowifi-a-comprehensive-guide/"><u>InstalWin11NoWifi: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/master-task-manager-administration-in-windows-11/"><u>Master Task Manager Administration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/refresh-your-display-three-cleansing-methods/"><u>Refresh Your Display: Three Cleansing Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-login-success-in-epic-launcher-issues/"><u>Securing Login Success in Epic Launcher Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/wave-bye-bye-to-software-efficient-uninstall-methods-for-windows-11-users-123-chars/"><u>Wave Bye Bye to Software: Efficient Uninstall Methods for Windows 11 Users (123 Chars)</u></a></li>
 </ul></div>
 

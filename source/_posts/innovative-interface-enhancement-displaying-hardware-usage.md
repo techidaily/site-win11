@@ -1,7 +1,7 @@
 ---
 title: "Innovative Interface Enhancement: Displaying Hardware Usage"
-date: 2024-11-01T00:18:26.943Z
-updated: 2024-11-07T22:09:26.218Z
+date: 2024-11-11T03:29:25.166Z
+updated: 2024-11-18T04:53:19.532Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
  Task Manager only adds one PC resource usage icon to the system tray, which is a little limited. You can add four separate RAM, CPU, network, and disk usage indicators to the system tray with Performance Monitor. That software also includes customization settings for each icon. Here's how you can add system resource usage information to your system tray with Performance Monitor.
@@ -62,25 +55,11 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
 
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
 
@@ -89,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
@@ -118,11 +91,25 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
 
  You can configure what this system resource panel shows by clicking **Settings** on it. That will bring up a small menu with additional configuration settings. Select and deselect items to include or exclude on the system resource panel there.
 
 ![The settings for System Explorer's system resource panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-for-the-system-explorer-s-system-resource-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
@@ -130,34 +117,24 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## View Your System Resource Usage Info Directly From Your System Tray
 
  It’s always a good idea to keep an eye on CPU and RAM utilization to check you’re not overloading your PC, which impacts system performance. System resource usage details will be much more visible when added to the Windows system tray with Task Manager, Performance Monitor, and System Explorer. To have such computer resource info within the system tray is undoubtedly more convenient for monitoring system resource usage.
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-insta-speedsters-playbook-power-through-video-and-likes-for-2024/"><u>[New] Insta Speedster's Playbook Power Through Video and Likes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-screenshots-and-videos-with-premier-stabilizer-gear/"><u>[New] Streamline Screenshots & Videos with Premier Stabilizer Gear</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-explore-cost-free-professional-cam-screen-recorders/"><u>[Updated] 2024 Approved Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-prime-camera-utilities/"><u>[Updated] IPhone's Prime Camera Utilities</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-microsoft-store-flaw-code-x800704cf/"><u>Confronting Microsoft Store Flaw Code X800704CF</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-error-enable-steam-content-access/"><u>Demystifying Error: Enable Steam Content Access</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-iphone-footage-from-speed-to-extended-muted-visuals/"><u>Enhance Your iPhone Footage From Speed to Extended, Muted Visuals</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-run-commands-past-actions/"><u>How to Restore Run Command's Past Actions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/illuminating-the-ai-realm-upsides-and-downfalls/"><u>Illuminating the AI Realm: Upsides & Downfalls</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-computers-unconscious-state/"><u>Mastering the Art of Computers' Unconscious State</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-creativity-leveraging-chatgpt-for-excellence-in-content/"><u>Maximizing Creativity: Leveraging ChatGPT for Excellence in Content</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-fixing-unresponsive-windows-software-problems/"><u>Preventing and Fixing Unresponsive Windows Software Problems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/prime-strategies-for-constructing-mcc-homes-for-2024/"><u>Prime Strategies for Constructing MCC Homes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Rectifying Microsoft Store Error 0X80073cf3 in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-clearing-your-browsers-tracks-with-microsoft-edge/"><u>Step-by-Step Guide: Clearing Your Browser's Tracks with Microsoft Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unsuccessful-java-setup-on-windows-os/"><u>Tackling Unsuccessful Java Setup on Windows OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-your-ebooks-comprehensive-guide-to-removing-drm-from-epub-files/"><u>Unlocking Your Ebooks: Comprehensive Guide to Removing DRM From EPUB Files</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-blue-screen-errors-via-microsoft-tools/"><u>Unraveling Blue Screen Errors via Microsoft Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-command-line-trick-shutdown-apps-en-mass/"><u>Windows Command Line Trick: Shutdown Apps En Mass</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,3 +143,24 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-the-power-of-your-fb-lives-with-these-picks/"><u>[Updated] Unlock the Power of Your Fb Lives with These Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-s23plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel S23+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-performance-of-stuck-taskbar/"><u>Enhancing Performance of Stuck Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-excellence-windows-11-weather-apps-top-picks/"><u>Exploring Excellence: Windows 11 Weather Apps Top Picks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/fast-track-to-fandom-top-30-engaging-nicknames-for-discord-for-2024/"><u>Fast Track to Fandom Top 30 Engaging Nicknames for Discord for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/formato-de-archivo-gratuito-conversion-rapida-entre-aiff-y-wav-con-movavi/"><u>Formato De Archivo Gratuito: Conversión Rápida Entre AIFF Y WAV Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-luts-for-precision-controlled-image-editing/"><u>Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-magic-5-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Magic 5 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-sfc-tool-with-ease/"><u>Launching Windows SFC Tool with Ease</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/playstation-portable-coming-soon-unveiling-release-timelines-price-points-hardware-info-and-purchase-sites/"><u>PlayStation Portable Coming Soon: Unveiling Release Timelines, Price Points, Hardware Info & Purchase Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-improved-files-transfer-on-windows-11-2/"><u>Strategies for Improved Files Transfer on Windows 11 (2)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-rise-of-the-metaverse-pioneering-companies-at-the-forefront/"><u>The Rise of the Metaverse - Pioneering Companies at the Forefront</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-bring-back-taskbar-alerts/"><u>Tips to Bring Back Taskbar Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-windows-keys/"><u>Troubleshooting Non-Functional Windows Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-onedrive-emblem-from-windows-explorer-interface/"><u>Uninstalling OneDrive Emblem From Windows Explorer Interface</u></a></li>
+</ul></div>
+

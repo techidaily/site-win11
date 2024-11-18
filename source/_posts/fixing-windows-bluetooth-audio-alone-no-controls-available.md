@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Bluetooth Audio Alone - No Controls Available
-date: 2024-11-06T23:55:39.208Z
-updated: 2024-11-07T18:41:55.866Z
+date: 2024-11-12T01:53:49.851Z
+updated: 2024-11-17T19:57:54.662Z
 tags:
   - windows10
   - windows11
@@ -53,23 +53,9 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 ![control printers run box windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/control-printers-run-box-windows.jpg)
 2. Type **control Printer** and click **OK** to open the **Bluetooth & devices** tab in the **Settings** app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Next, click on **Devices**.  
 ![bluetooth and devices devices windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-and-devices-devices-windows-11-settings.jpg)
 4. Scroll down and click **More devices** **and printer settings**. This should open **Devices and Printers** in the Control Panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Alternatively, copy and paste the following in the **Run** dialog to open **Device and Printers**.  
 `shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`
@@ -84,6 +70,13 @@ Remotely Controllable Device`
 
  Close the Control Panel, and your Bluetooth audio device should start to work now. If not, perform a restart and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Check and Enable the Windows Bluetooth Services
 
  Windows OS uses multiple Bluetooth-related services that help it connect to other Bluetooth devices and transmit audio. This is in addition to the services enabled above.
@@ -96,19 +89,20 @@ Remotely Controllable Device`
 2. Type **services.msc** and click **OK** to open the Services snap-in.  
 ![Services Shortcode In Run Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/opening-sevices-from-run_dialog.jpg)
 3. In the Services snap-in, locate the following services and check if the status shows **Running**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Bluetooth Audio Gateway Service  
 Bluetooth Support Service  
 Bluetooth User Support Service`
 4. If not, right-click on **Bluetooth Audio Gateway Service** and select **Restart**.  
 ![restart bluetooth services services snap in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/restart-bluetooth-services-services-snap-in-windows.jpg)
 5. Once done, check the other two services. If not running, restart the services one by one.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Close the Services snap-in and check for any improvements.
 
@@ -122,6 +116,13 @@ Bluetooth User Support Service`
 * **Roll back a recent driver update**: New but buggy driver update can also cause the Bluetooth adapter to act up. To fix the issue, you can [perform a driver rollback for the Bluetooth adapter](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) to install the previous driver version. While a handy option, its availability can differ depending on when the driver was installed.
 * **Reinstall the Bluetooth adapter driver:** A reinstall may be necessary if a corrupt or partially installed driver causes Bluetooth-related problems. To [uninstall Bluetooth drivers in Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/), you can use the Device Manager or the Command Prompt. Restart your PC and Windows should reinstall the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update the Bluetooth Driver Manually From the Manufacturer’s Website
 
  While some driver updates may be available via Windows updates, you will likely receive the latest update from the device manufacturer's website. In this instance, check your Bluetooth device manufacturer's website to see if a new update is available.
@@ -133,6 +134,14 @@ Bluetooth User Support Service`
 3. In Device Manager, expand the **Bluetooth** section. Here locate your Bluetooth device's make. In this instance, we have an **Intel (R) Wireless Bluetooth (R)** device.  
 ![device manager driver version detials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/device-manager-driver-version-detials.jpg)
 4. Double-click on the Bluetooth device entry to open its properties.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, open the **Driver** tab. Note down the Driver version. You’ll need this to see if a newer driver version is available.
 6. Since we have an Intel Bluetooth Wireless device, we’ll open the [Intel Wireless Bluetooth for Windows page](https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html). The page lists the latest version of the driver available for download. In case of a different Bluetooth device manufacturer, visit the manufacturer's website and locate downloads for the device.  
 ![download bluetooth driver manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-bluetooth-driver-manually.jpg)
@@ -141,35 +150,11 @@ Bluetooth User Support Service`
 
  Similarly, the download page may also offer older versions of the driver. If you have the latest version installed, try to download an older version to perform a downgrade. Useful if the rollback driver option isn’t available in Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing the Bluetooth Headset or Speaker Showing a "Voice Only" Error
 
  Incorrect Bluetooth service configuration is a common reason your Bluetooth device shows as connected as voice only. You can configure the device’s properties to enable these services. If the issue persists, check for driver issues by installing a new driver update or performing a driver rollback.
 
  However, if a quick reconnect doesn’t help, the problem may be due to a buggy audio driver, incorrect audio device configuration, and stopped audio services. Here we show you a few troubleshooting tips to help you resolve this problem on Windows and get your Bluetooth headset working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovating-temporal-displacement-effects/"><u>[New] 2024 Approved Innovating Temporal Displacement Effects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>[New] In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamlining-social-media-interactions-tiktok-to-fb-for-2024/"><u>[Updated] Streamlining Social Media Interactions TikTok to FB for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-learning-with-windows-edition-themes/"><u>Enhance Learning with Windows Edition Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-token-access-failure-in-windows-1110/"><u>How to Correct Token Access Failure in Windows 11/10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-13-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 13 mini without Security Questions?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>In 2024, Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-gifs-your-step-by-step-meme-making-journey/"><u>Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-champion-full-analysis/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Champion – Full Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-blank-spaces-in-the-windows-11-search-tool/"><u>Tackling Blank Spaces in the Windows 11 Search Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-power-of-video-endorsements-in-advertising/"><u>The Power of Video Endorsements in Advertising</u></a></li>
-<li><a href="https://win11.techidaily.com/three-steps-for-disabling-windows-store-on-win11/"><u>Three Steps for Disabling Windows Store on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-efficiency-powertoys-guide-to-file-locking/"><u>Unlock Efficiency: PowerToys' Guide to File Locking</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +163,23 @@ Bluetooth User Support Service`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-updated-m-audio-fast-track-driver-supports-win10-7-8-and-81-systems/"><u>Download the Updated M-Audio FAST Track Driver – Supports Win10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-trigger-windows-update-refresh/"><u>Effective Techniques to Trigger Windows Update Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-ways-to-bypass-windows-11-tpm-lock/"><u>Efficient Ways to Bypass Windows 11 TPM Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-23-in-apex-legends-demystified-the-ultimate-fix-guide/"><u>Error Code 23 in Apex Legends Demystified: The Ultimate Fix Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-10-secrets-from-pros-for-stellar-youtubers-music-videos/"><u>In 2024, Top 10 Secrets From Pros for Stellar Youtubers' Music Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-swift-solutions-to-handle-failed-usb-connection-in-virtulbox/"><u>Masterclass: Swift Solutions to Handle Failed USB Connection in VirtulBox</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-googles-press-highlights/"><u>Navigating Through Google's Press Highlights</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-windows-peak-enthusiasm-slump-effectively/"><u>Reversing Windows' Peak Enthusiasm Slump Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-13-strategies-for-system-recovery/"><u>Reviving Windows: 13 Strategies for System Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-passage-in-windows-11-skip-these-8-missteps/"><u>Safe Passage in Windows 11: Skip These 8 Missteps</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/ultimate-solutions-for-word-document-retrieval-expert-tutorials-and-reviews/"><u>Ultimate Solutions for Word Document Retrieval: Expert Tutorials and Reviews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-6-pros-that-make-win11-excel/"><u>Unveiling the 6 Pros That Make Win11 Excel</u></a></li>
+</ul></div>
+

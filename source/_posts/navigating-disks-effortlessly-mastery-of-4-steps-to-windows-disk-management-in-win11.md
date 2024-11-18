@@ -1,7 +1,7 @@
 ---
 title: "Navigating Disks Effortlessly: Mastery of 4 Steps to Windows Disk Management in Win11"
-date: 2024-11-03T18:09:39.993Z
-updated: 2024-11-07T22:57:53.743Z
+date: 2024-11-14T07:17:21.816Z
+updated: 2024-11-18T04:46:14.869Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Windows Disk Management?
 
  Disk Management is a built-in system utility that lets you perform advanced storage-related tasks like creating or formatting a hard disk partition, resizing a partition by extending or shrinking the volume, and initializing the volume.
@@ -52,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -77,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -86,20 +86,13 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -114,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
  While we listed only four methods here, Windows offers more options to open Disk Management. For instance, you can type **diskmgmt** and hit **Enter** in Command Prompt or Windows PowerShell to launch Disk Management. You can also find Disk Management in the Computer Management app on Windows.
@@ -122,20 +122,6 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-gain-extensive-engagement-master-the-view-multiplier/"><u>[New] In 2024, Gain Extensive Engagement Master the View Multiplier</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-formula-for-a-high-ranking-online-persona/"><u>[New] In 2024, The Formula for a High-Ranking Online Persona</u></a></li>
-<li><a href="https://win-guides.techidaily.com/daftar-langkah-jelajah-windows-memfasilitasi-perpindahan-folder-antara-komputer-dalam-beberapa-tik-amal/"><u>Daftar Langkah Jelajah Windows: Memfasilitasi Perpindahan Folder Antara Komputer Dalam Beberapa Tik Amal</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-top-ranked-notetaking-software-picks-of-2024/"><u>Discover the Top-Ranked Notetaking Software Picks of 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-why-virtual-reality-lack-of-content-2023-update/"><u>In 2024, Why Virtual Reality Lack of Content? -2023 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/lockdown-windows-7-ways-to-secure-your-system/"><u>Lockdown Windows: 7 Ways to Secure Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-productivity-paste-and-jump-tutorials/"><u>Maximizing Productivity: Paste & Jump Tutorials</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-obs-error-in-windows-11-during-streaming/"><u>Resolving OBS Error in Windows 11 During Streaming</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-winerror-misplaced-settings-in-file-history/"><u>Solving WinError: Misplaced Settings in File History</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -143,3 +129,27 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>[New] High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-seamless-streams-addressing-instagrams-video-snags/"><u>[New] Seamless Streams Addressing Instagram's Video Snags</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-spectacle-of-speed-simulators-top-5/"><u>[Updated] 2024 Approved Spectacle of Speed Simulators (Top 5)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-gaming-income-optimization-tips-for-2024/"><u>[Updated] Gaming Income Optimization Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-windows-registrations-to-microsoft-services/"><u>Connecting Windows Registrations to Microsoft Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-techniques-integrating-chatgpt-into-3d-printing-workflows/"><u>Cutting-Edge Techniques: Integrating ChatGPT Into 3D Printing Workflows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/deep-dive-into-apps-with-az-recorder-for-2024/"><u>Deep Dive Into Apps with AZ Recorder for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-experience-conquer-stuttering-in-warhammer-40k/"><u>Elevate Your Gaming Experience: Conquer Stuttering in Warhammer 40K</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-a-desktop-widget-walkthrough/"><u>Making the Most of Windows 11: A Desktop Widget Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-optimization-essential-techniques-for-your-windows-system/"><u>Mastering Optimization: Essential Techniques for Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-common-snip-and-sketch-screen-capture-issues/"><u>Navigate Through Common Snip & Sketch Screen Capture Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-common-errors-conquering-access-denied-on-windows-11/"><u>Navigating Common Errors: Conquering 'Access Denied' On Windows 11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-perfect-match-top-7-daws-tailored-to-guitarists-recording-and-playback-needs/"><u>New In 2024, The Perfect Match Top 7 DAWs Tailored to Guitarists Recording and Playback Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-rescuing-non-transferring-usbs-in-windows/"><u>Strategies for Rescuing Non-Transferring USBs in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-of-uac-picture-taking/"><u>Streamlining the Process of UAC Picture Taking</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-locate-the-wolf-whistle-ambiance-for-2024/"><u>Updated Locate the Wolf Whistle Ambiance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-os-troubleshooting-guide-for-bluetooth-pairing-woes/"><u>Win OS Troubleshooting Guide for Bluetooth Pairing Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-design-customization-stick-this-pc-icons/"><u>Windows Design Customization: Stick 'This PC' Icons</u></a></li>
+</ul></div>
+

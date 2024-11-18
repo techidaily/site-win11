@@ -1,7 +1,7 @@
 ---
 title: What to Do When You’re Unable to Download Any Files on a Windows 10 & 11
-date: 2024-11-06T16:45:00.060Z
-updated: 2024-11-07T17:55:49.511Z
+date: 2024-11-17T04:32:47.474Z
+updated: 2024-11-17T19:57:00.919Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -68,22 +68,17 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -97,18 +92,25 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
@@ -119,13 +121,20 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -140,14 +149,20 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Reset** inside the confirmation prompt.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
 
@@ -157,26 +172,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Download Files Again on Your Windows PC
 
  Those potential resolutions will address most of the possible causes for your Windows browsers not downloading files when there’s nothing wrong with your internet connection. Go through all those troubleshooting methods to find one that fixes files not downloading on your PC.
@@ -185,19 +180,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-digital-collage-creator-8x/"><u>[New] Ultimate Digital Collage Creator 8X</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-intel-unison-to-work-again-on-windows-11/"><u>Getting Intel Unison to Work Again on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-without-credentials-win-11s-secure-remote-desktop/"><u>Navigate Without Credentials: Win 11'S Secure Remote Desktop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-navigating-the-internet-archives-wayback-machine/"><u>Ultimate Guide: Navigating the Internet Archive's Wayback Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-fixing-a-livekernelevent-117-glitch/"><u>Unraveling the Mystery Behind Fixing a LiveKernelEvent 117 Glitch</u></a></li>
-<li><a href="https://win11.techidaily.com/unwanted-link-print-screen-plus-snipping-tool-on-windows-11/"><u>Unwanted Link: Print Screen + Snipping Tool on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/using-ports-without-built-in-pc-graphics-hardware/"><u>Using Ports Without Built-In PC Graphics Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-claude-over-chatgpt-unveiling-4-benefits-for-users-and-developers/"><u>Why Choose Claude Over ChatGPT? Unveiling 4 Benefits for Users and Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-the-ultimate-guide-to-video-coders/"><u>Windows: The Ultimate Guide to Video Coders</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -205,3 +187,25 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-master-your-mobile-communications-skype-and-zoom-on-android/"><u>[New] 2024 Approved Master Your Mobile Communications Skype & Zoom on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blending-pictures-into-a-single-storyboard-image/"><u>[New] Blending Pictures Into a Single Storyboard Image</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>[Updated] Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-camera-brands-for-future-musical-video-production/"><u>[Updated] Top Camera Brands for Future Musical Video Production</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-your-screens-the-benefits-of-using-showmore/"><u>2024 Approved Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>2024 Approved The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-runtime-broker-its-role-in-software-dynamics/"><u>Dissecting Runtime Broker: Its Role in Software Dynamics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-steps-changing-your-kindle-paperwhites-system-clock-settings/"><u>Effortless Steps: Changing Your Kindle Paperwhite's System Clock Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-running-csgo-w11/"><u>Essential Steps for Running CS:GO W11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-fix-null-sound-driver-on-pcs/"><u>Guidelines to Fix Null Sound Driver on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-w11-desktop-tips-for-a-neat-space/"><u>Maximizing W11 Desktop: Tips for a Neat Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-connectivity-issues-on-switch/"><u>Navigating Connectivity Issues on Switch</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-filesystem-grouped-folders-made-simple-in-win11plus11/"><u>Optimize Your Filesystem: Grouped Folders Made Simple in Win11+11</u></a></li>
+<li><a href="https://win11.techidaily.com/quenching-the-machine-writes-of-rest/"><u>Quenching the Machine' Writes of Rest</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2648035-9780752492599-shadows-on-the-sea/"><u>Shadows on the Sea | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-walkthrough-engaging-windows-11-phones-via-intel-unison/"><u>The Complete Walkthrough: Engaging Windows 11 Phones via Intel Unison</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-issues-with-non-signed-updates-in-ws11w10/"><u>Unlocking Issues with Non-Signed Updates in WS11/W10</u></a></li>
+</ul></div>
+

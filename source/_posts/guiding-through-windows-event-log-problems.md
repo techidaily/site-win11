@@ -1,7 +1,7 @@
 ---
 title: Guiding Through Windows Event Log Problems
-date: 2024-11-06T20:21:21.267Z
-updated: 2024-11-07T20:28:48.293Z
+date: 2024-11-10T22:21:42.075Z
+updated: 2024-11-18T04:09:09.429Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
@@ -60,28 +60,34 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 4. Click on **Download & install** to install any critical Windows updates available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Try Some Generic Troubleshooting Steps to Get Event Viewer Working
 
  If the issue persists, this may be an issue with a recently installed Windows update, corrupt system files, and a problematic memory stick. Here are a few tips to try and resolve issues associated with the Windows Event Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Perform a System Restore
 
  A restore point saves a copy of your system’s working image. Depending on your System Protection settings, you can use the [existing restore point to restore the system](https://www.makeuseof.com/use-system-restore-windows/) and undo system changes caused by an update or the user.
 
  Start with the most recent restore point available. If the problem persists, check if you can undo the most recently installed Windows update. You can also [manually uninstall Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) from the Settings app.
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check for System File Corruption
 
@@ -95,18 +101,18 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
  If your Event Viewer cannot load the log files, check if the action is blocked by Windows Defender. To determine the problem, [temporarily disable Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) on Windows 11 and then try to open the log files in Event Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check for Memory Leak Issues
 
  Issues with your system memory are another reason why the Event Viewer app is not working. Fortunately, Windows has a built-in [Memory Diagnostic tool to scan and detect issues with your system memory](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
  Often issues with the system memory may be due to faulty hardware. However, it is recommended to run more tests using the Memory Diagnostic tool report to get more insights into the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Perform a Windows Installation Repair
 
@@ -122,24 +128,6 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-innovating-with-snapchats-new-highlight-feature/"><u>[New] 2024 Approved Innovating with Snapchat's New Highlight Feature</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[New] Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[Updated] In 2024, Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-timing-your-podcast-release-effectively/"><u>2024 Approved Timing Your Podcast Release Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-enhanced-settings-in-windows-11/"><u>Deciphering Enhanced Settings in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-windows-11s-rapid-support-feature/"><u>Launching Windows 11'S Rapid Support Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-max-and-min-cpu-indicators-on-windows/"><u>Mastery of Max & Min CPU Indicators on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-price-on-the-hp-victus-15-for-gamers-only-515-with-best-buys-exclusive-prime-day-deal-smart-tech-advice-by-zdnet/"><u>Score an Unbeatable Price on the HP Victus 15 for Gamers - Only $515 with Best Buy's Exclusive Prime Day Deal | Smart Tech Advice by ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-common-windows-11-zoom-problems-code-1132/"><u>Solving Common Windows 11 Zoom Problems: Code 1132</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +135,19 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-perfect-ringtone-for-your-ios-device/"><u>[New] Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-poker-professional-panelisms/"><u>[New] In 2024, POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/13-ways-to-fix-spotify-not-working-on-android-auto/"><u>13 Ways to Fix Spotify Not Working on Android Auto</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-differences-between-ipad-pro-and-macbook-pro-devices/"><u>Exploring the Differences Between iPad Pro and MacBook Pro Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-compatibility-issues-tool-accessible-via-clipboard-menu/"><u>Fix Compatibility Issues: Tool Accessible Via Clipboard Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-double-click-opener-techniques-for-w11w10-folders/"><u>Mastering Double-Click Opener Techniques for W11/W10 Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-menus-eliminate-show-more-from-win-11/"><u>Mastering Menus: Eliminate Show More From Win 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/obs-live-video-to-insta-platform-for-2024/"><u>OBS Live Video to Insta Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-device-not-reachable-error-in-windows-steps-and-tips/"><u>Solving Device Not Reachable Error in Windows: Steps & Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-shades-a-guide-to-paints-dark-mode/"><u>Switching Shades: A Guide to Paint's Dark Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
+</ul></div>
+

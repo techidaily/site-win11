@@ -1,7 +1,7 @@
 ---
 title: Unblocking Battle.net Login Problems in Windows Environment
-date: 2024-11-06T17:43:40.185Z
-updated: 2024-11-07T22:35:40.987Z
+date: 2024-11-14T08:46:21.804Z
+updated: 2024-11-18T00:23:45.437Z
 tags:
   - windows10
   - windows11
@@ -49,6 +49,14 @@ This is how you can erase those folders in Windows 11/10:
 3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
 ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
 6. Try opening Battle.net again.
@@ -72,10 +80,10 @@ This is how you can erase those folders in Windows 11/10:
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off the Windows Defender Firewall
@@ -86,20 +94,22 @@ This is how you can erase those folders in Windows 11/10:
 2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
 3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try opening Battle.net again with the firewall disabled.
@@ -111,6 +121,13 @@ This is how you can erase those folders in Windows 11/10:
  Some third-party antivirus and firewall software can also block Battle.net from running. Antivirus utilities sometimes wrongly identify legitimate programs to be malware. So, temporarily disable third-party antivirus tools or firewalls before selecting to launch Battle.net if you don’t want to uninstall anything.
 
  You can usually find options for disabling third-party antivirus software on their context menus. So, right-click an antivirus icon in the system tray and look for an option to disable or turn off its shield on the menu that opens. If that works, you’ll know what’s causing the issue. Whitelist Battle.net in your antivirus tool’s exclusion settings.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable the Proxy Server
 
@@ -124,31 +141,10 @@ This is how you can erase those folders in Windows 11/10:
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/LAN-settings-button.jpg)
 6. Uncheck (deselect) the**Use a proxy server** option if its checkbox is selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Set Windows 11/10 to Clean Boot
 
@@ -167,10 +163,10 @@ This is how you can erase those folders in Windows 11/10:
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Blizzard Battle.net Games Again
@@ -194,18 +190,16 @@ This is how you can erase those folders in Windows 11/10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nsuring-accurate-earnings-tracking-for-creators-for-2024/"><u>[New] Ensuring Accurate Earnings Tracking for Creators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eradicated-muted-video-entries-shorts/"><u>[New] In 2024, Eradicated Muted Video Entries (Shorts)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mocroscreen-recording-ads/"><u>[Updated] 2024 Approved MocroScreen Recording Ads</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210670779-9798218075217-12-ancient-doorways-to-freedom/"><u>12 Ancient Doorways to Freedom | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comparing-windows-snipping-tool-and-printscreen/"><u>Comparing Windows Snipping Tool and PrintScreen</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-error-messages-for-startup-services-on-windows/"><u>Deciphering Error Messages for Startup Services on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-40-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 40 Pro? Try These Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-100s-system-drivers-update-made-easy-quick-and-effective-steps/"><u>Lenovo 100S System Drivers Update Made Easy: Quick and Effective Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/optimal-obs-configuration-for-budget-pcs-for-2024/"><u>Optimal OBS Configuration for Budget PCs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-free-notes-on-win11-anywhere/"><u>Quick and Free Notes on Win11 Anywhere</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-through-time-finding-ancient-elements-in-modern-11/"><u>Windows Through Time: Finding Ancient Elements in Modern 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-master-video-creation-understanding-the-role-of-camera-lenses-in-vlogging/"><u>2024 Approved Master Video Creation Understanding the Role of Camera Lenses in Vlogging</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ices-navigational-guide-on-youtube-channel-creation-and-making-dough-for-2024/"><u>A Novice's Navigational Guide on YouTube Channel Creation and Making Dough for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-wsl-operation-post-windows-11-shift/"><u>Ensuring Smooth WSL Operation Post-Windows 11 Shift</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-amplifi-hds-mesh-technology-eradicates-dead-zones-in-your-wireless-internet-experience/"><u>How Amplifi HD's Mesh Technology Eradicates Dead Zones in Your Wireless Internet Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-haste-in-videos-with-top-apps-android/"><u>In 2024, Hasten Haste in Videos with Top Apps, Android</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-voice-recorders-with-precision-using-shortcuts-in-win-11/"><u>Navigate Voice Recorders with Precision Using Shortcuts in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-your-pcs-missing-windows-update-service/"><u>Restoring Your PC's Missing Windows Update Service</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-repository-adding-meaning-through-labels/"><u>Revolutionize Your Repository: Adding Meaning Through Labels</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-smoothly-into-bg3-gaming-via-apples-crossover-software/"><u>Transition Smoothly Into BG3 Gaming via Apple's Crossover Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows 11 & GeForce Now’s Error Code Xc0f1103f
-date: 2024-10-31T18:26:16.393Z
-updated: 2024-11-07T17:22:44.792Z
+date: 2024-11-16T20:03:38.021Z
+updated: 2024-11-18T02:53:03.306Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 
  You’ll need to upgrade your PC if it doesn’t match a system requirement. Desktop users can add new graphics adapters or even processors to their PCs if required. If your PC does indeed match all the GeForce Now requirements, proceed with the troubleshooting below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Double-Check if GeForce Now’s Servers Are Operational
 
  This error can occur because the GeForce Now server is down. For example, the server could be down for maintenance. You can check the service status for various regions on the[GeForce Now service status](https://status.geforcenow.com/) page. If a server for your region is down, wait until the service is operational again before opening the GeForce Now app again.
@@ -54,13 +47,20 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-as-adminstrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select a Power Saving GPU for the GeForce Now App
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for[updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Restart All NVIDIA-Related Services
 
  This GeForceNow error can occur because certain NVIDIA certain services are not running or need restarting. You can fix that by going through and restarting (or starting) all NVIDIA services as follows:
@@ -94,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 4. Right-click every NVIDIA-related service you can see and select**Restart** . If an NVIDIA service isn’t already running, select the**Start** option for it instead.  
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Any Active Proxy Servers
 
  Do you have a proxy server on your PC? If so, that could be causing the 0xc0f1103f error by generating a server issue. So, try disabling your proxy server on Windows via Settings or the Control Panel. Our article about[disabling your proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes instructions for how to do so.
@@ -108,10 +108,17 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
@@ -126,26 +133,13 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 ![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
 5. Then select the**Disconnect** option for the VPN.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Open GeForce Now and try playing some games with the VPN disconnected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall GeForce Now
@@ -164,16 +158,10 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 7. Then go through the setup wizard steps to reinstall GeForce Now.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play GeForce Now Games on Windows Again
@@ -195,24 +183,24 @@ thumbnail: https://thmb.techidaily.com/a1aef9ac34b30a9b89c44b4090cc093f70a661d81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-shadowy-time-lapse-recording-methods/"><u>[New] Shadowy Time-Lapse Recording Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-your-zoom-sessions-utilizing-filters-effectively/"><u>[Updated] In 2024, Elevate Your Zoom Sessions Utilizing Filters Effectively</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unlocking-the-secrets-to-building-trust-with-fb-giveaways/"><u>2024 Approved Unlocking the Secrets to Building Trust with FB Giveaways</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-critical-error-handling-hal-initialization-failure-stop-0x0000005c/"><u>Fixing the Critical Error: Handling HAL Initialization Failure (STOP 0X0000005C)</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-error-of-invalid-onedrive-blob-tag-presence/"><u>Fixing the Error of Invalid OneDrive Blob Tag Presence</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ga-den-basta-gratis-brandprogramvaran-top-6-for-windows-1087/"><u>Gå Den Bästa Gratis Brändprogramvaran - Top 6 För Windows 10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-the-reset-account-lockout-counter-after-failed-logon-attempts-in-windows-11-and-11/"><u>How to Change the Reset Account Lockout Counter After Failed Logon Attempts in Windows 11 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-ditch-input-lag-top-fixes-for-faster-typing-on-microsoft-os/"><u>How to Ditch Input Lag: Top Fixes for Faster Typing on Microsoft OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y100i Phone with Broken Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-microsoft-store-themes-a-step-by-step-approach/"><u>Implementing Microsoft Store Themes: A Step-by-Step Approach</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g73-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G73 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/insights-on-ignoring-notifications-risks-of-silencing-wins-11/"><u>Insights on Ignoring Notifications: Risks of Silencing Wins 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-ms-paint-windows-11s-toolbox/"><u>Navigating to MS Paint, Windows 11'S Toolbox</u></a></li>
-<li><a href="https://win11.techidaily.com/open-local-group-policy-quick-and-secure-methods-on-win11/"><u>Open Local Group Policy: Quick and Secure Methods on Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-microphone-and-headset-non-detection-problems-on-windows-10-8-and-7/"><u>Resolving Microphone & Headset Non-Detection Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-winerror-0xc0000005-in-windows-systems/"><u>Resolving WinError 0Xc0000005 in Windows Systems</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restoring-accidentally-deleted-documents-from-the-recycle-bin-on-windows-11windows-7/"><u>Restoring Accidentally Deleted Documents From the Recycle Bin on Windows 11/Windows 7</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-shift-of-heic-photos-to-jpeg-format/"><u>Seamless Shift of HEIC Photos to JPEG Format</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-typing-with-bing-ai-on-android-an-easy-guide-to-implementation/"><u>Transforming Typing with Bing AI on Android: An Easy Guide to Implementation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-raw-footage-to-broadcast-gold-twitch-recording-techniques/"><u>[Updated] 2024 Approved From Raw Footage to Broadcast Gold Twitch Recording Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-mp4-to-mp3-conversion-tools-of-202/"><u>Best MP4 to MP3 Conversion Tools of 202</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/compress-videos-by-upgrading-from-h264-to-h265-with-zero-loss-in-quality-and-reduced-file-dimensions/"><u>Compress Videos by Upgrading From H.264 To H.2#65 With Zero Loss in Quality and Reduced File Dimensions</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-playstation-1-triumph-winning-tips-for-gaming-pcs-duckstations-approach/"><u>Decoding PlayStation 1 Triumph: Winning Tips for Gaming PCs - Duckstation’s Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-disconnects-and-delays-on-windows-discord/"><u>Decreasing Disconnects & Delays on Windows Discord</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-fix-in-depth-tutorial-on-resolving-intel-dynamic-platform-and-thermal-framework-driver-problems/"><u>Effortless Fix: In-Depth Tutorial on Resolving Intel Dynamic Platform & Thermal Framework Driver Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/gaining-superior-access-in-windows-settings-room/"><u>Gaining Superior Access in Windows Settings Room</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-saving-space-with-efficient-hd-video-downloads-from-fb/"><u>In 2024, Saving Space with Efficient HD Video Downloads From FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-insta-exiting-a-step-by-step-guide/"><u>Mastering Insta Exiting A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11s-sound-control-panel/"><u>Mastering Windows 11'S Sound Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-telecommunication-win-1011-telnet-methods/"><u>Mastery in Telecommunication: Win 10/11 Telnet Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-pearson-alliance-for-optimized-filtering-techniques/"><u>Mondly-Pearson Alliance for Optimized Filtering Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-best-windows-10-deals-and-product-keys/"><u>Navigating Best Windows 10 Deals & Product Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-functional-bluetooth-mouse-on-windows-pcs/"><u>Tackling Non-Functional Bluetooth Mouse on Windows PCs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reedom-of-filmmaking-top-android-video-editing-apps-for-2024/"><u>The Freedom of Filmmaking Top Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-bands-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Bands - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ms-store-programs-on-windows-11-with-ease/"><u>Unlocking MS Store Programs on Windows 11 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0x80071a90-in-windows/"><u>Unraveling Error Code 0X80071A90 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-against-constant-c-drive-consumption/"><u>Winning Strategies Against Constant C: Drive Consumption</u></a></li>
 </ul></div>
 

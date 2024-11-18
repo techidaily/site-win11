@@ -1,7 +1,7 @@
 ---
 title: "ビデオのグレースケール変換入門: すべてに役立つ白黒化方法"
-date: 2024-09-10 21:40:58
-updated: 2024-09-11 12:36:49
+date: 2024-11-17T02:23:18.299Z
+updated: 2024-11-17T20:23:41.317Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b4810305a265213fc94683f22a3e9.jpg
@@ -28,6 +28,13 @@ Quick Navigation:
 * [FAQs of Removing Audio from a Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [The Bottom Line](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Remove Audio from Videos on Windows?
 
 [WonderFox HD Video Converter Factory Pro](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) is a professional video converter for Windows with handy editing, recording, and downloading features. Using its simple video editor, you can easily remove audio from videos like MP4, MKV, MOV, AVI, and WebM. You have two options: mute the audio or remove the soundtrack. No matter which method you use, you can complete the task with several mouse clicks.
@@ -44,6 +51,13 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
@@ -57,6 +71,20 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 **Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
 
 ![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
 
@@ -97,6 +125,13 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### • Google Photos
 
 Google Photos is the home for all your photos and videos automatically organized and easy to share. The app is pre-installed on most Android phones, while iPhone and iPad users can download it from the App Store. With this app, you can mute, trim, crop, rotate, add a filter and effect, or export a still from your video.
@@ -124,6 +159,13 @@ How to remove background audio from a video with InShot:
 **Step 6.** Finally, click the “SAVE” button to save the video.
 
 ![Remove Original Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-7.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Remove Audio from Video Online?
 
@@ -178,6 +220,13 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q2\. How do I remove a specific audio track from a video?
 
 Firstly, import your video into the editing software and separate the audio from the video. Then, select and delete the audio track you want to remove.
@@ -215,13 +264,18 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -229,3 +283,27 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-bur-background-in-google-meet-for-2024/"><u>[Updated] How to Bur Background in Google Meet for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-deciphering-digital-self-identity-the-insta-selfie-guide/"><u>[Updated] In 2024, Deciphering Digital Self-Identity The Insta Selfie Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-optimize-your-watch-time-on-instagram-videos-for-2024/"><u>[Updated] Optimize Your Watch Time on Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-podcasts-peak-listening-times/"><u>2024 Approved Unveiling Podcasts Peak Listening Times</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-simplifying-pc-interaction-via-windows-narrators-shortcuts/"><u>Expert Guide to Simplifying PC Interaction via Windows Narrator's Shortcuts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-upgrade-to-windows-11-step-by-step-instructions-and-tips/"><u>Free Upgrade to Windows 11: Step-by-Step Instructions and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resolving-unreachable-launcher-issue-on-pc/"><u>Guide to Resolving Unreachable Launcher Issue on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-chrome-file-download-malfunction-on-windows-computers/"><u>Guiding Through Chrome File Download Malfunction on Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-decrease-microsoft-edges-background-usage/"><u>How to Decrease Microsoft Edge's Background Usage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6s</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-rituals-mastering-windows-top-8-reboot-routines/"><u>Resetting Rituals: Mastering Windows' Top 8 Reboot Routines</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-preventing-vscode-freeze-on-w11/"><u>Solutions for Preventing VSCode Freeze on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-your-windows-11-account-lost-pin-recovery/"><u>Steps to Regain Your Windows 11 Account: Lost PIN Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-windows-activation-error-0x803f700f/"><u>Strategies for Overcoming Windows Activation Error: 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/toggle-visibility-for-folder-in-windows-explorer-version-11/"><u>Toggle Visibility for Folder in Windows Explorer, Version 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo A78 5G? | Dr.fone</u></a></li>
+</ul></div>
+

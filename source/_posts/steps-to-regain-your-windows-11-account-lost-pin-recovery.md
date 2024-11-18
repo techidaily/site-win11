@@ -1,7 +1,7 @@
 ---
 title: "Steps to Regain Your Windows 11 Account: Lost PIN Recovery"
-date: 2024-11-03T20:22:50.343Z
-updated: 2024-11-07T17:02:58.206Z
+date: 2024-11-17T08:51:27.577Z
+updated: 2024-11-18T05:28:57.472Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/b4a905fd890aa115ceaae449b319ec44a08a343a1
 
  To test your new PIN, press**Win + L** to lock your screen. Next, enter the new PIN in the login screen to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What If I Don't Remember My Account Password?
 
  If you have forgotten your account password, you can reset it from the sign-in screen by answering the security questions for your account.
@@ -71,6 +78,14 @@ To reset your user account password:
 3. Next, click on the**Reset Password** option. This will open the reset password dialog.  
 ![reset password lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-password-lock-screen.jpg)
 4. Next, you need to answer the three security questions and press**Enter** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. When successful, Windows will ask you to enter your new password. So, enter your new password and confirm the same. Press enter to save the password.
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
@@ -90,45 +105,33 @@ To delete your NGC folder:
 3. Click on**View > Show** and select**Hidden Items** . Make sure Hidden Item option has a check mark.  
 ![show hidden item file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-hidden-item-file-explorer.jpg)
 4. Next, navigate to the following path:  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
 5. Next, right-click on the**Ngc** folder and select**Delete** . Click on**Delete** again to confirm the action.
 
  If you see the**You need permission to perform this action** prompt, you'll need to[take the folder ownership on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) to delete the folder. After taking ownership, try to delete the Ngc folder again, and you should be able to fix the error. Once done, you can set up a new PIN from the sign-in options in the Settings app.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall Windows Updates
 
 ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
  There are[many ways to uninstall updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) , including from the Settings app and Windows Recovery Environment. If you are unable to sign in using a password, you can use the Windows Recovery Environment method to uninstall Windows updates.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Perform a System Restore Using Restore Point
 
@@ -144,6 +147,19 @@ To delete your NGC folder:
 4. Next, select**Advanced options** .
 5. Click on**System Restore.**  
 ![choose an option windows recovery environment advanced options system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-system-restore-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, your system will restart in the**System Restore** environment.  
 ![system restore windows recovery environment 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/system-restore-windows-recovery-environment-1.jpg)
@@ -163,22 +179,15 @@ To delete your NGC folder:
 3. Click on**Startup Repair** . Windows will start diagnosing your PC and repair any issues with the startup files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform a System Reset
 
 ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A system reset helps you reset your computer to its factory default removing all the system settings and configuration, including login credentials.
 
@@ -192,13 +201,6 @@ To perform a system reset:
 4. Under **Choose an option, you can choose to keep or remove your files** . Confirm the option to reset your PC.
 
  If you are unable to sign in, follow this guide to[factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restore the PIN Sign-in Functionality on Windows 11
 
@@ -219,16 +221,20 @@ To perform a system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[New] 2024 Approved Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-guidelines-for-breaking-through-cover-art/"><u>[Updated] Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
-<li><a href="https://win11.techidaily.com/detailed-guide-customizing-local-gpos-for-individual-users/"><u>Detailed Guide: Customizing Local GPOs for Individual Users</u></a></li>
-<li><a href="https://win11.techidaily.com/eschew-premature-edge-tab-activation-win11-style/"><u>Eschew Premature Edge Tab Activation, Win11 Style</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-pixlr-upgrades-for-enhanced-results/"><u>Essential Pixlr Upgrades for Enhanced Results</u></a></li>
-<li><a href="https://network-issues.techidaily.com/halting-windows-flickering-on-monitor/"><u>Halting Windows Flickering on Monitor</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-8t-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 8T</u></a></li>
-<li><a href="https://win11.techidaily.com/realignment-of-windows-11-default-search-settings/"><u>Realignment of Windows 11 Default Search Settings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-device-drivers-that-fail-to-function-on-windows-11/"><u>Troubleshooting Device Drivers that Fail to Function on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-websites-refusing-entry-solutions-for-windows-users/"><u>Fixed Websites Refusing Entry: Solutions for Windows Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-expert-dj-tools-for-windows/"><u>In 2024, Expert DJ Tools for Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-virtual-space-insights-into-vr-cinema/"><u>In 2024, Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-to-reel-success-on-instagram/"><u>In 2024, Step-by-Step to Reel Success on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-voice-memo-mastery-for-ios-users-step-by-step/"><u>In 2024, Voice Memo Mastery for iOS Users Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/live-stream-success-the-art-of-capturing-gameplays-via-intelligence/"><u>Live Stream Success: The Art of Capturing Gameplays via Intelligence</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-pc-builds-and-upgrades-with-toms-expertise/"><u>Mastering PC Builds and Upgrades with Tom's Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-reinitializing-windows-updates/"><u>Quick Guide to Reinitializing Windows Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-astro-a20-microphone-failures-easily-and-quickly/"><u>Resolve Astro A20 Microphone Failures Easily and Quickly</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/skyward-windows-outshining-the-11-ecosystem/"><u>Skyward Windows: Outshining the 11 Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-app-starts-with-missing-qt-plugins/"><u>Troubleshooting App Starts with Missing Qt Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-worlds-how-to-incorporate-apple-maps-into-windows/"><u>Uniting Worlds: How to Incorporate Apple Maps Into Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocabulary-voyage-comparing-cockney-chatter-to-aussie-buzzwords/"><u>Vocabulary Voyage: Comparing Cockney Chatter to Aussie Buzzwords</u></a></li>
 </ul></div>
 

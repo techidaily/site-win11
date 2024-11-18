@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Identifying 5 Unexpected UI Shifts"
-date: 2024-10-31T18:36:09.855Z
-updated: 2024-11-07T19:19:13.514Z
+date: 2024-11-12T21:52:34.540Z
+updated: 2024-11-18T04:41:27.010Z
 tags:
   - windows10
   - windows11
@@ -37,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
  Still, let's have a look at the more noticeable design flaws present in Windows 11.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. An Outdated Control Panel
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
@@ -72,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 ![screenshot of the windows 11 taskbar showing context menu differences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_taskbar_context_menu_differences.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The taskbar is full of some interesting quirks. First, the context menu will appear slightly differently depending on if you're right-clicking the taskbar, an icon, or a system icon. Additionally, the flyouts for different system menus can adhere to different spacing, sizing, or brush coloration.
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
@@ -80,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 ![screenshot of windows 11 control panel and task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_control_panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When Windows 11 is set to dark mode, many default apps don't care.
 
  Elements such as the control panel, the task manager, troubleshooting apps and more have no dark mode equivalent. They will continue to display a bright white color scheme, clashing against the rest of your system.
 
  This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Settings Is a Mess
 
@@ -108,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
@@ -122,15 +116,22 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
  Right-clicking on a taskbar icon will produce yet a different looking context menu. Even more, depending on your version of Windows 11, you can see a different context menu in the file explorer and even on different desktop icons.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. On-Screen Keyboard
 
 ![screenshot of the windows 11 on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_onscreen_keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In an interesting inverse to the rest of the UI inconsistencies, the on-screen keyboard actually sticks to a dark theme even if you've selected a light theme.
@@ -138,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
  There's another layer to this inconsistency, though. The window header itself uses spacing and design principles from Windows 10 while ignoring the system theme and always appearing in light mode.
 
  So you have a light mode header clashing with the dark mode program, neither of which supports light or dark mode to begin with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 11 Could Use Some Tidying Up
 
@@ -167,21 +161,22 @@ thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d139
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-introducing-motion-blur-magic-in-your-iphone-photos-for-2024/"><u>[New] Introducing Motion-Blur Magic in Your iPhone Photos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-funniest-punchlines-reddit-vs-twitter-memes/"><u>[Updated] In 2024, Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-superior-screen-reporter-optimal-chromebook-choice/"><u>[Updated] In 2024, Superior Screen Reporter Optimal Chromebook Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-typical-rainmeter-setbacks-a-step-by-step-approach/"><u>Conquering Typical Rainmeter Setbacks: A Step-by-Step Approach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-gaming-excellence-with-the-just-released-asus-rog-ally-x-laptop/"><u>Experience Gaming Excellence with the Just-Released ASUS ROG Ally X Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-the-missing-picture-in-teams/"><u>Fix the Missing Picture in Teams</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/groundbreaking-software-aiding-vocabulary-building/"><u>Groundbreaking Software Aiding Vocabulary Building</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-flawless-flow-from-tiktok-creations-to-twitter-broadcasting/"><u>In 2024, Flawless Flow From TikTok Creations to Twitter Broadcasting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>In 2024, Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-depth-assessment-photo-editing-tool-for-creatives/"><u>In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-youtube-studio-ultimate-video-edits-techniques-for-2024/"><u>Mastering YouTube Studio Ultimate Video Edits Techniques for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-inability-to-press-delete-on-windows/"><u>Overcoming the Inability to Press Delete on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-win-11s-dxgi-deletion-hurdles/"><u>Overcoming Win 11'S DXGI Deletion Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-data-retrieval-on-pc-adopting-everythingapp/"><u>Quick Data Retrieval on PC: Adopting EverythingApp</u></a></li>
-<li><a href="https://win11.techidaily.com/revamping-the-search-functionality-in-windows-11/"><u>Revamping the Search Functionality in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-stalled-windows-event-log-service/"><u>Reviving Stalled Windows Event Log Service</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-maximize-impact-with-proficient-facebook-live-recording/"><u>[New] Maximize Impact with Proficient Facebook Live Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-science-of-hashtags-how-they-drive-instagram-success/"><u>[Updated] 2024 Approved The Science of Hashtags How They Drive Instagram Success</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/combining-adjacent-and-disjoint-windows-partitions/"><u>Combining Adjacent and Disjoint Windows Partitions</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-game-installation-issues-in-microsoft-store/"><u>Correcting Game Installation Issues in Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-integrate-portables-into-win11/"><u>Efficient Methods to Integrate Portables Into Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-live-stream-over-the-network-with-vlc-media-player-for-2024/"><u>How to Live Stream Over the Network with VLC Media Player for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-m14-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy M14 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-print-settings-in-microsofts-edge-shield/"><u>Implementing Print Settings in Microsoft's Edge Shield</u></a></li>
+<li><a href="https://win11.techidaily.com/navigational-guide-to-system32-in-win11-os/"><u>Navigational Guide to System32 in Win11 OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-portable-canvas-apps-for-windows-free-and-charged-for-2024/"><u>Prime Portable Canvas Apps for Windows Free and Charged for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-reawaken-hibernating-computers-in-win/"><u>Quick Fixes: Reawaken Hibernating Computers in Win</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-kodi-masterclass-comprehensive-tutorials-from-basics-to-advanced-usage/"><u>Ultimate Kodi Masterclass – Comprehensive Tutorials From Basics to Advanced Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/what-does-a-red-x-sign-on-your-windows-folders-mean/"><u>What Does a Red “X” Sign on Your Windows Folders Mean?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-enhancement-implementing-dolby-atmos/"><u>Windows 11 Enhancement: Implementing Dolby Atmos</u></a></li>
 </ul></div>
 

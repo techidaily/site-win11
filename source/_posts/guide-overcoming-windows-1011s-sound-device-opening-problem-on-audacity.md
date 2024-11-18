@@ -1,7 +1,7 @@
 ---
 title: "Guide: Overcoming Windows 10/11'S Sound Device Opening Problem on Audacity"
-date: 2024-11-06T17:13:49.939Z
-updated: 2024-11-07T16:46:49.015Z
+date: 2024-11-16T18:33:16.913Z
+updated: 2024-11-18T05:26:56.763Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Sound Devices Are Enabled
 
  The “Error while opening sound device” issue can arise because playback or recording devices are disabled. So, make sure the devices you’re trying to utilize with Audacity are fully enabled and set to default. This is how you can check your sound devices are enabled in Windows:
@@ -58,20 +51,19 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
@@ -83,11 +75,26 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 3. Select**Preferences** to bring up a settings window.  
 ![The Preferences option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/preferences-tab.jpg)
 4. Next, select the**Devices** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Change Audacity’s Sample Rate
 
@@ -100,20 +107,15 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 5. Then click the**Quality** tab.  
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
-7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
 ## 5\. Turn Off Software Playthrough
 
@@ -125,19 +127,6 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 ![The Software playthrough option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sofware-playthrough-option.jpg)
 4. Click the Preferences window’s**OK** button.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Restart the Windows Audio Endpoint Builder Service
 
  Some Audacity users confirm restarting the Windows Audio Endpoint Builder service fixes this issue. Restarting that service will refresh your PC’s sound controls. This is how you can restart Windows Audio Endpoint Builder:
@@ -148,16 +137,16 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Update Your PC’s Audio Device Driver
 
  If none of the above possible fixes do the trick, try updating your PC’s sound driver. The issue could be arising because your PC’s sound driver is outdated or corrupted. Our guide on[updating audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) includes instructions for applying this potential solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall Your PC’s Audio Driver
 
@@ -172,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
 
@@ -194,18 +190,22 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-aurora-hdr-vs-standard-imagery-quality-analysis-for-2024/"><u>[New] Aurora HDR vs Standard Imagery Quality Analysis for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-exploring-the-prime-linux-screenshot-applications/"><u>[New] Exploring the Prime Linux Screenshot Applications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hilarity-unleashed-kinemaster-meme-creation/"><u>[New] Hilarity Unleashed KineMaster Meme Creation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-download-windows-movie-maker-6/"><u>2024 Approved How to Download Windows Movie Maker 6</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-flying-adventure-the-syma-x5c-rc-quadcopter-unveiled-in-this-thorough-review/"><u>Budget-Friendly Flying Adventure: The SYMA X5C RC Quadcopter Unveiled in This Thorough Review</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-8-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 8 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/makemkv-troubleshooting-guide-overcoming-challenges-when-ripping-dvds-and-blu-rays-to-digital-formats/"><u>MakeMKV Troubleshooting Guide - Overcoming Challenges When Ripping DVDs and Blu-Rays to Digital Formats</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Resolving Microsoft Store Error 0X80073CF3 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/standardizing-the-initial-touchscreen-key-arrangement-in-windows-11/"><u>Standardizing the Initial Touchscreen Key Arrangement in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-freezing-excel-scrolls-on-your-windows-system/"><u>Stop Freezing Excel Scrolls on Your Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quick-fix-hotkey-tricks-for-effective-program-management/"><u>The Quick Fix: Hotkey Tricks for Effective Program Management</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>[New] In 2024, Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-precisionscreenrecorder-capture-anytime/"><u>[New] PrecisionScreenRecorder - Capture Anytime</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audio-mastery-techniques-for-windows-users/"><u>[Updated] 2024 Approved Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-essential-list-of-macs-top-snipping-apps-for-2024/"><u>[Updated] The Essential List of Mac's Top Snipping Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ascending-the-podium-in-drone-racing-plus-essential-fpv-brands-for-2024/"><u>Ascending the Podium in Drone Racing + Essential FPV Brands for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-practices-for-high-quality-remote-podcasts/"><u>Best Practices for High-Quality Remote Podcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-functionality-compiling-and-reviewing-reports/"><u>Demystifying Windows Functionality: Compiling & Reviewing Reports</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reverse-error-80080300-on-microsoft-teams-w11/"><u>Guide to Reverse Error 80080300 on Microsoft Teams, W11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://win11.techidaily.com/master-file-management-top-windows-strategies-max-156/"><u>Master File Management: Top Windows Strategies (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-high-privilege-commands-on-your-system/"><u>Mastering High-Privilege Commands on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directory-name-challenges-creative-fixes-for-windows-11/"><u>Overcoming Directory Name Challenges: Creative Fixes for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-boost-security-with-vboxs-secure-boot/"><u>Step-by-Step: Boost Security with VBox's Secure Boot</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-epochal-transition-scenes/"><u>Techniques for Epochal Transition Scenes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-winner-in-the-gadget-rivalry-pcs-versus-macs-9/"><u>The Clear Winner in the Gadget Rivalry: PCs Versus Macs (#9)</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-index-configuration-tools/"><u>Understanding Index Configuration Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-decoding-ditties-techniques-to-pinpoint-songs-without-music-recognition-apps/"><u>Updated In 2024, Decoding Ditties Techniques to Pinpoint Songs Without Music Recognition Apps</u></a></li>
 </ul></div>
 

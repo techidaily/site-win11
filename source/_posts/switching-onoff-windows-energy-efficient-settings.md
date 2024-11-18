@@ -1,7 +1,7 @@
 ---
 title: Switching On/Off Windows' Energy Efficient Settings
-date: 2024-10-31T20:19:00.776Z
-updated: 2024-11-07T22:46:24.981Z
+date: 2024-11-16T06:24:44.363Z
+updated: 2024-11-18T03:10:38.503Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 ![Add Battery Saver Button to Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-battery-saver-button-to-quick-settings-panel-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Enable or Disable Battery Saver Mode Using the Settings App
 
  Another way to turn the battery saver mode on or off in Windows is via the Settings app. To do so, use these steps:
@@ -55,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ![Enable or Disable Battery Saver in via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the battery saver mode is on, you will see the**Turn off now** button instead. Further, plugging your laptop into a power outlet will also disable the battery saver mode.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Configure the Battery Saver Mode to Turn On Automatically on Windows
 
@@ -79,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 3. Click on**Battery saver** to expand it.
 4. Click the drop-down menu next to**Turn battery saver on automatically at** and select your preferred battery level.  
 ![Configure the Battery Saver Mode to Turn On Automatically in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-the-battery-saver-mode-to-turn-on-automatically-in-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also prevent Windows from enabling battery saver mode on its own by selecting**Never** . Alternatively, if you want the battery saver mode to be enabled at all times, choose**Always** instead.
 
@@ -93,19 +86,20 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ![Configure the Battery Saver Mode to Turn On Automatically Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-the-battery-saver-mode-to-turn-on-automatically-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While PowerShell and Windows Terminal may look similar, they act very differently. Check our detailed guide to learn[the differences between PowerShell and Windows Terminal](https://www.makeuseof.com/windows-terminal-vs-powershell/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Enable or Disable Battery Saver Mode on Windows
 
@@ -126,19 +120,18 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-capturing-fb-chats/"><u>[New] Advanced Strategies for Capturing FB Chats</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-deep-windows-11-secrets-effortless-media-upload-made-simple-for-2024/"><u>[New] Deep Windows 11 Secrets Effortless Media Upload Made Simple for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhance-editing-efficiency-the-finest-text-plugins-for-ae/"><u>2024 Approved Enhance Editing Efficiency The Finest Text Plugins for AE</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-notepad-view-in-windows-11-for-maximum-comfort/"><u>Fine-Tune Your Notepad View in Windows 11 for Maximum Comfort</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-choices-prime-windows-platforms-for-nintendo-games/"><u>Leading Choices: Prime Windows Platforms for Nintendo Games</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-startup-routine-placing-shortcuts-by-power-icon-in-win11/"><u>Optimizing Startup Routine: Placing Shortcuts by Power Icon in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/outdated-os-new-dawn-atlasos-reboot/"><u>Outdated OS, New Dawn: AtlasOS Reboot</u></a></li>
-<li><a href="https://win11.techidaily.com/prove-your-productivity-the-best-6-computer-usage-tracker-tools/"><u>Prove Your Productivity: The Best 6 Computer Usage Tracker Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-11-pin-setbacks/"><u>Swiftly Solve Your Windows 11 PIN Setbacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-talk-tech-enhancing-gpt-conversation-with-10-tweaks/"><u>Tailored Talk Tech: Enhancing GPT Conversation with 10 Tweaks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y200-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y200</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transfer-von-bildern-von-windows-computer-zu-iphone-88plus-top-8-losungen-zum-austauschen-von-fotos/"><u>Transfer Von Bildern Von Windows-Computer Zu iPhone 8/8+: Top 8 Lösungen Zum Austauschen Von Fotos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-insiders-tips-for-choosing-best-webinars-for-2024/"><u>[New] Insider's Tips for Choosing Best Webinars for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-cyclings-apex-titles-for-gamers-for-2024/"><u>[Updated] Cycling's Apex Titles for Gamers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-ways-to-overcome-guided-access-malfunctions-on-your-iphone/"><u>6 Effective Ways to Overcome Guided Access Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/drone-vfx-experience-try-no-cost-luts-on-mini-and-air-drones/"><u>Drone VFX Experience – Try No-Cost LUTS on Mini & Air Drones</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-unknown-recording-errors-with-obs-studio-on-windows/"><u>Eliminate Unknown Recording Errors with OBS Studio on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/find-out-the-path-where-your-background-image-is-stored/"><u>Find Out the Path Where Your Background Image Is Stored</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 8 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-world-of-aether-defining-its-characteristics-and-joining-procedures/"><u>Inside the World of Aether: Defining Its Characteristics & Joining Procedures</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-picture-summaries-for-windows-11/"><u>Modify Picture Summaries for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-effective-saved-wi-fi-removal/"><u>Steps for Effective Saved Wi-Fi Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-quiet-windows-store-cure-for-error-x00000000/"><u>Tackling the Quiet Windows Store: Cure for Error X00000000</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/title-alter-desktop-icons-separation-in-win-oss/"><u>Title: Alter Desktop Icons' Separation in WIN OSs</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-rapid-reboot-capabilities-on-your-windows-11-device/"><u>Unlocking Rapid Reboot Capabilities on Your Windows 11 Device</u></a></li>
 </ul></div>
 

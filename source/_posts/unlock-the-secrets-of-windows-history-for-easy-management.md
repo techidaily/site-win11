@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Windows History for Easy Management
-date: 2024-11-01T22:33:59.761Z
-updated: 2024-11-07T22:36:25.535Z
+date: 2024-11-13T02:27:24.429Z
+updated: 2024-11-17T21:29:23.700Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete Your Windows Activity History
 
  You can easily see what data Microsoft stores and how to delete it.
@@ -52,28 +65,37 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
 2. Then, click **Privacy**.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
 4. Under Clear Activity History, click the **Clear** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
  This will clear the activity history for the account you're currently using.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -83,14 +105,14 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ![navigating to activity history in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history.jpg)
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
@@ -99,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
@@ -117,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Windows 10 Activity History
 
  If you want to view all activity history on Windows 10, you can do so on the [Microsoft account privacy website](https://account.microsoft.com/privacy/). You'll see various categories when you access the website and log in. Each one will take you to a page that shows all the information Microsoft has stored about you relating to that category.
@@ -133,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -171,22 +185,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-detailed-guide-taking-full-screen-photos-with-android-for-2024/"><u>[New] Detailed Guide Taking Full-Screen Photos with Android for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-steps-to-enhance-your-gopro-cinematography/"><u>[New] In 2024, Essential Steps to Enhance Your Gopro Cinematography</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] 2024 Approved Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-advanced-screen-recording-software-for-2024/"><u>[Updated] Exploring Advanced Screen Recording Software for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-premier-windows-camcorders-guide/"><u>[Updated] In 2024, The Premier Windows Camcorders Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/comparing-micro-video-formats-the-battle-of-tiktok-and-youtube-shorts/"><u>Comparing Micro-Video Formats The Battle of TikTok and YouTube Shorts</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-downloads-in-the-microsoft-store-fast-track-style/"><u>Elevate Downloads in the Microsoft Store, Fast-Track Style</u></a></li>
-<li><a href="https://win11.techidaily.com/from-basic-to-advanced-why-16gb-ram-is-now-essential-for-win-users/"><u>From Basic to Advanced: Why 16GB RAM Is Now Essential for Win Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/lead-teams-to-victory-without-paying-fc-manager-edition/"><u>Lead Teams to Victory Without Paying: FC Manager Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-bypassing-the-pin-lock-on-windows-11/"><u>Quick Guide to Bypassing the PIN Lock on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-broken-outlook-rules-on-windows-machines/"><u>Reviving Broken Outlook Rules on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-crash-problems-in-madden-nfl-20-a-comprehensive-guide/"><u>Solving PC Crash Problems in Madden NFL 20: A Comprehensive Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +192,17 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-evolving-narratives-in-the-age-of-vr-movies/"><u>[New] Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights/"><u>[New] In 2024, Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-narrative-enhancer/"><u>[New] Video Narrative Enhancer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-vega-64-driver-update-steps-to-fix-compatibility-on-windows-devices-solved/"><u>AMD Vega 64 Driver Update: Steps to Fix Compatibility on Windows Devices [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-file-handling-w11s-autohandling-system-guide/"><u>Efficient File Handling: W11’s Autohandling System Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-win11-performance-the-ultimate-five-step-uptime-guide/"><u>Securing Win11 Performance: The Ultimate Five-Step Uptime Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-banish-microsoft-edge-from-w11/"><u>Step-by-Step Guide: Banish Microsoft Edge From W11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211399986-9798990532403-the-great-descend/"><u>The Great Descend | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-blocked-resources-on-windows-systems-149-chars/"><u>Unlocking Blocked Resources on Windows Systems (149 Chars)</u></a></li>
+</ul></div>
+

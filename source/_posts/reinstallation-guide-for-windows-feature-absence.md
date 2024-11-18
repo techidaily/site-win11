@@ -1,7 +1,7 @@
 ---
 title: Reinstallation Guide for Windows Feature Absence
-date: 2024-11-05T20:32:32.945Z
-updated: 2024-11-07T17:31:29.695Z
+date: 2024-11-11T04:34:36.834Z
+updated: 2024-11-17T18:34:52.842Z
 tags:
   - windows10
   - windows11
@@ -85,13 +85,6 @@ net start msiserver`
 
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Update Troubleshooter
 
  If the Command Prompt method did not work for you, you can use the Windows Update Troubleshooter to reset update components. This tool can help identify and fix problems with the update process, including issues that might be preventing optional features from installing.
@@ -104,10 +97,10 @@ Follow these steps to run the update troubleshooter on Windows:
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
@@ -116,6 +109,13 @@ Follow these steps to run the update troubleshooter on Windows:
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -128,6 +128,13 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -146,10 +153,10 @@ Here's how you can update Windows to the latest version:
 ![Windows Modules Installer Service In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-modules-installer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you reset the module installer service, Windows tries to stop it and then start it again, which can help reset the installation process of optional features and fix any issues that might be causing problems.
@@ -169,30 +176,23 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -213,19 +213,20 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-steps-for-seamlessly-clearing-youtube-feedback-for-2024/"><u>[New] Essential Steps for Seamlessly Clearing YouTube Feedback for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instagram-mastery-build-stunning-group-photos-in-a-flash/"><u>[New] Instagram Mastery Build Stunning Group Photos in a Flash</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quietude-quotient-windowsmac-music-control/"><u>[Updated] Quietude Quotient Windows/Mac Music Control</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-securing-quieter-steadier-photo-screenshots/"><u>2024 Approved Securing Quieter, Steadier Photo Screenshots</u></a></li>
-<li><a href="https://win11.techidaily.com/decluttering-made-simple-setting-up-windows-recycle-bin-autodelete/"><u>Decluttering Made Simple: Setting Up Windows Recycle Bin Autodelete</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-guide-utilizing-luts-in-ae/"><u>Essential Guide Utilizing LUTs in AE</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27e-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27e in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-curated-collection-best-free-footage-websites-ranked/"><u>In 2024, Curated Collection Best Free Footage Websites Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-local-users-in-windows-1110-homes-quickly/"><u>Navigating to Local Users in Windows 11/10 Homes Quickly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategic-placements-for-elevating-youtube-videos/"><u>Strategic Placements for Elevating YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-experience-use-windows-11-widget-tools/"><u>Streamline Your Experience: Use Window's 11 Widget Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-off-windows-built-in-graphics/"><u>Switching Off Windows' Built-In Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-efficiency-a-guide-to-quick-dossiers-in-win11/"><u>Unleash Efficiency: A Guide to Quick Dossiers in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-storage-strategy-game-classics-in-windows-11-pics/"><u>Winning Storage Strategy: Game Classics in Windows 11 Pics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[New] In 2024, Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-quickquip-quarterfreeze-media/"><u>[New] QuickQuip QuarterFreeze Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-the-top-best-cloud-storage-service-for-business/"><u>[New] The Top Best Cloud Storage Service for Business</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-pc-editors-a-compilation-without-inshot/"><u>[Updated] In 2024, PC Editors A Compilation Without Inshot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-steps-transforming-mkv-files-into-quicktime-mov-or-mp4-format-on-pc-and-mac/"><u>Easy Steps: Transforming MKV Files Into QuickTime MOV or MP4 Format on PC and Mac</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-driver-updates-for-win-m2/"><u>Efficient Driver Updates for Win M.2</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pc-experience-tapping-into-windows-11s-taskbar-search/"><u>Enhance Your PC Experience: Tapping Into Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-yt-experience-handling-several-videos-at-a-time/"><u>Enhancing YT Experience Handling Several Videos at a Time</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-critical-missing-component-warning-on-w10w11/"><u>Fixing the Critical Missing Component Warning on W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-icloud-running-effortlessly-on-your-windows-machine/"><u>Getting iCloud Running Effortlessly on Your Window's Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-the-persistent-0xf0831-error-in-win11/"><u>How to Navigate the Persistent 0XF0831 Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-youtube-playback-speed-on-chrome-windows/"><u>Optimizing YouTube Playback Speed on Chrome, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-windows-from-self-shutdown/"><u>Stopping Windows From Self-Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-at-your-fingertips-exploring-vivetool-for-windows/"><u>The Future at Your Fingertips: Exploring ViVeTool for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips for Dealing with Immutable Windows Energy Modes
-date: 2024-10-31T20:53:11.924Z
-updated: 2024-11-07T18:41:43.229Z
+date: 2024-11-17T00:19:19.555Z
+updated: 2024-11-17T20:01:37.198Z
 tags:
   - windows10
   - windows11
@@ -46,33 +46,47 @@ Here is how you can proceed:
 3. In the following window, expand the**View by** category at the top and choose**Large icons** .  
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
@@ -94,17 +108,10 @@ Here is how you can run the troubleshooter:
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -164,17 +171,22 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[New] Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unbeatable-youtube-video-titling-assistant/"><u>2024 Approved Unbeatable YouTube Video Titling Assistant</u></a></li>
-<li><a href="https://article-helps.techidaily.com/a-step-by-step-tutorial-for-speech-transcription-in-word-for-2024/"><u>A Step-by-Step Tutorial for Speech Transcription in Word for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/boost-love-odds-expert-tips-for-compelling-tinder-profiles-for-2024/"><u>Boost Love Odds Expert Tips for Compelling Tinder Profiles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-recurring-crash-code-9999-in-windows-and-audacity/"><u>Conquering Recurring Crash Code 9999 in Windows and Audacity</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-dream-laptop-in-july-2astock-the-hottest-deals-and-discounts-techsavvy/"><u>Find Your Dream Laptop in July 2Astock: The Hottest Deals and Discounts | TechSavvy</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-huawei-p60-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Huawei P60 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-intel-graphic-specification-hurdles-for-pc-upgrades/"><u>Overcoming Intel Graphic Specification Hurdles for PC Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-internet-disconnections-keeping-lele-online/"><u>Overcoming Internet Disconnections: Keeping LeLë Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-wwe-2k22-pc-crashes-identifying-the-causes-and-finding-quick-fixes/"><u>Persistent WWE #2K22 PC Crashes - Identifying the Causes and Finding Quick Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/strengthen-wi-fi-connection-in-windows-11-a-list-of-top-7-tips/"><u>Strengthen Wi-Fi Connection in Windows 11: A List of Top 7 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/your-gateway-to-great-creation-win-11s-best-sketchers/"><u>Your Gateway to Great Creation: Win 11'S Best Sketchers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-pro-tips-configuring-stopwatches-in-obs-studio/"><u>[New] Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[Updated] In 2024, Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-performance-lags-in-sifu-for-pc-strategies-to-fix-unresponsive-gameplay-and-frame-rate-hiccups/"><u>Beat Performance Lags in Sifu for PC: Strategies to Fix Unresponsive Gameplay and Frame Rate Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-win-11s-context-menu-exclude-more-options/"><u>Customizing Win 11'S Context Menu: Exclude More Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-win11-experience-learn-to-edit-faxes-easily/"><u>Enhancing Your Win11 Experience: Learn to Edit Faxes Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/environment-variables-configuration/"><u>Environment Variables Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-1132-in-windows-11-for-smooth-zoom-operations/"><u>Fixing Error 1132 in Windows 11 for Smooth Zoom Operations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-or-download-canon-mx490-print-device-software-for-windows-operating-systems/"><u>How to Update or Download Canon MX490 Print Device Software for Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-machine-customize-active-hours-to-sidestep-surprises-in-windows-11/"><u>Mastering Your Machine: Customize Active Hours to Sidestep Surprises in Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-video-editing-software-for-movie-trailers-on-mac-and-pc/"><u>New Best Video Editing Software for Movie Trailers on Mac and PC</u></a></li>
+<li><a href="https://win11.techidaily.com/organized-notekeeping-raising-sticky-notes-for-optimal-os-use/"><u>Organized Notekeeping: Raising Sticky Notes for Optimal OS Use</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-of-win11-on-airplane-mode/"><u>Seamless Setup of Win11 on Airplane Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-email-feedback-mechanisms-for-effective-communication-on-windows/"><u>Securing Email Feedback Mechanisms for Effective Communication on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-automating-your-windows-11-app-setup-with-winstall/"><u>The Ultimate Guide to Automating Your Windows 11 App Setup with Winstall</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-recovering-deleted-items-on-an-iphone-through-the-power-of-stellar/"><u>The Ultimate Guide to Recovering Deleted Items on an iPhone Through the Power of Stellar</u></a></li>
 </ul></div>
 

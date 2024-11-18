@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Sound: Leveraging the Volume Mixer in Action Center"
-date: 2024-11-05T22:49:36.328Z
-updated: 2024-11-07T22:55:12.145Z
+date: 2024-11-14T22:23:58.483Z
+updated: 2024-11-18T02:30:14.313Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  However, Microsoft is slowly identifying such missing features in Windows 11 and is adding an inbuilt solution for it. Recently,[Microsoft began testing an RGB lighting feature](https://www.makeuseof.com/enable-rgb-lighting-controls-windows-11/) that will eliminate the need for third-party customization apps. So, it is pretty clear that Microsoft wants to reduce the reliance on third-party apps for vital system features and tweaks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Volume Mixer in Windows 11's Action Center
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  To enable the volume mixer in Windows 11, you will need to do the following:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Windows Insider Build and ViVeTool
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
  You will also need to download[ViVeTool from GitHub](https://github.com/thebookisclosed/ViVe/releases) to enable the experimental volume mixer feature. It is a command-line tool that can both activate and deactivate experimental Windows features. However, extract the tool to an easily accessible location in the C drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable Volume Mixer in Windows Using ViVeTool
@@ -83,15 +83,15 @@ vivetool /enable /id:42106010
 ![Enabling New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-new-volume-settings-in-action-center.jpg)
 8. Restart your system to allow the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Log in and press**Win + A** to open Action Center. You will notice a new volume mixer icon next to the volume bar. Click on it to reveal the complete sound settings. Both the Spatial Audio and volume mixer will be present inside.  
 ![New Volume Settings in Action Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-volume-settings-in-action-center.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjust Your Volume Like A Pro on Windows 11
 
@@ -112,20 +112,19 @@ vivetool /enable /id:42106010
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-securing-youtube-tracks-at-no-cost-with-security-in-mind/"><u>[New] 2024 Approved Securing Youtube Tracks at No Cost, with Security in Mind</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ey-players-in-asmr-youtube-world-for-2024/"><u>[New] Key Players in ASMR YouTube World for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-ffxp-the-user-manual/"><u>[Updated] Navigating FFXP The User Manual</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/building-an-msr-disk-imaging-file-on-hyper-v-essential-tutorial-steps/"><u>Building an MSR Disk Imaging File on Hyper-V: Essential Tutorial Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-store-failures-fast-tackling-0x80072f30-errors/"><u>Fix Windows Store Failures Fast: Tackling 0X80072F30 Errors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-13-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 13 and iPad?</u></a></li>
-<li><a href="https://win11.techidaily.com/interactive-device-management-via-windows-interface-elements/"><u>Interactive Device Management via Windows Interface Elements</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-an-eye-out-essential-windows-steps-that-might-hide-viruses/"><u>Keeping an Eye Out: Essential Windows Steps That Might Hide Viruses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastering PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-windows-11-shutdown-duration-during-execution/"><u>Modifying Windows 11 Shutdown Duration During Execution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/playstation-portable-pre-release-guide-insights-into-release-timeline-price-range-tech-details-and-buying-options/"><u>PlayStation Portable Pre-Release Guide: Insights Into Release Timeline, Price Range, Tech Details & Buying Options</u></a></li>
-<li><a href="https://win11.techidaily.com/revisiting-microsoft-store-error-code-0x80073cf3/"><u>Revisiting Microsoft Store Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/synergy-in-task-management-to-do-with-ifttt-triggers/"><u>Synergy in Task Management: To-Do with IFTTT Triggers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-font-customization-in-ae/"><u>The Ultimate Guide to Font Customization in AE</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-simplified-image-browsing-setup/"><u>Windows 11: Simplified Image Browsing Setup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-minimca-manorettes-simple-and-sleek-homes-in-mc-world/"><u>[New] 2024 Approved MiniMCA Manorettes Simple & Sleek Homes in MC World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-getting-your-vlogging-started-key-items-and-software/"><u>[New] Getting Your Vlogging Started Key Items & Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-gt-neo-5-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme GT Neo 5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-finding-the-best-gaming-keys-at-unbeatable-prices-less-than-100/"><u>2024 Approved Finding the Best Gaming Keys at Unbeatable Prices Less than $100</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easy-steps-for-free-powerpoint-uploads-to-youtube-withwithout-sound/"><u>Easy Steps for Free PowerPoint Uploads to YouTube - With/Without Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-11-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 11 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-a56s-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo A56s 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>In 2024, Building Your Own YouTube Organization Toolkit The Watch Later Way</u></a></li>
+<li><a href="https://win11.techidaily.com/revival-strategies-for-net-on-your-pc-max-156/"><u>Revival Strategies for .NET on Your PC (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-typography-across-languages-on-windows-pcs/"><u>Seamless Typography Across Languages on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stop-microsoft-teams-crashes-tips-for-wins-11-and-10/"><u>Steps to Stop Microsoft Teams Crashes: Tips for Wins 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-troubleshooting-task-sequence-failures-winos-edition/"><u>Strategies for Troubleshooting Task Sequence Failures: WinOS Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-best-practices-for-effective-fb-healthcare-promos-for-2024/"><u>Unraveling Best Practices for Effective FB Healthcare Promos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-youre-unable-to-download-any-files-on-a-windows-10-and-11/"><u>What to Do When You’re Unable to Download Any Files on a Windows 10 & 11</u></a></li>
 </ul></div>
 

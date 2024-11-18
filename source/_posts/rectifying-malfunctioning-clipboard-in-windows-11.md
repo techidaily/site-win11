@@ -1,7 +1,7 @@
 ---
 title: Rectifying Malfunctioning Clipboard in Windows 11
-date: 2024-11-02T18:54:16.549Z
-updated: 2024-11-07T19:06:54.967Z
+date: 2024-11-17T07:44:10.364Z
+updated: 2024-11-17T21:35:46.466Z
 tags:
   - windows10
   - windows11
@@ -103,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Windows 11 Task Manager showing the Windows Explorer process.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/restart-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Run the Keyboard Troubleshooter
 
  Windows 11 features a built-in keyboard troubleshooter to find and fix common issues. It fixes issues triggered due to malfunctioning drivers and incorrect keyboard configuration.
@@ -131,31 +124,24 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
  In the Keyboard troubleshooter dialog, click **Advanced**, select the **Apply repairs automatically** option, and click **Next**. The troubleshooter will scan your computer for known keyboard issues and try to fix them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reset the rdpclip.exe Process
 
  If the copy-paste function does not work when using Remote Desktop Connection, restarting the Rdpclip.exe process can help you copy and paste text and files between your local and remote computers.
 
 ![Windows 11 Task Manager showing end task option for rdpclip-exe process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-showing-end-task-option-for-rdpclip-exe-process.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To restart the rdpclip.exe process, press **Win+X** and choose **Task Manager**. In Task Manager, open the **Details** tab and locate the **rdpclip.exe** process. To end the process, right-click on **rdpclip.exe** and choose **End task**.
 
 ![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
 
  To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check Your Keyboard for Hardware Issues
 
@@ -176,10 +162,10 @@ Sfc /scannow`
 4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Create a New Local User Account
@@ -331,13 +317,6 @@ Sfc /scannow`
 
 ![Windows 11 Settings app showing the Clipboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-settings-app-showing-the-clipboard-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the issue persists, perform a quick restart to refresh hardware components and Windows services and apps to fix temporary glitches with your computer.
 
 ## 2\. Perform a Clean Boot
@@ -368,13 +347,6 @@ Sfc /scannow`
 
 ![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
 
 ## 3\. Update Your Windows
@@ -391,10 +363,10 @@ Sfc /scannow`
 ![Windows 11 Settings showing the Windows Update tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/check-for-windows-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Restart File Explorer
@@ -441,7 +413,21 @@ Sfc /scannow`
 
 ![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check Your Keyboard for Hardware Issues
 
@@ -500,6 +486,14 @@ Sfc /scannow`
 2. The Task Manager will open in the **Startup** tab.  
 ![Windows 11 Task Manager showing the Startup tab.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/disable-startup-apps-windows-11.jpg)
 3. Select all the **Startup** apps one by one and click **Disable**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once you have disabled all the startup apps, go back to the **System Configuration** dialog. Click **Apply** and **OK** to save the changes.
 5. Click **Restart** to reboot your PC in clean boot mode.
 
@@ -512,6 +506,13 @@ Sfc /scannow`
 ![Windows 11 System Configuration dialog.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/normal-startup-windows-11-system-configuration.jpg)
 
  Click **Apply** and **OK** to save the changes. When prompted, click **Restart Now** to reboot your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update Your Windows
 
@@ -570,13 +571,6 @@ Sfc /scannow`
 
 ![Windows 11 Task Manager create new task dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-11-task-manager-create-new-task-dialog.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To restart the process, in the Task Manager, click **Run new task**, type **rdpclip.exe**, and click **OK**.
 
 ## 7\. Check Your Keyboard for Hardware Issues
@@ -596,6 +590,13 @@ Sfc /scannow`
 `DISM /Online /Cleanup-Image /RestoreHealth  
 Sfc /scannow`
 4. First, DISM will scan and repair the Windows image. Then System File Checker will begin the verification phase. It will scan for all protected system files and replace corrupted or missing files. This process may take some time, so wait till the verification is 100% complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Create a New Local User Account
 
@@ -620,16 +621,16 @@ Sfc /scannow`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pick-the-best-top-8-srt-tools-without-payment/"><u>[Updated] In 2024, Pick the Best Top 8 SRT Tools Without Payment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-rogue-company-pc-version-persistent-issues-with-frequent-crashes/"><u>Fix: Rogue Company PC Version Persistent Issues with Frequent Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/get-back-on-track-with-these-9-fixes-for-non-functioning-window-key-shortcuts/"><u>Get Back on Track with These 9 Fixes for Non-Functioning Window Key Shortcuts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-speedy-retrieval-of-snap-archive/"><u>In 2024, Speedy Retrieval of Snap Archive</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances-for-2024/"><u>Metaverse Metaphors Discovering 6 Detailed Instances for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/monitor-and-manage-edges-background-run-on-win11-pcs/"><u>Monitor and Manage Edge's Background Run on Win11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/procedure-to-unlink-other-users-on-win-11/"><u>Procedure to Unlink Other Users on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-cleanliness-erase-feature-in-windows-photos/"><u>Redefining Cleanliness: Erase Feature in Windows Photos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-asymmetric-screen-lines-on-laptops/"><u>Swift Fix for Asymmetric Screen Lines on Laptops</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-itunes-video-downloading-for-ios-users-for-2024/"><u>The Ultimate Guide to iTunes Video Downloading for iOS Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos-for-2024/"><u>[New] Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-site-including-youtube-playlists-directly-for-2024/"><u>[Updated] Streamline Your Site Including YouTube Playlists Directly for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-insight-visionpro-x-review-the-2023-edition-explored/"><u>Complete Insight VisionPro X Review – The 2023 Edition Explored</u></a></li>
+<li><a href="https://fox-links.techidaily.com/discovering-elite-gif-apps-for-iphone-x8-series-for-2024/"><u>Discovering Elite GIF Apps for iPhone X/8 Series for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issues-winerror-x80072f17-remedy/"><u>Fixing Microsoft Store Issues: WinError X80072F17 Remedy</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-and-repair-speech-recognition-in-ms-word/"><u>How to Reset and Repair Speech Recognition in MS Word</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-14-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi 14 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27e-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27e to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-hardware-interaction-with-windows-disks/"><u>Streamlining Hardware Interaction with Windows Disks</u></a></li>
+<li><a href="https://win11.techidaily.com/workaround-for-windows-security-errors-managed-by-admins/"><u>Workaround for Windows Security Errors Managed by Admins</u></a></li>
 </ul></div>
 

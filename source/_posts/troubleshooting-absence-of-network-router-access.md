@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Absence of Network Router Access
-date: 2024-11-02T16:25:07.151Z
-updated: 2024-11-07T17:17:47.401Z
+date: 2024-11-15T03:09:27.639Z
+updated: 2024-11-17T20:21:19.855Z
 tags:
   - windows10
   - windows11
@@ -41,23 +41,9 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Almost all the router manufacturer use 192.168.1.1, a private IP address, to log into a router’s admin panel and change the default router settings. However, some routers may use a different address. If so, you’ll likely encounter an error when accessing the login page using 192.168.1.1.
 
@@ -99,34 +85,37 @@ To find your Default Gateway IP address for the router:
 5. In the left pane, click**Change adapter settings** .  
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 6. Right-click on your**Ethernet adapter** and select**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
-![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
-9. Select the**Validate settings upon exit** option and click**OK** .
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
+9. Select the**Validate settings upon exit** option and click**OK** .
 
 10. Relaunch your browser and try to access the router page.
 
  If you use a different VPN service, check for similar features and disable it to resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Invisibility on Any LAN VPNs
@@ -134,10 +123,10 @@ To find your Default Gateway IP address for the router:
 ![Nordvpn disable invisibility on lan 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nordvpn-disable-invisibility-on-lan-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you use a VPN, check if the client has an Invisibility on LAN feature enabled. Invisibility on LAN hides your computer from others on the same local area network. However, this feature can also prevent you from accessing your router’s login page.
@@ -148,6 +137,13 @@ To disable Invisibility on LAN on NordVPN:
 2. In the left pane, open the**Advanced** tab.
 3. Next, toggle the**Invisibility on the LAN** switch to turn it off.
 4. Launch your browser and access your router’s login page to see if it works. If not, quit the VPN client from the system tray and try again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Router to Its Factory Defaults
 
@@ -176,21 +172,22 @@ To disable Invisibility on LAN on NordVPN:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros-for-2024/"><u>[New] Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-integrating-movie-capture-across-all-operating-systems/"><u>[Updated] Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>2024 Approved Chuckle Chronicles Celebratory Gems for Each Occasion</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-lifelong-guide-to-spanish-verbal-patterns/"><u>A Lifelong Guide to Spanish Verbal Patterns</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-spotify-crashes-in-win11/"><u>Diagnosing and Repairing Spotify Crashes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/expansive-yet-unimpressive-performance-in-mp60/"><u>Expansive Yet Unimpressive Performance in MP60</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-digital-workshop/"><u>Expert Insights on Electronics From Tom's Digital Workshop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-solutions-for-getting-your-logitech-k780-keyboard-back-in-action/"><u>Expert Solutions for Getting Your Logitech K780 Keyboard Back in Action</u></a></li>
-<li><a href="https://win11.techidaily.com/invigorating-previous-generations-directx-software-via-dxvk/"><u>Invigorating Previous Generations' DirectX Software via DXVK</u></a></li>
-<li><a href="https://win11.techidaily.com/proactive-measures-for-a-smooth-sailing-win11-microsoft-teams-journey/"><u>Proactive Measures for a Smooth-Sailing Win11 Microsoft Teams Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenate-archived-media-enhancing-videos-through-madvr-and-windows/"><u>Rejuvenate Archived Media: Enhancing Videos Through MadVR and Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-how-to-enjoy-every-installment-of-indiana-jones-chronologically/"><u>Step-by-Step: How to Enjoy Every Installment of Indiana Jones Chronologically</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-windows-memory-errors/"><u>Strategies for Overcoming Windows Memory Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-solutions-to-workaround-folder-naming-limitations-on-windows-11/"><u>Top Solutions to Workaround Folder Naming Limitations on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-edge-with-adjustable-story-videos/"><u>Unleash Your Creative Edge with Adjustable Story Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/virtualbox-upgrade-strategies-to-version-70-on-windows-11-systems/"><u>VirtualBox Upgrade Strategies to Version 7.0 on Windows 11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>[New] 2024 Approved Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>[New] Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fast-windows-file-check-up-tips-and-tricks-for-2024/"><u>[Updated] Fast Windows File Check-Up Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-and-repairing-your-oculus-graphics-driver-errors-expert-advice-and-tips/"><u>Addressing and Repairing Your Oculus Graphics Driver Errors – Expert Advice & Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms-for-2024/"><u>Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-the-best-online-prime-day-blowout-for-quality-tribit-sound-devices-below-regular-retail-price/"><u>Find the Best Online Prime Day Blowout for Quality Tribit Sound Devices Below Regular Retail Price</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-delayed-downloads-in-the-default-folder-of-windows/"><u>Fixing Delayed Downloads in the Default Folder of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-bluetooth-device-showing-voicemusic-only-on-windows/"><u>How to Fix a Bluetooth Device Showing Voice/Music Only on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-icon-alert-disappearances/"><u>How To Fix Icon Alert Disappearances</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-check-the-pin-bluetooth-pairing-error-on-windows-1110/"><u>How to Fix the “Check the PIN” Bluetooth Pairing Error on Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-30-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 30 5G Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-webcam-error-codes-in-win1011-systems/"><u>Remedy for Webcam Error Codes in Win10/11 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-yuva-3-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Yuva 3 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-steps-to-reboot-your-iphone-and-recover-using-backup/"><u>Ultimate Guide: Steps to Reboot Your iPhone & Recover Using Backup</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-the-power-of-windows-11-get-a-bootable-drive-in-three-easy-ways/"><u>Unleash the Power of Windows 11: Get a Bootable Drive in Three Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-cpus-generation-in-windows-with-eight-steps/"><u>Unlocking Your CPU’s Generation in Windows with Eight Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-aid-evolution-with-new-tools/"><u>Windows 10 Aid Evolution with New Tools</u></a></li>
 </ul></div>
 

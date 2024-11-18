@@ -1,7 +1,7 @@
 ---
 title: "Restore Brightness: Essential 5 Methods to Mend Your Wobbly Keys"
-date: 2024-11-04T00:18:03.621Z
-updated: 2024-11-07T22:16:54.664Z
+date: 2024-11-14T09:18:37.590Z
+updated: 2024-11-18T03:59:35.641Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  If the backlight doesn’t turn on, try the solutions we have listed below. Some of them might be a bit complicated, but we’ll walk you through the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Increase the Brightness Level
 
  There’s a chance you’ve set the brightness level too low, so it doesn’t make a difference after you turn on the keyboard backlight. The fastest way to increase the brightness level is to use your keyboard.
 
  Look for the key with the backlight icon and press it two or three times in a row. If you’ve found the backlight icon, but it doesn’t work, press the **Fn key** at the same time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Hardware
 
@@ -48,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 * Reconnect the keyboard. If it’s a Bluetooth keyboard, turn off Bluetooth for a few moments and turn it back on.
 * Plug the keyboard into a different USB port. If its backlit feature is now working, you’ll have to [fix a malfunctioning USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/).
 * Take a look at the keyboard cable and search for any damage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check the Keyboard App
 
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
  Even if you’ve made the right system settings, a third-party keyboard app may overwrite them, so it’s worth checking it out.
 
 ![Backlit keyboard app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-app-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update Your Keyboard Drivers
 
@@ -78,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  If this didn't fix the problem, there are [more ways to fix a corrupt driver](http://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Run the Keyboard Troubleshooter
 
  If updating the driver didn’t fix your backlit keyboard, Windows comes with a couple of built-in troubleshooting tools that you can use.
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 3. From **Find and fix other problems**, select **Keyboard > Run the troubleshooter**.
 
 ![Running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Windows 11, go to **Settings > System >Troubleshoot > Other trouble-shooters** to access the Keyboard troubleshooter.
 
@@ -108,29 +122,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![Running the device troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perform a Clean Boot
 
  If nothing worked until now, you should [perform a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/)on your computer. This way, your system will start without any third-party app that might influence your backlit keyboard functionality. If your keyboard lights up, open Control Panel and take a look at the apps that you’ve installed lately since one of them is causing your problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Backlit Keyboard Problems Resolved
 
@@ -140,21 +134,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  However, different apps, software updates, or hardware issues might stop your backlit keyboard from working. So if you’ve already restarted your computer or connected your keyboard to every USB port, and it’s still not working, it’s time you take a closer look at the problem.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-optimizing-your-in-stream-ad-strategy-on-facebooks-platform-for-2024/"><u>[New] Optimizing Your In-Stream Ad Strategy on Facebook's Platform for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-leading-graphics-cards-in-4k-resolution/"><u>[Updated] 2024 Approved Leading Graphics Cards in 4K Resolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sustainable-design-in-action-the-huawei-p10s-environmental-approach/"><u>[Updated] In 2024, Sustainable Design in Action The Huawei P10’s Environmental Approach</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/dial-down-chrome-interruptions-in-windows-810/"><u>Dial Down Chrome Interruptions in Windows 8/10</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-dark-screen-glitches-in-windows-steam/"><u>Eliminating Dark Screen Glitches in Windows Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-spontaneous-file-explorer-events/"><u>How to Disable Spontaneous File Explorer Events</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/non-fbx-innovations-leading-the-way-in-gameplay-tracking-for-2024/"><u>Non-FBX Innovations Leading the Way in Gameplay Tracking for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nubia Red Magic 9 Pro+.</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-backup-settings-to-default-in-windows/"><u>Reinstating Backup Settings to Default in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-content-transfer-enable-copy-and-paste-in-edges-guardspace-w11/"><u>Secure Content Transfer: Enable Copy & Paste in Edge's Guardspace W11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,3 +141,23 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tailored-techniques-to-cut-off-unwanted-youtube-content-on-devices/"><u>[Updated] Tailored Techniques to Cut Off Unwanted YouTube Content on Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-for-everyone-start-your-journey-with-our-top-9-online-spaces/"><u>AI for Everyone: Start Your Journey with Our Top 9 Online Spaces</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-study-of-software-package-file-types-exe-vs-msi/"><u>Comparative Study of Software Package File Types: Exe vs Msi</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-onedrive-placement-in-microsoft-windows-11/"><u>Customize OneDrive Placement in Microsoft Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-complete-uninstall-guide-for-windows-11/"><u>Eliminating WSL: Complete Uninstall Guide for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/gamers-guide-to-avoiding-high-system-throttling-issues/"><u>Gamers' Guide to Avoiding High System Throttling Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-leverage-ez-grabber-for-peak-performance-for-2024/"><u>How to Leverage EZ Grabber for Peak Performance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-potential-of-powershell-for-storage-sizing/"><u>Leveraging the Potential of PowerShell for Storage Sizing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-v-purse-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor V Purse – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015866090-resolve-your-mic-problems-while-playing-dota-2-on-pc-today/"><u>Resolve Your Mic Problems While Playing Dota 2 on PC Today</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-resolving-fatal-errors-in-ark-databases/"><u>Step-by-Step Solution: Resolving Fatal Errors in ARK Databases</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-weather-apps-for-windows-10-and-11/"><u>The Best Weather Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers-for-2024/"><u>Transform Your Tactics Exclusive Free Voice Change Tool for Valorant Gamers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-sfc-scan-on-windows-a-step-by-step-guide/"><u>Triggering SFC Scan on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/ultimate-guide-8-effective-methods-for-bypassing-drm-on-dvds-including-5-costless-solutions/"><u>Ultimate Guide: 8 Effective Methods for Bypassing DRM on DVDs (Including 5 Costless Solutions)</u></a></li>
+</ul></div>
+

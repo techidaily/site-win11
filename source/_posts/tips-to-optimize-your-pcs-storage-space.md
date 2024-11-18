@@ -1,7 +1,7 @@
 ---
 title: Tips to Optimize Your PC's Storage Space
-date: 2024-11-05T17:08:53.019Z
-updated: 2024-11-07T21:16:52.289Z
+date: 2024-11-10T20:26:33.018Z
+updated: 2024-11-18T07:28:53.813Z
 tags:
   - windows10
   - windows11
@@ -66,45 +66,51 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 ![Easily view rar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/easily-view-rar-files-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, you can **right-click** on the archive file and then click on the **Extract all** option from the context menu.
 
 ![Extract .tar files in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, pick an appropriate location to extract the file and click on the **Extract** button. Voila! You can now easily access the archive contents without any third-party archive manager tool.
 
 ![Extract .tar files in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extract-tar-files-in-windows-11-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But this doesn't spell the end for third-party apps You will still need tools like WinRar if you want to compress files or folders into a format other than ZIP, as Windows can only compress files and folders into the ZIP format.
 
 ![Winrar customization while compressing a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/winrar-customization-while-compressing-a-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may experience performance issues while extracting the contents of the newly supported archive formats. It is because the feature is still in the experimental phase and will be gradually polished before it reaches the Release Preview and stable channels.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Easily Handle Other Archive Formats on Windows
@@ -113,22 +119,6 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
  But Microsoft seems to want to reduce the dependence on these archive managing tools. Windows 11 now contains the option to manage other archive formats like RAR and TAR without needing a third-party app. Here's how to enable and use it on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-phantom-a-guide-to-backward-video-capture-techniques/"><u>[New] Phantom A Guide to Backward Video Capture Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-vimeo-video-on-instagram-feed-for-2024/"><u>[Updated] Mastering Vimeo Video on Instagram Feed for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-spark-10-4g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Spark 10 4G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-instructions-for-adding-intel-lan-drivers-to-pcs/"><u>Comprehensive Instructions for Adding Intel LAN Drivers to PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/desktop-dot-delights-winning-window-notes-apps-no-pen/"><u>Desktop Dot Delights: Winning Window Notes Apps (No Pen)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-airdrop-woes-instantly-discover-these-16-easy-to-follow-remedies/"><u>Fix Your AirDrop Woes Instantly - Discover These 16 Easy-to-Follow Remedies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-series-watching-order-from-raiders-to-kingdom/"><u>Indiana Jones Series Watching Order - From Raiders to Kingdom</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0x800700e1-in-surface-pro-win10/"><u>Overcoming 0X800700E1 in Surface Pro (Win10)</u></a></li>
-<li><a href="https://win11.techidaily.com/prepare-to-be-wowed-ifa-2023-laptop-roundup/"><u>Prepare to Be Wowed: IFA 2023 Laptop Roundup</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96369034-9781446358221-psychic-experiences/"><u>Psychic Experiences | Free Book</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-instagram-tagging-strategies-to-skyrocket-likes-and-followers/"><u>Top Instagram Tagging Strategies to Skyrocket Likes and Followers</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-8-lite-virtual-platforms-android-on-pcmac/"><u>Ultimate 8 Lite Virtual Platforms: Android on PC/Mac</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +126,25 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/1722991300672-solved-ubisoft-connect-not-working-2024/"><u>[SOLVED] Ubisoft Connect Not Working – 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unboxing-logitechs-ultimate-4k-webcam/"><u>[Updated] 2024 Approved Unboxing Logitech's Ultimate 4K Webcam</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-pioneering-nft-creators-spurring-artistic-genius-for-2024/"><u>6 Pioneering NFT Creators Spurring Artistic Genius for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-with-steam-decks-best-gadgets/"><u>Beat the Heat with Steam Deck's Best Gadgets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-presence-mastering-ig-video-borders-for-2024/"><u>Elevate Your Presence Mastering IG Video Borders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-microsoft-pc-manager-on-windows-11/"><u>Enabling Microsoft PC Manager on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-click-issues-in-windows-11-a-step-by-step-guide/"><u>Fixing Click Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-geforce-overlay-features-on-windows-desktop/"><u>Halt GeForce Overlay Features on Windows Desktop</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 12 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-teamsters-issues-in-win11-w10-systems/"><u>Overcoming Teamsters Issues in Win11, W10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/personalized-soundscape-keys-setting-up-volume-control-for-win11/"><u>Personalized Soundscape Keys: Setting up Volume Control for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-your-ctrls-full-potential-with-these-tips-for-windows-11/"><u>Reclaiming Your Ctrl's Full Potential with These Tips for Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/rise-to-greatness-the-best-inspiring-movies/"><u>Rise to Greatness The Best Inspiring Movies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smart-screenshot-assembly-leading-androidiphone-montage-aids/"><u>Smart Screenshot Assembly Leading Android/iPhone Montage Aids</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-limit-high-utilization-by-windows-module-worker/"><u>Solutions to Limit High Utilization by Windows Module Worker</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-failed-operations-troubleshoot-0x0000011b/"><u>Stopping Failed Operations: Troubleshoot 0X0000011B</u></a></li>
+</ul></div>
+

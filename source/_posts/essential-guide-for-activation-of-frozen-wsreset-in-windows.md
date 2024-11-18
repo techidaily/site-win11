@@ -1,7 +1,7 @@
 ---
 title: Essential Guide for Activation of Frozen WSReset in Windows
-date: 2024-11-03T21:49:56.196Z
-updated: 2024-11-07T21:05:18.508Z
+date: 2024-11-16T16:27:50.404Z
+updated: 2024-11-17T18:11:41.029Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,25 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 
  Now let's move on to troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Run WSReset.exe as an Administrator
 
  WSReset.exe requires administrative privileges to run properly. If you're not running it as an administrator, it may fail to reset the Windows Store cache.
 
  To resolve this issue, [ensure you're using a Windows admin account](https://www.makeuseof.com/check-windows-account-admin-rights/), then try running WSReset.exe again.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Store App Troubleshooter
 
@@ -50,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
 
  If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
@@ -65,23 +72,9 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 
  Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Repair and Reset Windows Store
 
  If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Remove the Latest Windows Updates
 
@@ -98,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 6. Click **Uninstall** again when prompted.
 
  Follow the onscreen instructions and restart your computer when it's done.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache via the Registry
 
@@ -120,17 +120,18 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 9. In the **AppxAllUserStore** key, find the **SID** you copied earlier.  
 ![Clear the Microsoft Store Cache via the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-microsoft-store-cache-via-the-registry.jpg)
 10. Right-click on it and select **Delete**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
 12. Close the Registry Editor and restart your PC.
 
  Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Microsoft Store
 
@@ -145,16 +146,10 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
  You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resolving the WSReset.exe Issue on Windows
@@ -163,23 +158,6 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 
  However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-harmonizing-content-and-sound-in-instagram-reels/"><u>[New] 2024 Approved Harmonizing Content & Sound in Instagram Reels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dynamic-capture-premium-choices-in-4k-technology-for-2024/"><u>[New] Dynamic Capture Premium Choices in 4K Technology for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-godly-onslaught-ragnaroks-day/"><u>[New] Godly Onslaught Ragnarok’s Day</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/administrator-approval-processes-how-to-manipulate-trustedinstaller-settings-on-windows-10-devices/"><u>Administrator Approval Processes: How to Manipulate TrustedInstaller Settings on Windows 10 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-windows-11s-data-extraction-tactics/"><u>Discover Windows 11'S Data Extraction Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-license-termination-alert-in-windows-1011/"><u>Eliminating License Termination Alert in Windows 10/11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-cover-design-ten-essential-best-practices/"><u>In 2024, Podcast Cover Design Ten Essential Best Practices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-snap-save-and-share-like-a-pro-with-the-mi-11-screen-recording-suite/"><u>In 2024, Snap, Save and Share Like a Pro with the Mi 11 Screen Recording Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-admin-restricted-security-error/"><u>Overcoming Windows: Admin-Restricted Security Error</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/places-to-find-background-music-for-videos-for-2024/"><u>Places to Find Background Music for Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-activate-audio-during-powerpoint-video-captures/"><u>Tips to Activate Audio During PowerPoint Video Captures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-emerging-innovations-in-artifice-intelligence-hardware/"><u>Top 5 Emerging Innovations in Artifice Intelligence Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-pagefilesys-role-in-windows-os/"><u>Understanding Pagefile.sys Role in Windows OS</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +165,27 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-apex-top-8-for-flawless-4k-blu-ray-viewing/"><u>[New] Apex Top 8 for Flawless 4K Blu-Ray Viewing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-quick-and-painless-podcast-go-live-technique/"><u>[New] The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tunefab-screen-recorder-review/"><u>[New] Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-proper-techniques-for-exporting-photos-from-phone-to-snapchat/"><u>[Updated] Proper Techniques for Exporting Photos From Phone to Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fists-fighting-fames-flame/"><u>2024 Approved Fists Fighting Fame's Flame</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dns-flush-strategies-for-windows-11-users/"><u>DNS Flush Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-dead-pixels-from-windows-steam/"><u>Eliminating Dead Pixels From Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-server-stumble-a-guide-to-fixing-ms-store-in-windows-11-and-11/"><u>Eliminating the Server Stumble: A Guide to Fixing MS Store in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-avoid-windows-will-expire-soon-error/"><u>Guidelines to Avoid 'Windows Will Expire Soon' Error</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-asuswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Asuswith/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-narzo-60x-5g-easily-by-drfone-android/"><u>How To Unlock a Realme Narzo 60x 5G Easily?</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-24/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-management-of-network-safety-areas-in-windows/"><u>Masterful Management of Network Safety Areas in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-win11s-error-code-0x30017/"><u>Navigating Through the Maze of Win11's Error Code 0X30017</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-bypass-limits-and-moderation-faults-in-chatgpt-usage/"><u>Resolving Bypass Limits and Moderation Faults in ChatGPT Usage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-issues-with-your-steelseries-arctis-7-microphone/"><u>Ultimate Troubleshooting Guide: Resolving Issues with Your SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/undo-customized-search-a-windows-11-directives-manual/"><u>Undo Customized Search: A Windows 11 Directives Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/win-1011-zoom-troubleshooting-error-1132-solution/"><u>Win 10/11 Zoom Troubleshooting: Error 1132 Solution</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Toggle Visibility for Folder in Windows Explorer, Version 11
-date: 2024-11-02T20:30:37.217Z
-updated: 2024-11-07T17:44:03.766Z
+date: 2024-11-16T06:05:18.290Z
+updated: 2024-11-18T07:18:10.456Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
  With the Registry Editor open, let's get to it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Show or Hide the 3D Objects Folder in This PC
 
  For the **3D Objects** folder, you need to add a key to the registry and the folder will pop up in This PC. So, in the address bar of the Registry Editor, enter the below path and then hit the **Enter** key:
@@ -47,24 +54,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 ![new-key-namespace-regedit-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-key-namespace-regedit-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, refresh File Explorer by hitting **F5**. Now you will see that the **3D Objects** folder has appeared in This PC.
 
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Documents, Music, Videos, Pictures, and/or Downloads Folders in This PC
@@ -78,16 +85,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![delete-hideifenabled-value-regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-hideifenabled-value-regedit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, refresh File Explorer with **F5** and the **Documents** folder will appear in This PC.
@@ -116,19 +117,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{088e3905-0323-4b02-9826-5d99428e115f}
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Choose the Folders You Want to Appear on This PC in Windows 11
 
  If you want to see folders on This PC, you can do so by making a couple of edits to the Windows Registry. While we do recommend that you know what you’re doing if you proceed, we have made the instructions relatively simple to follow so there's minimal chance of messing up the registry.
@@ -150,20 +138,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x-for-2024/"><u>[Updated] Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-100-virtual-bicycle-escapades-to-experience/"><u>[Updated] In 2024, Top 100 Virtual Bicycle Escapades to Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamline-events-with-obs-crafting-a-time-based-feature/"><u>[Updated] Streamline Events with OBS Crafting a Time-Based Feature</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-the-art-of-digital-distortion-in-minutes/"><u>2024 Approved Mastering the Art of Digital Distortion in Minutes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-samsung-galaxy-a71-5g-the-smart-choice-beyond-premium-phones/"><u>Comprehensive Review of the Samsung Galaxy A71 5G - The Smart Choice Beyond Premium Phones</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elite-equipment-showcasing-gameplay-innovations/"><u>Elite Equipment Showcasing Gameplay Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/fundamental-insights-into-windows-snoozer-functionality/"><u>Fundamental Insights Into Window's Snoozer Functionality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-obs-settings-for-low-end-pcs/"><u>In 2024, Best OBS Settings for Low-End PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-devices-name-conflicts-with-ease-windows-guide/"><u>Navigate Through Devices Name Conflicts with Ease (Windows Guide)</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-dropbox-performance-lessening-cpu-overuse-in-windows/"><u>Optimizing Dropbox Performance: Lessening CPU Overuse in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-evil-genius-2-effective-solutions-for-a-smooth-start/"><u>Overcoming Launch Difficulties in Evil Genius 2 - Effective Solutions for a Smooth Start</u></a></li>
-<li><a href="https://win11.techidaily.com/power-up-windows-top-5-essential-wintoys/"><u>Power Up Windows: Top 5 Essential WinToys</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-windows-11-app-opening/"><u>Turbocharge Windows 11 App Opening</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-capabilities-a-detailed-review-of-linksys-velop-networking-solutions/"><u>Unveiling the Capabilities: A Detailed Review of Linksys Velop Networking Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-examining-their-unique-traits/"><u>Windows Terminal and PowerShell: Examining Their Unique Traits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] 2024 Approved Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-comprehensive-approach-to-documenting-google-meet-discussions/"><u>[Updated] 2024 Approved A Comprehensive Approach to Documenting Google Meet Discussions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-capture-in-adobe-presenter/"><u>[Updated] Mastering Video Capture in Adobe Presenter</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-vs-dailymention-identifying-key-variations/"><u>[Updated] YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comprehensive-guide-your-shorts-hidden-thumbnails-for-2024/"><u>Comprehensive Guide Your Shorts' Hidden Thumbnails for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-scripts-windows-conversion-to-powerful-exes/"><u>Elevate Scripts: Windows Conversion to Powerful EXEs</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-defender-traces-secure-cleanup-steps-for-windows-users/"><u>Resetting Defender Traces: Secure Cleanup Steps for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-image-design-combining-dall-e-with-chatgpt-4/"><u>Revolutionizing Image Design: Combining DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-pc-game-downloads-with-easy-steps/"><u>Skyrocketing PC Game Downloads with Easy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-pc-black-screen-errors-while-playing-resident-evil-village/"><u>Step-by-Step Guide to Overcome PC Black Screen Errors While Playing Resident Evil: Village</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-solve-me-driver-failures/"><u>Steps to Solve ME Driver Failures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-5-pc-emulators-bringing-ps1-to-life/"><u>Top 5 PC Emulators Bringing PS1 to Life</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-warfare-a-side-by-side-look-at-w10-and-w11-changes/"><u>Windows Warfare: A Side-by-Side Look at W10 and W11 Changes</u></a></li>
 </ul></div>
 

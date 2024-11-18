@@ -1,7 +1,7 @@
 ---
 title: Scheme for Activating/Deactivating Setup Service on PCs
-date: 2024-11-05T20:19:42.262Z
-updated: 2024-11-07T19:58:18.806Z
+date: 2024-11-11T22:50:07.657Z
+updated: 2024-11-17T20:55:35.630Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
  If you ever need to re-enable the service, follow the same procedure and click**Start** in the Service status section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use Local Group Policy Editor
@@ -62,17 +62,18 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 3. Now move to the right and double-click on the policy named**Turn off Windows Installer** .  
 ![Disable Windows Installer Service Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-installer-service-using-group-policy.jpg)
 4. In the window that opens, select**Enabled** in the radio box.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Under Options, click the drop-down menu and select**Always** .
 6. Then click**Apply** and**OK** to save changes.
 
  That's all there is to it. The Windows Installer service will now be disabled on your system. To re-enable it, simply follow the same steps, but set "Turn off Windows Installer" to**Not Configured** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Registry Editor
 
@@ -88,19 +89,19 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 ![Disable Windows Installer Service Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-installer-service-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you put the Value data, make sure the Base is set to**Hexadecimal** , then click**OK** . Now close the registry editor and restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Turning Off the Windows Installer Service Made Easy
@@ -122,20 +123,24 @@ thumbnail: https://thmb.techidaily.com/bbf8dc401e219ae9c8c406079b4bb91863628883c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>[New] Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-your-workflow-optimizing-googles-podcast-submission-system/"><u>[New] In 2024, Elevating Your Workflow Optimizing Google's Podcast Submission System</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-complete-guide-to-optimizing-your-picsart-experience/"><u>[Updated] In 2024, Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-upside-down-videos-in-your-instagram-feed/"><u>2024 Approved Avoiding Upside-Down Videos in Your Instagram Feed</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/delayed-windows-11-shutdown-techniques-amidst-running-programs/"><u>Delayed Windows 11 Shutdown Techniques Amidst Running Programs</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/enhance-your-livestreams-using-manycam-features-of-a-professional-webcam-plugin/"><u>Enhance Your Livestreams Using ManyCam - Features of a Professional Webcam Plugin</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-a-smooth-in-place-windows-11-update/"><u>Expert Tips for a Smooth, In-Place Windows 11 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-hidden-additional-monitor-in-windows/"><u>Fix Hidden Additional Monitor in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-cortana-on-windows-using-vivetool-guide/"><u>How to Enable Cortana on Windows Using ViveTool Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-empty-directory-assertion-eradicate-error-0x80070091/"><u>Mastering Windows' Empty Directory Assertion - Eradicate Error 0X80070091</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/second-chance-languages-embrace-polyglot-living/"><u>Second Chance Languages: Embrace Polyglot Living</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-pick-gaming-systems-ultimate-ranking-guide/"><u>Top Pick Gaming Systems : Ultimate Ranking Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-dandd-adventures-with-chatgpt-enhancements/"><u>Transform Your D&D Adventures with ChatGPT Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11s-swift-apk-installation-how-to-do-it/"><u>Win 11'S Swift APK Installation: How to Do It</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>[New] 2024 Approved Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-visibility-11-secrets-of-successful-seo-for-2024/"><u>[New] Elevate Your Video Visibility 11 Secrets of Successful SEO for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-trendsetting-techniques-going-viral-in-the-digital-world/"><u>[New] In 2024, Trendsetting Techniques Going Viral in the Digital World</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-miniature-homes-6-top-oriental-designs-for-mcers/"><u>[New] Miniature Homes 6 Top Oriental Designs for MCers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-brainless-battles-top-8-zombie-shooter-contenders/"><u>[Updated] 2024 Approved Brainless Battles Top 8 Zombie Shooter Contenders</u></a></li>
+<li><a href="https://win11.techidaily.com/concealing-clock-and-dates-on-window-11s-bar/"><u>Concealing Clock & Dates on Window 11'S Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-blue-screen-alerts-an-in-depth-study/"><u>Dissecting Windows Blue Screen Alerts: An In-Depth Study</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-psoft-tools-in-win11/"><u>Enhance Your Workflow with PSoft Tools in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-frozen-chromebook-with-these-8-proven-techniques/"><u>Fix Your Frozen Chromebook with These 8 Proven Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-enabling-access-in-windows-11-credentials/"><u>Guide: Enabling Access in Windows 11 Credentials</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-cursor-a-star-on-windows-devices/"><u>How to Make Your Cursor a Star on Windows Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-compliance-in-recording-video-streams-on-youtube/"><u>In 2024, Compliance in Recording Video Streams on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kindle-oasis-2019-review-a-paper-like-reading-experience/"><u>Kindle Oasis (2019) Review: A Paper-Like Reading Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-shutdown-of-startup-programs-via-revo-uninstaller-tutorial/"><u>Mastering the Shutdown of Startup Programs via Revo Uninstaller Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-deactivating-hyper-v-on-win11/"><u>Method for Deactivating Hyper-V on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-snip-and-sketchs-screen-shot-limitations-4-essential-fixes/"><u>Overcoming Snip & Sketch's Screen Shot Limitations: 4 Essential Fixes.</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-w11s-erroneous-temporary-files/"><u>Reviving Your W11's Erroneous Temporary Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphone-hum-steps-to-remove-annoying-buzz-from-audio-devices/"><u>Troubleshooting Headphone Hum: Steps to Remove Annoying Buzz From Audio Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-calculators-night-mode/"><u>Turn On Calculator's Night Mode</u></a></li>
 </ul></div>
 
