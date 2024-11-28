@@ -1,7 +1,7 @@
 ---
 title: From Internet Browsing to Desktop Utility
-date: 2024-11-11T18:49:33.322Z
-updated: 2024-11-17T23:48:22.289Z
+date: 2024-11-20T19:04:55.849Z
+updated: 2024-11-27T23:23:43.625Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Use a Web App as a Desktop App?
 
@@ -58,13 +62,6 @@ To install a website and app using Microsoft Edge:
 
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Install Websites as App Using Google Chrome
 
  Google Chrome features a Create a shortcut feature. It works similarly to Edge's Install this site as an app and lets you run apps in their own window. This is an OS-independent feature, as you can also[run web apps on macOS using the Chrome shortcuts](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) .
@@ -76,19 +73,21 @@ To add a shortcut to a website as an app in Chrome:
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
  Your new app will automatically start in a new window. You can launch the app from the Start menu, taskbar, and Windows search. Furthermore, open the three-dots menu within the app to access essential features such as zoom, print, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Assign an Icon to a Website App
 
@@ -102,15 +101,13 @@ To change the app icon:
 3. Click the**Change icon** button at the bottom.  
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
-C:\Windows\System32\imageres.dll
-5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+C:\Windows\System32\imageres.dll
+5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
@@ -128,13 +125,6 @@ To install a website as an app using WebCatalog:
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Next, click**Select Local Image** and select an icon for the app.
 2. Select the**Add shadows and rounded corners** option.
 3. Click**Install** .
@@ -148,10 +138,7 @@ To install a website as an app using WebCatalog:
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
@@ -159,16 +146,7 @@ To install a website as an app using WebCatalog:
 ![web2 desk create app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/web2-desk-create-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Web2Desk lets you convert your favorite website to desktop apps. You can use it to create native app packages for desktop platforms, including OSX, Windows, and Linux.
@@ -208,14 +186,24 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bringing-beats-integrating-music-in-inshot-editor/"><u>[New] Bringing Beats Integrating Music in InShot Editor</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-galaxy-s8-review-bringing-movies-to-life-with-4k-for-2024/"><u>[Updated] Galaxy S8 Review - Bringing Movies to Life with 4K for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-script-crafting-basics/"><u>2024 Approved Script Crafting Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/archive-your-cortana-trails-on-a-pc-operating-system/"><u>Archive Your Cortana Trails on a PC Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-synology-rt2eac-ac-wireless-router-with-enhanced-long-range-capabilities-and-built-in-parenting-options/"><u>Comprehensive Guide to Synology RT2eac AC Wireless Router with Enhanced Long Range Capabilities & Built-In Parenting Options</u></a></li>
-<li><a href="https://win11.techidaily.com/deletion-dilemma-is-removing-pagefilesys-advisable/"><u>Deletion Dilemma: Is Removing Pagefile.sys Advisable?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-counter-strike-global-offensive-not-opening-in-windows-11/"><u>How to Fix Counter-Strike: Global Offensive Not Opening in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/interfacing-with-the-core-of-windows-print-system/"><u>Interfacing with the Core of Windows Print System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grateful-reels-exclusive-free-and-paid-otus/"><u>[New] Grateful Reels Exclusive Free & Paid OTUs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dominant-heavy-lift-drones-for-industrial-tasks-for-2024/"><u>[Updated] Dominant Heavy-Lift Drones for Industrial Tasks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-instagram-influence-5-key-tactics-for-enhanced-followers/"><u>2024 Approved Boost Your Instagram Influence 5 Key Tactics for Enhanced Followers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>2024 Approved Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-infuse-creativity-with-structure-best-practices-in-template-based-tiktok-videos/"><u>2024 Approved Infuse Creativity with Structure Best Practices in Template-Based TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-office-hours-on-win-11-with-these-apps/"><u>Elevate Your Office Hours on Win 11 with These Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-pc-problems-our-top-10-fixes-list/"><u>Eliminate PC Problems: Our Top 10 Fixes List</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-the-past-display-today-classics-in-windows-11-pics-space/"><u>Embrace the Past, Display Today: Classics in Windows 11 Pics Space</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Pro Data Completely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-civi-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Civi 3 to Another | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-blue-ray-on-xbox-sxs-high-end/"><u>Mastering Blue-Ray on XBox SX's High End</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-steam-broadcast-stability-in-windows/"><u>Mastering Steam Broadcast Stability in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-pubg-setting-adjustments-on-win-1011/"><u>Navigating the Maze of PUBG Setting Adjustments on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/running-libertychat-open-ai-gpt-on-windows-with-freedomgpt/"><u>Running LibertyChat: Open-AI GPT on Windows with FreedomGPT</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/step-by-step-guide-transferring-dvd-content-to-imovie-on-macos-and-windows-systems/"><u>Step-by-Step Guide: Transferring DVD Content to iMovie on macOS & Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-eradicate-windows-steam-game-e84-blunders/"><u>Swiftly Eradicate Windows Steam Game E84 Blunders</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unseen-windows-on-startup-screen/"><u>Tackling Unseen Windows on Startup Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-new-era-of-game-creation-unveiled-pioneering-ai-technologies-set-to-revolutionize-industry-standards/"><u>The New Era of Game Creation Unveiled: Pioneering AI Technologies Set to Revolutionize Industry Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-fixes-conquering-the-black-screen-problems-in-win11/"><u>Top 3 Fixes: Conquering the Black Screen Problems in Win11</u></a></li>
 </ul></div>
 

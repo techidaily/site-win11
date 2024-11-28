@@ -1,7 +1,7 @@
 ---
 title: "Crafting a Comfortable Visual Space: Notepad's Themes & Fonts in Window 11"
-date: 2024-11-14T22:27:39.009Z
-updated: 2024-11-17T16:45:44.362Z
+date: 2024-11-23T23:22:57.708Z
+updated: 2024-11-27T21:30:27.745Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 2. Tap on the**Settings** gear wheel icon on the top right.  
 ![Windows 11 Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows11-notepad.jpg)
 3. In the**Settings** page, tap on**the App theme** to expand the setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You'll see the**Light** ,**Dark** , or**Use system setting** options to set as the Notepad**App theme** . Choose and select the one you like.  
 ![App Theme Settings in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notepad-app-theme-settings-1.jpg)
 5. If you choose the**Use system setting** , the theme you have set for Windows will reflect in the Notepad. You'll see the theme's colors across the various areas of the Notepad.  
@@ -40,10 +45,11 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
  So you can enjoy the colors of a Windows 11 theme or even a favorite movie theme you download while you work on the Notepad. Also, if the system theme you have chosen is in Dark Mode, you can change the Notepad theme to Light mode while enjoying the system theme colors.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Choose Your Preferred Font for Notepad
@@ -54,21 +60,11 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 ![Use Edit Menu or Settings Icon for Font Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-edit-or-settings-icons.jpg)
 2. Select a font by clicking on**Family** . The available fonts will appear in a dropdown list. Choose any font you prefer, like**Candara** , as in the screenshot below. At the bottom of the page, the font of the sentence:**The sound of the ocean waves calms my soul.** will change to your chosen font—you can preview a font before selecting it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
 3. Then select the font**Style** , whether light, dark, or italicized, and set the font**Size** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once set, enjoy using Notepad with your preferred font.
@@ -76,10 +72,7 @@ Once set, enjoy using Notepad with your preferred font.
  If you ever have problems opening Notepad, check out[how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy the Windows 11 Notepad With New Themes
@@ -101,18 +94,24 @@ Once set, enjoy using Notepad with your preferred font.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-strategies-to-elevate-client-spots-and-product-endorsements/"><u>[New] Advanced Strategies to Elevate Client Spots and Product Endorsements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-10-android-compatible-gba-games-simulators/"><u>[Updated] In 2024, Top 10 Android Compatible GBA Games Simulators</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphone-slow-motion-shooting-essentials-for-2024/"><u>[Updated] IPhone Slow Motion Shooting Essentials for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-geforce-0x0001-in-windows-1011-environment/"><u>Addressing GeForce 0X0001 in Windows 10/11 Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-installation-apple-podcasts-made-simple/"><u>Effortless Installation Apple Podcasts Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-num-caps-and-scroll-lock-key-indicators-to-windows-11s-system-tray/"><u>How to Add Num, Caps, and Scroll Lock Key Indicators to Windows 11’S System Tray</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-14-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi 14 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-windows-hello-authentication-compatibility-issue/"><u>Remedying Windows Hello Authentication Compatibility Issue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reversing-trash-woes-for-windows-11-users/"><u>Reversing Trash Woes for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-platform-not-supported-message-when-setting-up-intel-serial-io-device-drivers/"><u>Solving 'Platform Not Supported' Message When Setting Up Intel Serial IO Device Drivers</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/troubleshooting-steps-to-fix-overwatch-crashing-due-to-outdated-graphics-driver/"><u>Troubleshooting Steps to Fix Overwatch Crashing Due to Outdated Graphics Driver</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-making-stagnant-batch-files-work-again/"><u>Winning Strategies: Making Stagnant Batch Files Work Again</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screen-recorders-showdown-apowersoft-among-them/"><u>[New] In 2024, Screen Recorders Showdown Apowersoft Among Them</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aking-photos-steadily-on-one-leg-in-2024/"><u>[New] Taking Photos Steadily on One Leg, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-10-tips-for-teachers-creating-a-youtube-channel/"><u>[Updated] In 2024, 10 Tips for Teachers Creating a YouTube Channel</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-protocol-engaging-modernized-widget-pickers-toolset/"><u>Activation Protocol: Engaging Modernized Widget Pickers Toolset</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-media-error-your-input-not-opened-by-vlc/"><u>Addressing Media Error: Your Input Not Opened by VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/aspire-to-win-11s-trials-joining-the-insider-brigade/"><u>Aspire to Win 11'S Trials: Joining the Insider Brigade</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-frustration-of-disconnected-discord-setup/"><u>Avoiding the Frustration of Disconnected Discord Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/best-browsing-on-three-oses-minimal-resource-browser-choices/"><u>Best Browsing on Three OSes: Minimal Resource Browser Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/blocking-unsolicited-activation-of-windows-marketplace/"><u>Blocking Unsolicited Activation of Windows Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-pc-life-after-declining-windows-11-upgrade/"><u>Boost Your PC Life After Declining Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/bootable-windows-11-usb-setup-a-quick-easy-guide-to-3-methods/"><u>Bootable Windows 11 USB Setup: A Quick, Easy Guide to 3 Methods</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effective-strategies-for-safeguarding-your-windows-10-files-a-guide-to-five-different-backup-methods/"><u>Effective Strategies for Safeguarding Your Windows 10 Files: A Guide to Five Different Backup Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-for-stylish-and-durable-iphone-1212-pro-cases-of-2023-your-complete-selection-on-zdnet/"><u>Expert Picks for Stylish and Durable iPhone 12/12 Pro Cases of 2023 - Your Complete Selection on ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-moto-g-play-long-lasting-power-and-adequate-processor-capability/"><u>Exploring the Moto G Play: Long-Lasting Power & Adequate Processor Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/1719367006018-need-windows-help-find-support-tips-and-solutions/"><u>Need Windows Help? Find Support Tips & Solutions!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>New Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2000-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2000 File Error The document cannot be saved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solutions-for-realtek-rtl8723be-driver-problems/"><u>Troubleshooting and Solutions for Realtek RTL8723BE Driver Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-samsung-galaxy-tab-a-2020-falls-short-essential-function-gone-astray/"><u>Why the Samsung Galaxy Tab A (2020) Falls Short: Essential Function Gone Astray</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simplify Advanced Control with Group Policies in Windows 11
-date: 2024-11-15T23:39:27.663Z
-updated: 2024-11-18T06:41:22.702Z
+date: 2024-11-26T02:51:21.925Z
+updated: 2024-11-27T23:21:41.394Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
  This article will take you through the ten ways to open the Local Group Policy Editor in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Local Group Policy Editor Using Windows Search
 
  Windows 11 search tool makes it easy to find apps, documents, and system settings on your device. You can also use it to access the Local Group Policy Editor in Windows 11\. To do so, use the following steps:
@@ -45,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 1. Click the magnifying icon on the taskbar or use the **Win + S** keyboard shortcut to open the search menu.
 2. Type **edit group policy** or **gpedit** in the search box and select the first result that appears.  
 ![Open Group Policy Editor Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-windows-search.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you receive [the "Windows cannot find gpedit.msc" error](https://www.makeuseof.com/fix-cannot-find-gpeditmsc-error-in-windows/), you may be using the Home edition of Windows 11\. In that case, you must use a workaround or upgrade to Windows 11 Pro to access the Local Group Policy Editor.
 
@@ -63,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 2. Type **gpedit.msc** in the text box and click **OK** or press **Enter** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor Using Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-run-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Open Local Group Policy Editor via File Explorer
 
  A lesser-known way to [open apps and programs in Windows](https://www.makeuseof.com/open-apps-programs-windows/) 11 is through File Explorer.
@@ -79,23 +58,7 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 ![Open Group Policy Editor Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Open Local Group Policy Editor From the Control Panel
@@ -107,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 3. Type **edit group policy** in the search box in the top-right corner of the Control Panel window.
 4. Under Windows Tools, click **Edit group policy** to open the Local Group Policy Editor.  
 ![Open Group Policy Editor via Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-via-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Open Local Group Policy Editor From the Settings App
 
@@ -124,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 3. Click **Yes** to confirm.  
 ![Open Local Group Policy Editor Using Windows Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-local-group-policy-editor-using-windows-copilot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Open Local Group Policy Editor From the System32 Folder
 
  Another way to open the Local Group Policy Editor is to use its executable (.exe) file in [the Windows System32 folder](https://www.makeuseof.com/tag/windows-system32/). Here’s how you can go about it.
@@ -132,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 2. Navigate to the following folder: **C: > Windows > System32**.
 3. Locate and double-click the **gpedit.msc** file to launch the Local Group Policy Editor.  
 ![Open Group Policy Editor Using System32 Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-system32-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Open Local Group Policy Editor Using Task Manager
 
@@ -144,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 ![Open Group Policy Editor Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Open Local Group Policy Editor Using Command Prompt or PowerShell
@@ -159,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 ![Open Group Policy Editor Using Command Prompt or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-group-policy-editor-using-command-prompt-or-powershell.jpg)
 
  Like using Command Prompt? Here are some [fun Command Prompt tricks](http://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Create a Desktop Shortcut to Open Local Group Policy Editor Quickly
 
@@ -172,10 +148,7 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 ![Create a Desktop Shortcut for Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-a-desktop-shortcut-for-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now double-click the Group Policy Editor desktop shortcut to open it quickly.
@@ -188,29 +161,6 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
 
  Whether you use the Windows Search menu, the Run command, or a desktop shortcut, accessing the Local Group Policy Editor in Windows 11 is easy. Once you have opened it, you can review and modify the established policies as needed.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easier-than-ever-top-9-uncomplicated-no-cost-video-tools-for-you-for-2024/"><u>[New] Easier Than Ever Top 9 Uncomplicated, No-Cost Video Tools for You for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-discover-the-ideal-release-windows-on-youtube/"><u>[New] In 2024, Discover the Ideal Release Windows on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nveiling-the-most-honest-youtube-growth-services-for-2024/"><u>[New] Unveiling the Most Honest Youtube Growth Services for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-picks-7-exceptional-android-adblocking-apps/"><u>[Updated] In 2024, Top Picks 7 Exceptional Android AdBlocking Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-proportions-understanding-youtube-video-sizes/"><u>2024 Approved Perfecting Proportions Understanding YouTube Video Sizes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-smart-strategies-for-utilizing-b-roll-footage-effectively/"><u>2024 Approved Smart Strategies for Utilizing B-Roll Footage Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/adapting-the-search-function-in-windows-11-for-you/"><u>Adapting the Search Function in Windows 11 for You</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-uncertainty-check-cpu-generation-on-windows-8-ways/"><u>Avoid Uncertainty – Check CPU Generation on Windows (8 Ways)</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-for-re-establishing-managed-status-on-windows-11/"><u>Comprehensive Guide for Re-Establishing Managed Status on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/deciphering-the-language-of-youtube-commenters-for-2024/"><u>Deciphering the Language of YouTube Commenters for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-technologies-in-microsofts-ai-hub/"><u>Demystifying the Technologies in Microsoft's AI Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-the-gallery-in-file-explorer-in-windows-11/"><u>How to Enable the Gallery in File Explorer in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-magic-5-lite-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor Magic 5 Lite Is Unlocked</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-boot-failures-8-fixes-for-virtual-machines-on-wm11os/"><u>Overcome Boot Failures: 8 Fixes for Virtual Machines on WM11OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-windows-laptop-lag-on-dual-screens/"><u>Overcoming the Hurdle of Window's Laptop Lag on Dual Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-non-functional-email-banners-for-office-users/"><u>Reviving Non-Functional Email Banners for Office Users</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-list-of-oneplus-offers-during-amazons-hottest-shopping-event/"><u>Ultimate List of OnePlus Offers During Amazon's Hottest Shopping Event</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-best-cryptographic-solutions-ranked-148-chars/"><u>Window's Best Cryptographic Solutions Ranked (148 Chars)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -218,3 +168,23 @@ thumbnail: https://thmb.techidaily.com/6f7d0e2a43b07618a84ad4bb4532a87360d4eb5cc
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-high-quality-sound-recording-via-audacity/"><u>[New] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-drone-pilots-guide-to-best-vr-headsets/"><u>[Updated] Drone Pilots' Guide to Best VR Headsets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-crafting-dynamic-luts/"><u>[Updated] The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-for-stopping-hyper-v-service-on-win11/"><u>Easy Steps for Stopping Hyper-V Service on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-access-setting-up-shortcut-next-to-the-windows-power-button/"><u>Efficient Access: Setting Up Shortcut Next to the Windows Power Button</u></a></li>
+<li><a href="https://win11.techidaily.com/future-tech-on-your-desk-ifa-2023-winners/"><u>Future Tech on Your Desk - IFA 2023 Winners</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-unrecognized-usb-devices-in-windows-10-step-by-step-solution/"><u>How to Fix Unrecognized USB Devices in Windows 10 - Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-win11-apps-for-film-and-media-editors/"><u>In 2024, Premier Win11 Apps for Film & Media Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-10-intro-makers-for-pc-online-and-offline/"><u>New Top 10 Intro Makers for PC Online and Offline</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974786398-optimize-pc-display-using-the-latest-intel-3000-driver-on-windows-10/"><u>Optimize PC Display Using the Latest Intel 3000 Driver on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-reset-of-windows-auto-updates-and-office-patches/"><u>Quick Reset of Windows Auto-Updates and Office Patches</u></a></li>
+<li><a href="https://win11.techidaily.com/shrouded-signals-wi-fi-network-discretion-in-windows/"><u>Shrouded Signals: Wi-Fi Network Discretion in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-quick-fix-for-turning-yt-lists-backwards-for-2024/"><u>The Quick Fix for Turning YT Lists Backwards for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-loadlibrary-error-87-on-pcs/"><u>Tips for Fixing LoadLibrary Error 87 on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-11-default-apps-settings/"><u>Unveiling the Secrets of Windows 11 Default Apps Settings</u></a></li>
+</ul></div>
+

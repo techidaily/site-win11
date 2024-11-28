@@ -1,7 +1,7 @@
 ---
 title: Tactics to Fix Black, White Store Errors
-date: 2024-11-14T00:23:52.466Z
-updated: 2024-11-18T02:04:31.744Z
+date: 2024-11-26T03:55:36.245Z
+updated: 2024-11-27T19:58:37.661Z
 tags:
   - windows10
   - windows11
@@ -39,25 +39,11 @@ Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Your Internet Connection
 
  There might be nothing wrong with Microsoft Store, but you’re simply having an internet connectivity problem. If you’re[dealing with an unstable WiFi connection](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or downloading a large file, Microsoft Store might display a black or white screen.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Microsoft Store Troubleshooter
 
@@ -72,13 +58,14 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete the Microsoft Store Cache
@@ -114,13 +101,14 @@ Go through the below steps to change the Windows region:
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -129,6 +117,10 @@ Go through the below steps to change the Windows region:
  First, launch PowerShell with administrative rights. If you don't know how to do this, refer to[how to open PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/) .
 
  Then, copy the **Get-AppXPackage \*WindowsStore\* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($\_.InstallLocation)\\AppXManifest.xml"}** command, and press**Enter** to run it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Windows PC
 
@@ -155,19 +147,18 @@ Go through the below steps to change the Windows region:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-realistic-movement-rendering-for-images/"><u>[New] In 2024, Realistic Movement Rendering for Images</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-path-to-accessing-fb-status-video-footage/"><u>[Updated] Navigating the Path to Accessing FB Status Video Footage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice-for-2024/"><u>[Updated] Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-forward-finesse-in-presentation-media/"><u>2024 Approved Fast-Forward Finesse in Presentation Media</u></a></li>
-<li><a href="https://win11.techidaily.com/a-novices-guide-to-windows-11-sound-capture/"><u>A Novice's Guide to Windows 11 Sound Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/expanding-windows-hard-drive-sustainably/"><u>Expanding Windows Hard Drive Sustainably</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-melodies-await-explore-the-best-sites-to-legally-download-music-at-no-cost/"><u>Free Melodies Await! Explore the Best Sites to Legally Download Music at No Cost</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/les-differentes-methodes-de-programmation-pour-le-demarrage-et-lextinction-sous-windows-10/"><u>Les Différentes Méthodes De Programmation Pour Le Démarrage Et L'Extinction Sous Windows 10</u></a></li>
-<li><a href="https://solve-help.techidaily.com/mp4macmac/"><u>MP4不再生Mac環境下で成功：使用推奨のMac対応プレーヤー一覧</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/resurrecting-windows-photo-viewer-a-compreehr-guide-for-win10-users-for-2024/"><u>Resurrecting Windows Photo Viewer - A Compreehr Guide for Win10 Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win-error-no-access-to-network-paths/"><u>Solving WIN Error: No Access to Network Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-10-file-organization-hacks-max-156/"><u>Streamlining Windows: 10 File Organization Hacks (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/trouble-with-file-explorer-on-win11-effective-repair-methods/"><u>Trouble with File Explorer on Win11? Effective Repair Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-8-premier-mp3-downloaders-for-android-devices/"><u>[New] 8 Premier MP3 Downloaders for Android Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-unfiltered-guide-to-everyday-video-content/"><u>[New] The Unfiltered Guide to Everyday Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-image-clarity-techniques-for-online-cropping/"><u>[Updated] Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-access-denied-windows-issues-quickly-and-efficiently/"><u>Fixing Access Denied Windows Issues Quickly and Efficiently</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-generating-podcast-identity-the-top-ai-naming-software/"><u>In 2024, Generating Podcast Identity The Top AI Naming Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-y100t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo Y100t to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/old-pc-new-atlasos-a-gaming-transformation/"><u>Old PC, New AtlasOS: A Gaming Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/selecting-web-browsers-with-minimal-resource-impact-on-diverse-oses/"><u>Selecting Web Browsers with Minimal Resource Impact on Diverse OSes</u></a></li>
+<li><a href="https://win-studio.techidaily.com/sicheres-loschen-und-optimieren-ihrer-festplatte-mit-windows-10-lassen-sie-sich-von-diesen-vier-bewahrten-strategien-inspirieren/"><u>Sicheres Löschen Und Optimieren Ihrer Festplatte Mit Windows 10 - Lassen Sie Sich Von Diesen Vier Bewährten Strategien Inspirieren!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-and-differences-of-artificial-intelligence-tech/"><u>The Essence and Differences of Artificial Intelligence Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-fixes-getting-rid-of-water-in-your-iphone-audio-ports/"><u>Urgent Fixes: Getting Rid of Water in Your iPhone Audio Ports</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-idle-management-how-to-schedule-system-shutdown/"><u>Win11 Idle Management: How to Schedule System Shutdown</u></a></li>
 </ul></div>
 

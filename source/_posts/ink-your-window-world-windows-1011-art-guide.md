@@ -1,7 +1,7 @@
 ---
 title: "Ink Your Window World: Windows 10/11 Art Guide"
-date: 2024-11-16T09:23:33.634Z
-updated: 2024-11-18T01:56:02.242Z
+date: 2024-11-25T03:27:07.081Z
+updated: 2024-11-27T17:53:43.876Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With Epic Pen
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
@@ -39,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 7. Select**I don’t want to use Epic Pen Pro right now** on the activation window to utilize the software without trial features. You can still activate the trial features later.  
 ![The I don't want to use Epic Pen Pro right now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/epic-pen-setup-window.jpg)
 8. Then you can select an**Enable Epic Pen Pro features for free** option to permanently unlock a Pro feature by opting into the Brightdata scheme for sharing your PC’s resources. You can opt into that scheme later if you wish, but to try out the basic version first click **I don’t want to enable free Epic Pen Pro features right now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Brightdata scheme option for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-epic-pen-pro-features-option.jpg)
 9. Select**Finish** (with the**Launch** checkbox enabled) to start Epic Pen.
 
@@ -49,13 +58,6 @@ Now you can get scribbling on the Windows desktop.
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
@@ -69,9 +71,17 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -87,25 +97,11 @@ Now you can get scribbling on the Windows desktop.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
 
 ![The pen width bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pen-width-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The gInk toolbar includes a screenshot tool you can use for taking snapshots of what you’ve drawn on the desktop. Click the**Snapshot** (camera) button on the app’s toolbar to activate it. Drag the rectangle around an area to include in the captured output to take the picture. That snapshot will automatically save to a folder path specified within gInk’s**General** tab.
 
@@ -115,14 +111,11 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
- You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -143,17 +136,19 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora-for-2024/"><u>[New] The Blueprint for Flawless Video Conferences on Slack+Filmora for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-transforming-flat-text-into-3d-masterpieces-photo-for-2024/"><u>[New] Transforming Flat Text Into 3D Masterpieces PHOTO for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-and-share-your-win10-gaming-life/"><u>[Updated] 2024 Approved Capture and Share Your Win10 Gaming Life</u></a></li>
-<li><a href="https://win11.techidaily.com/beneath-the-surface-steps-to-engage-with-windows-covert-personality-explorer/"><u>Beneath the Surface: Steps to Engage with Windows’ Covert Personality Explorer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-well-being-8-cutting-edge-ai-fitness-tools/"><u>Boost Well-Being: 8 Cutting-Edge AI Fitness Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/disable-dim-display-feature-via-control-panel-quick-guide/"><u>Disable Dim Display Feature via Control Panel Quick Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-force-delete-or-uninstall-a-printer-in-windows-11-and-11/"><u>How to Force Delete or Uninstall a Printer in Windows 11 & 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-vimeo-uploads-from-moviemaker-projects-for-2024/"><u>Streamlining Vimeo Uploads From Moviemaker Projects for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/syncing-tiktok-videos-with-your-facebook-profile/"><u>Syncing TikTok Videos with Your Facebook Profile</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-tune-up-discover-windows-best-speed-solutions/"><u>Turbo Tune-Up: Discover Windows' Best Speed Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-efficiency-quick-access-to-system-restore-in-windows-11/"><u>Unlocking Efficiency: Quick Access to System Restore in Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tricks-for-swift-vimeo-watch/"><u>[New] In 2024, Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-content-strategy-through-youtube-metrics/"><u>[Updated] 2024 Approved Elevating Content Strategy Through YouTube Metrics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-google-hangout-optimization-advanced-methods-4-tips/"><u>[Updated] In 2024, Google Hangout Optimization Advanced Methods, 4 Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-kids-and-newbies-the-best-10-drones-out-there/"><u>In 2024, Kids and Newbies The Best 10 Drones Out There</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-fn-key-settings-for-windows-11-users/"><u>Navigating FN Key Settings for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-synapse-with-windows-1011-interface-issues/"><u>Reconciling Synapse with Windows 10/11 Interface Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-system-conflicts-one-antivirus-at-a-time-in-windows/"><u>Reducing System Conflicts: One Antivirus at a Time in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/sifting-through-clues-for-facebooks-future-nickname/"><u>Sifting Through Clues for Facebook’s Future Nickname</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operations-resolving-ssd-errors-in-windows/"><u>Smooth Operations: Resolving SSD Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-camera-failure-to-store-media/"><u>Solving Windows Camera Failure to Store Media</u></a></li>
+<li><a href="https://win11.techidaily.com/update-file-timestamps-on-windows-easily/"><u>Update File Timestamps on Windows Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/window-wizardry-organize-all-your-tasks-with-win1110/"><u>Window Wizardry: Organize All Your Tasks with Win11/10</u></a></li>
 </ul></div>
 

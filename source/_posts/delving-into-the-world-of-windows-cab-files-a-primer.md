@@ -1,7 +1,7 @@
 ---
 title: "Delving Into the World of Windows Cab Files: A Primer"
-date: 2024-11-12T18:51:39.379Z
-updated: 2024-11-18T09:32:55.202Z
+date: 2024-11-22T20:02:42.366Z
+updated: 2024-11-27T19:42:07.449Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Windows CAB File?
 
  A CAB file or Cabinet file is a common archive file format used by Microsoft. It contains the compressed version of different files, folders, and even other cabinet files. Microsoft uses these files to distribute Windows, drivers, and UWP app updates. However, you can also use it to store other forms of data, such as images, videos, and documents.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  CAB files are recognized by their first four bytes, which are the [ASCII characters](https://www.makeuseof.com/what-is-ascii-text/) MSCF. You can store up to 65,535 folders in a CAB file, with each folder having a storage capacity of 65,535 files.
 
  Now that you have a brief understanding of CAB files, let's check out how you can install it on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install a CAB File on Windows 11
 
@@ -59,21 +67,7 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 `  
 ![Powershell window with command to install a CAB file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powershell-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. PowerShell will install the content of the CAB file on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install Driver Updates From a CAB File
 
@@ -85,61 +79,37 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 3. Choose the location where you want to extract the contents of the CAB file and click **Extract**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press **Win + X** hotkey to open the Power User menu and choose **Device Manager**.
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
 
  The Device Manager will now install the driver update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CAB Files: Everything You Need to Know
 
  You may sometimes come across a CAB file and wonder what it is and how to install it. After reading the above explanation, hopefully, you now have a basic understanding of CAB files. You now also know how to install driver updates that are in the form of CAB files.
 
  But what exactly is a Windows CAB file, and how do you install it on your computer? Here's everything you need to know.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-essential-tutorial-for-making-memes-on-9gag/"><u>[New] In 2024, The Essential Tutorial for Making Memes on 9GAG</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-innovative-approaches-to-social-media-video-making/"><u>[New] Innovative Approaches to Social Media Video Making</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-10-finest-yoga-series-to-achieve-zen-and-strength/"><u>[Updated] In 2024, The 10 Finest Yoga Series to Achieve Zen and Strength</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-tutorial-capturing-every-moment-of-gameplay-for-2024/"><u>[Updated] OBS Tutorial Capturing Every Moment of Gameplay for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-premier-online-streaming-options-for-faith-communities/"><u>[Updated] Premier Online Streaming Options for Faith Communities</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/best-instagram-highlight-cover-maker-online/"><u>Best Instagram Highlight Cover Maker Online</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-common-errors-in-windows-update-xc004f050/"><u>Bypassing Common Errors in Windows Update Xc004f050</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-steam-read-only-barrier-errors-in-windows-11/"><u>Eliminating Steam Read-Only Barrier Errors in Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/expert-insights-top-insta-management-tools-reviewed-for-2024/"><u>Expert Insights Top Insta Management Tools Reviewed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
-<li><a href="https://win11.techidaily.com/five-methods-for-protecting-your-pc-avoiding-bitlocker/"><u>Five Methods for Protecting Your PC: Avoiding BitLocker</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-meizu-21-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Meizu 21 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-new-world-of-windows-11-avoidance-guide-top-8/"><u>Navigating the New World of Windows 11: Avoidance Guide (Top 8)</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-no-support-errors-5-effective-steps/"><u>Navigating Windows No-Support Errors: 5 Effective Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-to-the-authorization-interface-in-windows-11/"><u>Pathways to the Authorization Interface in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/1719368082467-switch-off-windows-11-defender-firewall-now/"><u>Switch Off Windows 11 Defender Firewall Now</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-precision-crafting-win11-self-extractables/"><u>The Path to Precision: Crafting Win11 Self-Extractables</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-in-tpm-deactivation-for-modern-windows-users/"><u>Triumph in TPM Deactivation for Modern Windows Users</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +118,23 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-for-tiktok-content-sharing-strategies-for-2024/"><u>[New] Twitter for TikTok Content Sharing Strategies for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-foundations-selecting-the-right-equipment-for-2024/"><u>[Updated] YouTube Foundations Selecting the Right Equipment for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>2024 Approved 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clash-of-giants-evaluating-the-differences-between-ps5-slim-and-regular-ps5/"><u>Clash of Giants: Evaluating the Differences Between PS5 Slim and Regular PS5</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exceptional-performance-with-the-kootek-cooling-station-for-computers/"><u>Exceptional Performance with the Kootek Cooling Station for Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-discord-runs-improving-windows-app-response-times/"><u>Faster Discord Runs: Improving Windows App Response Times</u></a></li>
+<li><a href="https://win11.techidaily.com/full-win11-narrator-keyboard-command-catalog/"><u>Full Win11 Narrator Keyboard Command Catalog</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-transforms-education-landscape-connecting-70plus-million-people/"><u>Mondly Transforms Education Landscape, Connecting 70+ Million People</u></a></li>
+<li><a href="https://win11.techidaily.com/power-users-unite-local-gpo-in-windows-11/"><u>Power Users Unite: Local GPO in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-pre-ultimate-windows-pc-accessibility/"><u>Revitalizing Pre-Ultimate Windows PC Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-teammers-non-display-issue/"><u>Solving Teammers' Non-Display Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-0x887a0006-gpu-hang-anomaly/"><u>Solving the 0X887A0006 GPU Hang Anomaly</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-computers-clock-display-with-animated-screensavers-via-these-5-tools/"><u>Transform Your Computer’s Clock Display with Animated Screensavers via These 5 Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-premium-pc-speakers-in-2-best-audio-solutions-for-your-desktop-budget-picks-and-audiophile-gems/"><u>Ultimate Guide to Premium PC Speakers in 2# Best Audio Solutions for Your Desktop - Budget Picks & Audiophile Gems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166571-9781396323119-wisdom-of-the-ages/"><u>Wisdom of the Ages | Free Book</u></a></li>
+</ul></div>
+

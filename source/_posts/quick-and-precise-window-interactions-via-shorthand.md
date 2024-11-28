@@ -1,7 +1,7 @@
 ---
 title: Quick and Precise Window Interactions via Shorthand
-date: 2024-11-14T05:52:34.994Z
-updated: 2024-11-17T16:58:50.459Z
+date: 2024-11-26T18:15:43.711Z
+updated: 2024-11-27T18:39:54.016Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Keyboard Shortcuts for Common Tasks
 
@@ -51,16 +55,13 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Handy Windows Shortcuts for Common Actions
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scan Your PC for Malware Quickly
 
@@ -72,23 +73,18 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
-![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
-5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
+5. Finally, click on **Next** to scan your PC for malicious software.
 
 ### Control Your System Volume With Your Mouse Wheel
 
@@ -105,10 +101,7 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Shortcuts to Work Faster on Windows
@@ -117,27 +110,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-content-top-reasons-and-solutions-for-gaining-video-views/"><u>[New] 2024 Approved Elevate Your Content Top Reasons and Solutions for Gaining Video Views</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-content-gaining-profits-an-insiders-tale-on-instagram-sponsorship-for-2024/"><u>[New] Crafting Content, Gaining Profits An Insider's Tale on Instagram Sponsorship for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-pro-chromebook-record-unmatched-screen-capture-for-2024/"><u>[New] Pro Chromebook Record Unmatched Screen Capture for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728466735604-google/"><u>「Google ドライブ」のエラーごみ箱からデータ回収 - 失われたファイル再生手順</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-unresponsive-task-issues-in-windows-os/"><u>Addressing 'Unresponsive Task' Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-correcting-windows-defender-error-0x80004004/"><u>Deciphering & Correcting Windows Defender Error 0X80004004</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-into-how-t-series-earnings-work-on-youtube/"><u>Delving Into How T-Series Earnings Work on Youtube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-seamlessly-edit-and-resize-your-mp4-videos-in-windows-1011-with-no-re-encoding-needed/"><u>How To Seamlessly Edit and Resize Your MP4 Videos in Windows 10/11 With No Re-Encoding Needed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-how-to-fix-wsl-error-code-4294967295-on-your-pc/"><u>Mastering How to Fix WSL Error Code: 4294967295 on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-pc-performance-installing-easy-to-use-enhancement-tool-for-windows/"><u>Maximizing PC Performance: Installing Easy-to-Use Enhancement Tool for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-interruption-nightmares-keeping-your-ps4-remote-connected/"><u>Overcoming Interruption Nightmares: Keeping Your PS4 Remote Connected</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-playback-issues-with-windows-errors/"><u>Overcoming Playback Issues with Windows Errors</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/scopri-i-migliori-programmi-di-copia-disco-wd-compatibili-con-windows-1011-per-una-configurazione-protetta-ed-efficiente/"><u>Scopri I Migliori Programmi Di Copia Disco WD Compatibili Con Windows 10/11, per Una Configurazione Protetta Ed Efficiente.</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-disconnect-in-windows-remote-play-feature/"><u>Solving Disconnect in Windows Remote Play Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/the-7-best-drawing-apps-for-windows-10/"><u>The 7 Best Drawing Apps for Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-clear-audio-fixing-plugged-in-yet-silent-headphones-or-speakers-on-windows-computers/"><u>Unlocking Clear Audio: Fixing 'Plugged In, Yet Silent' Headphones or Speakers on Windows Computers</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +117,27 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-grasping-valheim-greenery-leading-saplings-explored-for-2024/"><u>[New] Grasping Valheim Greenery Leading Saplings Explored for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-harness-the-power-of-hashtags-in-instagram-marketing-strategies-for-2024/"><u>[New] Harness the Power of Hashtags in Instagram Marketing Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sifting-through-the-elements-of-instagram-stories-for-2024/"><u>[New] Sifting Through the Elements of Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-action-cameras-face-off-gopro-hero-4-vs-ghost-s-drifting/"><u>2024 Approved Action Cameras Face Off GoPro Hero 4 Vs. Ghost-S Drifting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>2024 Approved How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/basics-of-weaving-a-narrative-thread/"><u>Basics of Weaving a Narrative Thread</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-concentration-effective-strategies-for-enhanced-productivity-when-telecommuting-insights-from-zdnet/"><u>Boosting Concentration: Effective Strategies for Enhanced Productivity When Telecommuting - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/desktop-icon-disappearance-windows-11-recovery-steps/"><u>Desktop Icon Disappearance: Windows 11 Recovery Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-ethernet-connectivity-loss-on-pc/"><u>Eliminating Ethernet Connectivity Loss on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-overcoming-voice-typing-hiccups-in-windows-11/"><u>Expert Guide to Overcoming Voice Typing Hiccups in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-cr2-to-windows-jpeg-a-compreenased-conversion-guide/"><u>From CR2 to Windows JPEG: A Compreenased Conversion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-dropbox-and-google-drive-from-a-windows-drive-letter/"><u>How to Access Dropbox and Google Drive From a Windows Drive Letter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-non-functional-audio-on-win-10/"><u>Remedy for Non-Functional Audio on Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/right-click-rescue-6-fixes-to-reactivate-menu-items/"><u>Right-Click Rescue: 6 Fixes to Reactivate Menu Items</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simple-steps-to-import-youtube-music-into-imovie-for-2024/"><u>Simple Steps to Import YouTube Music Into iMovie for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11-40/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-configure-wi-fi-metered-networks-in-win11/"><u>Tips: Configure Wi-Fi Metered Networks in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-hacktoolwin32keygen-malware-how-to-remove-it-on-windows/"><u>What Is the HackTool:Win32/Keygen Malware? How to Remove It on Windows</u></a></li>
+</ul></div>
+

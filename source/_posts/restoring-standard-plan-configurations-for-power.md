@@ -1,7 +1,7 @@
 ---
 title: Restoring Standard Plan Configurations for Power
-date: 2024-11-12T02:13:32.861Z
-updated: 2024-11-17T20:23:10.010Z
+date: 2024-11-23T00:24:51.210Z
+updated: 2024-11-27T18:34:51.586Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check Which Power Plan Is Missing
 
 ![check missing power plans control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-missing-power-plans-control-panel-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on your system hardware specification, you may see three or four power plans in the Power Options panel. Balanced, Power Saver and High Performance are the most common in all Windows computers.
 
@@ -42,21 +50,16 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 5. Expand the**Show additional plans** section.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -82,10 +85,7 @@ To reset Windows default power plans:
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
@@ -111,6 +111,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Next, open**Control Panel** and go to**Power Options** to check if the missing power plans are restored on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable the High Performance Power Plan Using Command Prompt
 
 ![enable high performance plan windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-high-performance-plan-windows-command-prompt.jpg)
@@ -125,13 +129,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -139,13 +136,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  As you may have guessed already, in this situation, you’ll need to[disable Modern Standby (S0) on Windows](https://www.makeuseof.com/windows-disable-modern-standby/) to restore the default power plans on Windows. After you disable Modern Standby (S0), open Power Options to use the default power plans.
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
 
@@ -161,13 +151,6 @@ To create a custom Power Plan on Windows:
 5. In the left pane, click on**Create a Power Plan.**  
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
@@ -196,22 +179,20 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-direct-pathway-streamlined-capturing-techniques-dell/"><u>[New] 2024 Approved Direct Pathway Streamlined Capturing Techniques (Dell)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-high-definition-flight-testing-xiaomi-mi-drone-probe/"><u>[New] 2024 Approved High-Definition Flight Testing - Xiaomi Mi Drone Probe</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-screen-record-on-mac-for-2024/"><u>[New] How to Screen Record on Mac for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>[New] In 2024, Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-leveraging-advanced-techniques-in-360-video-on-fb-live-for-2024/"><u>[New] Leveraging Advanced Techniques in 360 Video on FB Live for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/5-effective-strategies-to-fix-rpc-issues-in-win/"><u>5 Effective Strategies to Fix RPC Issues in Win</u></a></li>
-<li><a href="https://win11.techidaily.com/antimalware-resource-hog-turn-it-off-for-better-performance/"><u>Antimalware Resource Hog: Turn It Off for Better Performance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ynamics-unlock-creative-animation-potential-for-2024/"><u>DIY Dynamics Unlock Creative Animation Potential for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/exploring-screenflow-features-a-mac-developers-perspective/"><u>Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/finding-the-latest-drivers-a-guide-to-update-your-device-on-windows-11/"><u>Finding the Latest Drivers: A Guide to Update Your Device on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-autonomous-command-line-openings/"><u>How to Disable Autonomous Command Line Openings</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x80072f30-on-windows/"><u>How to Fix the Microsoft Store Error 0X80072F30 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/inside-the-windows-world-crafting-and-examining-system-data/"><u>Inside the Windows World: Crafting and Examining System Data</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-complex-windows-11-install-issues/"><u>Navigating Through Complex Windows 11 Install Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/security-essentials-pre-upgrade-activation-of-tpm-and-secure-boot/"><u>Security Essentials: Pre-Upgrade Activation of TPM & Secure Boot</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tidy-up-windows-11-workspace-in-minutes/"><u>Tidy Up Windows 11 Workspace in Minutes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-economical-choice-for-superior-asmr-sound-experiencing/"><u>[Updated] 2024 Approved Economical Choice for Superior ASMR Sound Experiencing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-entry-level-camera-reviews-2024-for-beginners/"><u>[Updated] Best Entry-Level Camera Reviews 2024 | for Beginners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-make-everyday-banter-hilarious-text-meme-genration/"><u>2024 Approved Make Everyday Banter Hilarious Text Meme Gen'ration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915347892-a-closer-look-at-leading-social-media-sites-facebook-twitter-instagram-and-youtube-unveiled/"><u>A Closer Look at Leading Social Media Sites: Facebook, Twitter, Instagram and YouTube Unveiled.</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-for-zone-visibility-on-windows-security/"><u>Command Center for Zone Visibility on Windows Security</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g34-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-secrets-in-windows-11-themes-via-registry-editing/"><u>Deciphering Secrets in Windows 11 Themes via Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-language-of-windows-mbr-screens/"><u>Deciphering the Language of Windows MBR Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-troubleshooting-guide-resolving-initialization-stuck-problems/"><u>Destiny # Troubleshooting Guide: Resolving Initialization Stuck Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-crafting-windows-11-extractable-files/"><u>Essential Guide: Crafting Windows 11 Extractable Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/migrating-minecraft-servers-bedrock-to-java-journey-using-geysermc/"><u>Migrating Minecraft Servers: Bedrock to Java Journey Using GeyserMC</u></a></li>
+<li><a href="https://win11.techidaily.com/pick-your-sharing-partner-between-google-and-microsofts-protocols/"><u>Pick Your Sharing Partner: Between Google and Microsoft's Protocols</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-office-potential-on-windows-11-with-outlook-preview/"><u>Unlock Full Office Potential on Windows 11 With Outlook Preview</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlocking-secrets-a-comprehensive-tutorial-on-drm-extraction-for-your-ebook-chapters-15-and-17/"><u>Unlocking Secrets: A Comprehensive Tutorial on DRM Extraction for Your eBook, Chapters 15 & 17</u></a></li>
 </ul></div>
 

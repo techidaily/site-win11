@@ -1,7 +1,7 @@
 ---
 title: "Window Wizardry: Organize All Your Tasks with Win11/10"
-date: 2024-11-16T09:48:08.381Z
-updated: 2024-11-17T23:27:07.638Z
+date: 2024-11-26T22:12:08.475Z
+updated: 2024-11-27T21:37:02.658Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
  Navigating through too many open windows on your PC? One of the easiest ways to sort them out is to have Windows cascade them for you. You can use this feature on Windows 10\. But does the function still work on Windows 11, or is there an alternative?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Cascade Open Windows in Windows 10
@@ -47,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
  To return them to their original locations, right-click the taskbar again and select **Undo to cascade all windows**. If the option is unavailable on your computer, you’ve probably enabled Tablet mode. Launch the **Action Center** and [click on the **Tablet** tile to turn it off](https://www.makeuseof.com/turn-off-tablet-mode-windows-10/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Cascade Open Windows in Windows 11?
@@ -61,25 +55,19 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can [use PowerToys to make windows more manageable](https://www.makeuseof.com/tag/windows-10-powertoys/). However, you’ll have to use a different app to replicate the cascade option properly in Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Cascade Windows on Windows 11
 
 ![Fancy Wm app in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/fancy-wm-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Windows 11, one of the best tools for this job is an open source tiling manager called [FancyWM](https://github.com/FancyWM), available free from the Microsoft Store. Launch the Microsoft Store app and search for "fancywm," or go to the [FancyWM Microsoft Store page](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-us&gl=us) directly. Once installed, you can [use FancyWM to create custom layouts](https://www.makeuseof.com/windows-fancywm-guide/), manage window groups, and take advantage of all your virtual desktops and monitors.
 
@@ -87,32 +75,13 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 ![How to cascade windows in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/cascade-windows-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Cascading all open windows helps you to find what you’re looking for with a glance at your desktop. If you have a dual monitor setup, the windows will cascade on the monitor they are open on. If you still can’t find the window you’re looking for, chances are it’s off-screen.
 
  Navigating through too many open windows on your PC? One of the easiest ways to sort them out is to have Windows cascade them for you. You can use this feature on Windows 10\. But does the function still work on Windows 11, or is there an alternative?
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>[New] In 2024, Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/outube-shorts-creating-flawless-5-second-videos/"><u>[New] YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-webcam-and-screen-simultaneously/"><u>[Updated] In 2024, How to Record Webcam and Screen Simultaneously</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-comprehensively-addressed-best-tools-for-efficient-unfollowing/"><u>2024 Approved Comprehensively Addressed Best Tools for Efficient Unfollowing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/a-step-by-step-guide-on-dividing-one-video-into-several-pieces/"><u>A Step-by-Step Guide on Dividing One Video Into Several Pieces</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ascend-your-earning-game-executing-a-three-part-blueprint-for-youtube-revenue-analysis-for-2024/"><u>Ascend Your Earning Game Executing a Three-Part Blueprint for YouTube Revenue Analysis for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-performance-and-efficiency-top-10-powertoys-applications/"><u>Boost Performance and Efficiency: Top 10 PowerToys Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/brightening-your-computerenas-dark-background-issue/"><u>Brightening Your Computer'enas Dark Background Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-conflicting-apps-in-windows-10/"><u>Dealing with 'Conflicting Apps' In Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-support-paths-for-common-windows-concerns/"><u>Efficient Support Paths for Common Windows Concerns</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-icon-visibility-windows-11s-hidden-menus/"><u>Elevate Icon Visibility: Windows 11'S Hidden Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-key-collectors-deal-wintry-windows-11-priced-at-612-per-year/"><u>Exclusive Key Collector's Deal - Wintry Windows 11 Priced at $6.12 Per Year</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/r-leaders-must-watch-culinary-youtube-stars/"><u>Flavor Leaders Must-Watch Culinary YouTube Stars</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-performance-cutting-down-memory-demand-by-media-apps/"><u>Improve Performance: Cutting Down Memory Demand by Media Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-disconnected-google-drive-windows-filesystem/"><u>Mending Disconnected Google Drive Windows Filesystem</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/steps-to-crafting-powerful-end-of-episode-notes-for-2024/"><u>Steps to Crafting Powerful End-of-Episode Notes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-how-to-enhance-your-workflow-via-menus/"><u>The Blueprint: How to Enhance Your Workflow via Menus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-ultimate-mini-computers-of-2prise-zdnet/"><u>Unveiling the Ultimate Mini Computers of 2Prise | ZDNet</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,3 +90,22 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/tep-by-step-guide-to-securing-your-youtube-videos-for-2024/"><u>[New] Step-by-Step Guide to Securing Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>[Updated] Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-past-accessing-windows-11s-history/"><u>Delving Into the Past: Accessing Windows 11'S History</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-choose-a-browser-that-uses-less-ram-and-cpu-across-operating-systems/"><u>How to Choose a Browser That Uses Less RAM & CPU Across Operating Systems?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-incorporate-your-podcast-into-app-store/"><u>How To Incorporate Your Podcast Into App Store</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100t to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-controlling-data-metering-for-your-wi-fi-connection/"><u>Mastery: Controlling Data Metering for Your Wi-Fi Connection</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-data-wipe-tool-bitraser-enterprise-video-guide/"><u>Professional Data Wipe Tool: BitRaser Enterprise Video Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/saving-past-emails-to-active-exchange-platform-via-video-guide/"><u>Saving Past Emails to Active Exchange Platform via Video Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screensnapper-pro-2023-apowersofts-latest-for-pcs-for-2024/"><u>ScreenSnapper Pro 2023 Apowersoft's Latest for PCs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-windows-store-error-code-0x80073cf3/"><u>Strategies for Fixing Windows Store Error Code 0X80073cf3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-keeping-up-with-snapstreaks-for-2024/"><u>The Art of Keeping Up With Snapstreaks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-artistic-potential-with-top-7-win-11-tools/"><u>Unleash Your Artistic Potential with Top 7 Win 11 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secret-behind-effective-application-of-lav-filters-in-windows/"><u>Unveiling the Secret Behind Effective Application of LAV Filters in Windows</u></a></li>
+</ul></div>
+

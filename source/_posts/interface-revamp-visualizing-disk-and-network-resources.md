@@ -1,7 +1,7 @@
 ---
 title: "Interface Revamp: Visualizing Disk and Network Resources"
-date: 2024-09-11T09:30:05.281Z
-updated: 2024-09-12T09:30:05.281Z
+date: 2024-11-21T02:14:36.700Z
+updated: 2024-11-28T02:44:05.931Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add System Resource Usage Details to the System Tray With Task Manager
 
  Task Manager adds one small system resource icon to the system tray that shows RAM (system memory), CPU (central processor), network, and disk drive utilization when running. However, that icon will only be visible in the system tray when you have Task Manager open on the taskbar unless configured otherwise. You can keep those system resource details in the system tray without having Task Manager open on the taskbar as follows:
@@ -37,25 +30,15 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 ![The Hide when minimized option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/hide-when-minimized.jpg)
 4. Click Task Manager’s **Minimize** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Selecting to minimize Task Manager will now effectively close that utility’s window, but its PC resource usage details will remain visible within the system tray. Move your cursor over the small square icon in the system tray to view a tooltip showing RAM, CPU, network, and disk utilization for your PC. Clicking that system tray icon reopens the Task Manager window on its graphical **Performance** tab.
 
 ![The system resource usage details shown by Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/task-manager-s-system-tray-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
@@ -70,6 +53,11 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 7. You’ll now see one CPU resource icon in the system tray area or overflow menu. To add the others, right-click the CPU icon and select the **Memory** tab.  
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
@@ -83,10 +71,11 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
@@ -116,20 +105,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## View Your System Resource Usage Info Directly From Your System Tray
@@ -138,11 +117,31 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact/"><u>[New] In 2024, Capture the Moment Enhancing and Cutting Video for Instagram Impact</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister/"><u>[New] In 2024, Unveiling the Core Technology Behind Superior Screen Captures by Recmeister</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-expert-choices-for-terraria/"><u>[New] Top 10 Expert Choices for Terraria</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr-for-2024/"><u>[Updated] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[Updated] In 2024, Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>[Updated] In 2024, The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-gentle-volume-alteration-using-fl-studio/"><u>2024 Approved Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-warning-symbol-the-x-on-windows-drives/"><u>Deciphering the Warning Symbol: The X on Windows Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-0x800704b3-issue-on-windows-devices/"><u>Demystifying 0X800704B3 Issue on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-aw-snap-faults-in-google-chrome-windows/"><u>Eradicating Aw, Snap! Faults in Google Chrome Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-11-deployment-offline/"><u>Mastery of Windows 11 Deployment Offline</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-xbox-service-disruption-in-windows-devices/"><u>Overcoming Xbox Service Disruption in Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-inverted-alphabet-entering-windows/"><u>Solving Inverted Alphabet Entering Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-1011-menu-navigation-process/"><u>Streamlining Windows 10/11 Menu Navigation Process</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-incessant-edge-hotkey-presence/"><u>Tackling Incessant Edge Hotkey Presence</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-google-pixel-fold-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Google Pixel Fold</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-free-play-quick-remedies-for-fixing-the-division-2-system-errors/"><u>Trouble-Free Play: Quick Remedies for Fixing The Division 2 System Errors</u></a></li>
+</ul></div>
+

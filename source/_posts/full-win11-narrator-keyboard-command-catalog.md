@@ -1,7 +1,7 @@
 ---
 title: Full Win11 Narrator Keyboard Command Catalog
-date: 2024-11-17T05:35:50.694Z
-updated: 2024-11-18T06:26:36.389Z
+date: 2024-11-20T18:52:37.475Z
+updated: 2024-11-27T23:24:51.511Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
 
@@ -181,10 +185,7 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -206,20 +207,19 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhance-your-livestream-quality-learn-4-innovative-techniques/"><u>[New] 2024 Approved Enhance Your Livestream Quality Learn 4 Innovative Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-improve-instagram-video-loading-times-effectively/"><u>[New] 2024 Approved Improve Instagram Video Loading Times Effectively</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/1716184097735-updated-in-2024-how-to-use-the-instagram-green-screen-effect/"><u>[Updated] In 2024, How to Use the Instagram Green Screen Effect</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-blueprint-crafting-engaging-youtube-content-via-windows-movie-maker/"><u>[Updated] Step-by-Step Blueprint Crafting Engaging YouTube Content via Windows Movie Maker</u></a></li>
-<li><a href="https://win11.techidaily.com/aesthetic-desk-customization-displaying-this-pc-image/"><u>Aesthetic Desk Customization: Displaying 'This PC' Image</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-the-small-yet-pricey-sony-xperia-5-phone/"><u>Comprehensive Review: The Small yet Pricey Sony Xperia 5 Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-in-the-windows-ecosystem-a-dive-into-memory-shields/"><u>Ftdibus.sys in the Windows Ecosystem: A Dive Into Memory Shields</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-completely-get-rid-of-wsl-on-windows-11-pcs/"><u>How To Completely Get Rid of WSL on Windows 11 PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-maximize-views-download-youtube-artwork-for-free/"><u>In 2024, Maximize Views Download YouTube Artwork for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-wasteful-usage-by-core-system-processes/"><u>Reducing Wasteful Usage by Core System Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-java-installer-problems-on-a-windows-pc/"><u>Remedying Java Installer Problems on a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-connectivity-problems-with-fall-guys-on-pc/"><u>Resolving Connectivity Problems with Fall Guys on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/surges-subdued-mastering-the-art-of-cpu-management-in-rm/"><u>Surges Subdued: Mastering the Art of CPU Management in RM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-superior-search-capabilities-with-perplexity-ai-the-top-ai-assistant-for-google/"><u>Unleash Superior Search Capabilities with Perplexity AI - The Top AI Assistant for Google</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-strategies-for-enhancing-iphone-hdr-footage-in-premiere-pro/"><u>[New] 5 Strategies for Enhancing iPhone HDR Footage in Premiere Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-avoid-youtube-previews-on-all-platforms-and-devices-for-2024/"><u>[New] Avoid YouTube Previews on All Platforms & Devices for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/"><u>[New] Mastering Video Playback Rate Adjustments in Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-steps-to-update-login-credentials-on-win-11/"><u>Effective Steps to Update Login Credentials on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eliminate-microsoft-offices-error-code-0x80041015/"><u>Guide to Eliminate Microsoft Office's Error Code 0X80041015</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-mini-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 mini Without Previous Owner?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-asus-proart-pa32ucxr-a-revolution-in-professional-monitor-accuracy-with-mini-leds/"><u>In-Depth Analysis of Asus ProArt PA32UCXR: A Revolution in Professional Monitor Accuracy with Mini LEDs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-video-resets-on-win1110-devices/"><u>Strategies to Stop Video Resets on Win11/10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-perfect-symbiosis-navigating-github-desktop-and-windows-11/"><u>The Perfect Symbiosis: Navigating GitHub Desktop & Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-discord-live-broadcasts-for-2024/"><u>The Ultimate Guide to Discord Live Broadcasts for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/triumphant-driver-support-for-startech-and-windows-xp-win11/"><u>Triumphant Driver Support for StarTech & Windows XP-Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-innovation-four-revolutionary-updates-for-paint/"><u>Unveiling Innovation: Four Revolutionary Updates for Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-mystery-of-windows-bt-folders/"><u>Unveiling the Mystery of Windows ~BT Folders</u></a></li>
 </ul></div>
 

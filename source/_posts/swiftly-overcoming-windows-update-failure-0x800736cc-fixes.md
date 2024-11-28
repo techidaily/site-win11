@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Overcoming Windows Update Failure: 0X800736CC Fixes"
-date: 2024-11-15T19:14:20.016Z
-updated: 2024-11-17T19:41:31.218Z
+date: 2024-11-23T21:59:29.862Z
+updated: 2024-11-27T23:15:10.460Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  The first thing you need to do is [restart your computer](https://www.makeuseof.com/windows-restart-methods/). Although it may seem too simplistic, you'd be surprised how often this resolves various issues. When your computer reboots, it clears temporary files and processes that could cause problems. This includes incomplete Windows updates that failed to install or encountered installation errors.
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Windows Update Troubleshooter
@@ -47,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 3. On the right sidebar, click **Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Under **Most frequent**, locate **Windows Update** and click **Run**.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
@@ -77,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
@@ -88,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
 
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
 
@@ -171,6 +155,10 @@ net start cryptsvc`
 
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Try Generic Windows Update Fixes
 
  Besides the methods listed above, you can also try some generic Windows Update fixes. These methods usually work if a temporary issue or corrupted system files cause the error.
@@ -181,30 +169,13 @@ net start cryptsvc`
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) \- Clean Boot can identify software conflicts causing the error. It disables all non-essential services and programs from running in the background. That way, you can isolate the problematic process and resolve the issue.
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-sites-for-digital-metallic-text-with-a-golden-twist/"><u>[Updated] In 2024, Top Sites for Digital Metallic Text with a Golden Twist</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-iphone-flash-optimization-tips/"><u>[Updated] IPhone Flash Optimization Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-efficient-and-effective-tag-usage-on-youtube/"><u>[Updated] Step-by-Step Guide to Efficient and Effective Tag Usage on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-deactivated-speech-recognition-microsofts-windows-11-guide/"><u>Addressing Deactivated Speech Recognition: Microsoft's Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/enablingdisabling-microsofts-smartguard-in-win-10/"><u>Enabling/Disabling Microsoft's SmartGuard in Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-abrupt-device-removal-errors-dxgi/"><u>Fixing Abrupt Device Removal Errors (DXGI)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-zero-to-hero-accelerating-your-way-to-a-top-10000-followers-in-no-time-on-insta/"><u>In 2024, From Zero to Hero Accelerating Your Way to a Top 10,000 Followers in No Time on Insta</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a14-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A14 5G Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-visibility-to-system-startups-on-win-os/"><u>Restoring Visibility to System Startups on Win OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/retrieve-accidentally-erased-messages-on-any-mobile-phone-easily/"><u>Retrieve Accidentally Erased Messages on Any Mobile Phone Easily</u></a></li>
-<li><a href="https://fox-info.techidaily.com/sound-excellence-on-a-shoestring-superior-asmr-mics-affordably/"><u>Sound Excellence on a Shoestring - Superior ASMR Mics Affordably</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-editing-with-these-win11-videoscripts/"><u>Streamline Editing with These Win11 Videoscripts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-civi-3-disney-100th-anniversary-edition-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Civi 3 Disney 100th Anniversary Edition Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-feature-flashback-the-surviving-anniversary-of-7-elements/"><u>Windows 11 Feature Flashback: The Surviving Anniversary of 7 Elements</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-tech-tutorial-how-to-launch-calculator/"><u>Windows 11 Tech Tutorial: How to Launch Calculator</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-entry-workstation-access-the-hidden-side-of-rdp-in-win-11/"><u>Zero-Entry Workstation Access: The Hidden Side of RDP in Win 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -213,3 +184,25 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-mov-files-saving-methods-for-windows-10-users-for-2024/"><u>[New] .mov Files Saving Methods for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-prodigious-earnings-with-youtube-studio-for-every-gadget/"><u>[New] 2024 Approved Prodigious Earnings with YouTube Studio for Every Gadget</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensible-steps-to-resolve-usb-not-recognized-in-virtualbox/"><u>Comprehensible Steps to Resolve 'USB Not Recognized' In VirtualBox</u></a></li>
+<li><a href="https://win-docs.techidaily.com/est-il-possible-de-restaurer-les-documents-elimines-une-verite-sur-leur-disparition-permanente/"><u>Est-Il Possible De Restaurer Les Documents Éliminés : Une Vérité Sur Leur Disparition Permanente ?</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-fixes-for-common-problems-after-windows-updates/"><u>Fast Fixes for Common Problems After Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delay-the-end-of-use-extending-shutdown-in-running-windows-10/"><u>How to Delay the End of Use: Extending Shutdown in Running Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-linksys-ea9500-usb-adapter-drivers-step-by-step-tutorial/"><u>How to Download and Install Linksys EA9500 USB Adapter Drivers - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-and-activate-a-dormant-windows-guard/"><u>How to Unlock and Activate a Dormant Window's Guard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-correct-age-information-for-tiktok-users/"><u>In 2024, Guide to Correct Age Information for TikTok Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy M34 5G FRP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/learning-leaders-list-discovering-the-top-10-teacher-tools/"><u>Learning Leaders’ List Discovering the Top 10 Teacher Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-code-0xc0000005/"><u>Overcoming Windows Error Code 0XC0000005</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-repeated-asks-to-log-in-on-microsoft-teams-windows-edition/"><u>Remedying Repeated Asks to Log In on Microsoft Teams Windows Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/serious-reading-redefined-the-kobo-formas-immersive-experience/"><u>Serious Reading Redefined: The Kobo Forma's Immersive Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-techniques-for-incorporating-imessage-into-windows/"><u>Step-by-Step Techniques for Incorporating iMessage Into Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-leading-online-music-production-platforms-reviewed-compare-free-and-subscription-based-services/"><u>The Leading Online Music Production Platforms Reviewed – Compare Free & Subscription-Based Services</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-error-80080300-strategies-for-smooth-team-updates-on-w11/"><u>Winning Over Error 80080300: Strategies for Smooth Team Updates on W11</u></a></li>
+</ul></div>
+

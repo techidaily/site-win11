@@ -1,7 +1,7 @@
 ---
 title: Tackling X80070091 Error When Windows Claims a Directory Is Not Empty
-date: 2024-11-17T04:48:24.286Z
-updated: 2024-11-17T23:28:39.297Z
+date: 2024-11-23T00:26:58.380Z
+updated: 2024-11-27T20:24:22.544Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Windows File Explorer
 
  Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
@@ -48,18 +52,15 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 ![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
 3. Press the**Restart** button for the selected Explorer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan System Files With an SFC Scan
 
  Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for[running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check for Errors With a Disk Scan
 
@@ -72,14 +73,11 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Affected Folder’s Permissions
 
@@ -94,31 +92,14 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
 6. Then select the**Check Names** option and**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run an Antivirus Scan
@@ -129,10 +110,19 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
 ![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
 3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
 4. Press**Scan now** to start the antivirus scanning.
 5. Then wait to see if the scan detects anything, and select**Remove** if it does.
 6. Click**Start actions** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Delete Your Folders in File Explorer Again With These Fixes
 
@@ -153,21 +143,22 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-becoming-a-streaming-pro-iphone-and-android-strategies/"><u>[New] Becoming a Streaming Pro IPhone & Android Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-best-of-breed-exceptional-webcam-supports-for-2024/"><u>[New] Best Of Breed Exceptional Webcam Supports for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-six-visionary-camera-solutions-for-filmmaking-for-2024/"><u>[New] Top Six Visionary Camera Solutions for Filmmaking for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-iphones-secrets-for-stunning-time-lapse-videos/"><u>[Updated] In 2024, IPhone's Secrets for Stunning Time-Lapse Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-pros-approach-to-documenting-overwatch-battles-for-2024/"><u>[Updated] The Pro's Approach to Documenting Overwatch Battles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-windows-n-options-for-home-users/"><u>Analyzing Windows N Options for Home Users</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-team-productivity-with-smaller-footprint/"><u>Boosting Team Productivity with Smaller Footprint</u></a></li>
-<li><a href="https://win11.techidaily.com/cant-extract-zip-files-in-windows-11-heres-how-to-fix-it/"><u>Can’t Extract ZIP Files in Windows 11? Here’s How to Fix It</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-dvd-to-usb-conversion-techniques-for-both-windows-and-macos-users/"><u>Effortless DVD to USB Conversion Techniques for Both Windows & macOS Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-toms-hardware-insights/"><u>Exploring Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-common-issues-with-winservicesexe-on-windows/"><u>Fixing Common Issues with Winservices.exe on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/1719337024529-get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862716690-stay-productive-for-days-with-the-latest-addition-to-lenovo-laptops-the-powerful-thinkpad-t14s-featuring-snapdragon-x-elite-cpu-and-massive-32gb-ram/"><u>Stay Productive for Days with the Latest Addition to Lenovo Laptops - The Powerful ThinkPad T14s Featuring Snapdragon X Elite CPU & Massive 32GB RAM!</u></a></li>
-<li><a href="https://win11.techidaily.com/synchronize-subtitles-navigating-textual-glitches-with-prime-and-windows-11/"><u>Synchronize Subtitles: Navigating Textual Glitches with Prime & Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-microsoft-outlook-errors-on-desktops/"><u>Tackling Microsoft Outlook Errors on Desktops</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-blueprint-for-locating-system32-in-win11/"><u>The Blueprint for Locating System32 in Win11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-inauthentic-accounts-on-brand-pages-for-2024/"><u>[New] Unveiling Inauthentic Accounts on Brand Pages for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/pc-windowsmac10/"><u>軽快な動作 PC キャプチャ ツールを見つける！ Windows・Macでトップ10選</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/automated-synchronization-seamlessly-transferring-outlook-mail-to-sharepoint/"><u>Automated Synchronization: Seamlessly Transferring Outlook Mail to SharePoint</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturing-games-like-a-pro-app-rundown-for-2024/"><u>Capturing Games Like a Pro – App Rundown for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/devising-schemes-to-skirt-sign-in-requests-in-windows/"><u>Devising Schemes to Skirt Sign-In Requests in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/editing-images-with-your-iphones-photos-app-a-step-by-step-guide/"><u>Editing Images with Your iPhone's Photos App: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-accelerated-inputs-for-a-smooth-click-journey/"><u>Eliminating Accelerated Inputs for a Smooth Click Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-file-security-routine-with-powertoys/"><u>Enhancing Your File Security Routine with PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-through-windows-search-failure-issues/"><u>Guiding Users Through Windows Search Failure Issues</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-locate-restored-microsoft-excel-documents-on-your-windows-10-pc/"><u>How to Locate Restored Microsoft Excel Documents on Your Windows 10 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-onedrive-unsuccessful-cloud-issues/"><u>How to Rectify OneDrive Unsuccessful Cloud Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-cable-modem-and-wifi-router-packages-reviewed/"><u>Leading Cable Modem and WiFi Router Packages Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-ultimate-tutorial-how-to-easily-uninstall-programs/"><u>Mac Users' Ultimate Tutorial: How to Easily Uninstall Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-file-management-windows-folders-restricted-mode-setup/"><u>Secure File Management: Windows Folders Restricted Mode Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-fix-microsoft-store-not-responding/"><u>Solving the Issue: How to Fix 'Microsoft Store Not Responding'</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-first-browser-view-in-windows-11/"><u>Tailoring Your First Browser View in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-voice-of-efficiency-unleashing-the-full-potential-of-windows-accessibility-tools/"><u>The Voice of Efficiency: Unleashing the Full Potential of Windows Accessibility Tools</u></a></li>
 </ul></div>
 

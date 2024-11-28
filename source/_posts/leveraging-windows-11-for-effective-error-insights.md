@@ -1,7 +1,7 @@
 ---
 title: Leveraging Windows 11 for Effective Error Insights
-date: 2024-11-16T09:04:18.953Z
-updated: 2024-11-17T18:16:40.898Z
+date: 2024-11-21T04:04:16.454Z
+updated: 2024-11-28T02:15:58.143Z
 tags:
   - windows10
   - windows11
@@ -25,35 +25,19 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Microsoft Error Lookup Tool?
 
  Microsoft Error Lookup tool does exactly what it sounds like. You can look up system error codes using this tool to get an idea of what the error code is really about. However, this is a command-line tool, so you need to use Command Prompt to run it. Microsoft is yet to release a GUI version of this tool, which could make searching for error codes for non-tech-savvy users convenient.
 
  Using a simple command, you can search and learn more about the nature of the error code. Microsoft Error Lookup tool is only available for Windows OS versions 8.1 and above. So, if you are still using Windows 7, searching the web remains your only option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Run Microsoft Error Lookup Tool
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Downloading and Renaming the Tool
 
@@ -68,16 +52,7 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 6. Then, click on the**Rename** option from the context menu. Type**Err** and press the enter key to rename the tool.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Placing the Tool in a Convenient Location
@@ -90,6 +65,11 @@ Here’s how to do it:
 2. Go to the C drive and paste the tool. Grant permissions to place the tool in C drive.  
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
@@ -103,6 +83,10 @@ Here’s how to do it:
 2. Suppose you want to look up the error code 0x80070490 using the tool. So, the correct command will be:**Err 0x80070490** .  
 ![Checking an Error Code in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/checking-an-error-code-in-microsoft-error-lookup-tool.jpg)
 3. Press the enter key and the tool will display all the matching information it has about the error code. It will include the exact error string and a sentence describing the meaning. Often, it will also try to make suggestions to fix the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
@@ -121,20 +105,10 @@ Repeat the following steps:
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, open the file, and you can read the entire list of error code results and begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can the Microsoft Error Lookup Tool Display Information About All Error Codes?
 
@@ -161,20 +135,18 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-definitive-guide-to-valheim-agriculture/"><u>[New] 2024 Approved The Definitive Guide to Valheim Agriculture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds/"><u>2024 Approved Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-twitter-broadcast-alive-tweets-guide/"><u>2024 Approved Mastering Twitter Broadcast Alive Tweets Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-0x80780119-on-system-image/"><u>Addressing Windows Error 0X80780119 on System Image</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-ms-store-downloads-techniques-and-tips/"><u>Boosting MS Store Downloads: Techniques and Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/dismantling-hp-printer-fault-0xoxc4eb827f/"><u>Dismantling HP Printer Fault 0xOXC4EB827F</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-internet-connections-a-guide-for-steam-on-windows/"><u>Fixing Internet Connections: A Guide for Steam on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-frame-by-frame-flow-essential-tactics-to-combat-video-lag-windows/"><u>Mastering Frame-by-Frame Flow: Essential Tactics to Combat Video Lag Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-nox-player-glitches-a-step-by-step-fix-for-constant-app-failures-on-desktops/"><u>No More Nox Player Glitches - A Step-by-Step Fix for Constant App Failures on Desktops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8-speed-boosting-tools-for-android-users-for-2024/"><u>Top 8 Speed Boosting Tools for Android Users for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/uninstalling-wsl-a-complete-guide-for-win-1011-users/"><u>Uninstalling WSL: A Complete Guide for Win 10/11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-cutting-edge-devices-on-toms-hardware-review-platform/"><u>Unveiling Cutting-Edge Devices on Tom's Hardware Review Platform</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-subtitle-editing-in-fcpx-best-practices-and-techniques/"><u>Updated Subtitle Editing in FCPX Best Practices and Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-gaming-upgrade-guide-top-tips-for-a-seamless-experience/"><u>Win 11 Gaming Upgrade Guide: Top Tips for a Seamless Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-movement-on-face-images-with-picsart/"><u>[Updated] Crafting Movement on Face Images with Picsart</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-restoring-your-windows-remote-link/"><u>Bridge the Gap: Restoring Your Windows Remote Link</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-between-data-units-in-windows-11/"><u>Bridging Gaps Between Data Units in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-login-blockers-effective-fixes-for-windows/"><u>Bypassing Login Blockers: Effective Fixes for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-suspend-mode-on-devices-using-windows-11/"><u>Bypassing Suspend Mode on Devices Using Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/capturing-games-leveraging-intel-graphics-command-center/"><u>Capturing Games: Leveraging Intel Graphics Command Center</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ceasing-noise-during-obs-recordings/"><u>Ceasing Noise During OBS Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-and-efficient-windows-start-menu-sans-ads/"><u>Clean & Efficient: Windows Start Menu Sans Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-best-twitter-client-software-for-efficient-engagement/"><u>Expertly Selected Best Twitter Client Software for Efficient Engagement</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-pitfalls-investing-in-fraudulent-subscribers/"><u>Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x9b-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor X9b to New Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-ultra-why-it-reigns-supreme-among-android-smartwatches-and-now-comes-with-an-irresistible-labor-day-offer-tech-review-zdnet/"><u>Samsung Galaxy Watch Ultra: Why It Reigns Supreme Among Android Smartwatches and Now Comes with an Irresistible Labor Day Offer | Tech Review ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-enhancements-required-for-siri-to-match-the-competitive-edge-of-openai-and-google-a-comprehensive-analysis/"><u>Top 10 Enhancements Required for Siri to Match the Competitive Edge of OpenAI & Google: A Comprehensive Analysis</u></a></li>
 </ul></div>
 

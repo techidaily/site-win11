@@ -1,7 +1,7 @@
 ---
 title: Tricks for Bypassing Windows 11 Lock in Minutes
-date: 2024-11-13T03:08:36.264Z
-updated: 2024-11-17T17:01:06.807Z
+date: 2024-11-22T01:07:45.011Z
+updated: 2024-11-27T20:36:45.185Z
 tags:
   - windows10
   - windows11
@@ -45,31 +45,20 @@ Here's how to disable the lock screen using Group Policy:
 4. Double-click on the**Do not display the lock screen** option in the Personalization options.  
 ![Group policy editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-1-1.jpg)
 5. A new window with detailed settings for the option will open. The**enabled** option will be active by default which means that the lock screen is active.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the**Disabled** Radio button to disable the lock screen on your system.  
 ![Disable lock screen settings in Group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-2.jpg)
 7. Now, click on the**Apply** button and click the**OK** button to finalize the changes.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. You need to restart your system. You will notice that there is no lock screen, and you enter the login screen straight away.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Use the Registry Editor
 
@@ -84,10 +73,7 @@ Here's how to remove the lock screen through the registry:
 4. Right-click on Personalization and select**New > DWORD (32-bit) Value** . Name it as**NoLockScreen** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Double-click on the**NoLockScreen** value and set the**Value Data** to**1** . Keep the base hexadecimal.
@@ -105,13 +91,6 @@ Follow these steps to remove the lock screen with this tool:
 ![Winaero tweaker home window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-1.jpg)
 2. Now, go to the**Boot and Logon** option on the left-hand side menu.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Find the**Disable Lock Screen** option under the**Boot and Logon** section. Click on the**Disable Lock Screen** checkbox.  
 ![Disable lock screen in Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-2.jpg)
 4. Now,**Restart** your system to apply the changes. You will notice that the lock screen doesn't appear anymore.
@@ -128,15 +107,17 @@ Follow these steps to remove the lock screen with this tool:
 4. Click on the**Search for Tweaks** option. Type**disable lock screen** and press the**Enter** key.  
 ![Ultimate Windows Tweaker Search tool running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ultimate-windows-tweaker-search-tool.jpg)
 5. Double-click on the search result and the corresponding setting will appear in the app. Close the search window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the**Disable Lock Screen** checkbox. Then, click on the**Apply Tweaks** button and close the program.  
 ![Disabling Lock Screen in Ultimate Windows Tweaker on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-lock-screen-in-ultimate-windows-tweaker.jpg)
 7. Press**Win + L** to log off. The Windows logon screen will appear instead of the usual lock screen.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable the Lock Screen and Log In Faster
@@ -158,22 +139,22 @@ Follow these steps to remove the lock screen with this tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-editing-a-magix-video-pro-x-evaluation-for-2024/"><u>[Updated] Cutting-Edge Editing A Magix Video Pro X Evaluation for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-tips-for-live-rl-broadcasting/"><u>2024 Approved Cutting-Edge Tips for Live RL Broadcasting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-transcribing-dreams-into-movies/"><u>2024 Approved The Art of Transcribing Dreams Into Movies</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-microsoft-surface-studio-2-and-the-question-of-its-expensiveness/"><u>Comprehensive Review: Microsoft Surface Studio 2 & The Question of Its Expensiveness</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-perfect-workout-partner-samsung-galaxy-fit2s-advanced-fitness-tracking-technology/"><u>Discover the Perfect Workout Partner: Samsung Galaxy Fit2's Advanced Fitness Tracking Technology</u></a></li>
-<li><a href="https://win-latest.techidaily.com/easy-guide-to-downloading-your-favorite-music-from-songslover-in-mp3-format/"><u>Easy Guide to Downloading Your Favorite Music From SongsLover in MP3 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/file-locations-decoded-win11s-best-practices-for-retrieving-file-and-folder-paths-6-methods/"><u>File Locations Decoded: Win11's Best Practices for Retrieving File & Folder Paths (6 Methods)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/from-simple-logon-to-strong-authentication-changing-your-windows-11-login-habit/"><u>From Simple Logon to Strong Authentication: Changing Your Windows 11 Login Habit</u></a></li>
-<li><a href="https://win11.techidaily.com/is-steam-unable-to-connect-to-the-internet-on-windows-heres-how-to-fix-it/"><u>Is Steam Unable to Connect to the Internet on Windows? Here's How to Fix It</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/movavi-video-suite-a-simplified-path-to-professional-video-creation/"><u>Movavi Video Suite: A Simplified Path to Professional Video Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/peering-into-windows-essence-crafting-and-evaluating-system-data/"><u>Peering Into Windows Essence: Crafting & Evaluating System Data</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-video-memory-crashes-in-hogwarts-legacy-windows-edition/"><u>Remedying Video Memory Crashes in 'Hogwarts: Legacy' Windows Edition</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/seamless-data-migration-how-to-duplicate-your-hard-disk-on-an-exterior-usb-storage-device/"><u>Seamless Data Migration: How to Duplicate Your Hard Disk on an Exterior USB Storage Device</u></a></li>
-<li><a href="https://win11.techidaily.com/skilled-tactics-bypassing-windows-11s-security-measures/"><u>Skilled Tactics: Bypassing Windows 11'S Security Measures</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-off-or-enable-smartfilter-on-modern-windows-os/"><u>Turn Off or Enable SmartFilter on Modern Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-settings-app-overview/"><u>Windows 11 Settings App Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] 2024 Approved Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-implementing-instagram-story-opinion-polls-effectively/"><u>[New] In 2024, Implementing Instagram Story Opinion Polls Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-compelling-content-the-most-attractive-6-video-types/"><u>[Updated] 2024 Approved Compelling Content The Most Attractive 6 Video Types</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-broadcast-preservation-in-the-age-of-web-radio/"><u>[Updated] Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pixels-to-populations-best-windowsmac-software-conversion/"><u>[Updated] Pixels to Populations Best Windows/Mac Software Conversion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-photography-archives-legal-purchase-tactics/"><u>Clear Photography Archives Legal Purchase Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/conceal-or-show-taskbars-date-and-clock-in-win-11/"><u>Conceal or Show Taskbar's Date & Clock in Win 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/expert-tips-on-configuring-and-administering-windows-server-based-systematic-data-safeguards-for-client-computers/"><u>Expert Tips on Configuring & Administering Windows Server-Based Systematic Data Safeguards for Client Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-the-art-of-handling-several-zipped-items-with-one-command/"><u>Learn the Art of Handling Several Zipped Items with One Command</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-operation-7x09-on-win10/"><u>Overcoming Operation 7X09 on Win10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-in-ai-with-openais-newly-launched-gpt-4-model/"><u>Pioneering Progress in AI with OpenAI's Newly Launched GPT-4 Model</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-windows-11-tools-for-unmatched-video-scripting-and-edits/"><u>Prime Windows 11 Tools for Unmatched Video Scripting & Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-non-genuine-alert-on-windows-pc/"><u>Sidestep Non-Genuine Alert on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-files-using-powerrename-in-powertoys/"><u>Streamline Your Files: Using PowerRename in PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-file-system-problems-in-windows-11-os/"><u>Tackling File System Problems in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-exe-opening-conundrum-with-ease/"><u>Tackling Windows EXE Opening Conundrum with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-the-notorious-code-28-glitch-on-windows-systems/"><u>Troubleshooting Tips for the Notorious 'Code 28' Glitch on Windows Systems</u></a></li>
 </ul></div>
 

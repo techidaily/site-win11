@@ -1,7 +1,7 @@
 ---
 title: Solving Windows Camera Failure to Store Media
-date: 2024-11-11T22:00:08.143Z
-updated: 2024-11-18T09:04:50.062Z
+date: 2024-11-25T02:59:36.161Z
+updated: 2024-11-27T21:47:14.909Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 4. Turn the toggle on for **Camera access**. You can now close the Settings app and check if the problem is resolved.  
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While you are at it, you can also re-add your saved location for storing data and see if that makes a difference.
 
 1. Open the Settings app and navigate to **System** \> **Storage** \> **Where new content is saved**.
@@ -49,13 +53,15 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 4. In the following dialog, click on the **Add** button.  
 ![Change where the camera will save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/change-location-for-camera.jpg)
 5. Now, add your new preferred location and choose **Set Default Save Location**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update the Camera Drivers
@@ -71,21 +77,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 5. The utility will now start scanning for an updated version of your driver in the system. If it finds any, follow the on-screen instructions to install it. If it does not, you can click on **Search for updated drivers on Windows Update** to see if an update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also head over to your manufacturer’s website, download an updated version from there, and then install it manually.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Repair the Camera App
 
@@ -107,19 +99,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Repair Camera app from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Camera.jpg)
 6. Wait for the process to complete. This may take a while, depending upon the complexity of the underlying problems.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
 
 ## 4\. Check Your Antivirus and Firewall Settings
@@ -129,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  To determine if this is true, you can [disable your antivirus program temporarily](https://www.makeuseof.com/cant-enable-windows-firewall/). If you are using the security features offered by Windows, you can [turn off Windows Security](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for some time and retry saving your photos and videos.
 
  It is, however, important to note that disabling these programs can make your computer vulnerable to risks, so we recommend turning them back on immediately once you are done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset or Reinstall the Camera App
 
@@ -144,32 +127,13 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  Once the command executes, launch Microsoft Store and install the Camera app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capture and Save Your Moments Again on Windows
 
  A malfunctioning Camera app that can't save your photos or videos can be a real inconvenience, but it is not impossible to fix. Hopefully, the methods above will help you restore your Camera app's functionality and continue capturing life's moments with confidence. To prevent this issue from occurring in the future, it is best to keep your camera drivers up-to-date at all times.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix-for-2024/"><u>[New] Learn to Optimize Your Watchlist Using Dual Screens on Netflix for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fortnite-not-loading-issues-quickly-and-easily/"><u>[Solved] Fortnite Not Loading Issues | Quickly & Easily</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-smirk-spawners-identifying-premium-meme-tools/"><u>[Updated] 2024 Approved Smirk Spawners Identifying Premium Meme Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-restore-missing-desktop-icons-on-windows-11/"><u>8 Ways to Restore Missing Desktop Icons on Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/plete-guide-to-youtubes-live-image-lore/"><u>A Complete Guide to YouTube's Live Image Lore</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-professionals-handbook-to-blending-natural-and-artificial-backgrounds-for-2024/"><u>A Professional's Handbook to Blending Natural and Artificial Backgrounds for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-process-how-to-setup-google-maps-on-pc/"><u>A Step-by-Step Process: How to Setup Google Maps on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/deletion-risks-for-windows-bt-folder-expert-advice/"><u>Deletion Risks for Windows ~BT Folder: Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/ditching-taskbar-chatting-in-windows-11-how-will-it-influence-your-experience/"><u>Ditching Taskbar Chatting in Windows 11: How Will It Influence Your Experience?</u></a></li>
-<li><a href="https://win11.techidaily.com/employing-rufus-to-navigate-windows-11s-security-barriers/"><u>Employing Rufus to Navigate Windows 11'S Security Barriers</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-advice-to-supercharge-your-wsl-2-and-docker-use/"><u>Essential Advice to Supercharge Your WSL 2 and Docker Use</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-xs-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone XS Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N55 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-accessing-win-11s-call-center/"><u>Quick Guide: Accessing Win 11'S Call Center</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-failed-file-creation-by-camera-app/"><u>Solutions for Fixing Failed File Creation by Camera App</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-for-repairing-ethernet-connectivity-problems-on-both-windows-11-and-7-systems/"><u>Step-by-Step Guide for Repairing Ethernet Connectivity Problems on Both Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-adding-gmaps-in-windows-os/"><u>The Ultimate Guide to Adding GMaps in Windows OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mhrk-thoyl-fydyo-movavi-ballgha-alisbanyya-alakttaaa-alkhal-thoyl-sygha-alfydyo/"><u>محرك تحويل فيديو Movavi - باللغة الإسبانيية: الاقتطاع الخال | تحويل صيغة الفيديو</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +142,24 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/mplifying-engagement-with-leading-youtube-ranks-top-8-apps/"><u>[New] Amplifying Engagement with Leading YouTube Ranks Top 8 Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-becoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>[New] In 2024, Becoming a Skin-Deep Sage Setting Up Your Beauty Channel</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-with-creative-video-titles/"><u>[Updated] Maximizing Impact with Creative Video Titles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlocking-voice-inputs-powerpoint-speech-to-text-guide-for-2024/"><u>[Updated] Unlocking Voice Inputs PowerPoint Speech-to-Text Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-video-quality-debate-the-pros-of-30-vs-60-fps-for-2024/"><u>[Updated] Video Quality Debate The Pros of 30 Vs. 60 Fps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-remote-connections-tips-for-windows-11-users/"><u>Decoding Remote Connections: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-scope-windows-terminal-vs-powershells-features/"><u>Exploring The Scope: Windows Terminal Vs. PowerShell's Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-your-dragons-dogma-amo-fps-stability-troubleshooting-tips/"><u>Improving Your Dragon's Dogma Amo FPS Stability: Troubleshooting Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows/"><u>In 2024, Capture the Essence Choose From These Top 9 GIF Recipes for Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/instant-social-interaction-tweetplusfb-guide-for-2024/"><u>Instant Social Interaction Tweet+FB Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-non-initialized-disk-errors-in-windows-810/"><u>Navigating Through Non-Initialized Disk Errors in Windows 8/10</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-htc-u23-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from HTC U23</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-windows-error-0x80041015-in-ms-office/"><u>Strategies to Overcome Windows Error 0X80041015 in MS Office</u></a></li>
+<li><a href="https://win11.techidaily.com/sustaining-classic-machines-in-a-new-age-windows-11-through-to-go-and-rufus/"><u>Sustaining Classic Machines in a New Age: Windows 11 Through To Go and Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-battery-status-updates-for-windows-devices/"><u>Tailored Battery Status Updates for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/time-management-for-the-modern-office-top-8-window-timer-apps/"><u>Time Management for the Modern Office: Top 8 Window Timer Apps</u></a></li>
+</ul></div>
+

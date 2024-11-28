@@ -1,7 +1,7 @@
 ---
 title: "Perfect Productivity: Implementing a 90-Degree Window Shift"
-date: 2024-11-13T05:35:55.785Z
-updated: 2024-11-18T00:53:44.163Z
+date: 2024-11-26T03:06:17.129Z
+updated: 2024-11-28T02:19:37.725Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Rotate the Orientation of a Windows Display
 
  Whether or not you have[multiple monitors set up on Windows 10](https://www.makeuseof.com/tag/multiple-displays-windows-10-guide/) , you can use this method:
@@ -32,14 +36,20 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 1. To change the orientation of your external display, right-click anywhere on your desktop and click**Display Settings.**  
 ![opening display settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/display-settings.png)
 2. Look for**Display Orientation** and select**Portrait** from the dropdown menu next to it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![selecting portrait option from the downdown menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-portrait.png)
 3. Your monitor should now be displayed in portrait mode. Click**Keep changes** to maintain the portrait mode.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does Orientation Rotation Come in Handy?
@@ -50,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 * If you're designing a lengthy infographic using a program like Photoshop or Illustrator, turning your screen 90 degrees, allows you to see more of the entire design in one go. (You can keep reference material open on the other screen.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Turning Your Monitor Has Its Uses
@@ -75,18 +82,20 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>[New] In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-detailed-insights-into-youtubes-monthly-income-model-for-2024/"><u>[Updated] Detailed Insights Into YouTube's Monthly Income Model for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-fashion-items-for-sj4000-owners/"><u>[Updated] Essential Fashion Items for SJ4000 Owners</u></a></li>
-<li><a href="https://win11.techidaily.com/3-ways-to-factory-reset-your-windows-computer/"><u>3 Ways to Factory Reset Your Windows Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-windows-wont-use-all-of-your-ram/"><u>4 Fixes to Try if Windows Won't Use All of Your RAM</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disappearances-in-file-explorer/"><u>Addressing Disappearances in File Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-printer-disconnection-on-windows-11-devices/"><u>Addressing Printer Disconnection on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/automating-jpeg-creation-from-heic-images/"><u>Automating JPEG Creation From HEIC Images</u></a></li>
-<li><a href="https://driver-error.techidaily.com/disabling-permanent-bluetooth-issue-on-windows-10/"><u>Disabling Permanent Bluetooth Issue on Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s17e-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S17e FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile-for-2024/"><u>Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719369400663-unleash-the-true-power-of-windows-screen-capture-toolkit/"><u>Unleash the True Power of Windows' Screen Capture Toolkit</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-wax-video-editing-software-tips-tricks-and-tutorials/"><u>Updated Wax Video Editing Software Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-macbook-cam-tutorial-for-smooth-video-capture/"><u>[Updated] 2024 Approved MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-your-digital-past-with-fbs-preview-feature-for-2024/"><u>[Updated] Navigating Your Digital Past with FB's Preview Feature for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-unreachable-windows-lock-via-pin/"><u>Easy Fixes for Unreachable Windows Lock via PIN</u></a></li>
+<li><a href="https://win-answers.techidaily.com/euro-truck-simulator-2-how-to-fix-and-prevent-common-pc-crash-issues/"><u>Euro Truck Simulator 2: How to Fix and Prevent Common PC Crash Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-longevity-and-breathtaking-display-make-this-laptop-stand-out-zdnets-picks/"><u>Exceptional Longevity & Breathtaking Display Make This Laptop Stand Out (ZDNet's Picks)</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-all-device-compatibility-for-win11s-notes/"><u>Exploring All Device Compatibility for Win11's Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-install-failure-microsofts-pc-manager-for-winxp/"><u>Fix Install Failure: Microsoft's PC Manager for WinXP</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-8-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>In 2024, Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-essential-fb-video-plays-top-10-choices/"><u>In 2024, Essential FB Video Plays Top 10 Choices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g-5g-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G 5G (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/key-fixes-for-unlocking-pc-administration-in-windows-11/"><u>Key Fixes for Unlocking PC Administration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-controlled-settings-to-functional-state-in-windows-11/"><u>Restoring Controlled Settings to Functional State in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-cortana-information-for-windows-users/"><u>Securing Cortana Information for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-troubleshoot-silent-reading-mode-error-in-ms-word-2022plus/"><u>Tips to Troubleshoot Silent Reading Mode Error in MS Word 2022+</u></a></li>
 </ul></div>
 

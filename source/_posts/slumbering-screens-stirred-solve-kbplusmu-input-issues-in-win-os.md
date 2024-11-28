@@ -1,7 +1,7 @@
 ---
 title: Slumbering Screens Stirred! Solve KB+MU Input Issues in Win OS
-date: 2024-11-12T04:44:56.958Z
-updated: 2024-11-18T07:47:58.395Z
+date: 2024-11-20T21:14:18.437Z
+updated: 2024-11-27T22:59:53.073Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Wake Your Computer With a Keyboard or Mouse on Windows
 
  If your mouse or keyboard won't wake up your PC from sleep, you need to check an option to confirm they're allowed to do so. Follow these steps:
@@ -39,22 +43,13 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![Windows Allow Device Wake Computer Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-Allow-Device-Wake-Computer-Sleep.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Be careful when using these options with a laptop. If you have a wireless mouse connected and forget to turn it off, you could accidentally wake your laptop from sleep when it's in a bag.[You can destroy your laptop](https://www.makeuseof.com/tag/5-ways-utterly-destroy-laptop-slowly-surely/) by leaving it in a bag while running, as this generates a lot of heat.
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
@@ -65,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -84,19 +76,13 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
@@ -124,22 +110,22 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>[New] 2024 Approved Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-6-solutions-for-multilingual-videos/"><u>[New] Premium 6 Solutions for Multilingual Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-audacity-techniques-for-mac-audio-recording-for-2024/"><u>[Updated] Essential Audacity Techniques for Mac Audio Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-screencapture-essential-techniques-for-2024/"><u>[Updated] Mastering ScreenCapture Essential Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secrets-to-high-quality-sims-4-gameplay-recordings-for-2024/"><u>[Updated] Secrets to High-Quality Sims 4 Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/balancing-work-and-play-in-windows-11-schedules/"><u>Balancing Work and Play in Windows 11 Schedules</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/daylong-experience-with-the-apple-vision-pro-is-it-enough-for-intensive-work/"><u>Daylong Experience with the Apple Vision Pro: Is It Enough for Intensive Work?</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-winuac-new-techniques-for-administrators/"><u>Enhancing WinUAC: New Techniques for Administrators</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-tips-for-solving-grounded-pc-malfunctions-a-2024-update/"><u>Essential Tips for Solving Grounded PC Malfunctions - A 2024 Update</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/incorporating-quick-access-tools-into-the-win11-taskbar-easily/"><u>Incorporating Quick Access Tools Into the Win11 Taskbar Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-pristine-windows-image-display/"><u>Mastering the Art of Pristine Windows Image Display</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-the-not-responsive-window-software-problem/"><u>Mastery over the Not Responsive Window Software Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/notetaking-nirvana-mastering-visual-organization-in-obsidian/"><u>Notetaking Nirvana: Mastering Visual Organization in Obsidian</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-pc-graphics-with-optimal-vram-settings/"><u>Transform Your PC Graphics with Optimal VRAM Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-rpc-failures-with-ease/"><u>Troubleshooting Windows RPC Failures with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mac-users-rejoice-top-pinnacle-studio-alternatives-revealed/"><u>Updated In 2024, Mac Users, Rejoice! Top Pinnacle Studio Alternatives Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones/"><u>[New] 2024 Approved How to Record a GoToMeeting Session on PCs and Smartphones?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lost-footage-immediate-removal-impacts/"><u>[Updated] 2024 Approved Lost Footage Immediate Removal Impacts</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-execution-descriptors-in-software-life-cycles/"><u>Deciphering Execution Descriptors in Software Life Cycles</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-the-windows-update-file-absence-issue-error-0x80070003/"><u>Decoding and Fixing the Windows Update File Absence Issue (Error 0X80070003)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-generative-ais-core-foundations/"><u>Discovering Generative AI's Core Foundations</u></a></li>
+<li><a href="https://win-docs.techidaily.com/download-pornhub-content-on-pc-or-mac-with-premium-video-grabber/"><u>Download Pornhub Content on PC or Mac with Premium Video Grabber</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s18-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S18 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solutions-for-non-functional-xbox-in-windows/"><u>Immediate Solutions for Non-Functional Xbox in Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-90-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor 90 Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-os-stability-the-four-pct-approach/"><u>Mastering OS Stability: The Four PCT Approach</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-video-editing-apps-with-soundtracks-for-mobile-devices/"><u>New 2024 Approved Top Video Editing Apps with Soundtracks for Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-excessive-ram-use-solutions-for-service-platforms-on-pcs/"><u>Reducing Excessive RAM Use: Solutions for Service Platforms on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-printing-service-on-pc-post-error-alert-in-windows/"><u>Restoring Printing Service on PC, Post Error Alert in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-security-4-efficient-actions-to-banish-users-from-win11-systems/"><u>Simplified Security: 4 Efficient Actions to Banish Users From Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-launching-sticky-notes-in-win11/"><u>Step-by-Step: Launching Sticky Notes in Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncovering-strengths-and-weaknesses-in-pidgin-instant-messaging-app/"><u>Uncovering Strengths and Weaknesses in Pidgin Instant Messaging App</u></a></li>
 </ul></div>
 

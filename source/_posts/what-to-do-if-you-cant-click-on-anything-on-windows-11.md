@@ -1,7 +1,7 @@
 ---
 title: What to Do if You Can’t Click on Anything on Windows 11
-date: 2024-11-12T17:11:32.668Z
-updated: 2024-11-18T02:55:24.999Z
+date: 2024-11-23T19:28:49.458Z
+updated: 2024-11-28T04:04:03.094Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  After your computer restarts, check to see if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Mouse for Loose Connections or Dirt
 
  If restarting the computer didn’t work, then you should check your mouse. Make sure it is plugged in properly and that all the cables are securely connected.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
  You can also try cleaning the components with compressed air or a damp cloth, as dust and debris can sometimes interfere. If that doesn't work, you may want to use a different mouse to see if the issue is with your hardware or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restart Explorer.exe via the Task Manager
@@ -55,16 +56,7 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 ![End Explorer.exe from Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-explorer-exe-from-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the confirmation window that appears, make sure the**End process** button is highlighted, and then press**Enter** to proceed.
@@ -79,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  After restarting Explorer.exe, try clicking anywhere on your screen to see if the problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Perform a System Restore
 
  System Restore is a straightforward yet powerful solution that can help you out of any bind. If you are still having trouble clicking anything on your computer, you can[use System Restore on Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) . This will reset all software settings on your machine to an earlier time which should fix underlying problems blocking clicks.
@@ -99,13 +84,14 @@ To use System Restore, follow these steps:
 4. Then use the Enter key to click**Next** and**Finish** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the instructions to complete the system restore process on your computer and check if it solves the clicking issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving Your Mouse Clicking Issues on Windows 11
 
@@ -126,24 +112,24 @@ To use System Restore, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-chaptered-cinema-the-essential-guide-to-vimeo-editing/"><u>[New] Chaptered Cinema The Essential Guide to Vimeo Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-vibrant-visions-a-guide-through-the-top-5-color-tvs/"><u>[New] In 2024, Vibrant Visions A Guide Through the Top 5 Color TVs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ideo-success-stories-maximizing-income-with-youtube-adsense-for-2024/"><u>[New] Video Success Stories Maximizing Income with YouTube AdSense for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-flickering-screens-windows-11-edition/"><u>Banishing Flickering Screens: Windows 11 Edition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captivating-cuts-editor-apps-that-liberate-android-users-for-2024/"><u>Captivating Cuts Editor Apps That Liberate Android Users for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-tutorial-activating-and-deactivating-iphones-dfu-mode-effectively/"><u>Complete Tutorial: Activating and Deactivating iPhone's DFU Mode Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convertissez-gratuitement-un-fichier-vob-au-format-mjpeg-en-ligne-movavi/"><u>Convertissez Gratuitement Un Fichier VOB Au Format Mjpeg en Ligne - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-retrofit-modernizing-windows-11-with-a-98-twist/"><u>Digital Retrofit: Modernizing Windows 11 with a '98 Twist</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-the-power-of-multiple-directories-windows-11-edition/"><u>Harnessing the Power of Multiple Directories: Windows 11 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hidden-history-unveiled-understanding-off-facebook-data/"><u>Hidden History Unveiled Understanding Off-Facebook Data</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-unexpected-token-call-issues-on-windows-devices/"><u>How To Resolve “Unexpected Token Call” Issues on Windows Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-x5-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco X5 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-app-management-with-winget-on-w11/"><u>Mastering App Management with Winget on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-the-ink-flow-pc-pen-and-touch-adjustments/"><u>Perfecting the Ink Flow: PC Pen and Touch Adjustments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016575811-pubg-mobile-voice-communication-problems-heres-how-to-solve-them/"><u>PUBG Mobile Voice Communication Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlabs-or-obs-picking-the-best-software-for-your-channel-for-2024/"><u>Streamlabs or OBS Picking the Best Software for Your Channel for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-filesystem-woes-a-win10win11-fixers-manual/"><u>Unpacking Filesystem Woes: A Win10/Win11 Fixer's Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-cars-mouse-keys-and-acceleration-mastery/"><u>Winning Cars: Mouse, Keys, and Acceleration Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/winshift-troubles-how-to-resolve-them/"><u>WinShift Troubles: How to Resolve Them.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlocking-hidden-gems-open-source-art-lists/"><u>[Updated] Unlocking Hidden Gems Open-Source Art Lists</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/10-langkah-langkah-mengatasi-kecurapan-dokumen-microsoft-windows-versi-10-dan-11/"><u>10 Langkah-Langkah Mengatasi Kecurapan Dokumen Microsoft Windows Versi 10 Dan 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-lost-and-found-30-free-speech-to-text-mac-hits/"><u>2024 Approved Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-usb-hdmi-control-application-for-enhanced-compatibility/"><u>Download Updated USB-HDMI Control Application for Enhanced Compatibility</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-effortlessly-setup-the-jdk-on-windows-11/"><u>Expert Tips to Effortlessly Setup the JDK on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-the-pathway-system32-in-win11/"><u>Finding the Pathway: System32 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-minecraft-issues-on-pcs/"><u>Fixing Common Minecraft Issues on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-for-tapping-into-windows-statistics-hub-quickly/"><u>Hacks for Tapping Into Windows Statistics Hub Quickly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tech-savvy-ways-to-record-mac-lectures/"><u>In 2024, Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-best-premiere-pro-transition-plugins-expert-picks/"><u>New In 2024, Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-huawei-nova-y71-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Huawei Nova Y71 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-utorrent-peer-connections-a-windows-focus-guide/"><u>Reestablishing uTorrent Peer Connections: A Windows Focus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-erasing-files-with-an-enduring-trash-feature-in-win1011/"><u>Securely Erasing Files with an Enduring Trash Feature in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-setup-placing-essential-icons-on-windows-11-taskbar/"><u>Swift Setup: Placing Essential Icons on Windows 11 Taskbar</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1628023-9781444717167-the-tibetan-art-of-living/"><u>The Tibetan Art of Living | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-pc-microphone-problems-in-zoom-for-clear-calls/"><u>Troubleshoot PC Microphone Problems in Zoom for Clear Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-computer-disable-windows-11-firewall/"><u>Unleashing Your Computer: Disable Windows 11 Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-boot-disabled-a-windows-bios-strategy/"><u>Unlocking Secure Boot Disabled: A Windows BIOS Strategy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ts-macx-ts-video-converter/"><u>マック用最優秀無料TS動画変換プログラム 無料ダウンロード - MacX TS Video Converter</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Excessive Opening of File Explorer
-date: 2024-09-05T08:41:28.128Z
-updated: 2024-09-06T08:41:28.128Z
+date: 2024-11-25T19:38:09.367Z
+updated: 2024-11-28T03:23:58.620Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: File Explorer Opens Less,Reduce File Explorer Access,Minimize File Exp
 thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4cc5911dccf11c067ddd27a33.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Excessive Opening of File Explorer
 
  File Explorer is one of those Windows apps that you can’t do without. It’s the default file management tool on your computer that lets you browse and move files and folders around. But what if File Explorer keeps opening automatically on your Windows computer for no apparent reason?
@@ -37,14 +31,12 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
@@ -61,11 +53,9 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the System Maintenance Troubleshooter
 
  Windows periodically runs the System Maintenance troubleshooter on your computer to look for common maintenance issues. You can also run this tool manually if apps like File Explorer keep opening unexpectedly on your computer.
@@ -80,18 +70,6 @@ To run the System Maintenance troubleshooter on Windows:
 6. Click**Next** .  
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
 ## 5\. Check for Corrupted System Files
@@ -106,12 +84,6 @@ To run the System Maintenance troubleshooter on Windows:
 
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Install Windows Updates
 
  Several users on forums reported experiencing this issue after a Windows update. If the issue is indeed caused by a bug, it shouldn’t take long before Microsoft releases a fix. It's a good idea to check your computer for any pending system updates and install them right away.
@@ -120,13 +92,11 @@ To run the System Maintenance troubleshooter on Windows:
 
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
@@ -134,28 +104,27 @@ To run the System Maintenance troubleshooter on Windows:
 
  After your PC boots in a clean boot state, try using it for some time and check if File Explorer still opens without your input. If it does not, it means one of the third-party services or startup programs you disabled was causing the problem. To identify it, you’ll have to re-enable your services and startup apps one at a time until the issue occurs again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Create a New User Account
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +133,22 @@ To run the System Maintenance troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/crafting-efficiency-personalized-snap-layouts-in-windows-with-powertoys/"><u>Crafting Efficiency: Personalized Snap Layouts in Windows with PowerToys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-does-mount-and-blade-ii-bannerlord-keep-crashing/"><u>Fixing the Issue: Why Does Mount & Blade II: Bannerlord Keep Crashing?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-yesterdays-essence-your-path-from-pixel-to-playback/"><u>In 2024, Capturing Yesterday's Essence Your Path From Pixel to Playback</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/masterful-mac-microphone-software-ranking-the-excellent-five/"><u>Masterful Mac Microphone Software Ranking the Excellent Five</u></a></li>
+<li><a href="https://win11.techidaily.com/modernizing-outdated-footage-with-madvr-on-windows/"><u>Modernizing Outdated Footage with MadVR on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-amd-radeon-on-pcs-for-peak-gameplay/"><u>Optimizing AMD Radeon on PCs for Peak Gameplay</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/paso-a-paso-para-refrescar-tu-pc-con-windows-11-una-guia-completa-de-actualizaciones-de-sistema-operativo/"><u>Paso a Paso Para Refrescar Tu PC Con Windows 11: Una Guía Completa De Actualizaciones De Sistema Operativo</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-deficit-of-msvcr120dll-in-windows-systems/"><u>Remedying the Deficit of msvcr120.dll in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-pc-gpu-settings-in-windows-11/"><u>Resetting PC GPU Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-sticky-notes-sync-errors/"><u>Resolving Windows 11 Sticky Notes Sync Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-your-windows-11-with-a-pristine-system-restart/"><u>Revitalizing Your Windows 11 with a Pristine System Restart</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-the-value-a-deep-dive-into-amazonbasics-6-sheet-document-destroyer-evaluation/"><u>Testing the Value - A Deep Dive Into AmazonBasics 6-Sheet Document Destroyer Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/windows-explorerdropbox/"><u>Windows ExplorerにDropboxを簡単同期する自由ソリューション - ステップバイステップガイド</u></a></li>
+</ul></div>
 

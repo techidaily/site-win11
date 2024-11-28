@@ -1,7 +1,7 @@
 ---
 title: Launching the Speedy Assistance Mechanism in W11
-date: 2024-09-11T09:30:09.759Z
-updated: 2024-09-12T09:30:09.759Z
+date: 2024-11-21T18:07:26.752Z
+updated: 2024-11-28T00:02:29.957Z
 tags:
   - windows10
   - windows11
@@ -21,15 +21,16 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
  This guide will show you four different ways of opening the Quick Assist tool on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Shortcut Keys
 
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Windows Search Tool
 
@@ -41,21 +42,7 @@ To open Quick Assist through the search tool, follow these steps:
 2. In the search box, type "quick assist" and hit**Enter** .  
 ![Open Quick Assist Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-search-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open the Quick Assist tool where you can view and control another computer from your own.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use the Start Menu
 
@@ -67,16 +54,7 @@ To open Quick Assist through the search tool, follow these steps:
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Pin Quick Assist to the Taskbar
@@ -88,19 +66,13 @@ To open Quick Assist through the search tool, follow these steps:
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This way, you can quickly access the tool from your taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You Can Now Get Assistance Quickly
@@ -120,4 +92,18 @@ This way, you can quickly access the tool from your taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-tips-for-sims-game-capture/"><u>[New] 2024 Approved Professional Tips for Sims Game Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-earnings-epicenter-tech-gaming-on-youtube/"><u>[Updated] 2024 Approved Earnings Epicenter Tech Gaming on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-top-10-trending-tweets-sparking-conversations-worldwide/"><u>[Updated] In 2024, Top 10 Trending Tweets Sparking Conversations Worldwide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[Updated] In 2024, Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>[Updated] Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://win11.techidaily.com/defending-your-windows-11-with-the-best-four-password-savers/"><u>Defending Your Windows 11 with the Best Four Password Savers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-how-to-recover-default-printer-and-scanner-driver-support-in-windows-10/"><u>Easy Fixes: How to Recover Default Printer and Scanner Driver Support in Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-charting-the-course-for-youtube-keyword-mastery/"><u>In 2024, Charting the Course for YouTube Keyword Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-camera-app-correction-for-error-a00f425d-in-win11/"><u>Mastering Camera App Correction for Error A00F425D in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-chromium-enhancing-youtube-performance/"><u>Tackling Chromium: Enhancing YouTube Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-troubleshooting-guide-for-offline-printers/"><u>Win11 Troubleshooting Guide for Offline Printers</u></a></li>
+</ul></div>
 

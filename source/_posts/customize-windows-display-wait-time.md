@@ -1,7 +1,7 @@
 ---
 title: Customize Windows Display Wait Time
-date: 2024-11-12T22:42:27.241Z
-updated: 2024-11-18T03:54:59.390Z
+date: 2024-11-21T20:30:12.937Z
+updated: 2024-11-28T01:42:07.772Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use the Windows System Settings
 
  The Windows system settings always come in handy in various situations. Let’s check out how you can use them to change the Windows 10 screen lock timeout settings:
@@ -48,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the Edit Plan Settings (via the Control Panel)
@@ -71,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the Advanced Power Options (via the Control Panel)
 
  You can also use the Control Panel's advanced power settings to configure the lock screen timeout settings.
@@ -92,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 6. Select the **On battery** option, and then configure the lock screen timeout settings using the **arrow buttons**. From there, apply the same settings for the **Plugged in** option.
 
 ![Using the Advanced Power Options to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Advanced-Power-Options-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
 
@@ -121,13 +119,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Now, let's explore how you can change the screen saver timeout settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the System Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
@@ -141,6 +132,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, follow these steps to configure the screen saver timeout settings:
 
 1. Navigate to the **Wait** option on the Screen Saver Settings window.
@@ -148,13 +143,14 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, press **Apply** and then press **OK** to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use the Local Group Policy Editor
@@ -185,10 +181,7 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Registry Editor can help you tweak the screen-saver timeout settings with ease. But it's quite a sensitive tool, so you should consider [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before you proceed.
@@ -211,13 +204,6 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
 
  Wondering how to increase laptop screen time? Or do you want to lock your PC and ensure that it doesn’t fully go into sleep mode?
@@ -239,24 +225,22 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-clickthrough-rates-with-attention-grabbing-youtube-thumbnails/"><u>[New] 2024 Approved Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[New] In 2024, Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-google-meet-conversation-blueprint-for-success/"><u>[Updated] The Google Meet Conversation Blueprint for Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-simplify-with-top-10-free-mac-tools-for-screen-recording/"><u>2024 Approved Simplify with Top 10 Free Mac Tools for Screen Recording</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-focus-distracted-mind-learn-to-blur-your-backdrop-in-google-meet-today/"><u>Clear Focus, Distracted Mind? Learn to Blur Your Backdrop in Google Meet Today!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comment-gravouer-sans-frais-des-films-sur-hdrvh265-pour-une-haute-definition-exceptionnelle/"><u>Comment Gravouer Sans Frais Des Films Sur HDRV/H.265 Pour Une Haute Définition Exceptionnelle ?</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correct-xbox-games-access-error-in-windows-pcs/"><u>Guide to Correct Xbox Games Access Error in Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-sony-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Sony ?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 8 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-highlight-and-search-features-in-windows-11-os/"><u>Mastering Highlight & Search Features in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-password-storage-windows-text-file-security-tips/"><u>Mastering Password Storage: Windows Text File Security Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-python24dll-missing-a-comprehensive-guide/"><u>Solving 'Python24.dll' Missing - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-rectifying-file-history-missteps-in-windows-os/"><u>Steps for Rectifying File History Missteps in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/subnet-adjustment-for-win11-users/"><u>Subnet Adjustment for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-snap-open-apps-in-windows-11/"><u>Swiftly Snap Open Apps in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-update-problem-code-0x800f0922/"><u>Tackling Windows Update Problem - Code 0X800f0922</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-of-control-for-winapps-and-browsers/"><u>The Blueprint of Control for WinApps & Browsers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>[New] Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs-for-2024/"><u>[Updated] 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-visibility-with-a-cutting-edge-set-of-banners-for-2024/"><u>[Updated] Boost Your Visibility with a Cutting-Edge Set of Banners for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>2024 Approved Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-motorola-edge-40-neo-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Motorola Edge 40 Neo without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-windows-installation-steam-deck-edition/"><u>Easy Windows Installation: Steam Deck Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-windows-11-settings-bar-back-online/"><u>How To Get Your Windows 11 Settings Bar Back Online</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-number-of-displayed-pin-items-in-w11-menu/"><u>Increase Number of Displayed Pin Items in W11 Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-solutions-for-recognizing-and-fixing-disabled-hard-drives-on-win-11/"><u>Innovative Solutions for Recognizing and Fixing Disabled Hard Drives on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-security-and-convenience-in-windows-oses/"><u>Maximizing Security and Convenience in Windows OSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peek-at-sonys-high-end-smartphone-the-xperia-xz-4k-reveal-for-2024/"><u>Peek at Sony's High-End Smartphone - The Xperia XZ 4K Reveal for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pointer-problems-solved-mastering-control-in-win11/"><u>Pointer Problems Solved: Mastering Control in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-to-delayed-text-alerts-9-remedies-for-your-iphone/"><u>Solutions to Delayed Text Alerts: 9 Remedies for Your iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/step-by-step-instructions-for-extracting-mp3-from-video-for-2024/"><u>Step-By-Step Instructions for Extracting MP3 From Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reestablish-lost-remote-link-in-vpn/"><u>Steps to Reestablish Lost Remote Link in VPN</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-the-0x800f0845-error-causes-failed-windows-updates/"><u>What to Do When the 0X800f0845 Error Causes Failed Windows Updates</u></a></li>
 </ul></div>
 

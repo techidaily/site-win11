@@ -1,7 +1,7 @@
 ---
 title: The Swift Route to Opening IIS Manager Interface
-date: 2024-11-12T18:10:38.610Z
-updated: 2024-11-18T03:11:52.532Z
+date: 2024-11-23T03:27:54.095Z
+updated: 2024-11-27T23:51:01.448Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/dbe86ec4eee57de28307f7a87e5d2dc26b222d4d7
 
 ![An illustration of questions and answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-questions-and-answers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you create a website, you’d usually want to test it first before hosting it on the internet. This helps you ensure that everything works properly.
 
  Now, there are tons of[tools you can use to test your website](https://www.makeuseof.com/website-auditing-tools-checking-issues/) . However, most of them usually don’t come cheap. But fortunately, you can test your site easily with the Windows Internet Information Services (IIS) Manager. The best part is that it’s free of charge.
@@ -41,6 +45,10 @@ To add and test a website using the IIS tool, follow these steps:
 4. Click the**Add Website** option on the right.
 
 ![Clicking the Add Website option on the IIS Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/clicking-the-add-website-option-on-the-iis-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, add the details of your website in the**Add Website** window and click**OK** . From there, follow the on-screen instructions to test the site.
 
@@ -57,20 +65,6 @@ To add and test a website using the IIS tool, follow these steps:
 
 ![Opening the IIS Manager Using the Start Menu Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Open the IIS Manager Using the Start Menu
 
  The Start menu is a place where you can find most of your apps. So, let’s check out how you can access the IIS Manager from the Windows Start menu:
@@ -82,17 +76,7 @@ To add and test a website using the IIS tool, follow these steps:
 ![Opening the IIS Manager Using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Open the IIS Manager Using the File Explorer Address Bar
@@ -108,6 +92,10 @@ To add and test a website using the IIS tool, follow these steps:
 
 ![Opening the IIS Manager Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Open the IIS Manager Using the Task Manager
 
  The Task Manager is helpful when it comes to analyzing system performance or[closing problematic programs on Windows](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) . But that’s not all—you can also use this tool to open almost any app on your device.
@@ -120,6 +108,10 @@ Here’s how to access the IIS Manager using the Task Manager:
 4. Type**InetMgr.exe** in the search box and press**OK** .
 
 ![Opening the IIS Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/opening-the-iis-manager-using-the-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Open the IIS Manager Using the Control Panel
 
@@ -156,9 +148,17 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 `InetMgr.exe`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Open the IIS Manager From the Windows System32 Directory
 
 ![A lady using a Windows PC while sitting on a bench](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-sitting-on-a-bench.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can access most of the apps on Windows by double-clicking on the relevant files in the System32 folder.
 
@@ -177,13 +177,6 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
  To pin the IIS Manager to the taskbar, right-click on the InetMgr option and select**Pin to taskbar** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Open the IIS Manager Using a Desktop Shortcut
 
  One of the easiest ways to access any Windows app is to use a desktop shortcut. So, let’s explore how you can create a desktop shortcut for the IIS Manager:
@@ -198,13 +191,6 @@ Here’s how to open the IIS Manager using the Command Prompt:
  Type**Internet Information Services (IIS) Manager** in the "Name" box and then click the**Finish** button.
 
  Now, your desktop shortcut is ready. To make things easier, you should consider pinning this desktop shortcut to the taskbar.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What’s Your Favorite Method for Accessing the IIS Tool?
 
@@ -225,21 +211,20 @@ Here’s how to open the IIS Manager using the Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-next-level-photography-smart-hdr-and-beyond/"><u>[New] Next-Level Photography Smart HDR and Beyond</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-viewing-with-faster-or-slower-video-pace/"><u>[Updated] 2024 Approved Enhancing YouTube Viewing with Faster or Slower Video Pace</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-smooth-volume-changes-in-fl-studio/"><u>[Updated] 2024 Approved Mastering Smooth Volume Changes in FL Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-how-to-add-titlestext-to-video-on-photos-app-in-windows-10/"><u>[Updated] How to Add Titles/Text to Video on Photos App in Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>2024 Approved Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
-<li><a href="https://win11.techidaily.com/6-methods-to-supercharge-virtual-machine-speed-in-windows/"><u>6 Methods to Supercharge Virtual Machine Speed in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/changing-windows-read-only-settings-easily/"><u>Changing Windows Read-Only Settings Easily</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deciphering-hardware-secrets-at-toms-digital-workshop/"><u>Deciphering Hardware Secrets at Tom's Digital Workshop</u></a></li>
-<li><a href="https://win11.techidaily.com/foster-innovation-for-privacy-protection-explore-cutting-edge-technologies-like-onboard-anonymization-systems-or-secure-data-transmission-techniques-to-mini44/"><u>Foster Innovation for Privacy Protection: Explore Cutting-Edge Technologies Like Onboard Anonymization Systems or Secure Data Transmission Techniques to Minimize the Risk of Violating Customer's Privacy During Cookie Deliveries.</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-active-directory-issues-impacting-print-in-windows-11/"><u>How to Solve Active Directory Issues Impacting Print in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-the-mouse-without-borders-and-peek-features-in-powertoys/"><u>How to Use the Mouse Without Borders and Peek Features in PowerToys</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-homescreen-without-altering-windows-11-start-menu/"><u>Modify Homescreen without Altering Windows 11 Start Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/rescue-your-browser-fix-google-chrome-in-w11-today/"><u>Rescue Your Browser: Fix Google Chrome in W11 Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-emerging-cybersecurity-threats-and-future-outlook/"><u>Top 7 Emerging Cybersecurity Threats & Future Outlook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>[New] 2024 Approved The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-photoshop-basics-top-tips-to-transform-images-like-a-pro/"><u>[Updated] Photoshop Basics Top Tips to Transform Images Like a Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-social-media-presence-with-these-5-igtv-tips/"><u>2024 Approved Elevate Your Social Media Presence with These 5 IGTV Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-worlds-android-pc-joint-venture-explained/"><u>Connecting Worlds: Android-PC Joint Venture Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-error-xc0000142-on-win10-11/"><u>Correcting Error XC0000142 on Win10, 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dji-inspire-2-complete-evaluation/"><u>DJI Inspire 2 Complete Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-freeze-and-crash-in-windows-epic-launcher/"><u>Eliminating Freeze and Crash in Windows Epic Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solutions-bringing-your-google-drive-back-online/"><u>Immediate Solutions: Bringing Your Google Drive Back Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-13-ultra-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi 13 Ultra Phones</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mobile-mastery-in-thumbnail-creation-for-engaging-youtube-videos-for-2024/"><u>Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-your-lost-windows-nine-essential-tricks-for-reviving-apps-in-windows-11/"><u>Reclaim Your Lost Windows: Nine Essential Tricks for Reviving Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-end-game-for-windows-xp781-on-microsoft-platforms/"><u>The End Game for Windows XP/7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-6-chrome-os-devices-with-exceptional-vocal-modification-capabilities-worth-exploring-videocreator/"><u>Updated Top 6 Chrome OS Devices with Exceptional Vocal Modification Capabilities Worth Exploring - VideoCreator</u></a></li>
 </ul></div>
 

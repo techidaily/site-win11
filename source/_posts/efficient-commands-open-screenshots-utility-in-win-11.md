@@ -1,7 +1,7 @@
 ---
 title: "Efficient Commands: Open Screenshots Utility in Win 11"
-date: 2024-09-05T08:40:35.260Z
-updated: 2024-09-06T08:40:35.260Z
+date: 2024-11-26T17:24:51.022Z
+updated: 2024-11-28T01:16:28.263Z
 tags:
   - windows10
   - windows11
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
  Looking for a quick and easy way to take screenshots on Windows? If so, the Snipping tool is just what you need. In this article, we'll show you how to find and open the Snipping tool in Windows 11.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open the Snipping Tool Using aRun Command
 
  Like many things in Windows 11, there are multiple ways to open the Snipping tool. You can find it in the Start menu or launch it from the Task Manager. However, the quickest way to open the Snipping tool is to use a keyboard shortcut.
@@ -40,12 +28,11 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 2. Type "snippingtool" in the text box and press**Enter** on your keyboard. The Snipping tool will now launch.  
 ![Open Snipping Tool Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Run-Command.jpg)
 3. When the Snipping tool opens, click**New** to start a new snip.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Choose a mode to give shape to your screenshot.
 5. Use your mouse to select the area of your screen that you want to capture.
 
@@ -71,23 +58,11 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 1. Open the Start Menu and type "Snipping tool" into the search bar.  
 ![Open Snipping Tool Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Windows-Search.jpg)
 2. You should see the Snipping tool application pop up in the results. Click on it to launch the app.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. If you don't see the Snipping tool in your results, don't worry. You can also access it by typing "scissors" into the search bar.
 4. This will bring up a shortcut to the app which you can click on to open it.
 
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -97,22 +72,14 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 3. In the "Create Shortcut" window, type "snippingtool" into the text field and click**Next** .  
 ![Create Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-Snipping-Tool.jpg)
 4. Type a name for your shortcut (like "Snipping tool") and click**Finish** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Shortcut-for-Snipping-Tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Upon following the above instructions, double-click on your new shortcut to open the Snipping tool!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open the Snipping Tool Using Command Prompt or Windows PowerShell
 
  Additionally, if you prefer to use command line methods, you can run the Snipping tool using Command Prompt or Windows PowerShell. To do this, follow these steps:
@@ -124,11 +91,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 5. Now type "snippingtool" in the Command Prompt or PowerShell window.  
 ![Open Snipping Tool Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Command-Prompt.jpg)
 6. Press**Enter** on your keyboard to open the Snipping tool.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To get more out of this handy tool, be sure to read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
@@ -143,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 2. Go to the address bar, type**snippingtool** , and press Enter.
 3. The snipping tool will appear at the top of the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. How to Open the Snipping Tool Using Task Manager
 
  Task Manager is a handy tool that can help you manage your computer's resources and end unresponsive programs, but it is not limited to only that. You can also use Task Manager to open programs you have installed on your computer.
@@ -155,20 +124,16 @@ To open the Snipping tool using Task Manager, follow these steps:
 4. Type "snippingtool" (without quotes) into the "Open" field.  
 ![Open Snipping Tool Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using--Task-Manager.jpg)
 5. Click**OK** to launch the application.
+
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Snipping tool should now be open and ready to use!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Pin the Snipping Tool to the Taskbar
 
@@ -178,26 +143,17 @@ The Snipping tool should now be open and ready to use!
 2. Right-click on the search result, select**Pin to taskbar** , and you're done.  
 ![Pin Snipping tool toTaskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Snipping-tool-toTaskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
 
 ## Easy Ways to Open the Snipping Tool
 
  Despite its name, the Snipping tool can do more than just snip pictures. It can also be used to capture full-screen images, active windows, and selected areas of your screen. So whether you're trying to grab a screenshot of an issue or taking an image to share with friends, the Snipping tool has you covered.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,4 +162,20 @@ The Snipping tool should now be open and ready to use!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-capture-the-essence-of-your-favorite-series-with-these-extractors/"><u>[New] 2024 Approved Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturequality-assessor-network-for-2024/"><u>[New] CaptureQuality Assessor Network for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unveiled-top-5-visual-treats-on-social-medias-giant/"><u>[Updated] 2024 Approved Unveiled Top 5 Visual Treats on Social Media's Giant</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-online-screenshots-and-screen-recorders-guide/"><u>2024 Approved Online Screenshots & Screen Recorders Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-cloning-techniques-for-windows-users-windows-11-10-8-and-7/"><u>DVD Cloning Techniques for Windows Users (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-geforce-notaxc0f1103f-issue-on-windows-pcs/"><u>Eradicating GeForce NotaXC0F1103F Issue on Windows PCs</u></a></li>
+<li><a href="https://win-trending.techidaily.com/estimated-time-required-for-a-complete-windows-10-factory-reset/"><u>Estimated Time Required for a Complete Windows 10 Factory Reset</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-effortless-access-to-youtube-comments-for-2024/"><u>Expert Tips for Effortless Access to YouTube Comments for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-speed-up-microsoft-edge-w10-w11/"><u>How to Swiftly Speed up Microsoft Edge (W10, W11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-hp-officejet-pro-69email-protected-quickly-and-easily/"><u>Installing HP OfficeJet Pro 69[Email Protected] Quickly and Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaudibility-windows-11s-wireless-speaker-problems/"><u>Overcoming Inaudibility: Windows 11'S Wireless Speaker Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unveil-missing-windows-11-control-panel-features/"><u>Unveil Missing Windows 11 Control Panel Features</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-deep-dive-into-its-data-acquisition-tactics/"><u>Windows 11: A Deep Dive Into Its Data Acquisition Tactics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sticky Notes Decoded: Entering the World of Windows 11"
-date: 2024-09-11T09:30:06.201Z
-updated: 2024-09-12T09:30:06.201Z
+date: 2024-11-22T04:01:16.543Z
+updated: 2024-11-27T22:17:33.612Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 
  You can use this tool to simplify your desktop setup and make it less cluttered. To start with, you must know how to open Sticky Notes in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Sticky Notes on Windows?
 
  Windows offers a handy tool called Sticky Notes that lets you take notes and keep track of information. This is basically a note-taking application that comes pre-installed with the Windows operating system.
@@ -36,16 +29,7 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
  Now that you know what a sticky note is, let's see how to open it.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Sticky Notes via Windows Search
@@ -57,6 +41,11 @@ To open Sticky Notes using the Windows Search tool, do the following:
 1. Press**Win + Q** on your keyboard to open the search tool. See[how to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) for more methods.  
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
 2. Then type "Sticky Notes" into the search bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
 
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
@@ -64,10 +53,7 @@ To open Sticky Notes using the Windows Search tool, do the following:
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
@@ -92,13 +78,6 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
  As a result, you can create a shortcut to the application on your desktop that will open with a single click.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Pin Sticky Notes to the Taskbar
 
  If you're looking for an easy way to keep track of your sticky notes, try pinning them to the taskbar in Windows 11\. Here's how to do this:
@@ -108,19 +87,13 @@ To open Sticky Notes from the Start Menu, follow these steps:
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can access your sticky notes right from the taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easy Access to Sticky Notes
@@ -140,4 +113,22 @@ Now you can access your sticky notes right from the taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-ad-free-watching-chromefirefoxandroidios-tutorial/"><u>[New] YouTube Ad-Free Watching Chrome/Firefox/Android/iOS Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-livelink-audio-visual-crafting-portal/"><u>[Updated] LiveLink Audio-Visual Crafting Portal</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-comfortable-visual-space-notepads-themes-and-fonts-in-window-11/"><u>Crafting a Comfortable Visual Space: Notepad's Themes & Fonts in Window 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-xiaomi-redmi-13c-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-unwarranted-not-empty-alerts-strategies-for-error-x80070091/"><u>Eliminating Unwarranted 'Not Empty' Alerts: Strategies for Error X80070091</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-the-0x0000011b-error-in-windows-11/"><u>Guide to Overcoming the 0X0000011B Error in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-converting-region-2-dvds-for-compatibility-with-region-1-and-more/"><u>Guide: Converting Region 2 DVDs for Compatibility with Region 1 & More</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-of-gpresult-for-precise-policy-insights/"><u>Harnessing Power of GPResult for Precise Policy Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/immersive-resource-dashboard-systray-with-full-featured-info/"><u>Immersive Resource Dashboard: SysTray with Full-Featured Info</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-adjusting-youtube-video-scale-effectively/"><u>In 2024, Adjusting YouTube Video Scale Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-error-code-xc0f1103f-on-geforce-now-pcs/"><u>Rectifying Error Code XC0F1103F on GeForce Now, PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-y200e-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo Y200e 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-inner-reflections-steps-to-engage-with-windows-covert-personality-console/"><u>Unlocking Inner Reflections: Steps to Engage with Windows' Covert Personality Console</u></a></li>
+</ul></div>
 

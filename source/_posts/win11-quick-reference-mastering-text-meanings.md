@@ -1,7 +1,7 @@
 ---
 title: "Win11 Quick Reference: Mastering Text Meanings"
-date: 2024-11-16T09:53:58.211Z
-updated: 2024-11-17T19:43:35.573Z
+date: 2024-11-22T19:01:41.896Z
+updated: 2024-11-27T17:57:19.505Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Get Definitions in Microsoft Edge
 
 ![Mini menu showing Define option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mini-menu-showing-dictionary-definition-in-edge.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you are reading web pages or PDFs, one of[Microsoft Edge's best hidden features](https://www.makeuseof.com/best-hidden-features-in-microsoft-edge/) is its built-in dictionary functionality to quickly find the correct meanings for unknown words. To make it more convenient, Edge will not take you to another tab to display the definitions, thus helping you stay focused on whatever you are reading.
 
@@ -39,22 +47,12 @@ These are the steps to use the dictionary in Microsoft Edge:
 
  Edge will now show a popup containing the different meanings of that word. However, if you do not like the Mini menu, the browser's right-click context menu also includes the**Define** option. You can get definitions of words from the context menu, too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Find Definitions in the Windows 11 Search Box
 
 ![Windows search box showing dictionary definition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/define-brief-search-n.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows 11 search box can come in handy to find meanings of words, mainly when you see an unknown word in a document in printed form. In that case, it is super convenient to use the search box instead of opening a printed dictionary.
@@ -68,10 +66,7 @@ Here's how:
  If this doesn't work, see[how to fix the Windows 11 search bar](https://www.makeuseof.com/windows-11-search-bar-cant-type/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ask the Cortana App for a Definition
@@ -84,14 +79,12 @@ Here's how:
 2. Click on**Open** .  
 ![Searching Cortana app via Windows Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/searching-cortana-app-via-windows-start-icon.png)
 3. Type "define" followed by the word you want to know the meaning of.
-4. Press**Enter** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Press**Enter** on your keyboard.
 
 ## Finding Definitions in Windows 11
 
@@ -114,21 +107,19 @@ Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/addressing-the-error-0x80070194-with-onedrive/"><u>Addressing the Error 0X80070194 with OneDrive</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-narzo-60-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme Narzo 60 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnose-and-mend-dormant-usb-ports-the-windows-manual/"><u>Diagnose & Mend Dormant USB Ports - The Windows Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-football-fortunes-for-free-with-old-championship-manager/"><u>Discover Football Fortunes for Free with Old Championship Manager</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expanding-your-audience-on-youtube-step-by-step/"><u>Expanding Your Audience on Youtube Step by Step</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-these-7-persistent-iphone-screen-dilemmas-quickly-and-effortlessly/"><u>How to Resolve These 7 Persistent iPhone Screen Dilemmas Quickly and Effortlessly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions/"><u>In 2024, A Comprezyme of Creativity and Technique Dominating Instagram Interactions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-smart-8-hd-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Smart 8 HD Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-pova-6-pro-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Pova 6 Pro 5G Phones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/laughmaker-begin-your-content-creation-journey-for-2024/"><u>LaughMaker Begin Your Content Creation Journey for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-mouse-navigation-turn-off-acceleration-windows-1011/"><u>Mastering Mouse Navigation: Turn Off Acceleration Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-restore-missing-app-icons/"><u>Methods to Restore Missing App Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-insights-for-placement-of-software-shortcuts-on-taskbar/"><u>Quick Insights for Placement of Software Shortcuts on Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-cloud-connectivity-revive-google-drive-windows-links/"><u>Streamlining Cloud Connectivity: Revive Google Drive Windows Links</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-remedy-windows-onedrive-server-issues/"><u>Swiftly Remedy Windows OneDrive Server Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-event-key-details-on-date-latest-rumors-and-insights/"><u>Upcoming Apple Event: Key Details on Date, Latest Rumors & Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-editing-wonders-for-youtube-filmmakers-for-2024/"><u>[New] Audio Editing Wonders for YouTube Filmmakers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-your-timeline-leading-tools-to-unfollow-tweets/"><u>[Updated] Streamlining Your Timeline Leading Tools to Unfollow Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-highest-hits-facebooks-favorite-videos/"><u>2024 Approved Highest Hits Facebook's Favorite Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-setup-must-have-windows-store-essentials/"><u>Accelerate Setup: Must-Have Windows Store Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-sluggish-downloads-on-windows-pcs-a-guide/"><u>Addressing Sluggish Downloads on Windows PCs: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/banishing-wow-crash-code-132-from-windows-11/"><u>Banishing WoW Crash Code 132 From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-frozen-mouse-menu-stasis-on-pc/"><u>Break Free From Frozen Mouse Menu Stasis on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/breakdown-of-windows-error-message-30005s-complexity/"><u>Breakdown of Windows Error Message 30005'S Complexity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-reviewed-the-elite-ceiling-audio-choices/"><u>Expertly Reviewed: The Elite Ceiling Audio Choices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/web-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
 </ul></div>
 

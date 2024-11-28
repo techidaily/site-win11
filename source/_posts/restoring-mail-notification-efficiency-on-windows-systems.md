@@ -1,7 +1,7 @@
 ---
 title: Restoring Mail Notification Efficiency on Windows Systems
-date: 2024-11-17T09:40:16.783Z
-updated: 2024-11-18T08:25:02.243Z
+date: 2024-11-25T02:59:55.362Z
+updated: 2024-11-27T18:35:32.801Z
 tags:
   - windows10
   - windows11
@@ -43,10 +43,7 @@ To access notification settings in the Mail app:
  Once you complete the above steps, the Mail app should start showing notifications on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Mail App Notifications From Windows Settings
@@ -60,13 +57,6 @@ To access notification settings in the Mail app:
 3. Under**Notifications from apps and other senders** , enable the switch next to**Mail** if it isn’t already.  
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -79,6 +69,10 @@ To access notification settings in the Mail app:
 6. Under**Download new content** , select**as items arrive** .
 7. Under**Sync options** , enable the toggle for**Email** .  
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Allow the Mail App to Run in the Background
 
@@ -94,6 +88,10 @@ To access notification settings in the Mail app:
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -106,6 +104,10 @@ To access notification settings in the Mail app:
 
 Once removed, restart the Mail app and add your account again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Turn Off Focus Assist
 
  Focus Assist is a handy Windows feature that mutes notifications for all apps unless specified otherwise. If you’ve enabled this feature, you will not receive notifications from any apps, including the Mail app.
@@ -116,6 +118,10 @@ Once removed, restart the Mail app and add your account again.
 2. Navigate to**System > Focus** .
 3. Set the Focus Assist to**Off** , so you get all notifications.  
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
@@ -131,20 +137,6 @@ Once removed, restart the Mail app and add your account again.
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Repair or Reset the Mail App
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
@@ -156,19 +148,6 @@ Once removed, restart the Mail app and add your account again.
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Windows-Mail-App.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app instead. Note that this process will delete all the app data.
 
 ## 9\. Update the Mail App
@@ -178,10 +157,7 @@ Once removed, restart the Mail app and add your account again.
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Mail App Notifications on Windows
@@ -205,21 +181,18 @@ Once removed, restart the Mail app and add your account again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-top-11-list-excellent-audio-devices/"><u>[New] Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>[Updated] 2024 Approved Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-premium-membership-uncovered-your-complete-guide-for-2024/"><u>[Updated] Premium Membership Uncovered Your Complete Guide for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/champion-top-titles-best-free-video-caption-grabs-for-2024/"><u>Champion Top Titles Best Free Video Caption Grabs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-your-computer-writes-on-new-program-placement/"><u>Deciphering Your Computer' Writes on New Program Placement</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ifind-data-rescue-navigating-the-price-of-data-retrieval-and-tips-to-minimize-future-costs/"><u>IFind Data Rescue: Navigating the Price of Data Retrieval and Tips to Minimize Future Costs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c53-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme C53 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-windows-zebra-printer-drivers-with-ease-fresh-download-links/"><u>Install or Upgrade Windows Zebra Printer Drivers with Ease – Fresh Download Links</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-systems-to-win11-upgrade-essentials/"><u>Legacy Systems to Win11 Upgrade Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-settings-for-better-device-control/"><u>Navigating Windows 11 Settings for Better Device Control</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-remote-work-fast-and-memory-friendly/"><u>Revitalizing Remote Work: Fast and Memory-Friendly</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-your-data-effective-use-of-powertoys-lockmaster/"><u>Securing Your Data: Effective Use of PowerToys Lockmaster</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speed-comparison-in-focus-how-does-samsung-book4-edges-new-chipset-stack-up-to-apples-iphone-12/"><u>Speed Comparison in Focus: How Does Samsung Book4 Edge's New Chipset Stack up to Apple's iPhone 12</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-resolving-windows-update-defeat-error-0x800736cc/"><u>Swiftly Resolving Windows Update: Defeat Error 0X800736CC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-0x80070002-issue-in-windows-update-seamlessly/"><u>Troubleshoot and Resolve the 0X80070002 Issue in Windows Update Seamlessly!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-tips-for-your-windows-predicaments/"><u>Troubleshooting Tips for Your Windows Predicaments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>[Updated] In 2024, Mac's Visionary Picks The #10 Elite Monitors with 4K</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[Updated] Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-defective-battery-meter-on-windows-11-devices/"><u>Correcting Defective Battery Meter on Windows 11 Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-11-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 11 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50 GT Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-disconnect-restarting-your-hotspot-in-windows-11/"><u>Overcoming the Disconnect: Restarting Your Hotspot in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-gameplay-mastery-fixing-frames-drops-in-valorant/"><u>Seamless Gameplay Mastery: Fixing Frames Drops in Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/skip-the-haste-disabling-early-edge-tab-activation-in-win11/"><u>Skip the Haste: Disabling Early Edge Tab Activation in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo T2x 5G FRP</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-ensure-computer-identifies-gpu/"><u>Techniques to Ensure Computer Identifies GPU</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-11-themes-missed-by-many/"><u>Top Windows 11 Themes Missed by Many</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-might-prefer-windows-11-to-apples-macos/"><u>Why You Might Prefer Windows 11 to Apple's macOS</u></a></li>
 </ul></div>
 

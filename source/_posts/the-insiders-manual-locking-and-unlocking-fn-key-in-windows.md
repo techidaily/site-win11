@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Manual: Locking and Unlocking FN Key in Windows"
-date: 2024-11-10T18:55:19.712Z
-updated: 2024-11-17T20:41:36.120Z
+date: 2024-11-25T18:53:46.522Z
+updated: 2024-11-27T17:26:23.373Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
  When you want to use the default functions again, you can simply unlock the Fn key again
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Lock and Unlock the Function Key in Windows
@@ -48,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Access the BIOS Settings
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
@@ -63,8 +53,18 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 2. Head over to**Troubleshoot** and click on**Advanced Options** .  
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
 7. Alternatively, in the Advanced tab, access the**Function key behavior** .
@@ -73,17 +73,7 @@ thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -96,6 +86,10 @@ Follow these steps to proceed:
 2. Locate the**Function Key Row** section and expand the dropdown under it.  
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
@@ -118,24 +112,16 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ranking-moba-titles-exclusively-for-android-phones-for-2024/"><u>[New] Ranking MOBA Titles Exclusively for Android Phones for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-to-finding-free-video-subtitles/"><u>[New] Ultimate Guide to Finding Free Video Subtitles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-djs-directive-seamless-shuffling-between-services/"><u>[Updated] In 2024, DJ's Directive Seamless Shuffling Between Services</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ski-and-snow-gear-best-cams-compiled-in-7-lists-for-2024/"><u>[Updated] Ski and Snow Gear Best Cams Compiled in 7 Lists for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-addressing-missing-image-display-in-youtubes-shorts/"><u>2024 Approved Addressing Missing Image Display in YouTubes Shorts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-masterful-content-creation-and-branding-via-top-5-youtube-strategies/"><u>2024 Approved Masterful Content Creation and Branding via #Top 5 YouTube Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/call-recorder-iphone-captures-all-calls-for-2024/"><u>Call Recorder IPhone Captures All Calls for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/collaboration-ensures-continued-life-for-linux-414-long-term-support-version-zdnet-tech-news/"><u>Collaboration Ensures Continued Life for Linux 4.14 Long-Term Support Version | ZDNET Tech News</u></a></li>
-<li><a href="https://win11.techidaily.com/concealing-the-windows-11-taskbars-search-icon/"><u>Concealing the Windows 11 Taskbar's Search Icon</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-deep-into-windows-booting-mechanics-and-settings/"><u>Delving Deep Into Windows' Booting Mechanics and Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-systray-information-showcasing-cpu-and-ram-in-ui/"><u>Elevate SysTray Information: Showcasing CPU & RAM in UI</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workspace-drawing-on-windows-desktop/"><u>Elevate Your Workspace: Drawing on Windows Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/embracing-apples-messaging-on-your-windows-machine/"><u>Embracing Apple's Messaging on Your Windows Machine</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-languages-on-demand-through-windows-keyboard-shortcuts/"><u>Mastery of Languages on Demand Through Windows Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-value-minimize-expenses-on-w11-pro-upgrade/"><u>Maximize Value, Minimize Expenses on W11 Pro Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-error-when-starting-speech-recognition/"><u>Resolving Windows Error When Starting Speech Recognition</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos-for-2024/"><u>The Hidden Paths Techniques to Skip Without Watching Edgenuity Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-no1-video-recorders-with-personalized-view/"><u>[Updated] 2024 Approved No.1 Video Recorders with Personalized View</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dynamic-subscriber-buttons-for-video-creators-filmora-edition/"><u>[Updated] Dynamic Subscriber Buttons for Video Creators - Filmora Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-10-and-11s-vital-parts-required-errors/"><u>Bypassing Windows 10 & 11'S 'Vital Parts Required' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-game-catch-up-storing-vintage-games-in-w11-folder/"><u>Classic Game Catch-Up: Storing Vintage Games in W11 Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-roadblocks-for-seamless-amd-software-setup/"><u>Clearing Roadblocks for Seamless AMD Software Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-lossed-graphics-a-guide-for-overwatch-2-players/"><u>Combat Lossed Graphics: A Guide for Overwatch 2 Players</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-the-rise-of-home-based-robotic-assistants-insights-from-zdnet/"><u>Exploring Apple's Vision: The Rise of Home-Based Robotic Assistants - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mobile-innovation-showdown-7-ai-apps-that-challenge-chatgpts-dominance/"><u>Mobile Innovation Showdown: 7 AI Apps That Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-error-code-103003-in-arma-3-tarkov-a-step-by-step-guide/"><u>Solving 'Error Code 103003' In Arma 3 Tarkov: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-group-chat-and-video-conferencing-platforms/"><u>Top-Rated Group Chat and Video Conferencing Platforms</u></a></li>
 </ul></div>
 

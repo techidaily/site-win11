@@ -1,7 +1,7 @@
 ---
 title: Update File Timestamps on Windows Easily
-date: 2024-11-15T23:00:53.624Z
-updated: 2024-11-17T20:16:12.197Z
+date: 2024-11-24T03:55:11.490Z
+updated: 2024-11-28T03:37:20.111Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c92572eed4dd2bbe96a0af1968717f74dd3686117
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Date Created, Date Accessed, and Date Modified Attributes Using PowerShell
 
@@ -68,6 +72,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 ![Showing dates of a file we are about to change in the properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dates-of-a-file-we-are-about-to-change.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing them with PowerShell, here are the updated dates:
 
 ![Date created and date modified of a file successfully changed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-created-and-date-modified-of-a-file-successfully-changed.jpg)
@@ -88,28 +96,19 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![opening the attribute changer app from context menu of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-attribute-changer-app-from-context-menu-of-a-file-in-windows.jpg)
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
 
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -122,21 +121,15 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -149,27 +142,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-adding-audio-magic-music-and-voiceovers-for-instagram-reels/"><u>[New] Adding Audio Magic Music & Voiceovers for Instagram Reels</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instantaneous-methods-for-video-to-mp3-on-instagram/"><u>[New] In 2024, Instantaneous Methods for Video-to-MP3 on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-privacy-filter-concealing-visual-details-in-media/"><u>[New] The Privacy Filter Concealing Visual Details in Media</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-role-of-windows-cab-files-in-system-setup/"><u>Dissecting the Role of Windows CAB Files in System Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-cant-hear-you-fix-your-voice-chat-issues-instantly-with-these-tips/"><u>Fortnite Can't Hear You? Fix Your Voice Chat Issues Instantly With These Tips!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-itel-p40-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Itel P40 is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>In 2024, Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile/"><u>In 2024, Seamlessly Enhancing Content Learn Video Filter Techniques on PC/Mobile</u></a></li>
-<li><a href="https://win11.techidaily.com/increase-visible-pins-on-windows-11-desktop-ui/"><u>Increase Visible Pins on Windows 11 Desktop UI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximize-your-snapshots-on-android-for-2024/"><u>Maximize Your Snapshots on Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-color-management-glitches/"><u>Navigating Through Windows' Color Management Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-to-optimal-windows-11-search-performance/"><u>Navigating to Optimal Window's 11 Search Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-everlasting-file-elimination-on-your-desktop-bin-with-windows-11/"><u>Simplifying Everlasting File Elimination on Your Desktop Bin with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-username-switch-on-windows-11/"><u>Streamlining the UserName Switch on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-classic-gaming-journey-add-trophy-features-through-retroarch/"><u>Transform Your Classic Gaming Journey - Add Trophy Features Through Retroarch</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-ccleaner-in-win11/"><u>Troubleshooting Non-Functional CCleaner in Win11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/usenet-video-player-direct-streaming-access/"><u>Usenet Video Player Direct Streaming Access</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +149,27 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-spotifys-top-10-chart-toppers/"><u>[New] In 2024, Spotify’s Top 10 Chart-Toppers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-to-engage-in-a-virtual-meeting-via-devices-google/"><u>[New] Steps to Engage in a Virtual Meeting via Devices (Google)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-essential-mac-tips-for-creating-perfect-snaps/"><u>[New] The Essential Mac Tips for Creating Perfect Snaps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox-for-2024/"><u>[Updated] Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-incorporating-secondary-footage-a-filmmakers-guide/"><u>[Updated] Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-code-0x0000004e-on-win11-hardware/"><u>Correcting Code 0X0000004E on Win11 Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/digitizing-the-decade-old-games-with-dosbox-x/"><u>Digitizing the Decade: Old Games with DOSBox-X</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-reactivate-printer-service/"><u>Efficiently Reactivate Printer Service</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-group-policies-on-a-per-user-basis-with-windows-1111/"><u>Executing Group Policies on a Per-User Basis with Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-spotlight-highlight-on-windows-11-desk/"><u>How to Clear Spotlight Highlight on Windows 11 Desk</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-steam-black-screen-issue-on-windows/"><u>How to Fix the Steam Black Screen Issue on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-an-inactive-windows-defense-system/"><u>How to Reactivate an Inactive Windows Defense System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8740-drivers-fresh-download-options-for-windows-users-11108/"><u>HP OfficeJet Pro 8740 Drivers - Fresh Download Options for Windows Users (11/10/8)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo K11 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-blockchain-communication-the-top-8-plugins-for-cryptocurrency-enthusiasts/"><u>Mastering Blockchain Communication: The Top 8 Plugins for Cryptocurrency Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/profit-patterns-of-windows-11-at-microsoft/"><u>Profit Patterns of Windows 11 at Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-0x8007045d-blue-screen-problems-in-win11/"><u>Quick Fixes for 0X8007045D Blue Screen Problems in Win11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-jaycut-essentials-learn-how-to-edit-videos-online-for-free/"><u>Updated In 2024, Jaycut Essentials Learn How to Edit Videos Online for Free</u></a></li>
+</ul></div>
+

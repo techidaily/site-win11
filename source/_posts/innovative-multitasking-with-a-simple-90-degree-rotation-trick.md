@@ -1,7 +1,7 @@
 ---
 title: Innovative Multitasking with a Simple 90-Degree Rotation Trick
-date: 2024-09-11T09:30:05.802Z
-updated: 2024-09-12T09:30:05.802Z
+date: 2024-11-21T20:18:30.548Z
+updated: 2024-11-27T20:59:07.149Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
  This is, however, useful only if you can actually physically turn your screen by 90 degrees. So if you have a laptop with a screen that rotates, or you have an external monitor on a mount that allows rotation, this method will work wonders for you. It's particularly useful if you have multiple external monitors.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Rotate the Orientation of a Windows Display
@@ -36,33 +33,18 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 2. Look for**Display Orientation** and select**Portrait** from the dropdown menu next to it.  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![selecting portrait option from the downdown menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-portrait.png)
 3. Your monitor should now be displayed in portrait mode. Click**Keep changes** to maintain the portrait mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does Orientation Rotation Come in Handy?
@@ -73,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
 * If you're designing a lengthy infographic using a program like Photoshop or Illustrator, turning your screen 90 degrees, allows you to see more of the entire design in one go. (You can keep reference material open on the other screen.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Turning Your Monitor Has Its Uses
@@ -96,4 +75,24 @@ thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-joke-junction-ultimate-free-comic-templates-for-2024/"><u>[New] Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>[New] Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-introduction-to-organizing-remote-work-hours-for-2024/"><u>[Updated] Introduction to Organizing Remote Work Hours for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-secure-key-dilemnium-5-proven-fixes-for-win11-errors/"><u>Decoding the Secure Key Dilemnium: 5 Proven Fixes for Win11 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-windows-installation-steam-deck-edition/"><u>Easy Windows Installation: Steam Deck Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-routine-to-reinitiate-windows-updates/"><u>Efficient Routine to Reinitiate Windows Updates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-windows-11-settings-bar-back-online/"><u>How To Get Your Windows 11 Settings Bar Back Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unsigned-update-file-issue-in-windows/"><u>Overcoming Unsigned Update File Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-enhancing-pc-lifespan-via-power-settings/"><u>Quick Guide to Enhancing PC Lifespan via Power Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-xbox-game-pass-failure-in-windows-devices/"><u>Resolving Xbox Game Pass Failure in Windows Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-v29-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo V29 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-connection-with-windows-usb-wi-fi-cards/"><u>Troubleshooting: No Connection with Windows' USB Wi-Fi Cards</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/use-of-numbers-and-lists/"><u>Use of Numbers and Lists</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+</ul></div>
 

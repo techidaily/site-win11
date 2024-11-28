@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Border Controls: The Complete Guide to PowerToys"
-date: 2024-09-11T09:30:10.162Z
-updated: 2024-09-12T09:30:10.162Z
+date: 2024-11-23T00:21:58.068Z
+updated: 2024-11-28T01:51:56.494Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the “Mouse Without Borders” Feature?
@@ -32,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  If you use multiple computers on your desk, you might have faced the issue of using your mouse on all the computers. While some [Bluetooth mice](https://www.makeuseof.com/improve-gaming-with-logitech-g-hub/) can cycle between devices, you can not use one mouse to control all the computers as if they were sharing the screen.
 
  The Mouse Without Borders feature makes it possible to share the mouse among multiple devices. Both computers will need the latest version of PowerToys installed on them. Earlier, Mouse Without Borders was a standalone app and competed with the likes of Share Mouse and other [mouse and keyboard sharing apps](https://www.makeuseof.com/best-apps-sharing-mouse-and-keyboard-across-computers/). But now it is a part of PowerToys, so you don’t need to install it separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable and Use the "Mouse Without Borders" Feature
 
@@ -44,24 +45,10 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 ![Enable Mouse Without Borders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders.jpg)
 5. Now go to the second computer and launch PowerToys. **Enable** the **Mouse Without Borders** feature on it as well.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then scroll down to the **Security key** option and click on the **arrow** icon
 7. Type the main **computer’s name** and enter the **key** which you generated previously. Click on the **Connect** button.  
 ![Enable Mouse Without Borders on second PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-mouse-without-borders-on-second-pc.jpg)
 8. Now, you can use one mouse on both computers.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Mouse Without Borders in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-without-borders-in-action.jpg)
 
@@ -74,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 ![Peek Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/peek-feature-in-powertoys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable and Use the "Peek" Feature
@@ -90,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 3. Now, you need to configure the shortcut key to activate the “Peek” feature. Click on the **edit** icon next to the **Activation shortcut** option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press the **Ctrl + Shift + Space** keys at once to set the new key combination. Click on the **Save** button.  
@@ -104,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 7. Click on the **Open with** button to open the file in their respective application.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Share Mouse and Preview Files With PowerToys
@@ -118,11 +96,28 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  The new preview update introduces "Mouse Without Borders" and "Peek" utilities. We will elaborate on what these utilities do, and how you can enable and use them on your Windows PC. Let’s begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[New] 2024 Approved Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-conceptualization-to-connection-stream-your-video-now/"><u>[New] In 2024, From Conceptualization to Connection Stream Your Video Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-on-the-lookout-for-economical-vr-experience-china/"><u>[New] In 2024, On the Lookout for Economical VR Experience (China)</u></a></li>
+<li><a href="https://win11.techidaily.com/engaging-hidden-taskbar-probe-in-windows-11/"><u>Engaging Hidden Taskbar Probe in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-online-gaming-experience-by-reducing-lag-expert-advice-for-gamers/"><u>Enhance Your Online Gaming Experience by Reducing Lag: Expert Advice for Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/escape-the-shovelware-pitfall-smart-strategies-for-discovering-quality-titles-on-the-switch-store/"><u>Escape the Shovelware Pitfall: Smart Strategies for Discovering Quality Titles on the Switch Store</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuit-online-convertissez-opus-en-acc-avec-movavi/"><u>Gratuit Online - Convertissez OPUS en ACC, Avec Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/high-speed-performance-with-the-latest-windows-devices/"><u>High-Speed Performance with the Latest Windows Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-websites-powered-by-the-latest-from-cookiebot/"><u>Optimized Websites Powered by the Latest From Cookiebot</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-shortcuts-for-effortless-windows-navigation/"><u>Tailored Shortcuts for Effortless Windows Navigation</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-docs-windows-1011-merge-guide/"><u>Uniting Docs: Windows 10/11 Merge Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webinar-recording-a-step-by-step-masterclass-guide/"><u>Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/website-inaccessibility-on-windows-top-techniques-to-tackle-troubles/"><u>Website Inaccessibility on Windows: Top Techniques to Tackle Troubles</u></a></li>
+</ul></div>
+

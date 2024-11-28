@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Harmonize Files on Dual Windows PCs Using AOEMi
-date: 2024-09-11T09:30:07.667Z
-updated: 2024-09-12T09:30:07.667Z
+date: 2024-11-23T16:43:03.286Z
+updated: 2024-11-27T22:54:22.180Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,7 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
  If you couldn't be bothered with all the hassle of routinely copying your files over a network or back and forth from a USB drive, there is, fortunately, software tailored to this exact need. Let us show you how incredibly simple it is to get AOMEI up and running and have your files and folders synced up in no time.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Downloading and Installing AOMEI Backupper
@@ -38,20 +29,6 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
  To get started, visit the[AOMEI Backupper website](https://www.aomeitech.com/download.html) , download the file and follow the prompts for installation. At this point, you can go ahead and select the 30-day free trial for the professional version as there's no need to input any credit card information. Once installed, you will land on the AOMEI home screen UI.
 
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Basic Sync
 
@@ -66,17 +43,28 @@ To perform a basic sync:
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
 8. Finally, click**Start Sync** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Two-Way Sync
@@ -104,10 +92,7 @@ To perform a two-way sync:
 ![AOMEI Sync Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then let's manually run the sync operation.
@@ -117,13 +102,6 @@ Then let's manually run the sync operation.
 Within a few seconds, our file appears in the destination folder.
 
 ![AOMEI Sync Test Result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test-Result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up AOMEI Real-Time Sync
 
@@ -139,24 +117,10 @@ Within a few seconds, our file appears in the destination folder.
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
 
  Now, whenever changes are detected in the source directory they will carry over to the destination folder almost instantly. Note the time stamps of the New Bitmap Images in our test below. It's probably also worth mentioning at this point, that if you are constantly dealing with very large files, due to the nature of real-time sync, it may not be the optimal solution. You would probably be better off sticking with a basic sync or two-way sync instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AOMEI Has Your Sync Solutions Sorted
 
@@ -175,4 +139,24 @@ Within a few seconds, our file appears in the destination folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-behind-the-scenes-choosing-ideal-winter-backdrops/"><u>[New] Behind the Scenes Choosing Ideal Winter Backdrops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tailored-macos-tutorials-for-editing-srt-files-for-2024/"><u>[New] Tailored macOS Tutorials for Editing SRT Files for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-15-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 15 Plus Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-logitech-keyboard-connectivity-issues-in-windows-11/"><u>Diagnosing and Resolving Logitech Keyboard Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/dualshock-without-plugs-win-compatibility-tips/"><u>DualShock Without Plugs: Win Compatibility Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-binding-your-samsung-remote-controller-to-any-tv-model/"><u>Easy Instructions for Binding Your Samsung Remote Controller to Any TV Model</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-your-ctrl-key-not-working-on-windows-11/"><u>How to Fix Your Ctrl Key Not Working on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-system-insights-with-hardware-monitoring-tiles/"><u>Improve System Insights with Hardware Monitoring Tiles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi 14 Pro Without PUK Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-windows-11-activation-via-windows-7-key/"><u>Jumpstart Windows 11 Activation via Windows 7 Key</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pasos-facilmente-explicados-en-el-manual-de-instrucciones-del-programa-winxdvd/"><u>Pasos Fácilmente Explicados en El Manual De Instrucciones Del Programa WinXDVD</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-uninstall-epic-games-from-w11-pc/"><u>Step-by-Step Guide to Uninstall Epic Games From W11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-devices-not-unlocking-on-win11s-sleep/"><u>Troubleshooting Devices Not Unlocking on Win11's Sleep</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-savings-with-directtv-stream-secure-your-90-off-deal-today-only-dont-miss-out/"><u>Unlock Savings with DirectTV Stream - Secure Your $90 Off Deal Today Only – Don't Miss Out!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-global-precision-advanced-mouse-navigation-via-powertoys/"><u>Unlocking Global Precision - Advanced Mouse Navigation via PowerToys</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-and-easy-video-stabilization-top-picks/"><u>Updated In 2024, Free and Easy Video Stabilization Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-recycle-fix-guide-for-corrupted-files/"><u>Win10/11 Recycle Fix Guide for Corrupted Files</u></a></li>
+</ul></div>
 

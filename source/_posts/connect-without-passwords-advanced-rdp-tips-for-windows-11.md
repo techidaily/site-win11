@@ -1,7 +1,7 @@
 ---
 title: "Connect Without Passwords: Advanced RDP Tips for Windows 11"
-date: 2024-11-15T21:54:38.146Z
-updated: 2024-11-18T06:26:27.113Z
+date: 2024-11-24T23:59:41.412Z
+updated: 2024-11-27T16:22:24.397Z
 tags:
   - windows10
   - windows11
@@ -39,15 +39,17 @@ Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
 
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Using Security Policy
@@ -70,16 +72,7 @@ Security Settings > Local Policies > Security Options
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Registry Editor
@@ -115,13 +108,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
 
  Running this command will change the value data field to **0** and disable the remote password prompt.
@@ -131,10 +117,7 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Using a Reg File
@@ -152,6 +135,11 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 3. Now click **File** \> **Save as** and set the file type to **All files**.  
 ![Create a Reg File Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-connect-remote-desktop-without-a-password.jpg)
 4. Name the file **no-password.reg** and save it to your desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on the file to execute it and apply the settings automatically.
 
  Your remote connections will now run without passwords. To re-enable the password prompt, create another text file with the following code:
@@ -167,26 +155,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-non-vimeo-showstoppers-for-online-content-creators-for-2024/"><u>[Updated] Non-Vimeo Showstoppers for Online Content Creators for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-power-ranking-top-10-youtube-channels-by-views-and-subs/"><u>2024 Approved The Ultimate Power Ranking Top 10 YouTube Channels by Views & Subs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/conjuring-a-cohesive-file-landscape-in-win1011/"><u>Conjuring a Cohesive File Landscape in WIN10/11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-failed-syncs-a-guide-to-onedrive-operations-on-windows/"><u>Fixing Failed Syncs: A Guide to OneDrive Operations on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/hidden-gems-of-windows-world-windows-11s-stealth-menu-secrets/"><u>Hidden Gems of Window's World: Windows 11’S Stealth Menu Secrets</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-diagnose-and-correct-disk-read-errors/"><u>How to Diagnose and Correct Disk Read Errors</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-lava-blaze-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Lava Blaze 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a18-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A18 FRP Without Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-into-your-3d-print-workflow-for-enhanced-efficiency/"><u>Integrating ChatGPT Into Your 3D Print Workflow for Enhanced Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-visual-vibrancy-of-a-frozen-windows-device/"><u>Reviving the Visual Vibrancy of a Frozen Windows Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-launch-problems-with-simcity-skylines-2-edition/"><u>Solving Launch Problems with SimCity Skylines 2 Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/standing-out-in-a-crowd-the-finest-thumbnail-font-options-for-2024/"><u>Standing Out in a Crowd The Finest Thumbnail Font Options for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-and-tricks-for-addressing-winscombsvc-errors-in-windows-os/"><u>Tips & Tricks for Addressing WinScombSvc Errors in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-solving-directdraw-glitches-quickly/"><u>Win10/11: Solving DirectDraw Glitches Quickly</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +162,25 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>[New] 2024 Approved Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-serene-gaming-selection-quietest-phone-apps-for-2024/"><u>[New] Serene Gaming Selection Quietest Phone Apps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-win-customer-trust-incorporating-these-20-marketing-expressions/"><u>[Updated] 2024 Approved Win Customer Trust Incorporating These 20 Marketing Expressions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-beyond-the-headset-global-vr-evolution-for-2024/"><u>[Updated] Beyond the Headset Global VR Evolution for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-stunning-ai-art-leveraging-dall-e-with-chatgpt-4/"><u>Creating Stunning AI Art: Leveraging DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://win11.techidaily.com/dualshock-without-plugs-win-compatibility-tips/"><u>DualShock Without Plugs: Win Compatibility Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-your-ctrl-key-not-working-on-windows-11/"><u>How to Fix Your Ctrl Key Not Working on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-system-insights-with-hardware-monitoring-tiles/"><u>Improve System Insights with Hardware Monitoring Tiles</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-visible-pins-in-the-win-11-start-menu/"><u>Increase Visible Pins in the Win 11 Start Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-pagefilesys-functionality-on-windows-systems/"><u>Insights Into Pagefile.sys Functionality on Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lifetime-access-to-new-languages-zero-price-endless-potential/"><u>Lifetime Access to New Languages: Zero Price, Endless Potential</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-time-saviors-expert-evaluations-of-video-tech/"><u>Screen Time Saviors Expert Evaluations of Video Tech</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-sound-problems-in-resident-evil-village/"><u>Troubleshooting Common Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-devices-not-unlocking-on-win11s-sleep/"><u>Troubleshooting Devices Not Unlocking on Win11's Sleep</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-global-precision-advanced-mouse-navigation-via-powertoys/"><u>Unlocking Global Precision - Advanced Mouse Navigation via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-recycle-fix-guide-for-corrupted-files/"><u>Win10/11 Recycle Fix Guide for Corrupted Files</u></a></li>
+</ul></div>
+

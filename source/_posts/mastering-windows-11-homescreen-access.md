@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11 Homescreen Access
-date: 2024-11-13T06:56:55.111Z
-updated: 2024-11-17T16:15:55.086Z
+date: 2024-11-25T03:22:22.703Z
+updated: 2024-11-28T02:05:13.471Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's Wrong With the Old Settings App?
 
  The old Settings app directly opens the System section when you launch it. This section contains the most common settings like Display, Sound, Storage, Troubleshooting, and more. But you will still have to use the left side menu to access common settings such as Network, Personalization, Bluetooth, One Drive, and more.
@@ -35,15 +39,16 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  The new Home section brings all the common settings under one roof, so the users don't have to dive deep into the Settings app to change a network or personalization setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Home Section in the Settings App
 
  Repeat the following steps to enable and use the Home section in the Settings App:
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the Latest Insider Build and ViveTool
@@ -69,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 6. Now, type the following commands and press the **Enter** key to execute them one by one:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `vivetool /enable /id:42058345  
@@ -82,10 +84,7 @@ vivetool /enable /id:42058313`
 8. **Restart** your PC to apply the changes made by the Vivetool in the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Enhanced Settings App Look Like?
@@ -104,35 +103,11 @@ vivetool /enable /id:42058313`
 
  Still, it is a much-needed overhaul from the existing Settings app, which will improve the overall user experience. Microsoft is also trying out a Home section in the File Explorer app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Revamped Settings App on Windows
 
  Microsoft’s take on the new Home section in the Settings app is a change we would definitely want to see in the stable builds in the upcoming months. But there are major changes arriving to the File Explorer and other Windows apps like the Photos app which recently got an update to support the dark mode and some zoom and usability improvements.
 
  However, it isn't just a cosmetic change because many utilities and Control Panel items are migrated to the Settings app. Microsoft also released a different version of the Settings app which incorporates a new Home section and a layout that will help you access the most commonly used settings. Let’s learn how to enable it on your PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>[New] 2024 Approved Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mac-masterclass-designing-eye-catching-yt-thumbnails/"><u>[New] Mac Masterclass Designing Eye-Catching YT Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-inaccessible-program-uninstall-in-microsofts-latest-os/"><u>Defeating Inaccessible Program Uninstall in Microsoft's Latest OS</u></a></li>
-<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-network-access-for-chrome-amidst-windows-security-barriers/"><u>Enabling Network Access for Chrome Amidst Windows Security Barriers</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-pc-what-to-do-when-windows-11-loses-a-tab/"><u>Enhance Your PC: What to Do When Windows 11 Loses a Tab?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-huawei-p60-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Huawei P60 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-the-top-7-voice-customization-applications/"><u>In 2024, Exploring the Top 7 Voice Customization Applications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pixels-to-percussion-composing-visuals-in-video/"><u>Pixels to Percussion Composing Visuals in Video</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G73 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tips-simply-recognize-your-computers-ram-type/"><u>Tech Tips: Simply Recognize Your Computer's RAM Type</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steam-backup-mishaps/"><u>Troubleshooting Steam Backup Mishaps</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -141,3 +116,25 @@ vivetool /enable /id:42058313`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-rearrangement-of-your-personalized-lists/"><u>[New] In 2024, Effortless Rearrangement of Your Personalized Lists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-turning-down-igtv-on-insta/"><u>[Updated] Turning Down IGTV on Insta</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-ad-videos-made-easy-utilize-free-video-making-kit/"><u>2024 Approved FB Ad Videos Made Easy Utilize Free Video-Making Kit</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-new-life-into-amd-graphics-on-windows-11-with-updated-drivers/"><u>Breathe New Life Into AMD Graphics on Windows 11 with Updated Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-two-email-realms-add-gmail-to-outlook-windows-edition/"><u>Bridging Two Email Realms: Add Gmail to Outlook, Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-better-interface-new-menu-additions-for-win-11/"><u>Building a Better Interface: New Menu Additions for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-fake-virus-detection-on-windows-chrome-edition/"><u>Bypassing Fake Virus Detection on Windows Chrome Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-ram-limitations-on-your-windows-computer/"><u>Bypassing Ram Limitations on Your Windows Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-windows-store-mishap-with-code-x80072f30-fix/"><u>Bypassing the Windows Store Mishap with Code X80072F30 Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/champion-windows-options-for-true-nintendo-switch-experience/"><u>Champion Windows Options for True Nintendo Switch Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-disk-management-missteps-and-mistakes/"><u>Clearing Up Disk Management Missteps and Mistakes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-workforce-ds-30-printer-driver-for-windows-11-8-and-7/"><u>Download Epson WorkForce DS-30 Printer Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-msi-dragon-center-back-on-track-quick-solutions/"><u>Getting Your MSI Dragon Center Back on Track - Quick Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfectly-pitched-headlines-maker-for-2024/"><u>Perfectly Pitched Headlines Maker for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-choosing-a-quality-motherboard/"><u>The Ultimate Checklist for Choosing a Quality Motherboard</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-a2-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A2 Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Immersive Resource Dashboard: SysTray with Full-Featured Info"
-date: 2024-11-15T03:00:39.973Z
-updated: 2024-11-18T00:56:57.076Z
+date: 2024-11-26T00:51:26.185Z
+updated: 2024-11-28T03:27:37.199Z
 tags:
   - windows10
   - windows11
@@ -35,18 +35,15 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 ![The Hide when minimized option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/hide-when-minimized.jpg)
 4. Click Task Manager’s **Minimize** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Selecting to minimize Task Manager will now effectively close that utility’s window, but its PC resource usage details will remain visible within the system tray. Move your cursor over the small square icon in the system tray to view a tooltip showing RAM, CPU, network, and disk utilization for your PC. Clicking that system tray icon reopens the Task Manager window on its graphical **Performance** tab.
 
 ![The system resource usage details shown by Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/task-manager-s-system-tray-icon.jpg)
 
  If you can't see Task Manager’s system tray icon, it’s probably within the hidden icon menu. Click the small arrow by the system tray to view the hidden icon menu. Or you can [set the system tray to show an icon](https://www.makeuseof.com/system-tray-icons-windows-11/) for Task Manager.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With Performance Monitor
 
@@ -67,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
 
  Performance Monitor also has an option for adding larger system resource panels to the Windows desktop. Select the **Show this Panel** options on the **CPU**, **Memory**, **Disk**, and **Network** tabs and click **OK**. Then you’ll see a graph panel for each resource at the top left of the desktop. You can drag those panels to reposition them on the desktop.
@@ -74,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
@@ -94,15 +92,16 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
 
@@ -116,41 +115,11 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## View Your System Resource Usage Info Directly From Your System Tray
 
  It’s always a good idea to keep an eye on CPU and RAM utilization to check you’re not overloading your PC, which impacts system performance. System resource usage details will be much more visible when added to the Windows system tray with Task Manager, Performance Monitor, and System Explorer. To have such computer resource info within the system tray is undoubtedly more convenient for monitoring system resource usage.
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-whimsical-worlds-kids-fun-game-selection/"><u>[Updated] 2024 Approved Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>2024 Approved The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
-<li><a href="https://win11.techidaily.com/8-microsoft-apps-you-must-install-on-android-if-you-have-a-windows-pc/"><u>8 Microsoft Apps You Must Install on Android if You Have a Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-the-electrical-footprint-of-your-personal-windows-pc/"><u>Analyzing the Electrical Footprint of Your Personal Windows PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/confused-by-text-instead-of-imessage-heres-how-to-tell-if-someone-blocked-you/"><u>Confused by Text Instead of iMessage? Here's How to Tell if Someone Blocked You</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-auto-shutdown-techniques-for-idle-windows-pcs/"><u>Easy Auto-Shutdown Techniques for Idle Windows PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-installed-disk-issue-on-windows-11-system/"><u>Fixing Non-Installed Disk Issue on Windows 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-hues-overcoming-color-issues-on-windows/"><u>Harmonizing Hues: Overcoming Color Issues on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-ace-2v-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Ace 2V Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A54 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-high-res-display-settings-in-windows/"><u>Mastering High-Res Display Settings in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-site-trust-on-windows-11/"><u>Mastering Site Trust on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-playable-media-error-xc10100bf/"><u>Overcoming Non-Playable Media Error XC10100BF</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablish-clear-view-fixing-black-screens-on-win11/"><u>Reestablish Clear View: Fixing Black Screens on Win11</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/solucionando-el-problema-de-la-particion-efi-desaparecida-con-estas-6-estrategias-eficaces/"><u>Solucionando El Problema De La Partición EFI Desaparecida Con Estas 6 Estrategias Eficaces</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-emoji-glitches-instantly-a-guide-for-iphone-and-ipad-users-7-tips/"><u>Solve Emoji Glitches Instantly - A Guide for iPhone and iPad Users (7 Tips)</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-solving-finals-not-loading-issue/"><u>Troubleshooting Steps: Solving 'Finals Not Loading' Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-iphone-fixes-with-dfu-mode-tackle-these-5-challenges-easily/"><u>Unlock iPhone Fixes with DFU Mode: Tackle These 5 Challenges Easily</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,3 +128,27 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-get-started-with-ease-facebook-insight-basics/"><u>[New] Get Started with Ease Facebook Insight Basics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>2024 Approved Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://win11.techidaily.com/5-tactics-to-turn-windows-into-a-mac-like-interface/"><u>5 Tactics to Turn Windows Into a Mac-Like Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/a-detailed-walkthrough-to-activate-notepad-dark-mode-on-windows-11/"><u>A Detailed Walkthrough to Activate Notepad Dark Mode on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-new-era-for-deletion-on-your-pcs-photo-gallery/"><u>A New Era for Deletion on Your PC's Photo Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-support-tasks-map-windows-troubleshooting-tools/"><u>Accelerate Support Tasks: Map Windows Troubleshooting Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-enhanced-browser-protection-with-microsofts-defender-on-windows-11s-edge/"><u>Activate Enhanced Browser Protection with Microsoft's Defender on Windows 11'S Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-breakpoint-failed-on-your-windows-system/"><u>Addressing 'Breakpoint Failed' On Your Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-techniques-for-capturing-uac-alerts/"><u>Advanced Techniques for Capturing UAC Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/audioscape-refresh-on-windows-the-driver-upgrade-path/"><u>Audioscape Refresh on Windows: The Driver Upgrade Path</u></a></li>
+<li><a href="https://win11.techidaily.com/basking-in-low-light-the-art-of-dark-modes-in-paint/"><u>Basking in Low Light: The Art of Dark Modes in Paint</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-down-the-top-ae-title-styles/"><u>Breaking Down the Top AE Title Styles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-play-in-ring-of-elysium-by-preventing-game-crashes/"><u>How To Ensure Smooth Play in Ring of Elysium by Preventing Game Crashes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-quality-swiftest-android-substitutes/"><u>Quick Quality: Swiftest Android Substitutes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-code-with-apples-latest-ai-enhanced-programming-tools-complimentary-for-all-coders-zdnet/"><u>Revolutionize Your Code with Apple's Latest AI-Enhanced Programming Tools - Complimentary for All Coders | ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-logitech-g533-microphone-isnt-working-and-how-to-fix-it-fast/"><u>Solved: Why Your Logitech G533 Microphone Isn't Working and How to Fix It Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-the-spectacle-comprehensive-insights-into-the-gigabyte-aorus-co49dqs-vibrant-display-quality/"><u>Unboxing the Spectacle: Comprehensive Insights Into the Gigabyte Aorus CO49DQ's Vibrant Display Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/value-airborne-innovations-top-5-budget-drone-selections-for-2024/"><u>Value Airborne Innovations Top 5 Budget Drone Selections for 2024</u></a></li>
+</ul></div>
+

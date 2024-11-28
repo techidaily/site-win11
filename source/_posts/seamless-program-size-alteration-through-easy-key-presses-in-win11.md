@@ -1,7 +1,7 @@
 ---
 title: Seamless Program Size Alteration Through Easy Key Presses in Win11
-date: 2024-11-12T09:17:41.713Z
-updated: 2024-11-18T00:20:31.414Z
+date: 2024-11-21T23:25:45.827Z
+updated: 2024-11-27T23:58:07.146Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Resize Software Windows With Custom Hotkeys
 
@@ -75,16 +83,17 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 6. Press a letter to combine with your selected key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now open File Explorer using one of the many[ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
@@ -94,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![The Sizer Macro Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sizer-macro-entry-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also set the hotkeys to move windows to specific positions. To do that, select size you set a hotkey for on the**Menu** and click**Edit** . Select an option on the Move to drop-down menu. Click the**OK** \>**Apply** option to save the changes.
 
  If you want to remove a hotkey, select the window size you set it for on the Menu tab. Press the**Delete** button to erase. You can also reorder the sizes on the**Menu** tab by selecting them and pressing the**Move Up** and**Move Down** options.
@@ -109,26 +111,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![The Sizer popup menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-popup-menu.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're really enjoying using hotkeys, check out[how to set up custom hotkeys in Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resize Your Windows Software by Pressing Keyboard Keys
@@ -152,19 +138,24 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-easy-steps-for-screenshotting-instagrams-story-section/"><u>[New] Easy Steps for Screenshotting Instagram's Story Section</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-nintendo-switch-fighters-showdown-max-156/"><u>[New] In 2024, Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-sharp-focus-tech-best-4k-camera-phones-of-the-genre-for-2024/"><u>[New] Sharp Focus Tech Best 4K Camera Phones of the Genre for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-6-masterpieces-designing-mc-village-homes/"><u>[New] Top 6 Masterpieces Designing MC Village Homes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-speedy-retrieval-of-snap-archive/"><u>[Updated] In 2024, Speedy Retrieval of Snap Archive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-just-portables-unveiling-the-extended-impact-of-m3-apple-silicon-on-tech-innovation-zdnet/"><u>Beyond Just Portables: Unveiling the Extended Impact of M3 Apple Silicon on Tech Innovation | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-the-missing-search-back-into-win11s-task-manager/"><u>Bringing the Missing Search Back Into Win11's Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-and-correcting-uninitialized-disk-errors-in-win/"><u>Confronting & Correcting 'Uninitialized Disk' Errors in Win</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtube-music-experiences/"><u>Curating YouTube Music Experiences</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-se-2020-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2020) Passcode not Working?</u></a></li>
-<li><a href="https://win11.techidaily.com/method-to-release-administrator-restricted-apps/"><u>Method to Release Administrator-Restricted Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-strike-against-script-failures-in-windows/"><u>Swift Strike Against Script Failures in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-virtualbox-v70-potential-the-upgrade-on-windows-11/"><u>Unlock VirtualBox v7.0 Potential: The Upgrade on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-s-mode-understanding-its-role-in-security/"><u>Windows 11'S 'S Mode': Understanding Its Role in Security</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-strategies-for-harvesting-free-photo-frames/"><u>[New] Key Strategies for Harvesting Free Photo Frames</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-blueprint-for-a-thriving-portfolio-in-graphics/"><u>[Updated] In 2024, Blueprint for a Thriving Portfolio in Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-ipad-speech-recording-tools-3/"><u>[Updated] In 2024, Elite iPad Speech Recording Tools #3</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streamlined-process-for-hassle-free-hdr-shots/"><u>[Updated] In 2024, Streamlined Process for Hassle-Free HDR Shots</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events/"><u>[Updated] Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-step-by-step-plan-efficient-vimeo-video-logging/"><u>A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
+<li><a href="https://win11.techidaily.com/connecting-to-external-storage-on-mobile-devices/"><u>Connecting to External Storage on Mobile Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-could-not-create-vm-issue-in-windows-os/"><u>Correcting 'Could Not Create VM' Issue in Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cost-effective-starter-packs-for-aspiring-home-movie-buffs/"><u>Cost-Effective Starter Packs for Aspiring Home Movie Buffs</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-best-windows-10-drawing-apps-for-your-creativity/"><u>Discover the Best Windows 10 Drawing Apps for Your Creativity</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-snooze-mode-in-windows-devices/"><u>Guide to Snooze Mode in Windows Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-absence-of-badge-indicators/"><u>Overcoming Absence of Badge Indicators</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-issues-with-accidental-shortcut-triggers/"><u>Overcoming Issues with Accidental Shortcut Triggers</u></a></li>
+<li><a href="https://win11.techidaily.com/reinvigorate-your-desktop-adopt-fancywm-tech/"><u>Reinvigorate Your Desktop: Adopt FancyWM Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/silencing-google-chrome-notifications-pc-wise/"><u>Silencing Google Chrome Notifications, PC-Wise</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-windows-error-0x80n04cf/"><u>Troubleshooting Tips for Fixing Windows Error 0X80n04CF</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-productivity-potential-merging-to-dot-ifttt/"><u>Unleash Productivity Potential: Merging To-Dot, IFTTT</u></a></li>
 </ul></div>
 

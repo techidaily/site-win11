@@ -1,7 +1,7 @@
 ---
 title: Insights Gained From Windows BSOD Memory Logs
-date: 2024-09-11T09:30:07.173Z
-updated: 2024-09-12T09:30:07.173Z
+date: 2024-11-24T21:07:49.620Z
+updated: 2024-11-28T00:30:33.187Z
 tags:
   - windows10
   - windows11
@@ -23,16 +23,7 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are BSoD Memory Dumps?
@@ -56,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 ![Types of Kernel-Mode Memory Dumps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/types-of-memory-dumps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are several kinds of BSoD memory dumps, depending on what version of Microsoft Windows you're running:
@@ -76,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  One disadvantage of Complete Memory Dumps is that all subsequent Complete Memory Dumps will overwrite the previous ones. This feature was most likely implemented to help prevent filling your computer's memory with too many dump files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Kernel Memory Dump
 
  Unlike Complete Memory Dumps, Kernel Memory Dumps contain all the memory used by the kernel during the time of the crash. Like with the previous type of memory dump, the file size is directly correlated with the system's physical memory. However, it's usually just one-third of the size.
@@ -94,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 `%SystemRoot%\Memory.dmp`
 
  Like with the previous dump file, whenever new Kernel Memory Dumps are generated, the previous ones will be overwritten.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Automatic Memory Dump
 
@@ -116,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Just like Kernel Memory Dumps, newly generated Automatic Memory Dumps will overwrite the previous ones.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Small Memory Dump
 
  The smallest of the kernel-mode dump files, Small Memory Dumps are always limited to exactly 64 KB and require just 64 KB of pagefile.
@@ -135,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  In the event of a new Small Memory Dump being generated, the previous file will not be overwritten. Instead, each Small Memory Dump will be given a different name that will make it easier to distinguish from one another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Active Memory Dump
 
  Very similar to Complete Memory Dumps, Active Memory Dumps are much smaller since they don't refer to pages that may not be the cause of the BSoD error.
@@ -145,16 +116,13 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 `%SystemRoot%\Memory.dmp`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Choosing the Right Memory Dump for You
 
 ![Lightbulb Idea Making a Choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/making-a-choice.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There is no one-size-fits-all type of kernel-mode memory dump, as each has its own advantages and disadvantages. Basically, it's all about balancing out file size versus the usefulness of the information on that file.
 
@@ -176,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Kernel-mode dump files exist so that users may analyze them and find out the root cause of occurring BSoD errors. Fortunately enough, there are several tools that can help with analyzing BSoD Memory Dumps:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### WinDbg
 
 ![WinDbg Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windbg-interface.jpg)
@@ -191,15 +152,16 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  While it can seem overwhelming at first, with a bit of time and patience, you too can [get started with WinDbg](http://www.makeuseof.com/windbg-windows-10-guide/) and use it to solve most of your computer's issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### BlueScreenView
 
 ![BlueScreenView Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bluescreenview-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both [WinDbg and BlueScreenView can help solve BSoD errors](https://www.makeuseof.com/tag/solve-blue-screen-errors/), however, BlueScreenView is much more suitable for users who are newer to kernel debugging.
@@ -207,22 +169,12 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
  While it doesn't provide users with as much in-depth information as WinDbg, it does present the information in a much more simplistic and efficient manner.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WhoCrashed
 
 ![WhoCrashed Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/whocrashed-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If user-friendliness is what you're looking for, then you can't get any simpler than WhoCrashed. While the interface may look dated, the information that this tool provides is more than enough to help you find the cause of BSoD errors.
 
@@ -240,11 +192,26 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-detecting-bots-amongst-your-brands-facebook-supporters/"><u>[New] 2024 Approved Detecting Bots Amongst Your Brand's Facebook Supporters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-boosting-brand-exposure-through-box-for-2024/"><u>[New] Boosting Brand Exposure Through Box for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/annual-reveal-best-free-luts-with-direct-access-links-for-2024/"><u>Annual Reveal - Best FREE LUTs with Direct Access Links for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-ios-edge-explained-6-key-differences/"><u>ChatGPT's iOS Edge Explained: 6 Key Differences</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-high-contrast-effectiveness-in-windows/"><u>Eliminate High Contrast Effectiveness in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-computer-controls-internationally-using-powertoys-capabilities/"><u>Master Your Computer Controls Internationally Using PowerToys' Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-your-intel-unison-errors-with-these-tips-for-win11/"><u>Overcome Your Intel Unison Errors with These Tips for Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recorder-pro-a-beginners-handbook-for-mac/"><u>Screen Recorder Pro A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-studio-review-almost-flawless-for-the-creative-mind/"><u>Surface Studio Review: Almost Flawless for the Creative Mind</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-navigating-popular-networks-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Navigating Popular Networks: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-internet-router-control-panel/"><u>Troubleshooting No Internet Router Control Panel</u></a></li>
+</ul></div>
+

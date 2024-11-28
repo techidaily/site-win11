@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Requested Command Prompt Pop-Ups
-date: 2024-11-14T01:46:13.440Z
-updated: 2024-11-18T01:38:49.866Z
+date: 2024-11-24T02:52:20.157Z
+updated: 2024-11-27T22:13:13.470Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If those scans don't work, you can try [updating your Windows computer](https://www.makeuseof.com/update-windows-manually/) to see if Microsoft has released a fix that can address the issue. If there are no updates or the update doesn't fix the problem, try performing a virus scan in case the issue is related to malware.
 
 ## 2\. Clear the RAM Cache
@@ -46,35 +50,22 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Start apps** on the left side, and on the right, select **Command Prompt** (it might appear with a different name on your computer). Then, click on the **Disable** button in the top-right corner of Task Manager to disable it.
 
 ![the cmd task in startup apps in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-in-startup-apps-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Performing a Clean Boot
 
  When some apps glitch out, they can cause some unexpected behavior on your computer. The problem, however, is that isolating the app while your computer has already booted up, with all the third-party apps and services running, can be a problem. To get to the bottom of this, you'd have to boot up your PC without them by [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) and then trying to find the offending app.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Check for Tasks That Could Be Causing CMD to Randomly Pop Up
 
@@ -83,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  Press **Win + R** to open Windows Run. Then, type **taskschd.** **msc** in the text box, and then click on **OK** to launch Task Scheduler.
 
 ![opening the Task Scheduler using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-task-scheduler-from-windows-run.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Task Scheduler, select **Task Scheduler Library > Microsoft > Windows** and check if Command Prompt is there. If it is, right-click it and select **Delete**.
 
@@ -93,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ## 6\. Disable Command Prompt
 
  If none of the above solutions have worked, then you might not have a choice but to [disable Command Prompt on your PC](https://www.makeuseof.com/windows-disable-command-prompt-powershell/). This might not be an issue if you don't use Command Prompt. But if you need it, even if it is from time to time, you might want to continue troubleshooting the problem so you can launch the app at will.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a New Windows Account
 
@@ -115,30 +103,15 @@ net user /add username password
 
  Keep in mind that this will create a local account. And if Command Prompt stops opening randomly on that new account, consider making it your default one on the computer and transfer all your important data to it (make sure to delete the corrupted account).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Command Prompt Only When You Want It
 
  Having Command Prompt constantly disrupt you from using your computer can ruin the Windows experience. Luckily, you can troubleshoot the issue, especially if the problem boils down to an issue with startup settings, the Task Scheduler, or third-party app conflicts. Once you fix the issue, you will be able to open Command Prompt when you actually need it.
 
  Here's how you can stop Command Prompt from randomly starting up.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-how-to-expertly-snip-tamil-ringtones-a-complete-walkthrough-for-2024/"><u>[New] How to Expertly Snip Tamil Ringtones A Complete Walkthrough for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chasing-profit-on-platforms-youtube-partner-application-steps/"><u>[New] In 2024, Chasing Profit on Platforms YouTube Partner Application Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[New] Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-surviving-in-mc-6-home-ideas/"><u>2024 Approved Surviving in MC 6 Home Ideas</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-instructions-keep-your-amd-graphics-card-updated-in-windows-environments/"><u>Comprehensive Instructions: Keep Your AMD Graphics Card Updated in Windows Environments</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-inverted-screen-display-on-windows-7/"><u>Correcting Inverted Screen Display on Windows 7</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-hidden-login-screens-in-windows-11/"><u>Eradicating Hidden Login Screens in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-gemini-initiative-unveiling-the-mystery-behind-its-current-objectives/"><u>Google's Gemini Initiative: Unveiling the Mystery Behind Its Current Objectives</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-the-effectiveness-of-win-based-discord-queries/"><u>Improving the Effectiveness of Win-Based Discord Queries</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-11-settings/"><u>In-Depth Analysis of Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/master-plan-to-fix-rpc-fails-on-your-pc/"><u>Master Plan to Fix RPC Fails on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-freezing-windows-netflix-interface/"><u>Reviving Freezing Windows Netflix Interface</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-corsair-audio-device-drivers-on-windows/"><u>Step-by-Step Guide: Updating Corsair Audio Device Drivers on Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-s-best-video-editors-for-mac-pinnacle-studio-alternates/"><u>Updated In 2024, S Best Video Editors for Mac Pinnacle Studio Alternates</u></a></li>
-<li><a href="https://win11.techidaily.com/winsecurely-solutions-for-windows-without-bitlocker/"><u>WinSecurely: Solutions for Windows Without Bitlocker</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,3 +120,20 @@ net user /add username password
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-pathway-to-mastering-srt-files/"><u>[New] Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-tasks-high-speed-windows-autoclickers/"><u>Accelerate Tasks: High-Speed Windows Autoclickers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-the-essential-items-not-met-error-in-windows-11/"><u>Addressing the 'Essential Items Not Met' Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/alternative-approaches-for-integrating-additional-av-software/"><u>Alternative Approaches for Integrating Additional AV Software</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-common-setbacks-when-launching-csgo-on-w11/"><u>Avoiding Common Setbacks When Launching CS:GO on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-archive-game-creating-win11-sefx-packages-now/"><u>Boost Your Archive Game: Creating Win11 SEFx Packages Now</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-effacer-le-registre-dhistoire-des-fichiers-dans-windows-11/"><u>Comment Effacer Le Registre D’Histoire Des Fichiers Dans Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-overcoming-a-black-screen-problem-in-android-phones/"><u>Easy Fixes for Overcoming a Black Screen Problem in Android Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-x100-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo X100 Fingerprint Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-htcfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HTCFRP Lock</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-replacements-for-itunes-on-the-ipod-touch/"><u>Top Replacements for iTunes on the iPod Touch</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-music-recovery-recover-deleted-music-from-vivo-t2-pro-5g-by-fonelab-android-recover-music/"><u>Vivo T2 Pro 5G Music Recovery - Recover Deleted Music from Vivo T2 Pro 5G</u></a></li>
+</ul></div>
+

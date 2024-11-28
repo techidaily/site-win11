@@ -1,7 +1,7 @@
 ---
 title: Win Screensaver Woes? Here's How to Reset Them
-date: 2024-11-10T21:17:40.133Z
-updated: 2024-11-17T21:03:02.157Z
+date: 2024-11-25T18:53:35.871Z
+updated: 2024-11-28T01:49:43.912Z
 tags:
   - windows10
   - windows11
@@ -61,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
  So, by disabling the “Force specific screen saver” feature, the "screen saver" drop-down menu in the Screen Saver Settings window won't be grayed out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Registry Editor
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we’ll show you how to get rid of the “grayed out screen saver settings” error using the Registry Editor. But if you tweak the wrong Registry keys by mistake, your device might end up crashing. That’s why we always recommend that you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before editing its keys.
 
@@ -79,6 +87,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the "Control Panel" key is missing, here’s how you can create it:
 
 1. Right-click on the **Windows** folder (key) in the LGPE and select **New > Key**.
@@ -88,13 +100,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the ScreenSaveActive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-screensaveactive-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this value is missing, create it through these steps:
 
 1. Right-click on a blank space and select **New > DWORD (32-bit) Value**.
@@ -103,13 +108,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  The “ScreenSaveActive” option in the Registry Editor performs the same function as the “Enable screen saver” option in the LGPE. Remember, enabling the “Enable screen saver option” in the LGPE ensures that the settings on the Screen Saver Settings window aren’t grayed out.
 
  To enable the “ScreenSaveActive” option in the Registry Editor, double-click on this option and then set the "Value data" as **1**. From there, press **OK** and then restart your device to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Change the Power Settings
 
@@ -132,10 +130,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
@@ -148,19 +143,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the Save Changes button on the Edit plan settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-save-changes-button-on-the-edit-plan-settings-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, configure the advanced power settings through these steps:
 
 1. Type **Change screen saver** in the Start menu search bar and select the **Best match**.
@@ -171,13 +153,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
 
  Want to restore your power settings to their defaults at a later stage?
@@ -185,6 +160,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Power Settings via the Control Panel
 
@@ -199,18 +178,19 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![The Edit Plan Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-plan-settings-on-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Get Rid of System Corruption or Update Your PC
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
@@ -224,26 +204,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-assessing-igtv-content-performance-levels/"><u>[New] 2024 Approved Assessing IGTV Content Performance Levels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-steps-for-high-quality-twitch-broadcasts-for-2024/"><u>[Updated] Essential Steps for High-Quality Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>[Updated] In 2024, Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit/"><u>2024 Approved Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-empty-directory-faux-pas-in-windows-a-guide-to-error-x80070091/"><u>Demystifying the 'Empty Directory' Faux Pas in Windows - A Guide to Error X80070091</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-now-updated-nvidia-rtx-3080-ti-drivers-supporting-windows-11-8-and-7-systems/"><u>Download Now: Updated NVIDIA RTX 3080 Ti Drivers Supporting Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-strategies-for-spotify-advertising-success/"><u>Essential Strategies for Spotify Advertising Success</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-your-pc-quick-steps-into-windows-11s-safe-mode/"><u>Jumpstart Your PC: Quick Steps Into Windows 11'S Safe Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-screens-enhanced-brightness-controls/"><u>Mastering Windows Screens: Enhanced Brightness Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-global-communication-hotkeys-for-windows-language-switch/"><u>Optimizing Global Communication: Hotkeys for Windows Language SwitcH</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-technical-glitches-steps-to-unfreeze-the-deathloop-gameplay/"><u>Overcoming Technical Glitches: Steps to Unfreeze the Deathloop Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starfield-sound-glitches-how-we-overcame-popping-and-distortion-problems/"><u>Starfield Sound Glitches: How We Overcame Popping & Distortion Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-strategies-to-overcome-access-barriers-on-win-pcs/"><u>Top 8 Strategies to Overcome Access Barriers on Win PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-top-9-changes-in-win11-february-2023/"><u>Unveiling the Top 9 Changes in Win11 February 2023</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-x9b-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor X9b Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-warnings-identifying-critical-processes-for-malware-detection/"><u>Windows Warnings: Identifying Critical Processes for Malware Detection</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -251,3 +211,23 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora-for-2024/"><u>[Updated] A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-why-virtual-reality-lack-of-content/"><u>[Updated] Why Virtual Reality Lack of Content?</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-generations-old-games-to-your-my-pictures-on-w11/"><u>Bridging Generations: Old Games to Your My Pictures on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-local-libraries-and-online-oceans-dropbox-googledrive-on-c/"><u>Bridging Local Libraries & Online Oceans: Dropbox, GoogleDrive on C:/</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-to-recovered-network-access/"><u>Bridging the Gap to Recovered Network Access</u></a></li>
+<li><a href="https://win11.techidaily.com/bsod-fix-tips-counteracting-issues-with-vmware-on-windows-11/"><u>BSOD Fix Tips: Counteracting Issues with VMware on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-alerts-fast-track/"><u>Bypassing Windows 11 Alerts Fast-Track</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-stuck-unlock-windows-11s-quick-fixes-now/"><u>Chrome Stuck? Unlock Windows 11'S Quick Fixes Now</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-screen-glitches-via-windows-11-driver-reset/"><u>Clear Screen Glitches via Windows 11 Driver Reset</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-and-the-new-privacy-challenges-from-ios-145/"><u>Facebook and the New Privacy Challenges From iOS 14.5</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-in-dealing-with-msvcr110-dll-file-missing-problems-a-professionals-roadmap/"><u>Masterclass in Dealing with MSVCR110 DLL File Missing Problems - A Professional's Roadmap</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-understanding-irql-levels-in-windows-7-troubleshooting/"><u>Resolved: Understanding IRQL Levels in Windows 7 Troubleshooting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-sudden-and-complete-cessation-of-chatgpt-in-italy/"><u>The Sudden and Complete Cessation of ChatGPT in Italy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-novices-into-reddit-masterminds-for-maximum-engagement-for-2024/"><u>Transforming Novices Into Reddit Masterminds for Maximum Engagement for 2024</u></a></li>
+</ul></div>
+

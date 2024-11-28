@@ -1,7 +1,7 @@
 ---
 title: Essential Steps for Running SFC in Windows 10/8/7
-date: 2024-11-15T04:38:24.277Z
-updated: 2024-11-18T05:24:54.022Z
+date: 2024-11-25T01:17:01.266Z
+updated: 2024-11-27T16:42:46.347Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Run a System File Checker Scan on Windows
 
  To use the SFC, you need to run a single command in Command Prompt. Here’s how:
@@ -40,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Happens After I Run the System File Checker?
 
  After the System File Checker completes its scan, it will display a message in the Command Prompt window with the results.
@@ -55,14 +52,11 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
- On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 ## Other SFC Commands You Can Run on Windows
 
@@ -77,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Run an Offline SFC Scan on Windows
@@ -113,22 +104,23 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -151,18 +143,20 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>[New] 2024 Approved Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-to-mp3-converter-tool/"><u>[New] In 2024, Facebook to MP3 Converter Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unboxing-titans-of-youtube-the-most-popular/"><u>[Updated] Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-high-performance-desktop-pcs/"><u>2024 Approved Ultimate High-Performance Desktop PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-server-not-available-error-steams-content-link-issue/"><u>Fixing Server Not Available Error: Steam's Content Link Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-use-green-screen-in-kinemaster/"><u>In 2024, How To Use Green Screen In KineMaster</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-digital-life-30-budget-friendly-cloud-solutions-1tbplus/"><u>In 2024, Maximize Your Digital Life 30 Budget-Friendly Cloud Solutions (1TB+)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-soundwaves-on-social-a-guide-to-embedding-tracks-in-stories/"><u>In 2024, Soundwaves on Social A Guide to Embedding Tracks in Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/key-steps-for-activating-windows-recovery-software/"><u>Key Steps for Activating Windows Recovery Software</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-error-code-0xc00ce556/"><u>Navigating Windows Error Code: 0XC00CE556</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-personal-data-from-the-windows-login-area/"><u>Removing Personal Data From the Windows Login Area</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-route-from-gaming-archives-to-windows-memories/"><u>The Essential Route From Gaming Archives to Windows Memories</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-a-runtime-broker-unpacking-its-importance-for-pcs/"><u>What Is a Runtime Broker? Unpacking Its Importance for PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-dyes-mastery-in-color-manipulation/"><u>[New] In 2024, Dynamic Dyes Mastery in Color Manipulation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-live-feed-capture-via-obs-for-instagram/"><u>[Updated] Live Feed Capture via OBS for Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-to-navigate-the-world-of-free-iphoneipad-edits/"><u>[Updated] Tips to Navigate the World of Free iPhone/iPad Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-simplifying-powerpoint-presentation-captures/"><u>2024 Approved Simplifying PowerPoint Presentation Captures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-smart-8-plus-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Smart 8 Plus.</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-group-policy-in-windows-11/"><u>Fast Track to Group Policy in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disableuninstall-ms-edge-in-win11/"><u>How to Disable/Uninstall MS Edge in Win11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-countering-dxgierror-in-windows-11/"><u>Strategies for Countering DXGI_Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-computer-setup-mass-folder-formation-in-win11plus11/"><u>Transform Your Computer Setup: Mass Folder Formation in Win11+11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triple-pillars-of-ai-communication-integrating-chatgpt-with-wolfram-alpha/"><u>Triple Pillars of AI Communication: Integrating ChatGPT with Wolfram Alpha</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-windows-11-insider-program-and-how-do-you-join-it/"><u>What Is the Windows 11 Insider Program and How Do You Join It?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-protocol-port-assessment-techniques/"><u>Windows Protocol Port Assessment Techniques</u></a></li>
 </ul></div>
 

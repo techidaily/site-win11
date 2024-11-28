@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error X80131500 in Windows Marketplace
-date: 2024-11-12T22:55:01.425Z
-updated: 2024-11-18T02:48:58.588Z
+date: 2024-11-26T04:07:26.083Z
+updated: 2024-11-27T17:35:05.404Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
  Now, you know the possible reasons for the error code. Let’s jump into the solutions to restore the Microsoft Store app to its normal working condition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Terminate and Reopen the Microsoft Store App
@@ -54,20 +51,10 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![Terminate and Reopen Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/terminate-and-reopen-microsoft-store-app.jpg)
 5. Press the **Win + R**, which is one of the many [ways to launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Then type **ms-windows-store:** into the text box and press **Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Microsoft Store app will launch. Check if it displays the error code now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart Your System
@@ -87,6 +74,14 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![Change the Device Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-the-device-region.jpg)
 5. Now close the Settings app and relaunch the Microsoft Store. Check if the error persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Sync System Date and Time
 
  Incorrect system date and time can also trigger the error. To Sync the time and date on your system, repeat the following steps:
@@ -98,10 +93,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 4. Exit the settings app and launch the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair or Reset the Microsoft Store App
@@ -117,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 5. If the error code pops up, switch to the Settings app. Now, click on the **Reset** button.  
 ![Repair or Reset the Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-microsoft-store-app.jpg)
 6. Close the settings app and restart your system. Launch the Microsoft Store app and check if the error code pops up.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Windows
 
@@ -151,10 +136,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 6. Enter the system **PIN** to confirm the login.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check the BITS and Windows Update Service
@@ -185,13 +167,6 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![TWeak internet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tweak-internet-options.jpg)
 5. Now, click on the **Apply** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click on the **OK** button and close the Internet Options window.
 7. **Restart** your PC to apply the changes.
 8. Log in to your PC and launch the Microsoft Store app. Check if the error code appears again or not.
@@ -209,10 +184,11 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![Uninstall and Reinstall Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-and-reinstall-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Run an SFC and DISM Scan
@@ -235,29 +211,6 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  They cannot access the store and see the “**This page could not be loaded. Please try again later.**” message along with the error code listed below. If you face the same issue, don’t worry. We will list out the possible reasons for this Microsoft error code along with potential fixes.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-leveraging-filters-masks-and-effects-to-elevate-conference-calls/"><u>[New] 2024 Approved Leveraging Filters, Masks & Effects to Elevate Conference Calls</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-allocating-budget-for-youtube-video-success/"><u>[New] In 2024, Allocating Budget for YouTube Video Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-cost-free-camera-screen-capture-tools-for-2024/"><u>[New] The Ultimate Guide to Cost-Free Camera Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-4k-visionary-review-blades-spectrum-expansion-for-2024/"><u>[Updated] 4K Visionary Review Blade's Spectrum Expansion for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-streaming-sounds-into-your-social-story-arcs/"><u>[Updated] In 2024, Streaming Sounds Into Your Social Story Arcs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-iphone-photography-mastery-focusing-on-the-micro-and-macro/"><u>2024 Approved IPhone Photography Mastery Focusing on the Micro & Macro</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-prevent-unauthorized-access-on-windows/"><u>7 Ways to Prevent Unauthorized Access on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/curbing-microsoft-edges-heavy-background-tasks/"><u>Curbing Microsoft Edge's Heavy Background Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-pc-windows-11-device-options-revised/"><u>Customize Your PC: Windows 11 Device Options Revised</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nubia-red-magic-9-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nubia Red Magic 9 Pro Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-fixing-audacitys-failed-sound-device-openings-on-win-os/"><u>Methods for Fixing Audacity's Failed Sound Device Openings on Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-best-window-timers-enhancing-pomodoro-productivity/"><u>Nine Best Window Timers Enhancing Pomodoro Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-detection-of-razer-devices-by-synapse-software/"><u>Reinstating Detection of Razer Devices by Synapse Software</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-store-color-glitches/"><u>Resolving Microsoft Store Color Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-guide-swift-solutions-for-adding-a-folder-to-onedrive-successfully/"><u>Troubleshooting Guide: Swift Solutions for Adding a Folder to OneDrive Successfully</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-time-machine-capturing-the-essence-of-twitters-videos-for-2024/"><u>Tweet Time Machine Capturing the Essence of Twitter's Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-original-icon-placement/"><u>Winning Back Original Icon Placement</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -265,3 +218,20 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unravel-the-mystery-of-reversed-videos-on-snapchat/"><u>[New] 2024 Approved Unravel the Mystery of Reversed Videos on Snapchat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-youtube-card-implementation-for-2024/"><u>[New] Best Practices for YouTube Card Implementation for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media-for-2024/"><u>[New] Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevating-your-work-with-dynamic-hdr-techniques/"><u>2024 Approved Elevating Your Work with Dynamic HDR Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-repairing-cannot-find-certain-dll-glitches/"><u>Comprehensive Guide: Repairing 'Cannot Find Certain DLL' Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-samsung-un65nu8000fxza-overpriced-a-comprehensive-tv-showdown/"><u>Is the Samsung UN6^5NU8000FXZA Overpriced? A Comprehensive TV Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-unauthorized-logins-in-windows/"><u>Mastering the Art of Fixing Unauthorized Logins in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/optimized-pc-exploration-utilizing-everythingapp/"><u>Optimized PC Exploration: Utilizing EverythingApp</u></a></li>
+<li><a href="https://win11.techidaily.com/prolonging-windows-11-shutdown-managing-live-operationstasks/"><u>Prolonging Windows 11 Shutdown: Managing Live Operations/Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-try-connecting-your-device-issue-in-win-11/"><u>Resolving 'Try Connecting Your Device' Issue in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-video-limitation-errors-in-the-school-of-witchcraft-and-wizardry-game/"><u>Solving Video Limitation Errors in the School of Witchcraft & Wizardry Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-winning-business-proposals-with-chatgpt/"><u>Writing Winning Business Proposals with ChatGPT</u></a></li>
+</ul></div>
+

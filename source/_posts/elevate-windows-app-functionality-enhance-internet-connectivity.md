@@ -1,7 +1,7 @@
 ---
 title: "Elevate Windows App Functionality: Enhance Internet Connectivity"
-date: 2024-09-11T09:30:07.470Z
-updated: 2024-09-12T09:30:07.470Z
+date: 2024-11-22T23:24:23.669Z
+updated: 2024-11-27T20:25:24.055Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
  Here are a few effective solutions to try if apps on Windows are unable to connect to the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Windows Defender Firewall
@@ -41,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9
 6. Under Private and Public network Settings, select the**Turn off Windows Defender Firewall (not recommended)** option.
 7. Click**OK** to save the changes.  
 ![Turn Off Windows Defender Firewall on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Windows-Defender-Firewall-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
@@ -60,21 +61,7 @@ To run Windows Store Apps troubleshooter:
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset Microsoft Store Cache
 
@@ -88,19 +75,6 @@ To run Windows Store Apps troubleshooter:
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -111,20 +85,6 @@ To run Windows Store Apps troubleshooter:
 4. Click on**Proxy** .
 5. Disable the**Automatically detect settings** option.  
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset Winsock Settings
 
@@ -137,6 +97,10 @@ To run Windows Store Apps troubleshooter:
 `netsh winsock reset`
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Network Settings
 
@@ -154,6 +118,10 @@ To reset network settings on Windows:
 
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  At times, third-party programs and services running on your PC can disrupt Windows processes and lead to such problems. To check for this possibility, you need to boot your PC in a clean boot start.
@@ -161,6 +129,10 @@ To reset network settings on Windows:
  In a clean boot state, Windows only runs with essential drivers and programs. This can help you determine if a third-party app or service is causing trouble.
 
  If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Window Apps Back Online
 
@@ -181,4 +153,18 @@ To reset network settings on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>[Updated] Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-videos-for-free-top-software-without-watermarks-this-year/"><u>Edit Videos for Free Top Software Without Watermarks This Year</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tweeters-every-travel-enthusiast-needs-to-know-exceptional-bargains-helpful-suggestions-and-unforgettable-trips/"><u>Essential Tweeters Every Travel Enthusiast Needs to Know: Exceptional Bargains, Helpful Suggestions, and Unforgettable Trips</u></a></li>
+<li><a href="https://win11.techidaily.com/free-your-pc-from-stubborn-windows-temp-files/"><u>Free Your PC From Stubborn Windows Temp Files</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-discover-the-directory-of-win11-theme/"><u>How to Discover the Directory of Win11 Theme</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-tinker-with-time-display-in-windows-taskbar/"><u>Learn to Tinker with Time Display in Windows Taskbar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-uninterrupted-voice-chats-on-discord-the-all-inclusive-2024-repair-manual/"><u>Mastering Uninterrupted Voice Chats on Discord - The All-Inclusive 2024 Repair Manual</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-toon-up-a-beginners-guide-to-converting-digital-videos-into-cartoons/"><u>New In 2024, Toon Up! A Beginners Guide to Converting Digital Videos Into Cartoons</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-window-11-with-these-6-trusted-android-apps/"><u>Optimize Your Window 11 with These 6 Trusted Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/shadow-play-with-microsofts-miniature-artist/"><u>Shadow Play with Microsoft's Miniature Artist</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-computer-gear-expert-analysis-by-toms-hardware-hub/"><u>Unraveling Computer Gear: Expert Analysis by Tom's Hardware Hub</u></a></li>
+</ul></div>
 

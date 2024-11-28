@@ -1,7 +1,7 @@
 ---
 title: "Eye on Windows Authentication: Spotting Right & Wrong Calls"
-date: 2024-11-11T08:36:14.897Z
-updated: 2024-11-18T00:01:10.892Z
+date: 2024-11-23T03:26:43.191Z
+updated: 2024-11-27T17:02:33.865Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,14 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 ![group policy editor audit logon events properties enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/group-policy-editor-audit-logon-events-properties-enable.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View Failed and Successful Login Attempts in Event Viewer
@@ -70,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Decipher the Logon Entries in Event Viewer
@@ -88,16 +86,13 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
 
 ![event viewer security logon event failed attemptjpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, for failed login attempts, review**Event ID 4625** . In the**Properties** dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning[how to limit the number of failed login attempts to protect your Windows PC](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) .
 
@@ -115,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 | Logon Type 10  | RemoteInteractive – Generated when a computer is accessed via a remote access tool such as Remote Desktop Connection.                             |
 | Logon Type 11  | CachedInteractive – When the user logged on to the computer via console using the cached credentials when the domain controller is not available. |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View the Last Logon History Using Command Prompt
 
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
@@ -136,6 +124,10 @@ To view the login history of a specific user using Command Prompt:
 `net user administrator | findstr /B /C:"Last logon"`
 4. In the above command, replace "administrator" with the username to view their login history.
 5. The output will show the last login time and date for the specified user.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Viewing Failed and Successful Login Attempts in Windows
 
@@ -158,14 +150,18 @@ To view the login history of a specific user using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-solving-srt-export-issues-in-adobe-premiere-pro/"><u>[Updated] In 2024, Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/enhanced-workflows-via-custom-task-integration-into-explorer-menus/"><u>Enhanced Workflows via Custom Task Integration Into Explorer Menus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-user-exchanges-influence-ai-upgrades-in-chatgpt/"><u>How User Exchanges Influence AI Upgrades in ChatGPT?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-apex-elite-comprehensive-4k-touch-desktops/"><u>In 2024, Apex Elite Comprehensive 4K Touch Desktops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-8-filters-for-webcam-sharpening/"><u>In 2024, Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-windows-11-calendar-into-daily-life/"><u>Integrating Windows 11 Calendar Into Daily Life</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-surface-pro-face-off-deciding-on-the-better-tablet-experience/"><u>IPad Pro Vs. Surface Pro Face-Off: Deciding on the Better Tablet Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-tips-counteracting-camera-app-fails/"><u>Winning Tips: Counteracting Camera App Fails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>[New] Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors-for-2024/"><u>[Updated] Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>[Updated] In 2024, Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-tailor-made-templates-for-concluding-audio/"><u>2024 Approved Free, Tailor-Made Templates for Concluding Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-methods-to-enhance-laptop-response-time-post-extended-setup/"><u>Effective Methods to Enhance Laptop Response Time Post-Extended Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-microsoft-surface-duo-a-pricey-tech-with-persistent-bugs-and-clumsiness/"><u>Evaluating Microsoft Surface Duo: A Pricey Tech with Persistent Bugs and Clumsiness</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-video-driver-crashed-and-was-reset-error-in-windows-1110/"><u>How to Fix the “Video Driver Crashed and Was Reset” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-your-operational-window-11-state/"><u>Identifying Your Operational Window 11 State</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-color-from-chrome-on-pcs/"><u>Recovering Color From Chrome on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-power-management-hitch-with-third-party-software/"><u>Steps to Overcome Windows Power Management Hitch with Third-Party Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses/"><u>The Dichotomy of YouTube Rights and CC Licenses</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 

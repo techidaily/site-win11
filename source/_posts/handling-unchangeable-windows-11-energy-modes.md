@@ -1,7 +1,7 @@
 ---
 title: Handling Unchangeable Windows 11 Energy Modes
-date: 2024-11-14T09:26:21.993Z
-updated: 2024-11-18T03:08:56.830Z
+date: 2024-11-23T17:19:52.273Z
+updated: 2024-11-27T19:45:41.265Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Can't You Change the Power Mode in Windows 11?
 
@@ -68,21 +72,15 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -100,10 +98,7 @@ powercfg –restoredefaultscheme
 5. Once the command is executed, check if you can change the power mode successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -116,16 +111,14 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 3. Locate the**Select an active power plan** option in the right pane and double-click on it.  
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -134,13 +127,6 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -163,18 +149,17 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-must-have-settings-for-online-broadcasting-for-2024/"><u>[Updated] Must-Have Settings for Online Broadcasting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-snicker-studio-cybernetic-cackles/"><u>[Updated] Snicker Studio Cybernetic Cackles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-youtube-video-grabber-apps-best-in-class-compatibility-for-2024/"><u>[Updated] Top 10 YouTube Video Grabber Apps, Best-in-Class Compatibility for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tips-for-converting-heic-images-to-jpeg-in-windows-11/"><u>Advanced Tips for Converting HEIC Images to JPEG in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722985342557-beating-wrath-of-the-righteous-controller-glitches-expert-tips-and-tricks-to-get-back-in-action-on-pathfinder/"><u>Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder!</u></a></li>
-<li><a href="https://win11.techidaily.com/bluetooth-woes-try-these-9-fixes-for-a-seamless-link-in-windows-11/"><u>Bluetooth Woes? Try These 9 Fixes for a Seamless Link in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-barriers-to-accessing-steam-files/"><u>Breaking Down Barriers to Accessing Steam Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-comparisons-toms-comprehensive-guide-to-computer-hardware/"><u>Expert Reviews & Comparisons: Tom's Comprehensive Guide to Computer Hardware</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-load-drivers-without-sie-compliance-on-pcs/"><u>How to Load Drivers Without SIE Compliance on PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-conquer-the-vr-world-your-first-vr-adventure/"><u>In 2024, Conquer the VR World Your First VR Adventure</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-navigating-copyright-regulations-before-you-upload-on-tiktok/"><u>In 2024, Navigating Copyright Regulations Before You Upload on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/1719319756779-revive-your-frozen-shift-key-on-pc/"><u>Revive Your Frozen Shift Key on PC.</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/tecnicas-simples-para-sharing-de-arquivos-entre-muitos-pcs-por-rede-local/"><u>Técnicas Simples Para Sharing De Arquivos Entre Muitos PCs Por Rede Local</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-10-premier-vimeo-extraction-programs-reviewed-for-2024/"><u>[New] 10 Premier Vimeo Extraction Programs Reviewed for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-9-online-mic-recorders/"><u>[Updated] In 2024, Best 9 Online Mic Recorders</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-attracting-more-youtube-viewers/"><u>2024 Approved Mastering the Art of Attracting More YouTube Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehending-xbox-protective-sheets/"><u>Comprehending Xbox Protective Sheets</u></a></li>
+<li><a href="https://win-news.techidaily.com/ejecucion-de-copias-de-seguridad-periodicas-sin-esfuerzo-como-configurar-el-backup-automatico-para-su-sistema-nas-en-versiones-recientes-de-windows/"><u>Ejecución De Copias De Seguridad Periódicas Sin Esfuerzo: Cómo Configurar El Backup Automático Para Su Sistema NAS en Versiones Recientes De Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-gaming-experience-speedy-steam-content-on-windows/"><u>Enhance Gaming Experience: Speedy Steam Content on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-extra-screen-problems-in-windows-11/"><u>Fix Extra Screen Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-internet-browsing-to-desktop-utility/"><u>From Internet Browsing to Desktop Utility</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>In 2024, Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-printer-management-system/"><u>Navigating Through Windows' Printer Management System</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-top-mts-video-editing-tools/"><u>New 2024 Approved Discover the Top MTS Video Editing Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-closed-off-email-in-windows-11/"><u>Restoring Closed-Off Email in Windows 11</u></a></li>
 </ul></div>
 

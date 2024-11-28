@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Power of Windows: Decode Your First QR Code"
-date: 2024-11-12T21:36:46.268Z
-updated: 2024-11-18T10:00:44.661Z
+date: 2024-11-25T22:31:26.224Z
+updated: 2024-11-27T20:16:00.806Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Scan QR Codes Using the Windows Camera App
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 4. Place your QR code in front of your computer's camera and the app will scan it automatically.  
 ![Windows Camera Barcode Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-camera-barcode-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's worth noting that the QR code option in the Camera app may not be visible if you aren't running the most recent version of Windows. In this case, you must enable the experimental features in the Windows Camera app to access the QR code option. Here's how:
 
 1. Open the **Camera** app on your PC using Windows Search. Check out [how to use Windows Search](https://www.makeuseof.com/windows-search-use-guide/) if you need help.
@@ -55,13 +56,14 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 ![Enable Experimental Features in Windows Camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-experimental-features-in-windows-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Camera app after completing the above steps, and you should see the QR code scanner option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Scan QR Codes From an Image on Windows
 
@@ -75,17 +77,7 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 ![Scan QR Code From an Image on Windows PC Using an Online Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/scan-qr-code-from-an-image-on-windows-pc-using-an-online-service-copy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Scan QR Codes Using the Codex App on Windows
@@ -116,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  You're probably used to scanning QR codes with your smartphone to access email addresses, phone numbers, and website links. But how do you scan them on a Windows PC without your phone? Let's see.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlock-efficient-remote-streaming-via-vlc-media-player/"><u>[Updated] 2024 Approved Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-initial-trial-ideal-accessories-to-boost-your-gopro-footage-for-2024/"><u>[Updated] Initial Trial Ideal Accessories to Boost Your GoPro Footage for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/amazonfit-gts-assessment-style-and-exercise-unite-with-varied-outcomes/"><u>AmazonFit GTS Assessment: Style and Exercise Unite with Varied Outcomes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-delay-cutting-edge-solutions-to-optimize-your-dota-2-play/"><u>Beat the Delay: Cutting-Edge Solutions to Optimize Your Dota 2 Play</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-person-identification-errors-in-apples-photo-library-a-step-by-step-guide/"><u>Correcting Person Identification Errors in Apple's Photo Library: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-variances-a-comparison-between-microsoft-and-standard-windows-accounts/"><u>Exploring Variances: A Comparison Between Microsoft and Standard Windows Accounts</u></a></li>
-<li><a href="https://win11.techidaily.com/flattening-windows-11-corner-style/"><u>Flattening Windows 11 Corner Style</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-datetime-integrity/"><u>Guidelines for Upholding Windows Date/Time Integrity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-insights-on-fugeteks-high-end-stick-for-selfies-the-reliable-and-solid-ft-568-reviewed/"><u>In-Depth Insights on Fugetek's High-End Stick for Selfies - The Reliable and Solid FT-568 Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/preserving-customization-transferring-powertoys-to-a-new-machine/"><u>Preserving Customization: Transferring PowerToys to a New Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-google-maps-installation-on-pc/"><u>Quick Guide: Google Maps Installation on PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>Sharing YouTube Content on Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-analysis-chatgpts-six-game-changing-techniques/"><u>The Future of Analysis: ChatGPT’s Six Game-Changing Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-tastes-with-ai-assisted-healthy-recipes/"><u>Transformative Tastes with AI-Assisted Healthy Recipes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +115,19 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-crafting-sections-in-vimeo-videos/"><u>[New] 2024 Approved Crafting Sections in Vimeo Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-versamix-suite-mac-and-pc-for-2024/"><u>[New] VersaMix Suite - Mac & PC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-budgets-with-effective-youtube-marketing/"><u>[Updated] In 2024, Boosting Budgets with Effective YouTube Marketing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-director-of-visuals-and-music-for-2024/"><u>Expert Director of Visuals and Music for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-and-solving-roblox-error-403-for-windows-devices/"><u>Exploring & Solving Roblox Error 403 for Windows Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>In 2024, Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-computer-controls-internationally-using-powertoys-capabilities/"><u>Master Your Computer Controls Internationally Using PowerToys' Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-your-intel-unison-errors-with-these-tips-for-win11/"><u>Overcome Your Intel Unison Errors with These Tips for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-enabling-imessage-for-non-ios-devices/"><u>The Insider’s Guide: Enabling iMessage for Non-iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-internet-router-control-panel/"><u>Troubleshooting No Internet Router Control Panel</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-the-power-of-emojis-for-yt-feedback-for-2024/"><u>Unlock the Power of Emojis for YT Feedback for 2024</u></a></li>
+</ul></div>
+

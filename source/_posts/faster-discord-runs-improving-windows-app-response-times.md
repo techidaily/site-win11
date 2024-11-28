@@ -1,7 +1,7 @@
 ---
 title: "Faster Discord Runs: Improving Windows App Response Times"
-date: 2024-11-11T18:31:59.944Z
-updated: 2024-11-17T20:25:18.850Z
+date: 2024-11-25T16:58:35.500Z
+updated: 2024-11-27T17:17:08.150Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 If the internet seems fine, move to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Close Background Apps and Processes
@@ -51,6 +48,10 @@ If the internet seems fine, move to the next solution.
 1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager.
 2. In the**Processes** tab, select unwanted apps and processes and click the**End task** button at the top.  
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-programs-using-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Switch to High-Performance Mode
 
@@ -64,19 +65,14 @@ To enable the high performance mode on Windows, use these steps:
 4. Select the**High performance** option.  
 ![Enable High Performance Mode on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-high-performance-mode-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Try using the Discord app again and see if it runs fine.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Reduced Motion on Discord
@@ -91,6 +87,10 @@ To enable Reduced Motion in Discord:
 4. Turn on the toggle next to**Enable Reduced Motion** .  
 ![Enable Reduced Motion in Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-reduced-motion-in-discord-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Enable or Disable Hardware Acceleration on Discord
 
  The hardware acceleration feature in Discord allows the app to use dedicated hardware components on your PC for graphics-intensive tasks. This feature, however, can sometimes fail to work as expected and cause Discord to freeze or crash on Windows.
@@ -104,10 +104,7 @@ To enable Reduced Motion in Discord:
 ![Hardware Acceleration in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-acceleration-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset the Discord Voice Settings
@@ -132,14 +129,11 @@ To enable Reduced Motion in Discord:
 
 ![Check for Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-windows-update.jpg)
 
- Download and install any pending system updates and see if that fixes the issue for you.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Download and install any pending system updates and see if that fixes the issue for you.
 
 ## 10\. Update or Reinstall Discord
 
@@ -161,21 +155,7 @@ To update Discord on Windows:
 6. Reinstall the[Discord app from Microsoft Store](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN) .  
 ![Uninstall Discord on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-discord-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully, this will resolve the issue, and Discord will run smoothly on your Windows computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Your Discord App Lag on Windows
 
@@ -196,17 +176,22 @@ To update Discord on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/fixed-how-to-recover-from-losing-connection-with-destiny-2-servers/"><u>[FIXED] How to Recover From Losing Connection with Destiny 2 Servers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-time-saving-strategies-for-efficient-content-engagement-on-tiktok-for-2024/"><u>[New] Time-Saving Strategies for Efficient Content Engagement on TikTok for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-apex-alternatives-social-networks-beyond-twitter-for-2024/"><u>[Updated] Apex Alternatives Social Networks Beyond Twitter for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-essential-tips-for-game-recording-on-windows-11/"><u>2024 Approved Essential Tips for Game-Recording on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/discuss-the-limits-of-cultural-relativism-when-might-it-be-challenging-or-problematic-to-apply/"><u>Discuss the Limits of Cultural Relativism: When Might It Be Challenging or Problematic to Apply?</u></a></li>
-<li><a href="https://win11.techidaily.com/executing-chatgpt-on-windows-systems/"><u>Executing ChatGPT on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-inaccessible-remove-functionality-on-windows-11-os/"><u>Fixing Inaccessible Remove Functionality on Windows 11 OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722889994452-inside-scoop-on-the-next-apple-audio-wearable-price-release-schedule-and-leaked-specs/"><u>Inside Scoop on the Next Apple Audio Wearable - Price, Release Schedule, and Leaked Specs</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/leading-free-seagate-nas-system-backup-solutions-compatible-with-windows-1187/"><u>Leading Free Seagate NAS System Backup Solutions Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-win11-terminal-back-to-basics/"><u>Reverting Win11 Terminal Back to Basics</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-fubotv-content-via-fire-stick/"><u>Step-by-Step Tutorial: Accessing FuboTV Content via Fire Stick</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210645078-9781250287021-tarot-a-to-z/"><u>Tarot A to Z | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-wondershare-filmora-and-other-best-video-editing-software-for-windows-10/"><u>[New] In 2024, Wondershare Filmora and Other Best Video Editing Software for Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-meme-matrix-perfect-pratfalls-for-parties/"><u>[New] Meme Matrix Perfect Pratfalls for Parties</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-foundation-of-motion-visualization/"><u>[Updated] Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrow-your-focus-on-elite-hdr-camera-systems/"><u>2024 Approved Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-k70e-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi K70E System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-winupdate-failure-x8019-error/"><u>Correcting WinUpdate Failure: X8019 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-address-unresponsive-spotify-windows/"><u>Essential Steps to Address Unresponsive Spotify Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exclude-non-critical-windows-suggestions-and-tips/"><u>Exclude Non-Critical Windows Suggestions and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-windows-11-a-compreenas-list-of-must-have-modifications/"><u>Fine-Tuning Windows 11: A Compreenas List of Must-Have Modifications</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-character-map-in-windows-11/"><u>How to Open the Character Map in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-gopro-video-editors-for-pros/"><u>In 2024, Essential GoPro Video Editors for Pros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-blog-revenue-effective-strategies-with-buyselladscom/"><u>Maximizing Your Blog Revenue: Effective Strategies with buySellAds.com</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-erratic-touchpad-movements-in-windows/"><u>Mending Erratic Touchpad Movements in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-cant-access-mail-error-in-windows-11-email-service/"><u>Rectifying Can't Access Mail Error in Windows 11 Email Service</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877292-9781632657640-roswell/"><u>Roswell | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-disable-windows-11-updates-a-beginners-guide/"><u>Simple Steps to Disable Windows 11 Updates: A Beginner's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-review-the-ultimate-guide-to-garmin-forerunner-745-for-multisports-enthusiasts/"><u>Top Review: The Ultimate Guide to Garmin Forerunner 745 for Multisports Enthusiasts</u></a></li>
 </ul></div>
 

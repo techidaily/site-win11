@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Your Windows Experience: Key Filter Adjustments"
-date: 2024-11-13T23:47:25.569Z
-updated: 2024-11-18T03:56:15.155Z
+date: 2024-11-22T01:06:56.592Z
+updated: 2024-11-27T23:11:47.396Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable or Disable Filter Keys With a Keyboard Shortcut
 
  The quickest way to enable or disable Filter Keys on Windows is with your keyboard. So, let’s start with that.
@@ -35,16 +39,13 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 2. Click**Yes** to enable the Filter Keys.  
 ![Turn Filter Keys On or Off via the Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-keyboard-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the other hand, if you want to disable Filter Keys, click on **Disable this keyboard shortcut in Ease of Access keyboard settings** . Then, disable the toggle next to Filter keys.
 
  Like using keyboard shortcuts on Windows? Why not check our[ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
 
@@ -57,10 +58,11 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
@@ -79,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 8. Click**Apply** followed by**OK** to save the changes.  
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
  Both Windows 10 and 11 offer the convenience of managing accessibility settings from the sign-in screen. If you are looking to enable or disable Filter Keys from the sign-in screen, use these steps:
@@ -94,14 +89,11 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 2. Use the toggle next to**Filter keys** to enable or disable it.  
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
- Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
-
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
@@ -124,18 +116,18 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-everything-you-need-to-know-about-io-screen-recorder/"><u>[New] In 2024, Everything You Need to Know About IO Screen Recorder</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-frame-rate-impact-on-video-quality-30vs60-in-detail-for-2024/"><u>[Updated] Frame Rate Impact on Video Quality 30Vs.60 In Detail for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-youtube-exposure-with-ongoing-creative-commons-compliance/"><u>[Updated] Maximizing YouTube Exposure with Ongoing Creative Commons Compliance</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-edge-2023-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Edge 2023 FRP Bypass Instantly</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/comment-effectuer-le-sauvegarde-et-la-reconversion-de-ses-notes-a-laide-de-microsoft-onenote-sur-windows-10/"><u>Comment Effectuer Le Sauvegarde Et La Reconversion De Ses Notes À L'aide De Microsoft OneNote Sur Windows 10?</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-fix-restoring-functionality-to-windows-charmap/"><u>Comprehensive Fix: Restoring Functionality to Windows CharMap</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exhaustive-evaluation-the-new-360-camera-for-2024/"><u>Exhaustive Evaluation The New 360 Camera for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/methods-to-convert-instagram-video-to-mp3/"><u>Methods to Convert Instagram Video to Mp3</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-ethernet-connection-fixes/"><u>Navigating Through Ethernet Connection Fixes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/resolved-how-to-fix-a-non-playable-dvd-on-windows-10-and-other-operating-systems/"><u>Resolved! How to Fix a Non-Playable DVD on Windows 10 & Other Operating Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/uncomplicated-transformation-of-heic-files-into-jpeg/"><u>Uncomplicated Transformation of HEIC Files Into JPEG</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-joy-essential-list-of-free-media-players-for-windows/"><u>Unleash Joy: Essential List of Free Media Players for Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-elevating-your-youtube-presence-with-these-20-hacks/"><u>[New] The Ultimate Guide to Elevating Your YouTube Presence with These 20 Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>2024 Approved 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-addressing-windows-pink-display-failure/"><u>Effective Techniques for Addressing WINDOWS Pink Display Failure</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-g310-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia G310 FRP?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>In 2024, Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-advanced-text-operations-in-snipping-tool-for-win-11/"><u>Mastering Advanced Text Operations in Snipping Tool for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-curtail-involuntary-terminal-showings/"><u>Methods to Curtail Involuntary Terminal Showings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/proven-3-step-framework-for-creating-persuasive-facebook-ad-content/"><u>Proven 3-Step Framework for Creating Persuasive Facebook Ad Content</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-your-display-upgrade-to-fancywm-style/"><u>Redefine Your Display: Upgrade to FancyWM Style</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-silent-system-quick-troubleshooting-guide-for-speakers/"><u>Revive Silent System - Quick Troubleshooting Guide for Speakers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stand-out-on-social-media-with-507-killer-instagram-captions-of-2024/"><u>Stand Out on Social Media with 507 Killer Instagram Captions of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-savings-on-upcoming-windows-11-keys/"><u>Unlocking Savings on Upcoming Windows 11 Keys</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 6 Plus?</u></a></li>
 </ul></div>
 

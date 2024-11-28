@@ -1,7 +1,7 @@
 ---
 title: Simplifying Context Selection on Windows 11 List
-date: 2024-11-13T04:32:20.219Z
-updated: 2024-11-18T04:58:55.029Z
+date: 2024-11-26T22:35:34.099Z
+updated: 2024-11-28T04:01:12.518Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![Launch folder windows in a separate process box in the Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/launch-folder-windows-in-a-separate-process-box.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
@@ -52,6 +60,10 @@ Next, restart your computer for the changes to take effect.
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
  Now, you will have to restart Windows Explorer to see the changes. To do that, open the**Task Manager** (see how to[launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on**Windows Explorer,** and choose**Restart.**
@@ -61,13 +73,6 @@ Next, restart your computer for the changes to take effect.
  In the future, if you want to add the "show more options" entry to the context menu, then open Command Prompt with admin rights and run the following command:
 
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
@@ -85,17 +90,11 @@ Next, restart your computer for the changes to take effect.
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
@@ -111,13 +110,6 @@ Next, restart your computer for the changes to take effect.
 4. Check the**Enable classic full context menus** box.  
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
 
@@ -138,16 +130,21 @@ Next, restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-highest-watched-online-clips-list/"><u>[New] Highest-Watched Online Clips List</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-widows-code-to-unfreeze-handbrake/"><u>Decode Widows' Code to Unfreeze HandBrake</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-atheros-driver-download-and-installation-process-on-windows-machines/"><u>Easy Atheros Driver Download & Installation Process on Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/from-basic-to-winning-converting-batch-to-executable/"><u>From Basic to Winning: Converting Batch to Executable</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone/"><u>In 2024, Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-satire-and-smiles-kapwings-meme-builder/"><u>In 2024, Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-how-to-restore-obs-screen-recording-functionality/"><u>Solution Guide: How to Restore OBS Screen Recording Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-assembling-a-taskbar-on-windows-11-slate/"><u>The Ultimate Guide to Assembling a Taskbar on Windows 11 Slate</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
-<li><a href="https://win11.techidaily.com/window-terminal-design-your-own-palette/"><u>Window Terminal: Design Your Own Palette</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proiphone-photo-techniques-for-beginners/"><u>[Updated] Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-glyphs-in-your-digital-keyboard-hub/"><u>Explore Glyphs in Your Digital Keyboard Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enjoy-dvd-movie-playback-on-your-nintendo-wii-a-guide-to-the-best-compatible-discs/"><u>How to Enjoy DVD Movie Playback on Your Nintendo Wii: A Guide to the Best Compatible Discs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-fix-windows-11-error-code-0xc00d6d60-guide/"><u>How to Fix Windows 11 Error Code 0xC00D6D60 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-update-error-0xca00a009/"><u>How to Fix Windows Update Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-and-resolve-video-driver-resets/"><u>How to Stop and Resolve Video Driver Resets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-customize-your-view-with-this-diy-guide-for-google-vr-gear/"><u>In 2024, Customize Your View with This DIY Guide for Google VR Gear</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-play-40c-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Play 40C</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-stalled-media-software-on-windows-11/"><u>Repairing Stalled Media Software on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-installing-java-in-windows-environment/"><u>Solutions for Non-Installing Java in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-solutions-for-saving-scenarios-top-6-tips-in-windows/"><u>Speedy Solutions for Saving Scenarios: Top 6 Tips in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-securing-the-latest-intel-iris-plus-graphics-driver-for-windows-11/"><u>Step-by-Step Tutorial on Securing the Latest Intel Iris Plus Graphics Driver for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-invisible-wi-fi-in-windows-11/"><u>Strategies to Tackle Invisible Wi-Fi in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-brightness-and-saturation-in-ps-basics-for-2024/"><u>Unlocking Brightness and Saturation in PS Basics for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/verizons-latest-offer-myhome-internet-plans-featuring-exclusive-streaming-savings/"><u>Verizon's Latest Offer: MyHome Internet Plans Featuring Exclusive Streaming Savings!</u></a></li>
+<li><a href="https://win11.techidaily.com/what-do-build-and-version-numbers-reveal-windows/"><u>What Do Build and Version Numbers Reveal? (Windows)</u></a></li>
 </ul></div>
 

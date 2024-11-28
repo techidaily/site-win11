@@ -1,7 +1,7 @@
 ---
 title: Fixing Faulty Lock Screen Timeout in Windows 10/11
-date: 2024-11-13T02:34:45.199Z
-updated: 2024-11-18T06:36:19.200Z
+date: 2024-11-27T03:43:15.839Z
+updated: 2024-11-28T03:18:37.813Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
  After setting your preferred timeout, observe if Windows locks your PC after the specified period.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Configure Screen Saver Settings
 
  Incorrectly configured screen saver settings on Windows can also be the cause of this issue. Here's how you can configure Windows to display the lock screen after you resume from a screensaver.
@@ -49,19 +53,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ![Screen Saver Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screen-saver-settings-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should lock your system once the screen saver activates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Screen Saver Settings in the Local Group Policy
@@ -82,14 +80,11 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 8. Similarly, enable the **Password protect the screen saver** policy as well.  
 ![Password Protect Screen Saver Policy in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/password-protect-screen-saver-policy-in-group-policy-editor.jpg)
 
- Restart your PC after applying the above changes and check if the issue is still there.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your PC after applying the above changes and check if the issue is still there.
 
 ## 4\. Other Generic Fixes to Try
 
@@ -102,16 +97,7 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 * **Perform a System Restore:** If the issue has only started occurring recently, you can [perform a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to undo recent changes and fix the problem.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Lock Screen Timeout Working Again on Windows
@@ -120,27 +106,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
  To help out, we have listed some useful tips that should get the lock screen timeout to work on your Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-clearing-dark-frames-on-video-capture-software/"><u>[New] Clearing Dark Frames on Video Capture Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-spotlight-on-highly-praised-instagram-after-effects-plugins-for-2024/"><u>[New] Spotlight on Highly Praised Instagram After Effects Plugins for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expertise-in-speech-conversion-mastering-googles-method/"><u>[Updated] Expertise in Speech Conversion Mastering Google’s Method</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-origami-like-folded-havens-in-mc/"><u>[Updated] Origami-Like Folded Havens in MC</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-essential-guide-to-signing-up-for-twitter/"><u>[Updated] The Essential Guide to Signing Up for Twitter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/average-spend-on-successful-youtube-videos/"><u>Average Spend on Successful YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/averting-steam-library-write-errors-on-modern-windows-pcs/"><u>Averting Steam Library Write Errors on Modern Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-multi-selection-activating-windows-11s-checkboxes/"><u>Efficient Multi-Selection: Activating Windows 11'S Checkboxes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-excellent-canon-time-lapse-visuals/"><u>In 2024, Crafting Excellent Canon Time-Lapse Visuals</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-instructions-for-setting-up-dolby-atmos-in-windows-1111/"><u>In-Depth Instructions for Setting Up Dolby Atmos in Windows 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/master-window-11s-icon-arrangement/"><u>Master Window 11'S Icon Arrangement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mind-your-pennies-a-guide-before-tv-recorder-investment/"><u>Mind Your Pennies: A Guide Before TV Recorder Investment</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-fatal-js-error-in-discord-on-modern-windows-11/"><u>Navigating Past Fatal JS Error in Discord on Modern Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-dormant-slack-alerts-on-modern-windows-pcs/"><u>Reinstating Dormant Slack Alerts on Modern Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-deleted-characters-a-guide-for-windows-users/"><u>Restoring Deleted Characters: A Guide for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-address-dying-function-keys-adjusting-screen-brightness/"><u>Solutions to Address Dying Function Keys Adjusting Screen Brightness</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stream-and-enjoy-high-definition-cinema-at-home-using-moviebox-compatible-with-both-windows-10-and-11/"><u>Stream and Enjoy High-Definition Cinema at Home Using MovieBox – Compatible With Both Windows 10 & 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -148,3 +113,20 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-facebook-live-capturers/"><u>[New] 2024 Approved The Ultimate Guide to Selecting Facebook Live Capturers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-techniques-to-amplify-engagement-on-instagram-content/"><u>[Updated] Techniques to Amplify Engagement on Instagram Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-everlasting-screen-saving-utility/"><u>2024 Approved Everlasting Screen Saving Utility</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-online-face-generators-for-2024/"><u>Best Free Online Face Generators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypt-hard-drive-type-with-windows-help/"><u>Decrypt Hard Drive Type with Windows Help</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-return-windows-backup-to-initial-settings/"><u>How To Return Windows Backup to Initial Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-workflows-await-with-these-top-6-to-do-list-titans-on-windows-11/"><u>Prolific Workflows Await With These Top 6 To-Do List Titans on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-laptop-go-3-review-improved-performance-vs-stagnant-features/"><u>Surface Laptop Go 3 Review: Improved Performance Vs. Stagnant Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-up-the-volume-troubleshooting-pc-keys-woes/"><u>Turn Up the Volume: Troubleshooting PC Keys Woes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/visual-ventures-free-themes-to-elevate-your-channel/"><u>Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
+</ul></div>
+

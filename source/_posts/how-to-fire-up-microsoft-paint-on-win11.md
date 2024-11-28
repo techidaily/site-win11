@@ -1,7 +1,7 @@
 ---
 title: How to Fire Up Microsoft Paint on Win11
-date: 2024-11-15T18:51:43.389Z
-updated: 2024-11-17T17:29:05.944Z
+date: 2024-11-23T00:28:37.830Z
+updated: 2024-11-27T16:05:02.433Z
 tags:
   - windows10
   - windows11
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 ![Open Paint Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-windows-search.jpg)
 3. Clicking on the Paint icon will launch the program immediately.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. How to Open Microsoft Paint Using a Run Command
 
  The Run dialog box is another great way to quickly launch applications in Windows 11\. It allows you to access almost any program or feature without having to navigate through different menu options. If you want to open Microsoft Paint in Windows 11, follow these steps:
@@ -55,10 +42,11 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 3. This will launch Microsoft Paint within seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Open Microsoft Paint From Start Menu
@@ -80,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 2. In the File Explorer address bar, type**mspaint** , and press**Enter** .
 
 Now that Microsoft Paint is open, you can start working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open Microsoft Paint Through Command Prompt
 
@@ -106,13 +98,6 @@ To open the Microsoft Paint application, follow the steps below:
 
 The Microsoft Paint application will appear on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. How to Open Microsoft Paint Through Task Manager
 
  The Task Manager provides you with detailed information about currently running applications, processes, and background services. It also offers options for managing and controlling them.
@@ -125,6 +110,10 @@ The Microsoft Paint application will appear on your screen.
 4. Type**mspaint** into the search field.  
 ![Open Paint Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-task-manager.jpg)
 5. Click**OK** to launch the application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Microsoft Paint application should now be open and ready to use!
 
@@ -140,10 +129,7 @@ Here's how you can use this tool to open the Paint application:
 3. You can then give your shortcut a name (like Paint).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. To save the changes, click**Finish** .
@@ -168,20 +154,10 @@ Create a desktop shortcut as explained above.
 ![Create Shortcut key of Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-shortcut-key-of-paint.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Press**Ctrl + Alt** and then type the letter or number you want as a shortcut. For example, if you select**8** , then you can press**Ctrl + Alt + 8** on your keyboard to open Microsoft Paint.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Access to Microsoft Paint Easily
 
@@ -202,18 +178,17 @@ Create a desktop shortcut as explained above.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-compatible-console-recreation-software-ps3-for-pcs-for-2024/"><u>[New] Best Compatible Console Recreation Software (PS3) for PCs for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-nocturnal-narrative-videos-analysis/"><u>[New] Nocturnal Narrative Videos Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-simple-nature-of-storytelling/"><u>[New] Unveiling the Simple Nature of Storytelling</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[Updated] Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-poco-f5-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco F5 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-hyper-v-on-windows-11-easily/"><u>Enabling Hyper-V on Windows 11 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/is-your-hardware-upgraded-for-win11-find-out/"><u>Is Your Hardware Upgraded For Win11? Find Out!</u></a></li>
-<li><a href="https://win11.techidaily.com/refreshing-classic-directx-games-with-dxvk-upgrades/"><u>Refreshing Classic DirectX Games with DXVK Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-microsoft-store-error-0x80073cf3/"><u>Steps to Resolve Microsoft Store Error 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-excessive-ntoskrnlexe-process/"><u>Tackling Excessive Ntoskrnl.exe Process</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-winupdate-error-x8019/"><u>Troubleshooting WinUpdate Error X8019</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/videokassetten-von-vhs-zu-dvd-auf-ihrem-computer-konvertieren-schritt-fur-schritt-anleitung/"><u>Videokassetten Von VHS Zu DVD Auf Ihrem Computer Konvertieren - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://techidaily.com/whats-new-in-windows-11-creators-update-insider-preview-build-1503/"><u>What's New in Windows 11 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-beyond-marketing-honest-review-of-recordcast/"><u>[Updated] In 2024, Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-decibel-documentation-system-and-speech/"><u>[Updated] In 2024, Decibel Documentation System and Speech</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-high-contrast-effectiveness-in-windows/"><u>Eliminate High Contrast Effectiveness in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-itel-p40plus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Itel P40+ FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a58-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A58 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-drones-best-prices-now/"><u>Prime Drones, Best Prices Now</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-yourself-to-a-windows-shared-space/"><u>Reconnect Yourself to a Windows Shared Space</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-studio-review-almost-flawless-for-the-creative-mind/"><u>Surface Studio Review: Almost Flawless for the Creative Mind</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-correcting-overestimated-cpu-metrics-in-windows-task-manager/"><u>Tips for Correcting Overestimated CPU Metrics in Windows Task Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/win-fix-guide-reclaiming-razer-synapse-integrity/"><u>Win Fix Guide: Reclaiming Razer Synapse Integrity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-apples-second-generation-watch-se-keeps-80-price-cut-beyond-prime-day-sale-period/"><u>ZDNet Reveals: Apple's Second Generation Watch SE Keeps $80 Price Cut Beyond Prime Day Sale Period</u></a></li>
 </ul></div>
 

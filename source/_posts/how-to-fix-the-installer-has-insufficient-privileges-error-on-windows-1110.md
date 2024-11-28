@@ -1,7 +1,7 @@
 ---
 title: How to Fix “The Installer Has Insufficient Privileges” Error on Windows 11/10
-date: 2024-11-17T01:14:02.315Z
-updated: 2024-11-17T17:42:04.653Z
+date: 2024-11-24T17:22:48.427Z
+updated: 2024-11-28T00:55:13.339Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Unblock the Setup File
 
  In addition, check if the installer file is blocked before running it. To do that, right-click the program’s setup file and select **Properties**.
@@ -59,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Installing it in a Different Folder
@@ -78,14 +68,11 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![windows installer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-installer-option.jpg)
 3. If Windows Installer is running, select its **Restart** context menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can double-click the **Windows Installer** service to view its properties window and restart it from there. Click **Start** if the service is already stopped, or, select **Stop > Start** to restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable UAC Before Installing
 
@@ -94,16 +81,7 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
@@ -117,8 +95,17 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 3. Double-click **User Account Control: Admin Approval Mode** to bring up that policy setting window.  
 ![The UAP security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-options.jpg)
 4. Select **Disabled** to turn off that policy setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Apply** \> **OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
 
@@ -133,20 +120,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
  To find an option for disabling your antivirus app’s shield, right-click its system tray icon; select a setting to turn off your antivirus for a while on the right-click context menu that opens. Then have a go at installing affected software packages again with the antivirus shield disabled.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
 
@@ -164,6 +137,14 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Your Windows 11/10 Software Installed
 
  The possible fixes covered here will probably resolve the “installer has insufficient privileges” Windows error in most cases but aren’t necessarily guaranteed.
@@ -172,29 +153,6 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
  The result of this installation error is the same as most others. Users can’t install the software packages they need to when it happens. This is how you can fix the “installer has insufficient privileges” error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-frame-by-frame-focus-high-quality-video-devices/"><u>[Updated] 2024 Approved Frame by Frame Focus High-Quality Video Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-insight-into-benqs-bl2711u-pioneering-the-4k-standard/"><u>[Updated] A Comprehensive Insight Into BenQ’s BL2711U - Pioneering the 4K Standard</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo/"><u>[Updated] A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-basics-of-weaving-a-narrative-thread/"><u>[Updated] Basics of Weaving a Narrative Thread</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-start-to-engaging-in-face-to-face-conversations-on-snapchat-for-2024/"><u>[Updated] Quick Start to Engaging in Face-to-Face Conversations on Snapchat for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-art-of-extended-frame-shooting/"><u>[Updated] Unlocking the Art of Extended Frame Shooting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/apple-devices-enthusiasts-guide-to-top-voice-recorders-for-2024/"><u>Apple Devices Enthusiast's Guide to Top Voice Recorders for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-regular-windows-backup-prolongs-peace-of-mind/"><u>How Regular Windows Backup Prolongs Peace of Mind</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-league-of-legends-disconnecting-on-windows/"><u>How to Fix League of Legends Disconnecting on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-11-pro/"><u>How to Install Dolby Atmos in Windows 11 Pro</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-7-days-to-die-transforming-the-abyss-of-zombies-on-one-unique-platform/"><u>In-Depth Look at '7 Days to Die': Transforming the Abyss of Zombies on One Unique Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/installing-and-mastering-microsoft-copilot-for-macos-developers/"><u>Installing and Mastering Microsoft Copilot for macOS Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/launch-into-productivity-must-have-ms-store-picks/"><u>Launch Into Productivity: Must-Have MS Store Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-landscape-of-winapp-and-browser-mastery/"><u>Navigating the Landscape of WinApp and Browser Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-malfunctioning-windows-snippers/"><u>Regaining Control Over Malfunctioning Windows Snippers</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-legacy-windows-photo-viewer-features-in-win11/"><u>Restoring Legacy Windows Photo Viewer Features in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestepping-error-0x80070522-on-windows-by-accessing-client-rights/"><u>Sidestepping Error 0X80070522 on Windows by Accessing Client Rights</u></a></li>
-<li><a href="https://win11.techidaily.com/timeless-windows-syncing-the-digital-second-hand/"><u>Timeless Windows: Syncing the Digital Second Hand</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -202,3 +160,24 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-100plus-best-examples-and-tips-to-craft-your-facebook-bios-for-2024/"><u>[New] 100+ Best Examples & Tips to Craft Your Facebook Bios for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boost-production-with-final-cut-pros-top-10-tools/"><u>[New] Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-definitive-guide-to-capturing-your-streams-netflix-mac-edition/"><u>[New] The Definitive Guide to Capturing Your Streams Netflix Mac Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superb-simple-countdown-apps-for-free/"><u>[Updated] 2024 Approved Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-premier-livestream-services-unveiled/"><u>[Updated] Top 10 Premier Livestream Services Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tuneful-texting-whatsapp-audio-integration/"><u>2024 Approved Tuneful Texting WhatsApp Audio Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-unified-note-taking-experience-on-win11/"><u>Crafting a Unified Note-Taking Experience on WIN11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/groan-inducing-humor-in-hits/"><u>Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-windows-disk-read-errors-effectively/"><u>Handling Windows Disk Read Errors Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-capture-success-explore-4-effective-recording-strategies/"><u>Live Capture Success Explore 4 Effective Recording Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-virtualboxs-non-attached-usb-error/"><u>Mastering the Fix for VirtualBox's Non-Attached USB Error</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-direct-browser-downloads-on-windows/"><u>Setting Up Direct Browser Downloads on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/shift-onedrives-location-effortlessly-in-win-11/"><u>Shift OneDrive's Location Effortlessly in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategizing-account-lockout-count-modification-post-multiple-failed-attempts-win-11/"><u>Strategizing Account Lockout Count Modification Post Multiple Failed Attempts, Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/two-innocent-looking-apps-are-slowing-down-your-windows-11-pc/"><u>Two Innocent-Looking Apps Are Slowing Down Your Windows 11 PC</u></a></li>
+</ul></div>
+

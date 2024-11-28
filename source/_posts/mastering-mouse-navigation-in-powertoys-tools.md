@@ -1,7 +1,7 @@
 ---
 title: Mastering Mouse Navigation in PowerToys Tools
-date: 2024-11-12T06:58:18.111Z
-updated: 2024-11-18T02:54:23.796Z
+date: 2024-11-24T22:30:08.479Z
+updated: 2024-11-28T02:55:34.846Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
  If your version of PowerToys is up-to-date, you get the Paste as Plain Text feature which works like a charm. You can even paste text in Microsoft Word and other applications that don’t play nicely with the default**Ctrl + Shift + V** shortcut. The application even allows you to set a custom keyboard shortcut: so you don’t need to press a longer and more difficult three-key combination.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable and Use the "Paste as Plain Text" Feature in PowerToys
 
  This feature is available in the PowerToys version 0.68.0\. So, make sure to update the application to the latest version from Microsoft Store or[download PowerToys from GitHub](https://github.com/microsoft/PowerToys/releases) . Repeat the following steps to enable and customize the feature:
@@ -43,8 +47,17 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 4. Click on the**pencil** icon. Press the keys you want to set as a shortcut for Paste as Plain Text feature. Then click on the**Save** button.  
 ![Enable the Paste as Plain Text Feature in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-the-paste-as-plain-text-feature-in-powertoys.jpg)
 5. Minimize the PowerToys window and then copy any text with some formatting associated with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open Microsoft Word or Google Docs and press the key combination you previously set for the Paste as Plain Text feature. You will see that the text appears in the document without any source formatting.  
 ![Paste as Plain Text Feature in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-as-plain-text-feature-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is "Mouse Jump" in PowerToys?
 
@@ -55,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
  With the Mouse Jump feature, you can press a shortcut key to open a small replica of the complete display and then move the mouse cursor to the desired location. It saves a lot of time wasted in struggling to get from one corner to other on a wide-screen display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable and Use "Mouse Jump" in Power Toys
@@ -71,34 +81,11 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 ![Enable Mouse Jump in Power Toys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-mouse-jump-in-power-toys.jpg)
 4. Minimize the PowerToys window.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. **Press** the key combination to open the Mouse Jump window. Hover the mouse pointer to the desired display area and click on it. The Mouse Jump window will close automatically, and the mouse pointer will appear in the area you selected before.  
 ![Mouse Jump Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-jump-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Leverage These Useful PowerToys Features on Windows
@@ -120,21 +107,19 @@ thumbnail: https://thmb.techidaily.com/95788679327077f3bf6744c4870d74096e3663b00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-depth-analysis-best-valheim-seeds-for-growth-for-2024/"><u>[Updated] In-Depth Analysis Best Valheim Seeds for Growth for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>2024 Approved In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-process-of-recording-in-adobe-presenter/"><u>2024 Approved Unveiling the Process of Recording in Adobe Presenter</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/aomei-backupper-google/"><u>AOMEI Backupperで失われたファイルを完全に復元する方法 - Google検索最適化</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/clip-artist-for-2024/"><u>BriefClip Artist for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/consistent-connections-avoiding-disruptions-in-windows/"><u>Consistent Connections: Avoiding Disruptions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-a-win-11-boot-drive-essential-tips-for-3-techniques/"><u>Creating a Win 11 Boot Drive – Essential Tips for 3 Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-shared-connectivity-options-google-versus-windows/"><u>Exploring Shared Connectivity Options: Google Versus Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-comprehensive-solutions/"><u>Fixing Dota 2 Microphone Issues: Comprehensive Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-components-to-creativity-building-a-professional-4k-pc-for-2024/"><u>From Components to Creativity Building a Professional 4K PC for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-viral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>In 2024, Viral Vibes The Best BGM to Complement Your YT Short Creations</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-unwanted-keystrokes-during-typing/"><u>Preventing Unwanted Keystrokes During Typing</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-remediation-for-elusive-obs-studio-issue-on-win-11-pcs/"><u>Swift Remediation for Elusive OBS Studio Issue on Win 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unravel-windows-mysteries-get-the-support-you-need/"><u>Unravel Windows Mysteries: Get the Support You Need!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-define-custom-idle-timeframe/"><u>Windows: Define Custom Idle Timeframe</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/year-end-visualizations-mind-bending-youtube-figures-and-trends-for-2024/"><u>Year-End Visualizations Mind Bending Youtube Figures and Trends for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-freeipodcasts-downloads-on-iphone/"><u>[New] Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks-for-2024/"><u>[Updated] The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-device-access-problems-in-audacity-win/"><u>Addressing Device Access Problems in Audacity (Win)</u></a></li>
+<li><a href="https://win11.techidaily.com/android-as-a-w11-secondary-display-step-by-step-guide/"><u>Android as a W11 Secondary Display: Step by Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/android-extension-in-w11-workspace-enhancing-productivity/"><u>Android Extension in W11 Workspace: Enhancing Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/beat-the-bug-how-to-stop-apex-legends-freezes/"><u>Beat the Bug: How to Stop Apex Legends Freezes</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-through-strategic-task-management-in-windows-11/"><u>Boosting Productivity Through Strategic Task Management in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-restore-your-plex-streaming-experience-on-different-screens/"><u>Easy Troubleshooting Tips to Restore Your Plex Streaming Experience on Different Screens</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>In 2024, Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-guide-to-striking-ae-title-designs-for-2024/"><u>The Artisan's Guide to Striking AE Title Designs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719358387590-troubleshoot-frozen-shift-key-on-pc/"><u>Troubleshoot Frozen Shift Key on PC.</u></a></li>
 </ul></div>
 

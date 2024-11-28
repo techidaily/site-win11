@@ -1,7 +1,7 @@
 ---
 title: Strategies to Stop and Resolve Apex Crashes in Win11
-date: 2024-11-13T04:01:23.312Z
-updated: 2024-11-18T07:14:07.928Z
+date: 2024-11-25T21:19:32.699Z
+updated: 2024-11-27T20:45:38.657Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ensure Your Computer Fulfills the Game's Minimum Requirements
 
  Before making any major changes, make sure you are computer is capable of running Apex Legends. Here are the minimum requirements to run Apex Legends on a Windows PC.
@@ -38,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
  If your computer doesn't fulfill either of the above requirements, then the only thing you can do is upgrade your computer to fix the crashing issue. Check out our guide on[which upgrades will improve your computer's performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) for some ideas.
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Close Unnecessary Background Running Applications
 
@@ -64,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -79,31 +69,15 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
 ![Settings EasyAntiCheat priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/easyanticheat-priority.jpg)
 
- Next, switch to Apex Legends and check if you still experience the crash.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Next, switch to Apex Legends and check if you still experience the crash.
 
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
@@ -126,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 * **Ragdolls** \- Medium
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check the Apex Legends Files for Corruption
 
@@ -152,6 +130,10 @@ Here's how to do it in the EA app:
 ![Update Graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-driver.jpg)
 5. Select**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Device Manager will search for and download any available graphics driver update on your computer.
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
@@ -169,13 +151,14 @@ Here's how to do it in the EA app:
 5. Click**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Apex Legends Crashing Issue, Fixed
 
@@ -196,22 +179,22 @@ Here's how to do it in the EA app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-discover-creative-ways-to-enhance-your-fb-video-ads/"><u>[New] 2024 Approved Discover Creative Ways to Enhance Your FB Video Ads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-harmony-in-frames-selecting-music-for-social-media-videos/"><u>[New] Harmony in Frames Selecting Music for Social Media Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights/"><u>[New] Mastering Instagram Analytics Top Tools for Enhanced Performance Insights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[Updated] 2024 Approved Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simple-procedure-reverse-video-order-via-vlc/"><u>[Updated] In 2024, Simple Procedure Reverse Video Order via VLC</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-error-x70-file-and-directory-recovery-on-windows-1011/"><u>Bypassing Error X70: File and Directory Recovery on Windows 10/11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-ideapad-laptop-analysis-unveiling-the-quality-and-design/"><u>Comprehensive Lenovo IdeaPad Laptop Analysis: Unveiling the Quality and Design</u></a></li>
-<li><a href="https://facebook.techidaily.com/dodge-facebooks-data-mining-safety-tips-revealed/"><u>Dodge Facebook's Data Mining: Safety Tips Revealed</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-grans-old-computer-senior-friendly-and-simple/"><u>Make Your Gran’s Old Computer Senior-Friendly & Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-your-guide-to-color-perfection-on-windows/"><u>Overcoming Obstacles: Your Guide to Color Perfection on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-unseen-second-monitor-problems/"><u>Solving Unseen Second Monitor Problems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube-for-2024/"><u>The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-error-malwarebytes-cant-properly-called-proc/"><u>Troubleshooting Error: Malwarebytes Can't Properly Called Proc</u></a></li>
-<li><a href="https://win11.techidaily.com/unplugged-access-navigating-localized-onedrive-files/"><u>Unplugged Access: Navigating Localized OneDrive Files</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-error-code-0x80073cf3-at-microsoft-store-windows-1111/"><u>Unraveling Error Code 0X80073CF3 at Microsoft Store, Windows 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-expect-from-microsofts-win11-feb-release/"><u>What to Expect From Microsoft's Win11 Feb Release</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>[New] Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-best-lyric-video-makers-you-should-try/"><u>[Updated] Best Lyric Video Makers You Should Try</u></a></li>
+<li><a href="https://win-web.techidaily.com/comment-seize-les-messages-par-defaut-dans-lapplication-web-de-la-boite-reception-microsoft-avec-aisance/"><u>Comment Seize Les Messages Par Défaut Dans L'Application Web De La Boîte Réception Microsoft Avec Aisance!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-cs-go-experience-through-better-framing/"><u>Elevating Your CS Go Experience Through Better Framing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expressive-iphone-comicals/"><u>Expressive iPhone Comicals</u></a></li>
+<li><a href="https://win11.techidaily.com/from-ordinary-to-celestial-activating-higher-power-on-windows-11/"><u>From Ordinary to Celestial: Activating Higher Power on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-battle-royale-hero5-b-stacked-against-session-for-2024/"><u>GoPro's Battle Royale Hero5 B Stacked Against Session for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-freshly-install-logitech-c270-camera-drivers-on-windows-1011-download-instructions-and-guide/"><u>How to Update or Freshly Install Logitech C270 Camera Drivers on Windows 10/11 - Download Instructions and Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-approaches-for-starting-up-windows-tasks-easily/"><u>Innovative Approaches for Starting Up Windows Tasks Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-wi-fi-with-ethernet-the-windows-approach/"><u>Integrating Wi-Fi with Ethernet: The Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-error-code-resolution-guide/"><u>Navigating Windows 11'S Error Code Resolution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-elusive-energy-duration-display-on-pcs-running-win-11/"><u>Rectifying Elusive Energy Duration Display on PCs Running Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-review-microsoft-surface-laptop-studio-2-the-artists-ally/"><u>Studio Review: Microsoft Surface Laptop Studio 2 - The Artist’s Ally</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-wandering-file-explorer-on-pcs/"><u>Taming the Wandering File Explorer on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/why-no-drive-letter-in-windows-unraveling-the-mystery-proposed-solutions/"><u>Why No Drive Letter in Windows - Unraveling the Mystery, Proposed Solutions</u></a></li>
 </ul></div>
 

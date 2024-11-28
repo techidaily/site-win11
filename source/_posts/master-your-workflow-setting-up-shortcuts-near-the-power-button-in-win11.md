@@ -1,7 +1,7 @@
 ---
 title: "Master Your Workflow: Setting Up Shortcuts Near the Power Button in Win11"
-date: 2024-11-10T19:48:18.580Z
-updated: 2024-11-18T05:28:31.914Z
+date: 2024-11-25T00:25:46.573Z
+updated: 2024-11-27T17:39:27.424Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
@@ -60,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
@@ -73,17 +71,11 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons on Windows 11
@@ -105,20 +97,22 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-prime-narrative-design-center/"><u>[New] Prime Narrative Design Center</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-comprehensive-guide-to-concealed-snap-stories-for-2024/"><u>[Updated] The Comprehensive Guide to Concealed Snap Stories for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/5pya5paw5o6o6jamisdjgizojzlph47ooyzli5xjgi3jg5fjg6zjgqtnllvpnalpjllnllvnlkjjga7pq5jmgkfog73jgqljg5fjg6rjgajjgr3jg5xjg4jjgqbjgqfjgqi/"><u>最新推薦! 「荒野行動」プレイ画面録画用の高性能アプリとソフトウェア</u></a></li>
-<li><a href="https://win11.techidaily.com/from-blank-canvases-to-dynamic-displays-on-win-1011/"><u>From Blank Canvases to Dynamic Displays on Win 10/11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oppo-f25-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Oppo F25 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
-<li><a href="https://fox-http.techidaily.com/key-to-successful-drone-operation-optimal-lipo-selection-for-2024/"><u>Key to Successful Drone Operation Optimal LiPo Selection for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209991720-9781071533529-mindfulness-door-dagelijkse-meditatie/"><u>Mindfulness Door Dagelijkse Meditatie | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-note-30i-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Note 30i Phone? Unlock It Now</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-not-recognized-fix-for-windows-users/"><u>Overcoming Device Not Recognized: Fix for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-tips-for-maximizing-speed-and-efficiency-in-3d-painting/"><u>Pro Tips for Maximizing Speed and Efficiency in 3D Painting</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functioning-automated-rules-in-microsoft-outlook/"><u>Restoring Functioning Automated Rules in Microsoft Outlook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-a15-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A15 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-the-fn-key-operations-and-tips/"><u>Utilizing the FN Key: Operations and Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-cab-files-explained-formatting-and-implementation/"><u>Windows CAB Files Explained: Formatting and Implementation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-beyond-basics-why-hdr-dominates-in-video-editing-workflows-for-2024/"><u>[New] Beyond Basics Why HDR Dominates in Video Editing Workflows for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-of-ae-title-enhancement-methods/"><u>[New] Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>[Updated] Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>2024 Approved Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-file-management-with-self-extraction-techniques-in-win11/"><u>Elevating File Management with Self-Extraction Techniques in Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/independent-messaging-your-path-to-using-messenger-without-facebook/"><u>Independent Messaging: Your Path to Using Messenger Without Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-no-cost-solutions-for-modern-photography-enhancements-for-2024/"><u>Innovative No-Cost Solutions for Modern Photography Enhancements for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-windows-tools-for-easy-cr2-image-conversion/"><u>Leveraging Windows Tools for Easy CR2 Image Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-pin-security-lengthening-passcodes-for-win1111/"><u>Mastering PIN Security: Lengthening Passcodes for Win11/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-problem-unable-to-launch-the-mass-effect-legendary-edition-game/"><u>Persistent Problem: Unable to Launch the Mass Effect Legendary Edition Game</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-disabling-office-updates-on-pc/"><u>Quick Guide to Disabling Office Updates on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-action-plan-for-windows-net-repairing-max-156/"><u>Swift Action Plan for Windows .NET Repairing (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unsuccessful-file-creation-in-error-30005-on-windows/"><u>Tackling Unsuccessful File Creation in Error 30005 on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-potential-in-your-channel-through-studio-for-2024/"><u>Unleashing Potential in Your Channel Through Studio for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-resolving-final-cut-pro-x-stability-issues-updated-2023-for-2024/"><u>Updated Resolving Final Cut Pro X Stability Issues (Updated 2023) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/virtualizing-windows-11-with-vmware-workstation-17-player/"><u>Virtualizing Windows 11 with VMWare Workstation 17 Player</u></a></li>
+<li><a href="https://win11.techidaily.com/winterize-windows-holiday-customization-steps/"><u>Winterize Windows: Holiday Customization Steps</u></a></li>
 </ul></div>
 

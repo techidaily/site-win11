@@ -1,7 +1,7 @@
 ---
 title: How to Restart and Rectify Non-Functional OBS on PC
-date: 2024-11-15T04:52:30.767Z
-updated: 2024-11-18T04:55:09.874Z
+date: 2024-11-21T18:51:15.219Z
+updated: 2024-11-27T19:22:30.082Z
 tags:
   - windows10
   - windows11
@@ -39,15 +39,16 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
  The Windows Program Compatibility Troubleshooter could also be useful for fixing OBS Studio not launching. That troubleshooter applies recommended compatibility settings to OBS and includes a **Test the program** option for them. You can read all about that tool within this article about [utilizing the Program Compatibility Troubleshooter](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set OBS Studio to Run as Administrator
 
  Setting OSB Studio to run as administrator will ensure it can access all the folders and files it needs, which can sometimes address issues. To set OBS Studio to run with elevated privileges, open the **Compatibility** tab as covered for the preceding resolution. Select **Run this program as an administrator** on the **Compatibility** tab and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set a Power Saving GPU Option for OBS Studio
@@ -65,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-driver-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update the Driver for Your PC’s Graphics Adapter
@@ -80,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/nvidia-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete the OBS Studio Configuration Data Folder
@@ -97,20 +92,6 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 4. Right-click the OBS Studio data folder to select a **Delete** context menu option.  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable Superfluous Background Apps and Services
 
  Some third-party background apps competing for system resources can also potentially cause OBS Studio launch issues. Disabling such superfluous apps and services will maximize system resources for OBS Studio and ensure they can’t clash with that software in any way.
@@ -120,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 ![The Startup tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-startup-tab.jpg)
 
  If OBS Studio works after clean booting, something you disabled must have been causing the issue. OBS Studio will probably stop working again if you re-enable all the disabled startup apps and services at once. It’s better to gradually re-enable disabled startup items before every restart so you can better identify which one is causing the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall the OBS Studio Software
 
@@ -133,25 +118,15 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 
  Note that there’s also an alternative OBS Studio MS Store app you can try utilizing instead of the desktop software. Open this [OBS Studio page](https://apps.microsoft.com/detail/obs-studio/XPFFH613W8V6LV?hl=en-gb&gl=GB) and click **Install** \> **Open in Microsoft Store** to access an installation option for the UWP app. Then click **Install** in Microsoft Store to add the OBS UWP app to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Recording and Streaming With OBS Studio Again
 
  So, don’t dump OBS Studio too quickly when you can’t open it on your Windows PC. At least try applying the troubleshooting methods for fixing OBS Studio not launching above. They’ll probably kick-start OBS Studio for most users who need to fix that software not opening.
 
  Users can’t utilize OBS Studio for recording when it doesn’t launch. Some users will probably consider trying out alternative game streaming software when OBS Studio doesn’t work. However, you can fix OBS Studio not launching on a Windows PC with the potential resolutions below.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-6-interactive-workout-ideas-for-social-media-success-for-2024/"><u>[New] Discovering 6 Interactive Workout Ideas for Social Media Success for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-proven-methods-for-capturing-stunning-timelapse-videos-on-gopro/"><u>[New] Proven Methods for Capturing Stunning Timelapse Videos on GoPro</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screenflow-exploration-a-mac-focused-journey-through-video-editing-for-2024/"><u>[Updated] ScreenFlow Exploration A Mac-Focused Journey Through Video Editing for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-zoom-and-skype-for-superior-video-conferencing-experience/"><u>2024 Approved Integrating ZOOM & SKYPE for Superior Video Conferencing Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-and-fixing-non-functional-delete-keys-on-windows/"><u>Finding and Fixing Non-Functional Delete Keys on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-vanishing-battery-time-indicator-in-windows-11/"><u>How to Fix the Vanishing Battery Time Indicator in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-efficiency-essential-strategies-for-windows-11-users/"><u>Mastering Efficiency: Essential Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/profi-anleitung-zur-konvertierung-und-einstellung-von-dvds-auf-mp4-perfekt-fur-high-definition/"><u>Profi-Anleitung Zur Konvertierung Und Einstellung Von DVDs Auf MP4: Perfekt Für High Definition</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enabling-razer-device-discovery-on-win1011/"><u>Re-Enabling Razer Device Discovery on Win10/11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/slowly-fading-the-beat-a-pro-guide-for-audio-easing-for-2024/"><u>Slowly Fading the Beat A Pro Guide for Audio Easing for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +135,27 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-audience-alchemy-converting-shorts-to-sensations/"><u>[New] Audience Alchemy Converting Shorts to Sensations</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-skyrocket-your-content-tips-for-trending-videos/"><u>[Updated] 2024 Approved Skyrocket Your Content Tips for Trending Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>[Updated] How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-drone-selection-above-9-best-for-cinematic-craft/"><u>[Updated] Ultimate Drone Selection Above 9 Best for Cinematic Craft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-access-windows-photos-view/"><u>2024 Approved Instant Access Windows Photos View</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-rapid-deletion-of-youtube-feedback/"><u>2024 Approved Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/5-early-warnings-to-consider-windows-restart/"><u>5 Early Warnings to Consider Windows Restart</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-x7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find X7 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-restoring-lost-windows-update/"><u>A Beginner's Guide to Restoring Lost Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-old-school-gaming-with-retroarcs-tools/"><u>A Step-by-Step Guide to Old-School Gaming with RetroArc's Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/action-plan-if-powershell-isnt-displayed-by-windows/"><u>Action Plan if PowerShell Isn’t Displayed by Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-navigation-methods-without-ls-command/"><u>Advanced Windows Navigation Methods Without LS Command</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/affordable-innovation-with-arcshells-ar-5-review-excellent-performance-meets-low-cost/"><u>Affordable Innovation with ArcShell's AR-5 Review: Excellent Performance Meets Low Cost.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/avi-handbrake-encoding-and-conversion/"><u>AVI, HandBrake, Encoding, and Conversion.</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-blue-screens-a-guide-to-system-recovery/"><u>Beating Blue Screens: A Guide to System Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-windows-performance-and-functionality-via-improved-run-toolset/"><u>Boost Windows Performance and Functionality via Improved Run Toolset</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-type-speed-harnessing-windows-powertoys/"><u>Boost Your Type-Speed: Harnessing Windows PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-barrier-5-apps-to-increase-volume-on-windows-past-100/"><u>Breaking the Barrier: 5 Apps to Increase Volume on Windows Past 100%</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-underutilized-features-of-chatgpt-to-boost-productivity-and-creativity/"><u>Explore Underutilized Features of ChatGPT to Boost Productivity and Creativity</u></a></li>
+</ul></div>
+

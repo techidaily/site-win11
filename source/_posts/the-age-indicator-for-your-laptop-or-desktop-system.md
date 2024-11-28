@@ -1,7 +1,7 @@
 ---
 title: The Age Indicator for Your Laptop or Desktop System
-date: 2024-11-12T03:09:18.965Z
-updated: 2024-11-17T21:16:28.405Z
+date: 2024-11-20T19:01:17.027Z
+updated: 2024-11-27T19:19:01.097Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Serial Number to Check the Warranty Status
 
 ![HP warranty status details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-warranty-status-details.jpg)
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ## 2\. Check the Serial Number Using the Command Prompt
 
 ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
 
@@ -81,10 +89,7 @@ systeminfo.exe
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
@@ -92,10 +97,7 @@ systeminfo.exe
 ![command prompt view original install date windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-view-original-install-date-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the systeminfo command to find the original install date for the Windows OS. The caveat is it displays the date of the last Windows installation. So, if you have recently performed an upgrade or clean installed the Windows OS, the Original Install Date will reflect the same.
@@ -105,13 +107,6 @@ systeminfo.exe
 systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Check Your CPU Details
 
@@ -125,29 +120,19 @@ systeminfo | find /I "install date"
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Tell Your Desktop Computer Age
 
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The PC Components or Laptop Age is Not Everything
 
@@ -170,18 +155,22 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exploring-basic-hdr-a-thorough-review-guide/"><u>[New] 2024 Approved Exploring Basic HDR A Thorough Review Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-easy-steps-to-starting-an-instagram-live-for-2024/"><u>[Updated] Easy Steps to Starting an Instagram Live for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>[Updated] FB Activity Preview Insight or Intrusion – What's Safer?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-inverse-viewing-in-youtube-original-ideas-for-rewinders/"><u>[Updated] Inverse Viewing in YouTube Original Ideas for Rewinders</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-text-inconsistency-ms-resouce-error-win11/"><u>Addressing Text Inconsistency: Ms-Resouce Error, Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-productivity-easy-office-setup-for-windows-1011/"><u>Enhance Productivity: Easy Office Setup for Windows 10/11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-removing-the-isdonedll-issue-on-w11/"><u>Quick Fix Guide: Removing the ISDone.dll Issue on W11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sculpting-soundscapes-advanced-techniques-for-flawless-transition-sequences-audacity/"><u>Sculpting Soundscapes Advanced Techniques for Flawless Transition Sequences (Audacity)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-inner-workings-7-apps-with-gpt-4/"><u>Unpacking the Inner Workings: 7 Apps with GPT-4</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unveiling-the-simplified-fixes-to-common-hawki-drivetrain-issues/"><u>Unveiling the Simplified Fixes to Common Hawki Drivetrain Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-are-the-real-benefits-of-jailbreaking-gpt/"><u>What Are the Real Benefits of Jailbreaking GPT?</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-catching-every-frame-leading-windows-10-capture-tools/"><u>[Updated] 2024 Approved Catching Every Frame Leading Windows 10 Capture Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo/"><u>2024 Approved Vimeo End Screen How to Add End Screen to Video on Vimeo?</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-comprehensible-guide-to-managing-windows-11-default-applications/"><u>A Comprehensible Guide to Managing Windows 11 Default Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/a-concise-guide-to-windows-11-user-grievances-and-gripes/"><u>A Concise Guide to Windows 11 User Grievances and Gripes</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-and-starting-verifier-manager-in-win11-os/"><u>Accessing and Starting Verifier Manager in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-invalid-token-usage-in-modern-windows-systems/"><u>Addressing Invalid Token Usage in Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-powershell-from-windows-command-prompt/"><u>Addressing Missing PowerShell From Windows Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-disk-fragmentation-issue/"><u>Addressing Windows Disk Fragmentation Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-standard-pdf-display/"><u>Altering Window's Standard PDF Display</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-ease-of-use-with-mouse-settings-in-win11/"><u>Boosting Ease of Use with Mouse Settings in Win11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-hs35-mic-troubleshooting-expert-tips-for-making-it-work-perfectly-with-windows-top-solutions/"><u>Corsair HS35 Mic Troubleshooting: Expert Tips for Making It Work Perfectly with Windows – Top Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-retrieving-lost-iphone-application-icons-with-simple-tips/"><u>Guide to Retrieving Lost iPhone Application Icons with Simple Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-inshot-is-it-the-pinnacle-of-editing/"><u>In 2024, Exploring InShot Is It the Pinnacle of Editing?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unbelievable-examination-and-replacement-ideas/"><u>In 2024, Unbelievable Examination & Replacement Ideas</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726227338440-mp3-movavi/"><u>MP3 ファイルの安全な分割テクニック： Movavi で使う高品質保持方法</u></a></li>
 </ul></div>
 

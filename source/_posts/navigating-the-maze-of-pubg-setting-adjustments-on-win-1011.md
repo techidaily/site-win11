@@ -1,7 +1,7 @@
 ---
 title: Navigating the Maze of PUBG Setting Adjustments on Win 10/11
-date: 2024-11-13T05:56:06.137Z
-updated: 2024-11-18T07:31:58.230Z
+date: 2024-11-22T00:24:32.277Z
+updated: 2024-11-28T03:12:15.413Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 3. Click AppData in Explorer’s address bar to view that directory.  
 ![The AppData folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/appdata-folder.jpg)
 4. Open the**Local** subfolder within the**AppData** directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**TslGame** folder to view and open it.
 6. Then open the**Saved > Config > WindowsNoEditor** folders from there.  
 ![The GameUserSettings.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/gameusersettings-ini-file.jpg)
@@ -61,16 +66,13 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 4. If**Controlled folder access** is enabled, click that setting to turn it off.  
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus Software
 
@@ -79,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
  Or look through your antivirus software’s settings tabs to see if one includes a comparable controlled folder setting that restricts app access to directories and files and turn it off if it does.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall PUBG
@@ -94,23 +93,18 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 3. Select the**Uninstall** menu option.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
 4. Click**Uninstall** when asked to confirm.
-5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
-![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
+![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
  Steam users can select to uninstall PUBG via the Control Panel, as covered in our guide for[uninstalling software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After removing PUBG, select that game within Steam’s**Library** tab and click**Install** .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak PUBG’s Game Settings Again
@@ -134,19 +128,24 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-effortless-audio-integration-for-inshot-devices/"><u>[Updated] 2024 Approved Effortless Audio Integration for InShot Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-visual-impact-the-best-ae-title-methods/"><u>[Updated] 2024 Approved Mastering Visual Impact The Best AE Title Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-high-quality-video-webcams-top-5-combos-with-sound/"><u>2024 Approved High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-metas-latest-privacy-framework-updates/"><u>Decoding Meta's Latest Privacy Framework Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-auto-play-in-spotify-for-windows-pcs/"><u>Disabling Auto-Play in Spotify for Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-top-10-alternative-tools-for-efficient-ios-data-management-and-transfer-beyond-itunes/"><u>Discover the Top 10 Alternative Tools for Efficient iOS Data Management & Transfer Beyond iTunes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .rtf file</u></a></li>
-<li><a href="https://win11.techidaily.com/joining-the-dots-win-keys-and-microsoft-login-registration/"><u>Joining the Dots: WIN KEYS and MICROSOFT LOGIN REGISTRATION</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-10plus-free-video-rotators-to-rotate-or-flip-videos/"><u>New In 2024, Top 10+ Free Video Rotators to Rotate or Flip Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-tools-to-assist-in-making-your-pc-to-mac-os-transition-easier/"><u>Proven Tools to Assist in Making Your PC-to-Mac OS Transition Easier</u></a></li>
-<li><a href="https://win11.techidaily.com/quicken-real-time-update-of-task-manager-in-win-11/"><u>Quicken Real-Time Update of Task Manager in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ready-for-success-testing-your-meeting-tech-on-windows/"><u>Ready for Success: Testing Your Meeting Tech on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/your-quick-reference-to-fixing-windows-photo-application/"><u>Your Quick Reference to Fixing Window's Photo Application</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-film-color-correction-with-luts/"><u>[New] In 2024, Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-rules-of-engagement-on-youtube-for-2024/"><u>[Updated] Essential Rules of Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-protecting-posts-copyright-verification-for-tiktokers/"><u>[Updated] In 2024, Protecting Posts Copyright Verification for TikTokers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-powerhouse-guide-to-screen-recording-with-tunefab/"><u>[Updated] In 2024, The Powerhouse Guide to Screen Recording with Tunefab</u></a></li>
+<li><a href="https://win11.techidaily.com/are-windows-11-widgets-relevant-for-modern-desktops/"><u>Are Windows 11 Widgets Relevant for Modern Desktops?</u></a></li>
+<li><a href="https://win11.techidaily.com/artistic-substitutes-to-procreate-windows-based/"><u>Artistic Substitutes to Procreate, Windows-Based</u></a></li>
+<li><a href="https://win11.techidaily.com/authorize-superuser-power-with-command-prompt/"><u>Authorize Superuser Power with Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-steam-application-icon-absence/"><u>Avoiding Steam Application Icon Absence</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-cortana-windows-top-4-replacements/"><u>Beyond Cortana: Windows' Top 4 Replacements</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-win11-crucial-complimentary-software-selection/"><u>Boosting Win11: Crucial, Complimentary Software Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/1719363277312-chrome-stuck-unlock-windows-11s-quick-fixes-now/"><u>Chrome Stuck? Unlock Windows 11'S Quick Fixes Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-realtek-network-not-operational-in-10/"><u>Fixing Realtek Network Not Operational in 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-for-creating-custom-ai-imagery-using-the-power-of-microsoft-copilots-image-generator/"><u>Innovative Techniques for Creating Custom AI Imagery Using the Power of Microsoft Copilot's Image Generator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-rumored-to-enable-airpods-pros-hearing-aid-functionality-no-device-upgrade-required-what-you-need-to-know/"><u>IOS 18 Rumored to Enable AirPods Pro's Hearing Aid Functionality, No Device Upgrade Required: What You Need to Know</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/passaggio-di-disco-rigido-tra-due-computer-metodo-semplificato-per-windows-10-utenti/"><u>Passaggio Di Disco Rigido Tra Due Computer: Metodo Semplificato per Windows 10 Utenti</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/phasing-out-3dnow-how-amds-latest-compiler-changes-shape-future-processing-power/"><u>Phasing Out 3DNow!: How AMD's Latest Compiler Changes Shape Future Processing Power</u></a></li>
+<li><a href="https://win11.techidaily.com/1719348018496-skip-bloatware-embrace-pure-windows-11-experience/"><u>Skip Bloatware: Embrace Pure Windows 11 Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-upgraded-audio-increasing-pc-volume-seamlessly-with-windows-10/"><u>The Ultimate Guide to Upgraded Audio: Increasing PC Volume Seamlessly with Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/1719322467309-troubleshooting-chrome-stuck-in-w11-quick-fixes/"><u>Troubleshooting: Chrome Stuck in W11? Quick Fixes!</u></a></li>
 </ul></div>
 

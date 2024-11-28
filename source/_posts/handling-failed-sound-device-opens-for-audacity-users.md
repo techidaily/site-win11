@@ -1,7 +1,7 @@
 ---
 title: Handling Failed Sound Device Opens for Audacity Users
-date: 2024-11-10T22:26:19.773Z
-updated: 2024-11-17T18:20:49.500Z
+date: 2024-11-21T04:15:30.199Z
+updated: 2024-11-27T23:31:05.680Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Sound Devices Are Enabled
 
  The “Error while opening sound device” issue can arise because playback or recording devices are disabled. So, make sure the devices you’re trying to utilize with Audacity are fully enabled and set to default. This is how you can check your sound devices are enabled in Windows:
@@ -50,7 +54,16 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 6. Right-click the input recording device you want to utilize and select**Enable** if disabled.  
 ![The Enable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-option.jpg)
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
@@ -62,25 +75,16 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ![The Preferences option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/preferences-tab.jpg)
 4. Next, select the**Devices** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Devices tab in Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/devices-tab.jpg)
 5. Click the**Playback Device** drop-down menu to select your default playback device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then select your default recording device on the**Recording Device** drop-down menu.
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change Audacity’s Sample Rate
 
@@ -95,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Turn Off Software Playthrough
 
  Audacity’s Software playthrough setting can cause recording issues when selected. So, that’s another option you should check when trying to fix the “Error while opening sound device” issue. Follow these steps to deselect Software playthrough.
@@ -111,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 3. Deselect the**Software playthrough** **of input** if you’ve got that setting selected.  
 ![The Software playthrough option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sofware-playthrough-option.jpg)
 4. Click the Preferences window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Endpoint Builder Service
 
@@ -122,16 +123,13 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Update Your PC’s Audio Device Driver
 
  If none of the above possible fixes do the trick, try updating your PC’s sound driver. The issue could be arising because your PC’s sound driver is outdated or corrupted. Our guide on[updating audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) includes instructions for applying this potential solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall Your PC’s Audio Driver
 
@@ -145,10 +143,7 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Uninstall Device** to confirm the action.  
@@ -156,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
 
  There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Back to Recording and Playing Audio in Audacity
 
@@ -183,22 +171,20 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enhancing-smooth-playback-stop-frame-gaps-in-obs/"><u>2024 Approved Enhancing Smooth Playback Stop Frame Gaps in OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/beat-the-blink-quick-fixes-for-input-lag-on-latest-microsoft-os/"><u>Beat the Blink: Quick Fixes for Input Lag on Latest Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/determining-the-ideal-nearby-networking-method-google-vs-windows/"><u>Determining the Ideal Nearby Networking Method: Google Vs. Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-fixing-the-frozen-resource-monitor-app-in-win11/"><u>Diagnosing and Fixing the Frozen Resource Monitor App in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enrich-your-galaxy-experience-utilizing-the-dex-app-in-windows/"><u>Enrich Your Galaxy Experience: Utilizing the DeX App in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/esd-file-transformation-mastery-your-pathway-to-windows-iso-success/"><u>ESD File Transformation Mastery: Your Pathway to Windows ISO Success</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-absent-windows-notification-icons/"><u>Fixes for Absent Windows Notification Icons</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lava-blaze-2-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Lava Blaze 2 Pro Is Unlocked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-learn-video-editing-made-simple-mastering-movie-maker-on-w11/"><u>In 2024, Learn Video Editing Made Simple Mastering Movie Maker on W11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-examination-of-the-asus-zephyrus-g14-uncompromised-power-for-gamers/"><u>In-Depth Examination of the Asus Zephyrus G14: Uncompromised Power for Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/lightening-windows-11-startup-latency-tips-for-a-speedy-launch/"><u>Lightening Windows 11 Startup Latency – Tips for a Speedy Launch</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-adding-folders-without-delays-in-windows-onedrive/"><u>Mastering the Art of Adding Folders without Delays in Windows OneDrive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-viewing-choice-leveraging-chatgpts-power/"><u>Next Viewing Choice: Leveraging ChatGPT's Power</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-honor-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Honor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/spectral-skillset-professionals-pathway-to-change-for-2024/"><u>Spectral Skillset Professionals' Pathway to Change for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/by-step-guide-to-integrate-youtube-media-into-gslides/"><u>Step-by-Step Guide to Integrate YouTube Media Into GSlides</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-smartphone-assessment-techniques-insights-from-zdnets-comprehensive-review/"><u>Unveiling Smartphone Assessment Techniques: Insights From ZDNet's Comprehensive Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/irqlnotless-bsod-averted-for-win11/"><u>[IRQL_NOT_LESS] BSOD Averted for Win11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-create-compelling-animation-subscribe-bars-for-your-youtube-channel-filmora/"><u>[Updated] 2024 Approved Create Compelling Animation Subscribe Bars for Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://win11.techidaily.com/elongating-pin-lengths-without-compromising-security/"><u>Elongating Pin Lengths without Compromising Security</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workspace-with-these-easy-themes-changes-on-win11/"><u>Enhance Your Workspace with These Easy Themes Changes on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-from-the-endless-loop-of-a-100-windows-update/"><u>Escape From the Endless Loop of a 100% Windows Update</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/examining-the-income-mechanics-of-tseries-on-youtube/"><u>Examining the Income Mechanics of TSeries on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-blur-background-of-your-youtube-video/"><u>How to Blur Background of Your YouTube Video</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-vcompdll-not-detectedmissing-problems/"><u>How To Correctly Address Vcomp.dll Not Detected/Missing Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-malfunctioning-gaming-status-check-of-discord-on-windows-os/"><u>Improving Malfunctioning Gaming Status Check of Discord on Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mistrust-in-ai-detectors-look-at-zerogpts-flaws/"><u>Mistrust in AI Detectors? Look at ZeroGPT's Flaws</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-filmbeolvaso-onlinevedes-szelsosegessegek-a-vasarlasban/"><u>Movavi Filmbeolvasó Onlinevédés: Szélsőségességek a Vásárlásban</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-access-to-pc-backups-on-mobile/"><u>Seamless Access to PC Backups on Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-package-deployment-barriers-in-windows/"><u>Strategies for Overcoming Package Deployment Barriers in Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-union-of-mondly-and-pearson-in-filtering-technology/"><u>The Union of Mondly and Pearson in Filtering Technology</u></a></li>
 </ul></div>
 

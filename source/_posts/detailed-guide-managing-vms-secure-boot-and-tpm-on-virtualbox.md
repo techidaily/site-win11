@@ -1,7 +1,7 @@
 ---
 title: "Detailed Guide: Managing VM's Secure Boot & TPM on VirtualBox"
-date: 2024-11-17T02:06:56.499Z
-updated: 2024-11-18T08:03:38.924Z
+date: 2024-11-24T17:54:14.965Z
+updated: 2024-11-28T03:44:27.592Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Windows 11 Need TPM and Secure Boot?
 
  Windows 11 needs both a TPM chip and Secure Boot to offer robust protection against threats and not allow any malware to run when the system boots up. Secure Boot only allows signed drivers to load and the TPM chip helps in BitLocker drive data protection. So, both these features are pretty important from a security standpoint. Check out our guide on[what Secure Boot is and how it works](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/) for more information.
@@ -46,16 +50,17 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 8. Now, click on the**OK** button. The settings window will close automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Go to the top area and click on the**Start** button to power on the Windows virtual machine.
 10. Now, press the Win key and search Security. Open the**Windows security** app.
 11. Navigate to the left-hand side menu and click on the**Device Security** option. Here, all Windows security features will be active.
 12. To disable TPM and Secure Boot, reopen the virtual machine settings and set the TPM version to**None** . Uncheck the**Enable EFI (special OSes only)** option check box. Click on**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### An Alternative Method to Check if TPM Is Active in the Windows Virtual Machine
 
@@ -65,28 +70,15 @@ Here's how to check TPM on Windows 11 virtual machine:
 ![check TPM on Windows 11 virtual machine 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-1.jpg)
 2. TPM utility will launch. Navigate to the Manufacturer Information section.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![check TPM on Windows 11 virtual machine 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-2.jpg)
 3. If the Specification version entry showcases 2.0, it means that TPM chip emulation is successful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manage TPM and Secure Boot Features in VirtualBox With Ease
@@ -108,21 +100,19 @@ Here's how to check TPM on Windows 11 virtual machine:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-examining-the-breadth-of-features-in-obs-studio/"><u>[New] In 2024, Examining the Breadth of Features in OBS Studio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-perfect-panning-leading-stabilizers-unveiled/"><u>[New] Perfect Panning Leading Stabilizers Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[Updated] Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-wwdc-2025-a-sneak-peek-at-future-technologies-and-tools/"><u>Apple WWDC 2025 – A Sneak Peek at Future Technologies and Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-for-wi-fi-disconnect-in-win-11/"><u>Best Practices for Wi-Fi Disconnect in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-uninstalling-apps-on-windows-11/"><u>Efficiently Uninstalling Apps on Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/effortlessly-converse-top-17-casual-spanish-utterances/"><u>Effortlessly Converse: Top 17 Casual Spanish Utterances</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-15-plus-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 15 Plus</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-checklist-for-post-editing-and-uploading-your-360-vids-on-youtube/"><u>In 2024, The Ultimate Checklist for Post-Editing & Uploading Your 360 Vids on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-microsoft-store-sign-in-blocks/"><u>Navigate Through Microsoft Store Sign-In Blocks</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-live-gaming-streams-on-windows-via-intels-toolkit/"><u>Optimize Live Gaming Streams on Windows via Intel's Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-task-manager-unresponsiveness/"><u>Overcoming Windows Task Manager Unresponsiveness</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/rmvbmp4-movavi/"><u>RMVB到MP4转换精选：最快捷、最简单的教程 | Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-workflow-5-best-windows-11-productivity-tools/"><u>Skyrocket Workflow: 5 Best Windows 11 Productivity Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-non-responsive-shift-in-windows/"><u>Streamline Non-Responsive Shift in Windows.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones/"><u>[New] Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] 2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-seamless-image-transfers-across-operating-systems/"><u>[Updated] Crafting Seamless Image Transfers Across Operating Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a56s-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A56s 5G PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerated-recovery-tactics-for-unavailable-defender-security-features/"><u>Accelerated Recovery Tactics for Unavailable Defender Security Features</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-ctrl-lock-up-in-windows-11-environments/"><u>Addressing Ctrl Lock-Up in Windows 11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-roadblocks-reinstating-access-on-windows-11-system/"><u>Avoiding Roadblocks: Reinstating Access on Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/blocking-user-interference-with-windows-clocks/"><u>Blocking User Interference with Windows Clocks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/decoding-technology-high-performance-insights-from-toms-world/"><u>Decoding Technology: High-Performance Insights From Tom's World</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-audio-experience-with-our-picks-s-best-speakers-featuring-expert-reviews-from-cnet/"><u>Discover the Ultimate Audio Experience with Our Picks 'S Best Speakers, Featuring Expert Reviews From CNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-7-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 7 Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>In 2024, Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/1719313398544-maximize-full-screen-capture-efficiency-with-these-fixes-in-windows/"><u>Maximize Full-Screen Capture Efficiency with These Fixes in Windows.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>Updated 2024 Approved Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
 </ul></div>
 

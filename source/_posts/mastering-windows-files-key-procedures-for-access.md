@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Files: Key Procedures for Access"
-date: 2024-11-16T09:31:50.186Z
-updated: 2024-11-17T20:41:48.943Z
+date: 2024-11-25T01:07:31.471Z
+updated: 2024-11-27T23:51:03.106Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
@@ -58,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
@@ -75,19 +80,6 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -100,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -117,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -142,17 +128,24 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-borrow-without-cost-images-from-leading-youtubers-archives/"><u>[New] 2024 Approved Borrow Without Cost Images From Leading YouTubers' Archives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enlightened-storytelling-the-art-of-professional-shots/"><u>[Updated] 2024 Approved Enlightened Storytelling The Art of Professional Shots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transforming-mundane-text-to-captivating-animation-in-insta-stories/"><u>[Updated] In 2024, Transforming Mundane Text to Captivating Animation in Insta-Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nikons-journey-to-excellence-the-4k-camera-review/"><u>[Updated] Nikon's Journey to Excellence The 4K Camera Review</u></a></li>
-<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-universal-companion-windows-now-app-for-iosmac-and-windows-devices/"><u>A Universal Companion: Windows Now App for iOS/Mac and Windows Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capturing-cinematic-moments-across-devices-for-2024/"><u>Capturing Cinematic Moments Across Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1719337262601-cure-frozen-shift-key-woes-quickly/"><u>Cure Frozen Shift Key Woes Quickly.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a05s-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A05s Phone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolved-issue-igfxem-chipset-fails-to-function-how-we-overcame-it/"><u>Resolved Issue: IgfxEM Chipset Fails to Function - How We Overcame It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-traffic-critical-youtube-seo-instruments-for-video-success/"><u>[New] In 2024, Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[New] In 2024, Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-dynamic-gif-making/"><u>2024 Approved Step-by-Step Guide to Dynamic GIF Making</u></a></li>
+<li><a href="https://win-premium.techidaily.com/7-auf-einen-usb-stick/"><u>7 Auf Einen USB-Stick</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-memory-and-cpu-peaks-for-news-and-interest-apps/"><u>Cutting Down Memory & CPU Peaks for News & Interest Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-your-win11-mastering-powertoys-setup/"><u>Empower Your Win11: Mastering PowerToys Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-boost-your-speed-in-3d-paint-keys/"><u>Essential Tips to Boost Your Speed in 3D Paint Keys</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a78-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A78 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-powerslide-music-integration-a-comprehensive-guide/"><u>In 2024, PowerSlide Music Integration A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi-gravura-online-de-converter-m2p-para-formato-avi-sem-custo-algum/"><u>Movavi - Gravura Online De Converter M2P Para Formato AVI Sem Custo Algum</u></a></li>
+<li><a href="https://win11.techidaily.com/mute-to-noise-fixing-windows-microphone-glitches-on-microsoft-powered-meet/"><u>Mute to Noise: Fixing Windows Microphone Glitches on Microsoft-Powered Meet</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-windows-team-video-sharing/"><u>Reclaiming Windows Team Video Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-nonworking-tools-for-windows-maintenenasive-troubleshooters/"><u>Repairing Nonworking Tools for Windows Maintenenasive Troubleshooters</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-copy-and-paste-on-common-browsers-for-pcs/"><u>Resetting Copy & Paste on Common Browsers for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-pre-purchase-checklist-crucial-factors-for-win-pcs/"><u>The Ultimate Pre-Purchase Checklist: Crucial Factors for Win PCs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/uncovering-basics-of-asmr-audio-experiences/"><u>Uncovering Basics of ASMR Audio Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstall-steps-for-faulty-ms-pc-manager-install/"><u>Uninstall Steps for Faulty MS PC Manager Install</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-users-how-will-losing-taskbar-chat-shape-your-user-experience/"><u>Windows 11 Users: How Will Losing Taskbar Chat Shape Your User Experience?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding Min/Max Processor Specifications in Control Panel
-date: 2024-11-13T00:10:54.510Z
-updated: 2024-11-17T23:48:27.538Z
+date: 2024-11-24T17:45:04.785Z
+updated: 2024-11-28T02:47:45.842Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Show or Hide the Minimum or Maximum Processor State Using Command Prompt
 
  To use Command Prompt to show or hide these power states, press**Win + R** to open Windows Run. Then, enter**cmd** in the text box and hit the**Enter** key on your keyboard. You can also use one of the many[ways to open the Command Prompt on Windows](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 ![Cmd in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To show the minimum processor state, enter the below command:
 
@@ -50,10 +58,7 @@ To hide the maximum processor state, enter the below command:
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
@@ -63,13 +68,6 @@ To hide the maximum processor state, enter the below command:
  After creating the system restore point, press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and hit the**Enter** key to open the Registry Editor.
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
 
@@ -81,22 +79,12 @@ To hide the maximum processor state, enter the below command:
 
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -104,6 +92,10 @@ To hide the maximum processor state, enter the below command:
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\893dee8e-2bef-41e0-89c6-b55d0929964c`
 
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
 
@@ -124,16 +116,18 @@ To hide the maximum processor state, enter the below command:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/advanced-scripting-techniques-upgraded-file-system-interactions/"><u>Advanced Scripting Techniques: Upgraded File System Interactions</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-microphone-repairs-fixing-issues-and-troubleshooting-steps/"><u>Corsair HS50 Headset Microphone Repairs - Fixing Issues & Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-deal-with-windows-error-x70-a-comprehensive-checklist/"><u>How To Deal with Windows Error X70: A Comprehensive Checklist</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-google-pixel-fold-easily-by-drfone-android/"><u>How To Unlock a Google Pixel Fold Easily?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>In 2024, Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-mp4-yorumlayici-son-derece-uygun-mov-format-ayrilimiz-ucretsiz-internet/"><u>Movavi MP4 Yorumlayıcı - Son Derece Uygun MOV Format Ayrılımız, Ücretsiz İnternet</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-installation-mishaps-on-windows-10-and-11/"><u>Repairing Installation Mishaps on Windows 10 & 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-couldnt-load-page-in-windows-marketplace/"><u>Troubleshooting 'Couldn't Load Page' In Windows Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-gaps-in-systems-startup-list/"><u>Troubleshooting Gaps in System's Startup List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-driving-social-media-success-with-smart-fb-ad-production/"><u>[New] Driving Social Media Success with Smart FB Ad Production</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-steam-cloud-discrepancies-in-windows/"><u>Correcting Steam Cloud Discrepancies in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/data-resilience-on-windows-embrace-daily-savings/"><u>Data Resilience on Windows: Embrace Daily Savings</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-system-files-top-6-access-methods/"><u>Exploring System Files: Top 6 Access Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fitbit-versa-lite-evaluation-unbeatable-price-point-with-superior-exercise-monitoring-features/"><u>Fitbit Versa Lite Evaluation: Unbeatable Price Point with Superior Exercise Monitoring Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/galaxy-tab-s3-an-updated-review-for-tech-enthusiasts/"><u>Galaxy Tab S3 - An Updated Review for Tech Enthusiasts!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3-wav-mpg-movavi-aac/"><u>MP3, WAV 등 MPG 애드셋을 제공하는 Movavi에서 간단한 방법: AAC 무료 변환</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-sound-hiccups-a-guide-to-smooth-audio-on-pcs-with-windows-1011-latest-fixes-for-2er/"><u>Resolving Sound Hiccups: A Guide to Smooth Audio on PCs with Windows 10/11 | Latest Fixes for 2Er</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-discord-javascript-dilemma-on-windows-11-pcs/"><u>Steps to Eliminate Discord Javascript Dilemma on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-11-compatible-android-apps-worth-your-time/"><u>Top 6 Windows 11 Compatible Android Apps Worth Your Time</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-ancient-directx-software-using-modern-dxvk-techniques/"><u>Transforming Ancient DirectX Software Using Modern DXVK Techniques</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ubertragt-man-effizient-dokumente-von-einem-windows-pc-auf-einen-ipad-pro-entdeckung-der-besten-6-methoden/"><u>Überträgt Man Effizient Dokumente Von Einem Windows PC Auf Einen iPad Pro - Entdeckung Der Besten 6 Methoden</u></a></li>
 </ul></div>
 

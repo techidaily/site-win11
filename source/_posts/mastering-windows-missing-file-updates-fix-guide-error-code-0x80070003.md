@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows' Missing File Updates Fix Guide (Error Code: 0X80070003)"
-date: 2024-11-12T00:15:02.524Z
-updated: 2024-11-17T21:32:28.451Z
+date: 2024-11-26T03:56:18.188Z
+updated: 2024-11-27T18:00:25.934Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are Update Files Missing From Your PC?
 
  One or more of the following reasons might explain why you are experiencing the problem on your computer:
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Delete the Contents of the DataStore Folder
@@ -55,16 +56,14 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 `C:\Windows\SoftwareDistribution`  
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the folder is deleted, open the Settings app and try installing the updates again.
 
@@ -91,7 +90,15 @@ Here is all that you need to do:
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Repair the Update Components
 
@@ -123,26 +130,6 @@ net start appidsvc`
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
@@ -162,24 +149,20 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-shift-to-short-videos-a-look-into-2023-trends/"><u>[New] Facebook's Shift to Short Videos A Look Into 2023 Trends</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-advanced-text-dynamics-presets-collection/"><u>[Updated] Advanced Text Dynamics Presets Collection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>[Updated] Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-engaging-audiences-through-vimeo-shares/"><u>[Updated] In 2024, Engaging Audiences Through Vimeo Shares</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-x-studio-audio-pc-app-for-2024/"><u>[Updated] X-Studio Audio PC App for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/breathing-life-into-stalled-win11-license-numbers/"><u>Breathing Life Into Stalled Win11 License Numbers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-performance-boosting-your-websites-efficiency/"><u>Cookiebot-Enhanced Performance: Boosting Your Website's Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/end-of-windows-subsystem-preparing-for-androids-future/"><u>End of Windows Subsystem: Preparing For Android's Future</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correct-invalid-identifier-error-in-win11/"><u>Guide to Correct 'Invalid Identifier' Error in Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-unresponsive-usb-port-on-your-hp-laptop-expert-guide/"><u>How to Repair an Unresponsive USB Port on Your HP Laptop - Expert Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-and-redo-store-registrations-in-win-11/"><u>How to Reset and Redo Store Registrations in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-windows-11-harnessing-background-blur-in-photos-app/"><u>Masterful Windows 11: Harnessing Background Blur in Photos App</u></a></li>
-<li><a href="https://win11.techidaily.com/paperless-posting-essential-notebook-replacements-for-windows/"><u>Paperless Posting: Essential Notebook Replacements for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-route-to-purchase-adobe-reader-in-microsoft-marketplace/"><u>Quick Route to Purchase Adobe Reader in Microsoft Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/unable-to-install-the-microsoft-pc-manager-on-windows-try-these-7-fixes/"><u>Unable to Install the Microsoft PC Manager on Windows? Try These 7 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-troubleshooting-winerror-0x80071a90/"><u>Understanding & Troubleshooting WinError 0X80071A90</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-remove-filmora-stamp-a-comprehensive-guide-for-free-and-paid-users-for-2024/"><u>Updated Remove Filmora Stamp A Comprehensive Guide for Free and Paid Users for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/using-chatgpt-for-emotional-support-and-reducing-loneliness/"><u>Using ChatGPT for Emotional Support and Reducing Loneliness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-is-my-ps4-controller-blinking-blue-white-red-or-orange/"><u>Why Is My PS4 Controller Blinking Blue, White, Red, or Orange?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>[Updated] 2024 Approved Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6-for-2024/"><u>[Updated] From Footage to Fortune Unveiling the Secrets of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-mobile-melodies-personalize-ios-ringtones/"><u>2024 Approved Mastering Mobile Melodies Personalize iOS Ringtones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-stream-control-showdown-is-obs-best-over-twitch-studio/"><u>2024 Approved Stream Control Showdown Is OBS Best over Twitch Studio?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024s-guide-to-cutting-edge-cost-effective-storage/"><u>2024’S Guide to Cutting-Edge, Cost-Effective Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-personalized-game-recommendations-on-w11/"><u>Disabling Personalized Game Recommendations on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-commands-locating-and-correcting-windows-errors-via-the-command-line/"><u>Expert Commands: Locating & Correcting Windows Errors via the Command Line</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-retrieve-icon-positions/"><u>How to Swiftly Retrieve Icon Positions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-logitech-g35-experience-latest-drivers-for-windows-781abf-safe-and-easy-download/"><u>Seamless Logitech G35 Experience: Latest Drivers for Windows 7/8/1Abf - Safe & Easy Download!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-explored-insights-into-facebook-twitter-instagram-and-youtube-popularity/"><u>Social Media Titans Explored: Insights Into Facebook, Twitter, Instagram, and YouTube Popularity</u></a></li>
+<li><a href="https://win-forum.techidaily.com/streamline-software-removal-the-essentials-of-hunter-mode-on-revo-uninstaller/"><u>Streamline Software Removal: The Essentials of Hunter Mode on Revo Uninstaller</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-7-affordable-solutions-for-maximizing-windows-storage-space/"><u>The Top 7 Affordable Solutions for Maximizing Windows Storage Space</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-how-runtime-broker-boosts-computing-efficiency/"><u>Understanding How Runtime Broker Boosts Computing Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-local-file-transmission-google-versus-windows-strategies/"><u>Understanding Local File Transmission: Google Versus Windows Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-a-functional-enter-key-in-windows/"><u>Unveiling the Secrets to a Functional 'Enter' Key in Windows</u></a></li>
 </ul></div>
 

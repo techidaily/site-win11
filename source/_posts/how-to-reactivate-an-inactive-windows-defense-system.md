@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate an Inactive Windows Defense System
-date: 2024-11-15T16:49:15.378Z
-updated: 2024-11-18T04:44:29.851Z
+date: 2024-11-22T18:06:09.551Z
+updated: 2024-11-27T19:31:52.091Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Firewall Troubleshooter
 
  If you are having trouble enabling Firewall in Windows, it is a good idea to start troubleshooting using the official Firewall troubleshooter released by Microsoft Automated Troubleshooting Services.
@@ -41,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  You can now close the troubleshooter and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check if Another Security Software Is Active
 
  Are you using a third-party security program on your computer? If so, there is a good chance that it is conflicting with Windows Firewall and stopping it from working. As such, if you have installed another antivirus app recently, we recommend temporarily disabling or uninstalling the third-party security program and then enabling Windows Firewall.
@@ -63,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
@@ -83,7 +71,16 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 4. Click on **System and Security** \> **Windows Defender Firewall**.  
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
 2. Once done, open Run again.
@@ -117,24 +114,10 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
 3. Under "Group or user names", click on **Add**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 6. Click **Apply** to save the changes and check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
 
@@ -144,26 +127,15 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-7-packet-opening-experience-hacks/"><u>[New] 2024 Approved Top 7 Packet Opening Experience Hacks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-eveo-bluetooth-adapter-driver/"><u>Download EVEO Bluetooth Adapter Driver</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-for-restoring-functionality-of-ccleaner-in-windows-1011-pcs/"><u>Guide for Restoring Functionality of CCleaner in Windows 10/11 PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722986972257-how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-git-with-github-desktop-for-windows-users/"><u>Navigating Git with GitHub Desktop for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguard-your-screen-from-autonomous-scrolling/"><u>Safeguard Your Screen From Autonomous Scrolling</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-on-scheduling-your-tweets-in-advance/"><u>The Ultimate How-To on Scheduling Your Tweets in Advance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-professional-video-transformation-with-a-complimentary-wonderfox-toolkit/"><u>Unlock Professional Video Transformation with a Complimentary WonderFox Toolkit!</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-the-reserve-memory-concept/"><u>Unveiling Windows: The Reserve Memory Concept</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +144,25 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-gopro-timelapses-top-editing-techniques/"><u>[New] Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-capturing-stories-gopro-hero5-black-in-focus-for-2024/"><u>[New] The Art of Capturing Stories GoPro Hero5 Black in Focus for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>2024 Approved Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-life-into-slow-windows-excel-with-easy-fixes/"><u>Breathe Life Into Slow Windows-Excel with Easy Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-missing-icons-on-windows-11-easily/"><u>Bring Back Missing Icons on Windows 11 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-dormant-wastebin-icon-in-windows/"><u>Bring Back the Dormant Wastebin Icon in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/building-python-applications-to-handle-file-operations-in-networks/"><u>Building Python Applications to Handle File Operations in Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-non-genuine-adobe-pop-up-on-pcs/"><u>Bypass Non-Genuine Adobe Pop-Up on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-microsofts-zero-error-on-windows-11/"><u>Bypassing Microsoft's Zero-Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/can-pressing-prtscr-open-snipping-tool-how-to-block-it-on-windows-11/"><u>Can Pressing PrtScr Open Snipping Tool? How to Block It on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-self-scrolling-in-your-windowed-world/"><u>Cease Self-Scrolling in Your Windowed World</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cost-free-chromebook-video-capturing-leaders/"><u>Cost-Free Chromebook Video Capturing Leaders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-latest-ios-1amidst-podcast-transcriptions-and-emoji-updates-apple-also-unveils-significant-changes-to-its-european-app-store-detailed-coverage-b193/"><u>Explore the Latest iOS 1Amidst Podcast Transcriptions and Emoji Updates, Apple Also Unveils Significant Changes to Its European App Store - Detailed Coverage by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/is-microsoft-introducing-dvd-playback-and-flash-video-capabilities-in-the-new-spartan-ui-for-windows/"><u>Is Microsoft Introducing DVD Playback & Flash Video Capabilities in the New Spartan UI for Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revolutionize-your-facebook-experience-with-auto-play-videos/"><u>Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel-for-2024/"><u>The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-why-your-pcs-touchpad-scroll-function-fails-in-windows-10/"><u>Troubleshooting Fixes: Why Your PC's Touchpad Scroll Function Fails in Windows 10</u></a></li>
+</ul></div>
+

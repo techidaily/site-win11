@@ -1,7 +1,7 @@
 ---
 title: Leveraging Windows Tools for Easy CR2 Image Conversion
-date: 2024-11-16T02:15:15.812Z
-updated: 2024-11-18T01:27:17.643Z
+date: 2024-11-21T19:28:36.110Z
+updated: 2024-11-27T17:35:19.293Z
 tags:
   - windows10
   - windows11
@@ -65,25 +65,11 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 ![The file format conversion options in Image Converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-format-selection.jpg)
 4. Press the **Click to Choose** button and select a folder in which to save the JPG file. Then click the **Select Folder** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click the checkbox for the file you’ve selected to convert.
 6. Press the **Convert All** **Images** button.  
 ![The Image Converter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-image-converter-app.jpg)
 7. Wait for the conversion tool to finish.
 8. Then open the converted JPG image from the folder you selected to save it in.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Convert CR2 Images to JPG With the FreeConvert Web App
 
@@ -95,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 3. Select a CR2 file and click **Open**.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Then select the **JPG** option on the **Output** drop-down menu.
@@ -107,14 +90,19 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 6. Press the web app’s **Download** option.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Convert CR2 Images to JPG With IrfanView
 
@@ -136,10 +124,7 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
@@ -154,6 +139,11 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select your CR2 file and click **Add**.
 6. Click on the **Output format** drop-down menu to select JPG.  
 ![The Output format options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/output-format-option.jpg)
@@ -162,14 +152,11 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
 9. Click **Exit** in the "Batch Conversion done" window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Convert Your CR2 Photos to JPG Images
 
@@ -179,27 +166,6 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-precision-tools-for-gif-to-video-conversion-best-5/"><u>[New] In 2024, Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-5-book-trailers-that-will-captivate-you/"><u>2024 Approved Top 5 Book Trailers That Will Captivate You</u></a></li>
-<li><a href="https://win11.techidaily.com/accessible-controls-filter-key-management-in-windows/"><u>Accessible Controls: Filter Key Management in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/are-your-keyboard-arrow-keys-not-working-try-these-fixes-for-windows/"><u>Are Your Keyboard Arrow Keys Not Working? Try These Fixes for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-voice-typing-hiccup-with-windows-error-code-x80049dd3-solution/"><u>Eliminating the Voice Typing Hiccup with Window's Error Code X80049DD3 Solution</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ensuring-complete-data-security-a-visual-guide-to-using-bitraser-for-enterprises/"><u>Ensuring Complete Data Security: A Visual Guide to Using BitRaser for Enterprises</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13 Ultra Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-k70-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi K70 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-restoring-ccleaner-on-win11/"><u>Mastering the Art: Restoring CCleaner on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-warhammer-40k-boltgun-stopping-stutter-issues-on-pc/"><u>Mastery Over Warhammer 40K Boltgun: Stopping Stutter Issues on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-is-adding-ai-copilot-to-the-windows-11-taskbar-to-help-with-everything/"><u>Microsoft Is Adding AI Copilot to the Windows 11 Taskbar to Help With Everything</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-legacy-computer-for-windows-11-via-to-go-and-rufus/"><u>Optimize Your Legacy Computer for Windows 11 via To Go & Rufus</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-volume-preferences-after-software-changes/"><u>Restoring Lost Volume Preferences After Software Changes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/simple-methods-converting-m4r-to-m4a-file-formats-best-tools-and-techniques/"><u>Simple Methods: Converting M4R to M4A File Formats - Best Tools and Techniques</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/s-in-subscribers-implementing-top-12-video-promotion-techniques/"><u>Spikes in Subscribers Implementing Top 12 Video Promotion Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-troubles-discover-6-reliable-solutions-for-restoring-your-game-connectivity/"><u>Terraria Troubles? Discover 6 Reliable Solutions for Restoring Your Game Connectivity</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +173,21 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-5-best-snipping-tool-for-chromebook-for-2024/"><u>[New] 5 Best Snipping Tool For Chromebook for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-rapid-rise-on-insta-like-mastery-plus-video-impact/"><u>[New] Rapid Rise on Insta - Like Mastery + Video Impact</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stardews-ultimate-game-changing-mods-a-curated-list-for-2024/"><u>[Updated] Stardew's Ultimate Game-Changing Mods A Curated List for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-new-epson-printer-drivers-a-comprehensive-guide-for-windows-11/"><u>Download & Install New Epson Printer Drivers: A Comprehensive Guide for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-pin-validation-on-w11w10-pcs/"><u>Fixing Unsuccessful Pin Validation on W11/W10 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-elevate-your-role-on-windows-computers/"><u>How to Elevate Your Role on Windows Computers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-iphone-film-and-photo-experience-with-extra-gear/"><u>In 2024, Amplify iPhone Film & Photo Experience with Extra Gear</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-x6-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find X6 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-vip-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 VIP to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-redmi-note-12t-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Redmi Note 12T Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-vitality-of-your-microsoft-store-experience/"><u>Reviving the Vitality of Your Microsoft Store Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-video-buffering-boosting-vlc-on-windows/"><u>Streamlining Video Buffering: Boosting VLC on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolving-window-bar-1985-to-today-in-windows/"><u>The Evolving Window Bar - 1985 to Today in Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Windows Headset Microphone Blackout
-date: 2024-11-14T23:57:11.191Z
-updated: 2024-11-18T05:16:50.496Z
+date: 2024-11-22T16:26:06.619Z
+updated: 2024-11-27T19:39:02.003Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Preliminary Checks
 
  Start the troubleshooting process by applying the following preliminary fixes, as they may resolve the issue immediately:
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 * Run the Recording Audio troubleshooter to let Windows identify and fix the microphone issues automatically. Refer to our guide on [how to run a troubleshooter in Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) for instructions.
 
  If none of the above checks and fixes work, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ensure That the Microphone Isn't Muted
 
@@ -51,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 4. Also, if the **Main Volume** is too low, increase it to close to **100**.  
 ![Unmute the Headset Microphone in the Realtek Audio Control App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/1-unmute-the-headset-microphone-in-the-realtek-audio-control-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
 ## 3\. Ensure That the Microphone Is Properly Plugged In
@@ -68,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
@@ -75,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Microphone and Test It
 
@@ -84,30 +93,9 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
 
@@ -115,20 +103,21 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
 ![Go to More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the sound settings, go to the **Recording** tab, right-click on your headset microphone, and select **Set as Default Device**.
 
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see the headset microphone in the list of recording devices, it could be disabled. In such a case, right-click anywhere in the **Recording** tab and select **Show Disabled Devices**.
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, set your headset microphone as the default audio input device.
 
@@ -150,36 +139,11 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Your Headset Microphone Working Again
 
  A headset microphone that does not pick up your voice can hinder your gameplay or business meetings. Hopefully, you now better understand what causes the headset microphone to malfunction. Furthermore, if you correctly apply the above fixes, you will be able to troubleshoot and resolve the problem with the headset.
 
  If you want to fix the underlying issue and get your headset microphone working, here are a few steps you can take.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-foundations-of-using-zooms-clustering-feature-for-2024/"><u>[New] Foundations of Using Zoom's Clustering Feature for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagrams-most-appreciated-ae-layouts/"><u>2024 Approved Mastering Instagram's Most Appreciated AE Layouts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comprehensive-picsart-insight-for-enhanced-creativity-for-2024/"><u>Comprehensive PicsArt Insight for Enhanced Creativity for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-windows-11s-voice-recorder-usability-via-shortcut-guide/"><u>Elevating Windows 11'S Voice Recorder Usability via Shortcut Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/expect-an-uptick-in-crypto-advertising-on-platforms-like-facebook-and-instagram/"><u>Expect an Uptick in Crypto Advertising on Platforms Like Facebook & Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-the-absence-of-dxgidll-in-windows-11/"><u>How to Rectify the Absence of Dxgi.dll in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-resolve-when-windows-11-fails-to-detect-your-usb-devices/"><u>How To Resolve When Windows 11 Fails To Detect Your USB Devices</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>In 2024, The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-transform-your-reels-6-advanced-applications-for-instagram/"><u>In 2024, Transform Your Reels 6 Advanced Applications for Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/key-techniques-eradicating-predominant-anomalies-with-anydesk-on-windows/"><u>Key Techniques: Eradicating Predominant Anomalies with AnyDesk on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-fix-wsl-registration-failure-with-error-x80370102/"><u>Mastering The Fix: WSL Registration Failure with Error X80370102</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-gaming-world-mastering-switch-identity-control/"><u>Secure Your Gaming World: Mastering Switch Identity Control</u></a></li>
-<li><a href="https://win11.techidaily.com/top-notch-windows-11-skins-no-one-knows/"><u>Top-Notch Windows 11 Skins No One Knows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -188,3 +152,24 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insights-into-instagram-an-in-depth-analysis-guide-for-professionals/"><u>[New] 2024 Approved Insights Into Instagram An In-Depth Analysis Guide for Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlining-your-overwatch-sessions-recording/"><u>[New] 2024 Approved Streamlining Your Overwatch Sessions Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-football-game-analysis-premier-insights-in-graphs-for-2024/"><u>[New] Football Game Analysis Premier Insights in Graphs for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-instagram-to-tik-tok-integration-strategy/"><u>[New] In 2024, Instagram to Tik Tok Integration Strategy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-low-light-photos-on-ios-11/"><u>[New] Mastering Low-Light Photos on iOS 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps-for-2024/"><u>[Updated] Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-huawei-nova-y71-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Huawei Nova Y71</u></a></li>
+<li><a href="https://win11.techidaily.com/command-the-narrative-windows-11s-verbal-initiation/"><u>Command the Narrative: Windows 11'S Verbal Initiation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-your-laptops-sound-issue-a-comprehensive-guide-to-addressing-no-volume-concerns/"><u>Eliminate Your Laptop's Sound Issue: A Comprehensive Guide to Addressing No Volume Concerns</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-your-faulty-win11-license/"><u>How to Reactivate Your Faulty Win11 License</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-fixed-context-menus-with-these-remedies/"><u>Navigate Past Fixed Context Menus with These Remedies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-avi-editor-for-windows-8-advanced-video-editing-features-for-2024/"><u>New Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-camera-issue-code-a00f425d-in-windows-os/"><u>Overcoming Camera Issue Code: A00F425D in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-windows-11-screen-driver-failure/"><u>Steps to Rectify Windows 11 Screen Driver Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-retrieval-failure-with-windows-1011-geforce-x/"><u>Tackling Retrieval Failure With Windows 10/11 GeForce X</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-disabled-roblox-windows-settings/"><u>Troubleshooting Disabled Roblox Windows Settings</u></a></li>
+</ul></div>
+

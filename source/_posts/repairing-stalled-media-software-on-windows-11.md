@@ -1,7 +1,7 @@
 ---
 title: Repairing Stalled Media Software on Windows 11
-date: 2024-11-14T20:21:46.215Z
-updated: 2024-11-18T07:52:50.682Z
+date: 2024-11-25T21:39:19.249Z
+updated: 2024-11-28T04:02:19.321Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
  If you find that your file is unsupported, use a[free online converter](https://www.makeuseof.com/tag/free-online-file-converters/) to change its format to a compatible one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Video Library Access for the App
 
  The Media Player app may fail to show videos stored on your PC if you have inadvertently disabled video library access for the app. Here’s how you can enable it.
@@ -50,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 4. Enable the toggles next to**Video library access** and**Let apps access your video library** .
 5. Turn on the toggle next to the**Media Player** app.  
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Refresh Your Libraries
 
@@ -75,7 +55,15 @@ To refresh libraries in the Media Player app, follow these steps:
 3. Under**Libraries** , click the**Refresh** button.  
 ![Refresh Libraries in the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/refresh-libraries-in-the-media-player-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Switch to the**Library** tab and check if your media files appear now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Video Enhancements
 
@@ -89,6 +77,10 @@ To disable video enhancements in Windows, use these steps:
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -101,20 +93,10 @@ To disable video enhancements in Windows, use these steps:
 ![Windows Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-troubleshooters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After running these troubleshooters, restart the Media Player app and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset the Media Player App
 
@@ -142,6 +124,10 @@ regsvr32 wmp.dll`
 
  Check our guide on[how to update apps in Windows 11](https://www.makeuseof.com/update-apps-windows-11/) and use the steps provided there to update the Media Player app to its most recent version. Hopefully, this should solve your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the Media Player App on Windows 11
 
  The Media Player app is great for playing locally stored audio and video files on your Windows 11 PC. Occasionally, the app may stop working due to misconfigured settings or corrupt app data. However, it’s nothing you can’t fix with the solutions mentioned above.
@@ -163,24 +149,24 @@ regsvr32 wmp.dll`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-incorporating-time-features-into-youtube-video-formats/"><u>[New] 2024 Approved Incorporating Time Features Into YouTube Video Formats</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/outube-shorts-decoding-the-income-distribution-model/"><u>[New] YouTube Shorts Decoding the Income Distribution Model</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-facing-copyright-challenges-on-youtube-know-your-rights/"><u>[Updated] In 2024, Facing Copyright Challenges on YouTube Know Your Rights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/2009s-essential-guide-to-protecting-your-blog-from-fraudulent-schemes-mastering-safe-email-campaigns-with-massmail-tools/"><u>2009'S Essential Guide to Protecting Your Blog From Fraudulent Schemes: Mastering Safe Email Campaigns with MassMail Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/7-proven-methods-to-enhance-your-windows-11-experience/"><u>7 Proven Methods to Enhance Your Windows 11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-critical-dll-loss-restoring-mfc71u-on-pcs/"><u>Addressing Critical DLL Loss: Restoring Mfc71u on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-mouse-pointer-prominence-in-windows-11/"><u>Enhancing Mouse Pointer Prominence in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-strategies-for-leveraging-the-tracert-command-in-your-windows-it-toolkit/"><u>Expert Strategies for Leveraging the Tracert Command in Your Windows IT Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-windows-task-management-addressing-misplaced-cpu-metrics/"><u>Fixes for Windows Task Management: Addressing Misplaced CPU Metrics</u></a></li>
-<li><a href="https://win11.techidaily.com/get-icloud-running-without-glitches-on-your-windows-device/"><u>Get iCloud Running Without Glitches on Your Window's Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y78t to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-collaborative-branding-strategies-in-digital-media/"><u>In 2024, Collaborative Branding Strategies in Digital Media</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a24-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A24 Lock Screen Password</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-power-indicators-full-charge-alerts-for-windows-11/"><u>Mastering Power Indicators: Full Charge Alerts for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-note-visibility-in-win-11/"><u>Maximizing Note Visibility in Win 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/newbies-nook-making-eye-catching-mac-videos-for-youtube-for-2024/"><u>Newbies' Nook Making Eye-Catching Mac Videos for YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-error-0x0000004e-on-win11-devices/"><u>Remedying Error 0X0000004E on Win11 Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-top-50-timeless-free-to-watch-classics-anime-list/"><u>The Ultimate Top 50 Timeless, Free-to-Watch Classics Anime List</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-admin-blocked-application-issue/"><u>Troubleshooting Admin-Blocked Application Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-comprehensive-strategies-for-swiftly-clearing-feedback/"><u>[New] In 2024, Comprehensive Strategies for Swiftly Clearing Feedback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-yi-drone-in-4k-a-filmmakers-dream/"><u>[New] In 2024, Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-86-cracking-the-code-tiktok-riddles-and-jokes/"><u>[Updated] 86 Cracking the Code TikTok Riddles & Jokes</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-power-management-avoid-hibernation-of-usb-devices/"><u>Bypass Power Management: Avoid Hibernation of USB Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-windows-auto-lock-feature/"><u>Bypass Windows Auto-Lock Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-shop-error-code-x800704cf/"><u>Bypassing Windows 11 Shop Error: Code X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-windows-11-registry-access-settings/"><u>Changing Windows 11 Registry Access Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-access-denied-errors-fixing-outlook-issues-in-windows-os/"><u>Clearing 'Access Denied' Errors: Fixing Outlook Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-corruption-fix-your-win1011-recycle-error/"><u>Clearing up CORRUPTION! Fix Your WIN10/11 Recycle Error</u></a></li>
+<li><a href="https://win11.techidaily.com/cmd-magic-show-unraveling-5-mesmerizing-maneuvers/"><u>CMD Magic Show: Unraveling 5 Mesmerizing Maneuvers</u></a></li>
+<li><a href="https://win11.techidaily.com/coherent-windows-icons-for-productivity-boost/"><u>Coherent Windows Icons for Productivity Boost</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-tutorial-how-to-install-amd-rx-590-graphics-card-drivers-in-windows/"><u>Complete Tutorial: How to Install AMD RX 590 Graphics Card Drivers in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-moto-g24-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Moto G24 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oppo-a58-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Oppo A58 4G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-gigabyte-totals-for-extended-video-playback/"><u>In 2024, Gigabyte Totals for Extended Video Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-making-any-video-playable-on-ipads-iphones-and-ipods/"><u>Step-by-Step Tutorial on Making Any Video Playable on iPads, iPhones and iPods!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-causes-of-sluggish-downloads-in-utorrent/"><u>Troubleshooting Common Causes of Sluggish Downloads in uTorrent</u></a></li>
 </ul></div>
 

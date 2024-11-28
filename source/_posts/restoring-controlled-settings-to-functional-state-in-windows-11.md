@@ -1,7 +1,7 @@
 ---
 title: Restoring Controlled Settings to Functional State in Windows 11
-date: 2024-11-16T08:55:05.995Z
-updated: 2024-11-18T05:00:04.734Z
+date: 2024-11-24T21:40:58.789Z
+updated: 2024-11-27T22:40:41.861Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes This Error Message to Appear?
 
  The error generally appears on your computer screen whenever you attempt to make changes to the Settings app. This can cause an unwanted hindrance, as it will not allow you to make changes in your Settings menu. It can occur due to several reasons:
@@ -34,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 3. You have installed third-party programs that interfere with Windows settings.
 
 Let's now see how to fix this problem.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -55,10 +52,7 @@ Let's now see how to fix this problem.
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall the Third-Party Application
@@ -68,6 +62,10 @@ Let's now see how to fix this problem.
  Think back to any applications you installed before the error began appearing. If you have an idea as to what might be the cause, follow our guide on[how to uninstall programs on Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) or[Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it.
 
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
 
@@ -82,16 +80,7 @@ Let's now see how to fix this problem.
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
@@ -114,6 +103,11 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
@@ -129,13 +123,6 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
@@ -160,22 +147,22 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-solutions-to-stop-blank-spots-in-obs-media/"><u>2024 Approved Solutions to Stop Blank Spots in OBS Media</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-take-against-lunar-client-start-up-failure-notice/"><u>Actions to Take Against Lunar Client Start-Up Failure Notice</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-slow-icon-loading-with-cache-refresh/"><u>Avoiding Slow Icon Loading with Cache Refresh</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting-for-2024/"><u>Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-video-buffer-issues-streamlined-vlc-on-pc/"><u>Fixing Video Buffer Issues: Streamlined VLC on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-directdraw-fixes-in-windows-10-and-11/"><u>Mastering DirectDraw Fixes in Windows 10 & 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-zte-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your ZTE Phone? Unlock It Now</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-film-audio-experience-discovering-the-top-8-sounds/"><u>New In 2024, Essential Film Audio Experience Discovering the Top 8 Sounds</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-control-over-silent-slack-alerts-in-win-11/"><u>Regain Control Over Silent Slack Alerts in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-microsofts-speech-recognition-in-windows-11/"><u>Restoring Microsoft's Speech Recognition in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-faulty-microsoft-store-eradicate-0x80072efd/"><u>Tackling Faulty Microsoft Store: Eradicate 0X80072EFD</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-isolated-earbuds-fix-manual/"><u>The Isolated Earbuds Fix Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-car-battery-recharging-units-of-2024-comprehensive-review-by-experts-techradar/"><u>Top-Rated Car Battery Recharging Units of 2024 - Comprehensive Review by Experts | TechRadar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-reactivating-your-locked-ios-device/"><u>Troubleshooting Steps for Reactivating Your Locked iOS Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>Updated A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-are-foddian-games-and-whats-the-origin-of-the-name/"><u>What Are Foddian Games, and What's the Origin of the Name?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-acid-pro-critique-and-comparable-software/"><u>[New] 2024 Approved ACID Pro Critique and Comparable Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unlocking-youtube-potential-with-best-thumbnail-dimensions/"><u>[New] 2024 Approved Unlocking YouTube Potential with Best Thumbnail Dimensions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/resh-takes-on-favorites-movie-alternate-list-for-2024/"><u>[New] Fresh Takes on Favorites - Movie Alternate List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[Updated] 2024 Approved Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>[Updated] 2024 Approved Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-graphics-memory-mastering-vram-amplification/"><u>Elevating Graphics Memory: Mastering VRAM Amplification</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-mystery-of-0x8007045d-a-step-by-step-method-for-win11/"><u>Eliminating the Mystery of 0X8007045d: A Step-by-Step Method for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-typing-with-simple-adjustments-windows-filters/"><u>Enhance Typing with Simple Adjustments: Windows' Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-post-adjustment-feature-in-power-and-sleep-settings/"><u>Hiding Post-Adjustment Feature in Power and Sleep Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-volume-shadow-copy-service-not-working-in-windows/"><u>How to Fix the Volume Shadow Copy Service Not Working in Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dynamic-arrangement-of-your-youtube-selections/"><u>In 2024, Dynamic Arrangement of Your YouTube Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-address-cannot-find-gpeditmsc-error/"><u>Methods to Address Cannot Find Gpedit.msc Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/multi-genre-unmanned-flyers-for-2024/"><u>Multi-Genre Unmanned Flyers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srgb-advantages-over-regular-rgb-for-2024/"><u>Srgb Advantages Over Regular Rgb for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-beast-of-error-0xc0000005-on-your-pc/"><u>Taming the Beast of Error 0Xc0000005 on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unplayable-video-files-on-pcs/"><u>Troubleshooting Unplayable Video Files on PCs</u></a></li>
 </ul></div>
 

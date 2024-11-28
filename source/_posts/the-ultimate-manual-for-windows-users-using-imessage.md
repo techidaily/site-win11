@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Manual for Windows Users: Using iMessage"
-date: 2024-09-11T09:30:06.854Z
-updated: 2024-09-12T09:30:06.854Z
+date: 2024-11-22T04:01:22.906Z
+updated: 2024-11-28T02:52:26.182Z
 tags:
   - windows10
   - windows11
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 ---
 
 ## The Ultimate Manual for Windows Users: Using iMessage
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,22 +36,13 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![The screen that appears when you first open the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-pair-screen-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Before continuing on the app,[connect your iPhone to the Windows PC](https://www.makeuseof.com/tag/how-to-connect-your-cell-phone-to-your-pc-through-bluetooth/) via Bluetooth since this is how Link to Windows will communicate with Phone Link.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Connect Your iPhone to Phone Link on Windows
 
@@ -67,28 +51,12 @@ Close
 ![Opening the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/opening-phone-link-windows.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After launching Phone Link, choose the mobile device you want to connect to by clicking**iPhone** .
 
 ![Choosing a mobile device in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/phone-link-choose-mobile-device-screen-windows.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The app will display a QR code that you can scan using the Camera app on your iPhone. Tap**Pair Your Devices** when it appears on your iPhone—it will pop up below the QR code. Then, tap**Open** on the prompt that appears.
 
@@ -97,10 +65,7 @@ Close
 ![Prompt to open the Link to Windows app after scanning the QR code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/prompt-pair-devices-link-to-windows-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -109,21 +74,7 @@ Close
 
 ![Screen to continue pairing with a Windows PC in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/continue-bluetooth-pair-link-to-windows-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The prompt with a pairing code in the Link to Windows app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-prompt-link-to-windows-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -131,7 +82,15 @@ Close
 
 ![The pairing screen with code in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pair-screen-phone-link-windows.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On your iPhone, tap**Done** . You’re almost done setting up iMessage for your PC; there’s just one more step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sync Contacts and Messages from Your iPhone
 
@@ -149,42 +108,29 @@ Close
 
  And you're done! The good news is that the setup is a one-time process. Your phone and Windows PC should now automatically connect as long as Bluetooth is enabled and the two devices are within range.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### View and Write Messages in the Phone Link App
 
  You can see any messages you receive on your iPhone in the Phone Link app by opening the**Messages** tab at the top. Click on the sender's name to see the ongoing conversation in a chat window on the right.
 
 ![Viewing messages in the phone link app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/viewing-message-phone-link-windows.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**New Message** —the blue pencil icon button—to send a message to a contact who doesn't have an existing thread. Start typing the person's name in the text box that appears and select it from the search results.
 
 ![Searching for a contact in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/searching-contact-phone-link-windows.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type your message in the chat box at the bottom and press Enter or click**Send** .
 
 ![Sending a message in the Phone Link app on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/sending-message-phone-link-windows.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As long as you have notifications enabled on the Phone Link app, you will get an alert when the other person responds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## An Alternative Method to Use iMessage on Windows
 
@@ -207,4 +153,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[New] In 2024, Expand Your Reach Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-master-the-art-of-instagram-friendly-video-editing-for-2024/"><u>[Updated] Master the Art of Instagram-Friendly Video Editing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-unchangeable-windows-11-energy-modes/"><u>Handling Unchangeable Windows 11 Energy Modes</u></a></li>
+<li><a href="https://win11.techidaily.com/hdd-or-ssd-discovering-your-disk-type-in-windows/"><u>HDD or SSD? Discovering Your Disk Type in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-m54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy M54 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>In 2024, Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-syncheroon-issues-with-quick-and-effective-steps-in-to-do/"><u>Overcoming Syncheroon Issues with Quick & Effective Steps in To Do</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-steam-unable-to-sync-with-windows-files/"><u>Remedying Steam Unable to Sync with Windows Files</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-troublesome-downloads-a-win11-guide-to-smoother-sync/"><u>Tackling Troublesome Downloads: A Win11 Guide to Smoother Sync</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-free-window-11-theme-packs-upgrade-your-desktop/"><u>Top 15 Free Window 11 Theme Packs: Upgrade Your Desktop</u></a></li>
+</ul></div>
 

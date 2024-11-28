@@ -1,7 +1,7 @@
 ---
 title: "Master the Menus: Create a Fast Uninstall Route for Windows 10/11"
-date: 2024-11-14T06:26:50.205Z
-updated: 2024-11-17T17:00:41.635Z
+date: 2024-11-23T18:22:59.177Z
+updated: 2024-11-27T18:00:19.437Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 5. Press the green**Install** button.  
 ![The Install option for IObit Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select**No, thanks** to opt-out of an optional installation if you don't want it.
 2. Click**Next** to proceed with the installation.
 3. Select**No, thanks** if you don't want to subscribe.
@@ -45,19 +49,24 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 5. The**Powerful Uninstall** context menu option should be enabled by default, but you can double-check by clicking**Options** \>**Settings** in IObit Uninstaller. Select the**Add Powerful Uninstall** **option to Windows context menu** setting on the**Uninstall** tab if necessary, and click the**OK** button.  
 ![The Add Powerful Uninstall option to context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-add-powerful-uninstall-checkbox-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go ahead and try out the**Powerful Uninstall** context menu option. Right-click a software shortcut on your desktop (preferably for a program you want to remove) and select**Show more options** (in Windows 11). Click the new**Powerful Uninstall** option on the context menu. An IObit Uninstaller window will then open, on which you can select**Uninstall** to remove the program.
 
 ![The Powerful Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerful-uninstall-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll notice that the IOBit Uninstaller window in which the**Powerful Uninstall** option opens also includes an**Automatically remove residual files** setting. Selecting that checkbox will enable a more thorough removal of the program by deleting any leftover residual files and registry keys it leaves behind. That's an option worth selecting before clicking**Uninstall** to[erase junk files](https://www.makeuseof.com/windows-10-remove-junk-files/) .
 
 ![The Automatically remove residual files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatically-remove-residual-files-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Uninstall Context Menu Option With Windows Uninstaller
@@ -76,37 +85,14 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 7. Press**Install** to add the new**Uninstall** context menu option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After installing Windows Uninstaller, right-click a software icon on your desktop area and select**Show more options** to access the classic menu. There you'll see the**Uninstall** option shown in the screenshot below. Click**Uninstall** to bring up the software's default uninstaller.
 
 ![The Uninstall desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-context-menu-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This context menu option is also available beyond the desktop. For example, you can right-click EXE files in installation folders to remove software packages. It also adds an**Uninstall** option to the Start menu's context menu in older Windows platforms like Vista/XP.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Uninstall Windows Software With a Handy Context Menu Shortcut
 
@@ -129,22 +115,24 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-battle-tested-selecting-the-supreme-7-fps/"><u>[New] Battle Tested Selecting the Supreme 7 FPS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-precision-in-visuals-how-to-blur-backgrounds-on-teamblend/"><u>[New] Precision in Visuals How to Blur Backgrounds on Teamblend</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-methods-to-transfer-instagram-media-onto-iphone/"><u>[Updated] 2024 Approved Secure Methods to Transfer Instagram Media Onto iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-power-of-high-quality-gaming-screenshots/"><u>[Updated] In 2024, Unveiling the Power of High-Quality Gaming Screenshots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-swipe-to-enhance-turning-videos-upside-down/"><u>[Updated] Swipe to Enhance Turning Videos Upside Down</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-troubleshooting-obs-blackouts-on-game-recordings/"><u>[Updated] Troubleshooting OBS Blackouts on Game Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-cmd-skills-with-these-20-must-learn-commands/"><u>Boost Your CMD Skills with These 20 Must-Learn Commands</u></a></li>
-<li><a href="https://driver-error.techidaily.com/devmgr-error-code-48-addressed/"><u>DevMgr: Error Code 48 Addressed</u></a></li>
-<li><a href="https://win11.techidaily.com/dual-display-designs-crafting-individual-monitor-ambiance-in-win-1011/"><u>Dual Display Designs: Crafting Individual Monitor Ambiance in WIN 10/11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-youtube-videos-not-working-on-iphone/"><u>Fix YouTube Videos Not Working on iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bridge-the-disconnect-gap-windows-11-and-printers/"><u>How to Bridge the Disconnect Gap: Windows 11 & Printers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-service-failures-fixing-steam-errors-on-windows-11/"><u>Mastery Over Service Failures: Fixing Steam Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-windows-photo-workflow-with-keys/"><u>Optimizing Your Windows Photo Workflow with Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-missing-phone-link-notifications-on-pc/"><u>Restoring Functionality to Missing Phone Link Notifications on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-add-on-of-portable-software-to-windows-oses/"><u>Seamless Add-On of Portable Software to Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-limit-microsoft-edge-processes/"><u>Strategies to Limit Microsoft Edge Processes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[Updated] 2024 Approved Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-ultra-fast-instagram-video-views-for-smartphone-users/"><u>[Updated] In 2024, Ultra-Fast Instagram Video Views for Smartphone Users</u></a></li>
+<li><a href="https://win11.techidaily.com/12-common-windows-11-aesthetic-oddities/"><u>12 Common Windows 11 Aesthetic Oddities</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-amplify-your-content-best-practices-in-collaborative-youtube-outros/"><u>2024 Approved Amplify Your Content Best Practices in Collaborative YouTube Outros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-professional-video-edits-at-zero-price-discover-these-tools/"><u>2024 Approved Professional Video Edits at Zero Price - Discover These Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-system-restart-utilizing-windows-11s-quick-start-function/"><u>Accelerating System Restart: Utilizing Windows 11'S Quick Start Function</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-verification-methods-for-windows-11/"><u>Activation Verification Methods for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-visual-disk-space-analyzer-to-windows-explorer-menu/"><u>Adding Visual Disk Space Analyzer to Windows Explorer Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-store-glitch-code-0x80073cf3/"><u>Addressing Windows Store Glitch: Code 0X80073CF3</u></a></li>
+<li><a href="https://win11.techidaily.com/amplify-your-ssds-potential-with-win-plus-fresh-strategies/"><u>Amplify Your SSD's Potential with Win + Fresh Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/asus-s15-oled-unveiled-power-and-style-in-one-package/"><u>ASUS S15 OLED Unveiled: Power & Style in One Package</u></a></li>
+<li><a href="https://win11.techidaily.com/asus-vivobook-s-15-oled-bape-edition-review-stealthy-stylish-and-practical/"><u>ASUS Vivobook S 15 OLED BAPE Edition Review: Stealthy, Stylish, and Practical</u></a></li>
+<li><a href="https://fox-info.techidaily.com/decoding-androids-editing-elite-is-picku-the-ultimate-choice/"><u>Decoding Android's Editing Elite Is PickU the Ultimate Choice?</u></a></li>
+<li><a href="https://win11.techidaily.com/1719370883063-master-compatibility-fixes-without-the-troubleshooter/"><u>Master Compatibility Fixes Without the Troubleshooter.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2104195-9781936012336-realizing-soul/"><u>Realizing Soul | Free Book</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-where-can-i-find-angry-dog-bark-effect/"><u>Updated In 2024, Where Can I Find Angry Dog Bark Effect?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-reinvention-how-vr-technology-and-digital-twins-enhance-distant-jobs-in-engineering-fields-zdnet/"><u>Virtual Reinvention: How VR Technology & Digital Twins Enhance Distant Jobs in Engineering Fields | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024flacpluscue/"><u>プロが推奨する2024版最適Flac+cue分割・管理アプリケーション</u></a></li>
 </ul></div>
 

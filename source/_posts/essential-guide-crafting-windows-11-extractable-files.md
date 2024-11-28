@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Crafting Windows 11 Extractable Files"
-date: 2024-11-12T02:18:51.799Z
-updated: 2024-11-18T00:27:43.374Z
+date: 2024-11-27T01:17:50.951Z
+updated: 2024-11-27T22:55:54.596Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,30 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 4. Click the**Create new Self Extraction Directive** **file** radio button.  
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-self-extracting-option.jpg)
 5. Select the**Extract files only** option and**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Extract files only option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-files-only.jpg)
 
 1. Enter the title**SFX archive** for the package title and click**Next** .
 2. A confirmation prompt for extracting is an optional extra, but it’s a good idea to add one. To do so, select "Prompt user with" and input a confirmation message like "Do you wish to extract archive?"  
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
 3. Click**Next** and select the**Do not display license** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
 ![The Add file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-package-option.jpg)
 5. Click**Next** to proceed to a Show window step. Select the**Default** (recommended) option there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then select**Next** again to go to the finish message step. As it’s not especially important to have a finishing message, select the**No message** radio button.
 
 Now we can get started using IExpress Wizard:
@@ -67,10 +82,7 @@ Now we can get started using IExpress Wizard:
 ![An SFX archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfx-archive-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
@@ -90,10 +102,7 @@ Now we can get started using IExpress Wizard:
 7. Click the**Archive** box’s ellipses button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Choose a folder to save the SFX archive in and click**Open** .
@@ -106,13 +115,6 @@ Testing the SFX File With 7-ZIP
 
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
  By default, compression is set to a standard level five. However, you can change that by clicking the**Compression** level drop-down menu. Select**Maximum** or**Ultra** on that menu to increase the compression. However, those compression options are also the slowest.
@@ -120,13 +122,6 @@ Testing the SFX File With 7-ZIP
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Share Your Files Within Self-Extracting SFX Archives
 
@@ -149,21 +144,20 @@ Testing the SFX File With 7-ZIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-screens-in-windows-8-4-methods/"><u>[New] 2024 Approved Capture Screens in Windows 8 4 Methods</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-elevate-your-talk-the-leading-web-based-speech-conversion-services-for-2024/"><u>[New] Elevate Your Talk The Leading Web-Based Speech Conversion Services for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-understanding-crossfade-audio-transitions/"><u>[New] In 2024, Understanding Crossfade Audio Transitions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-back-4-blood-voice-chat-not-working/"><u>[SOLVED] Back 4 Blood Voice Chat Not Working</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] In 2024, Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-slide-show-must-haves-for-iphone-models-787-pro-max/"><u>[Updated] Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/biometric-breakthrough-turned-breach-windows-hellos-future/"><u>Biometric Breakthrough Turned Breach: Windows Hello's Future?</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-plugged-inspection-error-for-audio-hardware-on-winos/"><u>Fixing Plugged Inspection Error for Audio Hardware on WinOS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a15-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A15 4G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mirrorless-innovation-taking-over-dslr-in-videos/"><u>In 2024, Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-tracking-and-managing-network-data-using-netstat-in-win11/"><u>Master the Art of Tracking and Managing Network Data Using Netstat in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/minimalist-pc-large-space-slight-lag/"><u>Minimalist PC - Large Space, Slight Lag</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-essential-elements-missing-windows-error/"><u>Overcoming 'Essential Elements Missing' Windows Error</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pioneering-color-grading-with-3d-luts-for-2024/"><u>Pioneering Color Grading with 3D LUTs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tactical-steps-to-evade-windows-account-prompts/"><u>Tactical Steps to Evade Windows Account Prompts</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-and-solving-roblox-errors-tied-to-account-restrictions/"><u>Unveiling and Solving Roblox Errors Tied to Account Restrictions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-borrow-premium-image-footage-via-top-rated-4-youtube-channels/"><u>[New] 2024 Approved Borrow Premium Image Footage via Top-Rated 4 YouTube Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-natural-filmmaking-compiling-the-best-free-screen-templates-for-cinephiles/"><u>[New] Natural Filmmaking Compiling the Best Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[Updated] 2024 Approved Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-budget-friendly-camera-guide-best-bargains/"><u>[Updated] Budget-Friendly Camera Guide Best Bargains</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-image-enhancement-101-text-addition-for-pc-and-mac-users-for-2024/"><u>[Updated] Image Enhancement 101 Text Addition for PC and Mac Users for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-pixel-power-the-top-10-cameras-for-clear-images/"><u>[Updated] In 2024, Pixel Power The Top 10 Cameras for Clear Images</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-analyzing-video-platforms-vimeo-and-youtube/"><u>2024 Approved Analyzing Video Platforms Vimeo and YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-filters-enable-or-disable-safeguard/"><u>Adjusting Windows Filters: Enable or Disable SafeGuard</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-time-honored-directx-experiences-through-dxvk/"><u>Augmenting Time-Honored DirectX Experiences Through DXVK</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-rapid-clicks-turn-off-mouse-accel-in-win-11/"><u>Avoiding Rapid Clicks: Turn Off Mouse Accel in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/bigger-capacity-but-lagging-in-little-pcs-mp60/"><u>Bigger Capacity but Lagging in Little PCs (MP60)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incorporating-b-roll-with-finesse-for-visual-enhancement-for-2024/"><u>Incorporating B-Roll with Finesse for Visual Enhancement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719367447353-multiplying-malware-defenses-think-again-windows/"><u>Multiplying Malware Defenses? Think Again, Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-meme-code-principles-of-viral-video-content-creation/"><u>The Meme Code Principles of Viral Video Content Creation</u></a></li>
 </ul></div>
 

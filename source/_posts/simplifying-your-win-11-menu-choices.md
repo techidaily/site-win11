@@ -1,7 +1,7 @@
 ---
 title: Simplifying Your Win 11 Menu Choices
-date: 2024-09-11T09:30:05.544Z
-updated: 2024-09-12T09:30:05.544Z
+date: 2024-11-22T19:10:32.176Z
+updated: 2024-11-27T23:08:25.356Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/cf7a08bd282de8a6ab97b6e5d5d8ca10a7266e7f8
 
  Although it was introduced to simplify things, many users still prefer the old context menu from Windows 10\. Fortunately, you can remove Show more options from the context menu on Windows 11 by following the below methods.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
  The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
@@ -45,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cf7a08bd282de8a6ab97b6e5d5d8ca10a7266e7f8
 4. Check the**Launch folder** **windows in a separate process** box.  
 ![Launch folder windows in a separate process box in the Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/launch-folder-windows-in-a-separate-process-box.jpg)
 5. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Next, restart your computer for the changes to take effect.
 
@@ -61,10 +52,7 @@ Next, restart your computer for the changes to take effect.
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
@@ -76,6 +64,10 @@ Next, restart your computer for the changes to take effect.
  In the future, if you want to add the "show more options" entry to the context menu, then open Command Prompt with admin rights and run the following command:
 
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
@@ -90,20 +82,15 @@ Next, restart your computer for the changes to take effect.
 4. Name the value as**"UndockingDisabled"** and press**Enter** .  
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
@@ -118,28 +105,8 @@ Next, restart your computer for the changes to take effect.
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
 4. Check the**Enable classic full context menus** box.  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
 5. Click the**Restart Explorer** button that appears.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy an Old School Context Menu on Windows 11
 
@@ -158,4 +125,24 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>[New] In 2024, Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1-best-online-green-screen-app-manycam-your-ultimate-live-streaming-and-video-call-tool/"><u>1. Best Online Green Screen App: ManyCam - Your Ultimate Live Streaming and Video Call Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-gadgets-the-leading-smartphones-for-artists/"><u>2024 Approved Pinnacle Gadgets The Leading Smartphones for Artists</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>2024 Approved Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Galaxy A25 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-efficient-pathways-software-shortcut-addition-win11-style/"><u>Creating Efficient Pathways: Software Shortcut Addition Win11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-convergence-post-windows-11-subsystem-adjustments/"><u>Enhancing Convergence Post-Windows 11 Subsystem Adjustments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-microsofts-hololens-a-hologram-horizon-for-2024/"><u>Exploring Microsoft's HoloLens A Hologram Horizon for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-in-depth-analysis-understanding-the-google-podcast-app/"><u>In 2024, In Depth Analysis Understanding the Google Podcast App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fix-tips-for-addressing-noise-absence-from-conexant-smartaudio-hd-under-windows-11/"><u>Quick Fix Tips for Addressing Noise Absence From Conexant SmartAudio HD Under Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-root-access-issues-in-cmd-windows/"><u>Resolving Root Access Issues in Cmd Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
+<li><a href="https://win11.techidaily.com/title-fine-tuning-icon-gaps-in-windows-1110-environments/"><u>Title: Fine-Tuning Icon Gaps in Windows 11/10 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-hibernate-glitches/"><u>Troubleshooting Windows Hibernate Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/wins-blue-screen-blight-finding-the-fix/"><u>Win’s Blue Screen Blight - Finding the Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-long-term-support-plan-explained-latest-update-details/"><u>Windows 11'S Long-Term Support Plan Explained: Latest Update Details</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-version-timeline-decryption/"><u>Windows Version Timeline Decryption</u></a></li>
+</ul></div>
 

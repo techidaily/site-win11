@@ -1,7 +1,7 @@
 ---
 title: "Key-Driven Awakening: Mouse & Keyboard's Role on Windows 10/11"
-date: 2024-09-11T09:30:05.513Z
-updated: 2024-09-12T09:30:05.513Z
+date: 2024-11-24T01:27:23.886Z
+updated: 2024-11-27T22:30:24.941Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
  But what if these don't work? You can always wake your PC from sleeping with the power button, but using your peripherals is more convenient. Here's what to do when your keyboard and mouse won't wake your Windows 10 or 11 computer from sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Wake Your Computer With a Keyboard or Mouse on Windows
 
  If your mouse or keyboard won't wake up your PC from sleep, you need to check an option to confirm they're allowed to do so. Follow these steps:
@@ -41,22 +34,12 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
 ![Windows Allow Device Wake Computer Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-Allow-Device-Wake-Computer-Sleep.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Be careful when using these options with a laptop. If you have a wireless mouse connected and forget to turn it off, you could accidentally wake your laptop from sleep when it's in a bag.[You can destroy your laptop](https://www.makeuseof.com/tag/5-ways-utterly-destroy-laptop-slowly-surely/) by leaving it in a bag while running, as this generates a lot of heat.
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
@@ -68,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -86,13 +66,14 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
 
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
@@ -100,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
@@ -125,4 +103,26 @@ thumbnail: https://thmb.techidaily.com/f3b9ebc545f359ab98a545c4a62ebaee9fb8e9ec4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discovering-androids-and-ioss-best-rated-wedding-clock-apps/"><u>[Updated] 2024 Approved Discovering Android's and iOS's Best-Rated Wedding Clock Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-entering-the-fullscreen-realm-choosing-a-cms/"><u>[Updated] Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unleashing-creativity-filming-timelapse-videography-on-ipad/"><u>2024 Approved Unleashing Creativity Filming Timelapse Videography on iPad</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722601786644-2024s-best-selection-of-extended-format-desk-mouse-covers-find-your-perfect-match/"><u>2024'S Best Selection of Extended-Format Desk Mouse Covers: Find Your Perfect Match!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-windows-devices-30-titles-to-consider/"><u>Cutting-Edge Windows Devices - 30 Titles to Consider</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-dilemmas-11-key-solutions/"><u>Decoding Windows 11 Dilemmas - 11 Key Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/disablingenabling-content-scan-feature-in-modern-windows/"><u>Disabling/Enabling Content Scan Feature in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-the-monotone-interface-8-fixes-for-windows/"><u>Eradicating the Monotone Interface: 8 Fixes for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quicken-slow-execution-of-workbooks-in-windows/"><u>How to Quicken Slow Execution of Workbooks in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/r-your-youtube-content-with-superior-webm-converters-for-2024/"><u>Master Your YouTube Content with Superior WebM Converters for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-full-removal-of-wsl-in-windows-11/"><u>Mastering Full Removal of WSL in Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-shaky-video-fix-it-for-free-8-best-online-video-stabilizers/"><u>New Shaky Video? Fix It for Free 8 Best Online Video Stabilizers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-snap-in-failures-in-microsoft-management-console/"><u>Overcoming Snap-In Failures in Microsoft Management Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-disable-touchpad-sync-when-you-connect-an-external-mouse-in-windows-11/"><u>Step-by-Step: Disable Touchpad Sync when You Connect an External Mouse in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-beast-of-error-0xc0000005-on-your-pc/"><u>Taming the Beast of Error 0Xc0000005 on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>Ultimate Tutorial Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-exe-and-msi-software-package-types/"><u>Unraveling EXE and MSI Software Package Types</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-virtual-future-the-metaverse-explored/"><u>Unveiling The Virtual Future: The Metaverse Explored</u></a></li>
+</ul></div>
 

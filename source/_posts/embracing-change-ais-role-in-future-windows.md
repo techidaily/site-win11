@@ -1,7 +1,7 @@
 ---
 title: "Embracing Change: AI's Role in Future Windows"
-date: 2024-11-16T01:04:46.746Z
-updated: 2024-11-18T05:17:03.007Z
+date: 2024-11-26T19:12:31.878Z
+updated: 2024-11-28T00:59:08.117Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI-powered PCs will become more capable as NPUs reduce strain on the CPU and GPU.
@@ -28,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 * Windows AI Studio will make it easier for developers to use AI in their applications.
 
  Microsoft first began to push the idea of AI-powered Windows in 2024 as the "New Era of Work" — but what is Windows 11 AI? It's a complex mix of innovation and includes AI-powered PCs, integrated Copilot, and Windows AI Studio. Here's some of what you can expect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Is the Future of Windows 11 AI?
 
@@ -46,16 +43,13 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
  It's possible that the way Windows 11 uses AI will change as the technology evolves. Right now, Microsoft is introducing AI-powered PCs, integrated Windows Copilot, AI software, and even adaptive accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI-Powered PCs
 
 ![Microsoft Copilot key on the Tecno Megabook T16 Pro](https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe58471df92be6395b51c092b0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
 
@@ -79,6 +73,10 @@ Microsoft
 
 ![a user prepares to click on a prompt from microsoft copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-user-prepares-to-click-on-a-prompt-from-microsoft-copilot.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows Copilot is meant to enhance productivity and creativity through convenience — and soon, you're likely to see the AI tool integrated into Microsoft 365 products. Currently, you can quickly[access Windows Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) at any time by clicking on it in the application's toolbar.
 
  Fantastic integration is what makes Copilot truly stand out, however. You can summarize long email threads or draft emails with Copilot in Outlook or quickly generate meeting notes with Copilot for Teams. In the future, we're likely to see more Copilot integrations as the product expands.
@@ -90,10 +88,7 @@ Microsoft
  Essentially, Windows AI Studio will provide an aggregated catalog of tools from Azure AI Studio and other sources, making it simpler for you to find and fine-tune the right SLM. With all of that heavy lifting out of the way, you'll have more time to focus on the heart of your project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Current and Older PCs Support Windows AI?
@@ -105,10 +100,7 @@ Microsoft
  Older devices will certainly have access to non-OS AI integrations, too. You might already see Copilot integrated into many of your Microsoft Office apps, and you can also[access AI tools through the web](https://www.makeuseof.com/best-ai-web-apps/) . Considering that Windows 10 still has an enormous market share, it's likely that most new AI features for Microsoft software will be supported, too.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Windows 11 With AI Be Worth Using?
@@ -130,19 +122,21 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-supercharge-your-online-sales-strategy-with-the-best-15-social-media-insight-apps/"><u>[Updated] 2024 Approved Supercharge Your Online Sales Strategy with the Best 15 Social Media Insight Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-cinematography-youtube-guides-by-aspiring-directors/"><u>2024 Approved Mastering Cinematography YouTube Guides by Aspiring Directors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287542267-dvd/"><u>全体的なプレイヤー互換性ガイド: DVD、オーディオビデオ、動画再生手順の完全カタログ</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-git-proficiency-with-github-desktop-on-windows-11/"><u>Boost Your Git Proficiency with Github Desktop on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-epson-wf-3540-windows-printer-drivers-how-to-guide/"><u>Installing the Epson WF-3540 Windows Printer Drivers - How to Guide</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/metodos-sencillos-para-mover-tu-sistema-operativo-windows-10-al-disco-duro-ssd-samsung-sin-la-necesidad-de-reiniciar/"><u>Métodos Sencillos Para Mover Tu Sistema Operativo Windows 10 Al Disco Duro SSD Samsung Sin La Necesidad De Reiniciar</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-spotify-connection-failures-on-win11/"><u>Navigating Through Spotify Connection Failures on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-hurdles-of-reverting-folders-to-read-only/"><u>Overcoming the Hurdles of Reverting Folders to Read-Only</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-black-ops-cold-war-fixing-the-infamous-ui-error-27711/"><u>Resolved: Black Ops Cold War - Fixing the Infamous UI Error #27711</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-solve-the-email-fault-caused-by-0x800713f-on-win11/"><u>Steps to Solve the Email Fault Caused by 0X800713F on Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-facebook-exploring-the-roots-fanbase-reasons-and-critical-features/"><u>The Evolution of Facebook: Exploring the Roots, Fanbase Reasons, and Critical Features</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-fix-wrongly-entered-characters-in-windows/"><u>Tips to Fix Wrongly Entered Characters in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-install-errors-win11/"><u>Understanding and Correcting Windows Install Errors (Win11)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-posting-a-youtube-video-via-insta-stories-a-step-by-step-guide-for-2024/"><u>[New] Posting a YouTube Video via Insta Stories A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigate-your-newly-enjoyed-facebook-movies-with-this-2023-guide-for-2024/"><u>[Updated] Navigate Your Newly Enjoyed Facebook Movies with This 2023 Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-automated-mac-lecture-recording-for-2024/"><u>[Updated] The Ultimate Guide to Automated Mac Lecture Recording for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-discover-everything-in-stardews-hidden-gem-ginger-isle/"><u>2024 Approved Discover Everything in Stardew's Hidden Gem, Ginger Isle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>2024 Approved From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-quickly-launch-apps-on-windows-11/"><u>5 Ways to Quickly Launch Apps on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/7-actionable-tips-to-reduce-gaming-pcs-gui-load/"><u>7 Actionable Tips to Reduce Gaming PC's GUI Load</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-domain-services-print-problems-in-win11/"><u>Addressing Domain Services Print Problems in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-dll-issue-in-windows-810/"><u>Addressing Missing DLL Issue in Windows 8/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-potential-upsides-and-downsides-for-writers-using-chatgpt-technology/"><u>Assessing the Potential Upsides & Downsides for Writers Using ChatGPT Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/asus-s15-oled-a-blend-of-class-and-convenience-for-students/"><u>Asus S15 OLED - A Blend of Class and Convenience for Students</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-most-common-blunders-for-first-timers-with-windows-11/"><u>Avoiding the Most Common Blunders for First-Timers with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/batch-operations-brilliance-shutting-down-windows-instances/"><u>Batch Operations Brilliance: Shutting Down Windows Instances</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-civi-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Civi 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-safety-my-experience-testing-out-face-recognition-smart-lock-and-how-it-blew-other-devices-away-tech-digest/"><u>Revolutionizing Home Safety: My Experience Testing Out Face-Recognition Smart Lock & How It Blew Other Devices Away | Tech Digest</u></a></li>
 </ul></div>
 

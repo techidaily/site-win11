@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Security: Top 7 Windows Defense Methods"
-date: 2024-09-11T09:30:06.527Z
-updated: 2024-09-12T09:30:06.527Z
+date: 2024-11-26T20:41:50.833Z
+updated: 2024-11-28T01:33:51.058Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the Point of Security Measures Against Unauthorized Windows Access?
@@ -35,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
  Putting in strong checks against such attacks, therefore, is essential. Let's look at all possible options on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use a Strong PIN or Password
 
  Passwords are often the first things that spring to mind when you think of security. It's for a good reason.
@@ -43,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
 [Setting up a PIN on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) is slightly different from putting a password on Windows. While both carry out a similar function, you might prefer one over the other depending on your interests. Whatever option you pick, make sure you always have a strong account encryption set up for your Windows from here on.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Up Two-Factor Authentication on Your Microsoft Account
 
  Two-factor authentication (2FA) is a common defense tactic for improving your account's security. As its name suggests, 2FA works by requiring two contact methods: your password and a contact method (which will be a security code sent to your phone or email).
@@ -57,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  So, after you have set up 2FA, even if someone manages to figure out your password, they will also need the contact code that's received to your email or phone after you enter the password. Naturally, this makes unauthorized access to your Windows account extremely difficult.
 
  You can check out how to do this and more as part of our [tricks to keep your Outlook and Microsoft accounts secure](https://www.makeuseof.com/tag/tricks-outlook-microsoft-account-secure/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Windows Security
 
@@ -68,22 +66,12 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
 ![windows firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/winodws-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another critical aspect of Windows security, or any network for that matter, is a firewall. A firewall works by monitoring the traffic going in and out of your PC. Depending on the set rules, a firewall works by quickly blocking out any unauthorized entering or leaving of data from your PC.
 
  On Windows, this firewall is called the Windows Firewall, which you can enable or disable with the help of Windows Security. So be sure to [set up Windows Firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) and you will be good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use BitLocker
@@ -91,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  BitLocker works by encrypting the disk data on your Windows and works as a great second layer of defense. So, even if someone manages to access your PC, in the case of a theft, for example, they won't be able to access your data without a key.
 
  As such, [enabling BitLocker on Windows](https://www.makeuseof.com/bitlocker-windows-11-guide/) is a great hack to boost your computer's security.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Keep Your Windows Updated
 
@@ -111,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
 ![man looking at laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-looking-at-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) is about using clever hacks and manipulating people into giving or stealing their personal information. It makes use of the common weaknesses in human nature to break into otherwise strong systems.
 
  While it is a massive topic in itself, we will give you three quick tips to stay safe from social engineering hacks:
@@ -130,13 +104,15 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
  Because social engineering scams involve fooling humans, there are limited tech hacks to counter them. In fact, the most significant way to avoid them is by being mindful of the present moment and refraining from taking instant reactions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best Ways to Stop Unauthorized Access to Your Windows Computer
 
  Your Windows is a goldmine for all sorts of data and information. Indeed, in the wrong hands, it can make things very difficult for you. Putting in measures that save you from unauthorized access is therefore a necessity, not a privilege.
 
  This is what makes preventing unauthorized access so important. So, how can you protect yourself from an uninvited digital guest? Let's learn how.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +120,27 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-unleashing-instagrams-filter-power-free-searches-revealed-for-2024/"><u>[New] Unleashing Instagram's Filter Power – Free Searches Revealed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-endless-video-recording-program/"><u>[Updated] Endless Video Recording Program</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/"><u>Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-gaming-experience-speedy-steam-content-on-windows/"><u>Enhance Gaming Experience: Speedy Steam Content on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-update-directly-speak-with-chatgpt/"><u>Exciting Update: Directly Speak With ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-extra-screen-problems-in-windows-11/"><u>Fix Extra Screen Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-internet-browsing-to-desktop-utility/"><u>From Internet Browsing to Desktop Utility</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a34-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A34 5G Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-launch-into-windows-11s-beta-experience/"><u>How to Launch Into Windows 11'S Beta Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-a79-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo A79 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-monochrome-modification/"><u>In 2024, Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-open-source-gaming-soundtracks-library/"><u>In 2024, Open Source Gaming Soundtracks Library</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-15-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 15 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-printer-management-system/"><u>Navigating Through Windows' Printer Management System</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-closed-off-email-in-windows-11/"><u>Restoring Closed-Off Email in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-standard-plan-configurations-for-power/"><u>Restoring Standard Plan Configurations for Power</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-windows-experience-key-filter-adjustments/"><u>Tailoring Your Windows Experience: Key Filter Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-windows-headset-microphone-blackout/"><u>Troubleshoot Windows Headset Microphone Blackout</u></a></li>
+</ul></div>
+

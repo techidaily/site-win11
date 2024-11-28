@@ -1,7 +1,7 @@
 ---
 title: Unlocking WinOS Command Power over Applications, Browsing
-date: 2024-11-10T22:56:02.798Z
-updated: 2024-11-18T08:57:10.747Z
+date: 2024-11-26T16:58:54.409Z
+updated: 2024-11-28T03:48:31.534Z
 tags:
   - windows10
   - windows11
@@ -25,18 +25,15 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is App and Browser Control?
 
  First introduced with the Windows 10 Creator's update in 2017, the**App & browser control** feature has made a long way since then—it's now part of Windows 11 Windows Security as well.
 
  The tool is part of Windows Security, the in-built Windows antivirus program. It offers three distinct sections that work in tandem to protect you from malicious apps and websites: Smart App Control, Reputation-based protection, and Exploit protection—each with a different but critical part to play. To enable and get the most out of the App and browser control, then, you will need to tweak the settings of individual sections. So let's cover all of them one by one.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Smart App Control
 
@@ -56,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  Moreover, if the Smart App Control feature is turned off, you must do a clean Windows reinstall to turn it on again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Reputation-Based Protection
 
  Reputation-based protection works, as its name suggests, by relying on the reputation of the websites in Microsoft's index.
@@ -78,19 +68,24 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check Apps and Files
 
  When you have the Check apps and files button toggled on, the Microsoft Defender SmartScreen will protect your important files and apps on the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Phishing Protection
 
@@ -115,10 +110,7 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
  As the name suggests, when you have SmartScreen for Microsoft Store apps turned on, the SmartScreen will filter out any malicious content accessed by Microsoft Store apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Exploit Protection
@@ -150,20 +142,17 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-techniques-capturing-teams-screen-content-for-2024/"><u>[New] Advanced Techniques Capturing Teams' Screen Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ipad-timelapse-a-beginners-handbook-to-filming/"><u>[Updated] IPad Timelapse A Beginner's Handbook to Filming</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/creative-tims-vuetify-material-professional-ui-kit-ultimate-vuejs-dashboard-solution-for-web-developers/"><u>Creative Tim's Vuetify Material Professional UI Kit - Ultimate Vuejs Dashboard Solution for Web Developers</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-digital-life-with-exclusive-ms-choice/"><u>Elevate Your Digital Life with Exclusive MS Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-decrease-extras-in-win-11-context-list/"><u>How to Decrease Extras in Win 11 Context List</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco M6 Pro 4G</u></a></li>
-<li><a href="https://win-web.techidaily.com/mein-pc-funktioniert-nicht-mehr-nach-dem-windows-11-update-was-nun/"><u>Mein PC Funktioniert Nicht Mehr Nach Dem Windows 11 Update – Was Nun?</u></a></li>
-<li><a href="https://win11.techidaily.com/modifying-oculus-quest-2-for-windows-vr-use/"><u>Modifying Oculus Quest 2 for Windows VR Use</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-absence-of-monitor-on-startup/"><u>Remedy for Absence of Monitor on Startup</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/stealth-mode-hiding-or-revealing-windows-protection-sectors/"><u>Stealth Mode: Hiding or Revealing Windows Protection Sectors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/study-hacks-gone-wrong-steering-clear-of-misusing-chatgpt-as-a-student/"><u>Study Hacks Gone Wrong: Steering Clear of Misusing ChatGPT as a Student</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/winerror-solved-addressing-ms-store-0x80072f17/"><u>WinError Solved: Addressing MS Store 0X80072f17</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-restoring-missing-sounds-in-obs-recordings/"><u>[New] 2024 Approved Restoring Missing Sounds in OBS Recordings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-new-take-on-favorite-movies-7-alternatives-for-2024/"><u>[Updated] A New Take on Favorite Movies - #7 Alternatives for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-online-friends-error-in-windows-11/"><u>Fixing Steam Online Friends Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-microsofts-windows-safe-mode-outlook-problem/"><u>Handling Microsoft's Windows-Safe Mode Outlook Problem</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-will-social-media-giants-influence-local-retail-spaces/"><u>How Will Social Media Giants Influence Local Retail Spaces?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-world-of-warcraft-frame-rate-optimization-essential-strategies-for-a-better-gaming-experience/"><u>Mastering World of Warcraft Frame Rate Optimization: Essential Strategies for a Better Gaming Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-the-social-maze-tweets-plus-tumble-videos/"><u>Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-policies-to-reactivate-running-scripts-in-ps/"><u>Navigating Windows Policies to Reactivate Running Scripts in PS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-difficulties-solving-the-six-principal-issues-you-might-encounter/"><u>Overcoming iPhone 13 Difficulties: Solving the Six Principal Issues You Might Encounter</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-privilege-power-ensuring-windows-terminal-is-admin/"><u>Proactive Privilege Power: Ensuring Windows Terminal Is Admin</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-farsis-roots-benefits-of-mastery/"><u>Unveiling Farsi's Roots: Benefits of Mastery</u></a></li>
 </ul></div>
 

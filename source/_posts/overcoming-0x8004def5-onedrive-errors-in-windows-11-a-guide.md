@@ -1,7 +1,7 @@
 ---
 title: "Overcoming 0X8004DEF5: OneDrive Errors in Windows 11 - A Guide"
-date: 2024-11-10T19:42:20.758Z
-updated: 2024-11-18T02:14:06.158Z
+date: 2024-11-27T01:08:25.855Z
+updated: 2024-11-28T04:13:06.488Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8d1de21c666386207e0a2c0896dc0647ebc82a413
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Terminate OneDrive and Restart the App
 
  Before trying out any complex fixes, you must terminate all the active instances of OneDrive. After that, restart it to check if it connects with the server. Here's how:
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/8d1de21c666386207e0a2c0896dc0647ebc82a413
 5. Open the Start menu and type OneDrive. Click on the**Open** option and check if the error pops up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check if OneDrive Servers Are Down
@@ -63,33 +64,16 @@ thumbnail: https://thmb.techidaily.com/8d1de21c666386207e0a2c0896dc0647ebc82a413
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now, launch OneDrive and check if you can access your files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Switch Network Connections
 
  It is possible that your current ISP, or the network you are connected to, blocks Microsoft's servers. Many users shared they were able to fix the issue when they switched to another network. You can simply create a wireless hotspot from your phone or use USB tethering to share the internet with your Windows computer.
 
  After that, relaunch the OneDrive app and check if you can access your files on the network. You can also request your ISP to remove the block on your connection to access the OneDrive servers seamlessly in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clear OneDrive Logs
 
@@ -116,6 +100,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 ![Reset OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-1.jpg)
 4. Close the app after you see the "Reset completed" message. Restart your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall OneDrive Using Winget
 
  If resetting the app didn't work, consider a complete reinstall. It will fix any underlying corruption with the app files and install the latest version on your system. Here's how to do it with the Winget tool:
@@ -132,16 +120,13 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 ![Reinstall OneDrive 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-2.jpg)
 3. Wait for the tool to download and install OneDrive on your system. You don't need to interact with the installer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Close** the command prompt window after seeing the "**Successfully installed** " message.
 5. Launch OneDrive. You will have to**sign in** with your account.
 6. Check if you can connect and browse your files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Rollback Windows Updates
 
@@ -150,6 +135,10 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make OneDrive Functional Again
 
@@ -170,20 +159,22 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-social-connectivity-with-downloader-tools/"><u>[New] 2024 Approved Unlock Social Connectivity with Downloader Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>[Updated] In 2024, The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-master-video-cutting-with-vivacut-detailed-review-and-guidebook-24/"><u>2024 Approved Master Video Cutting with VivaCut Detailed Review & Guidebook '24</u></a></li>
-<li><a href="https://win11.techidaily.com/address-extra-monitor-issue-on-w11-os/"><u>Address Extra Monitor Issue on W11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/dont-double-dip-the-case-against-two-antiviruses/"><u>Don't Double Dip: The Case Against Two Antiviruses</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-affordability-and-reliability-of-thermopro-tp67-meat-thermometer/"><u>Evaluating the Affordability and Reliability of ThermoPro TP67 Meat Thermometer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-downloads-folder-not-responding-on-windows/"><u>How to Fix the Downloads Folder Not Responding on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-k11x-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo K11x to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-not-alerting-with-ringtones-fix-the-problem-in-simple-steps/"><u>IPhone Not Alerting with Ringtones? Fix the Problem in Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/linuxs-rise-is-wsl-a-factor/"><u>Linux's Rise: Is WSL a Factor?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-imessage-on-your-ipad-beginners-guide/"><u>Mastering the Art of iMessage on Your iPad - Beginner's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-hardware-requirements-for-games/"><u>Resolving Windows Hardware Requirements for Games</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-protection-enable-windows-11s-controlling-access/"><u>Setting Up Protection: Enable Windows 11’S Controlling Access</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-windows-technique-for-mkv-to-mp4-change/"><u>Step-by-Step Windows Technique for MKV to MP4 Change</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-ranking-videos-youtubes-everlasting-classics-for-2024/"><u>[New] High-Ranking Videos YouTube’s Everlasting Classics for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-rl-recording-techniques/"><u>[New] Mastering RL Recording Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>[New] Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/alent-hunters-unite-top-10-video-roundup/"><u>[New] Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-free-guide-to-capturing-windows-3-quick-steps/"><u>[Updated] Free Guide to Capturing Windows (3 Quick Steps)</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-thx-audio-malfunction-in-windows/"><u>Correcting THX Audio Malfunction in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-brother-hl-l2300d-driver-version-for-smooth-printing-experience/"><u>Get the Newest Brother HL-L2300D Driver Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-windows-application-tracking-feature/"><u>Halt Windows Application Tracking Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-savings-tap-into-w11-pro-offers/"><u>Optimize Savings: Tap Into W11 Pro Offers</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-pc-with-windows-visual-treasures-in-backgrounds/"><u>Personalizing Your PC with Windows' Visual Treasures in Backgrounds</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/precision-driven-phone-data-extractor-kit/"><u>Precision-Driven Phone Data Extractor Kit</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-not-available-in-windows-os/"><u>Resolving Network Not Available in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/shadows-no-more-restore-your-lost-windows-on-win10win11/"><u>Shadows No More: Restore Your Lost Windows on Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/skirt-sie-on-windows-installing-and-updating-unsigned-drivers/"><u>Skirt SIE on Windows: Installing and Updating Unsigned Drivers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/uncharted-territories-the-ultimate-guide-to-iphone-vr-games-for-2024/"><u>Uncharted Territories The Ultimate Guide to iPhone VR Games for 2024</u></a></li>
 </ul></div>
 

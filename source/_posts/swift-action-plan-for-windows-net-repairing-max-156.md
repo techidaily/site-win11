@@ -1,7 +1,7 @@
 ---
 title: Swift Action Plan for Windows .NET Repairing (Max 156)
-date: 2024-11-13T21:53:28.128Z
-updated: 2024-11-18T06:38:26.962Z
+date: 2024-11-26T03:16:47.494Z
+updated: 2024-11-27T20:16:30.526Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the .NET Framework Repair Tool
 
@@ -56,6 +60,10 @@ To run the .NET Framework Repair Tool
 6. Click**OK** .  
 ![turn windows features on or off disable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-disable-net-framework-3_5-4_8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will disable**.NET Framework** from your PC and show**Windows completed the requested changes** message. Click**Restart Now** to apply the changes.
 
 After the restart:
@@ -65,13 +73,6 @@ After the restart:
 3. Click**OK** .  
 ![turn windows features on or off enable NET framework 3_5 4_8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8.jpg)
 4. Next, click on**Let Windows update download the files for you** . This process may take some time, depending on your Internet connection speed.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![turn windows features on or off enable NET framework 3_5 4_8 let windows update download files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-windows-features-on-or-off-enable-net-framework-3_5-4_8-let-windows-update-download-files.jpg)
 5. Once the feature is enabled, click**Restart** to apply the changes.
@@ -88,26 +89,16 @@ After the restart:
 ![uninstall dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/uninstall-dot-net-framework-powershell.jpg)
 5. PowerShell will now start to uninstall the .NET Framework from your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![install microsoft dot net framework powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-microsoft-dot-net-framework-powershell.jpg)
 6. Next, type the following command to install the latest version of Microsoft .NET Framework:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `winget install Microsoft.dotNetFramework`
 7. PowerShell will download and extract the package. You will see a successfully installed message once the process is complete.
 8. Restart your PC to apply the changes and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Manually Install an Older .NET Framework Version
 
@@ -123,15 +114,16 @@ To manually install older versions of the .NET Framework:
 6. Restart your PC and then try to install the app to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the System File Checker Tool
 
 ![run system file check dism windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-system-file-check-dism-windows-11.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The System File Checker tool is a built-in system repair utility that finds and fixes missing or corrupted system files. You can use the tool to fix any system issues that may conflict with the .NET Framework.
 
@@ -166,24 +158,18 @@ To run the System File Checker tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-spotifys-advertising-opportunities-a-roadmap/"><u>[New] Unlocking Spotify’s Advertising Opportunities A Roadmap</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elite-5-earbuds-youtubes-best-companions-for-2024/"><u>[Updated] Elite 5 Earbuds YouTube's Best Companions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/3-key-steps-for-a-quick-return-to-desktop-in-wins-1011/"><u>3 Key Steps for a Quick Return to Desktop in Wins 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-ntoskrnlexe-overload-issue/"><u>Addressing Ntoskrnl.exe Overload Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-v29-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo V29 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/best-web-browsing-practices-minimizing-resources-across-platforms/"><u>Best Web Browsing Practices: Minimizing Resources Across Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-ways-to-repair-your-gaming-controllers-step-by-step-guide/"><u>Effortless Ways to Repair Your Gaming Controllers | Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/erasing-email-on-windows-sign-in-a-guide/"><u>Erasing Email on Windows Sign-In: A Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-advantages-choosing-handheld-gaming-devices-over-traditional-desktops/"><u>Exploring the Advantages: Choosing Handheld Gaming Devices over Traditional Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-handle-unsupported-devices-warning-when-upgrading-windows/"><u>How to Handle Unsupported Devices Warning When Upgrading Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y27s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y27s Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-navigating-the-world-of-asmr-videos/"><u>In 2024, Navigating the World of ASMR Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-virtual-world-bliss-an-lg-360-vr-reveal/"><u>In 2024, Virtual World Bliss An LG 360 VR Reveal</u></a></li>
-<li><a href="https://blog-min.techidaily.com/jpggif-movavi/"><u>JPG画像からGIFに自由に変換 - Movavi無料オンラインツール</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-navigation-for-uwp-apps-with-windows-11-links/"><u>Rapid Navigation for UWP Apps with Windows 11 Links</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstalling-the-redundant-or-missing-windows-tools-and-add-ons/"><u>Reinstalling the Redundant or Missing Windows Tools & Add-Ons</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-up-against-silence-fixes-to-free-your-spacebar/"><u>Speak Up Against Silence: Fixes to Free Your Spacebar</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-smooth-directx-installation-on-pc/"><u>Step-by-Step Guide to Smooth DirectX Installation on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-a-profitable-youtube-content-strategy/"><u>[Updated] In 2024, Crafting a Profitable YouTube Content Strategy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-precisionsync-analyst-perspectives/"><u>[Updated] PrecisionSync Analyst Perspectives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vsf-video-capture-insights-a-critical-look/"><u>[Updated] VSF Video Capture Insights A Critical Look</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dayz-first-person-shooter-drop-rate-woes-solved-with-simple-tips/"><u>DayZ First-Person Shooter: Drop Rate Woes Solved with Simple Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-received-gifts-the-joy-of-openness/"><u>In 2024, Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-warframes-recurring-stalling-performance-bottlenecks/"><u>Resolving Warframe's Recurring Stalling Performance Bottlenecks</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-snipkey-shortcut-woes/"><u>Restoring Functionality: SnipKey Shortcut Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-network-status-on-disconnected-pc/"><u>Reviving Network Status on Disconnected PC</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-upgrade-for-your-computers-double-click-rate/"><u>Speedy Upgrade for Your Computer's Double Click Rate</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-top-videomodding-apps-on-win11/"><u>Streamline Your Workflow With Top Videomodding Apps on Win11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-list-of-free-got-tune-sources/"><u>Ultimate List of Free GoT Tune Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttering-stacked-icons-on-modern-desktop-ui/"><u>Uncluttering Stacked Icons on Modern Desktop UI</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-windows-camera-a-fixers-manual/"><u>Unlock the Secrets of Windows Camera: A Fixer’s Manual</u></a></li>
 </ul></div>
 

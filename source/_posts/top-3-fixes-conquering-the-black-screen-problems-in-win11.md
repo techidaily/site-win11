@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Fixes: Conquering the Black Screen Problems in Win11"
-date: 2024-11-13T09:57:17.019Z
-updated: 2024-11-18T01:22:53.548Z
+date: 2024-11-20T22:47:49.350Z
+updated: 2024-11-28T01:13:47.843Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is My Windows 10/11 Stuck on a Black Screen With Cursor?
 
  This issue is characterized by a blank black screen with nothing but a cursor on display. You can’t use your PC, you can’t log in, and may not be able to shut down your device.
@@ -37,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Download & Install PassFab FixUWin
 
 ![download fixuwin on website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-fixuwin.jpg)
@@ -52,39 +49,31 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Create a New Windows Boot Disk/Drive
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It will take a few minutes to create your new boot device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
 
@@ -105,10 +94,7 @@ It will take a few minutes to create your new boot device.
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Reboot Windows in Safe Mode
@@ -136,24 +122,19 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-10-photo-grid-apps-to-make-your-pictures-stand-out/"><u>[New] In 2024, Top 10 Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-miniscreen-capture-scrutiny-and-replacements/"><u>[New] MiniScreen Capture Scrutiny and Replacements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-in-depth-exploration-of-razers-kiyo-cam/"><u>[Updated] 2024 Approved In-Depth Exploration of Razer's Kiyo Cam</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-perfectly-log-off-video-conferencing-on-devices/"><u>[Updated] In 2024, How to Perfectly Log-Off Video Conferencing on Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-multimedia-content-putting-photos-together-on-insta-story-for-2024/"><u>[Updated] Mastering Multimedia Content Putting Photos Together on Insta Story for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-scripting-significant-soliloquies/"><u>[Updated] Scripting Significant Soliloquies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-for-youtube-video-shooting/"><u>[Updated] Tips for YouTube Video Shooting</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-boot-virtual-machine-troubles-with-vmware-on-win11/"><u>Fixing Non-Boot Virtual Machine Troubles with VMware on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-create-a-dynamic-display-windows-11s-rgb-lighting/"><u>How to Create a Dynamic Display: Windows 11'S RGB Lighting</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-side-by-side-configuration-is-incorrect-error-on-windows/"><u>How to Fix the “Side-by-Side Configuration Is Incorrect” Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-zoom-error-code-1132-in-windows-10-and-11/"><u>How to Fix Zoom Error Code 1132 in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-the-google-play-store-on-windows-11/"><u>How to Install the Google Play Store on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-freeze-in-epic-games-launcher-on-pcs/"><u>Preventing Freeze in Epic Games Launcher on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-windows-for-contactless-entry-methods/"><u>Setting Up Windows For Contactless Entry Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-batch-jobs-leveraging-task-scheduler/"><u>Supercharge Batch Jobs: Leveraging Task Scheduler</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-command-prompt-gimmicks-unleashed/"><u>Top 5 Command Prompt Gimmicks Unleashed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-in-your-computers-power-on-self-test-post/"><u>Troubleshooting Common Issues in Your Computer's Power-On Self Test (POST)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-racing-game-anthology-the-top-five/"><u>[New] In 2024, Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-guide-assessing-vidmas-video-capture-capabilities/"><u>[Updated] In 2024, Ultimate Guide Assessing Vidma's Video Capture Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/10-early-symptoms-of-windows-needing-a-fresh-start/"><u>10 Early Symptoms of Windows Needing a Fresh Start</u></a></li>
+<li><a href="https://win11.techidaily.com/5-stealthy-ways-win11-accesses-your-details/"><u>5 Stealthy Ways Win11 Accesses Your Details</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/art-software-showdown-windows-programs-vs-procreate/"><u>Art Software Showdown: Windows Programs Vs. Procreate</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-loading-lag-quick-fix-for-lol-on-win/"><u>Avoid Loading Lag: Quick Fix for LOL on Win</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-glitches-enabling-latest-emojis-on-windows-11/"><u>Avoiding Glitches: Enabling Latest Emojis on Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-ranked-automated-video-editing-tools-discover-the-5-leading-ai-applications/"><u>Best Top-Ranked Automated Video Editing Tools: Discover the 5 Leading AI Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-cs2-performance-effective-fixes-for-optimizing-fps-and-reducing-lags/"><u>Boost Your CS2 Performance: Effective Fixes for Optimizing FPS and Reducing Lags</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-11-security-upgrading-pin-length/"><u>Boosting Windows 11 Security: Upgrading PIN Length</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/elevating-computer-speed-the-cpu-update-path/"><u>Elevating Computer Speed: The CPU Update Path</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/fast-and-easy-guide-how-to-perform-a-quick-hard-drive-image-recovery-on-windows-11-and-10/"><u>Fast & Easy Guide: How to Perform a Quick Hard Drive Image Recovery on Windows 11 and 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-free-clip-art-for-your-designs-for-2024/"><u>Unlocking Free Clip-Art for Your Designs for 2024</u></a></li>
 </ul></div>
 

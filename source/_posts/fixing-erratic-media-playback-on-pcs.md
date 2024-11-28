@@ -1,7 +1,7 @@
 ---
 title: Fixing Erratic Media Playback on PCs
-date: 2024-09-11T09:30:07.319Z
-updated: 2024-09-12T09:30:07.319Z
+date: 2024-11-20T20:31:50.334Z
+updated: 2024-11-27T22:48:22.325Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Convert the Media File to a Compatible Format
 
  The error code 0xc10100bf often appears when attempting to play a media file that is incompatible with your media player. One simple solution is to convert the file into a format supported by your media player, allowing you to play it smoothly without encountering any playback errors.
@@ -36,25 +40,16 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![Add the targeted file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/drop-the-file.jpg)
 4. Now, expand the **Format** section to pick the desired format.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then, expand the **Presets** section on the right-hand side and choose an output that is compatible with your media player.  
 ![Choose a preset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-preset.jpg)
 6. If you want to set a Preset as the default preference, click on **Manage Presets**, choose the desired option, and click on **Set as default**.  
-![Set a preset as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-preset-default.jpg)
-7. Configure additional settings according to your preferences. This is optional, so you can also choose the default preset settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Set a preset as default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-preset-default.jpg)
+7. Configure additional settings according to your preferences. This is optional, so you can also choose the default preset settings.
 
 8. Click on the **Start Encode** button and wait for the tool to start re-encoding the media file into the desired format.
 
@@ -76,22 +71,8 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 ![Choose Troubleshooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-on-troubleshooting.jpg)
 4. Move to the right pane and click **View all**.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Click on the Windows Media Player settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-media-player-settings.jpg)
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
@@ -111,13 +92,14 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check for File Corruption
 
@@ -127,18 +109,15 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
 
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Different Ways to Fix the 0xc10100bf Error
 
@@ -148,11 +127,29 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  Below, we walk you through the different solutions you can try to fix the issue for good, and run your media files without any problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-become-an-efficient-time-warrior-with-these-15-task-packed-listening-habits/"><u>[New] Become an Efficient Time Warrior with These 15 Task-Packed Listening Habits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-pan-and-tilt-for-clearer-captures/"><u>[New] Perfect Pan & Tilt for Clearer Captures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevating-your-content-with-instagram-videos/"><u>[Updated] Elevating Your Content with Instagram Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-balance-visuals-and-sound-in-media-creation/"><u>[Updated] In 2024, Mastering the Balance Visuals and Sound in Media Creation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-techniques-for-snapping-photos-of-your-computer-display/"><u>Effortless Techniques for Snapping Photos of Your Computer Display</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-automatically-minimizing-programs/"><u>How to Fix Windows Automatically Minimizing Programs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y200-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y200 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-10-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 10 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-geniuses-at-your-service-free-of-charges/"><u>Joke Geniuses at Your Service Free of Charges</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-clicking-at-a-comfortable-rate-deactivating-mouse-speed-on-windows-11/"><u>Keep Clicking at a Comfortable Rate: Deactivating Mouse Speed on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/off-facebook-insights-what-they-reveal-and-when-to-turn-them-off/"><u>Off-Facebook Insights What They Reveal & When to Turn Them Off</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-a-silent-firewall-in-windows-os/"><u>Overcoming a Silent Firewall in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-file-history-glitches-in-windows-108/"><u>Steps to Correct File History Glitches in Windows 10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-fix-for-windows-flickering-issue/"><u>Systematic Fix for Windows Flickering Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-full-potential-in-windows-11s-entry-point/"><u>Unlocking Full Potential in Windows 11'S Entry Point</u></a></li>
+</ul></div>
+

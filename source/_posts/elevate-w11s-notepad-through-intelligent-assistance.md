@@ -1,7 +1,7 @@
 ---
 title: Elevate W11's Notepad Through Intelligent Assistance
-date: 2024-09-05T08:40:40.298Z
-updated: 2024-09-06T08:40:40.298Z
+date: 2024-11-26T03:13:49.686Z
+updated: 2024-11-28T04:20:15.517Z
 tags:
   - windows10
   - windows11
@@ -14,20 +14,8 @@ keywords: Notebook Enhancement,AI Assisted Productivity,SmartNotepad Upgrade,Ele
 thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a757fb94ecaebe8d1775e8b5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Elevate W11's Notepad Through Intelligent Assistance
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Decode Log Files, Error Messages, or Code Snippets](#decode-log-files-error-messages-or-code-snippets)
@@ -46,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  From demystifying error messages to suggesting code improvements, here are three ways Copilot can supercharge your Notepad experience.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Decode Log Files, Error Messages, or Code Snippets
 
 [Microsoft announced](https://blogs.windows.com/windows-insider/2024/02/08/snipping-tool-and-notepad-updates-begin-rolling-out-to-windows-insiders/) a new “Explain with Copilot” integration that allows Notepad to interface with Microsoft’s powerful Copilot AI assistant. Now, instead of racking your brain when opening an indecipherable error log or code snippet in Windows Notepad, you can highlight the text, right-click, and select **Explain with Copilot**.
@@ -70,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
 
  Notepad wasn't designed as a full-fledged code editor. As a developer, you can access far more robust tools like [integrated development environments (IDEs) and dedicated text editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) and other systems explicitly built for writing and managing code. Things like handling different newline formats have plagued Notepad for ages.
@@ -89,27 +65,13 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ![Microsoft Copilot explaining a VBScript code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-a-vbscript-code-highlighted-in-windows-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After Copilot explained the code snippet, I asked if it was okay for execution. The AI assistant said it was good to go and explained how I could get it to run.
 
 ![A conversation between the author and Microsoft Copilot regarding code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/a-conversation-between-the-author-and-microsoft-copilot-regarding-code-highlighted-in-windows-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here’s how it turned out.
 
 ![An executed VBScript code placed beside the VBS file on the Windows Desktop homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-executed-vbscript-code-placed-beside-the-vbs-file-on-the-windows-desktop-homepage.jpg)
@@ -125,19 +87,15 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ![Microsoft Copilot explaining and summarizing a section of a research work highlighted in Windows Notepad.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-and-summarizing-a-section-of-a-research-work-highlighted-in-windows-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Between its unmatched speed for opening and lightweight footprint, Notepad has always been ideal for quickly getting words onto the screen. With Copilot’s AI smarts, it becomes an all-purpose text utility that can decode nearly any subject.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Copilot Enhances Notepad’s Simplicity With AI Power
 
  Notepad has been a comforting constant in the evolving Windows ecosystem for decades. [From Windows 95 to today’s Windows 11](https://www.makeuseof.com/windows-brief-history/), this humble text editor has remained delightfully simple—a true rarity in our age of bloated apps and excessive features.
@@ -146,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 ![An open tab in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-open-tab-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And while Microsoft could have reinvented the wheel, the Copilot integration wisely keeps Notepad’s iconic simplicity intact. This AI assistant operates behind the scenes, ready to lend its smarts when needed but never intrusive or altering Notepad’s essence.
 
  The integration is entirely optional, allowing Notepad to remain your trusty, lightweight note-taking companion. But with a quick shortcut, Copilot unlocks powerful capabilities—decoding confusing text, suggesting code improvements, and even summarizing dense documents.
 
  It’s a refreshing blend of nostalgia and innovation for long-time Windows users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Criticisms of the Copilot and Windows Notepad integration
 
@@ -164,11 +130,30 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  However, if you’re seeking to decode complex logs, code, or text without leaving Notepad’s familiar confines, this AI-powered addition could be a game-changing time saver, providing a best-of-both-worlds blend of AI superpower and classic simplicity. Give it a try and see how it can streamline your Notepad workflow.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-5-must-try-tiktok-food-challenges/"><u>[New] 2024 Approved 5 Must-Try TikTok Food Challenges</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overcoming-challenges-in-ppt-screen-capture/"><u>[New] Overcoming Challenges in PPT Screen Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-instruction-loading-windows-movie-maker-60-for-2024/"><u>[Updated] Step-by-Step Instruction Loading Windows Movie Maker 6.0 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-for-navigating-the-windows-printer-management-interface/"><u>Essential Guide for Navigating the Windows Printer Management Interface</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/expressive-storytelling-with-snapchats-in-your-face-gifs/"><u>Expressive Storytelling with Snapchat's In-Your-Face GIFs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-steams-frequent-crashes-instantly-a-simple-step-by-step-guide/"><u>Fix Steam's Frequent Crashes Instantly: A Simple Step-by-Step Guide!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-online-friends-error-in-windows-11/"><u>Fixing Steam Online Friends Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-microsofts-windows-safe-mode-outlook-problem/"><u>Handling Microsoft's Windows-Safe Mode Outlook Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-ghostwire-tokyo-from-frequently-crashing-on-your-computer-issue-solved/"><u>How to Stop Ghostwire: Tokyo From Frequently Crashing on Your Computer (Issue Solved)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-policies-to-reactivate-running-scripts-in-ps/"><u>Navigating Windows Policies to Reactivate Running Scripts in PS</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-privilege-power-ensuring-windows-terminal-is-admin/"><u>Proactive Privilege Power: Ensuring Windows Terminal Is Admin</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reset-xbox-error-codes-in-windows/"><u>Strategies to Reset Xbox Error Codes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-easiest-ways-to-fix-windows-1111-black-screen-with-cursor/"><u>Top 3 Easiest Ways to Fix Windows 11/11 Black Screen with Cursor</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-6-utilitaires-de-copying-de-films-gratuits-une-comparaison-pour-la-copie-video-parfaite-du-principal-contenu-dvd/"><u>Top 6 Utilitaires De Copying De Films Gratuits : Une Comparaison Pour La Copie Vidéo Parfaite Du Principal Contenu DVD</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/video-sims-4-mastery-guide/"><u>Video Sims 4 Mastery Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/xbox-one-dvd-compatibility-can-you-watch-movies-on-this-console/"><u>Xbox One DVD Compatibility: Can You Watch Movies on This Console?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Pro Cheat Sheet to Clean Backdrops with W11's Photo Application
-date: 2024-11-13T00:10:02.480Z
-updated: 2024-11-17T21:12:44.923Z
+date: 2024-11-23T01:11:19.782Z
+updated: 2024-11-27T23:38:35.083Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  The Background Blur feature automatically identifies the area behind the subject that should be blurred to highlight the main subject. It is a one-click solution to add the blur effect to the background of an image. You can also adjust the positioning, and intensity of the blur to any portion of the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable and Use Background Blur in the Photos App
@@ -52,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 3. Go to the top bar and click on the **Edit image** icon. Alternatively, you can press the **Ctrl + E** to open the Edit window.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the **Background Blur** option. The feature will try to identify the background in the image and then apply the blur effect to that area. It can take a few seconds to do so.  
@@ -63,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 5. If you are not satisfied with the blur effect, go to the **Blur intensity** option in the right-hand side section. Adjust the slider to increase or decrease the blur effect on the selected background area.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. To blur more parts of the image, click on the toggle next to the **Selection brush** tool. By default, it is set to **Select area**.  
@@ -81,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 8. Type a name and click on the **Save** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is the Photos Background Blur Feature Any Good?
@@ -92,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  We tried it with multiple images and the feature did a good job of identifying the background area to blur. You get control over the blur intensity and can also select more areas or deselect some of them to exclude from the effect. The automatic selection feature is enough in most cases.
 
 ![Background blur effect in action in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/background-blur-effect-in-action-in-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, the feature focuses on blurring the background and not just any part of the image. You can deselect the area, but what if you only want to blur a tiny area that contains a personal detail and not blur the background? In that case, the background blur effect isn’t of much help. It is very difficult to deselect the identified background area.
 
@@ -103,25 +95,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  However, Microsoft eventually added a new feature to the Photos app called “Background Blur” which automatically adds a blur effect to the background. Let’s explore it in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>[New] YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transform-videos-with-tiktok-effects/"><u>[Updated] In 2024, Transform Videos with TikTok Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/holy-stone-hs170s-predator-quadcopter-the-ultimate-budget-friendly-rc-helicopter-guide/"><u>Holy Stone HS1,70's Predator Quadcopter: The Ultimate Budget-Friendly RC Helicopter Guide!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-lsassexe-unable-to-locate-error-on-win-810/"><u>How to Overcome lsass.exe Unable to Locate Error on Win 8/10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-natural-language-for-excel-excellence-via-chatgpt/"><u>Leveraging Natural Language for Excel Excellence via ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-chromes-false-virus-detection-issue/"><u>Overcoming Chrome’s False Virus Detection Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-memory-write-failure-in-windows/"><u>Overcoming Memory Write Failure in Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/prime-web-picks-for-stylish-3d-sparkling-text-for-2024/"><u>Prime Web Picks for Stylish 3D Sparkling Text for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quality-commitment-msi-responds-to-z790-chipset-flaws-with-immediate-replacement-of-defective-units/"><u>Quality Commitment: MSI Responds to Z790 Chipset Flaws with Immediate Replacement of Defective Units</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-get-text-win-a-comprehensible-guide-to-windows-whisper/"><u>Speak, Get Text, Win: A Comprehensible Guide to Windows Whisper</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-glitches-and-error-0xc00d36b4-on-windows/"><u>Troubleshooting Glitches & Error 0xC00D36B4 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-xbox-mic-use-with-windows-11-app/"><u>Unblocking Xbox Mic Use with Windows 11 App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-inquiry-collection-for-podcast-appeal-for-2024/"><u>Updated Inquiry Collection for Podcast Appeal for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -129,3 +102,21 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates/"><u>2024 Approved All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approach-to-hdr-portraiture-excellence/"><u>2024 Approved Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-enigma-fixing-obs-studios-undiscovered-error/"><u>Demystifying the Enigma: Fixing OBS Studio's Undiscovered Error</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/demystifying-twitter-archives-for-users-and-analysts-for-2024/"><u>Demystifying Twitter Archives for Users & Analysts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-snapshot-storage-on-windows-pc/"><u>Discover Snapshot Storage on Windows PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-or-download-sapphire-gpu-drivers-for-windows-systems/"><u>How to Easily Update or Download Sapphire GPU Drivers for Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-c12-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia C12?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-average-user-into-power-user/"><u>How to Turn Average User Into Power-User</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-lite-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic 6 Lite Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-output-made-simple-with-these-top-5-windows-productivity-tools/"><u>Skyrocketing Output Made Simple with These Top 5 Windows Productivity Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveil-top-10plus-platforms-for-virtual-worship-spaces-for-2024/"><u>Unveil Top 10+ Platforms for Virtual Worship Spaces for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-embraces-sudo-mastery-guide/"><u>Windows Embraces Sudo: Mastery Guide</u></a></li>
+</ul></div>
+

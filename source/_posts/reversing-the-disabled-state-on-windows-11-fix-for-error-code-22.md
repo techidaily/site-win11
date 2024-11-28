@@ -1,7 +1,7 @@
 ---
 title: Reversing the Disabled State on Windows 11 - Fix for Error Code 22
-date: 2024-11-14T22:01:14.260Z
-updated: 2024-11-17T17:48:05.852Z
+date: 2024-11-22T18:52:57.336Z
+updated: 2024-11-28T03:41:18.088Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -48,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check for Physical Damage on the Device
@@ -67,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  To do this, open the **Settings app**. On the left side of the window, select **Windows Update**. Then, click the **Check for updates** button.
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
@@ -84,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clear Your Computer's CMOS
 
  Another way to fix the "this device is disabled (code 22)" error is to clear the CMOS. Doing this will be helpful if a recent change in your BIOS setting is causing the issue. You can clear the CMOS by following the below instructions:
@@ -102,18 +100,15 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  After that, put back the cover of your computer and plug in all the devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Computer's BIOS
 
  An outdated BIOS can prevent your PC from working properly with certain devices and may cause errors such as code 22\.
 
  So, make sure to update the BIOS to prevent any hardware-related issues on your system. Check out our guide on [updating BIOS in Windows](http://www.makeuseof.com/tag/update-uefi-bios-windows/) to find out how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perform a Clean Boot
 
@@ -123,38 +118,19 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If you are still struggling with the error, you can [try a system restore on Windows](https://www.makeuseof.com/use-system-restore-windows/) to see if that fixes your problem. This will restore your computer to a prior point in time, which is useful if the issue started recently.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Error Code 22 in Windows
 
  There's nothing more frustrating than not being able to use an external device because your Windows PC is not recognizing it. The "this device is disabled (code 22)" error is one such issue that can prevent you from using an external device that's connected to your system. Fortunately, you can quickly troubleshoot this error using the above solutions.
 
  Fortunately, it's very easy to fix the error code 22 on Windows. Let's look at what the error code 22 means on Windows, some common reasons why it occurs, and how to quickly fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>[New] 2024 Approved Holographic Horizons Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-inverted-screen-changing-video-ordering/"><u>[New] 2024 Approved Inverted Screen Changing Video Ordering</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>[Updated] In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-configuration-with-microsofts-pc-manager-on-w11/"><u>Conquer Configuration with Microsoft's PC Manager on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-cpu-temp-controls-on-windows-1011/"><u>Customizing CPU Temp Controls on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-battery-status-notifications-on-windows-os/"><u>Enhancing Battery Status Notifications on Windows OS</u></a></li>
-<li><a href="https://facebook.techidaily.com/evolving-interfaces-fb-and-insta-finding-common-ground/"><u>Evolving Interfaces: FB and Insta Finding Common Ground</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/fine-tuning-gameplay-roblox-closer-scan-guide/"><u>Fine-Tuning Gameplay Roblox Closer Scan Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/high-res-quests-ultimate-guide-to-playing-adventures-in-hd-using-scummvm/"><u>High-Res Quests: Ultimate Guide to Playing Adventures in HD Using ScummVM</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-top-5-tips-to-solve-world-of-warships-crashes/"><u>PC Troubleshooting: Top 5 Tips to Solve World of Warships Crashes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/silent-scribes-selection-top-choices-in-offline-recognition-tech/"><u>Silent Scribes' Selection Top Choices in Offline Recognition Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/steam-and-internet-connectivity-woes-on-pc-heres-a-fix/"><u>Steam & Internet Connectivity Woes on PC? Here's a Fix</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +139,21 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-to-perfecting-videos-on-a-pc-for-youtubers/"><u>[New] 2024 Approved Step-by-Step Guide to Perfecting Videos on a PC for YouTubers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-audiophiles-guide-to-mac-voice-recorders-the-cream-of-the-crop-for-2024/"><u>[New] Audiophile's Guide to Mac Voice Recorders The Cream of the Crop for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/7-expert-moves-for-restoring-the-functionality-of-windows-services-control-panel/"><u>7 Expert Moves for Restoring the Functionality of Windows Services Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/8-easy-ways-to-unlock-windows-screen-setup-problems/"><u>8 Easy Ways to Unlock Windows Screen Setup Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-win11-crashes-with-exception-handlers/"><u>Addressing WIN11 Crashes with Exception Handlers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-to-fix-crashes-while-playing-cs2-on-your-computer-for-an-uninterrupted-gaming-experience/"><u>Expert Strategies to Fix Crashes While Playing CS2 on Your Computer for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/meilleurs-programmes-de-sauvegarde-gratuit-pour-windows-macos-et-linux/"><u>Meilleurs Programmes De Sauvegarde Gratuit Pour Windows, macOS Et Linux</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-your-system-like-a-pro-opening-command-prompt-in-different-windows-environments/"><u>Navigate Your System Like a Pro: Opening Command Prompt in Different Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-v-rising-from-disruptive-shutdowns-on-pc/"><u>Troubleshooting Tips: Stop 'V-Rising' From Disruptive Shutdowns on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-free-video-editing-tools-for-extracting-high-quality-audio-from-dvds/"><u>Ultimate Guide to FREE Video Editing Tools for Extracting High-Quality Audio From DVDs</u></a></li>
+</ul></div>
+

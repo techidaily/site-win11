@@ -1,7 +1,7 @@
 ---
 title: The Simple Way to Transfer Your PowerToys Preferences
-date: 2024-11-13T02:54:05.885Z
-updated: 2024-11-18T03:11:46.864Z
+date: 2024-11-23T16:08:12.330Z
+updated: 2024-11-27T16:03:28.350Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Back Up Your PowerToys Settings
 
  Transferring settings from one installation of PowerToys to another works best if both versions are the same. You can check the version in the General tab of the app. If required, update PowerToys to the latest version, and install/update the same version on the second PC.
@@ -36,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![backing up PowerToys settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powertoys-backup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The backup of your PowerToys settings has now been saved to your chosen folder. If you change a setting and click backup again, a new backup file will be created alongside the first.
 
  PowerToys is updated regularly, with new features like[File Locksmith](https://www.makeuseof.com/powertoys-file-locksmith-guide/) added from time to time. Your backups are dated, so you can create a new one each time a tool is added and still be able to recognize the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Transfer and Restore the PTB Backup File
@@ -57,19 +62,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 3. Open PowerToys and select the**General** tab. At the bottom of the**General options** , click the**Restore** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your previously saved settings have now been applied to the clean installation of PowerToys. If the two versions of PowerToys are different, some settings may not have been transferred.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Transferring PowerToys Settings Made Easy
@@ -91,18 +90,18 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-elevate-your-content-youtubes-keyword-strategies-exposed/"><u>[New] In 2024, Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-amplify-impact-strategies-for-instagram-video-waves/"><u>2024 Approved Amplify Impact Strategies for Instagram Video Waves</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-seamless-warhammer-gaming-on-windows-stop-stuttering/"><u>Achieving Seamless Warhammer Gaming on Windows: Stop Stuttering</u></a></li>
-<li><a href="https://win11.techidaily.com/analyzing-surface-laptop-go-3-processor-boost-and-critique/"><u>Analyzing Surface Laptop Go 3: Processor Boost and Critique</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fixing-issues-with-screenr-effective-strategies-and-tips/"><u>Fixing Issues with Screenr: Effective Strategies and Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-updater-error-0x80246007-in-windows-versions-1011/"><u>Fixing Updater Error 0X80246007 in Windows Versions 10/11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a60-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A60</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-insight-into-the-fast-and-secure-performance-of-the-netgear-nighthawk-x6-tri-band-ac3200-a-family-friendly-hub/"><u>In-Depth Insight Into the Fast & Secure Performance of the Netgear Nighthawk X6 Tri-Band AC3200: A Family-Friendly Hub</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premier-11-sound-capture-gadgets-for-2024/"><u>Premier 11 Sound Capture Gadgets for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-dism-failure-0x800f082f/"><u>Resolving Windows' DISM Failure 0X800F082F</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-touchpad-gestures-on-windows/"><u>Troubleshooting Non-Responsive Touchpad Gestures on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-solving-windows-pcs-nonfunctional-built-in-camera/"><u>Troubleshooting Steps: Solving Windows PC's Nonfunctional Built-In Camera</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-windows-11-app-opening-secrets-revealed/"><u>Turbo Windows 11 App Opening Secrets Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-boost-efficiency-learning-free-timers-functionality/"><u>[New] Boost Efficiency Learning FREE Timers' Functionality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-methodologies-in-capturing-web-radio-audio-for-2024/"><u>[Updated] Essential Methodologies in Capturing Web Radio Audio for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-differences-how-exes-stack-up-against-msis/"><u>Clarifying Differences: How EXEs Stack Up Against MSIs</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-darkened-windows-display-during-remote-workspace-access/"><u>Combating Darkened Windows Display During Remote Workspace Access</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-download-and-set-up-logitechs-high-performance-g402-mouse-drivers/"><u>Find, Download, and Set Up Logitech's High-Performance G402 Mouse Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-innovative-transitions-for-professional-videos/"><u>In 2024, Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-forgotten-windows-key-logon-message/"><u>Mending Forgotten Windows Key Logon Message</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-problems-smooth-your-pcs-cpu-flow-with-rm/"><u>Pinpointing Problems: Smooth Your PC's CPU Flow With RM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-device-detection-issues-with-bluetooth-in-windows-11/"><u>Troubleshooting Guide: Fixing Device Detection Issues with Bluetooth in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-for-windows-color-synchronization/"><u>Unveiling Solutions for Windows Color Synchronization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/xmlssattml-to-srt-actionable-insights-for-media-professionals/"><u>XML/SSA/TTML-to-SRT Actionable Insights for Media Professionals</u></a></li>
 </ul></div>
 

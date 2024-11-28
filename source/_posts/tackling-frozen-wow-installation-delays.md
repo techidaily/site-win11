@@ -1,7 +1,7 @@
 ---
 title: Tackling Frozen WoW Installation Delays
-date: 2024-11-15T07:52:35.690Z
-updated: 2024-11-17T19:43:46.584Z
+date: 2024-11-26T19:10:09.485Z
+updated: 2024-11-28T02:24:21.130Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
  When the WoW update gets stuck on initializing, you must disable other apps and processes, update the Battle.net client, rule out internet problems, clean the Battle.net cache, whitelist the Battle.net desktop client from Windows Defender, update the drivers, and rebuild the corrupt and outdated game files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## First, Perform the Preliminary Checks
@@ -48,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 * Look at the[World of Warcraft forum](https://us.forums.blizzard.com/en/wow/) to see if other users are experiencing the same issue. If so, it's a backend issue, which will be resolved by Blizzard itself.
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Ensure It's Not a Visual Glitch
 
@@ -62,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the Battle.net Client Cache
 
@@ -78,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 5. Restart your device and try downloading the update again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Internet Issues
@@ -98,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
  If the internet is not the cause of the problem, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Put an End to Other Processes
 
  Have you got any resource-hogging programs running on your computer that might be eating your network resources or bogging down your bandwidth? If so, they may be causing the WoW update to hang when it attempts to initialize.
@@ -117,16 +112,13 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enjoy Playing World of Warcraft Again
 
@@ -147,24 +139,24 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-up-your-film-game-on-instagram-with-border-tips/"><u>[New] 2024 Approved Step up Your Film Game on Instagram with Border Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-free-to-use-tools-for-transcribing-digital-conferences/"><u>[New] Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastery-of-text-effects-best-practices-in-ae-for-2024/"><u>[New] Mastery of Text Effects Best Practices in AE for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>[Updated] Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-best-matched-sd-cards-to-boost-your-gopro-heros-performance/"><u>2024 Approved Best Matched SD Cards to Boost Your GoPro HERO's Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>2024 Approved Boosting Playback Speed Guidelines for Secure Sound Enhancement</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-sony-s6700-revised-whats-new/"><u>2024 Approved Sony S6700 Revised - What's New?</u></a></li>
-<li><a href="https://win11.techidaily.com/9-fixes-to-try-when-steam-is-stuck-on-verifying-installation-for-windows/"><u>9 Fixes to Try When Steam Is Stuck on Verifying Installation for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-flawless-powerpoint-outputs-9-steps-for-windows-users/"><u>Achieving Flawless PowerPoint Outputs: 9 Steps for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-file-explorer-experience-with-onedrive-connection/"><u>Enhance File Explorer Experience with OneDrive Connection</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-infinix-smart-8-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Infinix Smart 8 Pro FRP</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-pova-5-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Pova 5</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-error-0x80073cf3-in-windows-microsoft-shop/"><u>Resolving Error 0X80073CF3 in Windows' Microsoft Shop</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-application-size-modification-with-keys-on-win11/"><u>Streamlining Application Size Modification with Keys on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-attaching-notes-to-windows-apps/"><u>The Art of Attaching Notes to Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-a-non-functional-spotify-client-in-windows-10/"><u>Troubleshooting a Non-Functional Spotify Client in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-wont-my-aoc-display-work-on-windows-10-fix-it-now/"><u>Why Won't My AOC Display Work on Windows 10? Fix It Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>[New] 2024 Approved Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-discover-best-border-apps-to-elevate-instagram-visuals/"><u>[New] In 2024, Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-fading-sound-tracks-with-logic-pro/"><u>[Updated] 2024 Approved Fading Sound Tracks with Logic Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unraveling-the-secrets-to-smooth-vimeo-video-downloads/"><u>[Updated] 2024 Approved Unraveling the Secrets to Smooth Vimeo Video Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-output-impedance-in-electronic-circuits/"><u>Demystifying Output Impedance in Electronic Circuits</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-connectivity-with-telnet-ways-3/"><u>Enhance Windows Connectivity with Telnet (Ways 3)</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-to-do-list-software-for-windows-users/"><u>Essential To-Do List Software for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-windows-installer-service-on-windows/"><u>How to Enable or Disable the Windows Installer Service on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-this-file-isnt-playable-error-0xc10100bf-in-windows/"><u>How to Fix the This File Isn’t Playable Error 0Xc10100bf in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-quick-settings-on-windows-11/"><u>How to Use Quick Settings on Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/probing-instagrams-max-video-length-rule/"><u>Probing Instagram's Max Video Length Rule</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x800700e9-on-xbox-game-pass-in-windows-11/"><u>Resolving 0X800700E9 on Xbox Game Pass in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reveal-usage-metrics-infusing-cpu-and-memory-details-into-systray/"><u>Reveal Usage Metrics: Infusing CPU & Memory Details Into SysTray</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sx720hs-powershot-in-depth-look-at-superzoom-and-convenience/"><u>SX720HS PowerShot: In-Depth Look at Superzoom & Convenience</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-through-the-years-in-windows-os/"><u>Taskbar Through the Years in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-code-x7217-at-microsoft-store/"><u>Troubleshooting Error Code X7217 at Microsoft Store</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-90-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor 90 FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-new-dimensions-with-these-vr-videos-for-2024/"><u>Unlock New Dimensions with These VR Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection</u></a></li>
 </ul></div>
 

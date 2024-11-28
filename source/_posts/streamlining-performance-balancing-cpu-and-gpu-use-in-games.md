@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Performance: Balancing CPU and GPU Use in Games"
-date: 2024-11-13T03:59:11.863Z
-updated: 2024-11-17T21:32:14.239Z
+date: 2024-11-20T23:50:24.253Z
+updated: 2024-11-27T17:38:18.172Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Perform Some Basic Windows Fixes
 
@@ -48,16 +52,13 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![Close Microsoft Edge Process From Windows Task Manager For Consuming the Most CPU Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-microsoft-process-from-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
  If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Force the Game to Process Graphics Using the Dedicated GPU (if Available)
 
@@ -76,16 +77,13 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Sacrifice Graphics Quality
 
  If the above checks and fixes do not reduce CPU resource consumption, lower the game's graphics settings. This will reduce the game's graphics processing requirements, reducing the load on your CPU. This step will undoubtedly reduce your CPU usage but at the expense of your game's graphics quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Enable Efficiency Mode for the Game
 
@@ -101,28 +99,16 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 ![Efficiency Mode Option Grayed Out for Roblox Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/efficiency-mode-option-grayed-out-for-roblox-game.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
 
 ![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bring the CPU Usage Down While You Game on Windows
@@ -146,24 +132,24 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>[New] In 2024, Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-bargain-video-snippets-grab-youtube-images-without-cost/"><u>[New] Top Bargain Video Snippets - Grab YouTube Images Without Cost</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-minecraft-keeps-freezing-on-pc-2024-tips/"><u>[Solved] Minecraft Keeps Freezing on PC – 2024 Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-10-superior-soundspeed-apps-for-devices/"><u>[Updated] 10 Superior Soundspeed Apps for Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-remove-inconvenient-black-edges-from-youtube-videos-for-2024/"><u>[Updated] Remove Inconvenient Black Edges From YouTube Videos for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-window-preview-failures-in-win-810/"><u>Addressing Window Preview Failures in Win 8/10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-excellence-a-comprehensive-tp-link-archer-c50-wireless-router-evaluation/"><u>Affordable Excellence: A Comprehensive TP-Link Archer C50 Wireless Router Evaluation</u></a></li>
-<li><a href="https://win11.techidaily.com/augmenting-dedicated-ram-win-11-edition-guide/"><u>Augmenting Dedicated RAM: Win 11 Edition Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-error-windows-security-cut-by-admin-policies/"><u>Deciphering Error: Windows Security Cut by Admin Policies</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-setupuninstall-bings-ai-on-win-11-taskbar/"><u>Fast Setup/Uninstall: Bing's AI on Win 11 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-overlay-effects-in-nvidia-graphics/"><u>How to Turn Off Overlay Effects in NVIDIA Graphics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-the-social-media-labyrinth-for-virality/"><u>Mastering the Social Media Labyrinth for Virality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-editing-a-step-by-step-guide-to-windows-movie-maker/"><u>Mastering Video Editing A Step-by-Step Guide to Windows Movie Maker</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-access-barriers-top-solutions/"><u>Navigating Through Windows Access Barriers: Top Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-printer-network-errors-in-windows/"><u>Steps to Resolve Printer Network Errors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/winmc-lan-connectivity-woes-solutions-explored/"><u>WinMC LAN Connectivity Woes: Solutions Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-entry-login-remote-desktop-innovations-on-win-11/"><u>Zero-Entry Login: Remote Desktop Innovations on Win 11</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac-for-2024/"><u>[Updated] Click and Groove An Insider's Guide to Making TikTok Dance Videos for Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cross-promotional-efforts-brands-on-youtubes-stage-for-2024/"><u>[Updated] Cross-Promotional Efforts Brands on YouTube's Stage for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-setting-up-facebook-live-your-roku-route/"><u>[Updated] In 2024, Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-lost-device-error-in-overwatch-2-rendering/"><u>Correcting Lost Device Error in Overwatch 2 Rendering</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-brother-hl-l2350dprinter-driver-updates-download-and-installation-tips/"><u>Easy Access to Brother HL-L2350D[Printer Driver Updates - Download & Installation Tips]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-online-interactions-gpt-3-beta-integration/"><u>Elevating Online Interactions: GPT-3 Beta Integration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-why-filmmakers-cherish-filmora-features-for-2024/"><u>Exploring Why Filmmakers Cherish Filmora Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-overcoming-banned-program-error-message-in-pc/"><u>Guide: Overcoming Banned Program Error Message in PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-complete-guide-to-live-streaming-on-instagram-via-obs/"><u>In 2024, The Complete Guide to Live Streaming on Instagram via OBS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-dns-configuration-in-windows-11-for-efficiency/"><u>Mastering DNS Configuration in Windows 11 for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-homescreen-access/"><u>Mastering Windows 11 Homescreen Access</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-rectifying-loaderror-87-in-windows-applications/"><u>Methods for Rectifying LoadError 87 in WIndows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-prevent-blue-screens-win11-plus-vmware-edition/"><u>Methods to Prevent Blue Screens: Win11 + VMware Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-information-discovery-everythingapp-way/"><u>Quick PC Information Discovery, EverythingApp Way</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-methods-determining-your-pcs-gpu-identity/"><u>Speedy Methods: Determining Your PC's GPU Identity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-the-secret-of-affordable-video-ad-creation-on-youtube/"><u>Unveiling the Secret of Affordable Video Ad Creation on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/de-your-youtube-bio-with-pro-templates/"><u>Upgrade Your Youtube Bio with Pro Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/win-screensaver-woes-heres-how-to-reset-them/"><u>Win Screensaver Woes? Here's How to Reset Them</u></a></li>
 </ul></div>
 

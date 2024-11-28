@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Device Not Initialized' Error in Win 11
-date: 2024-09-11T09:30:10.115Z
-updated: 2024-09-12T09:30:10.115Z
+date: 2024-11-23T19:44:44.731Z
+updated: 2024-11-27T18:08:12.118Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Look for Hardware Changes
 
  The Device Manager comes with a Scan for hardware changes option, which you can use whenever a connected USB device is not responding or throwing an error message. You can use this option by following the below instructions:
@@ -48,37 +52,19 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 3. Right-click on the**Universal Serial Bus controllers** node and select the**Scan for hardware changes** option.  
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -106,27 +92,7 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, restart your computer and check for the problem.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -140,13 +106,6 @@ Next, restart your computer and check for the problem.
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall All the USB Controllers
 
  If updating the driver was not helpful, you can try reinstalling all the devices under the Universal Serial Bus controllers. To do this, follow the below steps:
@@ -157,10 +116,7 @@ Next, restart your computer and check for the problem.
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
@@ -175,10 +131,7 @@ Next, restart your computer and check for the problem.
 5. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
@@ -206,4 +159,26 @@ Next, restart your computer and check for the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-integrate-harmony-in-media-posts-facebooks-sound-guide/"><u>[New] Integrate Harmony in Media Posts Facebook's Sound Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-boost-creativity-with-free-unique-slideshow-templates-for-inspiration/"><u>[Updated] Boost Creativity with Free, Unique Slideshow Templates for Inspiration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-identifying-the-top-10-hidden-story-admirers/"><u>2024 Approved Identifying the Top 10 Hidden Story Admirers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>2024 Approved Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-your-creativity-in-podcast-naming-a-comprehensive-guide-plus-examples/"><u>2024 Approved Unleashing Your Creativity in Podcast Naming A Comprehensive Guide + Examples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-the-sales-of-october-prime-day-2024-top-discounted-buys-still-in-stock-zdnet-insights/"><u>Ace the Sales of October Prime Day 2024: Top Discounted Buys Still in Stock | ZDNET Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-secure-restricted-realm-of-windows-11/"><u>Delving Into the Secure, Restricted Realm of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/disk-duality-made-simple-on-a-pc/"><u>Disk Duality Made Simple on a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-game-crashes-wow-issue-132-fix-guide/"><u>Eliminating Game Crashes: WOW Issue #132 Fix Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/explore-all-content-jointly-shared-photos-and-vids/"><u>Explore All Content Jointly Shared Photos & Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-an-overheating-windows-11-computer/"><u>How to Fix an Overheating Windows 11 Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-windows-files-stop-read-only-barrier/"><u>How to Unlock Windows Files: Stop Read-Only Barrier</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-optimization-tips-to-prevent-and-solve-frontier-game-crashes-now-resolved/"><u>PC Optimization Tips to Prevent and Solve Frontier Game Crashes - Now Resolved!</u></a></li>
+<li><a href="https://win11.techidaily.com/shatter-wired-network-cap-of-100mbps-on-windows-systems/"><u>Shatter Wired Network Cap of 100Mbps on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-wintools-guide-for-windows-performance-gains/"><u>The Ultimate WinTools Guide for Windows Performance Gains</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-interface-step-by-step-installation-of-themes-from-ms-store/"><u>Transformative Interface: Step-by-Step Installation of Themes From MS Store</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c67-4g-by-drfone-android/"><u>Universal Unlock Pattern for Realme C67 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-gpu-potential-maximizing-system-vram-on-win1011/"><u>Unlocking GPU Potential: Maximizing System VRAM on Win10/11</u></a></li>
+</ul></div>
 

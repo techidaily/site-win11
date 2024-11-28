@@ -1,7 +1,7 @@
 ---
 title: Solving Windows Shutdown Issues Caused by Suspicious Apps
-date: 2024-11-16T22:59:04.182Z
-updated: 2024-11-17T18:13:17.493Z
+date: 2024-11-25T21:06:43.956Z
+updated: 2024-11-28T01:56:01.315Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does This Error Message Appear?
 
  This generally happens when there are apps running in the background that needs to be properly shut down. It is advised that you close all running apps before shutting down or logging off.
@@ -35,27 +39,17 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  As we said above, there is no "one size fits all" solution, nor is there a way to explicitly tell what's keeping your PC from shutting down cleanly. As such, try each of the following methods until one of them works.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Run the System File Checker
 
  The “app preventing Windows from shutting down” error message may be caused by corrupted system files. The first thing to do is to run the System File Checker on Windows. System File Checker is a tool built into the OS that can scan and restore Windows system files to restore your system to a healthy state.
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
- However, it’s advised that you run the DISM tool first. This tool uses Windows Update to make sure that your system files are all in order, so it's a good idea to do a DISM to ensure the SFC scan goes off without a hitch. You can read about both of these tools in our guide on[the difference between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ However, it’s advised that you run the DISM tool first. This tool uses Windows Update to make sure that your system files are all in order, so it's a good idea to do a DISM to ensure the SFC scan goes off without a hitch. You can read about both of these tools in our guide on[the difference between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
 ### 2\. Disable Fast Startup
 
@@ -75,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 3. Scroll down to the**Privacy** section and turn off the option to use your sign-in info to automatically finish setting up your device after an update or restart.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, you can[block Microsoft sign-ins on Windows 10](https://www.makeuseof.com/windows-block-allow-microsoft-accounts/) altogether.
@@ -95,14 +86,11 @@ Here’s how you can run the power troubleshooter on Windows:
 ![Run the Windows power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/02-windows-power-troubleshooter.jpg)
 4. Click on**Run the troubleshooter** .
 
- The system will scan for errors and let you know if there’s something that might need fixing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The system will scan for errors and let you know if there’s something that might need fixing.
 
 ### 5\. Manually Kill or Update the Problematic Task
 
@@ -111,6 +99,10 @@ Here’s how you can run the power troubleshooter on Windows:
  Unfortunately, this might be a temporary fix, as the process may go back to its old habits after you turn off your PC again. As such, if the process is tied to a third-party service you're no longer using, you can uninstall it. Otherwise, check for any updates for the service or re-install it.
 
  If the problem persists, the[task host may be preventing Windows from shutting down](https://www.makeuseof.com/windows-task-host-preventing-shutdown/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clean Up Your Shutdown Procedure on Windows
 
@@ -131,24 +123,21 @@ Here’s how you can run the power troubleshooter on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-crafting-personalized-storytelling-on-snapchat/"><u>[Updated] 2024 Approved Crafting Personalized Storytelling on Snapchat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-affordable-android-chat-top-free-app-alternatives/"><u>[Updated] In 2024, Affordable Android Chat Top Free App Alternatives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-fundamentals-of-assembling-photos-into-art/"><u>[Updated] In 2024, The Fundamentals of Assembling Photos Into Art</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-winerror-0x800f0831-with-ease/"><u>Combat WinError 0X800F0831 with Ease</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/comment-resoudre-le-dysfonctionnement-du-lecteur-usb-integrer-un-disque-avec-5-astuces/"><u>Comment Résoudre Le Dysfonctionnement Du Lecteur USB : Intégrer Un Disque Avec 5 Astuces</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-quality-over-novelties/"><u>Enhancing Windows 11: Quality over Novelties</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-run-the-sfc-tool-successfully/"><u>Essential Tips to Run the SFC Tool Successfully</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-the-essence-of-facebooks-operational-blueprint/"><u>Exploring the Essence of Facebook's Operational Blueprint</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-z60-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock ZTE Nubia Z60 Ultra Phone without Any Data Loss</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-a-treasury-of-thought-provoking-youtube-content/"><u>In 2024, A Treasury of Thought-Provoking YouTube Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-palette-wisdom-essential-color-theory-explained/"><u>In 2024, Palette Wisdom Essential Color Theory Explained</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>In 2024, Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-update-problem-with-error-0xca00a009/"><u>Mitigating Update Problem with Error 0xCA00A009</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-updater-code-0x8019-issue-on-xp/"><u>Removing Updater Code 0X8019 Issue on XP</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-stalled-email-notifications-in-windows-environment/"><u>Reviving Stalled Email Notifications in Windows Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-experience-7-fixes-for-broken-apps/"><u>Seamless Windows Experience: 7 Fixes for Broken Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715701133064-top-tickles-for-young-game-fans/"><u>Top Tickles for Young Game Fans!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-boot-on-windows-sound-service-reboot-needs/"><u>Troubleshooting Boot-On Windows Sound Service Reboot Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-navigating-blank-login-page-fixes/"><u>Windows 11: Navigating Blank Login Page Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-modern-mobile-maximizing-vr360-video-on-android-update-2023/"><u>[Updated] Modern Mobile Maximizing VR/360 Video on Android (Update 2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-technology-gaps-windows-11-legacy-computers-to-go-and-rufus-guide/"><u>Bridging Technology Gaps: Windows 11, Legacy Computers, To Go & Rufus Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-elevating-your-windows-experience-by-reclaiming-offscreen-panes/"><u>Bridging the Gap: Elevating Your Windows Experience by Reclaiming Offscreen Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-lifelayer-trashbin-on-the-windows-1011-environment/"><u>Building a Lifelayer Trashbin on the Windows 10/11 Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-restricted-windows-11-themes-with-skilled-registry-editing/"><u>Bypassing Restricted Windows 11 Themes with Skilled Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-11-security-warning-glitches/"><u>Bypassing Windows 11 Security Warning Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/charting-a-course-to-locate-windows-app-habitats/"><u>Charting a Course to Locate Windows' App Habitats</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-missing-file-alert-in-win-11/"><u>Clearing Up Missing File Alert in Win 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crystalclear-conversion-high-res-format-for-2024/"><u>CrystalClear Conversion - High Res Format for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-transformation-for-windows-old-to-new-drivers/"><u>Digital Transformation for Windows: Old to New Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-your-hp-printer-works-perfectly-update-drivers-for-windows-1011/"><u>Ensure Your HP Printer Works Perfectly: Update Drivers for Windows 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-official-steelseries-engine-software-for-enhanced-keyboard-experience/"><u>Free Download: Official SteelSeries Engine Software for Enhanced Keyboard Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reimagined-computing-with-windows-10s-upgrades-for-2024/"><u>Reimagined Computing with Windows 10’S Upgrades for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-your-wireless-connection-with-free-tp-link-drivers/"><u>Secure Your Wireless Connection with Free TP Link Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-consider-chatgpt-for-your-next-health-inquiry/"><u>Why Consider ChatGPT for Your Next Health Inquiry?</u></a></li>
 </ul></div>
 

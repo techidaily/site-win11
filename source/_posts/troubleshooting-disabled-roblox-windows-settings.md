@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Disabled Roblox Windows Settings
-date: 2024-11-11T18:21:07.812Z
-updated: 2024-11-18T06:36:32.277Z
+date: 2024-11-24T21:13:46.250Z
+updated: 2024-11-27T17:07:44.640Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 
  However, if someone doesn't administer your account, your account settings may not be set up correctly. So, assuming that you have the privilege to change settings and no PIN has been set up, apply the fixes listed below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change Your Account Settings
 
  The error under discussion is primarily caused when your account's two settings are misconfigured: privacy and parental controls. Therefore, you should review both settings to determine whether any restrictions have been imposed by default or by someone else. Follow these steps to view these settings and make the necessary changes:
@@ -51,9 +44,19 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 3. Once signed in, click on the**gear icon** in the top-right corner and select**Settings** .  
 ![Go to Settings on the Roblox Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-settings-on-the-roblox-website.jpg)
 4. Select the**Privacy** tab on the left.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Turn off the toggle next to**Account Restrictions are enabled** .  
 ![Turn Off the Toggle Next to Account Restrictions are Enabled in Privacy Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-turn-off-the-toggle-next-to-account-restrictions-are-enabled-in-privacy-tab.jpg)
 6. After that, navigate to**Parental Controls** from the left sidebar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then, under the**Allowed Experiences** section, select the appropriate age guideline. Select**All Ages (Suitable for everyone)** if you are an adult.  
 ![Select All Ages Suitable for Everyone Under the Allowed Experiences Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-select-all-ages-suitable-for-everyone-under-the-allowed-experiences-section.jpg)
 
@@ -62,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
  Hopefully, by turning off the restrictions and choosing the proper age group, you'll be able to access all those gaming experiences that are appropriate for you. If the experience where you encountered the error earlier suits your new (and correct) age group, you shouldn't have any problems running it now. However, if the above settings are already configured correctly, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apply Some Basic Windows Fixes
@@ -75,10 +75,19 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 * Open**Task Manager** , find the Roblox-related processes, right-click on each process, and select**End task** to terminate your active gaming session effectively. Once that's done, relaunch Roblox.  
 ![End Roblox Related Processes in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-end-roblox-related-processes-in-windows-task-manager.jpg)
 * [Restart your Windows device](https://www.makeuseof.com/windows-restart-methods/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Turn off the VPN on your device if it is enabled.
 * Try not to launch multiple experiences simultaneously. Close the previous experience before moving on to the next.
 
 If none of the above fixes help, proceed with the remaining steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run Roblox as Administrator
 
@@ -87,13 +96,6 @@ If none of the above fixes help, proceed with the remaining steps.
 1. Go to the Roblox installation folder and locate the**Roblox Player** icon.
 2. Right-click the**Roblox Player** app and click**Run as administrator** .  
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If running Roblox as administrator fixes the problem,[configure the app to always run as administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
@@ -110,13 +112,6 @@ If none of the above fixes help, proceed with the remaining steps.
  To confirm this, sign out of the Roblox Player app and the Roblox website and create a new temporary account using either of these clients. Once you have created your new account, log into it and change your account settings as described above. After that, run the same experiences again where you encountered the error earlier.
 
  If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the[Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Run Roblox Experiences Without a Hitch
 
@@ -137,21 +132,18 @@ If none of the above fixes help, proceed with the remaining steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-instagram-video-a-complete-guide-to-content-posting/"><u>[New] 2024 Approved Instagram Video A Complete Guide to Content Posting</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>[New] Unmatched Upticks Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[Updated] 2024 Approved Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-infinite-loop-twitters-live-video-saga-in-23/"><u>[Updated] In 2024, Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-rhythm-roundup-hot-music-for-todays-top-youtube-short-videos/"><u>2024 Approved Rhythm Roundup Hot Music for Today’s Top YouTube Short Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/7-affordable-solutions-to-skyrocket-your-pcs-hard-drive-size/"><u>7 Affordable Solutions to Skyrocket Your PC's Hard Drive Size</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-lockout-understanding-the-top-4-triggers-and-easy-resolution-steps/"><u>ChatGPT Lockout: Understanding the Top 4 Triggers & Easy Resolution Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-rdc-launches-windows-11-guide/"><u>Effortless RDC Launches - Windows 11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/familiarize-yourself-with-microsoft-family-safety/"><u>Familiarize Yourself With Microsoft Family Safety</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-mini-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 13 mini 3 Ways To Unlock</u></a></li>
-<li><a href="https://games-able.techidaily.com/introducing-fix-it-x-the-end-of-console-quirks/"><u>Introducing Fix-It X: The End of Console Quirks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g35-audio-driver-downloads-for-windows-operating-systems-windows-7810-support/"><u>Logitech G35 Audio Driver Downloads for Windows Operating Systems - Windows 7/8/10 Support</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-strategy-batch-convert-heic-to-jpeg-in-windows-11/"><u>Proven Strategy: Batch Convert HEIC to JPEG in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-search-tracing-programs-settlement-in-windows/"><u>Streamlining Your Search: Tracing Programs' Settlement in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-closed-captions-a-windows-10-experts-method/"><u>Troubleshoot Closed Captions: A Windows 10 Expert's Method</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-resolving-operational-breakdowns-of-your-windows-stylus/"><u>Understanding and Resolving Operational Breakdowns of Your Windows Stylus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>[Updated] The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uniting-platforms-efficiently-share-fb-videos-to-whatsapp/"><u>[Updated] Uniting Platforms Efficiently Share FB Videos to WhatsApp</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/usb/"><u>暗号化USBメモリから重要なデータを取り出せる方法</u></a></li>
+<li><a href="https://win11.techidaily.com/a-practical-guide-to-modifying-windows-system-booting-behavior/"><u>A Practical Guide to Modifying Windows System Booting Behavior</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-your-download-experience-with-epic-launcher/"><u>Accelerating Your Download Experience with Epic Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/aligning-windows-identifier-with-microsoft-entity/"><u>Aligning Windows Identifier with Microsoft Entity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210412046-9781667415406-architettura-dellaldila/"><u>Architettura dell'Aldilà | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-down-error-code-31-in-the-windows-landscape/"><u>Beating Down Error Code 31 in the Windows Landscape</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96370983-9780876048108-blueprint-for-holistic-healing/"><u>Blueprint for Holistic Healing | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-security-enable-or-disable-tpm-and-secure-boot-in-virtualbox/"><u>Boost Security: Enable or Disable TPM & Secure Boot in VirtualBox</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-productivity-enlarge-or-minify-software-via-keyboard-in-win11/"><u>Boost Your Productivity: Enlarge or Minify Software via Keyboard in Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-geforce-rtx-2070-drivers-optimized-for-windows-10-8-and-7/"><u>Latest Version of Geforce RTX 2070 Drivers: Optimized for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728508699350-windows-server/"><u>ネットワーク上の共有ディレクトリへのWindows Serverセグメントバックアップ: ステップバイステップガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Integrating Password Safety Into Windows File Systems
-date: 2024-11-17T08:10:02.615Z
-updated: 2024-11-17T18:49:00.988Z
+date: 2024-11-25T19:45:52.788Z
+updated: 2024-11-27T16:15:10.386Z
 tags:
   - windows10
   - windows11
@@ -44,12 +44,21 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 2. Now you'll see the welcoming message shown below within LockNote. Erase that message and input the text or notes you want to save.  
 ![The LockNote window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-window.jpg)
 3. Go to **File > Save As.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the Save As window, navigate to the folder where you want to save your file.  
 ![LockNote's Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-save-as-window.jpg)
 5. Input a title in the **File name** box, then click **Save**.
 6. A password box will pop up. Enter matching passwords for the file in the two text boxes.  
 ![The set password boxes in LockNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box.jpg)
 7. Click **OK** to save the file with the set password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To open your password-protected text file, browse to the folder where you saved it and double-click the file. When you launch your file, a password box will appear; input the password you set and click **OK** to open it.
 
@@ -62,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
  LockNote includes only limited text-editing options. However, you can at least select a few different fonts and sizes. To do so, click the **View menu**. Then you can click **Font** or **Font size** to choose alternative text options.
 
 ![The View menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-formatting-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Passwords to Text Files With Secure Edit
 
@@ -80,15 +93,17 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 3. Select the **Save as** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select somewhere to save your file.
 7. Click **Save**.
 
@@ -102,9 +117,17 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 ![Visual Options drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
@@ -123,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 ![The Install option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-option.jpg)
 3. Click **Finish** to exit the PeaZip setup window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Double-click the PeaZip desktop shortcut.
 5. Select a folder that includes some text documents within PeaZip's navigation sidebar.
 
@@ -140,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
@@ -160,20 +169,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Secure Your Text Files in Windows 11/10
 
  If you share a Windows PC with other users, you should set passwords for text files containing private notes and confidential details. Even if you don't, securing your personal notes is a good idea by applying a password. So, check out LockNote, Secure Edit, or PeaZip to protect your most confidential text files in Windows.
@@ -184,22 +179,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are-for-2024/"><u>[New] 6 YouTuber Quizzes to Know What Type of YouTuber You Are for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers/"><u>[New] In 2024, Efficient Audio Extraction From YouTube Top Picks for Your Favorite Free Crackers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-essential-list-for-screen-clarity-top-7-android-adblockers/"><u>[New] The Essential List for Screen Clarity Top 7 Android AdBlockers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adding-music-to-photo-online/"><u>[Updated] Adding Music to Photo Online</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[Updated] Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-photo-overlays-for-windows-11/"><u>Adjusting Photo Overlays for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-windows-configuration-pathways/"><u>Decoding the Windows Configuration Pathways</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-your-visual-experience-with-greater-vram/"><u>Enhancing Your Visual Experience with Greater VRAM</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-nord-n30-se-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Nord N30 SE FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-reddit-a-step-by-step-guide-for-effective-posts-for-2024/"><u>Mastering Reddit A Step-By-Step Guide for Effective Posts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-display-adjustment-overcoming-overscan/"><u>Mastering Windows Display Adjustment: Overcoming Overscan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial/"><u>Unlock Creative Vision with LunaPic's Tutorial</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -207,3 +186,22 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-viral-potential-through-strategic-fb-videos/"><u>[New] In 2024, Unlocking Viral Potential Through Strategic FB Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-jocular-video-hacker-review/"><u>[New] Jocular Video Hacker Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-boosting-youtube-productions-best-mac-mp4-editors-guide/"><u>[Updated] In 2024, Boosting YouTube Productions Best Mac MP4 Editors Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-blueprint-to-youtube-wealth-insights-from-sourav-joshi-2024/"><u>[Updated] The Blueprint to YouTube Wealth Insights From Sourav Joshi, 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-ground-in-editing-an-examination-of-the-vida-app/"><u>2024 Approved Breaking Ground in Editing An Examination of the Vida App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-video-grading-a-practical-handbook/"><u>2024 Approved The Art of Video Grading A Practical Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celebrating-the-greats-anime-opens-of-all-time/"><u>Celebrating the Greats Anime Opens of All Time</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-common-zoom-troubles-in-windows-11-1132/"><u>Correcting Common Zoom Troubles in Windows 11 #1132</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-for-navigating-the-windows-printer-management-interface/"><u>Essential Guide for Navigating the Windows Printer Management Interface</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exploring-depths-smoothly-premium-camcorders-for-water-sports-for-2024/"><u>Exploring Depths Smoothly Premium Camcorders for Water Sports for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/five-fixes-for-resolving-windows-devices-name-misalignment/"><u>Five Fixes for Resolving Windows Devices Name Misalignment</u></a></li>
+<li><a href="https://win11.techidaily.com/returning-your-win11-terminal-to-its-roots/"><u>Returning Your Win11 Terminal to Its Roots</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reset-xbox-error-codes-in-windows/"><u>Strategies to Reset Xbox Error Codes in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-easiest-ways-to-fix-windows-1111-black-screen-with-cursor/"><u>Top 3 Easiest Ways to Fix Windows 11/11 Black Screen with Cursor</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Keeping Your System Secure with More Yearly Patches on Windows 11
-date: 2024-11-13T05:13:41.942Z
-updated: 2024-11-18T00:40:20.857Z
+date: 2024-11-23T03:35:13.251Z
+updated: 2024-11-28T01:44:13.195Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft has extended support for Windows 11 version 22H2, providing extra time for optional updates.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 * Users should not delay upgrading to the latest version of Windows 11 to ensure continued updates.
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's Happening to Windows 11 22H2's End of Support Date?
 
@@ -44,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  According to Microsoft, this change occurred due to user feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Defining an "Optional Update" in Windows
@@ -57,22 +62,12 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  Check out our guide to [what Windows optional updates are](https://www.makeuseof.com/windows-optional-updates-guide/) for more information about them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does This Mean for Windows 11 22H2 Users?
 
 ![ASUS Zenbook 14 OLED Display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/asus-zenbook-14-oled-display.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Zarif Ali / MakeUseOf
 
@@ -85,10 +80,7 @@ Zarif Ali / MakeUseOf
  As per [Microsoft Learn](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro), Windows Home and Pro will continue getting security updates until October 4, 2024, while the business editions get until October 14, 2025\. You can count this as the "hard deadline," after which you should either upgrade or change the operating system. However, it's always good to be proactive and make the jump as soon as possible (once any initial issues have been patched up).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Upgrade to the Current Version of Windows 11?
@@ -101,29 +93,6 @@ Zarif Ali / MakeUseOf
 
  When Microsoft declares an end-of-support date, it usually sticks to it. However, in rare instances, Microsoft will change this date. Such is the case with Windows 11 version 22H2, which has been given a time extension for optional updates. But what does that mean, both in terms of Windows 11 generally and for your own computer?
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-first-timers-cameras-guide-best-of-24/"><u>[New] First-Timer's Cameras Guide - Best of '24</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-record-streaming-audio-online/"><u>[Updated] 2024 Approved How to Record Streaming Audio Online</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-photographic-tapestry-assembly-techniques/"><u>2024 Approved Photographic Tapestry Assembly Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-d3d11-compatible-gpu-faults-in-w11-and-w10/"><u>Addressing D3D11-Compatible GPU Faults in W11 & W10</u></a></li>
-<li><a href="https://win11.techidaily.com/error-handling-strategies/"><u>Error Handling Strategies:</u></a></li>
-<li><a href="https://win11.techidaily.com/hiding-or-showing-windows-11s-time-and-date/"><u>Hiding or Showing Windows 11'S Time and Date</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-6-lite-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 6 Lite Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-cs-global-offensive-speed-and-precision/"><u>Improve CS Global Offensive Speed and Precision</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-browsing-made-memorable-the-leading-screen-recorder-software/"><u>In 2024, Browsing Made Memorable The Leading Screen Recorder Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-narzo-60-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Narzo 60 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win11.techidaily.com/index-management-in-windows-1011/"><u>Index Management in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/keygen-virus-threat-assessment-causes-consequences-and-system-protection/"><u>Keygen Virus Threat Assessment: Causes, Consequences, & System Protection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-movie-capture-pc-mac-and-mobile-techniques/"><u>Mastering Movie Capture PC, Mac & Mobile Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-restart-efficient-three-ways/"><u>Mastering Windows Restart: Efficient Three Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-backspace-abnormalities-in-modern-os/"><u>Overcoming Backspace Abnormalities in Modern OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211124289-9781611049213-the-necessity-of-prayer/"><u>The Necessity of Prayer | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-premier-samsung-smart-tv-apps/"><u>The Ultimate Guide to Premier Samsung Smart TV Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photo-perfection-troubleshooting-made-simple/"><u>Windows Photo Perfection: Troubleshooting Made Simple</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +100,25 @@ Zarif Ali / MakeUseOf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-chromebook-tips-capturing-high-quality-webcams/"><u>[New] In 2024, Chromebook Tips Capturing High-Quality Webcams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-facebook-to-whatsapp-a-guide-for-video-sharing/"><u>[Updated] In 2024, From Facebook to WhatsApp A Guide for Video Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/8-mistakes-you-should-avoid-making-as-a-beginner-to-windows-11/"><u>8 Mistakes You Should Avoid Making as a Beginner to Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-to-the-windows-startup-settings/"><u>A Complete Guide to the Windows Startup Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-rockalldlldll-unavailability-in-pcs/"><u>Addressing Rockalldll.dll Unavailability in PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11s-0x800713f-email-problem/"><u>Addressing Windows 11'S 0X800713F Email Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-tactics-to-boost-file-organization-with-multi-folder-setup-in-windows-1011/"><u>Advanced Tactics to Boost File Organization with Multi-Folder Setup in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/analyzing-local-file-transmission-methods-which-fits-best/"><u>Analyzing Local File Transmission Methods: Which Fits Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-pinned-items-visibility-on-w11-start/"><u>Boosting Pinned Items Visibility on W11 Start</u></a></li>
+<li><a href="https://win11.techidaily.com/1719369975560-break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs/"><u>From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-i-enjoy-lower-costs-on-streaming-the-insiders-guide-to-netflix-student-deals/"><u>How Can I Enjoy Lower Costs on Streaming? The Insider's Guide to Netflix Student Deals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Without a Home Button</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-war-thunder-game-crashes-with-proven-fixes/"><u>How to Prevent War Thunder Game Crashes with Proven Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/stunning-4k-video-clips-you-need-to-see-for-2024/"><u>Stunning 4K Video Clips You Need to See for 2024</u></a></li>
+</ul></div>
+

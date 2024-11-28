@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential: Narrator Keybindings Decoded"
-date: 2024-09-11T09:30:10.179Z
-updated: 2024-09-12T09:30:10.179Z
+date: 2024-11-22T00:35:52.775Z
+updated: 2024-11-27T23:34:56.478Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
@@ -39,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This way, you can switch between the Legacy and Standard layouts.
@@ -50,10 +44,7 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -180,10 +171,7 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -203,4 +191,24 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/thical-engagement-sustainable-strategies-for-content-creeps-for-2024/"><u>[New] Ethical Engagement Sustainable Strategies for Content Creeps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-windows-10-speaks-a-summary-of-recent-additions-for-2024/"><u>[New] Windows 10 Speaks A Summary of Recent Additions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-optimizing-audio-transition-from-cds-using-wmp/"><u>[Updated] In 2024, Optimizing Audio Transition From Cds Using WMP</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-proactive-copyright-checking-for-safe-tiktok-sharing/"><u>2024 Approved Proactive Copyright Checking for Safe TikTok Sharing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-13-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 13 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bose-qc35-series-volume-troubleshooting-effective-methods-to-restore-sound-output/"><u>Bose QC35 Series Volume Troubleshooting: Effective Methods to Restore Sound Output</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypt-hard-drive-type-with-windows-help/"><u>Decrypt Hard Drive Type with Windows Help</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/fehlerfrei-iphone-backups-wiederherstellen-losungen-fur-unzugangliche-serverseiten/"><u>Fehlerfrei iPhone-Backups Wiederherstellen: Lösungen Für Unzugängliche Serverseiten</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-return-windows-backup-to-initial-settings/"><u>How To Return Windows Backup to Initial Settings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-safeguard-your-mac-a-comprehensive-guide-for-data-encryption-and-hard-drive-restoration/"><u>How To: Safeguard Your Mac - A Comprehensive Guide for Data Encryption and Hard Drive Restoration</u></a></li>
+<li><a href="https://win11.techidaily.com/nonchalant-networking-hide-wireless-connections/"><u>Nonchalant Networking: Hide Wireless Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/prolific-workflows-await-with-these-top-6-to-do-list-titans-on-windows-11/"><u>Prolific Workflows Await With These Top 6 To-Do List Titans on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-routine-for-wiping-steam-dns-cache-on-pc/"><u>Simple Routine for Wiping Steam DNS Cache on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-run-as-administrator-malfunctions/"><u>Steps to Tackle 'Run as Administrator' Malfunctions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-editing-software-tailored-to-dji-filmmaking-for-2024/"><u>Superior Editing Software Tailored to DJi Filmmaking for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-laptop-go-3-review-improved-performance-vs-stagnant-features/"><u>Surface Laptop Go 3 Review: Improved Performance Vs. Stagnant Features</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-up-the-volume-troubleshooting-pc-keys-woes/"><u>Turn Up the Volume: Troubleshooting PC Keys Woes</u></a></li>
+</ul></div>
 

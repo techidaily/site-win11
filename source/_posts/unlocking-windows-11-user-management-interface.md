@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows 11 User Management Interface
-date: 2024-11-16T03:10:10.886Z
-updated: 2024-11-18T03:18:34.315Z
+date: 2024-11-21T00:06:48.698Z
+updated: 2024-11-28T01:54:04.429Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,7 @@ To access the Authorization Manager, follow these steps:
  With this approach, you don't have to browse through multiple menus or folders and can begin managing your computer's authorization settings in a moment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Windows File Explorer
@@ -69,25 +66,13 @@ To access the Authorization Manager, follow these steps:
 3. In the Command Prompt, type**azman.msc** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will instantly open the Authorization Manager window on your computer screen. The same command will also work if you launch and execute it in Windows PowerShell.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
@@ -98,6 +83,14 @@ To access the Authorization Manager, follow these steps:
 2. Click**Run new task** at the top of Task Manager.  
 ![Open the Authorization Manager Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-the-authorization-manager-using-task-manager.jpg)
 3. In the text box, type "azman.msc" and press**Enter** or click**OK** . This will open the Authorization Manager application in a moment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Create a Desktop Shortcut
 
@@ -112,19 +105,6 @@ C:\WINDOWS\system32\azman.msc
 3. Give it a name and click**Finish** .
 
  The shortcut icon will automatically be added to your desktop. Double-click on it to launch the tool.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Easy and Quick Access to the Authorization Manager
 
@@ -145,18 +125,22 @@ C:\WINDOWS\system32\azman.msc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-filmmaking-recording-video-across-various-platforms-for-2024/"><u>[New] Digital Filmmaking Recording Video Across Various Platforms for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-achieving-excellence-in-android-video-production-using-obs/"><u>[Updated] Achieving Excellence in Android Video Production Using OBS</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-8-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 8 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-camcorders-with-direct-facing-screens/"><u>Elite Camcorders with Direct Facing Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/extracting-tabbed-files-windows-11-quick-guide/"><u>Extracting Tabbed Files: Windows 11 Quick Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-9-key-platforms-for-high-quality-livestreaming/"><u>In 2024, 9 Key Platforms for High-Quality Livestreaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-video-editing-experience-for-vimeo-enthusiasts/"><u>In 2024, The Ultimate Video Editing Experience for Vimeo Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-bsod-data-for-system-debugging/"><u>Leveraging BSOD Data for System Debugging</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-copy-pasting-malfunctions-in-windows-11/"><u>Rectifying Copy-Pasting Malfunctions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-typical-windows-explore-view-configuration/"><u>Revive Typical Windows Explore View Configuration</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/streamlined-recording-procedures-for-snapchat-ready-videos/"><u>Streamlined Recording Procedures for Snapchat-Ready Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-mac-software-a-comprehensive-list-by-zdnet/"><u>Top-Rated Mac Software : A Comprehensive List by ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-tech-for-remote-team-engagement/"><u>[New] In 2024, Leading Tech for Remote Team Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965021040-approach-combine-knowledge-of-arc-blow-causes-with-mitigation-strategies-discussed-earlier/"><u>Approach: Combine Knowledge of Arc Blow Causes with Mitigation Strategies Discussed Earlier.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/auditory-ambience-finder-for-film-and-video-sets/"><u>Auditory Ambience Finder For Film and Video Sets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-computer-storage-the-c-and-d-scene/"><u>Comparing Computer Storage: The 'C:' And 'D:' Scene</u></a></li>
+<li><a href="https://win11.techidaily.com/hdd-or-ssd-discovering-your-disk-type-in-windows/"><u>HDD or SSD? Discovering Your Disk Type in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-custom-pattern-lock-to-a-windows-10-or-11-pc/"><u>How to Add a Custom Pattern Lock to a Windows 10 or 11 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-7-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 7 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-fps-monitor-and-counter-apps-for-an-optimal-windows-11-experience/"><u>Navigating FPS Monitor & Counter Apps for an Optimal Windows 11 Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/optimal-online-strategies-for-language-acquisition/"><u>Optimal Online Strategies for Language Acquisition</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-productivity-implementing-a-90-degree-window-shift/"><u>Perfect Productivity: Implementing a 90-Degree Window Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-steam-unable-to-sync-with-windows-files/"><u>Remedying Steam Unable to Sync with Windows Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-call-of-duty-black-ops-cold-war-voice-chat-problems-and-solutions/"><u>Resolving Call of Duty: Black Ops Cold War - Voice Chat Problems and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-halt-endless-cycle-of-bios-boot-in-windows-pcs/"><u>Strategies to Halt Endless Cycle of BIOS Boot in Windows PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/superior-selection-androids-leading-video-call-for-large-groups/"><u>Superior Selection Android's Leading Video Call for Large Groups</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unknown-device-issues-on-w11w10-system/"><u>Tackling 'Unknown Device' Issues on W11/W10 System</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-troublesome-downloads-a-win11-guide-to-smoother-sync/"><u>Tackling Troublesome Downloads: A Win11 Guide to Smoother Sync</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-choice-quick-accurate-screen-reports-for-2024/"><u>The Ultimate Choice Quick, Accurate Screen Reports for 2024</u></a></li>
 </ul></div>
 

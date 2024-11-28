@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Inactive Windows Disk Management
-date: 2024-11-10T21:26:35.556Z
-updated: 2024-11-17T19:17:50.025Z
+date: 2024-11-20T17:07:18.137Z
+updated: 2024-11-28T00:55:52.741Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Disk Defragmenter? Why Does It Stop Working?
 
@@ -51,19 +55,13 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 5. Click**Apply > OK** to save it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker tool
@@ -88,19 +86,6 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -112,6 +97,11 @@ To run the CHKDSK utility, follow the below steps:
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
 4. When you're in Command Prompt, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -132,10 +122,7 @@ To run the CHKDSK utility, follow the below steps:
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
@@ -159,18 +146,18 @@ To run the CHKDSK utility, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-conveniently-capture-top-chrome-utilities-for-fb-video-downloads-for-2024/"><u>[New] Conveniently Capture Top Chrome Utilities for FB Video Downloads for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-7-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 7 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://win11.techidaily.com/curated-list-best-weather-trackers-for-w10w11/"><u>Curated List: Best Weather Trackers for W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-down-on-computing-power-spent-by-malware-scanners/"><u>Cut Down on Computing Power Spent by Malware Scanners</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-windows-programming-file-layout-pe/"><u>Deciphering the Windows Programming File Layout (PE)</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/gaining-financial-power-secrets-to-thriving-as-a-tiktok-creator-for-2024/"><u>Gaining Financial Power Secrets to Thriving as a TikTok Creator for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s21-fe-5g-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S21 FE 5G (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a34-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/no-cost-3gp-video-rotation-solutions-top-5-tools-you-need/"><u>No-Cost 3GP Video Rotation Solutions Top 5 Tools You Need</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-e8024002e-for-smooth-updates/"><u>Overcoming Error E:8024002E for Smooth Updates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-the-joy-twice-the-fun-televised-repetition-made-easy-for-2024/"><u>Twice the Joy, Twice the Fun Televised Repetition Made Easy for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-addressing-inaudible-wireless-speaker-issues/"><u>Win11: Addressing Inaudible Wireless Speaker Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-quick-guide-to-open-sticky-notes/"><u>Windows 11: Quick Guide to Open Sticky Notes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-eye-opening-experience-selecting-best-for-vr-gaming/"><u>[New] Eye-Opening Experience Selecting Best for VR Gaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-advanced-post-production-techniques-chroma-keying-kinemaster-for-2024/"><u>[Updated] Decoding Advanced Post-Production Techniques Chroma Keying (KineMaster) for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-memory-to-moments-securely-uploading-photos-to-snapchat-for-2024/"><u>[Updated] From Memory to Moments Securely Uploading Photos to Snapchat for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breakthrough-strategies-expert-methods-for-decoding-qr-codes-on-pcs/"><u>Breakthrough Strategies: Expert Methods for Decoding QR Codes on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-onedrive-to-windows-microsoft-services/"><u>Bridging OneDrive to Windows Microsoft Services</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-back-the-search-box-in-win11-task-management/"><u>Bringing Back the Search Box in Win11 Task Management</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-buffering-in-chrome-for-seamless-youtube-playback/"><u>Bypass Buffering in Chrome for Seamless YouTube Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-session-verification-error-with-steams-vac/"><u>Bypassing “Session Verification” Error with Steam’s VAC</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-obstacles-fixing-microsoft-office-activation-issues/"><u>Bypassing Obstacles: Fixing Microsoft Office Activation Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-addresses-player-input-lags-for-smoother-gameplay/"><u>Cyberpunk 2077 Update Addresses Player Input Lags for Smoother Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-leveraging-chatgpts-assistance-in-car-customization/"><u>Effective Strategies: Leveraging ChatGPT's Assistance in Car Customization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-fix-crashing-issues-with-wrc-10-and-enjoy-the-fia-world-rally-championship-smoothly/"><u>Expert Tips to Fix Crashing Issues with WRC 10 and Enjoy the FIA World Rally Championship Smoothly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-playbook-for-cutting-edge-youtube-studio-video-editing/"><u>The Ultimate Playbook for Cutting-Edge YouTube Studio Video Editing</u></a></li>
 </ul></div>
 

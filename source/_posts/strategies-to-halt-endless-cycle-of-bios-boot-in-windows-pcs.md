@@ -1,7 +1,7 @@
 ---
 title: Strategies to Halt Endless Cycle of BIOS Boot in Windows PCs
-date: 2024-11-16T08:17:38.469Z
-updated: 2024-11-17T20:12:07.252Z
+date: 2024-11-24T21:45:21.399Z
+updated: 2024-11-27T16:29:25.480Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 
  Disconnecting the peripherals and discharging the static charge has fixed the issue under discussion for some users. Therefore, before you proceed with any other fixes, unplug all peripherals from your device, and press the power button for half a minute to discharge static electricity. After that, reboot your device. If it boots back into BIOS, begin applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Perform a Quick Restart From the BIOS
 
  Although it sounds pretty simple, restarting the computer after saving BIOS settings usually boots a device into Windows, which may help bypass the issue. Therefore, once your device boots into BIOS, do not make any changes; save the changes and exit BIOS. Afterward, your device may restart once and boot directly into Windows this time.
@@ -52,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 
  Therefore, make sure the boot key on your keyboard isn't pressed. If there are any dust particles on it, wipe them off and press the key several times to ensure nothing is stuck.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Ensure the Drive Containing the Operating System Is Plugged In
 
  Your device can also boot into BIOS if it does not find a bootable drive containing your operating system. Typically, it happens when your PC's hard drive disconnects or is no longer detected by your device due to a hardware issue.
@@ -65,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
  If you don't see the drive with your OS installed, ensure it's connected properly. If your drive is connected but not detectable by your device, you should have it inspected to see if there is a hardware problem. However, if the drive containing your operating system is listed there, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check Your Boot Sequence
@@ -84,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 ![Putting the Drive Containing the OS at Top in Boot Sequence in BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/putting-the-drive-containing-the-os-at-top-in-boot-sequence-in-bios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Fast Startup
@@ -103,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
  So, if you are able to boot to Windows from BIOS but again encounter the issue when restarting, refer to our guide on [how to update your UEFI BIOS in Windows](https://www.makeuseof.com/tag/update-uefi-bios-windows/). If you cannot boot to Windows, you will have to resort to other methods of updating BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Replace or Reinsert the CMOS Battery
@@ -114,10 +102,7 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 ![Person tampering with a motherboard.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/cmos-battery-explained-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The CMOS battery powers the BIOS firmware on the laptop. If you are unable to boot to Windows, a dead CMOS battery could also be to blame. Often, just removing and reinserting the battery fixes the issue; however, it resets a few settings, including the date and time. In case of a dead battery, you may need to replace it.
@@ -130,27 +115,6 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 
  If you have trouble booting the operating system repeatedly and want your device to boot to Windows rather than BIOS, here are a few checks and fixes you can apply.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>[New] Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-echoes-fade-out-audio-leveling-methods/"><u>[New] In 2024, Echoes Fade Out Audio Leveling Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-win10-gamers-ultimate-guide-to-screen-recordings/"><u>[New] Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-az-screenshot-mastery-full-app-review/"><u>[Updated] In 2024, AZ Screenshot Mastery - Full App Review</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-cinema-boosted-list-of-the-best-15-luts/"><u>2024 Approved GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-entering-your-folder-of-apps-in-windows-11/"><u>A Step-by-Step Guide to Entering Your Folder of Apps in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/access-denied-tips-and-fixes-for-onedrive-on-windows-pcs/"><u>Access Denied? Tips and Fixes for OneDrive on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-optimal-efficiency-nircmd-tips-for-mastering-windows-11/"><u>Achieve Optimal Efficiency: NirCmd Tips for Mastering Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-unwanted-chrome-notifications-windows/"><u>Avoiding Unwanted Chrome Notifications (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-defenses-steps-to-turn-on-tpm-and-secure-boot-in-windows-11/"><u>Boosting Defenses: Steps to Turn On TPM and Secure Boot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-mobile-sound-for-windows-pc-use-case/"><u>Boosting Mobile Sound for Windows PC Use Case</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-performance-in-plain-sight-a-guide-to-windows-11s-in-place-upgrade/"><u>Boosting Performance in Plain Sight: A Guide to Windows 11'S In-Place Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/1719303345531-dealing-with-dysfunctional-print-via-wwin-command-on-windows/"><u>Dealing with Dysfunctional Print via WWin Command on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/getting-your-macbook-pro-running-key-steps-to-follow/"><u>Getting Your MacBook Pro Running: Key Steps to Follow</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-nvidia-geforce-210-graphics-card-for-optimal-performance-on-windows-10/"><u>Update Your Nvidia Geforce 210 Graphics Card for Optimal Performance on Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-10-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 10 Pro? Here Is the Answer | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +122,21 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ssential-tips-for-crafting-youtube-shorts-templates/"><u>[New] Essential Tips for Crafting YouTube Shorts Templates</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-renowned-20-free-public-domain-pubg-sets/"><u>2024 Approved Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-file-management-with-self-extraction-techniques-in-win11/"><u>Elevating File Management with Self-Extraction Techniques in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-execute-windows-11-powershell-with-high-authority/"><u>How to Execute Windows 11 PowerShell with High Authority</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-utilize-bluescreenview-effectively/"><u>How to Utilize BlueScreenView Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-ultimate-guide-to-youtube-app-on-iphones-and-androids/"><u>In 2024, Ultimate Guide to YouTube App on iPhones and Androids</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-pin-security-lengthening-passcodes-for-win1111/"><u>Mastering PIN Security: Lengthening Passcodes for Win11/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/qr-code-marketing-innovations-featuring-prominent-lock-screen-placement-in-microsoft-windows/"><u>QR Code Marketing Innovations: Featuring Prominent Lock Screen Placement in Microsoft Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-disabling-office-updates-on-pc/"><u>Quick Guide to Disabling Office Updates on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-action-plan-for-windows-net-repairing-max-156/"><u>Swift Action Plan for Windows .NET Repairing (Max 156)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gptbot-ais-rise-and-website-restrictions/"><u>Unveiling GPTBot: AI's Rise & Website Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/virtualizing-windows-11-with-vmware-workstation-17-player/"><u>Virtualizing Windows 11 with VMWare Workstation 17 Player</u></a></li>
+</ul></div>
+

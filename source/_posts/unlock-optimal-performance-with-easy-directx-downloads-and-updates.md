@@ -1,7 +1,7 @@
 ---
 title: Unlock Optimal Performance with Easy DirectX Downloads & Updates
-date: 2024-11-14T05:35:22.393Z
-updated: 2024-11-18T01:48:23.876Z
+date: 2024-11-27T00:36:34.110Z
+updated: 2024-11-27T17:21:20.281Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,7 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  If you game on Windows, you've probably heard of DirectX. But what does DirectX actually do, and do you need to update it or tweak any options? Let's go over how to check what version of DirectX you have, and whether you need to take any action with it.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is DirectX?
@@ -59,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  Note that DirectX isn't the only graphics API. We've [compared DirectX to OpenGL](https://www.makeuseof.com/opengl-vs-directx-game-development-best/), one of the most popular alternative graphics APIs.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Version of DirectX Do I Have?
@@ -76,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 ![DirectX Tool Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/directx-tool-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the **System** tab, at the bottom of the **System Information** box, you'll see **DirectX Version** where you can confirm what you have installed. If you're on Windows 11 or Windows 10, you should see **DirectX 12** here. Check for Windows updates if not.
@@ -87,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  While you're here, you should click the **Display** tab (you'll see multiple if you use more than one monitor) to confirm your computer supports all features of DirectX. **DirectDraw Acceleration**, **Direct3D Acceleration**, and **AGP Texture Acceleration** should all say **Enabled**. If your graphics card is new enough to support **DirectX 12 Ultimate**, you'll see confirmation of that here too.
 
  You may [need to upgrade your PC's hardware](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to take advantage of DirectX 12 Ultimate if your current build doesn't support it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Download DirectX?
 
@@ -109,10 +98,7 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  While games should always install what they need, you can also run [Microsoft's DirectX End-User Runtime tool](https://www.microsoft.com/en-us/download/details.aspx?id=35) to install legacy DirectX libraries on your system. This won't affect the modern version of DirectX you're using, but could be a time-saver to install all these libraries at once if you play lots of older games.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I Uninstall or Reinstall DirectX?
@@ -125,23 +111,6 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
  We've covered what DirectX is, how to check which version you have installed, and how to get the latest updates. This powerful library of graphics tools is part of the reason why Windows is such a popular platform for gaming. It's a normal part of your computer if you play games, and in most cases, you shouldn't have to do anything to manage DirectX.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-flawless-sound-overlap-exploring-crossfade-for-2024/"><u>[New] Flawless Sound Overlap Exploring Crossfade for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-affordable-high-res-4k-cameras-under-1k/"><u>[Updated] Affordable High-Res 4K Cameras Under $1K</u></a></li>
-<li><a href="https://win11.techidaily.com/craft-a-personalized-windows-console-experience/"><u>Craft a Personalized Windows Console Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-ties-with-windows-11-store/"><u>Cutting Ties with Windows 11 Store</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-device-communication-efficiency-by-optimizing-windows-systems/"><u>Enhancing Device Communication Efficiency by Optimizing Windows Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-hot-40i-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Hot 40i to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-accessing-windows-11s-security-settings/"><u>Guide: Accessing Windows 11'S Security Settings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-gif-software-ranked-apples-favorites/"><u>In 2024, Leading GIF Software Ranked Apple's Favorites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/initiating-understanding-of-screen-resolution-and-quality/"><u>Initiating Understanding of Screen Resolution and Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-through-credential-management-fixes/"><u>Journey Through Credential Management Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-mastery-for-streamlined-project-planning/"><u>Keyboard Mastery for Streamlined Project Planning</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-zero-30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Zero 30 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -149,3 +118,19 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-psd-text-styling/"><u>2024 Approved Advanced PSD Text Styling</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-workflow-fine-tuning-mouse-clicks/"><u>Accelerate Your Workflow: Fine-Tuning Mouse Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-audacitys-unexpected-device-access-in-winos/"><u>Addressing Audacity's Unexpected Device Access in WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-memory-usage-in-windows-without-complications/"><u>Boosting Memory Usage in Windows Without Complications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-glow-in-the-dark-portraiture/"><u>Essential Tips for Glow-in-the-Dark Portraiture</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-m14-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy M14 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-lower-audio-levels-in-os-xwindows/"><u>In 2024, Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>In 2024, The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-professional-video-editors-the-ultimate-list-for-windows-users/"><u>Top 10 Professional Video Editors: The Ultimate List for Windows Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audio-edits-unleashed-navigating-the-tools-of-avidemux-for-professional-results/"><u>Updated Audio Edits Unleashed Navigating the Tools of Avidemux for Professional Results</u></a></li>
+</ul></div>
+

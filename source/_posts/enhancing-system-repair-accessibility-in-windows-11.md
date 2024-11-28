@@ -1,7 +1,7 @@
 ---
 title: Enhancing System Repair Accessibility in Windows 11
-date: 2024-11-14T18:21:34.580Z
-updated: 2024-11-18T00:44:47.202Z
+date: 2024-11-25T19:42:20.982Z
+updated: 2024-11-27T18:26:05.877Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to a Set Up a Desktop Shortcut for Opening the Troubleshooting Applet
 
  Most users probably go through Settings to bring up troubleshooters. However, Control Panel’s Troubleshooting applet includes more troubleshooters than the Settings app. Adding a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) for opening the applet will enable you to access all troubleshooters included within it more quickly.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 4. Erase the default shortcut title, and type**Troubleshooting Applet** in the text box.
 5. Select**Finish** to add the Troubleshooting Applet desktop shortcut.  
 ![The Troubleshooting Applet desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooting-applet-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Double-click the new desktop shortcut you just added to open the Troubleshooting applet. There you can click**Programs** ,**Hardware and Sound** ,**Network and Internet** , or**System and Security** to view and access different categories of troubleshooters. Alternatively, select**View all** open to bring up a full list of troubleshooters. You can click any troubleshooter there to open it.
 
@@ -55,16 +63,7 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
  Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up a Troubleshooting Hotkey
@@ -105,16 +104,13 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add a Troubleshooters Submenu to the Context Menu
 
@@ -127,32 +123,26 @@ msdt.exe /id AudioPlaybackDiagnostic`
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
 ![The Troubleshooters submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you can select**Classic Troubleshooting applet** to bring up the Troubleshooting home screen in the Control Panel. Select**All Categories** to open the full list of troubleshooters. Or click**Programs** ,**Hardware and Sound** ,**Network and Internet** , and**System Security** to view category pages for opening troubleshooters.
 
  The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Some Shortcuts for Accessing Troubleshooters in Windows
 
@@ -173,22 +163,22 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-are-reviews-on-goods-and-services-for-cash/"><u>2024 Approved Are Reviews on Goods & Services for Cash?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-building-community-through-thoughtful-facebook-giveaways/"><u>2024 Approved Building Community Through Thoughtful Facebook Giveaways</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721455342656-contacts-not-responding-on-ios-three-tips-for-a-smooth-solution/"><u>Contacts Not Responding on iOS? Three Tips for a Smooth Solution.</u></a></li>
-<li><a href="https://win11.techidaily.com/corrective-guide-to-browser-paste-issues-on-windows/"><u>Corrective Guide to Browser Paste Issues on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-dev-drive-setup-in-windows-11-development-space/"><u>Demystifying Dev Drive Setup in Windows 11 Development Space</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/go-digital-without-breaking-the-bank-top-20-cost-free-cloud-storage-services-1tbplus/"><u>Go Digital Without Breaking the Bank - Top 20 Cost-Free Cloud Storage Services (1TB+)</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-installation-windows-cab-files-unpacked-and-utilized/"><u>Initiating Installation: Windows CAB Files Unpacked and Utilized</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops-for-2024/"><u>Launch Free DVD Playback Capabilities on Windows/Mac Laptops for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/les-5-meilleurs-logiciels-de-montage-video-gratuit-du-monde-en-2024-top-picks/"><u>Les 5 Meilleurs Logiciels De Montage Vidéo Gratuit Du Monde en 2024 - Top Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-disregard-must-have-components-issue-in-win10win11/"><u>Quick Guide to Disregard Must-Have Components Issue in Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-headphone-connection-errors-in-windows-1011/"><u>Resolving Headphone Connection Errors in Windows 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-overcoming-device-managers-code-41-hurdles/"><u>The Ultimate Guide to Overcoming Device Manager's Code 41 Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-best-video-edits-and-scripting-tools-in-windows-11/"><u>The Ultimate List: Best Video Edits & Scripting Tools in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-130-music-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia 130 Music Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-the-way-you-use-windows-11s-search-feature/"><u>Transforming the Way You Use Windows 11'S Search Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-group-policy-settings-an-exploration-in-3-dimensions/"><u>Unraveling Windows Group Policy Settings: An Exploration in 3 Dimensions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-win10-games-a-comprehensive-breakdown/"><u>[New] Capturing Win10 Games A Comprehensive Breakdown</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-video-vroom-guide-rotating-images-to-gain-insta-momentum-for-2024/"><u>[Updated] The Video Vroom Guide Rotating Images to Gain Insta Momentum for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-9-complimentary-christmas-films-on-youtube/"><u>[Updated] Top 9 Complimentary Christmas Films on YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/changing-your-macs-folder-hues-an-easy-how-to-tutorial/"><u>Changing Your Mac's Folder Hues - An Easy How-To Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/correct-techniques-to-update-the-driver-software-on-a-dell-webcam/"><u>Correct Techniques to Update the Driver Software on a Dell Webcam</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-successful-system-tasks-with-admin-access-in-windows-11-10-and-nversions/"><u>Ensuring Successful System Tasks with Admin Access in Windows 11, 10 & Nversions</u></a></li>
+<li><a href="https://win11.techidaily.com/free-your-pc-from-stubborn-windows-temp-files/"><u>Free Your PC From Stubborn Windows Temp Files</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-discover-the-directory-of-win11-theme/"><u>How to Discover the Directory of Win11 Theme</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-g54-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola G54 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-tinker-with-time-display-in-windows-taskbar/"><u>Learn to Tinker with Time Display in Windows Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-window-11-with-these-6-trusted-android-apps/"><u>Optimize Your Window 11 with These 6 Trusted Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blue-screen-code-xc0000142/"><u>Overcoming Blue Screen Code XC0000142</u></a></li>
+<li><a href="https://games-able.techidaily.com/protective-panels-the-new-standard-devices/"><u>Protective Panels: The New Standard Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-restore-tab-functionality-on-windows/"><u>Regaining Control: Restore Tab Functionality on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-basic-file-organization-in-windows-explorer/"><u>Restore Basic File Organization in Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/shadow-play-with-microsofts-miniature-artist/"><u>Shadow Play with Microsoft's Miniature Artist</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering DNS Configuration in Windows 11 for Efficiency
-date: 2024-11-11T17:42:58.848Z
-updated: 2024-11-17T21:24:22.808Z
+date: 2024-11-24T01:52:22.217Z
+updated: 2024-11-27T22:01:24.466Z
 tags:
   - windows10
   - windows11
@@ -40,21 +40,28 @@ Repeat the following steps to disable the DNS client service:
 4. Change the**Value Data** to**4** and keep the base as**Hexadecimal** . Click on the**OK** button.  
 ![Disable the DNS Client Service Using Registry Editor-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-1.jpg)
 5. Close the Registry editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
 7. Locate the DNS Client service. You will see that the service is still running but the Startup Type field shows Disabled.  
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
- Now, DNS Client Service won’t start until you manually tweak its registry key again.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now, DNS Client Service won’t start until you manually tweak its registry key again.
 
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
@@ -73,10 +80,7 @@ Repeat the following steps to disable the DNS client service:
  Open the Registry Editor with administrator privileges and navigate to the DNS Client service path as described in the previous section. Now, you can change the**Value Data** of the**Start DWORD value** to any of the numbers described above.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Quickly Disable the DNS Client Service Using Command Prompt
@@ -91,17 +95,7 @@ Repeat the following steps to disable the DNS client service:
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
@@ -123,16 +117,22 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-ghostly-snapsnapping-stealthy-techniques-for-photo-taking-on-snapchat/"><u>[New] In 2024, Ghostly SnapSnapping Stealthy Techniques for Photo-Taking on Snapchat</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-joining-flv-files-a-step-by-step-guide/"><u>[Updated] In 2024, Joining FLV Files A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 6s Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-step-by-step-guide-to-indonesian-greeting-etiquette/"><u>A Step-by-Step Guide to Indonesian Greeting Etiquette</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-live-task-tracker-update-rate-in-windows-11/"><u>Enhancing Live Task Tracker Update Rate in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/game-resurrection-applying-retroarchs-shaders-to-vintage-games/"><u>Game Resurrection: Applying RetroArch's Shaders to Vintage Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-store-repair-techniques-error-0x80073d26/"><u>Mastering Microsoft Store Repair Techniques: Error 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-entering-windows-11s-authentication-screen/"><u>Methods for Entering Windows 11'S Authentication Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overclocked-cpus-for-gaming-users/"><u>Troubleshooting Overclocked CPUs for Gaming Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/virtual-filmscapes-the-future-of-entertainment-for-2024/"><u>Virtual Filmscapes The Future of Entertainment for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-video-chapters-on-youtube-a-professionals-blueprint/"><u>[New] Perfecting Video Chapters on YouTube A Professional's Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-techniques-for-extracting-and-storing-instagram-video-files-pcmac-systems/"><u>[Updated] In 2024, Techniques for Extracting and Storing Instagram Video Files (PC/Mac Systems)</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-between-windows-and-wsl-with-post-update-strategies/"><u>Bridging Gaps Between Windows & WSL With Post-Update Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-connections-ps3-dualshock-on-windows/"><u>Bypass Connections: PS3-DualShock on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-internal-failure-for-smooth-rd-session/"><u>Bypassing Internal Failure for Smooth RD Session</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-server-stumble-errors-on-microsoft-store-win-1011/"><u>Bypassing Server Stumble Errors on Microsoft Store, Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/change-windows-11-taskbar-size/"><u>Change Windows 11 Taskbar Size</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-game-connector-directing-past-fun-into-the-future/"><u>Classic Game Connector: Directing Past Fun Into the Future</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-out-clutter-personalize-your-w11-workspace/"><u>Clear Out Clutter: Personalize Your W11 Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-errors-from-the-recycle-bin-in-win-11-edition/"><u>Clearing Errors From the Recycle Bin in Win 11 Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-perfecting-the-art-of-facebook-live-recording/"><u>In 2024, Perfecting the Art of Facebook Live Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-simplified-your-guide-to-webinar-basics/"><u>In 2024, Zoom Simplified Your Guide to Webinar Basics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enhancing-stability-in-diablo-immortal-on-your-computer-updated/"><u>Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-your-ideal-vr-gear-selection-would-you-prefer-the-ease-of-mobile-or-tethered-setup-for-2024/"><u>Unveiling Your Ideal VR Gear Selection Would You Prefer the Ease of Mobile or Tethered Setup for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-sony-xperia-10-v-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Sony Xperia 10 V Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

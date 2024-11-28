@@ -1,7 +1,7 @@
 ---
 title: Taming the Wandering File Explorer on PCs
-date: 2024-11-15T04:17:36.117Z
-updated: 2024-11-18T08:05:52.487Z
+date: 2024-11-26T00:49:55.176Z
+updated: 2024-11-28T03:48:21.094Z
 tags:
   - windows10
   - windows11
@@ -36,20 +36,21 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 3. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
 
  We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Clear File Explorer History
 
@@ -59,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 2. Type**explorer options** in the box and select the first result that appears.
 3. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the System Maintenance Troubleshooter
 
@@ -83,6 +77,10 @@ To run the System Maintenance troubleshooter on Windows:
 
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check for Corrupted System Files
 
  Another reason why File Explorer may keep opening randomly is if some of the system files on your PC are corrupt. If that’s the case, running the SFC (System File Checker) and DISM (Deployment Image Servicing and Management) scans should help. These tools will scan your computer for damaged or missing system files and attempt to repair them.
@@ -90,10 +88,7 @@ To run the System Maintenance troubleshooter on Windows:
  If you need help running these tools, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Scan for Malware
@@ -113,10 +108,7 @@ To run the System Maintenance troubleshooter on Windows:
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Troubleshoot the Issue With a Clean Boot
@@ -148,24 +140,22 @@ To run the System Maintenance troubleshooter on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>[New] From Bargain Hunting to Video Glamour Editing Insights for Hauls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-frame-by-frame-on-youtube-video-5-free-methods/"><u>[New] In 2024, How to Go Frame by Frame on YouTube Video [5 Free Methods]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-mastery-on-the-move-crafting-impactful-video-thumbnails-mobile/"><u>[New] In 2024, YouTube Mastery on the Move Crafting Impactful Video Thumbnails (Mobile)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-copyright-safe-techniques-for-youtube-to-mp4/"><u>[Updated] 2024 Approved Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] In 2024, From Script to Screenplay Expert Video Editing Insights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-for-effective-periscope-use-for-2024/"><u>[Updated] The Ultimate Guide for Effective Periscope Use for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-to-resolve-virtual-machines-on-windows-11-vmware/"><u>7 Key Steps to Resolve Virtual Machines on Windows 11-VMware</u></a></li>
-<li><a href="https://win11.techidaily.com/a-detailed-look-at-triggering-system-restore-in-windows-11/"><u>A Detailed Look at Triggering System Restore in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-windows-guide-to-infusing-personality-into-your-calendar/"><u>A Window's Guide to Infusing Personality Into Your Calendar</u></a></li>
-<li><a href="https://win11.techidaily.com/acceleration-at-fingertips-3-ways-to-enhance-mouse-double-click-speed/"><u>Acceleration at Fingertips: 3 Ways to Enhance Mouse Double-Click Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/actions-to-take-when-ipad-images-fault-during-transfer-to-windows/"><u>Actions to Take When iPad Images Fault During Transfer to Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-local-administrator-tools-in-windows-1110-home/"><u>Activating Local Administrator Tools in Windows 11/10 Home</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-windows-pc-energy-utilization-efficiency/"><u>Assessing Windows PC Energy Utilization Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-game-loading-times-for-epic-universe/"><u>Boosting Game Loading Times for Epic Universe</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-win1011-graphics-power-the-ultimate-guide-to-vram/"><u>Boosting Win10/11 Graphics Power: The Ultimate Guide to VRAM</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/effortless-win-11-screen-captures-here/"><u>Effortless Win 11 Screen Captures Here</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-logitechs-4k-pro-webcam-a-complete-exploration/"><u>In 2024, Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-companion-for-online-radio-preservationists-for-2024/"><u>The Ultimate Companion for Online Radio Preservationists for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-premium-servers-racks-and-cabinets/"><u>Ultimate Guide to Premium Servers Racks & Cabinets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-essential-steps-to-overcome-fb-video-transmission-failure-iosandroid-for-2024/"><u>[Updated] Essential Steps to Overcome FB Video Transmission Failure (iOS/Android) for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-perfecting-iphone-hdr-imaging-step-by-step/"><u>[Updated] In 2024, Perfecting iPhone HDR Imaging Step by Step</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-accessories-to-elevate-your-sj4000-experience/"><u>[Updated] Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-access-to-windows-11s-application-vault/"><u>Decoding Access to Windows 11'S Application Vault</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/free-video-fiddling-unleash-potential-with-vimeo-editing/"><u>Free Video Fiddling Unleash Potential with Vimeo Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-13-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 13 Pro Data Completely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-the-power-of-windows-decode-your-first-qr-code/"><u>Harnessing the Power of Windows: Decode Your First QR Code</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fire-up-microsoft-paint-on-win11/"><u>How to Fire Up Microsoft Paint on Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidias-newest-geforce-rtx-1080-driver-for-windows-10-download-with-ease/"><u>NVIDIA's Newest GeForce RTX 1080 Driver for Windows 10 - Download with Ease!</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-system-awakening-tweaking-boot-delay-in-win11/"><u>Quickening System Awakening: Tweaking Boot Delay in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-program-size-alteration-through-easy-key-presses-in-win11/"><u>Seamless Program Size Alteration Through Easy Key Presses in Win11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/simple-steps-for-restoring-damaged-avi-and-mkv-files/"><u>Simple Steps for Restoring Damaged AVI & MKV Files</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/461956-9781439158166-the-physics-of-miracles/"><u>The Physics of Miracles | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pro-cheat-sheet-to-clean-backdrops-with-w11s-photo-application/"><u>The Pro Cheat Sheet to Clean Backdrops with W11's Photo Application</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-0xa00f425d-in-windows-camera-app/"><u>Troubleshooting Error 0xA00F425D in Windows Camera App</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-windows-family-safe-guarding-tips/"><u>Troubleshooting Failed Windows Family Safe Guarding Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating FN Key Settings for Windows 11 Users
-date: 2024-11-15T23:39:43.803Z
-updated: 2024-11-17T18:31:17.625Z
+date: 2024-11-25T16:08:51.871Z
+updated: 2024-11-27T18:45:29.120Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
@@ -52,16 +49,14 @@ Here is how to proceed:
 3. Click on**Windows Mobility Center** .  
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
@@ -85,13 +80,6 @@ Similarly, if you have an Acer device, follow these steps:
 2. Once you reach the BIOS screen, head over to the System Configuration Menu and click Enter in the Action Keys Mode option.
 3. Pick the desired mode and hit Exit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -104,12 +92,20 @@ Similarly, if you have an Acer device, follow these steps:
 3. Choose Restart now.  
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are a Windows 11 user, follow these steps:
 
 1. Press the Win + S keys together to open the Windows Search utility.
 2. Type Recovery in the search field and choose**Recovery options** from the list of options available.
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
@@ -121,13 +117,6 @@ If you are a Windows 11 user, follow these steps:
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Fn Lock
 
  If you do not want to press the Fn key every time you want to enable/disable any of the 12 functions, you can toggle on the Fn lock. With this feature, the Fn key will appear to always be held down on the keyboard, and you will be able to use any function key without having to first press the Fn key.
@@ -137,10 +126,7 @@ If you are a Windows 11 user, follow these steps:
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
@@ -176,19 +162,18 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers/"><u>[New] 2024 Approved Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-modern-way-tweeting-videos-to-whatsapp/"><u>[New] 2024 Approved The Modern Way Tweeting Videos to WhatsApp</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>[New] 2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-comprehensive-list-of-webinar-recording-methods/"><u>[Updated] In 2024, The Comprehensive List of Webinar Recording Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/augmenting-user-interface-incorrante-windows-with-portables/"><u>Augmenting User Interface: Incorrante Windows with Portables</u></a></li>
-<li><a href="https://fox-info.techidaily.com/close-up-control-zooming-into-team-meetings-with-msteams-for-2024/"><u>Close-Up Control Zooming Into Team Meetings with MSTEAMS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-success-on-windows-1011-top-5-productivity-boosting-tools/"><u>Drive Success on Windows 10/11: Top 5 Productivity-Boosting Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-connect-airpods-to-windows/"><u>Expert Tips to Connect AirPods to Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/identifying-relevant-metaphors-and-analogies/"><u>Identifying Relevant Metaphors and Analogies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-n3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find N3 Phones with/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-teamsters-crashes-on-windows-11-and-10-pcs/"><u>Preventing Teamsters Crashes on Windows 11 & 10 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/spruce-up-system-tray-with-custom-weather-icons-in-windows-11-desktop-bar/"><u>Spruce Up System Tray with Custom Weather Icons in Windows 11 Desktop Bar</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-foundations-of-virtual-storytelling/"><u>Unveiling the Foundations of Virtual Storytelling</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-edge-utility-sticking-email-alerts-on-the-taskbar/"><u>Windows Edge Utility: Sticking Email Alerts on the Taskbar</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-kids-on-steroids-ryans-incredible-journey-from-child-to-ceo-for-2024/"><u>[Updated] Kids on Steroids Ryan’s Incredible Journey From Child to CEO for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-visual-experience-eizos-4k-monitor-reviewed/"><u>[Updated] Ultimate Visual Experience EIZO's 4K Monitor Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securing-your-scene-camera-shake-solutions/"><u>2024 Approved Securing Your Scene Camera Shake Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/dxvk-explained-enhancing-gaming-on-windows/"><u>DXVK Explained: Enhancing Gaming on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-requested-resource-is-in-use-error-in-windows-10-and-11/"><u>How to Fix “The Requested Resource Is in Use” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-becoming-an-ig-star-essential-management-tools-reviewed/"><u>In 2024, Becoming an IG Star Essential Management Tools Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-k11x-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo K11x Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-windows-11-for-effective-error-insights/"><u>Leveraging Windows 11 for Effective Error Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pixel-perfection-for-those-just-starting-out/"><u>Pixel Perfection for Those Just Starting Out</u></a></li>
+<li><a href="https://win11.techidaily.com/reinvigorating-windows-explorer-in-win1011/"><u>Reinvigorating Windows Explorer in WIN10/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-smart-way-to-store-video-meetings-on-devices-for-2024/"><u>The Smart Way to Store Video Meetings on Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unpartition-your-drives-with-precision-the-fourfold-strategy-for-win-os/"><u>Unpartition Your Drives with Precision: The Fourfold Strategy for Win OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Management of Terminal's Focus Mode Entry/Exit Rituals
-date: 2024-11-17T08:30:44.911Z
-updated: 2024-11-18T08:10:03.540Z
+date: 2024-11-23T22:55:52.897Z
+updated: 2024-11-28T04:03:27.120Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use Windows Terminal Settings
 
  Entering Focus Mode in Windows Terminal is easy. all you need to do is make a few adjustments to the settings. Here's how:
@@ -47,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use the Command Palette
 
  If you prefer using commands, you can enter Focus Mode in the Windows Terminal through the Command Palette. Here's how to do it:
@@ -62,15 +59,17 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 2. In the Terminal window, press**Ctrl + Shift + P** to open the Command Palette.  
 ![Use the Command Palette to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-the-command-palette-to-enable-focus-mode.jpg)
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
 
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
@@ -83,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 3. Next, scroll down and select**Toggle focus mode** from the option list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
@@ -105,10 +101,7 @@ wt.exe /focus
  This will open the Windows Terminal in Focus Mode, with all tabs and title bars hidden. To switch back to normal mode, press**Ctrl + Shift + P** and select Toggle focus mode from the Command Palette.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Switch to the Windows Terminal Focus Mode Quickly on Windows
@@ -130,14 +123,15 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortless-enhancements-how-to-amplify-your-image-edits-on-pc/"><u>[Updated] 2024 Approved Effortless Enhancements How to Amplify Your Image Edits on PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-approaches-to-monitoring-and-snapping-digital-displays-for-2024/"><u>[Updated] Innovative Approaches to Monitoring and Snapping Digital Displays for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-beginners-companion-navigating-snapseed-tools/"><u>2024 Approved Beginner's Companion Navigating Snapseed Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-about-to-expire-message-on-microsoft-os/"><u>Bypassing the About To Expire Message on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-excessive-use-of-windows-module-installer-worker/"><u>Decreasing Excessive Use of Windows Module Installer Worker</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-mail-readability-removing-html-from-email-text/"><u>Enhancing Windows 11 Mail Readability: Removing HTML From Email Text</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-xbox-360-controllers-up-and-running-with-new-drivers/"><u>Get Your Xbox 360 Controllers Up & Running with New Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-x5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco X5 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-assistance-entry/"><u>Mastering the Art of Windows Assistance Entry</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-facetime-call-recording-techniques-unveiled/"><u>[New] Facetime Call Recording Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-enable-monetization-on-youtube-for-mobile-devices-a-2024-guide/"><u>[Updated] How to Enable Monetization on YouTube for Mobile Devices A 2024 Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-live-streaming-services-ranked-your-in-depth-comparison-for-2024/"><u>Best Live Streaming Services Ranked Your In-Depth Comparison for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-strategies-quieting-down-background-programs/"><u>Essential Strategies: Quieting Down Background Programs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-5-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT 5 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-password-safety-into-windows-file-systems/"><u>Integrating Password Safety Into Windows File Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mophie-powerstation-ac-evaluation-an-expensive-yet-handy-charging-solution/"><u>Mophie Powerstation AC Evaluation: An Expensive Yet Handy Charging Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-context-selection-on-windows-11-list/"><u>Simplifying Context Selection on Windows 11 List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-11-techniques-for-perfecting-hue-balance-for-2024/"><u>Top 11 Techniques for Perfecting Hue Balance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-winos-command-power-over-applications-browsing/"><u>Unlocking WinOS Command Power over Applications, Browsing</u></a></li>
 </ul></div>
 

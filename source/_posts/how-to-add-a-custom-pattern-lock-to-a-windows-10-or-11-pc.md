@@ -1,7 +1,7 @@
 ---
 title: How to Add a Custom Pattern Lock to a Windows 10 or 11 PC
-date: 2024-11-17T05:21:28.233Z
-updated: 2024-11-17T23:16:40.218Z
+date: 2024-11-25T03:54:15.896Z
+updated: 2024-11-27T20:26:00.380Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 2. Next, extract 9Locker’s archive with your favorite method for [unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folders utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-window.jpg)
 3. Double-click the **9LockerSetup.exe** file to bring up the installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Next** once and select the **I accept the terms in the license agreement** radio button.
 5. Then click **Next** to proceed with installation.
 6. Press the setup wizard’s **Finish** button after installing 9Locker.
@@ -48,9 +53,17 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can lock Windows anytime by activating the pattern lock. Double-click the 9Locker desktop shortcut to activate the pattern lock screen. Drag the mouse cursor across the circles on the 3x3 grid while pressing the left button to input the set pattern for unlocking Windows.
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Customize 9Locker
 
@@ -69,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
@@ -87,26 +97,12 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 ![The setup wizard for Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock-setup-wizard.jpg)
 4. Press the **Finish** button with the Launch Eusing Maze Lock checkbox selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. An Eusing Maze Lock prompt for unlocking the preset pattern lock will appear. Click **OK** to close that prompt and bring up a configuration window.
 
 1. Press the **Reset Pattern** button.
 2. Select a **3 \* 3**, **4 \* 4**, or **5 \* 5** pattern grid size on the drop-down menu.  
 ![The Reset Pattern](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-pattern-tab.jpg)
 3. Hold the left mouse button and drag your cursor over the circles to set a lock pattern.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click **OK** on the reset lock pattern prompt.
 5. Select **Yes** when asked to back up the lock pattern. Then select a backup folder and click **Save**.
@@ -118,31 +114,15 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
 
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
 
@@ -154,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -162,22 +146,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-hilarious-threads-the-tweeter-treasury-for-2024/"><u>[Updated] Hilarious Threads The Tweeter Treasury for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>2024 Approved Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-for-restoring-windows-hello-fingerprint-functionality/"><u>7 Key Steps for Restoring Windows Hello Fingerprint Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/a-new-dawn-of-taskbars-in-windows-11-proposing-six-crucial-changes-for-enhanced-ux/"><u>A New Dawn of Taskbars in Windows 11: Proposing Six Crucial Changes for Enhanced UX</u></a></li>
-<li><a href="https://win11.techidaily.com/behind-the-veil-of-user-interface-accessing-windows-hidden-personality-editor/"><u>Behind the Veil of User Interface: Accessing Windows’ Hidden Personality Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-wake-up-alerts-win-1011-full-charge-ding/"><u>Boosting Wake-Up Alerts: Win 10/11 FULL CHARGE DING</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-the-art-of-digital-parenting-with-the-newly-released-fire-hd-10-for-kids-a-comprehensive-review-and-control-analysis/"><u>Master the Art of Digital Parenting with the Newly Released Fire HD 10 for Kids - A Comprehensive Review & Control Analysis</u></a></li>
-<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solving-realtek-wireless-network-drivers-compatibility-issues-on-windows-11-10-and-7/"><u>Solving Realtek Wireless Network Drivers Compatibility Issues on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-gopro-video-editing-software-alternatives/"><u>Updated 2024 Approved Top GoPro Video Editing Software Alternatives</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-from-adventure-to-art-editing-gopro-videos-on-mac-made-easy/"><u>Updated In 2024, From Adventure to Art Editing GoPro Videos on Mac Made Easy</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -185,3 +153,27 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-comprehensive-manual-for-flawless-snapchat-boomers/"><u>[New] 2024 Approved The Comprehensive Manual for Flawless Snapchat Boomers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>[New] Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-tier-extended-reality-experience-makers-for-2024/"><u>[New] Top-Tier Extended Reality Experience Makers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extracting-images-from-videos-in-windows-11-photos/"><u>2024 Approved Extracting Images From Videos in Windows 11 Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-from-storyboard-to-screenplay-filmmaking-essentials/"><u>2024 Approved From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y200-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y200 PC | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-the-world-of-windows-cab-files-a-primer/"><u>Delving Into the World of Windows Cab Files: A Primer</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/erhohen-sie-die-kapazitat-ihres-dell-xps-ssd-mit-zwei-unkomplizierten-klonverfahren/"><u>Erhöhen Sie Die Kapazität Ihres Dell XPS SSD Mit Zwei Unkomplizierten Klonverfahren</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-driver-updates-and-downloads-for-optimizing-your-lenovo-t420-on-windows/"><u>Essential Driver Updates and Downloads for Optimizing Your Lenovo T420 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-top-windows-to-do-software-choices/"><u>Exploring the Top Windows To-Do Software Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonious-hush-techniques-for-quieting-tunes/"><u>Harmonious Hush Techniques for QUIETing Tunes</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-synapse-with-windows-1011-interface-issues/"><u>Reconciling Synapse with Windows 10/11 Interface Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-system-conflicts-one-antivirus-at-a-time-in-windows/"><u>Reducing System Conflicts: One Antivirus at a Time in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-remote-procedure-call-errors-efficiently/"><u>Resolving Remote Procedure Call Errors Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-camera-failure-to-store-media/"><u>Solving Windows Camera Failure to Store Media</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-performance-balancing-cpu-and-gpu-use-in-games/"><u>Streamlining Performance: Balancing CPU and GPU Use in Games</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-cost-free-strategies-to-amplify-your-pcs-storage-space/"><u>Top 7 Cost-Free Strategies to Amplify Your PC's Storage Space</u></a></li>
+<li><a href="https://win11.techidaily.com/update-file-timestamps-on-windows-easily/"><u>Update File Timestamps on Windows Easily</u></a></li>
+</ul></div>
+

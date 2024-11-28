@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Unlocking Tabbing Capabilities of Windows 11
-date: 2024-11-15T01:46:45.950Z
-updated: 2024-11-18T02:01:35.687Z
+date: 2024-11-24T00:40:50.744Z
+updated: 2024-11-27T23:58:44.179Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,24 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
 ![Dragging out tabs in Chrome Browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dragging-out-tabs-in-chrome-browser.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, you can have two file locations open in two separate tabs in File Explorer. But if you have to stack them side by side, there is no such option. You will have to close one tab (if you like) and open another instance of File Explorer and then use the split-screen layout.
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
@@ -53,16 +58,7 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
@@ -77,30 +73,20 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
 
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
 
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
 
@@ -121,19 +107,24 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-audiovisual-fusion-incorporating-songs-in-ig-media/"><u>[Updated] In 2024, Audiovisual Fusion Incorporating Songs in IG Media</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-masterclass-in-design-upgrading-igtv-backgrounds/"><u>[Updated] Masterclass in Design Upgrading IGTV Backgrounds</u></a></li>
-<li><a href="https://article-tips.techidaily.com/constructing-emotional-resonance-trailer-sound-selection-guide-for-2024/"><u>Constructing Emotional Resonance Trailer Sound Selection Guide for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2019-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2019 - How to get it back | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-moving-programs-from-older-win-pcs-to-windows-11/"><u>Essential Steps for Moving Programs From Older Win PCs to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/examining-the-role-and-relevance-of-wasd-in-windows/"><u>Examining the Role and Relevance of WASD in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-p40-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel P40</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-timbre-control-lowering-song-intensity-preserving-pitch-integrity-for-2024/"><u>New The Art of Timbre Control Lowering Song Intensity Preserving Pitch Integrity for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/one-os-multiple-worlds-windows-across-mobile-tablet-mac-and-desktop-realized/"><u>One OS, Multiple Worlds: Windows Across Mobile, Tablet, Mac & Desktop Realized</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-win11-how-to-resolve-stalled-file-transfers-4/"><u>Overcoming WIN11: How to Resolve Stalled File Transfers (4)</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-accessing-your-iis-management-center/"><u>Quick Fixes for Accessing Your IIS Management Center</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frequent-rust-programming-language-crashes/"><u>Resolved: Fixes for Frequent Rust Programming Language Crashes</u></a></li>
-<li><a href="https://techidaily.com/sign-rtf-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .rtf file Documents Online for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/w11s-moment-update-a-glimpse-at-the-next-gen-features/"><u>W11's Moment Update: A Glimpse at the Next-Gen Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-melodic-marvels-device-spotlight/"><u>[New] In 2024, Melodic Marvels Device Spotlight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchats-visual-language-mastering-the-art-of-gifting-with-gifs-for-2024/"><u>[New] Snapchat's Visual Language Mastering the Art of Gifting with Gifs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-kinemaster-blueprint-for-flawless-green-screen-techniques/"><u>[New] The Complete Kinemaster Blueprint for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-playbook-of-youtubes-innovative-approach-to-video-shorts-for-2024/"><u>[New] The Playbook of YouTube’s Innovative Approach to Video Shorts for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-devenir-un-pro-de-tiktok-en-2024-votre-ultime-guide-pour-succes-dans-les-videos/"><u>Comment Devenir Un Pro De TikTok en 2024 : Votre Ultime Guide Pour Succès Dans Les Vidéos</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mechanics-of-windows-shutdown-practices/"><u>Decoding the Mechanics of Windows Shutdown Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-smart-file-sorting-in-the-latest-windows-11/"><u>Discover Smart File Sorting in the Latest Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-itel-s23-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Itel S23 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-windows-netflix-streaming/"><u>Fixing Unresponsive Windows Netflix Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimize-your-shots-with-pro-light-tips-for-iphones/"><u>Optimize Your Shots with Pro Light Tips for IPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/optimized-outcomes-top-fixes-to-tame-latency-in-your-video-streams/"><u>Optimized Outcomes: Top Fixes to Tame Latency in Your Video Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-critical-feature-7-ways-to-improve-win11s-security/"><u>Reinstating Critical Feature: 7 Ways to Improve Win11's Security</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-upgrades-extending-pin-sizes-on-modern-windows/"><u>Strategic Upgrades: Extending Pin Sizes on Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-clear-up-robloxs-code-403-on-windows/"><u>Strategies to Clear Up Roblox's Code 403 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-oculus-quest-2-for-windows-based-vr-use/"><u>Switching Oculus Quest 2 for Windows-Based VR Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-customizing-win-11s-input-methods/"><u>The Essential Guide to Customizing Win 11'S Input Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-eco-friendly-smartphones-a-comprehensive-guide-by-zdnet/"><u>Top 5 Eco-Friendly Smartphones : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-text-generator-for-2024/"><u>Updated What Is an AI Text Generator for 2024</u></a></li>
 </ul></div>
 

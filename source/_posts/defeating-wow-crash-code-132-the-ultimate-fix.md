@@ -1,7 +1,7 @@
 ---
 title: "Defeating WoW Crash Code #132: The Ultimate Fix"
-date: 2024-11-16T18:33:12.308Z
-updated: 2024-11-18T01:50:44.874Z
+date: 2024-11-24T17:23:49.792Z
+updated: 2024-11-27T16:27:56.458Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Game DVR for Recording Clips
 
  This somewhat unusual potential solution is also among the most widely confirmed to work. Many WoW players have been able to fix error 132 simply by disabling Game DVR background recording. So, maybe that potential fix could work for you as well. Try disabling Game DVR as follows:
@@ -46,38 +50,25 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
  Some WoW players have also confirmed deleting that game’s **Cache** folder can fix error 132\. To do that, open the **\_retail\_** or **\_classic\_** subfolder in the World of Warcraft directory as outlined in the steps above. Then right-click the **Cache** and **Interface** subfolders and select **Delete**.
 
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
 
@@ -94,51 +85,29 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
  Security software packages (antivirus tools and firewalls) could be causing error 132 on your PC by blocking World of Warcraft or other Blizzard processes from running. You can check this by disabling Microsoft Defender or an alternative third-party antivirus tool on your PC. However, it’s not ideal to have to turn off security features every time you want to play World of Warcraft.
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
  Applying all the error 132 troubleshooting methods here will likely fix World of Warcraft’s persistent fatal crashing. Error 132 isn’t always an easy issue to resolve, and you may have to try a few of those potential resolutions to get the WoW game working on Windows 11/10\. With error 132 fixed, you can enjoy all the thrills of World of Warcraft again.
 
  As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-closer-look-at-instagram-stories-beyond-the-screen-for-2024/"><u>[New] A Closer Look at Instagram Stories Beyond the Screen for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-viral-visuals-high-favored-instagram-filters/"><u>[Updated] 2024 Approved Viral Visuals High-Favored Instagram Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/a-handy-guide-to-resolving-windows-filesystem-problems/"><u>A Handy Guide to Resolving Windows Filesystem Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/a-handy-manual-assessing-and-annulling-window-history-data/"><u>A Handy Manual: Assessing & Annulling Window History Data</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-win-utorrent-downloads-tips-and-tricks/"><u>Accelerate Win uTorrent Downloads: Tips and Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/achieve-peak-valorant-playthrough-with-optimized-pc-settings/"><u>Achieve Peak Valorant Playthrough with Optimized PC Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-macos-window-ambiance-on-windows-pc/"><u>Achieving MacOS Window Ambiance on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/activating-windows-compression-and-archiving-tools/"><u>Activating Windows Compression & Archiving Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-the-connection-failure-error-of-mb-in-windows-11/"><u>Addressing the Connection Failure Error of MB in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-linux-capabilities-using-windows-utilities/"><u>Boosting Linux Capabilities Using Windows Utilities</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-adb-connection-gone-wrong-in-osx/"><u>Fix ADB Connection Gone Wrong in OSX</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210860708-9781088124840-healing-from-within/"><u>Healing From Within | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-pick-a-preferred-screen-recorder-app/"><u>How to Pick a Preferred Screen Recorder App</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sonic-scenes-from-still-shots/"><u>In 2024, Sonic Scenes From Still Shots</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-device-to-tv-a-simple-guide-to-streaming-local-videos-on-chromecast/"><u>New From Device to TV A Simple Guide to Streaming Local Videos on Chromecast</u></a></li>
-<li><a href="https://win11.techidaily.com/1719325122258-overcome-your-win11-chrome-freeze-effective-fix-strategies/"><u>Overcome Your Win11 Chrome Freeze: Effective Fix Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-charge-adapters-for-next-gen-gadgets/"><u>Premium Charge Adapters for Next-Gen Gadgets</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -147,3 +116,25 @@ thumbnail: https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-approach-to-fb-video-retrieval-for-2024/"><u>[Updated] A Step-by-Step Approach to FB Video Retrieval for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-directory-top-10-sources-for-free-graphics/"><u>[Updated] In 2024, The Ultimate Directory Top 10 Sources for Free Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-propel-your-creativity-mastering-inshot-for-device-edits/"><u>[Updated] Propel Your Creativity Mastering Inshot for Device Edits</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y200e-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y200e 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-addressing-windows-pink-display-failure/"><u>Effective Techniques for Addressing WINDOWS Pink Display Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-office-hours-on-win-11-with-these-apps/"><u>Elevate Your Office Hours on Win 11 with These Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-the-past-display-today-classics-in-windows-11-pics-space/"><u>Embrace the Past, Display Today: Classics in Windows 11 Pics Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expert-analysis-of-the-kobo-libra-2-the-premier-e-reader-choice/"><u>Expert Analysis of the Kobo Libra 2: The Premier E-Reader Choice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-pova-6-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Pova 6 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-m14-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy M14 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-advanced-text-operations-in-snipping-tool-for-win-11/"><u>Mastering Advanced Text Operations in Snipping Tool for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-your-display-upgrade-to-fancywm-style/"><u>Redefine Your Display: Upgrade to FancyWM Style</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-silent-system-quick-troubleshooting-guide-for-speakers/"><u>Revive Silent System - Quick Troubleshooting Guide for Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/running-libertychat-open-ai-gpt-on-windows-with-freedomgpt/"><u>Running LibertyChat: Open-AI GPT on Windows with FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unseen-windows-on-startup-screen/"><u>Tackling Unseen Windows on Startup Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unbox-t5-and-explore-its-action-filming-capabilities/"><u>Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-step-by-step-to-silence-zoom-microphones-on-windows-macos-and-android-devices-for-2024/"><u>Updated Step by Step to Silence Zoom Microphones on Windows, macOS, and Android Devices for 2024</u></a></li>
+</ul></div>
+

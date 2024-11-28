@@ -1,7 +1,7 @@
 ---
 title: "Win 11 Gamers' Secret: 7 Insider Moves to Up Your Score"
-date: 2024-09-11T09:30:06.779Z
-updated: 2024-09-12T09:30:06.779Z
+date: 2024-11-26T19:46:46.727Z
+updated: 2024-11-28T04:01:17.880Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  If you face these issues then this article may be what you need. Here are some tips for improving and enjoying gaming sessions on your Windows 11 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn On Game Mode
 
  Turning on Game Mode does a lot to improve gaming performance. It redirects more system resources to gaming applications, turns off notifications, and reduces most background activities, thus improving your gaming sessions.
@@ -29,26 +33,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
  To enable it, click on the Windows icon from the taskbar and then open the**Settings** application. Once Settings is open, navigate to**Gaming > Game Mode** and toggle the**Game Mode** switch to the**On** position.
 
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Use Auto HDR
 
@@ -62,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ensure Your Games Use Your Primary GPU
 
  For graphically-demanding games, it's a good idea to ensure they always use your PC's strongest GPU. Most gaming PCs have at least both a dedicated GPU and one built into the CPU, and it's best to give games the former to use.
@@ -71,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Enhanced Pointer Precision
@@ -87,14 +72,11 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![How to turn off enhanced pointer precision on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enhanced-pointer-precision.jpg)
 
- This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
 ## 5\. Update Your GPU's Drivers
 
@@ -103,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
  Factory-installed graphics card drivers are very likely behind on several updates. As such, you must take time to update GPU drivers on new PCs before installing or running games.
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Windows
 
@@ -126,10 +101,7 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
  We've also mainly covered things to enable or tweak in this article, but there are some[parts of Windows 11 you should disable for better gaming performance](https://www.makeuseof.com/windows-11-disable-gaming-performance/) too.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Improving Gaming Performance on Windows 11 PCs
@@ -151,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[New] Comic Corner Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-switching-file-extensions-for-your-mac-snapshots/"><u>[Updated] 2024 Approved Switching File Extensions for Your Mac Snapshots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-melodic-memories-insta-videos-that-sing-to-the-soul/"><u>[Updated] Melodic Memories Insta-Videos That Sing to the Soul</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-samsungs-2023-revamp-bd-j5900-explored/"><u>2024 Approved Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-stories-vibrancy-via-thoughtful-interactive-qandas-for-2024/"><u>Elevate Stories' Vibrancy via Thoughtful Interactive Q&As for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-the-power-of-windows-decode-your-first-qr-code/"><u>Harnessing the Power of Windows: Decode Your First QR Code</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fire-up-microsoft-paint-on-win11/"><u>How to Fire Up Microsoft Paint on Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-30-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 30 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-transferring-usb-drives-in-modern-windows-oss/"><u>Overcoming Non-Transferring USB Drives in Modern Windows OSs</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-system-awakening-tweaking-boot-delay-in-win11/"><u>Quickening System Awakening: Tweaking Boot Delay in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-gaming-classics-mastering-shaders-in-retroarch/"><u>Resurrecting Gaming Classics: Mastering Shaders in RetroArch</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-program-size-alteration-through-easy-key-presses-in-win11/"><u>Seamless Program Size Alteration Through Easy Key Presses in Win11</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-transferring-your-itunes-collection-to-a-windows-pc/"><u>Step-by-Step Guide: Transferring Your iTunes Collection to a Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-automaticamente-tu-mpe-en-un-gif-colorido-y-divertido-gratis-con-el-herramienta-en-linea-de-movavi/"><u>Transforma Automáticamente Tu MPE en Un GIF Colorido Y Divertido Gratis Con El Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-windows-family-safe-guarding-tips/"><u>Troubleshooting Failed Windows Family Safe Guarding Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-you-cant-click-on-anything-on-windows-11/"><u>What to Do if You Can’t Click on Anything on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-with-both-wi-fi-and-ethernet-connections-on-your-computer/"><u>Winning with Both Wi-Fi & Ethernet Connections on Your Computer</u></a></li>
+</ul></div>
 

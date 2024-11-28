@@ -1,7 +1,7 @@
 ---
 title: "The Time Travelers' Guide to Windows 11: Seven Enduring Elements"
-date: 2024-11-11T09:18:29.645Z
-updated: 2024-11-17T22:00:24.184Z
+date: 2024-11-20T16:01:34.976Z
+updated: 2024-11-27T19:29:04.756Z
 tags:
   - windows10
   - windows11
@@ -29,29 +29,19 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Command Prompt, or cmd.exe, was the default command-line tool in Windows. It was first introduced over 35 years ago, way back in 1987, with the Windows NT version introduced in 1993\. Although its look has much improved over the years, it is essentially the same tool that appeared in Windows XP.
 
  With Windows 11, Microsoft finally moved to combine Command Prompt with PowerShell. This new all-in-one Windows terminal tool is now the default when trying to run Command Prompt in the latest versions of the OS. Even so, the old Command Prompt remains and can still be used if you change a few settings in the Windows Terminal.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The Run Dialog
 
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -60,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
  Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disk Management
@@ -71,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
@@ -84,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 ## 4\. The Control Panel
 
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
 
@@ -105,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For most of us, the Character Map is probably a little-used tool. But it does have some use, and Microsoft clearly thinks it's still used and helpful to some people.
 
  So why hasn't it been updated and improved since Windows XP? In fact, it has barely changed, aside from the shape of the window, since Windows 3.1\. That was 30 years ago.
@@ -118,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
  Yes, File Explorer. One of the most prominent updates in Windows 11\. In the latest OS, the ribbon was simplified, and Explorer tabs were added several months after launch. And yet strangely, the old File Explorer style still appears. We're not talking about some downloadable customization here. With the click of a button, anyone can find the old design.
 
  Although it isn't ancient, it's still a leftover from Windows 10\. Which itself hadn't changed much for a long time. If you want to check this out, open the Control Panel and click the up arrow in the toolbar. Why this doesn't default to the new File Explorer, and even why it is there at all, is a bit of a mystery. It means there are two versions of the same feature in Windows 11.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Plethora of Old Windows Features, Still in Windows 11
 
@@ -145,18 +130,21 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/mart-strategies-for-entrepreneurial-video-marketing-for-2024/"><u>[New] SMART Strategies for Entrepreneurial Video Marketing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/countering-dxgideviceremoved-failsafe-techniques/"><u>Countering DXGI_DEVICE_REMOVED Failsafe Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-data-discovery-on-pc-via-everythingapp/"><u>Effortless Data Discovery on PC via EverythingApp</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y17s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y17s Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-best-free-youtube-comment-finder-you-should-try/"><u>In 2024, Best Free YouTube Comment Finder You Should Try</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leapfrogging-past-the-journey-to-windows-11/"><u>In 2024, Leapfrogging Past The Journey to Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-system-protection-and-restoration-in-windows-11-explained/"><u>Mastering System Protection and Restoration in Windows 11 Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/probing-the-heart-of-windows-systems-generating-insightful-reports/"><u>Probing the Heart of Windows Systems: Generating Insightful Reports</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-altering-file-deletion-alerts-in-win/"><u>Steps for Altering File Deletion Alerts in Win</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-ride-gpt-steps-to-customization/"><u>Transform Your Ride: GPT Steps to Customization</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-chaos-powerrename-for-files/"><u>Transforming Chaos: PowerRename for Files</u></a></li>
-<li><a href="https://solve-info.techidaily.com/ultimate-kodi-tutorial-series-mastering-your-media-experience-from-pages-1-6/"><u>Ultimate Kodi Tutorial Series: Mastering Your Media Experience From Pages 1-6</u></a></li>
-<li><a href="https://win11.techidaily.com/win32keygen-understanding-identifying-and-neutralizing-its-threat-to-windows/"><u>Win32/Keygen: Understanding, Identifying & Neutralizing Its Threat to Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010746885-avatar-frontiers-of-pandora-wont-open-here-are-proven-fixes/"><u>'Avatar: Frontiers of Pandora' Won't Open? Here Are Proven Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>[Updated] In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-bio-link-addition-on-tiktok/"><u>[Updated] Mastering Bio Link Addition on TikTok</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-remplacer-un-ssd-sur-une-surface-pro-x-votre-guide-pratique-detaille-pour-lannee-2024/"><u>Comment Remplacer Un SSD Sur Une Surface Pro X : Votre Guide Pratique Détaillé Pour L'Année 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-workflow-with-win-11s-auto-organize-functionality/"><u>Enhance Workflow with Win 11'S Auto-Organize Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-guide-removing-inaccurate-tags-from-onedrive-reparse-points/"><u>Fix Guide: Removing Inaccurate Tags From OneDrive Reparse Points</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-a00f4289-webcam-issues-in-win1011/"><u>Fixing Error A00F4289: Webcam Issues in Win10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/game-critique-building-an-empire-vs-facing-destruction-in-imperator-rome/"><u>Game Critique: Building an Empire vs Facing Destruction in 'Imperator: Rome'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A25 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/increasing-pin-length-safely-on-windows-devices/"><u>Increasing Pin Length Safely on Windows Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-connectivity-an-expert-review-of-the-netgeer-nighthawk-x4-wi-fi-mesh-network-enhancer/"><u>Maximizing Connectivity: An Expert Review of the Netgeer NightHawk X4 Wi-Fi Mesh Network Enhancer</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-screen-limitations-with-effective-strategies/"><u>Overcome Screen Limitations with Effective Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-legacy-boot-menu-colors/"><u>Restoring Legacy BOOT Menu Colors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-techniques-for-successful-dvd-unlocking-using-premier-decryption-programs/"><u>Top Techniques for Successful DVD Unlocking Using Premier Decryption Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-a-study-on-cloud-vs-physical-installation-methods/"><u>Windows Update: A Study on Cloud Vs. Physical Installation Methods</u></a></li>
 </ul></div>
 

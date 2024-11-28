@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Unresponsive Nvidia CP, Windows 11
-date: 2024-09-11T09:30:06.336Z
-updated: 2024-09-12T09:30:06.336Z
+date: 2024-11-23T18:13:34.030Z
+updated: 2024-11-28T01:31:24.319Z
 tags:
   - windows10
   - windows11
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  If the NVIDIA Control Panel is not opening in Windows 11, don't fret. Here's how to get it working again.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Run the NVIDIA Control Panel With Admin Rights
 
  Most users usually select to open the NVIDIA Control Panel from Windows 11’s desktop context menu. However, you can select to run that app as an administrator in the following steps:
@@ -41,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 2. Type**NVIDIA Control Panel** in the search box.
 3. Right-click the**NVIDIA Control Panel** result to select a**Run as administrator** on that app’s context menu.  
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-administrator-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Setting NVIDIA Control Panel to always run as administrator is tricky because that UWP app is installed within a restricted access folder. You’ll need to[take ownership of the WindowsApps folder](https://www.makeuseof.com/windows-10-11-own-folder/) to open that directory. Then select the "Run as administrator" option for the nvcplui.exe file. The default path for the file is:
 
@@ -66,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ![The Restart option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-restart-option.jpg)
 6. Try opening the NVIDIA Control Panel again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Start (or Restart) the NVIDIA Display Container Service
 
  A common reason for the NVIDIA Control Panel not opening is a disabled NVIDIA Display Container service. Other NVIDIA services also need to be enabled for the app to work right. So, you should check that service and others are enabled and running like this:
@@ -83,24 +56,34 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-service-window.jpg)
 4. Next, select the**Automatic** option if the**Startup** menu setting is set to anything else.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 5. Select**Start** (in the properties window) to run the service if it’s stopped.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Make sure you click**Apply** for saving the settings.
 7. Select**OK** to exit the NVIDIA Display Container LS Properties window.
 8. Repeat steps three to seven for the NVIDIA LocalSystem and NetworkService Container services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair the NVIDIA Control Panel App
 
  Windows 11’s standard**Repair** and**Reset** app options are available for NVIDIA Control Panel. So, those troubleshooting options might help you fix that app not opening. You can select the**Reset** and**Repair** options in the same place within the NVIDIA Control Panel settings. Our guide on about[resetting Windows 11s apps](https://www.makeuseof.com/windows-reset-app/) includes step-by-step instructions for how to apply do this.
 
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s NVIDIA Graphics Driver
 
@@ -115,20 +98,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 ![The X64 download link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/x64-link.jpg)
 3. Double-click the**VC\_redist.arm64.exe** (Visual C++ installer) file once it's downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go through the install process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Edit the Windows Registry
@@ -156,13 +129,6 @@ To apply this fix, edit the Registry as follows:
 8. Select**OK** to save the string value.
 9. Now select to reboot your Windows 11/10 PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the NVIDIA Control Panel
 
  The NVIDIA Control Panel is a UWP app you can uninstall, download, and reinstall. If none of the other fixes in this guide work for you, that app might have corrupted or missing files. To do so, remove the NVIDIA Control Panel in Settings, as outlined in our guide for[how to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -172,16 +138,7 @@ To apply this fix, edit the Registry as follows:
  When you’ve uninstalled NVIDIA Control Panel, restart your PC. Then click**Get in Store** app on the[NVIDIA Control Panel](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) [Microsoft Store page](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) . Select**Open Microsoft Store** , and click**Get** to reinstall the app.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Graphics Settings in the NVIDIA Control Panel Again
@@ -201,4 +158,26 @@ To apply this fix, edit the Registry as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ai-powered-vr-retail-navigation/"><u>[Updated] 2024 Approved AI-Powered VR Retail Navigation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-creating-immersive-experiences-with-quality-video-voice-over/"><u>[Updated] Creating Immersive Experiences with Quality Video Voice Over</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-explore-uncharted-territories-with-these-iphone-vr-apps/"><u>[Updated] In 2024, Explore Uncharted Territories with These iPhone VR Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-nubia-z50s-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Nubia Z50S Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/command-the-narrative-windows-11s-verbal-initiation/"><u>Command the Narrative: Windows 11'S Verbal Initiation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-tips-for-diagnosing-and-repairing-lack-of-audio-on-toshiba-portables/"><u>Comprehensive Tips for Diagnosing and Repairing Lack of Audio on Toshiba Portables</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-data-collection-by-windows-11/"><u>Eliminate Data Collection by Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s18-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mov-file-transformation-to-mp4-format-for-free-works-on-mac-os-and-windows-10-platforms-convert-online-now/"><u>MOV File Transformation to MP4 Format for FREE! Works on MAC OS and WINDOWS 10 Platforms - Convert Online Now</u></a></li>
+<li><a href="https://win11.techidaily.com/narrowing-down-user-rights-settings-on-everyday-windows-pcs/"><u>Narrowing Down User Rights Settings on Everyday Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-camera-issue-code-a00f425d-in-windows-os/"><u>Overcoming Camera Issue Code: A00F425D in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-sight-of-hidden-sd-card-in-windows-explorer/"><u>Restore Sight of Hidden SD Card in Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-windows-11-screen-driver-failure/"><u>Steps to Rectify Windows 11 Screen Driver Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-opengl-error-3-with-nvidia-on-windows-oses/"><u>Tackling OpenGL Error 3 with Nvidia on WIndows OSes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-reasons-why-upgrading-to-an-iphone-16-pro-is-not-necessary-for-iphone-14-users-zdnet-perspective/"><u>Top 4 Reasons Why Upgrading to an iPhone 16 Pro Is Not Necessary for iPhone 14 Users | ZDNET Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-the-msvcrt120dll-missing-dilemma-on-your-pc/"><u>Troubleshooting the 'Msvcrt120dll' Missing Dilemma on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-windows-potential-integrate-tdarr-for-cutting-edge-distributed-transcoding/"><u>Unleash Windows Potential: Integrate Tdarr for Cutting-Edge, Distributed Transcoding</u></a></li>
+</ul></div>
 

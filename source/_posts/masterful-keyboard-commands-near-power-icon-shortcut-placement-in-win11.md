@@ -1,7 +1,7 @@
 ---
 title: "Masterful Keyboard Commands: Near-Power Icon Shortcut Placement in Win11"
-date: 2024-11-13T08:29:42.020Z
-updated: 2024-11-18T04:03:49.885Z
+date: 2024-11-20T23:34:56.618Z
+updated: 2024-11-27T22:35:01.934Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
@@ -60,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
@@ -73,17 +71,11 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons on Windows 11
@@ -105,22 +97,18 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-2024s-cloud-pricing-breakdown-a-detailed-comparison/"><u>[Updated] 2024'S Cloud Pricing Breakdown A Detailed Comparison</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-overhauen-uncovering-hidden-shorts-content/"><u>[Updated] Overhauen Uncovering Hidden Shorts Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[Updated] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-x-record-pc-suite-release/"><u>2024 Approved X-Record PC Suite Release</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/android-audio-goldies-for-2024/"><u>Android Audio Goldies for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-generations-old-games-with-dosbox-x/"><u>Bridging Generations: Old Games with DOSBox-X</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-microphone-and-camera-via-app-guard-in-windows-11/"><u>Enable Microphone & Camera via App Guard in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-an-application-not-installed-via-microsofts-store/"><u>Fixing an Application Not Installed via Microsoft's Store</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-installer-access-rights-shortcomings/"><u>Fixing Windows Installer Access Rights Shortcomings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-bluetooth-drivers-from-microsoft-for-windows-11-10-8-and-ebx/"><u>How to Get the Latest Bluetooth Drivers From Microsoft for Windows 11, 10, 8 & Ebx</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capturing-continuity-a-detailed-manual-for-screen-recordings-on-windows-pcs/"><u>In 2024, Capturing Continuity A Detailed Manual for Screen Recordings on Windows PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ioss-finest-virtual-ps2-games/"><u>IOS's Finest Virtual PS2 Games</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-proficiency-the-path-to-mastering-project/"><u>Keyboard Proficiency: The Path to Mastering Project</u></a></li>
-<li><a href="https://win11.techidaily.com/six-easy-steps-to-knowing-the-model-behind-your-pc-windows-edition/"><u>Six Easy Steps To Knowing The Model Behind Your PC Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/terminal-insight-discover-public-ip-in-windows-1110/"><u>Terminal Insight: Discover Public IP in Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-in-speed-mastering-double-click-on-windows-pc/"><u>Triumph in Speed: Mastering Double-Click on Windows PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>[New] Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-time-features-into-youtube-video-formats/"><u>[Updated] Incorporating Time Features Into YouTube Video Formats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-t5s-thievery-review-where-action-meets-technology/"><u>[Updated] T5's Thievery Review – Where Action Meets Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-incompatibility-issues-in-windows-vlc-player/"><u>Correcting Incompatibility Issues in Windows, VLC Player</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-windows-notepad-freeze-phenomena/"><u>Cure Windows Notepad Freeze Phenomena</u></a></li>
+<li><a href="https://win11.techidaily.com/error-2e-and-its-impact-on-windows-updating/"><u>Error 2E and Its Impact on Windows Updating</u></a></li>
+<li><a href="https://win11.techidaily.com/expanding-windows-11s-folder-menu-options-with-new-commands/"><u>Expanding Windows 11'S Folder Menu Options with New Commands</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/identifying-prime-moments-to-share/"><u>Identifying Prime Moments to Share</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-teams-outage-how-do-i-tell-if-the-issue-is-with-my-connection-or-theirs/"><u>Microsoft Teams Outage: How Do I Tell If the Issue Is with My Connection or Theirs?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-web-tool-easy-free-wav-to-m4b-file-transformation-online/"><u>Movavi Web Tool - Easy, Free WAV to M4B File Transformation Online</u></a></li>
+<li><a href="https://win11.techidaily.com/reinitializing-windows-graphics-a-step-by-step-guide/"><u>Reinitializing Windows Graphics: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-on-windows-11s-updated-widget-chooser/"><u>Switching On Windows 11'S Updated Widget Chooser</u></a></li>
 </ul></div>
 

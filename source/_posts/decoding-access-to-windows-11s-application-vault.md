@@ -1,7 +1,7 @@
 ---
 title: Decoding Access to Windows 11'S Application Vault
-date: 2024-11-13T02:20:03.616Z
-updated: 2024-11-18T06:24:58.489Z
+date: 2024-11-21T19:31:16.460Z
+updated: 2024-11-27T20:24:34.908Z
 tags:
   - windows10
   - windows11
@@ -53,14 +53,11 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 3. Type **shell:AppsFolder** in the dialog box and click **OK**.  
 ![Open AppsFolder Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-task-manager.jpg)
 
- The AppsFolder window shows all the programs and apps installed on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The AppsFolder window shows all the programs and apps installed on your computer.
 
 ## 4\. How to Open AppsFolder Using Command Prompt
 
@@ -70,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 2. Type **Command Prompt** and click on the result to open it.
 3. In the Command Prompt window, type **Explorer Shell:AppsFolder**​ and press **Enter**.  
 ![Open AppsFolder Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. How to Open AppsFolder Using Windows PowerShell
 
@@ -88,10 +78,7 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![Open AppsFolder Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! The AppsFolder window opens with all your installed applications listed inside.
@@ -104,6 +91,11 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 2. Type **Explorer Shell:AppsFolder** in the Location box and click **Next**.  
 ![Open AppsFolder Using Desktop Shortcut-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-desktop-shortcut-1.jpg)
 3. Name your shortcut like “Apps Folder” or whatever you want to call it, and click **Finish**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Name the Desktop Shortcut key-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-the-desktop-shortcut-key-1.jpg)
 
  You'll see an Apps Folder shortcut icon appear on your desktop. Double-click it to open the AppsFolder window and manage your apps.
@@ -118,25 +110,13 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 ![Open AppsFolder Using Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-appsfolder-using-shortcut-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The shortcut key will appear next to the **Ctrl + Alt** options. You can now quickly open the AppsFolder with this keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting to the AppsFolder Quickly on Windows
@@ -145,25 +125,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  But how do you access and manage the AppsFolder on Windows? Read this guide to find out.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-foundations-of-building-your-twitter-profile/"><u>[Updated] 2024 Approved The Foundations of Building Your Twitter Profile</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unwind-the-mind-the-ultimate-chill-list/"><u>[Updated] 2024 Approved Unwind the Mind The Ultimate Chill List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-detailed-steps-to-using-azure-speech-recognition-for-2024/"><u>[Updated] Detailed Steps to Using Azure Speech Recognition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-productivity-techniques-for-moving-files-in-windows-11/"><u>Boost Productivity: Techniques for Moving Files in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/contrasting-features-of-installation-methods-exe-vs-msi-files/"><u>Contrasting Features of Installation Methods: Exe vs Msi Files</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-to-revitalize-frozen-spotify-win11/"><u>Essential Techniques to Revitalize Frozen Spotify Win11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-commencing-your-google-meet-experience/"><u>In 2024, Commencing Your Google Meet Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/installation-steps-for-dolby-atmos-in-windows-11/"><u>Installation Steps for Dolby Atmos in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-remedy-stop-repeatedly-crashing-during-your-outriders-gaming-sessions/"><u>Instant Remedy: Stop Repeatedly Crashing During Your Outriders Gaming Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/instructions-for-completely-getting-rid-of-wsl-on-win-11/"><u>Instructions for Completely Getting Rid of WSL on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-uninstall-issues-in-windows-11/"><u>Solving Uninstall Issues in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/titans-triumph-god-of-war-fixes/"><u>Titans Triumph: God of War Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-new-possibilities-leveraging-chatgpt-and-whisper-apis-for-your-business-growth/"><u>Unlocking New Possibilities: Leveraging ChatGPT & Whisper APIs for Your Business Growth</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-complexities-of-windows-system-restore-for-easy-rollbacks/"><u>Unraveling the Complexities of Windows System Restore for Easy Rollbacks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-and-macmovavi-2024/"><u>Windows & Macで使用！最新Movavi ビデオエディター2024試せてみましょう</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +132,23 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-budget-friendly-pro-gamers-essentials-keyboards/"><u>[New] Budget-Friendly Pro Gamers' Essentials Keyboards</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>2024 Approved Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
+<li><a href="https://win11.techidaily.com/defending-your-windows-11-with-the-best-four-password-savers/"><u>Defending Your Windows 11 with the Best Four Password Savers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-iphone-home-button-top-5-tips/"><u>Fixing a Non-Responsive iPhone Home Button: Top 5 Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gb-required-for-one-full-movie-hour-by-hour-for-2024/"><u>GB Required for One Full Movie, Hour by Hour for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bypass-defenders-block-on-third-party-virus-tools/"><u>How to Bypass Defender's Block on Third-Party Virus Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y17s-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y17s Phone?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>In 2024, Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-camera-app-correction-for-error-a00f425d-in-win11/"><u>Mastering Camera App Correction for Error A00F425D in Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenflow-mastery-on-macos-uncovered/"><u>ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-chromium-enhancing-youtube-performance/"><u>Tackling Chromium: Enhancing YouTube Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-budget-choice-for-tech-savvy-users-unveiling-iphone-cups-the-most-amazing-features-including-all-day-power-your-must-see-review-on-zdnet/"><u>The Ultimate Budget Choice for Tech Savvy Users: Unveiling iPhone Cups the Most Amazing Features, Including All-Day Power - Your Must-See Review on ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-accurate-monitoring-of-tasks-cpu-impact-on-system/"><u>Tips for Accurate Monitoring of Tasks' CPU Impact on System</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-implementing-login-change-replace-your-windows-11-pin-with-a-password/"><u>Understanding and Implementing Login Change: Replace Your Windows 11 PIN With a Password</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-troubleshooting-guide-for-offline-printers/"><u>Win11 Troubleshooting Guide for Offline Printers</u></a></li>
+</ul></div>
+

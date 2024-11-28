@@ -1,7 +1,7 @@
 ---
 title: "Faster Typing, Less Lag: Quick WIN 10/11 Input Fixes (#7)"
-date: 2024-11-10T17:41:25.071Z
-updated: 2024-11-18T00:03:09.478Z
+date: 2024-11-26T19:57:50.811Z
+updated: 2024-11-28T03:52:07.063Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Change the Keyboard Properties
 
  Changing a few keyboard properties may help resolve the input lag. Here is all that you need to do:
@@ -33,7 +37,16 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 2. Click **Enter**. This will open the keyboard properties window, where you will see the option to adjust the **Repeat delay** and **Repeat rate**. The Repeat delay allows you to set the delay between you press-holding a key and the initiation of the repeated output of the key. The Repeat rate allows you to adjust the speed at which this output is repeated.  
 ![changing keyboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-settings.jpg)
 3. Shorten the **Repeat delay** and increase the **Repeat rate** to eliminate the input lag. This may require some experimentation before you find the sweet spot, but there's a convenient test box built right into the Keyboard properties window to help you find the right balance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update or Reinstall the Keyboard Driver
 
@@ -53,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 1. Repeat steps 1-3 from above and choose **Browse my computer for drivers**.
 2. Locate and select the updated version you just downloaded and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable Filter Keys
 
  Filter keys is an accessibility feature that instructs Windows to ignore brief or repeated keystrokes. This could potentially be a reason for the delayed output of your keyboard. You can fix this by disabling Filter keys from the keyboard settings.
@@ -74,21 +80,7 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
 
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, try typing something into your text editor and see if it still lags.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Windows Keyboard Troubleshooter
 
@@ -105,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/34a94943f164b90199ce5a5021ae83a50e184cfb3
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the DISM Command Line Tool
@@ -126,6 +115,10 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform Specific Fixes for Wireless Keyboards
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
@@ -133,13 +126,6 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 ### 1\. Replace the Batteries
 
  Start by ruling out the possibility of the lag being caused by a drained battery. To do this, replace the battery or recharge your keyboard to full. If this doesn't fix the problem, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Check the Connection
 
@@ -149,6 +135,10 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  If you've placed other Wi-Fi devices such as a router or a cell phone near the computer, move it away and see if that eliminates the input lag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Consider Getting a New Keyboard
 
  If none of these solutions work, it could be a sign of hardware damage. So before you start searching online for [the best keyboards](https://www.makeuseof.com/tag/best-wireless-mouse-and-keyboard/), try plugging in a different keyboard that works fine on another computer to confirm hardware damage as the cause.
@@ -157,14 +147,11 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
 ![launching on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/on-screen-keyboard.jpg)
 
- Alternatively, you can use one of the several [virtual keyboard apps](https://www.makeuseof.com/windows-best-virtual-keyboards/) available out there. If you don't like the idea of virtual keyboards, you can use speech-to-text software to type without having the user your keyboard.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Alternatively, you can use one of the several [virtual keyboard apps](https://www.makeuseof.com/windows-best-virtual-keyboards/) available out there. If you don't like the idea of virtual keyboards, you can use speech-to-text software to type without having the user your keyboard.
 
 ## Back to Buttery-Smooth Typing on Windows
 
@@ -174,27 +161,6 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-freepaid-audio-cleanup-tools-for-higher-video-quality-for-2024/"><u>[Updated] Free/Paid Audio-Cleanup Tools for Higher Video Quality for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tactical-titles-trailer-producer/"><u>2024 Approved Tactical Titles Trailer Producer</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-windows-voice-recording/"><u>A Step-By-Step Guide to Windows Voice Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-greyed-out-display-changes-on-windows-system/"><u>Eliminate Greyed-Out Display Changes on Windows System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-13-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 13 Pro Max After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M54 5G FRP?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-inspire-your-sweat-session-with-the-most-motivating-melodies/"><u>In 2024, Inspire Your Sweat Session with the Most Motivating Melodies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/learn-iphone-techniques-for-quick-video-reduction-for-2024/"><u>Learn iPhone Techniques for Quick Video Reduction for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-overcoming-geforce-x0001-on-w10w11-pcs/"><u>Quick Tips: Overcoming GeForce X0001 on W10/W11 PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-dilemma/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Dilemma</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-addressing-windows-non-response-to-powershell-command/"><u>Steps for Addressing Windows Non-Response to PowerShell Command</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-sharing-with-the-top-5-software-picks-for-pcs/"><u>Streamlined Sharing with the Top 5 Software Picks for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-typing-experience-changing-layouts-on-windows-11/"><u>Tailoring Your Typing Experience: Changing Layouts on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-for-beginning-your-steam-gamers-journey-anew/"><u>The Blueprint for Beginning Your Steam Gamers' Journey Anew</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/184065-9781595470034-the-realness-of-witchcraft-in-america/"><u>The Realness of Witchcraft in America | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wonders-unlock-the-secrets-of-measuring-ethernet-speeds/"><u>Windows Wonders: Unlock the Secrets of Measuring Ethernet Speeds</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -202,3 +168,27 @@ DISM /Online /Cleanup-Image /RestoreHealth`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-start-installing-vrecorder-effortlessly/"><u>[New] In 2024, Quick Start Installing VRecorder Effortlessly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-definitive-guide-to-using-vlc-player-in-macos/"><u>[Updated] 2024 Approved The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-leading-pc-vr-headsets-revealed/"><u>2023'S Leading PC VR Headsets Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-methods-for-obtaining-free-picture-screens/"><u>2024 Approved Proven Methods for Obtaining Free Picture Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-in-depth-look-at-new-backup-method/"><u>Decoding Windows 11: In-Depth Look at New Backup Method</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-ways-to-rejuvenate-windows-explorer-11-style/"><u>Efficient Ways to Rejuvenate Windows Explorer 11-Style</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-steps-converting-avi-files-into-wmv-format-with-top-tools/"><u>Effortless Steps: Converting AVI Files Into WMV Format with Top Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-6-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-steam-speed-for-better-windows-gaming/"><u>Optimizing Steam Speed for Better Windows Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-black-screen-in-windows-remote-access/"><u>Overcoming Black Screen in Windows Remote Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-starting-a-hosted-network-on-windows-10-solved/"><u>Overcoming Challenges with Starting a Hosted Network on Windows 10 (Solved)</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-non-functional-shortcut-keys-in-win-11/"><u>Remedy: Non-Functional Shortcut Keys in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-the-windows-command-interface-enhanced-run-tool/"><u>Revolutionizing the Windows Command Interface: Enhanced Run Tool</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-spotify-connectivity-issues-on-windows-11/"><u>Unraveling Spotify Connectivity Issues on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-5-compelling-literary-video-tts/"><u>Unveiling 5 Compelling Literary Video TTs</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-practices-for-win-11s-remote-access/"><u>Unveiling the Best Practices for Win 11'S Remote Access</u></a></li>
+<li><a href="https://win11.techidaily.com/win-plus-print-problem-heres-your-quick-windows-fix-guide/"><u>Win + Print Problem? Here's Your Quick Windows Fix Guide</u></a></li>
+</ul></div>
+

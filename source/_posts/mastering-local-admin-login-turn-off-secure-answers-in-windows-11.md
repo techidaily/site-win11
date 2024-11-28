@@ -1,7 +1,7 @@
 ---
 title: "Mastering Local Admin Login: Turn Off Secure Answers in Windows 11"
-date: 2024-09-05T08:40:19.802Z
-updated: 2024-09-06T08:40:19.802Z
+date: 2024-11-21T23:46:42.994Z
+updated: 2024-11-27T18:05:02.008Z
 tags:
   - windows10
   - windows11
@@ -21,27 +21,17 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
  If you find these security questions more of a hassle than a safety measure, you can disable them. This guide explains how to disable local account security questions on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable Local Account Security Questions on Windows
 
  There are three ways to disable local account security questions in Windows 11\. You can use the Group Policy Editor, the Registry Editor, or a Reg File. Here we explain each method in detail.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Using Group Policy Editor
 
  To disable local account security questions on your computer, use the Group Policy Editor. However, this method applies only to Pro and Enterprise editions. See our guide on [how to access the Local Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/).
@@ -53,20 +43,8 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 4. On the right-side panel, double-click on the **Prevent the use of security questions for local accounts** policy.  
 ![Prevent the use of security questions for local accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prevent-the-use-of-security-questions-for-local-accounts.jpg)
 5. In the Properties window, select the **Enabled** radio button.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Local Account Security Questions Via Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-local-account-security-questions-via-group-policy.jpg)
 6. Then click on **Apply** \> **OK** to save changes.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will instantly disable the security questions for the account you are currently logged into. If you have to disable the feature for other accounts, log in as that user and repeat the steps.
 
@@ -84,6 +62,11 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 5. Once you’ve created the System key, right-click on it and select **New > DWORD (32-bit) Value**.  
 ![Disable Local Account Security Questions Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-local-account-security-questions-using-registry-editor.jpg)
 6. Name the DWORD **NoLocalPasswordResetQuestions** and double-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the pop-up window, set the Value data to **1** and select **Hexadecimal** base.
 8. Click **OK** to save the changes.
 
@@ -91,18 +74,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  To enable this feature again, open the Registry Editor window and delete the **NoLocalPasswordResetQuestions** registry value.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Using a Reg File
 
  If you don’t want to edit the registry manually, create a Reg file instead. This is a simple and quick way to disable local account security questions on Windows. It's especially useful for users without Group Policy Editor access or who prefer not to use Registry Editor.
@@ -117,15 +88,18 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 4. Select **All Files** from the **Save as type** drop-down menu.  
 ![Create a Reg File to disable Security Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-to-disable-security-questions.jpg)
 5. Name the file **DisableSecurityQuestions.reg** and save it to your desktop.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now double-click on the reg file to execute it.
 
  This will create a new registry value in the System key and immediately disable local account security questions in Windows 11\. To enable the feature again, delete the **DisableSecurityQuestions.reg** file from your desktop and restart the computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop Windows From Asking Security Questions
 
@@ -133,11 +107,24 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  If you find these security questions more of a hassle than a safety measure, you can disable them. This guide explains how to disable local account security questions on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-dive-into-the-digital-ocean-unveiling-facebooks-video-depth-for-2024/"><u>[New] Dive Into the Digital Ocean Unveiling Facebook's Video Depth for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-cross-platform-content-spread-tweeting-and-tumbling/"><u>[New] In 2024, Cross-Platform Content Spread Tweeting & Tumbling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-minecraft-homes-innovative-and-stylish-designs-for-2024/"><u>[Updated] Minecraft Homes Innovative & Stylish Designs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-hulu-live-anywhere-a-practical-how-to-manual/"><u>Capturing Hulu Live Anywhere - A Practical How-To Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-your-personalized-windows-11-haven/"><u>Creating Your Personalized Windows 11 Haven</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-playing-fortnite-with-non-compatible-gpus-in-windows-fixed/"><u>Solution: Playing Fortnite with Non-Compatible GPUs in Windows [Fixed]</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-opengl-error-3-with-nvidia-on-windows-oses/"><u>Tackling OpenGL Error 3 with Nvidia on WIndows OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211676061-the-ultimate-fix-for-google-chromes-cache-miss-error-tips-and-tricks-to-get-you-back-online/"><u>The Ultimate Fix for Google Chrome's Cache Miss Error: Tips & Tricks to Get You Back Online</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-the-msvcrt120dll-missing-dilemma-on-your-pc/"><u>Troubleshooting the 'Msvcrt120dll' Missing Dilemma on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-windows-potential-integrate-tdarr-for-cutting-edge-distributed-transcoding/"><u>Unleash Windows Potential: Integrate Tdarr for Cutting-Edge, Distributed Transcoding</u></a></li>
+</ul></div>
+

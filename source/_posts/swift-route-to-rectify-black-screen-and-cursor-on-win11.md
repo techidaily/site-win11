@@ -1,7 +1,7 @@
 ---
 title: Swift Route to Rectify Black Screen and Cursor on Win11
-date: 2024-11-12T18:09:13.161Z
-updated: 2024-11-17T17:42:17.585Z
+date: 2024-11-23T22:37:40.478Z
+updated: 2024-11-27T17:38:55.535Z
 tags:
   - windows10
   - windows11
@@ -33,16 +33,13 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  Windows updates, driver updates, and other glitches can all be responsible for causing your screen to turn black, and this is why there are multiple solutions to the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: PassFab FixUWin
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Download & Install PassFab FixUWin
 
@@ -60,38 +57,25 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It will take a few minutes to create your new boot device.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
 
  Shut down the PC with a black screen and cursor before inserting your disk or USB drive. Restart the computer and hit the key to access your boot menu as the machine starts up. This key is different for different manufacturers, but it is usually F12 or ESC.
 
  You may need to try a few times before your boot menu launches. Once it does, select your recovery disk or USB from the list and restart the machine to boot from it.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Start the PassFab FixUWin Automated Repair Process
 
@@ -101,9 +85,17 @@ It will take a few minutes to create your new boot device.
 
  PassFab is currently offering discounts of up to 80% across its range of software tools and utilities to celebrate Thanksgiving and Black Friday 2022\. This makes it possible to get your hands on a copy of[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for just $39.95 per year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Reset Your PC
 
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reboot Windows in Safe Mode
 
@@ -130,24 +122,18 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-boosting-video-engagement-using-zooms-snap-feature/"><u>[New] Boosting Video Engagement Using Zoom's Snap Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cut-to-the-chase-efficient-screen-recording-methods-for-hp-users/"><u>[New] Cut to the Chase Efficient Screen Recording Methods for HP Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-demystifying-whatsapps-sound-message-exchange-for-2024/"><u>[New] Demystifying WhatsApp's Sound Message Exchange for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tech-tips-snagging-your-fb-status-video/"><u>[Updated] 2024 Approved Tech Tips Snagging Your FB Status Video</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-futures-virtual-frontier-predicted-top-5-new-ps-vr-titles/"><u>[Updated] Future's Virtual Frontier Predicted Top 5 New PS VR Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-synchronizing-teams-mastering-device-agnostic-zoom-events/"><u>[Updated] Synchronizing Teams Mastering Device-Agnostic Zoom Events</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-look-at-the-best-narrative-creators-on-youtube-in-23/"><u>2024 Approved A Look at the Best Narrative Creators on YouTube in '23</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210101239-9781922456014-breakthrough/"><u>BREAKTHROUGH | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-for-local-security-guard-off-error-message/"><u>Cure for 'Local Security Guard Off' Error Message</u></a></li>
-<li><a href="https://article-files.techidaily.com/high-definition-devices-top-15-for-uhd-video/"><u>High-Definition Devices Top 15 for UHD Video</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-non-interactive-components-on-windows-11/"><u>How to Resolve Non-Interactive Components on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi Note 12R.</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-cpu-and-ram-overuse-caused-by-unrealcefsubprocess-on-pcs/"><u>Mitigating CPU and RAM Overuse Caused by UnrealCEFSubprocess on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/pivotal-security-titans-winning-passwords-in-windows-11/"><u>Pivotal Security Titans: Winning Passwords in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-low-memory-error-on-fantasy-school-of-magical-art/"><u>Remedying Low-Memory Error on Fantasy School of Magical Art</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-windows-photo-error-unregistered-package-fix/"><u>Remedying Windows Photo Error: Unregistered Package Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-automatic-shutdown-for-w10w11/"><u>Setting Up Automatic Shutdown for W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/syncing-with-windows-11-changing-default-actions-smoothly/"><u>Syncing with Windows 11: Changing Default Actions Smoothly</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-mend-failed-jvm-initialization-in-windows/"><u>Techniques to Mend Failed JVM Initialization in WINDOWS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>2024 Approved Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/"><u>Assessing Data Protection Risks in Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-showdown-determining-superiority-between-chatgpt-and-gemini/"><u>Coding Showdown: Determining Superiority Between ChatGPT and Gemini</u></a></li>
+<li><a href="https://extra-information.techidaily.com/community-shared-music-collections-copyright-free-for-2024/"><u>Community-Shared Music Collections (Copyright-Free) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-windows-ecosystem-wsl-and-win-11/"><u>Enhancing Your Windows Ecosystem: WSL & Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-invalid-path-in-windows-os/"><u>Fixing Invalid Path in Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-completion-who-leads/"><u>From Conversation to Completion: Who Leads?</u></a></li>
+<li><a href="https://win11.techidaily.com/minimize-delays-win11-optimized-launches/"><u>Minimize Delays: Win11 Optimized Launches</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premier-top-10-audio-manipulation-software-for-windows-and-mac-users/"><u>New 2024 Approved Premier Top 10 Audio Manipulation Software for Windows and Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overruling-google-chromes-default-webp-imaging-process-pc-based/"><u>Overruling Google Chrome's Default WebP Imaging Process, PC-Based</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-energy-management-full-charge-alerts-on-windows-11/"><u>Streamlining Energy Management: Full Charge Alerts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-advanced-settings-for-a-secure-connection-on-win-11/"><u>Unlocking Advanced Settings for a Secure Connection on Win 11</u></a></li>
 </ul></div>
 
