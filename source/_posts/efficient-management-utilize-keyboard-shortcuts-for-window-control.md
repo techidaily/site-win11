@@ -1,7 +1,7 @@
 ---
 title: "Efficient Management: Utilize Keyboard Shortcuts for Window Control"
-date: 2024-09-05T08:36:41.920Z
-updated: 2024-09-06T08:36:41.920Z
+date: 2024-12-02T10:32:52.248Z
+updated: 2024-12-06T23:44:29.156Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Window Shortcut Tips,Efficiency in Windows,Keyboard Window Management,
 thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6475a435b4a4c85695223b88.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Efficient Management: Utilize Keyboard Shortcuts for Window Control
 
  By default, the taskbar is the only place you can minimize software windows within Windows 10 and 11\. Neither Windows 11 nor 10 has any built-in feature that enables users to minimize windows to the system tray area.
@@ -40,14 +34,16 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
 ![The context menufor MinimizetoTray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/minimizetotray-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that Traymond doesn’t minimize UWP apps to the system tray area. This means the software’s hotkey doesn’t work for any Microsoft Store apps.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Minimize Windows to the System Tray With MinimizeToTray
 
  MinimizeToTray is another lightweight, relatively simple program that enables you to minimize active software in the system tray area. However, this program also offers settings to customize its hotkeys and works for UWP apps and desktop software.
@@ -58,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 2. Extract the MinimizeToTray ZIP archive to a folder. This [how-to unzip ZIP files guide](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/) includes instructions for extracting ZIP archives on a Windows 11 PC.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option5.jpg)
 3. Double-click **MinimizeToTray** in the software’s extracted folder.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Open a window to try out the MinimizeToTray hotkey.
 5. Press **Alt** \+ **F1** to minimize the active software window to the system tray.
 
@@ -74,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  If you want to change the MinimizeToTray hotkeys, select **Configs** on its context menu. That will bring up a window on which you can set the keyboard shortcuts for minimizing and restoring windows. Click inside a hotkey box and press some keys to set a different keyboard shortcut. Select **OK** in the Edit Hotkeys window to save your new keyboard shortcuts.
 
 ![The Edit Hotkeys window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-hotkey-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Minimize Windows to the System Tray With 4t Tray Minimizer
 
@@ -90,12 +84,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 1. Keep selecting **Next** to reach the **Install** option for 4t Tray Minimizer.  
 ![The 4t Tray Minimizer setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window.jpg)
 2. Press **Install** to complete the 4t Tray Minimizer installation.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Finish** with the **Launch** setting selected.
 4. Now open a software window for minimizing into the system tray.
 5. Press the **Shift** \+ **Esc** keyboard shortcut to minimize the active window to the system tray area.
@@ -104,18 +92,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 
 ![The 4t Tray Minimizer Free window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Plus, you can minimize windows to the system tray without pressing the **Shift** \+ **Esc** hotkey. To do so, right-click their **Minimize** buttons.
 
  4t Tray Minimizer has some additional hotkeys you can utilize. Pressing the **Shift** \+ **Ctrl** \+ **M** keyboard shortcut will minimize all windows to the system tray. You can also press **Shift** \+ **Ctrl** \+ **R** to quickly restore all the windows minimized in the tray.
@@ -125,38 +101,26 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![The hotkey settings in 4t Tray Minimizer Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-key-sequence.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4t Tray Minimizer also adds five new title bar options to software windows. To access them, right-click a window’s title bar to view its context menu. Then you can select **Minimize to tray**, **Roll up**, **Stay on top**, and **Make transparent** options on the context menu. There’s also a 4t Tray Minimizer submenu from which you can select to add the active window to the exclusion list.
 
 ![The new title bar options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/additional-title-bar-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The hotkeys for those title bar options are disabled by default. However, you can enable them by selecting the **Show disabled** hotkeys checkbox on the **Keyboard** tab. Select the checkboxes for the active window hotkeys to enable those keyboard shortcuts.
 
  If you want to add even more new options to the window title bar, check out eXtra Buttons and Chameleon Window Manager Lite. This guide about [adding more buttons to window title bars](https://www.makeuseof.com/windows-10-11-add-new-buttons-to-title-bars/) provides further details about how to utilize those software packages.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reduce Taskbar Clutter by Minimizing Software Windows to the System Tray
 
  Traymond, MinimizeToTray, and 4t Tray Minimizer are all useful programs for minimizing windows to the system tray with hotkeys. Doing so will enable you to minimize taskbar clutter whenever you open numerous apps. 4t Tray Minimizer is undoubtedly the best of those three programs in terms of features. However, MinimizeToTray and Traymond are portable alternatives you can utilize on any Windows PC without installing.
 
  However, some third-party software packages enable you to minimize windows to the system tray with hotkeys. This is how you can minimize software to the Windows system tray area with keyboard shortcuts.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -164,3 +128,25 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[Updated] 2024 Approved Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-compile-the-best-6-leading-apps-for-fb-lite-video-downloads-for-2024/"><u>[Updated] Compile the Best 6 Leading Apps for FB Lite Video Downloads for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters/"><u>[Updated] Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-treasures-your-path-to-preserving-pics-and-vids/"><u>[Updated] Tweeted Treasures Your Path to Preserving Pics & Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-green-tools-shaping-film/"><u>2024 Approved Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-comedy-mastering-kinemaster-for-2024/"><u>Crafting Comedy Mastering KineMaster for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-missing-device-camera-issue-in-win11/"><u>How to Resolve Missing Device: Camera Issue in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resuscitate-your-unresponsive-windows-start-button/"><u>How to Resuscitate Your Unresponsive Windows Start Button</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-crafting-depth-3d-text-designs-in-illustrator/"><u>In 2024, Crafting Depth 3D Text Designs in Illustrator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-live-gaming-snapshot-with-fraps-analysis/"><u>In 2024, Live Gaming Snapshot with Fraps Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-how-project-without-a-pin-on-windows-11-display/"><u>Learn How: Project Without a PIN on Windows 11 Display</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mcuicntexe-not-found-problem-on-windows/"><u>Overcoming McUICnt.exe Not Found Problem on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-dormant-office-outlook-alerts/"><u>Reactivating Dormant Office Outlook Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-approach-to-recording-windows-calls/"><u>Simplified Approach to Recording Windows Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/snapping-shot-activating-the-snipping-tool-effortlessly/"><u>Snapping Shot: Activating the Snipping Tool Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-steam-malfunction-during-windows-gaming/"><u>Strategies to Overcome Steam Malfunction During Windows Gaming</u></a></li>
+</ul></div>
+

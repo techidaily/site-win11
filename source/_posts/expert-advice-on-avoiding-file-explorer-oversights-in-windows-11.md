@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Avoiding File Explorer Oversights in Windows 11
-date: 2024-09-05T08:33:36.671Z
-updated: 2024-09-06T08:33:36.671Z
+date: 2024-12-02T05:20:08.086Z
+updated: 2024-12-07T11:16:02.064Z
 tags:
   - windows10
   - windows11
@@ -14,34 +14,20 @@ keywords: Win11 Folder Safety Tips,File Explorer Best Practices,Data Loss Preven
 thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Advice on Avoiding File Explorer Oversights in Windows 11
 
  Getting used to a piece of software takes time and effort. This is true even for something as basic as File Explorer. If you're not aware of some of the important features in it, you'll take longer to perform specific tasks. Sometimes, we do things the wrong way in File Explorer, thus greatly impacting our productivity.
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
@@ -62,28 +48,14 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 * Press **Alt** \+ **P** to display the preview pane.
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
  Moreover, you should also mark important files as favorites. File Explorer has a **Favorites** section where it lists everything you labeled as a favorite. By avoiding the **Favorites** section, you could spend more time finding that important file whenever needed. Both **Recent** and **Favorites** items are displayed on the File Explorer Home Page.
@@ -91,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  Although, marking something as a favorite and the recent section in File Explorer may breach your privacy. If you're sharing your computer with someone but don't want to let that person know about your recent activities in File Explorer, you should always remove everything from the **Recent** section. You should clean the **Favorite** section before handing over your laptop.
 
  If you're a privacy-minded user, you should know [how to adjust various control options to protect your privacy](https://www.makeuseof.com/windows-11-privacy-options-explained/) in Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
@@ -103,11 +79,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
@@ -125,11 +99,9 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
  There are also some restrictions to what you can use in a file or folder name. You must know all that to avoid getting surprises whenever you name them.
@@ -144,12 +116,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  One of the most widely used customization options is changing how folders and files are displayed in File Explorer. You can view files and folders with different view options, including tiles, lists, icons, content, and more. You can also [hide or reveal files containing sensitive information](https://www.makeuseof.com/tag/3-quick-easy-ways-hide-folder-windows-7/) at your convenience from File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Windows File Explorer Like a Pro
 
  There are keyboard shortcuts for many of the functionalities we use daily in File Explorer. However, that doesn't mean you should always use them. Sometimes, a few clicks from the mouse does the job faster than using the shortcut keys.
@@ -158,11 +124,31 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  For new Windows users or those unaware of File Explorer's many useful features, you should avoid making some common mistakes, as mentioned below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/revity-in-action-shortening-youtube-video-content/"><u>[New] Brevity in Action Shortening YouTube Video Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>[Updated] 2024 Approved Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-best-screen-record-apps-for-classroom-use/"><u>[Updated] In 2024, The Best Screen Record Apps for Classroom Use</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-code-to-win11-excellence-with-devhome/"><u>Deciphering Code to Win11 Excellence with DevHome</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-for-graphics-driver-reinstatement-on-win1011/"><u>Efficient Methods for Graphics Driver Reinstatement on Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-search-experience-with-fast-setup-for-bing-chat/"><u>Enhance Your Search Experience with Fast Setup for Bing Chat</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-problem-in-windows-effective-troubleshooting-steps/"><u>Escape Problem in Windows: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-downloads-and-installations-for-icloud-on-windows/"><u>Fixing Downloads and Installations for iCloud on Windows</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mastering-the-ps4-white-light-issue-expert-tips-and-tricks-for-diagnosis-repair-and-maintenance/"><u>Mastering the PS4 White Light Issue: Expert Tips & Tricks for Diagnosis, Repair, and Maintenance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y02t-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y02T Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-service-links-solutions-for-malwarebytes-failures/"><u>Reviving Service Links: Solutions for Malwarebytes Failures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/secure-surveillance-skills-redacting-and-obscuring-personal-information/"><u>Secure Surveillance Skills Redacting and Obscuring Personal Information</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-number-one-your-starting-point/"><u>Spanish Number One - Your Starting Point</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-restoring-standard-operations-of-outlook-on-windows/"><u>Strategies for Restoring Standard Operations of Outlook on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-qbittorrent-when-its-stuck-or-frozen/"><u>Troubleshooting qBittorrent when It's Stuck or Frozen</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-sound-settings-in-windows/"><u>Troubleshooting Unresponsive Sound Settings in Windows</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/understanding-different-cryptocurrency-storage-options-with-yl-software-experts/"><u>Understanding Different Cryptocurrency Storage Options with YL Software Experts</u></a></li>
+</ul></div>
+

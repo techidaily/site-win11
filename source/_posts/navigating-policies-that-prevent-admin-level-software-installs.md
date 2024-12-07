@@ -1,7 +1,7 @@
 ---
 title: Navigating Policies that Prevent Admin-Level Software Installs
-date: 2024-11-26T02:49:38.797Z
-updated: 2024-11-27T17:01:13.880Z
+date: 2024-12-04T06:03:16.220Z
+updated: 2024-12-07T11:19:11.434Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Software’s Setup File as An Administrator
 
  First, start with the easiest of potential solutions. They don’t get much simpler than running the affected software’s installation file with administrative rights. Right-click the setup file for the software you can’t install and select **Run as administrator** on its context menu.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the Built-in Windows Admin Account
@@ -41,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
 ![The net user administrator /active:yes command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/net-user-admin-account-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve activated the account, restart your Windows PC. Then sign in to the newly activated admin account and try installing the software you need from there. Disable the built-in administrator account when you’re done with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off UAC (User Account Control)
 
@@ -63,12 +67,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 4. Double-click **Windows Installer** to see that service’s property settings.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-services-window.jpg)
 5. If the service is stopped, click its **Start** button. Or select **Stop** and **Start** to restart Windows Installer.  
-![The Windows Installer Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-properties-service-window.jpg)
-6. Select **Apply** \> **OK** to save the Windows Installer service settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Windows Installer Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-installer-properties-service-window.jpg)
+6. Select **Apply** \> **OK** to save the Windows Installer service settings.
 
 ## 5\. Change Group Policy Settings
 
@@ -85,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 7. Select the policy window’s **Apply** and **OK** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On top of that, delete software restriction policies. These are the steps for deleting software restriction policies:
@@ -100,15 +105,21 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 1. Click **Software Restriction Policies** with the right mouse button to select **New Software Restriction Policies**.  
 ![The New Software Restriction Policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-software-restriction-policies.jpg)
 2. Double-click on **Enforcement**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Software Restriction Policies object types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enforcement-option.jpg)
 3. Select the **All users except local administrators** radio button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Enforcement Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enforcement-properties-window.jpg)
 4. Click the Enforcement Properties window’s **Apply** and **OK** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. [Run Command Prompt with admin rights](https://www.makeuseof.com/windows-run-command-prompt-admin/#:~:text=Press%20the%20Win%20%2B%20R%20on,Command%20Prompt%20with%20administrative%20privileges.) via the search utility.
 6. Enter and execute this command for updating the policy:  
 `gpupdate /force`
@@ -126,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 5. If you can’t see an **Installer** subkey, right-click the **Windows** key and select **New** \> **Key**. Users who can select an existing **Installer** subkey within the **Windows** key can skip through to step seven.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Enter **Installer** for the new key’s name.
 2. Right-click the **Installer** key and select **New** \> **DWORD (32-bit) Value**.
 3. Enter **DisableMSI** to be the title of the new DWORD.  
@@ -140,33 +147,11 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 6. Select **OK** to set the **DisableMSI** value.
 7. Close Registry Editor and restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Your Windows Software Installed
 
  The “system administrator has set policies” error is an old Windows issue many users have fixed with the troubleshooting methods covered in this guide. So, those are tried and tested resolutions that will likely fix the “system administrator has set policies” error on your PC. Then you can get all the Windows 10 and 11 software you need installed.
 
  Users cannot install whatever programs for which that system administrator error arises. The error message suggests this issue is due to some kind of enforced admin settings. You can fix the “system administrator has set policies” error by applying the resolutions below.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] 2024 Approved 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-viewers-to-valuables-mastering-video-monetization-on-vimeo/"><u>[New] 2024 Approved From Viewers to Valuables Mastering Video Monetization on Vimeo</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-swift-transformation-androids-best-vid-upgrades/"><u>[New] 2024 Approved Swift Transformation Android's Best Vid Upgrades</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-comprehensive-guide-to-downloading-standardized-youtube-images-for-2024/"><u>[New] Comprehensive Guide to Downloading Standardized YouTube Images for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-tactical-approach-to-effortless-ipad-screen-records/"><u>[New] In 2024, Tactical Approach to Effortless iPad Screen Records</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-best-youtube-equipment-what-you-need-to-start-your-channel/"><u>[Updated] The Best YouTube Equipment What You Need to Start Your Channel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/embrace-nostalgia-with-ayaneos-newest-retail-offering-an-amd-powered-classic-macintosh-inspired-mini-computer/"><u>Embrace Nostalgia with Ayaneo's Newest Retail Offering: An AMD-Powered, Classic Macintosh Inspired Mini Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-runtime-failure-tips-for-correcting-malwarebytes-execution-errors-on-win10win11/"><u>Handling Runtime Failure: Tips for Correcting Malwarebytes' Execution Errors on Win10/Win11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-g310-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia G310 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/intel-unison-not-working-try-this-fix-guide-on-windows-11/"><u>Intel Unison Not Working? Try This Fix Guide on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-notes-at-the-forefront-on-win-oses/"><u>Keep Your Notes at the Forefront on Win OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-search-troubleshooting-steps/"><u>Navigating Through Windows Search Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-win11-vagrant-start-issues-with-7-effective-approaches/"><u>Resolve Win11 Vagrant Start Issues with 7 Effective Approaches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-tips-from-apple-engineers-for-optimizing-your-apps-on-mac-and-ios-with-visionos/"><u>Top 7 Tips From Apple Engineers for Optimizing Your Apps on Mac and iOS with VisionOS</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -175,3 +160,24 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>[New] 2024 Approved Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resonant-revelations-blending-visuals-with-vocal-tones-on-windows/"><u>[New] Resonant Revelations Blending Visuals with Vocal Tones on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-windows-high-dynamic-range-potential-for-2024/"><u>[New] Unlocking Windows' High Dynamic Range Potential for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-guide-to-perfecting-videos-in-youtube-studio/"><u>[Updated] Step-by-Step Guide to Perfecting Videos in YouTube Studio</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728480074371-windows-11/"><u>速度改善法｜Windows 11におけるファイル転送・コピーの最適化手段</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-accessing-the-troubleshooting-hub/"><u>Efficiently Accessing the Troubleshooting Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effortlessly-configuring-data-sources-in-windows/"><u>How-To: Effortlessly Configuring Data Sources in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6s</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-basics-of-pc-cleanup-with-these-12-programs/"><u>Master the Basics of PC Cleanup with These 12 Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-innovation-unveiled-ai-companion-for-windows-11-enhanced-productivity/"><u>Microsoft's Innovation Unveiled: AI Companion for Windows 11 Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-gaming-experience-on-windows-xbox/"><u>Simplify Your Gaming Experience on Windows Xbox</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-chromes-automatic-new-tab-generations-in-windows-os/"><u>Stop Chrome's Automatic New Tab Generations in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/synthesize-your-way-through-the-voice-driven-accessibility-of-win11/"><u>Synthesize Your Way Through the Voice-Driven Accessibility of Win11</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/wd-backupwindows111087/"><u>WD Backup在Windows上出现问题（11/10/8/7）：捷克特效果的修复指南</u></a></li>
+</ul></div>
+

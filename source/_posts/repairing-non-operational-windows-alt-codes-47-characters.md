@@ -1,7 +1,7 @@
 ---
 title: Repairing Non-Operational Windows Alt Codes (47 Characters)
-date: 2024-11-25T21:07:19.719Z
-updated: 2024-11-27T16:04:34.972Z
+date: 2024-11-29T17:10:33.021Z
+updated: 2024-12-07T04:49:23.109Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Windows ALT Codes to Not Work?
 
  ALT codes are characters that you can use to create various symbols and special characters on your computer, but they may not always work on Windows. If you're having trouble getting ALT codes to work, there are a few potential causes that could be behind the issue.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
  Another cause of this problem is incorrect language settings on Windows. If your language settings don't match the keyboard layout you're using, then it's possible your input won't be interpreted properly by Windows.
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Turn On Mouse Keys
 
@@ -59,14 +59,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 5. Check the box next to**Only use mouse keys when Num lock is on** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After performing the steps above, close the window and restart your computer. At the next system startup, try using ALT codes again to see if it resolves the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Tweak the Registry Editor
 
@@ -100,6 +96,10 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Try a Different Keyboard Layout
 
  If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
@@ -121,21 +121,21 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshooting Windows ALT codes
 
@@ -156,22 +156,16 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-essential-techniques-for-youtube-image-crafting/"><u>[New] The Essential Techniques for YouTube Image Crafting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instaidentity-100-innovative-caption-examples-for-global-sharing/"><u>[Updated] 2024 Approved InstaIdentity 100 Innovative Caption Examples for Global Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/5yq55p6c55qe44gq6zplusz5qw944ov44kh44kk44or5zyn57iu5pa55rovic0g44cm44kq44o844oh44kj44kq5zyn57iu44k944ov44oi44km44kn44ki44cn44ks5yip55so44gx44gf5oml5byv44gn.45/"><u>効果的な音楽ファイル圧縮方法 - 「オーディオ圧縮ソフトウェア」を利用した手引き</u></a></li>
-<li><a href="https://win11.techidaily.com/access-and-enjoy-christian-melodies-anytime-download-free-yt-mp3s/"><u>Access and Enjoy Christian Melodies Anytime: Download Free YT Mp3s!</u></a></li>
-<li><a href="https://win11.techidaily.com/audacity-youtube-recording-mastery-easy-tutorial-for-capturing-video-clips/"><u>Audacity YouTube Recording Mastery: Easy Tutorial for Capturing Video Clips</u></a></li>
-<li><a href="https://win11.techidaily.com/best-high-quality-audio-formats-which-offers-smaller-sizes/"><u>Best High-Quality Audio Formats: Which Offers Smaller Sizes?</u></a></li>
-<li><a href="https://win11.techidaily.com/best-top-rated-flac-audio-software-for-windows-11-a-comprehensive-guide/"><u>Best Top-Rated FLAC Audio Software for Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-tutorial-on-capturing-your-slide-show-in-action-using-powerpoint/"><u>Comprehensive Tutorial on Capturing Your Slide Show in Action Using PowerPoint</u></a></li>
-<li><a href="https://win11.techidaily.com/custom-ringtones-made-simple-transform-mp3-into-m4r-for-iphone/"><u>Custom Ringtones Made Simple: Transform MP3 Into M4R for iPhone!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-identifying-and-fixing-faults-in-the-systems-post-checklist/"><u>DIY Guide: Identifying & Fixing Faults in the System's POST Checklist</u></a></li>
-<li><a href="https://win11.techidaily.com/dvdtsutaya/"><u>DVDがTSUTAYAで貸し出されている場合、どのようにしてデータを正当化的に複写・リップするか</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/focus-on-essentials-affinity-method-for-2024/"><u>Focus on Essentials - Affinity Method for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-magic-6-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Magic 6 Pro Face Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/perfecting-channel-art-a-step-by-step-instructional-manual-for-2024/"><u>Perfecting Channel Art A Step-by-Step Instructional Manual for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-verdict-on-vllo-performance-for-2024/"><u>The Verdict on VLLO Performance for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-reign-supreme-with-these-ultimate-10-innovative-ideas-for-igtv-video-content-for-2024/"><u>[New] Reign Supreme with These Ultimate 10 Innovative Ideas for IGTV Video Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-tour-through-top-virtual-biking-experiences/"><u>[Updated] A Tour Through Top Virtual Biking Experiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-visualfixers-verdict-comprehensive-video-editor-review/"><u>2024 Approved VisualFixer's Verdict – Comprehensive Video Editor Review</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-uptime-setbacks-dealing-with-error-code-0x80246007/"><u>Confronting Uptime Setbacks: Dealing with Error Code 0X80246007</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/curtail-unexpected-youtube-recommendations-for-2024/"><u>Curtail Unexpected YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-dxgierrordevicehunk-on-windows-11-systems/"><u>Handling DXGI_ERROR_DEVICE_HUNK on Windows 11 Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/high-quality-affordable-4k-caixun-android-tv-our-in-depth-review-of-the-75-inch-model/"><u>High-Quality Affordable 4K Caixun Android TV - Our In-Depth Review of the 75-Inch Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208042311-how-to-restore-mic-functionality-on-your-steelseries-arctis-5-headset-easy-fix-tips-for-gamers/"><u>How to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset - Easy Fix Tips for Gamers.</u></a></li>
+<li><a href="https://win11.techidaily.com/refashion-your-documents-key-tools-to-alter-file-timestamps-in-win8/"><u>Refashion Your Documents: Key Tools to Alter File Timestamps in Win8</u></a></li>
+<li><a href="https://win11.techidaily.com/showcasing-peak-and-base-states-of-your-cpu-in-windows/"><u>Showcasing Peak and Base States of Your CPU in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
 </ul></div>
 

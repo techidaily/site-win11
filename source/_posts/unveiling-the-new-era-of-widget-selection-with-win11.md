@@ -1,7 +1,7 @@
 ---
 title: Unveiling The New Era of Widget Selection with Win11
-date: 2024-09-05T08:33:30.930Z
-updated: 2024-09-06T08:33:30.930Z
+date: 2024-12-05T17:48:37.175Z
+updated: 2024-12-06T20:36:23.744Z
 tags:
   - windows10
   - windows11
@@ -20,25 +20,17 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
 
@@ -49,21 +41,17 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
 1. Open Command Prompt as an Administrator (see [how to open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for steps).
@@ -77,17 +65,9 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
 
  Microsoft introduces new features and ideas first to Canary and Dev Insider channels. After taking feedback from Insiders, it decides whether it should release them to other Insider channels.
@@ -97,24 +77,14 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -122,3 +92,24 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[New] Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-better-video-encoding-av1s-challenge-to-vp9/"><u>[Updated] 2024 Approved Exploring Better Video Encoding AV1's Challenge to VP9</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-5-efficient-ways-to-store-movies-and-videos-mov-in-windows/"><u>[Updated] 5 Efficient Ways to Store Movies & Videos (.mov) in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>[Updated] A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-optimal-icon-sizes-in-win-11/"><u>Ensuring Optimal Icon Sizes in Win 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-hot-40i-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Hot 40i For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-how-to-use-updated-window-for-choosing-widgets-in-win11/"><u>Learn How to Use Updated Window for Choosing Widgets in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-errors-in-windows-media-maker-0x8007043c-0x90017/"><u>Navigating Errors in Windows' Media Maker: 0X8007043C, 0X90017</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-policies-that-prevent-admin-level-software-installs/"><u>Navigating Policies that Prevent Admin-Level Software Installs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-automatic-restarts-for-windows-audio/"><u>Quick Fix: Enabling Automatic Restarts for Windows Audio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-fix-tips-inactive-graphics-card-wnvidia/"><u>Quick-Fix Tips: Inactive Graphics Card W/NVIDIA</u></a></li>
+<li><a href="https://win11.techidaily.com/recommendations-when-windows-stops-finding-powershell/"><u>Recommendations When Windows Stops Finding PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winscan-failures-in-geforce-experience/"><u>Troubleshooting WinScan Failures in GeForce Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-guide-intelligently-increasing-apple-watch-features-for-a-tailored-experience/"><u>ZDNet's Guide: Intelligently Increasing Apple Watch Features for a Tailored Experience</u></a></li>
+</ul></div>
+

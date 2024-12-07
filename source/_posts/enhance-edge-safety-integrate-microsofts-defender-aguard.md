@@ -1,7 +1,7 @@
 ---
 title: "Enhance Edge Safety: Integrate Microsoft's Defender Aguard"
-date: 2024-09-05T08:35:47.667Z
-updated: 2024-09-06T08:35:47.667Z
+date: 2024-12-02T04:42:27.200Z
+updated: 2024-12-07T08:29:27.089Z
 tags:
   - windows10
   - windows11
@@ -30,35 +30,21 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 4. Then, on the Windows Security page, click the**Install Microsoft Defender Application Guard** link below Isolated browsing.  
 ![How to Install Microsoft Defender Application Guard Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/how-to-install-microsoft-defender-application-guard-using-windows-security.jpg)
 5. If you see the UAC prompt on your computer screen, click Yes to confirm your action.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Next, check the box next to**Microsoft Defender Application Guard** and click**OK** .  
 ![Add Microsoft Defender Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-microsoft-defender-application-guard-for-edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you perform the above steps, you must need to restart your computer to finish installing the requested changes. This way you can install the feature on your computer.
 
  If you have already installed Microsoft Defender Application Guard and want to uninstall it, the process is quite easy. All you need to do is follow the steps mentioned above until you reach the Windows Security page.
 
 ![Uninstall Microsoft Defender Application Guard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-defender-application-guard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Install Microsoft Defender Application Guard Using the Control Panel
 
  You can also install Microsoft Defender Application Guard for Edge on your Windows 11 computer using the classic Control Panel. Here's how to do it:
@@ -86,23 +72,24 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 4. Now go to the right pane and double-click on the **Turn On Microsoft Defender Application Guard in Managed Mode** policy.  
 ![Microsoft Defender Application Guard Using Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-defender-application-guard-using-local-group-policy-editor.jpg)
 5. This will open a new window, select the**Enabled** checkbox.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. You can now go to**Options** and change it to**2** or**3** .  
 ![Turn on Microsoft Defender Application Guard in Managed Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-microsoft-defender-application-guard-in-managed-mode.jpg)
 7. Once done, click**Apply** and then**OK** to save all the changes you have made.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
@@ -142,23 +129,18 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Microsoft Defender Application Guard and Stay Safe
 
  Microsoft Defender Application Guard uses isolated secure containers to protect your device from malicious files and threats. In the above-described methods, you can follow the installation steps and remain safe while browsing the web.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +149,24 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-optimal-film-and-camera-choices-for-youtube-vloggers/"><u>[New] In 2024, Optimal Film & Camera Choices for YouTube Vloggers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>[New] The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[Updated] Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>[Updated] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-urban-pursuit-without-the-need-for-gta/"><u>[Updated] Urban Pursuit Without the Need for GTA</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-data-collection-puzzle-of-windows-11/"><u>Decoding the Data Collection Puzzle of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/echo-elevation-select-programs-for-enhancing-pc-sound-well-above-100/"><u>Echo Elevation: Select Programs for Enhancing PC Sound Well Above 100%</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-chromes-file-saving-mechanism-on-your-windows-computer/"><u>Improving Chrome’s File Saving Mechanism on Your Windows Computer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-uncovering-plugins-that-create-realistic-flatulent-effects-for-games-and-films/"><u>In 2024, Uncovering Plugins That Create Realistic Flatulent Effects for Games and Films</u></a></li>
+<li><a href="https://win11.techidaily.com/judging-the-utility-are-windows-11-widgets-useful-enough/"><u>Judging the Utility: Are Windows 11 Widgets Useful Enough?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-mouse-control-in-windows-11-accessibility-guide/"><u>Maximizing Mouse Control in Windows 11: Accessibility Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-creation-hurdle-of-windows-error-30005/"><u>Navigating Through the Creation Hurdle of Windows Error 30005</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/net-laugh-builder-for-2024/"><u>Net Laugh Builder for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live-for-2024/"><u>Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-geforce-x-error-retrieval-failure-on-windows-os/"><u>Resolving GeForce X Error: Retrieval Failure on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-permanent-file-disposal-on-your-desktop-bin-with-customized-windows-trash-setup/"><u>Setting up Permanent File Disposal on Your Desktop Bin with Customized Windows Trash Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-for-dealing-with-error-14-on-iphones/"><u>Step-by-Step Fixes for Dealing with Error 14 on iPhones</u></a></li>
+</ul></div>
 

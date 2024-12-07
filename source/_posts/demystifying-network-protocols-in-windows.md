@@ -1,7 +1,7 @@
 ---
 title: Demystifying Network Protocols in Windows
-date: 2024-09-05T08:38:16.290Z
-updated: 2024-09-06T08:38:16.290Z
+date: 2024-12-03T20:47:29.442Z
+updated: 2024-12-07T08:36:53.404Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use the Start Menu Search Bar
 
  An easy way to open the Network Connections tool is via the Start menu.
@@ -42,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 2. Type **View Network Connections** in the search bar and select the **Best match**.
 
 ![Opening the Network Connections Tool via the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-the-network-connections-tool-via-the-start-menu-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Run Command Dialog Box
 
@@ -64,17 +56,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 ![Opening the Windows Network Connections Tool using the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Quick-Access-Menu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Use File Explorer's Address Bar
 
  File Explorer’s address bar is an incredible tool that can help you access tons of [Windows apps](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/). Here’s how you can use it to open the Network Connections tool:
@@ -85,11 +69,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 ![Opening the Windows Network Connections Tool using File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-File-Explorers-Address-Bar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the Wi-Fi Icon or System Settings
 
  The Wi-Fi icon on your taskbar comes in handy when you want to [configure network-related issues](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/). But that's not all—you can also use that icon to open the Network Connections tool. Here’s how:
@@ -100,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 ![Opening the Windows Network Connections Tool using the Wi-Fi icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Wi-Fi-icon.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, open the Network Connections tool via the system settings through these steps:
 
 1. Press **Win + I** to open the system settings.
@@ -116,12 +96,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Command Prompt and PowerShell make it easy for you to [troubleshoot a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/). Interestingly, these tools can also help you access a lot of the software programs on your device.
 
  Here’s how to use the Command Prompt to open the Network Connections tool:
@@ -137,17 +111,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 3. Type **ncpa.cpl** and press **Enter** to open the Network Connections tool.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Use the Control Panel
 
  The Control Panel is a reliable tool that helps with troubleshooting Windows system-related issues. This tool can also help you easily access most of the software programs on your Windows device.
@@ -160,20 +126,16 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![Opening the Windows Network Connections Tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Windows-Network-Connections-Tool-using-the-Control-Panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next window, click **Change adapter settings** to open the Network Connections tool.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Use the Task Manager
 
  You can always rely on the Task Manager when you want to analyze system processes and monitor device performance. The Task Manager also helps you terminate active software programs with ease. But did you know that this tool can also help you access various Windows software programs?
@@ -198,12 +160,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![Clicking the ncpa.cpl option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clicking-the-ncpa-cpl-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Create a Network Connections Desktop Shortcut
 
  Desktop shortcuts make it easy for you to access the apps on your Windows device. So, let’s take a look at how to create a Desktop shortcut for the Network Connections tool:
@@ -214,12 +170,6 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
 ![Creating the Network Connections Tool shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/creating-the-network-connections-tool-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From there, type **Network Connections Tool** in the name field and click **Finish**. Now, you can easily access the Network Connections tool using the desktop shortcut you've just created.
 
  That's it! You’re now able to easily access the Windows Network Connections tool. So, let's now explore tips on how to check the network connection status on your Windows device.
@@ -248,11 +198,9 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 2. Type **netstat /?** and press **Enter** to display information about all **netstat** commands.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tackle Connection Problems With the Network Connections Tool
 
  There are times when you’d need to troubleshoot connection problems or enable/disable IPv6 (Internet Protocol version 6). In such cases, the Windows Network Connections tool can help you out. And if you want to easily access this tool, apply any of the methods we’ve covered.
@@ -263,11 +211,33 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  In this article, we’ll show you the various ways to open the Windows Network Connections tool. From there, we'll explore how you can check your network connection status on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>[New] A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-achieving-perfect-soundscape-essential-equipment-guide-for-podcasters/"><u>[New] Achieving Perfect Soundscape Essential Equipment Guide for Podcasters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-master-subtitles-from-srt-with-3-steps/"><u>[New] Master Subtitles From SRT with 3 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>[Updated] Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dive-into-android-gaming-excellence-with-kinemaster-review/"><u>[Updated] Dive Into Android Gaming Excellence with KineMaster Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-hexacopter-wonders-10-list/"><u>[Updated] Exploring Hexacopter Wonders - #10 List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[Updated] The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturando-apenas-parte-da-tela-em-computadores-com-windows-11/"><u>Capturando Apenas Parte Da Tela Em Computadores Com Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-secure-boot-in-windows-11/"><u>Disabling Secure Boot in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-disk-space-management-with-win11s-ntfs-features/"><u>Dive Into Disk Space Management with Win11's NTFS Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-asus-dvd-hardware-driver-installation-guide/"><u>Easy Access: ASUS DVD Hardware Driver Installation Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-do-not-have-sufficient-access-to-uninstall-error-in-windows-10-and-11/"><u>How to Fix the “Do Not Have Sufficient Access to Uninstall” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/michael-kors-access-gen-5e-mkgo-review-luxury-styling-combined-with-smart-chops/"><u>Michael Kors Access Gen 5E MKGO Review: Luxury Styling Combined With Smart Chops</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-internal-audio-errors-in-audacity-windows-edition/"><u>Overcoming Internal Audio Errors in Audacity, Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-safety-10-freeware-sites-for-windows/"><u>Prioritizing Safety: 10 Freeware Sites For Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-shifting-from-pin-to-password-for-windows-11-login/"><u>Stepwise Guide: Shifting From PIN to Password for Windows 11 Login</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-irq-allocation-for-soundcards/"><u>Streamlining IRQ Allocation for Soundcards</u></a></li>
+<li><a href="https://win11.techidaily.com/the-slick-guide-to-dump-local-account-secure-qandas-in-win-11/"><u>The Slick Guide to Dump Local Account Secure Q&As in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-troubleshooting-for-disconnected-wi-fi/"><u>Win 10 Troubleshooting for Disconnected Wi-Fi</u></a></li>
+</ul></div>
+

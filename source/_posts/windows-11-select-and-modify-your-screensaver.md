@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Select and Modify Your Screensaver"
-date: 2024-09-05T08:38:20.213Z
-updated: 2024-09-06T08:38:20.213Z
+date: 2024-12-01T19:54:32.619Z
+updated: 2024-12-06T19:08:25.668Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
  But how do you customize these default screensavers? Check out the steps below and get yourself a screensaver that reflects your personality and character.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -33,24 +37,17 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 5. Select the**3D Text** or**Photos** screensaver on the menu.  
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Click**Apply** to set your chosen screensaver.
 
  Clicking**Settings** for 3D Text will bring up a 3D Text Settings window. There you can change the screensaver's text by clicking the**Custom Text** radio button and inputting different text in the box. Or you can choose**Time** to show a 3D digital clock instead. Press the**Font** button to select a different font and style.
 
 ![The 3D Text Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Below are some motion settings you can alter to change how the 3D text rotates. Click the**Rotation Type** drop-down menu to choose a different rotation style setting. Drag the**Rotation Bar** slider's left and right to change how quickly the text rotates.
 
  Plus, you can change the text's surface and color style. Click**Sold Color** \>**Custom Color** \>**Choose Color** to bring up a palette. Then select a different text color on the palette and select**OK** .
@@ -63,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
 
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
@@ -81,18 +72,6 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -102,17 +81,15 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
  Select the**Ribbons** tab to customize that screensaver. There you can reduce or increase the number of ribbons by dragging the slider on the**Number of Ribbons** bar. To make the ribbons broader or narrower, drag the**Ribbon Width** bar's slider.
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
@@ -127,11 +104,13 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -142,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-your-content-choose-these-top-10-reel-apps-for-2024/"><u>[New] Mastering Your Content Choose These Top 10 Reel Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-visualcapturew11-windows-11-simple-recording-app/"><u>[New] VisualCaptureW11 Windows 11 Simple Recording App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-fixing-intermittent-frames-in-obs-recordings/"><u>[Updated] Fixing Intermittent Frames in OBS Recordings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-setting-up-an-online-presence-for-reviews-of-commercial-goods/"><u>[Updated] Setting Up an Online Presence for Reviews of Commercial Goods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/be-inspired-today-the-essentials-of-stunning-photos-on-ig-for-2024/"><u>Be Inspired Today! The Essentials of Stunning Photos on IG for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-selection-top-156-characters-nintendo-switch-simulators/"><u>Elite Selection: Top 156 Characters Nintendo Switch Simulators</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-storage-solutions-the-role-of-windows-iscsi-initiator/"><u>Exploring Storage Solutions: The Role of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guide-complete-construire-votre-ordinateur-portable-gaming-personnalise-conseils-et-astuces/"><u>Guide Complète: Construire Votre Ordinateur Portable Gaming Personnalisé - Conseils Et Astuces</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-windows-net-core-demand/"><u>Guide to Overcoming Windows' .NET Core Demand</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-8-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 8 Plus when Phone is Broken?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-neo-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Neo Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-pin-inaccessibility-after-windows-11-software-errors/"><u>Restoring PIN Inaccessibility After Windows 11 Software Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-approach-implementing-apple-maps-on-windows-pc/"><u>Tailored Approach: Implementing Apple Maps on Windows PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-evolution-of-power-a-comprehhavisnce-between-the-samsung-galaxy-s23-ultra-and-its-predecessor-the-s21-ultra/"><u>The Evolution of Power: A Comprehhavisnce Between the Samsung Galaxy S23 Ultra and Its Predecessor, the S21 Ultra</u></a></li>
+</ul></div>
 

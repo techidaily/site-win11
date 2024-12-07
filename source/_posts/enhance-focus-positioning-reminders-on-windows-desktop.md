@@ -1,7 +1,7 @@
 ---
 title: "Enhance Focus: Positioning Reminders on Windows Desktop"
-date: 2024-11-26T20:32:33.190Z
-updated: 2024-11-27T20:57:50.032Z
+date: 2024-12-03T23:25:24.149Z
+updated: 2024-12-07T00:56:05.558Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 3. Click the**Settings** button on the app's window.  
 ![Stick a Note's Settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-a-note-s-settings-button.jpg)
 4. Select the**Shift** checkbox to change Stick A Note's hotkey to**Win** +**Shift** +**N** . This is necessary because Windows 11 already has a**Win** +**N** keyboard shortcut for notifications that matches this software's default hotkey.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Note Hotkey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-hotkey-option.jpg)
 5. Click**OK** on the Settings – Stick A Note window.
 
@@ -49,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 4. Enter the content in the**Note for this window** box.  
 ![The text box for adding notes with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-note-window.jpg)
 5. Select**OK** in the Notes window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that note will remain stuck to the window until you delete it. If you close and reopen an app window, press the**Win** +**Shift** +**N** hotkey to view its note.
 
@@ -69,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stick Sticky Notes to Software Windows With Notezilla
@@ -96,12 +97,17 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 2. Press**Alt** +**Space** to bring up the note's menu.  
 ![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
 5. Click**OK** to stick the note to the selected window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now move the software window around the desktop area. The attached note will move with the window it's stuck to. It will also still be there after closing and reopening the software you added it to.
@@ -112,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
@@ -123,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
@@ -145,16 +147,18 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-rundown-top-10-digital-drawing-software-on-chrome/"><u>2024 Approved A Complete Rundown Top 10 Digital Drawing Software on Chrome</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/advanced-self-enhancement-tactics-crafting-the-life-of-your-dreams-while-scaling-your-business-using-massmail-expert-system/"><u>Advanced Self-Enhancement Tactics: Crafting the Life of Your Dreams While Scaling Your Business Using MassMail Expert System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-2-crash-free-gaming-expert-advice-and-solutions/"><u>Alan Wake 2 Crash-Free Gaming : Expert Advice and Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-wi-fi-issues-completing-actions-for-seamless-connections/"><u>Fixing Windows Wi-Fi Issues: Completing Actions for Seamless Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-extend-the-pin-length-in-windows-10-and-11/"><u>How to Extend the PIN Length in Windows 10 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/link-zoom-calls-to-iphoneandroid-events-seamlessly-for-2024/"><u>Link Zoom Calls to iPhone/Android Events Seamlessly for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/showdown-how-does-the-new-iphone-15-pro-max-stack-up-against-the-galaxy-s24-ultra/"><u>Showdown: How Does the New iPhone 15 Pro Max Stack Up Against the Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-error-0xc00ce556-in-winoss/"><u>Steps to Correct Error 0xC00CE556 in WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-file-management-windows-11s-automatic-deletion-feature-explained/"><u>Streamlining File Management: Windows 11'S Automatic Deletion Feature Explained</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-stand-out-yt-thumbnail-size-and-engagement-strategies/"><u>[New] How to Stand Out YT Thumbnail Size and Engagement Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-integrating-external-websites-into-instagrams-ecosystem-for-2024/"><u>[Updated] Integrating External Websites Into Instagram's Ecosystem for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-team-up-glitch-80080300-on-w11-systems/"><u>Decoding the Mystery of Team Up Glitch #80080300 on W11 Systems</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/diagnosing-and-resolving-connectivity-issues-with-amazon-prime-video-for-a-seamless-streaming-experience/"><u>Diagnosing and Resolving Connectivity Issues with Amazon Prime Video for a Seamless Streaming Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-effective-are-lensdirects-blue-light-blocking-glasses-a-full-review-with-rx-options/"><u>How Effective Are LensDirect's Blue Light Blocking Glasses? A Full Review With Rx Options</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-restore-windows-alt-key-functionality/"><u>How to Restore Windows ALT Key Functionality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-a-canvas-of-colors-advanced-theory-and-use/"><u>In 2024, A Canvas of Colors Advanced Theory & Use</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-in-overcoming-non-initialized-drives-on-windows-pc/"><u>Masterclass in Overcoming Non-Initialized Drives on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-fix-media-creators-issue-x8007043c-x90017/"><u>Methods to Fix Media Creator's Issue: X.8007043C, X.90017</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-asus-rog-phone-8-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Asus ROG Phone 8 Pro FRP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-webcam-apps-featuring-manycam-technology-ideal-for-facebuzz/"><u>Top Webcam Apps Featuring ManyCam Technology Ideal for Facebuzz</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-no-network-detection-by-windows/"><u>Troubleshoot No Network Detection by Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-clearing-browser-cache-for-enhanced-security-and-privacy/"><u>Ultimate Guide to Clearing Browser Cache for Enhanced Security and Privacy</u></a></li>
 </ul></div>
 

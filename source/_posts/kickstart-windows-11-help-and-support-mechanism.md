@@ -1,7 +1,7 @@
 ---
 title: Kickstart Windows 11 Help & Support Mechanism
-date: 2024-09-05T08:39:57.469Z
-updated: 2024-09-06T08:39:57.469Z
+date: 2024-12-03T01:01:57.623Z
+updated: 2024-12-07T06:01:41.814Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win11_HelpGuide,Win11SetupAssist,Windows11Support,Win11Troubleshoot,Wi
 thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b3072dcf3b79b657b93df0cfe34.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kickstart Windows 11 Help & Support Mechanism
 
  Quick Assist is a system feature in Windows that allows you to get help from a friend or family member remotely. For this tool to work on your device, you first need to learn how to open it.
@@ -31,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
  The quickest way to open Quick Assist is by using the shortcut keys**Win + Ctrl + Q** . This will launch the Quick Access tool directly on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use the Windows Search Tool
 
  Another way to open the Quick Assist tool is through the[Windows Search](https://www.makeuseof.com/windows-search-use-guide/) tool. This can be especially helpful if any of the shortcut keys on your keyboard don't work for some reason.
@@ -46,13 +38,11 @@ To open Quick Assist through the search tool, follow these steps:
 2. In the search box, type "quick assist" and hit**Enter** .  
 ![Open Quick Assist Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-search-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will open the Quick Assist tool where you can view and control another computer from your own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Start Menu
 
@@ -64,11 +54,13 @@ To open Quick Assist through the search tool, follow these steps:
 ![Open Quick Assist Using Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-quick-assist-using-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Pin Quick Assist to the Taskbar
 
  If you use this tool frequently,[pinning it to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) will help you get to it quickly. Here are the steps you need to take:
@@ -77,32 +69,21 @@ To open Quick Assist through the search tool, follow these steps:
 2. On the right side menu, click**Pin to taskbar** .  
 ![Pin Quick Assist to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pin-quick-assist-to-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This way, you can quickly access the tool from your taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Can Now Get Assistance Quickly
 
  It is quite easy to open the Quick Assist tool on a Windows computer. We have listed four ways to open this tool in this article; check them out and let us know which works best for you.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +92,16 @@ This way, you can quickly access the tool from your taskbar.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-crafting-tomorrows-teachers-today-through-vr-for-2024/"><u>[Updated] Crafting Tomorrow’s Teachers, Today Through VR for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/android-communication-breakdown-heres-how-to-fix-unable-to-make-or-receive-calls/"><u>Android Communication Breakdown? Here's How to Fix Unable To Make or Receive Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/design-your-ideal-screen-ordering-crafting-snaps-with-powertoys/"><u>Design Your Ideal Screen Ordering: Crafting Snaps with PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-virtualbox-usb-connection-snags-a-practical-guide-for-windows-users/"><u>Eliminate VirtualBox USB Connection Snags: A Practical Guide for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-xs-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone XS Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/mp4-mp3/"><u>MP4, MP3サポートのダビンチリゾルブ使い方 - 動画と音楽の作成ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-visuals-5-best-windows-pc-time-themed-screen-saver-creation-apps/"><u>Optimize Visuals: 5 Best Windows PC Time-Themed Screen Saver Creation Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-correcting-isdonedll-errors-windows-wise/"><u>Preventing and Correcting ISDone.dll Errors Windows-Wise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+</ul></div>
 

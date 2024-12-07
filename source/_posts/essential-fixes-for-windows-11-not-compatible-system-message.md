@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Windows 11 Not Compatible System Message
-date: 2024-11-21T21:14:29.091Z
-updated: 2024-11-27T23:34:00.215Z
+date: 2024-11-30T20:15:26.627Z
+updated: 2024-12-06T22:42:47.337Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,7 @@ Additionally, you may also see the following error:
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
@@ -65,6 +65,10 @@ Additionally, you may also see the following error:
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -75,6 +79,10 @@ Additionally, you may also see the following error:
  This will trigger the This PC can't install Windows 11 error as the system requirements are unmet. Even if your PC support both Secure Boot and TMP 2.0, you may still have to enable them to resolve the error manually.
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
@@ -97,10 +105,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
@@ -113,10 +117,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Save the changes and exit.
 
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
@@ -141,7 +141,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
@@ -155,7 +155,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
@@ -177,15 +177,18 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-crafting-seamless-audiovisual-mixes-in-audacity-for-2024/"><u>[New] Crafting Seamless Audiovisual Mixes in Audacity for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guide-to-correcting-and-confirming-your-age-information-on-tiktok/"><u>[New] In 2024, Guide to Correcting & Confirming Your Age Information on TikTok</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-creativity-producing-original-and-entertaining-reels-on-facebook/"><u>[New] Unlocking Creativity Producing Original and Entertaining Reels on Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-master-class-the-7-cutting-edge-apps-for-youtube-live-on-iphonesandroid-os/"><u>[Updated] Master Class The 7 Cutting-Edge Apps for YouTube LIVE on iPhones/Android OS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715758899630-how-to-capture-your-nintendo-switch-game-video-for-2024/"><u>How to Capture Your Nintendo Switch Game Video for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-exploration-of-windows-system-caching/"><u>In-Depth Exploration of Window’s System Caching</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-it-management-with-changed-admin-access-flows/"><u>Innovating IT Management with Changed Admin Access Flows</u></a></li>
-<li><a href="https://win11.techidaily.com/revise-windows-11-login-credentials-effectively/"><u>Revise Windows 11 Login Credentials Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-resolution-of-script-woes-in-windows-os/"><u>Swift Resolution of Script Woes in Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/up-to-date-driver-software-for-hp-deskjet-2600-optimized-for-windows-7810-downloads/"><u>Up-to-Date Driver Software for HP Deskjet 2600: Optimized for Windows 7/8/10 Downloads</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-oculus-top-grossing-virtual-reality-titles-list-for-2024/"><u>[New] Oculus Top Grossing Virtual Reality Titles List for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-access-all-instagram-video-content-with-free-online-and-os-compatible-exporters/"><u>[Updated] 2024 Approved Access All Instagram Video Content with Free Online and OS-Compatible Exporters</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>About Realme GT Neo 5 FRP Bypass</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos-for-2024/"><u>Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-11-geforce-x0001-hiccup/"><u>Eradicating Windows 11 GeForce X0001 Hiccup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-introduction-maker-apps-ios-vs-android-comparison/"><u>In 2024, Best Introduction Maker Apps IOS vs Android Comparison</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-steam-login-failures-with-windows-and-rust-code/"><u>Navigating the Maze of Steam Login Failures with Windows & Rust Code</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-and-efficiency-5-handy-tips-for-managing-windows-folders/"><u>Quick Access & Efficiency: 5 Handy Tips for Managing Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/spinning-visuals-easy-6-tips-to-flip-image-on-your-pc/"><u>Spinning Visuals Easy: 6 Tips to Flip Image on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-for-using-winstall-for-group-applications-on-windows-11/"><u>The Essential Guide for Using Winstall for Group Applications on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-over-lags-6-key-fixes-for-a-swift-windows-11/"><u>Win Over Lags: 6 Key Fixes for a Swift Windows 11</u></a></li>
 </ul></div>
 

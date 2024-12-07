@@ -1,7 +1,7 @@
 ---
 title: "Instantaneous Implementation: Microsoft Works for Windows 10+"
-date: 2024-09-05T08:39:08.007Z
-updated: 2024-09-06T08:39:08.007Z
+date: 2024-11-30T08:26:30.811Z
+updated: 2024-12-07T04:27:30.075Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,22 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 2. Click the **ISO IMAGE** download link.  
 ![The ISO Image download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iso-image.jpg)
 3. Double-click the **Microsoft Works 9.ISO** file and click **Open** if a Security Warning dialog box pops up.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-option.jpg)
 4. Then double-click the **Setup.exe** file for Microsoft Works 9\.
 5. Click **Next** inside the Microsoft Works setup window.
 6. Click **Create a desktop shortcut** to select that option.  
 ![The Install option for Microsoft Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-install-option.jpg)
 7. Select the **Install MS Works 9** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **Continue** to install other components.
 9. Then select **OK** on the dialog box that confirms MS Works is installed.
 
@@ -52,45 +56,19 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Getting Started With Microsoft Works 9
 
  You’ll see a Welcome to Microsoft Works window the first time you run the software. Select the **I Agree** option on that window to accept the license terms. You’ll also be asked about participating in a customer experience program. Click **No** to opt out of participation. Then press the **Finish** button to get stuck into Microsoft Works 9\.
 
 ![The I Agree radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/software-license-terms-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you can get started utilizing the Microsoft Works 9 suite. A Microsoft Works window from which you can select to open the suite’s applications will open. You can launch the apps by clicking the **Works Word Processor**, **Database**, and **Spreadsheet** options in that window’s Quick Launch bar.
 
 ![The Microsoft Works suite window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll also notice that the window includes a calendar on which you can view appointments. To do so, you’ll need to add appointments inside the Works Calendar app. You can launch that software by clicking the **Open Calendar** button. To add an event, select a day within the Calendar app and then input a note for it at a time on the **My Calendar** tab.
 
 ![The Microsoft Works Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-works-calendar.jpg)
@@ -99,23 +77,23 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
 
 ![The Templates tab in MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/templates-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft Works also has an interactive introductory tour for the suite. That tutorial provides details for utilizing the calendar, contacts, and templates within the Microsoft Works window. Click the **Quick Tour** option just above the **Calendar** tab to open it. Then click the **Next** compass points to go through the tour.
 
 ![The Quick Tour window for MS Works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-ms-works-tour.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discover Microsoft Works 9 in the Modern Era
 
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +101,25 @@ thumbnail: https://thmb.techidaily.com/f451713ef3ee68cbcaf629ea84478de29a15d554b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-high-quality-win11-screen-capture-pro/"><u>[New] 2024 Approved High-Quality Win11 Screen Capture Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-savvy-top-5-methods-for-building-a-thriving-influencer-profile/"><u>[New] In 2024, Instagram Savvy Top 5 Methods for Building a Thriving Influencer Profile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-8-safe-online-collaboration-software-for-businesses-for-2024/"><u>[New] Top 8 Safe Online Collaboration Software for Businesses for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[Updated] In 2024, Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-aperture-alchemy-crafting-the-top-10-lens-list/"><u>[Updated] In 2024, Aperture Alchemy Crafting the Top 10 Lens List</u></a></li>
+<li><a href="https://win-special.techidaily.com/boost-your-pc-gaming-experience-effective-tips-to-minimize-lag-and-latency-insights-from-yl-computing/"><u>Boost Your PC Gaming Experience: Effective Tips to Minimize Lag & Latency - Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/curb-spontaneous-lockups-in-windows-11/"><u>Curb Spontaneous Lockups in WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-resource-consumption-in-subsystem-for-android/"><u>Fine-Tuning Resource Consumption in Subsystem for Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-frozen-resource-monitor-applications-on-win11/"><u>Fixing Frozen Resource Monitor Applications on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-credentials-access/"><u>Mastery of Windows Credentials Access</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-speech-capture-shortcut-techniques-in-windows-11/"><u>Optimize Your Speech Capture: Shortcut Techniques in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-difficulties-with-the-dll-in-steamui/"><u>Overcoming Difficulties with the DLL in SteamUI</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-office-suite-after-safe-mode-outbreak/"><u>Regaining Control Over Office Suite After Safe Mode Outbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-ms-office-on-win-11-a-step-by-step-guide/"><u>Setting Up MS Office on Win 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-streaming-reducing-latency-in-windows-discord/"><u>Speedy Streaming: Reducing Latency in Windows Discord</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mov-file-editing-made-easy-top-10-free-video-editors-for-2024/"><u>Updated MOV File Editing Made Easy Top 10 Free Video Editors for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Quick Pathways to Windows Performance Reports
-date: 2024-09-05T08:38:32.948Z
-updated: 2024-09-06T08:38:32.948Z
+date: 2024-11-30T19:10:43.168Z
+updated: 2024-12-07T11:18:17.390Z
 tags:
   - windows10
   - windows11
@@ -31,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 ![Opening the System Information tool using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Start-menu-search-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use File Explorer's Address Bar
 
  You can also use File Explorer's address bar to open various apps. In most cases, this tool comes in handy if the Start menu search bar isn't working.
@@ -49,11 +43,9 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 ![Typing msinfo32 in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Typing-msinfo32-in-the-File-Explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Run Command Dialog Box
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
@@ -67,12 +59,6 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 ![Opening the System Information tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Start Menu
 
  The Start Menu is a great place to access most of the apps on your device.
@@ -87,23 +73,13 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 ![Selecting the System Information tool on the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Selecting-the-System-Information-tool-on-the-Start-menu-items.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use the System Settings
 
  You can always use the system settings to customize or repair the apps on your PC (see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
@@ -116,11 +92,13 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 ![Opening the System Information tool using the system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-system-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Use the Control Panel
 
  The Control Panel is a reliable tool that can help you troubleshoot most PC issues. Now, the best part about it is that it also allows you to open various apps.
@@ -146,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
 ![Opening the System Information tool using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Opening-the-System-Information-tool-using-the-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Search for the System Information Tool in the System32 Folder
 
  You can easily open various apps by using the executable (.exe) files contained in the System32 folder.
@@ -168,12 +150,6 @@ Want to make the System Information tool easily accessible?
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Command Prompt and PowerShell can help you configure various settings or troubleshoot system issues. Now, you’d be glad to know that these tools can help you access the apps on your Windows device.
 
  Here’s how you can open the System Information app using the Command Prompt:
@@ -185,21 +161,17 @@ Want to make the System Information tool easily accessible?
 `msinfo32`
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Use a System Information Desktop Shortcut
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also open the System Information app by using its desktop shortcut. If you don’t have a desktop shortcut for this app, here’s how you can create it:
 
 1. Press**Win + D** to access the desktop.
@@ -209,34 +181,19 @@ Want to make the System Information tool easily accessible?
 
 ![Creating the msinfo32 desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Creating-the-msinfo32-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type**System Information App** in the**Name** box. From there, press the**Finish** button.
 
  From now on, you can easily access the System Information app by clicking your desktop shortcut. And if you want to make things easier, you can pin your desktop shortcut to the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access the Windows System Information Tool Using Your Favorite Method
 
  If you want to quickly find some information about your PC, then you should check out the System Information tool. And if this app gives you issues, you can check your Windows PC specs using other tools instead.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,4 +202,22 @@ Want to make the System Information tool easily accessible?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-frame-by-frame-focus-analyzing-recorder-quality/"><u>[New] 2024 Approved Frame-by-Frame Focus Analyzing Recorder Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-complete-look-at-xvideo-studio-essentials/"><u>[New] Expert Analysis Complete Look at XVideo Studio Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-value-of-sns-hdr-and-its-market-rivals/"><u>[New] Exploring the Value of SNS HDR and Its Market Rivals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-tiktok-content-with-voice-overlay/"><u>[Updated] 2024 Approved Elevate Your TikTok Content with Voice Overlay</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-audiophiles-guide-to-superior-9-online-mic-tools/"><u>[Updated] In 2024, Audiophile's Guide to Superior 9 Online Mic Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-systray-functionality-resource-details-at-a-glance/"><u>Elevate SysTray Functionality: Resource Details at a Glance</u></a></li>
+<li><a href="https://win11.techidaily.com/fuel-efficiency-the-best-pc-optimization-tools-on-a-win/"><u>Fuel Efficiency: The Best PC Optimization Tools on a Win</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-30i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 30i Face Lock?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-or-download-hp-officejet-4655-printer-drivers/"><u>How to Successfully Update or Download HP Officejet 4655 Printer Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-fixing-common-closed-caption-issues-in-win11/"><u>Navigating & Fixing Common Closed Caption Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-use-of-windows-subsystem-essential-tips-for-success/"><u>Optimal Use of Windows Subsystem: Essential Tips for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/overhaul-your-windows-11-experience-with-these-tools/"><u>Overhaul Your Windows 11 Experience with These Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-error-0x80242016/"><u>Quick Fixes for Windows Update Error 0X80242016</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-secrets-of-ai-driven-image-creation-in-paint-cocreator-win11-edition/"><u>Unraveling the Secrets of AI-Driven Image Creation in Paint Cocreator, Win11 Edition</u></a></li>
+</ul></div>
 

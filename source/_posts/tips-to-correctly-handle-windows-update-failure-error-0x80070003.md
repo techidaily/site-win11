@@ -1,7 +1,7 @@
 ---
 title: Tips to Correctly Handle Windows Update Failure Error 0X80070003
-date: 2024-09-05T08:32:57.264Z
-updated: 2024-09-06T08:32:57.264Z
+date: 2024-12-02T01:30:55.707Z
+updated: 2024-12-07T07:48:25.332Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fixing Windows Updates Error,Handling Update Failures,Resolve Error 0X
 thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4a594b07cf7ffe549e83acd7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips to Correctly Handle Windows Update Failure Error 0X80070003
 
  It's not unusual for Windows users to run into issues when installing updates or upgrading to the latest version of Windows. The problem with these error codes is that most of the time, they do not specify the cause of the error or what users can do to avoid it.
@@ -37,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Delete the Contents of the DataStore Folder
 
  The DataStore folder in Windows is a log file that stores information about all the updates installed in the system. This folder is located in the SoftwareDistribution folder, which is a directory of update-related information in Windows.
@@ -55,18 +43,21 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 `C:\Windows\SoftwareDistribution`  
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the folder is deleted, open the Settings app and try installing the updates again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run System Scans
 
  The next thing you can do is scan the system for potential issues. The best way to do this is by using built-in system utilities like the System File Checker and DISM.
@@ -83,27 +74,29 @@ Here is all that you need to do:
 `sfc /scannow`  
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair the Update Components
 
  As we mentioned earlier, the update components can also deal with some kind of corruption, leading to the problem under discussion.
@@ -133,25 +126,16 @@ net start trustedinstaller
 net start appidsvc`  
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +144,22 @@ net start appidsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/igital-freedom-list-best-10-mp3-makers-for-2024/"><u>[New] Digital Freedom List Best 10 MP3 Makers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlocking-youtube-studios-power-for-professional-edits/"><u>[Updated] In 2024, Unlocking YouTube Studio's Power for Professional Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-one-way-startup-on-secure-windows-for-office-suite/"><u>Combatting the One-Way Startup on Secure Windows for Office Suite</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-connection-stability-fixed-windows-lol-issues/"><u>Mastering Connection Stability: Fixed Windows LoL Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-sleep-glitches-on-new-windows-11/"><u>Resolving Sleep Glitches on New Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-incompatible-media-input-vlc/"><u>Resolving Windows: Incompatible Media Input VLC</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-file-explorer-restart-process/"><u>Simplifying the File Explorer Restart Process</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-purity-drive-excluding-polityfaith-talk/"><u>Social Media Purity Drive: Excluding Polity/Faith Talk</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-maneuvers-beat-the-windows-lag-on-sw-bf2/"><u>Swift Maneuvers: Beat the Windows Lag on SW BF2</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-sound-potential-with-windows-11/"><u>Unlock Your PC's Sound Potential with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey-for-2024/"><u>Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-fcp-voice-over-mastery-top-tips-for-beginners-for-2024/"><u>Updated FCP Voice Over Mastery Top Tips for Beginners for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/vyncs-link-review-breakdown-exceptional-tracking-capabilities-undermined-by-puzzling-subscription-structures/"><u>Vyncs Link Review Breakdown: Exceptional Tracking Capabilities Undermined by Puzzling Subscription Structures</u></a></li>
+<li><a href="https://win11.techidaily.com/win-fix-guide-to-eliminating-screen-sizes-errors/"><u>Win-Fix Guide to Eliminating Screen Sizes Errors</u></a></li>
+</ul></div>
 

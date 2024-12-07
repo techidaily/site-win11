@@ -1,7 +1,7 @@
 ---
 title: How to Unlock and Fix Frozen Screensaver on PC
-date: 2024-09-05T08:32:10.775Z
-updated: 2024-09-06T08:32:10.775Z
+date: 2024-11-30T03:39:23.022Z
+updated: 2024-12-06T17:42:02.462Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use the Local Group Policy Editor
 
  The “grayed out screen saver settings” error might be caused by issues that stem from the Local Group Policy Editor (LGPE). So, the best way to tackle the problem is to make some changes in the LGPE.
@@ -41,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 ![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
 
  But then how would enabling the “screen saver” option resolve the “grayed out screen saver settings” error?
@@ -61,11 +49,9 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![Clicking the Force specific screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-force-specific-screen-saver-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Check the **Disabled** box, click **Apply**, and then click **OK**.
 
  So, how does disabling the “Force specific screen saver” option help?
@@ -79,11 +65,9 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, we’ll show you how to get rid of the “grayed out screen saver settings” error using the Registry Editor. But if you tweak the wrong Registry keys by mistake, your device might end up crashing. That’s why we always recommend that you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before editing its keys.
 
  Let’s now check out how this tool can help you resolve the issue at hand:
@@ -98,18 +82,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the "Control Panel" key is missing, here’s how you can create it:
 
 1. Right-click on the **Windows** folder (key) in the LGPE and select **New > Key**.
@@ -138,6 +110,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Now, let's check out how to configure a few power settings to tackle the “grayed out screen saver settings” issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Change the Power Settings Via the Screen Saver Settings Window
 
  Did you know that you can tweak the power settings directly from the Screen Saver Settings window? Here are the steps you need to follow:
@@ -147,6 +123,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 3. Click the **Change power settings** option.
 
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
 
@@ -159,11 +139,9 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 ![Clicking the Save Changes button on the Edit plan settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-save-changes-button-on-the-edit-plan-settings-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, configure the advanced power settings through these steps:
 
 1. Type **Change screen saver** in the Start menu search bar and select the **Best match**.
@@ -174,12 +152,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
 
  Want to restore your power settings to their defaults at a later stage?
@@ -187,6 +159,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Power Settings via the Control Panel
 
@@ -203,32 +179,18 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  From there, you can edit all the necessary power settings using the tips we covered in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Get Rid of System Corruption or Update Your PC
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You've Successfully Restored Your Screen Saver Settings
 
  There’s no denying that changing your screen saver regularly makes your PC look cool. But then being unable to change the screen saver settings is uncool.
@@ -237,11 +199,28 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-instantly-convert-online-tutorials-into-interactive-animation-gifs/"><u>[Updated] Instantly Convert Online Tutorials Into Interactive Animation GIFs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-realistic-quantum-leaps-a-vfx-perspective/"><u>[Updated] Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[Updated] Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boost-your-snaps-to-new-heights-with-expert-snapchat-tips/"><u>2024 Approved Boost Your Snaps to New Heights with Expert Snapchat Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-understanding-the-impact-of-aurora-hdr-on-photography/"><u>2024 Approved Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-top-performers-best-combined-cable-modem-and-routers/"><u>2024'S Top Performers: Best Combined Cable Modem and Routers</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-frozen-text-editor-reclaiming-access-on-windows-machines/"><u>Fixing the Frozen Text Editor: Reclaiming Access on Windows Machines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-overcoming-windows-11-update-failures/"><u>Methods for Overcoming Windows 11 Update Failures</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcpx-on-a-budget-10-essential-free-plugins/"><u>New 2024 Approved FCPX on a Budget 10 Essential Free Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-default-pdf-software-on-windows/"><u>Overriding Default PDF Software on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionize-social-sagas-no-cost-for-online-and-mobile-excellence/"><u>Revolutionize Social Sagas – No Cost for Online & Mobile Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-taskbar-invisibility-while-full-screen/"><u>Solutions for Taskbar Invisibility While Full-Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-picture-management-top-7-windows-apps/"><u>Streamlined Picture Management: Top 7 Windows Apps</u></a></li>
+</ul></div>
+

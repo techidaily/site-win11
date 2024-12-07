@@ -1,7 +1,7 @@
 ---
 title: Navigating the Seas of Application & Browser Control
-date: 2024-11-27T00:56:28.692Z
-updated: 2024-11-28T04:40:05.684Z
+date: 2024-12-02T02:57:35.885Z
+updated: 2024-12-06T23:27:38.538Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
  The tool is part of Windows Security, the in-built Windows antivirus program. It offers three distinct sections that work in tandem to protect you from malicious apps and websites: Smart App Control, Reputation-based protection, and Exploit protection—each with a different but critical part to play. To enable and get the most out of the App and browser control, then, you will need to tweak the settings of individual sections. So let's cover all of them one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Smart App Control
 
 [Smart App Control](https://www.makeuseof.com/windows-11-smart-app-control-explain/) protects you from arbitrary security breaches by blocking out all untrustworthy or malicious apps. This is a vital function, as third-party malicious apps often show you a host of dallying ads, make your device excessively slow, and come with additional baggage that can make your Windows experience overall subpar.
@@ -47,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
 ![smart app control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/smart-app-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Moreover, if the Smart App Control feature is turned off, you must do a clean Windows reinstall to turn it on again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reputation-Based Protection
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
 ### 1\. Check Apps and Files
@@ -80,12 +76,16 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
  When you have the Check apps and files button toggled on, the Microsoft Defender SmartScreen will protect your important files and apps on the web.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Phishing Protection
 
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 * Warn me about unsafe password storage.
 
  Click on the relevant checkboxes to turn on the settings, and you will be well protected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Potentially Unwanted App Blocking
 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
 
  Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get App and Browser Control on a Windows PC
 
@@ -142,22 +142,21 @@ thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-multimedia-a-comprehensive-guide-on-leveraging-the-power-of-video-to-audio-conversion-with-factory-pro/"><u>1. Mastering Multimedia: A Comprehensive Guide on Leveraging the Power of Video-to-Audio Conversion with Factory Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026337234-dvd/"><u>最適なレンタルDVDコピーツール選び - 使い勝手とセキュリティの両立!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-epson-perfection-v39-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Perfection V39 Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028106781-dvd/"><u>DVDの正常再生を保証する!理解しやすく簡単に修復する方法</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026382879-gif/"><u>GIFアニメ画質向上:高解像度への改良手順</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-poco-f5-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Poco F5 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-mobile-vr-transform-your-phone-into-a-vr-headset/"><u>Mastering Mobile VR Transform Your Phone Into a VR Headset</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007837145-pc-gamers-rejoice-the-dread-hunger-crash-glitch-is-finally-solved/"><u>PC Gamers Rejoice - The Dread Hunger Crash Glitch Is Finally Solved</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027369163-pcdvd/"><u>PCで安全にDVDのデータをバックアップする手順ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/personalized-exercise-plans-with-chatgpt-a-guide-for-fitness-coaches/"><u>Personalized Exercise Plans with ChatGPT: A Guide for Fitness Coaches</u></a></li>
-<li><a href="https://games-able.techidaily.com/playland-11-must-have-phone-games-for-disconnected-days/"><u>Playland: 11 Must-Have Phone Games for Disconnected Days</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3dx927dll-file-not-detected-issue-a-step-by-step-guide/"><u>Solving the d3dx9_27.dll File Not Detected Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/wmamp3-top3/"><u>WMAファイルからMP3への変換が簡単! ベストオンラインツールTOP3</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/zte-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026492605-gif/"><u>ダイナミックなGIFウェルカムバナー作成の基礎知識</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-engaging-youtube-content-a-step-by-step-approach/"><u>[New] 2024 Approved Creating Engaging YouTube Content A Step-by-Step Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-tonal-terrain-mac-audio-artistry/"><u>[New] In 2024, Tonal Terrain Mac Audio Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-livestream-leap-backwards-twenty-efficient-ways-for-twitch-enthusiasts/"><u>[New] Livestream Leap Backwards Twenty Efficient Ways for Twitch Enthusiasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-simplifying-content-acquisition-via-funimate/"><u>[New] Simplifying Content Acquisition via Funimate</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-posts-with-4-effective-video-loop-techniques/"><u>[Updated] Elevate Your Posts with 4 Effective Video Loop Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>2024 Approved IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-security-standards-extended-pins-on-modern-windows/"><u>Elevating Security Standards: Extended Pins on Modern Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fbx-for-the-aspiring-gamer-filmmaker-for-2024/"><u>FBX for the Aspiring Gamer Filmmaker for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-microsoft-works-in-windows-11-instructions/"><u>Launching Microsoft Works in Windows 11: Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-pages-masterful-methods-top-7-tricks-for-web-site-revival/"><u>Missing Pages, Masterful Methods: Top 7 Tricks for Web Site Revival</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-black-screen-woes-in-windows-11/"><u>Navigating Black Screen Woes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-for-richness-regain-windows-11s-vanished-enhancement-options/"><u>Reboot for Richness: Regain Windows 11'S Vanished Enhancement Options</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-pc-disableremove-ms-edge-w11/"><u>Simplify Your PC: Disable/Remove MS Edge W11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-zte-axon-40-lite-frp-bypass-by-drfone-android/"><u>Ultimate Guide on ZTE Axon 40 Lite FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-for-the-webs-storage-effortless-access-to-cloud-drives/"><u>Windows Wizardry for the Web's Storage: Effortless Access to Cloud Drives</u></a></li>
 </ul></div>
 

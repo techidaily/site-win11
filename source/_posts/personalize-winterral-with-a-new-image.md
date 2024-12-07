@@ -1,7 +1,7 @@
 ---
 title: Personalize WinTerral with a New Image
-date: 2024-11-21T04:05:00.829Z
-updated: 2024-11-28T01:29:09.676Z
+date: 2024-12-01T05:25:02.821Z
+updated: 2024-12-07T11:04:16.455Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Windows Terminal Background Image
 
  You can change the background image of Windows Terminal in three ways: using the**Default** option within the Terminal app or manually editing the settings.json file using**File Explorer** and**Run** dialog box. All three methods achieve the same result and are easy to use.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Once you are satisfied with the changes, click the**Save** button in order to apply them. Your custom background image should now be visible in the Windows Terminal.
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set a New Background Image for Windows Terminal
@@ -136,18 +136,24 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>[New] Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-virtuosos-popular-ig-effects/"><u>[Updated] In 2024, Visual Virtuosos Popular IG Effects</u></a></li>
-<li><a href="https://solve-news.techidaily.com/automate-your-website-with-efficient-cookiebot-technology/"><u>Automate Your Website with Efficient Cookiebot Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/best-video-format-changer-app-for-ps4-easy-steps-to-enjoy-any-content/"><u>Best Video Format Changer App for PS4: Easy Steps to Enjoy Any Content!</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-tutorial-on-restoring-damaged-mkv-movie-files/"><u>Complete Tutorial on Restoring Damaged MKV Movie Files</u></a></li>
-<li><a href="https://win11.techidaily.com/daznpc/"><u>DAZN映像取得・保管手順に関するPCユーザ向けの詳細マニュアル</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-top-10-no-cost-image-repositories-with-extensive-high-end-visual-archives/"><u>Discover the Ultimate Selection: Top 10 No-Cost Image Repositories with Extensive, High-End Visual Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/duplicate-dvds-easily-using-1click-dvd-copy-plus-top-alternatives-revealed/"><u>Duplicate DVDs Easily Using 1Click DVD Copy - Plus Top Alternatives Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-tutorial-unlocking-the-secrets-of-peekvids-video-extraction/"><u>Effortless Tutorial: Unlocking the Secrets of PeekVids Video Extraction</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-using-switch-pro-controller-with-steam/"><u>Essential Tips for Using Switch Pro Controller with Steam</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/screenless-laptop-aesthetics-meet-elite-performance-the-atomman-g7-ti-with-i9-cpu-rtx-graphics-and-massive-ram-capacity/"><u>Screenless Laptop Aesthetics Meet Elite Performance: The AtomMan G7 Ti with I9 CPU, RTX Graphics & Massive RAM Capacity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/team-fortress-2-stability-solutions-resolving-continuous-crash-issues/"><u>Team Fortress 2 Stability Solutions - Resolving Continuous Crash Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-rules-of-engagement-on-youtube/"><u>[New] 2024 Approved Essential Rules of Engagement on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-hacking-htc-vive-for-a-nausea-free-session/"><u>[New] 2024 Approved Hacking HTC Vive for a Nausea-Free Session</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-ntkrnlmpexe-blue-screen-error/"><u>[SOLVED] ntkrnlmp.exe Blue Screen Error</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-the-art-of-crafting-compelling-content-in-60-second-videos/"><u>[Updated] 2024 Approved Mastering the Art of Crafting Compelling Content in 60-Second Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-navigating-the-process-windows-movie-maker-content-on-vimeo/"><u>[Updated] In 2024, Navigating the Process Windows Movie Maker Content on Vimeo</u></a></li>
+<li><a href="https://app-tips.techidaily.com/buy-ashamapoos-pro-3d-cad-software-version-11-at-a-steal-just-40-on-zdnet-today/"><u>Buy Ashamapoo's Pro 3D CAD Software Version 11 at a Steal: Just $40 on ZDNet Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-elevation-for-power-users-on-pc/"><u>Enabling Elevation for Power Users on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eveo-bluetooth-adapter-software-download-get-your-latest-drivers/"><u>Eveo Bluetooth Adapter Software Download - Get Your Latest Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-search-bar-spontaneity-in-windows-11/"><u>How to Prevent Search Bar Spontaneity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-sfc-scan-steps-on-windows/"><u>Navigating Through SFC Scan Steps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixed-tips-for-corrupted-windows-1011-bin-problems/"><u>Quick Fixed! Tips for Corrupted Windows 10/11 Bin Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-portal-elevated-terminal-at-your-fingertips/"><u>Quick Portal: Elevated Terminal at Your Fingertips</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-no-sound-output-windows/"><u>Steps to Rectify No Sound Output Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-telnet-access-on-modern-windows/"><u>Unlocking Secure Telnet Access on Modern Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-get-animated-the-best-mobile-apps-for-cartooning-yourself/"><u>Updated Get Animated The Best Mobile Apps for Cartooning Yourself</u></a></li>
 </ul></div>
 

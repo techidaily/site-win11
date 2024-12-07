@@ -1,7 +1,7 @@
 ---
 title: How to Activate or Deactivate Contactless Keyboard Windows
-date: 2024-11-25T00:03:02.327Z
-updated: 2024-11-27T17:29:42.599Z
+date: 2024-12-04T06:05:27.994Z
+updated: 2024-12-07T06:18:08.329Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Settings App to Enable/Disable Fingertip Writing
 
  The easiest, most straightforward way to enable or disable the fingertip writing feature is by using the Settings app. You can make these changes in the Bluetooth & devices section and do not need to have administrative access to the system as well.
@@ -41,17 +37,17 @@ Here is how you can proceed:
 ![Access the Pen & Windows Ink section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pen-and-windows-ink.jpg)
 4. Expand the**Use your handwriting to enter text** section under Handwriting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Checkmark the box associated with**Write with your fingertip** .  
 ![Write with your fingertip option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/write-with-you-fingertip-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now close the Settings app if you want. To disable the feature in the future, simply follow these steps again and uncheck the Write with your fingertip option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable/Disable Fingertip Writing via the Registry Editor
@@ -72,6 +68,10 @@ Then, proceed with these steps:
 5. Right-click on**TableTip** and choose**New** \>**Key** .  
 ![Create a new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Name this key as EmbeddedInkControl.
 2. Now, move to the right pane and right-click anywhere on an empty space.
 3. Choose**New** \>**DWORD (32-bit) Value** .
@@ -82,6 +82,10 @@ Then, proceed with these steps:
 7. Close the Registry Editor and restart your computer.
 
  Upon reboot, you should be able to use the fingertip writing feature. To disable this feature, follow the aforementioned steps again and change the value data of the EnableInkingWithTouch key to 0.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable/Disable Fingertip Writing Via the Group Policy Editor
 
@@ -101,14 +105,10 @@ Then, proceed with these steps:
 7. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now close the Group Policy Editor and begin using the fingertip writing feature with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Your Fingertips to Write Away on Windows
 
@@ -131,21 +131,18 @@ Then, proceed with these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pioneering-6-networks-supporting-business-development/"><u>[New] In 2024, Pioneering 6 Networks Supporting Business Development</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-complete-blueprint-for-tracking-yt-viewsrevenue-for-2024/"><u>[Updated] Complete Blueprint for Tracking YT Views/Revenue for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-feedback-to-fanbase-the-video-journey/"><u>[Updated] From Feedback to Fanbase The Video Journey</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-total-data-consumption-days-long-movie/"><u>[Updated] Total Data Consumption Day's Long Movie</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/comprehensive-snapshot-tool-az-reviews-and-substitutes/"><u>Comprehensive Snapshot Tool - AZ Reviews & Substitutes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-apples-holiday-deal-save-40-on-top-rated-airpods-before-independence-day-insights/"><u>Discover Apple's Holiday Deal: Save $40 on Top-Rated AirPods Before Independence Day - Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essentials-of-drafting-engaging-vlogger-speeches/"><u>Essentials of Drafting Engaging Vlogger Speeches</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-privacy-centric-explore-instagram-stories-anon-on-your-devices/"><u>In 2024, Privacy-Centric Explore Instagram Stories Anon on Your Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-lut-technology-in-adobe-premiere-for-2024/"><u>Leveraging LUT Technology in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-managing-digital-copies-of-dvds-and-cds-rip-burn-and-duplicate/"><u>Ultimate Techniques for Securely Managing Digital Copies of DVDs and CDs - Rip, Burn, and Duplicate</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-leaked-clip-insights-and-teasers-for-the-affordable-next-generation-iphone/"><u>Uncovering Leaked Clip Insights & Teasers for the Affordable Next Generation iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-pls-files-a-comprehensive-guide-on-opening-and-conversion/"><u>Understanding PLS Files: A Comprehensive Guide on Opening & Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/video/"><u>Videoダウンロードハンドラーの効果的な利用法を学ぶ</u></a></li>
-<li><a href="https://win11.techidaily.com/watch-youre-next-a-top-recommendation-for-fans-seeking-a-thrilling-horror-experience/"><u>Watch 'You're Next': A Top Recommendation for Fans Seeking a Thrilling Horror Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11stereo-mix/"><u>Windows 11でStereo Mixによる単音声録音手法</u></a></li>
-<li><a href="https://win11.techidaily.com/wonderfox-navigation-error-why-you-cant-find-the-content-anymore-new-link-text/"><u>WonderFox Navigation Error: Why You Can’t Find the Content Anymore – New Link Text</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-pros-playlist-shuffle-manual/"><u>[New] 2024 Approved The Pro's Playlist Shuffle Manual</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-easy-conversion-of-youtube-videos-from-twitter-into-gifs/"><u>[New] Easy Conversion of YouTube Videos From Twitter Into GIFs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/wipe-right-on-creativity-youtubes-top-techniques-for-greenscreens/"><u>[New] Swipe Right on Creativity YouTube’s Top Techniques for Greenscreens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sync-your-device-pace-youtube-audio-control-guide/"><u>[Updated] Sync Your Device Pace YouTube Audio Control Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tailor-made-viewing-pace-on-youtube-at-your-fingertips/"><u>[Updated] Tailor-Made Viewing Pace on YouTube at Your Fingertips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/digital-retouch-fundamentals-eliminate-backdrops-with-ease/"><u>Digital Retouch Fundamentals Eliminate Backdrops with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-microsoft-store-error-on-win11-with-code-0x80073cf3/"><u>Fixing the Microsoft Store Error on Win11 with Code 0X80073cf3</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-0x8007045d-blue-screen-issue/"><u>Fixing Windows 11'S 0X8007045D Blue Screen Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11s-screen-configurations-a-guide-to-10-methods/"><u>Mastering Window 11'S Screen Configurations: A Guide to 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-unable-to-initialize-due-to-missing-qt-plugin/"><u>Overcoming 'Application Unable to Initialize Due to Missing Qt Plugin'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016487888-the-ultimate-guide-to-repairing-your-microphone-on-fortnite-no-more-silent-battles/"><u>The Ultimate Guide to Repairing Your Microphone on Fortnite - No More Silent Battles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-free-ae-template-packs-for-amateurs-for-2024/"><u>Top FREE AE Template Packs for Amateurs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-analyzing-windows-reliable-tools/"><u>Unleashing Potential: Analyzing Windows' Reliable Tools</u></a></li>
 </ul></div>
 

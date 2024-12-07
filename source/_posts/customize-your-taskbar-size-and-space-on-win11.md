@@ -1,7 +1,7 @@
 ---
 title: Customize Your Taskbar Size & Space on Win11
-date: 2024-11-25T21:16:08.576Z
-updated: 2024-11-28T03:42:08.950Z
+date: 2024-12-05T02:23:55.059Z
+updated: 2024-12-07T10:25:49.920Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Make the Windows 11 Taskbar Bigger or Smaller?
@@ -43,32 +43,33 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 5. In the**Advanced** key, look for a value called**TaskbarSi** . If it’s not there, right-click**Advanced** , select**New > DWORD (32-bit) Value** , and name that value**TaskbarSi.**  
 ![creating a new dword in the advanced key in the Registry Editor on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/new-dword-advanced-regedit.jpg)
 6. Double-click**TaskbarSi** to edit it, and then enter**2** in the**Value data** text box and click**OK** to make the Taskbar bigger.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing the taskbarsi value to 2 in the Registry Editor on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbarsi-value-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you restart your computer, you will see the result: an enlarged Taskbar.
 
 ![an enlarged Taskbar on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-desktop-enlarged-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make the Taskbar smaller, enter**0** in the**Value data** text box, click**OK** , and then restart your computer. You will then see that the Taskbar has shrunk.
 
 ![a smaller taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-desktop-small-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you decide to go back to the Taskbar’s default size, you can easily set**Value data** to**1** or simply delete the**TaskbarSi** value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adjust the Taskbar’s Size to Suit Your Needs on Windows 11
@@ -90,20 +91,24 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-expert-tips-for-changing-mac-screenshot-formats/"><u>[Updated] In 2024, Expert Tips for Changing Mac Screenshot Formats</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-boosting-your-youtube-shorts-audience/"><u>[Updated] Strategies for Boosting Your YouTube Shorts Audience</u></a></li>
-<li><a href="https://win11.techidaily.com/blu-ray-disc-h264/"><u>「品質保証の下、ハイスピードでBlu-Ray Disc H.264への変換手順」</u></a></li>
-<li><a href="https://win11.techidaily.com/cm-3/"><u>動画素材中のCMパターンを見つけ出せ: 3つのスニファリティ方法</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-hd-content-transfer-no-loss-h2-cuffing-guide-using-windows-tools/"><u>Accelerate Your HD Content Transfer: No-Loss H.2 Cuffing Guide Using Windows Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/ape-to-wav-file-transformation-techniques-for-windows-macos-smartphones-and-online-tools/"><u>APE to WAV File Transformation Techniques for Windows, macOS, Smartphones & Online Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/best-video-format-changers-from-dvd-and-avi-to-mp4-on-windows-11-2024-rankings/"><u>Best Video Format Changers From DVD & AVI to MP4 on Windows 11 (2024 Rankings)</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-understanding-and-evaluating-blackberrys-playbook-tablet/"><u>Comprehensive Guide: Understanding and Evaluating BlackBerry's PlayBook Tablet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-scope-of-googles-ai-gemini-venture/"><u>Decoding the Scope of Google's AI Gemini Venture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-the-world-of-lenovos-thinkpad-x1-fold-a-peculiar-journey-through-unconventional-laptop-design-and-premium-pricing/"><u>Dive Into the World of Lenovo's ThinkPad X1 Fold: A Peculiar Journey Through Unconventional Laptop Design and Premium Pricing</u></a></li>
-<li><a href="https://win11.techidaily.com/dvd-mp4/"><u>DVDコピーワラジ脱出 MP4への変換手順</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optical-opus-the-elite-list-of-8k-cameras-for-2024/"><u>Optical Opus The Elite List of 8K Cameras for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-sony-xperia-5-v-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Sony Xperia 5 V, is it possible?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-instructions-save-and-enjoy-netflix-titles-later-from-a-mac-computer/"><u>Step-by-Step Instructions: Save and Enjoy Netflix Titles Later From a Mac Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/zipped-content-unveiled-crafting-srt-text-files/"><u>Zipped Content Unveiled Crafting Srt Text Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-image-editors-your-ultimate-text-companion/"><u>[New] Innovative Image Editors Your Ultimate Text Companion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-8-reliable-video-promotion-services/"><u>[New] Unveil 8 Reliable Video Promotion Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-5-strategies-for-fb-story-access-on-pctablet-and-phone/"><u>[New] Unveiling 5 Strategies for FB Story Access on PC/Tablet and Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transforming-discord-chats-into-lasting-memories-for-2024/"><u>[Updated] Transforming Discord Chats Into Lasting Memories for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203675679-5-effective-techniques-to-unfreeze-a-stubborn-windows-10-taskbar/"><u>5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-mobile-unveiling-six-superiorities-of-the-ios-app-compared-to-its-web-counterpart/"><u>ChatGPT on Mobile: Unveiling Six Superiorities of the iOS App Compared to Its Web Counterpart</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crash-free-gaming-top-strategies-to-tackle-state-of-decay-2-bugs-this-year/"><u>Crash-Free Gaming: Top Strategies to Tackle State of Decay 2 Bugs This Year!</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-user-profiles-with-precise-gpo-settings-in-win-oses/"><u>Customizing User Profiles with Precise GPO Settings in Win OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-platform-user-service-stability-on-windows/"><u>Enhancing Platform User Service Stability on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone/"><u>In 2024, How to View Instagram Stories Anonymously on PC, Android, and iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-phantom-v-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Phantom V Flip? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/nostalgic-gameplay-unlocked-dosbox-x-edition/"><u>Nostalgic Gameplay Unlocked: DOSBox-X Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-interactive-functionality-of-windows-11-menu-system/"><u>Restoring Interactive Functionality of Windows 11 Menu System</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-onedrive-account-on-a-windows-pc/"><u>Restoring OneDrive Account on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/scribble-to-screen-top-8-notetaking-alternatives-for-windows-pcs/"><u>Scribble to Screen: Top 8 Notetaking Alternatives for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/shattered-crypto-key-dont-rush-for-new-guardians/"><u>Shattered Crypto Key: Don't Rush for New Guardians</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-viewing-best-free-windows-media-players/"><u>Streamline Your Viewing: Best Free Windows Media Players</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-task-management-speed-in-windows-11/"><u>Upgrading Task Management Speed in Windows 11</u></a></li>
 </ul></div>
 

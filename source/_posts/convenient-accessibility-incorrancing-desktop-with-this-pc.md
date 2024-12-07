@@ -1,7 +1,7 @@
 ---
 title: "Convenient Accessibility: Incorrancing Desktop with 'This PC'"
-date: 2024-11-22T01:19:23.468Z
-updated: 2024-11-27T19:45:38.926Z
+date: 2024-12-05T11:47:07.698Z
+updated: 2024-12-06T23:31:40.527Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add the "This PC" Icon to Your Windows Desktop
 
  To add the "This PC" icon to your Windows 11 desktop, follow these steps:
@@ -38,18 +34,23 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 3. Go to**Themes** in the right pane.  
 ![Go to Themes in Personalization Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-themes-in-personalization-tab-of-windows-settings-app.jpg)
 4. Click on**Desktop icon settings** under**Related settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Desktop Icon Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-desktop-icon-settings-under-related-settings-in-windows-settings-app.jpg)
 5. In the**Desktop Icon Settings** window, check the box beside**Computer** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then, click on**Apply** and hit**OK** .  
 ![Click OK After Checking the Box Besides Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-ok-after-checking-the-box-besides-computer-in-desktop-icons-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all. Following the above steps will add the "This PC" icon to your desktop. If you wish to remove the icon again, follow the same steps outlined above, but this time uncheck the box beside**Computer** (that you checked), click**Apply** , and hit**OK** .
@@ -57,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 ![Click OK After Unchecking the Box Beside Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-click-ok-after-unchecking-the-box-beside-computer-in-desktop-icons-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similar to how we have added the "This PC" icon, you can[add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
@@ -65,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Add the "This PC" Icon to Your Desktop
@@ -87,22 +88,24 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-comprehensive-codes-of-conduct-for-the-yt-community/"><u>[New] Comprehensive Codes of Conduct for the Yt Community</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-loves-anthem-top-10-songs-that-define-proposal-moments-for-2024/"><u>[New] Love's Anthem Top 10 Songs That Define Proposal Moments for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-improve-browser-performance-fb-vids-chrome/"><u>[Updated] In 2024, Improve Browser Performance FB Vids, Chrome</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-snappy-and-straightforward-win11-screening/"><u>2024 Approved Snappy & Straightforward Win11 Screening</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-seamlessly-with-friends-via-whatsapp-on-mac-os/"><u>Connect Seamlessly with Friends via WhatsApp on Mac OS</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-creating-stunning-presentations-using-vlc-media-players-slideshow-feature/"><u>Easy Guide: Creating Stunning Presentations Using VLC Media Player's Slideshow Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-conversion-techniques-for-changing-extensible-mobile-multimedia-4xm-files-to-compatible-mp4-video/"><u>Effortless Conversion Techniques for Changing eXtensible Mobile Multimedia (4XM) Files to Compatible MP4 Video</u></a></li>
-<li><a href="https://win11.techidaily.com/flacipad/"><u>FLAC形式の音楽ファイルをiPad上でどのように再生しますか？</u></a></li>
-<li><a href="https://win11.techidaily.com/free-theme-song-downloads-a-hassle-free-guide/"><u>Free Theme Song Downloads: A Hassle-Free Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/from-disc-to-cloud-master-the-art-of-free-dvd-to-digital-copy-creation/"><u>From Disc to Cloud: Master the Art of Free DVD-to-Digital Copy Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/get-crystal-clear-images-anytime-the-ultimate-guide-to-dvd-upgrading-for-high-definition-enjoyment/"><u>Get Crystal Clear Images Anytime: The Ultimate Guide to DVD Upgrading for High Definition Enjoyment</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-capturing-audio-and-video-together-on-windows-1011/"><u>Guide: Capturing Audio and Video Together on Windows 10/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-g24-power-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola G24 Power for Free? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/import-your-mov-videos-hassle-free-expert-tips-for-using-windows-movie-maker-on-a-budget/"><u>Import Your MOV Videos Hassle-Free: Expert Tips for Using Windows Movie Maker on a Budget</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>In 2024, Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-electronics-with-insights-from-toms-hardware/"><u>Mastering the World of Electronics with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-stories-gaming-and-chatgpt/"><u>Unleashing Stories: Gaming and ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streamlining-success-strategies-for-daily-vlog-authenticity/"><u>2024 Approved Streamlining Success Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/all-platform-guide-to-best-value-zero-cost-live-broadcast-technology/"><u>All Platform Guide to Best Value, Zero-Cost Live Broadcast Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-back-memories-craft-a-windows-1198-vibe/"><u>Bringing Back Memories: Craft a Windows 11/98 Vibe</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975524243-centrino-advanced-n-6205-intel-chip-support-fresh-driver-downloads-at-your-service/"><u>Centrino Advanced-N 6205 Intel Chip Support: Fresh Driver Downloads at Your Service</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-experience-integrating-vivid-wallpapers-in-windows-11/"><u>Elevate Your PC Experience: Integrating Vivid Wallpapers in Windows 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/file-transfer-tutorial-saving-documents-on-an-exterior-hdd-with-windows-10-steps/"><u>File Transfer Tutorial: Saving Documents on an Exterior HDD with Windows 10 Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y77t Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-memory-not-recorded-issue/"><u>Mastery over Windows Memory Not Recorded Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/painting-with-purpose-mastering-ai-art-through-chatgpt/"><u>Painting with Purpose: Mastering AI Art Through ChatGPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/porque-vs-por-que-whats-the-difference/"><u>Porque Vs Por Que: What's The Difference?</u></a></li>
+<li><a href="https://win11.techidaily.com/scanning-through-7-pivotal-windows-tasks-for-malware/"><u>Scanning Through 7 Pivotal Windows Tasks for Malware</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-manage-daily-tasks-with-these-top-6-windows-11-software-solutions/"><u>Seamlessly Manage Daily Tasks with These Top 6 Windows 11 Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-clear-unwanted-saved-wi-fi-in-win-11/"><u>Securely Clear Unwanted Saved Wi-Fi in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/set-windows-calculation-display-to-dark-theme/"><u>Set Windows Calculation Display to Dark Theme</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-1011-store-glitch-with-error-x800704cf/"><u>Steps to Overcome Windows 10/11 Store Glitch with Error X800704CF</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/swift-install-razer-mamba-driver-download-guide/"><u>Swift Install: Razer Mamba Driver Download Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://win11.techidaily.com/the-fourfold-approach-to-discarding-partition-on-windows-systems/"><u>The Fourfold Approach to Discarding Partition on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-roadmap-for-successful-installation-of-pc-manager-in-win11/"><u>The Roadmap for Successful Installation of PC Manager in Win11</u></a></li>
 </ul></div>
 

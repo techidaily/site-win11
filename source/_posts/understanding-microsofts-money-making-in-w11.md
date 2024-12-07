@@ -1,7 +1,7 @@
 ---
 title: Understanding Microsoft's Money-Making in W11
-date: 2024-11-22T04:15:49.791Z
-updated: 2024-11-27T17:41:44.203Z
+date: 2024-12-03T03:46:11.208Z
+updated: 2024-12-07T04:14:29.635Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
  You can buy Windows 11 licenses from the Microsoft Store or other authorized retailers. Microsoft earns profit for every license sold everywhere in the world.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
@@ -57,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
 ![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -73,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
 
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
 
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![Bing Chat logo with a white abstract background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bing-chat-with-abstract-background.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft earns a sizable chunk of its revenue from the personal computing space, which includes online search. And search is an integral part of Windows 11—you can see it in the Start menu, Settings app, and even File Explorer.
 
  Also, there is a dedicated search widget in the taskbar. Behind the scenes, Microsoft's Bing is responsible for showing you the results.
@@ -117,23 +117,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-enhancing-engagement-share-tiktoks-on-twitter/"><u>[New] 2024 Approved Enhancing Engagement Share TikToks on Twitter</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-enhance-web-presentations-top-12-html5-video-platforms-for-2024/"><u>[Updated] Enhance Web Presentations Top 12 HTML5 Video Platforms for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-leading-edge-in-game-capture-moving-past-fbx-methods-for-2024/"><u>[Updated] Leading Edge in Game Capture Moving Past FBX Methods for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/capture-save-your-guide-to-androidmac-video-savings-for-2024/"><u>Capture, Save Your Guide to Android/Mac Video Savings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030085673-dvd/"><u>DVD取り込みソフトでおすすめの方法：パソコン用ソリューションとスマホ移行手順紹介</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-non-responsive-huion-pen-instantly-top-5-remedies-you-can-try-today/"><u>Fix a Non-Responsive Huion Pen Instantly: Top 5 Remedies You Can Try Today</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-secrets-behind-elon-musks-new-venture-grok-ai-cost-and-potential-explored/"><u>The Secrets Behind Elon Musk's New Venture, Grok AI - Cost and Potential Explored</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-creativity-an-in-depth-look-at-the-makeblock-mbot-engineering-toy-for-kids/"><u>Unleash Creativity: An In-Depth Look at the Makeblock mBot Engineering Toy for Kids</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028795589-vlc/"><u>VLCマルチメディアソフトウェアでどうやって再生可能な形式へファイルを変更するか</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027748813-windows-pc/"><u>Windows PC上で画像からビデオへの変換手順集</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-mp4-gif/"><u>Windowsで優れた MP4から GIFへの変換ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/44kk44ok44ov44kp44oz5bcc55so44oc44kk44k544os44kz44o844oa44o844gu5yip55so44ks44kk44oj/"><u>イヤフォン専用ボイスレコーダーの利用ガイド</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +124,27 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pinnacle-picks-best-online-hd-video-recorder-tools/"><u>[Updated] 2024 Approved Pinnacle Picks Best Online HD Video Recorder Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>2024 Approved Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-quitting-linkedin-how-to-close-your-account-properly/"><u>2024 Approved Quitting LinkedIn How To Close Your Account Properly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crafting-versus-off-the-shelf-computers-which-strategy-suits-you-best/"><u>Crafting Versus Off-the-Shelf Computers - Which Strategy Suits You Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-standby-issues-and-insights/"><u>Dissecting Windows Standby: Issues and Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-in-windows-understanding-aids-and-assists/"><u>First Steps in Windows: Understanding Aids and Assists</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keeping-cameras-steady-in-motion-landscapes/"><u>In 2024, Keeping Cameras Steady in Motion Landscapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-windows-playback-system/"><u>In 2024, Ultimate Windows Playback System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/learn-the-solution-to-instagram-video-issues-for-2024/"><u>Learn the Solution to Instagram Video Issues for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-time-management-on-your-computer-choose-from-these-top-5-dynamic-clock-screen-saver-tools/"><u>Maximize Time Management on Your Computer: Choose From These Top 5 Dynamic Clock Screen Saver Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-pc-power-options-cpu-states-at-the-forefront/"><u>Navigating PC Power Options: CPU States at The Forefront</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/origins-and-evolution-of-the-netherlands-vernacular/"><u>Origins & Evolution of the Netherlands Vernacular</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-opening-windows-11s-component-services/"><u>Quick Tips for Opening Windows 11'S Component Services</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-ntoskrnlexe-resource-consumption/"><u>Reducing Ntoskrnl.exe Resource Consumption</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-service-access-failed-in-malwarebytes-on-windows-os/"><u>Resolving Service Access Failed in Malwarebytes on Windows OS</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-digital-advertising-strategy-with-cookiebot-integration/"><u>Revolutionize Your Digital Advertising Strategy With Cookiebot Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-vscode-from-shutting-down-suddenly-in-w11/"><u>Stop VSCode From Shutting Down Suddenly in W11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlined-steps-capturing-your-dell-screen-in-a-minute/"><u>Streamlined Steps Capturing Your Dell Screen in a Minute</u></a></li>
+<li><a href="https://win11.techidaily.com/top-fixes-to-get-google-drive-working-again-in-windows/"><u>Top Fixes to Get Google Drive Working Again in Windows</u></a></li>
+</ul></div>
+

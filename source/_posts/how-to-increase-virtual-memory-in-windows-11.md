@@ -1,7 +1,7 @@
 ---
 title: How to Increase Virtual Memory In Windows 11
-date: 2024-09-05T08:32:43.569Z
-updated: 2024-09-06T08:32:43.569Z
+date: 2024-11-30T00:02:07.826Z
+updated: 2024-12-06T16:08:10.245Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Boost W11 RAM,Enhance Windows VM,Increase Virtual Space,Optimize Win M
 thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5a9a2ad4f10fdb3f8f16d4fd.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Increase Virtual Memory In Windows 11
 
  Your computer slowing down isn't a great feeling. Is it overheating? Is the CPU old? Or is it that you've run out of memory?
@@ -27,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
  Running out of memory affects your system from top to bottom, making regular tasks suddenly feel like walking through treacle.
 
  If that sounds like your Windows 11 installation, it's time to check out your virtual memory settings to make sure your system can cope with demand. So, here's how you change the virtual memory size on Windows 11, along with a few tips on boosting your system performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Virtual Memory?
 
@@ -40,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 [When your RAM runs low](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) , your system will call upon the paging file to handle some of the extra data. However, as your hard drive or even solid-state drive is much slower than your RAM, system performance will take a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Windows 11 Is Running Low on Virtual Memory
 
  Now, the thing is, virtual memory has its own limits. It isn't an infinite well of additional yet slower memory you can call upon. If you begin to run out of virtual memory, Windows 11 will display the following error message:
@@ -63,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  Furthermore, remember that these values take up space on your hard drive, as Windows allocates the overall paging file space in case it needs it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Increase Virtual Memory Size on Windows 11
 
  If you want to go ahead and manually alter the paging file size on Windows 11 to remove the virtual memory low message, here's how you go about it.
@@ -78,32 +74,22 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 ![windows 11 system properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-system-properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![windows 11 performance options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-performance-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![windows 11 virtual memory options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-virtual-memory-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Keep in mind the virtual memory management tips in the previous section. It might seem like drastically increasing your paging file is a great idea, but it's almost guaranteed to cause system instability when you least expect it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Install More RAM to Boost Your System Performance
 
  Increasing your virtual memory size is a temporary fix and isn't one you should rely on long-term. The only way to truly fix your low virtual memory issue[is to install more RAM](https://www.makeuseof.com/how-to-install-ram/) . The reason your system is turning to the paging file to begin with is that additional data is being palmed off.
@@ -113,23 +99,18 @@ Close
  You can[attempt to free up more RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) , but ultimately, you're probably going to need a new laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Increasing the Windows 11 Paging File Size Is a Temporary Fix
 
  Boosting the paging file size on Windows 11 or any operating system is a temporary fix. If you're butting up against your memory limit frequently and your computer begins to slow to a crawl, there is only one true fix.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +119,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-go-beyond-boundaries-with-panasonic-hx-a1-wearable-camera/"><u>[New] 2024 Approved Go Beyond Boundaries with Panasonic HX-A1 Wearable Camera</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whats-captivating-twitter-users-the-most/"><u>[New] What's Captivating Twitter Users the Most?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-spectacular-racing-sims-number-one-to-five/"><u>[Updated] 2024 Approved Spectacular Racing Sims Number One to Five</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dial-back-unrequested-youtube-recommendations-for-2024/"><u>Dial Back Unrequested YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-upload-and-download-speeds-in-windows-10/"><u>Displaying Upload & Download Speeds in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-avoid-automatic-bios-mode-at-windows-start-up/"><u>Guide to Avoid Automatic BIOS Mode at Windows Start-Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-a-corrupt-bios-memory-and-eliminate-cmos-checksum-mistakes/"><u>How to Repair a Corrupt BIOS Memory and Eliminate CMOS Checksum Mistakes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-make-money-with-facebook-a-practical-roadmap/"><u>In 2024, Make Money with Facebook A Practical Roadmap</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-windows-activation-error-0x8007251d/"><u>Mastering the Fix for Windows Activation Error 0X8007251D</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blank-screen-glitch-in-windows-os/"><u>Overcoming Blank Screen Glitch in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-dll-absence-in-windows-11/"><u>Overcoming DLL Absence in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-your-digital-post-its-in-windows/"><u>Preserving Your Digital Post-Its in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-correct-err-87-library-misloading-issue/"><u>Solutions to Correct Err 87 Library Misloading Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/three-column-widget-configuration-in-modern-windows-11/"><u>Three Column Widget Configuration in Modern Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-windows-obs-studio-non-launch-problems/"><u>Unveiling Solutions to Windows OBS Studio Non-Launch Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-and-11s-hidden-gems-restoring-off-screen-windows-with-these-6-methods/"><u>Win 10 & 11'S Hidden Gems: Restoring Off-Screen Windows with These 6 Methods</u></a></li>
+</ul></div>
 

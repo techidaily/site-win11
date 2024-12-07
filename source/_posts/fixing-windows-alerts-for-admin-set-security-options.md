@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Alerts for Admin-Set Security Options
-date: 2024-11-25T04:06:37.876Z
-updated: 2024-11-27T22:58:15.088Z
+date: 2024-12-03T03:34:41.400Z
+updated: 2024-12-07T09:04:58.593Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for and Install Available Windows 11 Updates
 
  Although not the most likely potential solution, some users have said installing available Windows 11 updates helped them resolve this error. Patchers for Windows 11 usually address Windows bugs reported by users.
@@ -49,14 +45,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 ![The uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstaller-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Should this solution work, the issue will likely reoccur if you reinstall the same third-party antivirus virus software. Then you would have to choose between using the third-party antivirus utility or Windows Security.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit the Registry
@@ -85,13 +77,14 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 5. Next, double-click**Windows Components** \>**Microsoft Defender Antivirus** \>**Real-time Protection** in the navigation sidebar.  
 ![The Real-time Protection policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-policy-settings.jpg)
 6. Double-click any policy setting that’s with an enabled state.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then select the**Not configured radio** button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
 
@@ -106,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 3. Press**Enter** and wait for the command to finish.
 4. Restart your laptop or desktop from the Start menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
  Reinstalling Windows 11 by downloading an ISO with Media Creation Tool is a drastic potential solution. However, users have confirmed updating Windows 11 in such a way works for fixing this error. Furthermore, you can select to preserve apps and files when reinstalling. This is how to reinstall Windows 11:
@@ -117,17 +114,22 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 4. Select**Next** to initiate a system check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Install** to reinstall Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change Windows Security’s Settings Again
@@ -149,22 +151,22 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-instant-upload-tiktok-vids-to-your-fb-page-easily-for-2024/"><u>[Updated] Instant Upload TikTok Vids to Your FB Page Easily for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-codec-confrontation-who-takes-the-victory-av1-or-vp9/"><u>2024 Approved Codec Confrontation Who Takes the Victory, AV1 or VP9?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-crafting-captivating-campaigns-elevating-roi-in-fbs-animation-space/"><u>2024 Approved Crafting Captivating Campaigns Elevating ROI in FB's Animation Space</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-excellent-tech-for-premium-4k-editors/"><u>2024 Approved Excellent Tech for Premium 4K Editors</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Pro Max Waze | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevate-your-gaming-experience-with-the-best-in-class-flight-simulator-microsoft-fsx-gold-edition/"><u>Elevate Your Gaming Experience with the Best-in-Class Flight Simulator: Microsoft FSX Gold Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/epic-screenplays-cinematic-peaks-achieved/"><u>Epic Screenplays Cinematic Peaks Achieved</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploiting-b-roll-for-visual-impact-on-projects/"><u>Exploiting B Roll for Visual Impact on Projects</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-1050-ti-drivers-download-and-update-for-your-better-gaming-experience/"><u>GTX 1050 Ti Drivers Download & Update for Your Better Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-bluetooth-device-usage-focus-on-sound-outputs-alone/"><u>Maximizing Windows Bluetooth Device Usage - Focus on Sound Outputs Alone</u></a></li>
-<li><a href="https://win11.techidaily.com/quieten-windows-acoustic-overlays/"><u>Quieten Windows' Acoustic Overlays</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-the-isarcextract-bug-on-your-w11-system/"><u>Resolving the ISArcExtract Bug on Your W11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-re-activating-stalled-asana-windows-integration/"><u>Strategies for Re-Activating Stalled Asana Windows Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-user-policy-application-in-modern-windows/"><u>Streamlining User Policy Application in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/taskbar-transformation-in-windows-history-1985-2023/"><u>Taskbar Transformation in Windows History (1985-2023)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-reviving-winget-in-w11/"><u>The Ultimate Guide: Reviving Winget in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-know-how-pinpointing-exact-ram-type/"><u>Windows Know-How: Pinpointing Exact RAM Type</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/etailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>[New] Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pen-access-select-free-youtube-design-patterns/"><u>[New] Open Access Select Free YouTube Design Patterns</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-leveraging-yt-playlist-features-for-site-enhancement/"><u>[Updated] In 2024, Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-double-click-dilemma-opening-windows-folders/"><u>Correcting Double-Click Dilemma: Opening Windows' Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-conversion-strategies-for-docx-to-pdf-using-windows-11/"><u>Effective Conversion Strategies for Docx to PDF Using Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-pins-to-passwords-changing-your-windows-11-sign-in-method/"><u>From PINs to Passwords: Changing Your Windows 11 Sign-In Method</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sever-onedrive-ties-with-microsoft-id-in-windows-environment/"><u>How to Sever OneDrive Ties with Microsoft ID in Windows Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-guide-to-snapchats-highlight-system/"><u>In 2024, A Comprehensive Guide to Snapchat's Highlight System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beyond-boundaries-the-present-state-and-future-of-vr/"><u>In 2024, Beyond Boundaries The Present State and Future of VR</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-direct-engagement-syncing-instagram-with-facebook/"><u>In 2024, Direct Engagement Syncing Instagram with Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-gpu-assessment-the-best-6-apps-in-windows/"><u>Master the Art of GPU Assessment: The Best 6 Apps in Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-youtubes-maker-central-interface/"><u>Navigating YouTube's Maker Central Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/non-stop-play-maximum-comfort-a-deep-dive-into-the-mavix-m9-gaming-chair/"><u>Non-Stop Play, Maximum Comfort: A Deep Dive Into the MAVIX M9 Gaming Chair</u></a></li>
+<li><a href="https://win11.techidaily.com/shielding-windows-11-insiders-from-misuse/"><u>Shielding Windows 11 Insiders From Misuse</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-windows-11s-dialer-process/"><u>Starting Windows 11'S Dialer Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-in-chatbot-dialogue-dynamics/"><u>Unlock Your Potential in Chatbot Dialogue Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-pe-files-in-windows-os/"><u>Unveiling PE Files in Windows OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ease of Disk Management Access on Win 10/11
-date: 2024-09-05T08:38:38.072Z
-updated: 2024-09-06T08:38:38.072Z
+date: 2024-12-02T03:09:56.287Z
+updated: 2024-12-07T10:39:19.107Z
 tags:
   - windows10
   - windows11
@@ -14,20 +14,8 @@ keywords: Windows Disk Management,Disk Access Win 10,Win 11 Disk Ease,Manage Dis
 thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56056b931eaef077a91501e84.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Ease of Disk Management Access on Win 10/11
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Windows Disk Management?](#what-is-windows-disk-management)
@@ -36,12 +24,20 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -52,11 +48,9 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Search for Disk Management in Windows
 
 [The search feature in Windows 10 and 11](https://www.makeuseof.com/windows-search-use-guide/) lets you open any app on your computer, no matter where it's stored. You can use it to launch a built-in utility like Disk Management too. However, the search results may confuse you since Disk Management doesn't directly show up here. Let's clarify this:
@@ -67,11 +61,9 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Launch Disk Management From the Quick Access Menu
 
  While the search method may be popular, launching Disk Management from the Quick Access menu is the easiest way to open the Disk Management utility in Windows. The best part? You don't even need to use your keyboard, which is unlike any other method on this list.
@@ -80,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -97,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -111,12 +101,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
  While we listed only four methods here, Windows offers more options to open Disk Management. For instance, you can type **diskmgmt** and hit **Enter** in Command Prompt or Windows PowerShell to launch Disk Management. You can also find Disk Management in the Computer Management app on Windows.
@@ -125,11 +109,25 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-minecraft-recording-with-macos/"><u>[New] In 2024, Essential Tips for Minecraft Recording with MacOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/actics-to-triple-your-youtube-subscription-numbers-for-2024/"><u>[New] Tactics to Triple Your YouTube Subscription Numbers for 2024</u></a></li>
+<li><a href="https://techidaily.com/assessing-and-enhancing-your-rpa-strategy-the-role-of-process-insights/"><u>Assessing and Enhancing Your RPA Strategy: The Role of Process Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-ringtones-a-chrome-companion-collection-for-2024/"><u>Essential Ringtones A Chrome Companion Collection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-action-for-clear-steam-screen-on-pc/"><u>Immediate Action for Clear Steam Screen on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-keyword-mastery-the-10-best-online-resources-to-increase-views/"><u>In 2024, Keyword Mastery The 10 Best Online Resources to Increase Views</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-invisible-windows-goodies-visible-again/"><u>Making the Invisible Windows Goodies Visible Again</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-guide-to-implementing-system-restore-on-windows-os/"><u>Masterful Guide to Implementing System Restore on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-shutdown-pause-on-active-windows-10-tasks/"><u>Maximize Shutdown Pause on Active Windows 10 Tasks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remote-chatgpt-entry-worldwide-accessibility-guide/"><u>Remote ChatGPT Entry: Worldwide Accessibility Guide</u></a></li>
+</ul></div>
+

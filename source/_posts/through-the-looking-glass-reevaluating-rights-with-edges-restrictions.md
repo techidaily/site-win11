@@ -1,7 +1,7 @@
 ---
 title: "Through the Looking Glass: Reevaluating Rights with Edge's Restrictions"
-date: 2024-11-25T01:14:48.442Z
-updated: 2024-11-28T03:12:43.190Z
+date: 2024-12-04T04:06:26.447Z
+updated: 2024-12-06T16:08:44.239Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable the Camera and Microphone via Windows Settings
 
  To enable the camera and microphone in Application Guard for Edge, follow the steps below:
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 7. If the UAC prompt appears, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you perform the above action, restart your computer for the changes to take effect. Upon restarting, all your camera and microphone settings should now be applied to the Application Guard for Edge.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  In case you need to turn off the feature again, just follow the same steps and toggle the Camera and microphone option to Off. That’s all there is to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable the Camera and Microphone Using Registry Editor
@@ -69,7 +73,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. Right-click on Hvsi, choose**New > DWORD (32-bit) Value** , then name it**EnableCameraMicrophoneRedirection** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Now double-click on the newly created DWORD key, and you will see a pop-up window appear.
@@ -77,16 +81,12 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 ![Enable Camera and Microphone in Application Guard Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-camera-and-microphone-in-application-guard-using-registry-editor.jpg)
 9. Then click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've done editing the registry, restart your computer to apply the changes. After restarting, Edge's Application Guard will be able to access your camera and microphone hardware for websites that require it.
 
  If you want to revert the changes, simply set the EnableCameraMicrophoneRedirection key’s value back to**0** and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Your Camera and Mic Is Now Supported in Edge Application Guard
@@ -108,20 +108,22 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-sync-your-sound-instagrams-musical-world/"><u>[New] 2024 Approved Sync Your Sound Instagram's Musical World</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-mac-recording-software-top-5-innovations-revealed/"><u>[New] In 2024, Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sierra-maximizing-your-icloud-drive-experience/"><u>[New] Sierra Maximizing Your iCloud Drive Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a05-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A05 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-masterful-win11-zoom-use-for-2024/"><u>Comprehensive Guide to Masterful Win11 Zoom Use for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-illusions-spatial-and-temporal-shifts-for-2024/"><u>Crafting Illusions Spatial and Temporal Shifts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-explorer-to-show-disk-space/"><u>Enhancing Windows Explorer to Show Disk Space</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-pin-almost-anything-to-the-windows-11-taskbar/"><u>How to Pin Almost Anything to the Windows 11 Taskbar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-4g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 4G Phone without Google Account?</u></a></li>
-<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-solution-matching-internet-on-mobile-and-desktop/"><u>Speedy Solution: Matching Internet on Mobile & Desktop</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tempo-truths-character-beats-exposed/"><u>Tiny Tempo Truths Character Beats Exposed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-8-must-play-androidios-gaming-apps/"><u>Top 8 Must-Play Android/iOS Gaming Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-error-31-in-network-connections/"><u>Troubleshooting WIN Error 31 in Network Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-pc-strategies-to-exit-s-mode/"><u>Unlocking Your PC: Strategies to Exit S Mode</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[New] In 2024, Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-microphones-catered-to-vloggers/"><u>[New] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-recommendations-superior-voice-modification-tools/"><u>[Updated] Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-exploring-advanced-techniques-making-a-difference-with-your-slow-motion-images-on-instagram/"><u>2024 Approved Exploring Advanced Techniques Making a Difference with Your Slow Motion Images on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/designed-permanent-file-wastebasket-for-windows-desktops-win1011/"><u>Designed Permanent File Wastebasket for Windows Desktops (Win10/11)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-edge-exploiting-youtube-studio-for-global-viewers-for-2024/"><u>Earning Edge Exploiting YouTube Studio for Global Viewers for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-motorola-moto-g04-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-youtube-earnings-guide-policy-updates-and-tips/"><u>In 2024, YouTube Earnings Guide - Policy Updates & Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/outriders-wont-boot-up-on-pc-how-to-fix-it/"><u>Outriders Won't Boot Up on PC - How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-error-fixing-unhandled-exceptions/"><u>Overcoming 'Application Error': Fixing Unhandled Exceptions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-xp-error-code-0xfffffff-fixing-print-issues/"><u>Overcoming XP Error Code 0xFFFFFFF: Fixing Print Issues</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-moto-g04-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Moto G04</u></a></li>
+<li><a href="https://win11.techidaily.com/sky-high-achievement-essential-widgets-boosting-win-11-output/"><u>Sky-High Achievement: Essential Widgets Boosting Win 11 Output</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-clear-of-7-common-windows-11-missteps-as-a-newbie/"><u>Stay Clear of 7 Common Windows 11 Missteps as a Newbie</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-seamless-icons-on-pcs/"><u>The Key to Seamless Icons on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/time-machine-troubleshooting-and-restoring-windows-time-service/"><u>Time Machine: Troubleshooting and Restoring Windows Time Service</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-pagefilesys-role-in-windows-os/"><u>Understanding Pagefile.sys Role in Windows OS</u></a></li>
 </ul></div>
 

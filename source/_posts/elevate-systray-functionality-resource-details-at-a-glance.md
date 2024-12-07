@@ -1,7 +1,7 @@
 ---
 title: "Elevate SysTray Functionality: Resource Details at a Glance"
-date: 2024-11-23T19:10:37.924Z
-updated: 2024-11-27T23:11:31.050Z
+date: 2024-12-05T23:29:23.360Z
+updated: 2024-12-06T21:14:23.700Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![The Hide when minimized option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/hide-when-minimized.jpg)
 4. Click Task Manager’s **Minimize** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Selecting to minimize Task Manager will now effectively close that utility’s window, but its PC resource usage details will remain visible within the system tray. Move your cursor over the small square icon in the system tray to view a tooltip showing RAM, CPU, network, and disk utilization for your PC. Clicking that system tray icon reopens the Task Manager window on its graphical **Performance** tab.
 
 ![The system resource usage details shown by Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/task-manager-s-system-tray-icon.jpg)
@@ -55,25 +59,21 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![The Show in Tray Area](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-memory-tab.jpg)
 8. Click the **Show in Tray Area** checkbox.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Select the same **Show in Tray Area** option on the **Disk** and **Network** tabs.
 
  Now you’ll see four separate system tray icons for your PC’s RAM, processor, network, and disk utilization within the system tray or overflow menu. Each icon shows a miniature usage line graph for its system resource. Hover your mouse’s cursor over the icons to view percentage usage stats for the system resource.
 
 ![The Memory Usage system tray icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-usage-system-tray-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can change the colors of the resource icons from their tabs in **Performance Monitor**. For example, to change the color of the RAM icon, click the **Background Color** option on the **Memory** tab. Then select a different color for the resource indicator on the palette and click **OK**.
 
  Performance Monitor also has an option for adding larger system resource panels to the Windows desktop. Select the **Show this Panel** options on the **CPU**, **Memory**, **Disk**, and **Network** tabs and click **OK**. Then you’ll see a graph panel for each resource at the top left of the desktop. You can drag those panels to reposition them on the desktop.
 
 ![A RAM system resource panel on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/a-ram-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add System Resource Usage Details to the System Tray With System Explorer
 
@@ -88,12 +88,16 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![The Express Installation radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-express-installation-option.jpg)
 5. Click **Next** to install the System Explorer software. System Explorer will run automatically after installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you’ll see an icon for System Explorer in the system tray. Move the cursor over the System Explorer icon to view a panel that shows computer resource info. That panel includes resource bars for CPU Usage, Memory Usage, and Swap Usage system resource bars.
 
 ![The System Explorer resource usage panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/system-explorer-system-resource-details.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re a laptop user, you’ll notice System Explorer’s resource usage panel also includes a Battery sidebar. That bar shows how much battery is left. Below that bar, there are estimated battery time and charge rate details.
@@ -102,16 +106,12 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![The settings for System Explorer's system resource panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-for-the-system-explorer-s-system-resource-panel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view the computer resource usage details in System Explorer's window, double-click the software’s system tray icon. Click the **+** icon in System Explorer’s window and select **Performance**. That will bring up a **Performance** tab showing line graphs for processor, pages faulted, disk, and RAM usage.
 
 ![The Processes tab in System Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-processes-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t forget to check out the **Processes** tab to see how System Explorer compares with Task Manager. That tab includes options you can select to show or hide processes. For example, you can click the **Show Microsoft System Entries** option to hide Microsoft processes. Plus, that tab includes a search box, which is a handy addition for finding processes.
@@ -122,29 +122,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  This is how you can add resource usage indicators to the Windows system tray with Task Manager and third-party apps.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-deciphering-instagrams-video-snippet-size/"><u>[New] Deciphering Instagram's Video Snippet Size</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>[New] Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-uncovering-the-truth-behind-4-second-youtube-subscriptions/"><u>[Updated] 2024 Approved Uncovering the Truth Behind 4-Second YouTube Subscriptions</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026454075-5/"><u>「あなたにぴったり! オンライン音声収録サイトベスト5選び方」</u></a></li>
-<li><a href="https://win11.techidaily.com/windows1011-7/"><u>「コーデックが見つからない」と表示されるWindows10/11 エラーに悩まされている?この7点で修正するための詳細ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026523309-mp3/"><u>最新のアヴィMP3変換プログラムを使って楽曲コレクションを効率良く保存する - ステップバイステップガイド</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/celebrating-the-best-top-stop-motion-films-of-all-times-for-2024/"><u>Celebrating the Best Top Stop-Motion Films of All Times for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/compare-premium-virtual-camcorders-a-guide-to-professional-live-video-solutions-like-manycam/"><u>Compare Premium Virtual Camcorders: A Guide to Professional Live Video Solutions Like ManyCam</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-performance-and-specifications-of-cat5-and-cat6-ethernet-cables/"><u>Comparing Performance and Specifications of Cat5 and Cat6 Ethernet Cables</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-loneliness-through-engaging-in-chatgpt-interaction/"><u>Conquer Loneliness Through Engaging in ChatGPT Interaction</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/premiere-edition-selective-sierra-video-editors/"><u>Premiere Edition Selective Sierra Video Editors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos/"><u>Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-vpj-files-into-mp4-format-using-videopad/"><u>Step-by-Step Guide: Converting VPJ Files Into MP4 Format Using VideoPad</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-instructions-effortless-installation-of-showbox-app-on-windowsmac-pc/"><u>Step-by-Step Instructions: Effortless Installation of ShowBox App on Windows/Mac PC</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-flawless-mkv-playback-with-chromecast-streaming/"><u>The Ultimate Guide to Flawless MKV Playback with Chromecast Streaming</u></a></li>
-<li><a href="https://win11.techidaily.com/top-ranking-windows-11-media-converter-effortlessly-transform-dvds-into-mp4-mkv-and-more/"><u>Top-Ranking Windows 11 Media Converter: Effortlessly Transform DVDs Into MP4, MKV, and More</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-to-downloading-the-best-no-cost-dvd-converter-apps-for-win-1011-users/"><u>Ultimate Guide to Downloading the Best No-Cost DVD Converter Apps for Win 10/11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unauthorized-recording-of-google-meet-sessions-is-it-possible-and-what-you-need-to-know/"><u>Unauthorized Recording of Google Meet Sessions: Is It Possible and What You Need to Know</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +129,25 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/elving-into-youtubes-complex-calculation-of-viewer-stats-for-2024/"><u>[New] Delving Into YouTube's Complex Calculation of Viewer Stats for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inding-inner-voice-how-to-confidently-share-stories-online-for-2024/"><u>[New] Finding Inner Voice How to Confidently Share Stories Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-motion-control-in-vr-keeping-nausea-at-bay/"><u>[Updated] Motion Control in VR Keeping Nausea at Bay</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-old-footage-an-introduction-to-madvr-on-windows-pcs/"><u>Elevating Old Footage: An Introduction to MadVR on Windows PCs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-tips-for-fbx-based-game-recording-for-2024/"><u>Essential Tips for FBX-Based Game Recording for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-art-of-vocal-transformation-with-these-cost-free-alternatives-for-2024/"><u>Explore the Art of Vocal Transformation with These Cost-Free Alternatives for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-the-most-out-of-your-iphones-wifi-discover-these-eight-solutions/"><u>Get the Most Out of Your iPhone’s Wifi - Discover These Eight Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-could-help-improve-your-dating-life/"><u>How ChatGPT Could Help Improve Your Dating Life</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>In 2024, Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>In 2024, Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-1011-0xc000003e-app-start-failure/"><u>Resolving Windows 10/11: 0XC000003E App Start Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-mass-folder-creation-made-simple-for-windows-users/"><u>Step-by-Step Guide: Mass Folder Creation Made Simple for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-android-resources-within-the-windows-subsystem/"><u>Streamlining Android Resources Within the Windows Subsystem</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-iis-manager-opening/"><u>The Ultimate Guide to IIS Manager Opening</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-11s-new-look-return-to-icons-only/"><u>Transforming Windows 11'S New Look: Return to Icons Only</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011s-hidden-treasures-unlocked-bring-panels-into-view/"><u>Win10/11's Hidden Treasures Unlocked: Bring Panels Into View</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-paves-way-for-pristine-ad-less-start/"><u>Windows 11 Paves Way for Pristine, Ad-Less Start</u></a></li>
+</ul></div>
+

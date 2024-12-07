@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Error: 0X80070003 During System Upgrades"
-date: 2024-09-05T08:35:09.625Z
-updated: 2024-09-06T08:35:09.625Z
+date: 2024-12-02T01:22:59.713Z
+updated: 2024-12-07T06:41:10.745Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
  A common error that users run into when trying to update their system is 0x80070003\. This error is accompanied by a message stating "Some update files are missing." Let's explore the reasons behind this issue and the solutions you can try to resolve it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Are Update Files Missing From Your PC?
 
  One or more of the following reasons might explain why you are experiencing the problem on your computer:
@@ -49,15 +47,18 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 `C:\Windows\SoftwareDistribution`  
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the folder is deleted, open the Settings app and try installing the updates again.
 
@@ -77,24 +78,12 @@ Here is all that you need to do:
 `sfc /scannow`  
 ![SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/sfc-scannow.jpg)
 4. Wait for the command to execute, and then execute the following command:  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Dism /Online /Cleanup-Image /ScanHealth`  
 ![DISM scanhealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/scanhealth.jpg)
 5. Next, proceed with the following command:  
 `Dism /Online /Cleanup-Image /RestoreHealth`  
 ![DISM restorehealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/restorehealth.jpg)
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
 
@@ -127,31 +116,24 @@ net start trustedinstaller
 net start appidsvc`  
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +142,24 @@ net start appidsvc`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-charting-the-course-to-earnings-with-youtube-videos/"><u>[New] In 2024, Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-simplified-video-posts-on-twitter-and-tumblr-for-2024/"><u>[New] Simplified Video Posts on Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlock-cartoon-creativity-transforming-selfies-into-stories/"><u>[Updated] In 2024, Unlock Cartoon Creativity Transforming Selfies Into Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>[Updated] Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-video-potential-with-effective-tagging-techniques-on-youtube-for-2024/"><u>[Updated] Unleashing Video Potential with Effective Tagging Techniques on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-of-virtualbox-installation-hinges-on-prerequisites/"><u>Ease of VirtualBox Installation Hinges on Prerequisites</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-network-issues-in-windows-11-a-step-by-step-guide/"><u>Fixing Common Network Issues in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-get-more-views-with-the-best-youtube-thumbnail-ideas/"><u>In 2024, Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://discover-data.techidaily.com/missing-page-alert-unable-to-retrieve-desired-information-online/"><u>Missing Page Alert: Unable to Retrieve Desired Information Online</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-download-roadblocks-and-hiccups/"><u>Overcoming Windows Download Roadblocks & Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-non-operational-windows-alt-codes-47-characters/"><u>Repairing Non-Operational Windows Alt Codes (47 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-disconnected-printer-in-the-os-domain/"><u>Reviving a Disconnected Printer in the OS Domain</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-when-warzone-skins-wont-appear-correctly/"><u>Solution Steps for When Warzone Skins Won't Appear Correctly</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-ownership-challenges-with-configurations-restricted-by-your-org/"><u>Solving Ownership Challenges with Configurations Restricted by Your Org</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-settling-steam-service-disruptions-in-win11/"><u>Strategies for Settling Steam Service Disruptions in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttering-your-system-locate-and-remove-null-folder-space/"><u>Uncluttering Your System: Locate and Remove Null Folder Space</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DXGI_Error: Device Disconnected"
-date: 2024-11-21T01:07:31.630Z
-updated: 2024-11-28T02:57:50.719Z
+date: 2024-12-02T09:22:32.599Z
+updated: 2024-12-07T05:22:15.447Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Modify the GraphicsDriver Registry Key
 
  Modifying the GraphicsDriver registry key is the most widely confirmed potential fix for the DXGI\_ERROR\_DEVICE\_REMOVED error. This resolution involves adding a TDR (Timeout Detection and Recovery) DWORD to the GraphicsDrivers key. Setting that DWORD to 0 disables TDR detection. You can apply this registry edit as follows:
@@ -35,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 3. Right-click on **GraphicsDrivers** and select the context menu’s **New** and **DWORD** options.  
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-new-key-options.jpg)
 4. Type in a **TdrLevel** title for the DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click on **TdrLevel** to activate its **Value** box.
 6. The DWORD’s value should already be set to zero by default. However, change that value to **0** if it’s not and click **OK**.  
 ![The TrdLevel DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/trdlevel-dword.jpg)
@@ -55,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 5. Repeat the previous step for the **Antialiasing – Transparency**, **FXAA**, and **Gamma** correction options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then select **Apply** to set the new graphics options.
@@ -71,34 +80,14 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 ![The Settings button in GeForce Experience.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-button.jpg)
 3. Toggle off the **In-Game Overlay** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The in-game overlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-overlay.jpg)
 4. Exit the GeForce Experience software and try playing your games with ShadowPlay disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off the DLSS Graphics Setting
 
  Some players confirm disabling DLSS graphics settings in games fixes the DXGI\_ERROR\_DEVICE\_REMOVED error. If the affected game doesn’t always crash when you start it, try turning off its **DLSS** option. You can usually find that setting within a game’s video or graphics tab options.
 
 ![A DLSS option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dlss-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Undo Overclocking
 
@@ -115,22 +104,22 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 ![The Download button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-button.jpg)
 3. To view File Explorer, hold the **Windows** logo button and press **E**. Then open the folder containing the Microsoft DirectX End-User Runtime package.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click **dxwebsetup.exe** to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Click **I accept the agreement** and **Next**.  
 ![I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/i-accept-the-radio-button.jpg)
 6. If you don’t want Bing Bar, uncheck the **Install the Bing Bar** option.
 7. Select **Next** to install DirectX components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try Some Generic Windows Fixes
 
  If nothing has worked yet, here are some generic fixes for GPU issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update the Graphics Driver for Your GPU
@@ -143,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ![uninstall graphics drivers DDU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-graphics-drivers-ddu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
 ### Run a Windows Memory Diagnostic Check
@@ -151,7 +144,15 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ![The Windows Memory Diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-windows-memory-diagnostic-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that tool detects issues, removing the faulty RAM module from your PC will probably resolve the DXGI\_ERROR\_DEVICE\_REMOVED error. However, you’ll still need enough RAM for the game. If removing RAM leaves insufficient system memory for the game, purchase and add a new RAM module to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
 
@@ -161,27 +162,6 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
  Consequently, Windows games either don’t launch at all or crash with regularity because of the DXGI\_ERROR\_DEVICE\_REMOVED error. The error message highlights that something associated with your graphics card has gone wrong. As such, these potential resolutions can fix the DXGI\_ERROR\_DEVICE\_REMOVED error in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-epic-escapades-10-roguelite-games-reviewed/"><u>[Updated] In 2024, Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-troubleshooting-guide-fixing-load-issues-and-initiation-failures-with-hulu-across-streaming-devices-apple-tv-firestick-roku-samsung/"><u>1. Troubleshooting Guide: Fixing Load Issues and Initiation Failures with Hulu Across Streaming Devices (Apple TV, Firestick, Roku, Samsung)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elite-psd-blend-modes-showcase-for-2024/"><u>Elite PSD Blend Modes Showcase for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/from-failures-to-functionality-mastery-of-windows-script-repair/"><u>From Failures to Functionality: Mastery of Windows Script Repair</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-the-program-compatibility-troubleshooter-to-the-context-menu-on-windows/"><u>How to Add the Program Compatibility Troubleshooter to the Context Menu on Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-recording-for-a-greener-planet/"><u>In 2024, Cutting Edge Recording for a Greener Planet</u></a></li>
-<li><a href="https://win11.techidaily.com/insights-gained-from-windows-bsod-memory-logs/"><u>Insights Gained From Windows BSOD Memory Logs</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-alleviating-power-management-issues-on-windows-devices/"><u>Methods for Alleviating Power Management Issues on Windows Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-guide-to-ie-driver-setup-on-new-windows/"><u>Quick Guide to IE Driver Setup on New Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-disrupted-wireless-audio-streaming-on-windows-11-systems/"><u>Resolving Disrupted Wireless Audio Streaming on Windows 11 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-mcuicnt-not-found-issue-in-various-windows-versions/"><u>Resolving McUICnt Not Found Issue in Various Windows Versions</u></a></li>
-<li><a href="https://discover-help.techidaily.com/strategie-di-distribuzione-delle-immagini-su-piu-dispositivi-di-archiviazione/"><u>Strategie Di Distribuzione Delle Immagini Su Più Dispositivi Di Archiviazione</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-windows-ssds-synchronize-with-ssfresh-tactics/"><u>Supercharge Windows SSDs: Synchronize with SSFresh Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-windows-11s-volume-control-setup/"><u>The Essentials of Windows 11’S Volume Control Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rejuvenating-non-starting-adobe/"><u>The Ultimate Guide to Rejuvenating Non-Starting Adobe</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-taskbar-absence-with-maximized-edges/"><u>Troubleshooting Taskbar Absence with Maximized Edges</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-old-pcs-steps-to-windows-11-22h2/"><u>Upgrading Old PCs: Steps to Windows 11 22H2</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -189,3 +169,21 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-inspire-audiences-with-these-high-quality-free-sound-files/"><u>[New] 2024 Approved Inspire Audiences with These High-Quality, Free Sound Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>2024 Approved Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-vimeoifytweets-audiovideo-tweet-tool/"><u>2024 Approved VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-cut-out-audio-in-windows-10-heres-the-solution/"><u>Dealing with Cut-Out Audio in Windows 10? Here's The Solution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-acer-screen-up-and-running-fresh-driver-downloads/"><u>Get Your Acer Screen Up and Running: Fresh Driver Downloads</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-reno-10-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Reno 10 Pro 5G Phone Screen?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-steams-storage-troubles-on-your-computer/"><u>Navigating Steam's Storage Troubles on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-efficiency-using-flow-launcher-tool/"><u>Skyrocket Your Efficiency Using Flow Launcher Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-geforce-now-error-code-xc0f1103f-on-pcs/"><u>Solving GeForce Now Error Code XC0F1103F on PCs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-system-microsoft-works-for-windows-latest/"><u>Streamline Your System: Microsoft Works for Windows Latest</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-image-animee-au-format-gif-en-video-webm-gratuite-sur-internet-convertisseur-rapide-de-movavi/"><u>Transformez Votre Image Animée Au Format GIF en Vidéo WebM Gratuite Sur Internet - Convertisseur Rapide De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/unwrapping-the-solution-to-camera-error-a00f425d-on-windows-11/"><u>Unwrapping the Solution to Camera Error A00F425D on Windows 11</u></a></li>
+</ul></div>
+

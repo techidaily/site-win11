@@ -1,7 +1,7 @@
 ---
 title: "Mastering System Restore on Windows 11: Quick Access Methods"
-date: 2024-09-05T08:33:29.679Z
-updated: 2024-09-06T08:33:29.679Z
+date: 2024-12-01T02:50:33.993Z
+updated: 2024-12-07T05:25:59.304Z
 tags:
   - windows10
   - windows11
@@ -26,19 +26,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 2. Type **System Restore** and press the **Enter** key. Then click on the **Open System Restore** button.  
 ![Open System Restore Using Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-start.jpg)
 3. Click on the **Next** button to view and choose from the list of available options.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Using Control Panel
 
  Control Panel contains all Windows tools and settings, which makes it easy to find them. Even the Windows search points to the Control Panel window of Recovery options. Here’s how to do it:
@@ -48,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 3. Now, click on the **Recovery** option.  
 ![Open System Restore Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-control-panel.jpg)
 4. Lastly, click on the **Open System Restore** button.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using Advanced System Properties Window
@@ -64,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 3. Click on the **System Restore** button to launch the tool.  
 ![Open System Restore Using Advanced System Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-advanced-system-properties-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using Settings App
 
  Microsoft is still trying to offload everything from the Control Panel to the Settings app. Even a search for System Restore in Control Panel points to the settings app, but you won’t find the tool there. Instead, you have to search for System Restore inside the Settings app. Here’s how to do it:
@@ -79,19 +59,15 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 3. Type **Restore** and click on the **Recovery** search result. It will take you to the Control Panel’s list of available recovery options.  
 ![Open System Restore Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-settings-app-1.jpg)
 4. Now, click on the **Open System Restore** button.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using the Run Dialog Box
 
  The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
@@ -99,12 +75,6 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 1. Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **rstrui** in the text box.  
 ![Open System Restore Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-run-dialog-box.jpg)
 2. Click on the **OK** button to open the System Properties tool.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Using a Pinned Taskbar Shortcut
 
@@ -117,11 +87,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 4. A System Restore icon will appear on the Taskbar. You can alter its position on the Taskbar by clicking and dragging it in either direction.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Using the Task Manager
 
  If the [Control Panel app won't open on your Windows PC](https://www.makeuseof.com/fix-control-panel-wont-open/), you can use the Task Manager to launch the System Restore utility. Here’s how:
@@ -133,11 +101,9 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 4. Close the Task Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using the File Explorer
 
  System Restore, like all other Windows tools and Control Panel applets, resides in the System32 folder. So, you can use the File Explorer to access the tool. Repeat the following steps:
@@ -147,19 +113,11 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 3. Click on the search bar and type **rstrui** and press the **Enter** key to search.  
 ![Open System Restore Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-file-explorer.jpg)
 4. Double-click on the **rstrui.exe** file to open the tool.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Using CMD or PowerShell
 
  Terminal lovers don’t like the idea of jumping through menus to open a program. If you are one of them, here’s how you can open the System Restore utility in Windows 11 using Command Prompt or PowerShell:
@@ -169,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
 3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
 4. Close the Command Prompt or PowerShell window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Desktop Shortcut
 
@@ -196,11 +158,13 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ![Open System Restore Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-keyboard-shortcut.jpg)
 6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Access System Restore Quickly
 
  System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -208,3 +172,24 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-troubleshooting-when-youtube-shorts-images-fail-to-display/"><u>[New] 2024 Approved Troubleshooting When YouTube Shorts Images Fail To Display</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-expert-selections-of-innovative-vtuber-sound-tools/"><u>[New] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prelude-playlists-navigating-auditory-sources-for-podcasts/"><u>[New] Prelude Playlists Navigating Auditory Sources for Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cinemas-craftsmanship-the-best-camera-tricks-and-techniques-24-edition-for-2024/"><u>[Updated] Cinema's Craftsmanship The Best Camera Tricks & Techniques - '24 Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-advice-for-tackling-cc-troubles-on-windows/"><u>Essential Advice for Tackling CC Troubles on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965749910-get-your-eveo-usb-bluetooth-receivers-latest-firmware-here/"><u>Get Your EVEO USB Bluetooth Receiver's Latest Firmware Here!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-android-brightening-essentials-stepwise-demystification/"><u>In 2024, Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x80070141-and-device-disconnection/"><u>Mastering Windows' Error Code 0X80070141 and Device Disconnection</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-privileges-for-regular-windows-users/"><u>Reconfiguring Privileges for Regular Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-taskbar-a-guide-to-incorporating-a-favorite-weather-icon-in-windows-11/"><u>Reimagine Your Taskbar: A Guide to Incorporating a Favorite Weather Icon in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/running-on-windows-10-after-skipping-11-upgrade/"><u>Running On Windows 10 After Skipping 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-recovering-colorful-microsoft-store/"><u>Strategies for Recovering Colorful Microsoft Store</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-microphone-on-windows-11-systems/"><u>Troubleshooting a Non-Functional Microphone on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-home-page-settings-in-windows-11-ui/"><u>Tweaking Home Page Settings in Windows 11 UI</u></a></li>
+</ul></div>
+

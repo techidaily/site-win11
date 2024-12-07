@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Workspace: Strategic Software Shortcuts for Win11"
-date: 2024-11-21T22:50:58.639Z
-updated: 2024-11-28T04:39:53.037Z
+date: 2024-12-05T11:14:07.924Z
+updated: 2024-12-06T19:52:01.496Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add an Edge Shortcut to the Desktop Context Menu
@@ -40,25 +40,13 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 ![The Shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-shell-key.png)
 5. Right-click the **shell** key to select **New** and **Key** on the context menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Key context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-key-option.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Input **Edge** as the new registry key’s title.
 2. Right-click your **Edge** key and select the **New** \> **Key** options again.
 3. Enter **command** to be the new subkey’s name.  
 ![The command registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-command-key.png)
 4. Click File Explorer’s taskbar button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Open Edge’s folder, which has this default path: **C:\\Program Files (x86)\\Microsoft\\Edge\\Application**.
 
@@ -76,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 
  If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Your Own Shortcuts to the Windows 11 Context Menu
 
  You can add a shortcut for whatever software you'd like in a similar way to adding Edge. To do this, you need to change the name of the primary registry key to match the name of the software it’s for. Then, open the program’s folder in File Explorer to copy its full path, and paste it in the Value data box for the command subkey’s **(Default)** string.
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
  To remove one of your software context menu shortcuts, you’ll need to open the key for it in the Registry Editor. Then right-click its primary key to select a **Delete** option. Select **Yes** to confirm and erase.
 
 ![The delete context menu option for registry keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-delete-option.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This registry tweak also works much the same in Windows 10 and earlier Microsoft desktop platforms. So, this isn’t just a Windows 11 trick. As Windows 10 has a classic context menu by default, you don’t need to click **Show more options** on that menu to select the shortcut.
 
@@ -112,10 +108,14 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 
 ![The ContextMenu Cleaner window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/contextmenu-cleaner-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There’s also much more you can add to the desktop’s right-click menu with Easy Context Menu than software shortcuts. Easy Context Menu includes many other checkboxes for adding various tools and turn-off options to the right-click menu. Select some of the checkboxes for system tools and turn-off options, and click **Apply Changes** to add handy shortcuts for accessing utilities and shutting down Windows to the context menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most Out of Windows 11’s Context Menu
@@ -124,23 +124,6 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
 
  Nevertheless, you can still add program shortcuts to the desktop context menu in Windows 11 by editing the registry. By doing so, you can replace desktop shortcut icons with context menu ones.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-transformative-strategies-in-creating-engaging-fb-content-for-2024/"><u>[New] Transformative Strategies in Creating Engaging FB Content for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-assemble-your-unique-google-cardboard-virtual-reality-for-2024/"><u>[Updated] Assemble Your Unique Google Cardboard Virtual Reality for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-breaking-the-videography-code-download-and-preserve-media-on-fb/"><u>[Updated] Breaking the Videography Code Download and Preserve Media on FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>[Updated] The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/full-circle-video-spin-mastering-the-art-of-180-degree-video-rotations/"><u>Full-Circle Video Spin: Mastering the Art of 180 Degree Video Rotations</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-effortlessly-view-mts-videos-a-comprehensive-tutorial-for-your-pc-or-mac/"><u>How To Effortlessly View MTS Videos: A Comprehensive Tutorial for Your PC or Mac</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-hot-30i-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Hot 30i For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-tutorial-for-spreading-playlists/"><u>In 2024, The Ultimate Tutorial for Spreading Playlists</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/insta-self-portraits-are-they-truly-accurate-in-2024/"><u>Insta Self-Portraits Are They Truly Accurate, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-capture-a-detailed-tutorial-on-saving-your-and-others-facebook-lives/"><u>Mastering the Capture: A Detailed Tutorial on Saving Your and Others' Facebook Lives</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4-vobwindows-10/"><u>MP4への変換 - VOBファイルからWindows 10で最適な方法を学ぶ</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4mov-img/"><u>MP4やMOVへの変換ガイド: IMGファイルを簡単に動画形式に！-初学者向け</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-video-dimensions-for-youtube-shorts-a-guide-to-adjusting-aspect-ratios/"><u>Optimizing Video Dimensions for YouTube Shorts: A Guide to Adjusting Aspect Ratios</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -148,3 +131,25 @@ thumbnail: https://thmb.techidaily.com/48b583faa31b393aa904516c2278bd0e1546bcda1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-curated-collection-of-the-best-9-cross-device-video-calls-androidiphone-for-2024/"><u>[New] Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-choose-between-youtubers-game-entrance-tutorials-cost-included-for-2024/"><u>[New] How to Choose Between Youtubers' Game Entrance Tutorials (Cost Included?) For 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-strategic-dominance-unleashed-the-foremost-7-war-games/"><u>[Updated] 2024 Approved Strategic Dominance Unleashed The Foremost 7 War Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-command-center-redefined-your-pathway-through-studio-for-2024/"><u>[Updated] Command Center Redefined Your Pathway Through Studio for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-hidden-audio-makers-6-stealthy-iosandroid-tools/"><u>[Updated] Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-setup-run-chatgpt-on-windows-desktop/"><u>Easy Setup: Run ChatGPT on Windows Desktop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-watching-ntsc-region-free-dvds-easily-in-britain/"><u>Guide to Watching NTSC Region-Free DVDs Easily in Britain</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-tantalizing-titles-designer/"><u>Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-folder-relocation-within-onedrive-in-win10/"><u>Mastering Folder Relocation Within OneDrive in Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-mask-of-data-concealing-zips-within-image-pixels-win1011/"><u>Mastering the Mask of Data: Concealing ZIPs Within Image Pixels WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-epic-launcher-operations-for-speedy-downloads/"><u>Optimizing Epic Launcher Operations for Speedy Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-cell-creation-failure-in-excel-on-pcs/"><u>Resolving Cell Creation Failure in Excel on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-methods-to-resolve-absence-of-optional-windows-options/"><u>Seven Methods to Resolve Absence of Optional Windows Options</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-savvy-how-to-download-status-vids-on-fb/"><u>Social Media Savvy How to Download Status Vids on FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-editing-with-winx-dvd-ripper-platinum/"><u>Ultimate Guide to Editing with WinX DVD Ripper Platinum</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-windows-team-potential-comprehensive-guide-to-tackling-error-80080300/"><u>Unleash Windows Team Potential: Comprehensive Guide to Tackling Error 80080300</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-quick-uninstall-capabilities-on-windows-systems/"><u>Unleashing Quick-Uninstall Capabilities on Windows Systems</u></a></li>
+</ul></div>
+

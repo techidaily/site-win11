@@ -1,7 +1,7 @@
 ---
 title: "Pushing Past Wired Network Limit: Overcome Windows' 100Mbps Capping"
-date: 2024-09-05T08:32:39.651Z
-updated: 2024-09-06T08:32:39.651Z
+date: 2024-12-02T17:39:36.171Z
+updated: 2024-12-06T18:41:57.670Z
 tags:
   - windows10
   - windows11
@@ -20,25 +20,17 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Plan
 
 ![wifi speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wifi-speed-test.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Make sure you have a high-speed connection capable of delivering speeds greater than 100Mbps before you blame other factors for limiting your internet speed. Check with your internet provider that you're subscribed to a plan that offers 100Mbps+ or more. Also, ensure the ISP has a good reputation and track record of consistently delivering high speeds.
 
  If your internet service provider is reliable and you are subscribed to a good plan, then it's likely that something on your side is keeping the speed from reaching its maximum.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform Some Basic Checks
 
@@ -50,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 * An outdated network driver can also slow down a connection. Check out our guide on [how to find and replace outdated network drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) to update your network drivers fully.
 
  If none of the above checks uncaps the internet speed, it's time to move on to the remaining fixes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Network Card Supports Gigabit Speed
 
@@ -71,17 +67,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
 
  If you have a gigabit router, make sure the port where your Ethernet cable is connected is also a gigabit LAN port that can handle up to 1Gbps data rates. Switch to a gigabit port if it's connected to a "Fast Ethernet" port, which can only deliver 100Mbps. Hopefully, this will increase your internet connection's speed.
@@ -96,12 +84,6 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Remove Restrictions in the Router Settings
 
  Most routers allow users to limit the connection speed. Therefore, log into the router's admin interface to ensure speed isn't constrained there. Here's how you can do it:
@@ -115,11 +97,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
@@ -127,23 +107,15 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
  Once you have confirmed that, inspect the Ethernet cable from one end and go through the entire length. If the cable shows any physical damage, especially areas that remain bent all the time, you may need to replace it.
 
  If the cable is intact, examine the Ethernet ports on your router and laptop. If any of the ports appears damaged, you should switch to another one (if available).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Most Out of Your Ethernet Connection on Windows
 
  Getting 100Mbps when subscribed to a higher-speed plan can be pretty frustrating. By now, you should better understand why the connection speed could be capped at 100Mbps. If you carefully follow all the steps listed above, you will likely be able to identify the leading cause and remove any restrictions.
@@ -152,11 +124,28 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Likewise, misconfigured Ethernet adapter speed settings, incompatible or corrupted drivers, and technical difficulties with the ISP can also limit speed. If you want your Ethernet connection to surpass 100Mbps, here are a few checks and fixes you should try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-uncovering-all-shared-visuals-in-a-message-thread/"><u>[New] 2024 Approved Uncovering All Shared Visuals in a Message Thread</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>[Updated] A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-stunning-webcam-content-quick-steps-to-success/"><u>2024 Approved Capturing Stunning WebCam Content Quick Steps to Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-nextv-networks-the-ultimate-streamers-global-guide/"><u>2024 Approved NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-setup-for-your-safety-first-workspace-win-11/"><u>Effortless Setup for Your Safety-First Workspace (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-systemsettings-issues/"><u>Fixing Windows 11'S SystemSettings Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-activate-microsoft-paint-windows-11-edition/"><u>Guide to Activate Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-poco-c65-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Poco C65 FRP Bypass</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-uniting-conversations-across-platforms-twitter-vids-on-whatsapp/"><u>In 2024, Uniting Conversations Across Platforms Twitter Vids on WhatsApp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complexes-stutter-bug-fixed-a-comprehensive-guide/"><u>NieR: Shadow Complexes Stutter Bug Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/optimal-speech-devices-web-based-for-2024/"><u>Optimal Speech Devices, Web-Based for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-dealing-with-your-license-is-about-to-end-in-win11/"><u>Steps for Dealing with 'Your License Is About to End' In Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-a-path-to-resolve-windows-mail-error-0x800713f-quickly/"><u>Unlocking a Path to Resolve Windows Mail Error (0X800713F) Quickly</u></a></li>
+</ul></div>
+

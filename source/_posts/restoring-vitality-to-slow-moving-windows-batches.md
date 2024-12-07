@@ -1,7 +1,7 @@
 ---
 title: Restoring Vitality to Slow-Moving Windows Batches
-date: 2024-09-05T08:36:22.875Z
-updated: 2024-09-06T08:36:22.875Z
+date: 2024-12-05T09:56:14.692Z
+updated: 2024-12-06T20:26:38.560Z
 tags:
   - windows10
   - windows11
@@ -14,23 +14,15 @@ keywords: Vitality Boost for WBatches,Accelerate Slow Window Batches,Enhance Win
 thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb0500628b631392642fa41c539d87.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restoring Vitality to Slow-Moving Windows Batches
 
  BAT or batch files simplify repetitive tasks by automating them through a series of commands. However, sometimes BAT files can get deleted automatically for no apparent reason. In other situations, the file may refuse to open.
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Do BAT Files Get Deleted Instantly on Windows?
 
@@ -42,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 * Unexpected system bugs.
 
  Now that you know why your BAT files are being deleted, let's move on to the recommended fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Fix Syntax Errors in Your BAT File
 
@@ -60,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 3. Copy and paste the following prompt in the textbox: **Please correct all the syntax errors in the following .BAT file code: CODE**. Once you copy it, replace **CODE** with the actual code from your BAT file.  
 ![ChatGPT Prompt For BAT File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-for-bat-file.jpg)
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
 6. After making the necessary changes, save your BAT file and rerun it.
@@ -73,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disable Your Antivirus Temporarily
 
  Sometimes, antivirus software detects normal applications and files as a system threat (due to false detection). In these cases, a good practice is to disable the antivirus or exclude such files from the settings.
@@ -99,11 +81,9 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Adjust .BAT File Association
 
  Have you ever noticed that when you open a .TXT file, Notepad pops up, or when you open a .PNG or .JPG, the Windows Photos app opens? This is because of file association. Similarly, BAT files have a default program file association, i.e., with the Command Prompt.
@@ -116,27 +96,24 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
 3. Scroll to the last and click on**Choose default by file type**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
 4. Locate **.bat** in the list and click on **Choose a default**.  
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
  There are multiple file types in the same Settings section. If you want to change the default apps for launching a specific file type, you can do so. For example, if you use Drawboard as a PDF viewer, click on **.pdf** and select it as a default app for all your PDF files.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Take Ownership of the Batch File
 
  Every file, including BAT files, on Windows comes with a set of permissions. These permissions guide the system on who can access the file and what actions (like reading or writing) they can perform. Undoubtedly, preventing unauthorized changes to your Windows files is good. But, sometimes, it causes trouble with the batch files.
@@ -161,27 +138,9 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
@@ -195,11 +154,29 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-techniques-for-text-overlays-in-igtv-content/"><u>[New] 2024 Approved Techniques for Text Overlays in IGTV Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-fcp-downloading-what-you-need/"><u>[New] Free FCP Downloading - What You Need</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ranking-8-real-time-strategies-to-grow-youtube-success/"><u>[Updated] Ranking 8 Real-Time Strategies to Grow YouTube Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-step-by-step-guide-to-mastering-morphvox-modifications-for-2024/"><u>A Step-by-Step Guide to Mastering MorphVOX Modifications for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-update-malfunction-windows-0x80246007-issue/"><u>Correcting Update Malfunction: Windows' 0X80246007 Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-note-30i-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Note 30i</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-successful-onedrive-operations-on-win-1011/"><u>Enhancing Successful OneDrive Operations on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-window-display-arranging-tasks-effortlessly-win11/"><u>Flawless Window Display: Arranging Tasks Effortlessly (Win11)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-to-take-notes-like-a-pro/"><u>How to Use ChatGPT to Take Notes Like a Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a78-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A78 by Name | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-analytics-how-to-analyze-your-and-competitors-youtube-video/"><u>In 2024, YouTube Analytics – How to Analyze Your and Competitor's YouTube Video</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-time-display-taskbar-clock-and-date-controls/"><u>Mastering Time Display: Taskbar Clock & Date Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-gameplay-overcoming-valorant-lag-issues/"><u>Transform Your Gameplay: Overcoming Valorant Lag Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-winning-ps1-games-on-windows-with-duckstations-wisdom/"><u>Unlock the Secrets of Winning PS1 Games on Windows with Duckstation's Wisdom</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-windows-consoles-potential-again/"><u>Unlocking Your Windows Console's Potential Again</u></a></li>
+</ul></div>
+

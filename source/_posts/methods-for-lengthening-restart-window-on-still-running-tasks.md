@@ -1,7 +1,7 @@
 ---
 title: Methods for Lengthening Restart Window on Still-Running Tasks
-date: 2024-11-24T17:17:16.799Z
-updated: 2024-11-28T04:01:15.225Z
+date: 2024-12-02T16:44:22.519Z
+updated: 2024-12-06T21:50:45.194Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Windows Show an Error Message While Logging Off?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Should You Try First?
@@ -45,15 +45,15 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Windows Wait Longer When Logging Off
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1B. How to Change WaitToKillAppTimeout for All Users
@@ -92,10 +92,6 @@ This will apply altered log-off rules to all users on the PC.
 5. Double-click this string to edit its value – again, in milliseconds. (1000 milliseconds equals 1 second.) By default, the value data is set to 5000.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2B. How to Change HungAppTimeout for All Users
 
 This will allow you to change the default value for all users.
@@ -104,6 +100,10 @@ This will allow you to change the default value for all users.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
 
@@ -124,22 +124,20 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-screen-grabber-software-in-the-windows-10-arena/"><u>[New] Top Screen Grabber Software in the Windows 10 Arena</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>[Updated] 2024 Approved Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-secrets-unveiled-amplifying-profile-visibility/"><u>[Updated] In 2024, Secrets Unveiled Amplifying Profile Visibility</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-watch-dogs-legion-continuous-pc-crashes-issue/"><u>How to Fix the 'Watch Dogs: Legion' Continuous PC Crashes Issue</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-best-cam-recorders-a-curated-selection-of-18/"><u>In 2024, 2023'S Best Cam Recorders A Curated Selection of 18</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-guide-to-develop-personalized-window-11-lock-patterns/"><u>In-Depth Guide to Develop Personalized Window 11 Lock Patterns</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-glitches-the-top-10-tools/"><u>Mastering Windows Glitches: The Top 10 Tools</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/pros-choice-review-the-ultimate-4k-dslr-rigs-for-2024/"><u>Pro's Choice Review The Ultimate 4K DSLR Rigs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-dealing-with-windows-exception-breakpoint-failure/"><u>Quick Fixes for Dealing with Windows Exception Breakpoint Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/style-meets-substance-in-game-accessories/"><u>Style Meets Substance in Game Accessories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-complete-guide-to-selecting-and-raising-valheim-crops-for-2024/"><u>The Complete Guide to Selecting & Raising Valheim Crops for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-tackling-regular-windows-rainmeter-issues/"><u>The Insider's Guide to Tackling Regular Windows Rainmeter Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-methods-to-disable-gpu-aided-prioritization-on-widno/"><u>Uncovering Methods to Disable GPU-Aided Prioritization on WIDNO</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-secret-to-flawless-steam-logins-rustwindows-edition/"><u>Unlocking the Secret to Flawless Steam Logins: Rust/Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-tips-manage-file-explorer-folders-visibility/"><u>Windows 11 Tips: Manage File Explorer Folders Visibility</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-leading-edge-speech-recognition-tools/"><u>[New] 2024 Approved Leading Edge Speech Recognition Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-video-experience-best-youtube-to-avi-companions/"><u>[New] In 2024, Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1-dettagli-tecnici-e-funzionalita-dellassistente-video-winxai-per-utenti-professionisti/"><u>1. Dettagli Tecnici E Funzionalità Dell'assistente Video WinXAI per Utenti Professionisti</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-audacitys-code-9999-on-pcs/"><u>Diagnosing and Repairing Audacity's Code 9999 on PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-dell-d3100-printer-driver-with-simple-steps/"><u>Download and Update the DELL D3100 Printer Driver with Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-purchase-speeds-in-microsofts-marketplace/"><u>Enhancing Purchase Speeds in Microsoft's Marketplace</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-marketers-edge-essential-tools-to-upgrade-instagram-videos/"><u>In 2024, The Marketer's Edge Essential Tools to Upgrade Instagram Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-voiceover-dynamics-for-stellar-ppt-presentations/"><u>In 2024, Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-11s-admin-level-powershell-prompt/"><u>Launching Windows 11'S Admin-Level PowerShell Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaccessibility-issues-with-csgo-on-w11/"><u>Overcoming Inaccessibility Issues with CS:GO on W11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-m54-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy M54 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/take-command-of-your-computing-experience-multiply-folders-in-win11plus11/"><u>Take Command of Your Computing Experience: Multiply Folders in Win11+11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/turn-off-autoplay-on-youtube-with-these-three-straightforward-tips/"><u>Turn Off Autoplay on YouTube with These Three Straightforward Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-of-vram-on-modern-pcs/"><u>Unlock Full Potential of VRAM on Modern PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-terminal-visual-element/"><u>Upgrade Your Terminal Visual Element</u></a></li>
 </ul></div>
 

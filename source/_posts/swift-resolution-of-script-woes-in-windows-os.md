@@ -1,7 +1,7 @@
 ---
 title: Swift Resolution of Script Woes in Windows OS
-date: 2024-09-05T08:37:33.058Z
-updated: 2024-09-06T08:37:33.058Z
+date: 2024-12-01T01:22:41.249Z
+updated: 2024-12-07T11:52:25.023Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
  Alternatively, removing conflicting browser extensions, clearing your Internet cache, and updating the app can also help. Follow the below steps to troubleshoot this error on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disable Script Debugging in Internet Options
 
  Script debugging is a developer feature that lets web admins debug web applications. Windows, by default, disables script debugging to prevent end users from receiving unnecessary debug notification pop-ups when they visit a website or use a web app.
@@ -37,18 +31,6 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 3. Next, click on**Network and Internet.**  
 ![control panelinternet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panelinternet-options.jpg)
 4. Click on**Internet Options.**
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. In the Internet Properties dialog, open the**Advanced** tab.
 6. Scroll down to the**Browsing** section under**Settings** .  
 ![Internet-properties-disable-script-debugging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/interenet-properties-disable-script-debugging.jpg)
@@ -61,20 +43,26 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
  However, if the issue persists, clear your browser cache to delete the old cache that may be triggering the error.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete Browser Cache
 
  You can delete your browser cache to fix the script error. Useful if the error continues to occur after disabling script debugging. You can[clear browser cache and temporary files on Windows](https://www.makeuseof.com/windows-11-clear-caches/) using the built-in disk cleanup and storage sense feature.
 
  In case the error occurs when using an app, try to[perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update the Problematic App
 
 ![microsoft edge update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcirosoft-edge-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, check the affected browser or the app for pending updates. Newer updates bring bug fixes, security updates, and performance improvements.
 
@@ -82,22 +70,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 * To update Microsoft Edge, click on the**three-dots menu** , select**Help and feedback,** and click on**About Microsoft Edge.**
 * For Firefox, click the**Menu** icon in the top left corner, select**Help,** and click on**About Firefox.**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Third-Party Antivirus Software and Extensions
 
 ![mcafee-webadvisor-edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-webadvisor-edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Remove any third-party security extension or antivirus software on your computer to see if that helps resolve the error. For example, a McAfee browser extension seems to trigger this error on the Chrome browser.
 
 To remove the Chrome extension:
@@ -118,6 +94,11 @@ To remove the Chrome extension:
 4. Click the**Turn off** button for**Real-time scanning.**  
 ![mcafee real time scanning off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mcafee-real-time-scanning-off.jpg)
 5. In the**Turn off** dialog, click the drop-down for**When you want to resume Real-Time Scanning?** By default, it is set to 15 minutes, which should be sufficient to determine if the antivirus is creating conflict with your browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Turn off** to disable the antivirus.
 
  Close McAfee and relaunch the browser. Try to browse the web app or page and check if the error is resolved. The antivirus should resume real-time scanning once the time lapses.
@@ -125,11 +106,9 @@ To remove the Chrome extension:
  Note that, in some instances, you may need to uninstall the third-party antivirus program to resolve the error. If the error returns after McAfee real-time scanning resumes, consider switching to an alternative[antivirus app on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Script Error on Windows
 
  The script error often occurs if you have script debugging enabled in Internet Options, and disabling the same resolves the error in most cases. If the issue persists, review the extensions installed on your browser, specifically the security extension from antivirus makers, and remove them to resolve the error. Disabling any third-party antivirus can help you determine if the error is triggered by your overzealous security app.
@@ -140,8 +119,6 @@ To remove the Chrome extension:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +126,23 @@ To remove the Chrome extension:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-advanced-color-grading-techniques-with-luts-for-after-effects-users-for-2024/"><u>[New] Advanced Color Grading Techniques with LUTs for After Effects Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreomed-approach-to-filmmaking-mastering-movie-maker-windows-8-techniques/"><u>[Updated] A Compreomed Approach to Filmmaking Mastering Movie Maker (Windows 8) Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-deception-authenticity-in-the-world-of-windows-software/"><u>Decoding Deception: Authenticity in the World of Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-navigating-and-modifying-windows-odbc-connections/"><u>Expert Tips for Navigating and Modifying Windows ODBC Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-complications-during-amd-195-setup/"><u>Fixing Windows Complications During AMD 195 Setup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gopro-hero7-black-top-tier-action-camera-verdict/"><u>GoPro HERO7 Black: Top-Tier Action Camera Verdict!</u></a></li>
+<li><a href="https://win11.techidaily.com/guarantee-access-to-your-snippets-with-backups/"><u>Guarantee Access to Your Snippets with Backups</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-dispelling-net-runtime-errors-in-os/"><u>Guide to Dispelling .NET Runtime Errors in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-to-modify-static-power-configurations-on-win11/"><u>Hacks to Modify Static Power Configurations on Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-camon-20-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Camon 20 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-get-100k-view-on-youtube-video-for-2024/"><u>How to Get 100K View on YouTube Video for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-wintoys-to-supercharge-your-pc/"><u>Leverage WinToys to Supercharge Your PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ise-guide-for-broadcasting-google-meet-on-youtube/"><u>Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/textual-excellence-in-messages-beyond-basic-fonts/"><u>Textual Excellence in Messages: Beyond Basic Fonts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-samsung-galaxy-xcover-7-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy XCover 7 Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

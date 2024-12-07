@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows 11'S Enhanced Data Protection Strategy
-date: 2024-09-05T08:33:10.103Z
-updated: 2024-09-06T08:33:10.103Z
+date: 2024-12-02T03:34:09.708Z
+updated: 2024-12-07T10:32:03.984Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the New Windows Backup App?
 
  Windows 11 already has a backup section in the Settings app that offers the option to save all your device preferences, remember your apps and settings, and store all your personal files in [OneDrive](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/). The Windows Backup app brings all these options under one shed as an app. So, it becomes easier for users to select what to back up without opening the Settings app.
@@ -39,25 +31,15 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 ![Windows Backup page in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-page-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After backing up all the necessary files and settings, you can restore it using the OOBE experience page. It appears after you sign in to your Microsoft Account while installing or resetting your Windows PC.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the Windows Backup App
 
  Windows Backup App was previously available in the [Canary](https://www.makeuseof.com/what-is-windows-insider-canary-channel/) and Dev Insider channels. But now it is available for the Beta channel as well. You must update to the Insider build 22631.2262 to get access to the Windows Backup app if you have enrolled your PC in the Dev channel. Just check for the latest Windows update and install it on your PC.
@@ -73,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
 3. Click on the **arrow** icon next to the Folders option. Enable the **toggles** of all the folders that you want to select for backup.  
 ![Configuring Windows Backup app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-windows-backup-app.jpg)
 4. After that, you can pick the types of settings, credentials, and apps to back up using the rest of the options listed in the app.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Lastly, click on the **Backup** button to start the process. It will take a while to upload all the files and settings.  
 ![Windows Backup in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-backup-in-progress.jpg)
 6. Click on the **Close** button to terminate the app.
@@ -92,11 +68,9 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
  You will see all the pinned app icons in the Start menu, and Taskbar, and can click on the icon to restore the app. Windows will direct you to the official website to download and install the apps that aren’t available on the Microsoft Store. You can even restore all the Store apps by launching the Microsoft Store app and selecting the Restore All option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Windows Backup App vs. Legacy Backup Options
 
  The Windows Backup app relies on cloud storage to store all your data. It makes it more convenient to access files via OneDrive and restore all your personal settings and apps.
@@ -108,18 +82,14 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
  But you may have to upgrade to the paid tier of OneDrive if your personal files take up too much space. Another caveat is that is super easy to restore the Microsoft Store apps but all the third-party software will still be missing from the picture. After restoring the data, you will have to install all these apps manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your Windows Backup Made Easy
 
  You can use the Windows Backup app or hop into the Settings app and configure the backup settings from there. Transitioning to a new PC is significantly easy with the cloud backup and Microsoft Account linking approach. However, you will need to upgrade storage (in some cases) and reinstall third-party software manually.
 
  Instead of manually copying every file or creating a gigantic system image, you can manage backups of most of the personal data of your Windows PC within a single app. Wondering how the app works and what data it can back up? Let's find out.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -127,3 +97,23 @@ thumbnail: https://thmb.techidaily.com/8358f47af5ec8aff78eb055a676b098baa58d37b0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-delving-into-the-world-of-hdr-tv-lg-27ud88-uhd/"><u>[New] Delving Into the World of HDR TV - LG 27UD88-UHD</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-speedy-streams-start-here-snapchat-for-starters/"><u>[Updated] 2024 Approved Speedy Streams Start Here Snapchat for Starters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-viewing-experience-enable-av1-on-youtube/"><u>[Updated] In 2024, Elevate Viewing Experience – Enable AV1 on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-4-powerful-ai-story-generators-to-test/"><u>Discover 4 Powerful AI Story Generators to Test</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-s18e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo S18e To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-missing-device-camera-issue-in-win11/"><u>How to Resolve Missing Device: Camera Issue in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-techniques-leveraging-iphones-advanced-photo-cutout-feature-in-ios-16-for-creative-editing/"><u>Innovative Techniques: Leveraging iPhone's Advanced Photo Cutout Feature in iOS 16 for Creative Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/prompt-engineering-job-prospects-assessing-essential-elements-to-consider-before-you-leap/"><u>Prompt Engineering Job Prospects: Assessing Essential Elements to Consider Before You Leap</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-approach-to-recording-windows-calls/"><u>Simplified Approach to Recording Windows Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/snapping-shot-activating-the-snipping-tool-effortlessly/"><u>Snapping Shot: Activating the Snipping Tool Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-latest-enzo-plugins-on-kodi-leia-and-krypton-for-reliable-live-tv/"><u>Step-by-Step Guide: Setting Up the Latest Enzo Plugins on Kodi (Leia and Krypton) for Reliable Live TV</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-steam-malfunction-during-windows-gaming/"><u>Strategies to Overcome Steam Malfunction During Windows Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/the-future-of-your-pc-windows-latest-february-update-features/"><u>The Future of Your PC - Windows' Latest February Update Features</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/transforming-video-into-melody-cutting-edge-audio-retrieval-in-multimedia-for-2024/"><u>Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Dealing with Windows Exception Breakpoint Failure
-date: 2024-09-05T08:36:44.500Z
-updated: 2024-09-06T08:36:44.500Z
+date: 2024-12-02T03:36:35.289Z
+updated: 2024-12-07T11:55:34.156Z
 tags:
   - windows10
   - windows11
@@ -33,20 +33,8 @@ To disable startup apps on Windows:
 5. Select all the apps one by one and click**Disabled** .  
 ![disable startup apps windows 11 new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/disable-startup-apps-windows-11-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once done, restart your PC and check if the error persists. If not, enable the apps again one by one until you find the problematic application. Depending on the use, you can update, uninstall or find an alternative for the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System File Checker and the DISM Tools
 
  The Deployment Image Service Management (DISM) tool is a command-line utility that can find and fix issues with your Windows image. If your error is triggered by a corrupt system image, the DISM command can help you fix the error.
@@ -60,12 +48,6 @@ Follow these steps to run the DISM and System File Checker tools:
 `Dism /Online /Cleanup-Image /CheckHealth`
 3. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt-1.jpg)  
  Next, type the following command and press**Enter** to scan your PC's health:  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Dism /Online /Cleanup-Image /ScanHealth`
 4. Once done, type the following command to repair the system image:  
 `Dism /Online /Cleanup-Image /RestoreHealth`
@@ -75,12 +57,6 @@ Follow these steps to run the DISM and System File Checker tools:
 7. This process can take some time to complete. Once the verification reaches 100%, it will display the result and any actions taken.
 8. Type**exit** and press**Enter** to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check Your Hard Drive for Errors With CHKDSK
 
  Check Disk (CHKDSK) is a Windows command-line utility to find and fix issues on your hard drive due to bad sectors. You can run the tool on your traditional mechanical hard drive and Solid State Drives (SSDs).
@@ -97,6 +73,10 @@ To run the CHKDSK tool:
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Any GPU Overclocking
 
  If the error is triggered while performing a graphic-intensive task (such as playing a game or rendering 3D models), it can be due to an overclocked GPU.
@@ -105,12 +85,6 @@ To run the CHKDSK tool:
 
  If you need help with overclocking, check out[the best GPU overclocking tools](https://www.makeuseof.com/best-gpu-overclocking-tools/) to get the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check for Memory Leaks
 
  The "the exception breakpoint has been reached" 0x80000003 can occur if your system fails to efficiently utilize the available memory resulting in a memory leak. Fortunately, Window comes with a built-in Memory Diagnostic Tool to check your computer for memory problems. Here's how to do it.
@@ -121,28 +95,19 @@ To run the CHKDSK tool:
 4. In the**Windows Memory Diagnostic** dialog, click**Restart now and check for problems (recommended)** .  
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 5. Your computer will restart and boot into the Windows Memory Diagnostic Tool menu, and the system will start a test automatically.  
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows memory diagnostic tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tooljpg.jpg)
 6. You can also perform**Basic, Standard, or Extended** test manually. To do this, press**F1** to access the**Options** menu and select from the**Basic, Standard, and Extended** option under the**Test Mix** section.
+
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. If a problem is detected, you can view it under the Status section. Even if the test appears inactive or stuck, do not shut down your computer until testing is complete.
 8. Once done, the PC will start, and the Windows Memory Diagnostic Tool will display the test result after you log on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Create a New Windows Local Account
 
@@ -161,19 +126,23 @@ To uninstall an application on Windows:
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
 4. Type the name of your app in the search bar.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
  This error is often related to your system's inability to utilize the memory resources available due to system file corruption or issues with your hard disk. Use the built-in Windows image repair and System File Checker too to resolve system issues. Also, install pending updates for the app or reinstall the problematic app to fix the problem.
@@ -184,8 +153,6 @@ To uninstall an application on Windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +160,21 @@ To uninstall an application on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-10-online-collaboration-tools-ensuring-privacy-for-2024/"><u>[New] Essential 10 Online Collaboration Tools Ensuring Privacy for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-5-multitasking-visual-and-audio-producers/"><u>2024 Approved Best 5 Multitasking Visual & Audio Producers</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-single-board-pcs-for-windows-users/"><u>Efficient Single-Board PCs for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-windows-battery-usage-backwards/"><u>How To Adjust Window's Battery Usage Backwards</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-10-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 10 & 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-youtubes-operations-following-uploads/"><u>In 2024, Decoding YouTube’s Operations Following Uploads</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c22-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C22 Phone Screen?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-best-mkv-video-cutters-for-mac-users/"><u>New 2024 Approved Best MKV Video Cutters for Mac Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pro-equipment-list-for-adventure-documentaries/"><u>Pro Equipment List for Adventure Documentaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/thrilling-new-functionality-awaits-with-w11-update-22h2/"><u>Thrilling New Functionality Awaits with W11 Update #22H2</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tools-for-fixing-win11-filesystem-errors/"><u>Troubleshooting Tools for Fixing Win11 Filesystem Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-how-to-easily-convert-dvd-content-into-wma-audio-files-using-windows-1011-software/"><u>Ultimate Tutorial: How to Easily Convert DVD Content Into WMA Audio Files Using Windows 10/11 Software</u></a></li>
+<li><a href="https://win11.techidaily.com/whispered-slumber-routines-for-computers/"><u>Whispered Slumber Routines for Computers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting High CPU Costs From WMI Worker
-date: 2024-11-24T18:40:29.228Z
-updated: 2024-11-27T16:19:05.773Z
+date: 2024-12-01T00:48:32.304Z
+updated: 2024-12-07T00:03:22.870Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Give It Some Time
 
  If your computer's "Windows Modules Installer Worker" process is using a lot of CPU power, it means that Windows is busy installing updates or doing system maintenance in the background. These tasks may take a few minutes to complete, and the CPU usage should go back to normal afterward.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
  If there is no ongoing update process or system maintenance, and CPU usage is still abnormally high, restart your computer. This will kill all running programs, including "Windows Modules Installer Worker" and any other process that might be causing the issue.
 
  To restart your computer, open the **Start** menu or hit the **Windows** key. Select the **Power** icon and click **Restart** from the menu. Once your computer restarts, see if CPU usage is back to normal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Update Troubleshooter
 
@@ -55,16 +55,17 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 5. On the right side, click **Other troubleshooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 6. Click **Run** next to **Windows Update**.  
-![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  The troubleshooter will now run and attempt to fix any Windows Update issues. After the troubleshooter finishes its scan and fixes any problems, see if it solves your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Update Service
@@ -97,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
  Once done, restart your computer and see if CPU usage has reduced. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Windows Update
@@ -113,15 +114,15 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 5. Upon stopping the Windows Update service, double-click on it to open its Properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. On the **General** tab, click **Startup type** and select **Disabled** from the dropdown.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 7. Click **Apply** \> **OK** to save your changes.
 
  After performing the above steps, close the Services window and restart your computer. Check if the "Windows Modules Installer Worker" process is still using CPU resources. Don't forget to enable Windows Update once you're done troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Clear the SoftwareDistribution Folder
 
@@ -148,44 +149,21 @@ net start msiserver`
 
  Now close the Command Prompt window and restart your computer. Now check if the Windows Modules Installer Worker process still consumes CPU power.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Try Some Generic Windows Fixes
 
  Aside from the solutions above, there are some generic fixes you can try to reduce high CPU usage. This includes [disabling unnecessary startup programs](https://www.makeuseof.com/windows-11-disable-startup-programs/) and [repairing corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/). If you have downloaded any third-party programs, uninstall them and check if that helps.
 
  In addition, check if you have installed any updates recently. Corrupted or incompatible updates can cause high CPU usage issues. If the problem persists after performing these steps, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Optimizing High CPU Usage on Windows
 
  If Windows Modules Installer Worker is using too much CPU power, you now have solutions to try. Although this process usually utilizes computer resources while installing updates and shouldn't create issues, if you observe that it is using excessive CPU power for an extended period, you can try deactivating services, deleting files from the SoftwareDistribution folder, and implementing common fixes.
 
  In this article, we will discuss how to resolve CPU usage issues with Windows Modules Installer Worker.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[New] 2024 Approved Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-from-page-to-screen-jujutsu-kaisen-on-tiktok-for-2024/"><u>[New] From Page to Screen Jujutsu Kaisen on TikTok for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-audience-allure-powerful-hashtags-that-transform-youtube-shorts/"><u>[Updated] 2024 Approved Audience Allure Powerful Hashtags That Transform YouTube Shorts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-your-makeup-mastery/"><u>[Updated] Perfecting Your Makeup Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-copilot-key-in-windows-11-enhance-your-experience/"><u>Decoding Copilot Key in Windows 11 - Enhance Your Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvdmacdvdrip/"><u>DVDレンタルサービスからMacへ素晴らしいDVDをダウンロードする簡単方法とおすすめRipソフトの使い方</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-video-wins-essential-ideas-for-vloggers/"><u>In 2024, Quick Video Wins Essential Ideas for Vloggers</u></a></li>
-<li><a href="https://win11.techidaily.com/kickstart-windows-11-help-and-support-mechanism/"><u>Kickstart Windows 11 Help & Support Mechanism</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/launch-sequence-the-right-moment-for-podcasts/"><u>Launch Sequence The Right Moment for Podcasts</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-server-with-iis-manager/"><u>Master Your Windows Server with IIS Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-common-steam-freeze-during-gaming/"><u>Overcoming Windows 11: Common Steam Freeze During Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-windows-update-requests/"><u>Overriding Windows Update Requests</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-ethernet-connection-problems-on-windows-10-quickly-and-effectively/"><u>Resolve Ethernet Connection Problems on Windows 10 Quickly and Effectively</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-solutions-for-troubleshooting-i2c-interface-problems-with-hid-drivers/"><u>Simple Solutions for Troubleshooting I2C Interface Problems with HID Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-geforce-nows-error-code-0xc0f1103f-in-windows/"><u>Steps to Fix GeForce Now's Error Code 0Xc0f1103f in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-no-write-windows-saving-hurdles/"><u>Strategies for Overcoming No Write Windows Saving Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-and-smooth-keyboard-shortcuts-for-3d-artists/"><u>Swift and Smooth: Keyboard Shortcuts for 3D Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/tracing-your-digital-steps-in-windows-11/"><u>Tracing Your Digital Steps in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -194,3 +172,24 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[Updated] In 2024, Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vlcs-screen-recording-capabilities-for-2024/"><u>[Updated] VLC's Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/best-no-cost-dvd-copying-applications-protect-your-memories-without-paying-a-penny/"><u>Best No-Cost DVD Copying Applications: Protect Your Memories Without Paying a Penny</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-ai-technology-differentiating-factors/"><u>Dissecting AI Technology: Differentiating Factors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-print-to-pdf-feature-for-windows-users-of-both-windows-10-and-11-solutions-uncovered/"><u>Fixing the 'Print to PDF' Feature for Windows Users of Both Windows 10 & 11 - Solutions Uncovered!</u></a></li>
+<li><a href="https://win11.techidaily.com/highlighting-the-unique-aspects-of-ai-machines/"><u>Highlighting the Unique Aspects of AI Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/how-extended-updates-will-influence-your-use-of-windows-11/"><u>How Extended Updates Will Influence Your Use of Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-delicate-volume-modulation-using-lumafusions-features/"><u>In 2024, Delicate Volume Modulation Using Lumafusion's Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>In 2024, Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-wlanextexe-for-minimal-cpu-load/"><u>Optimizing WLANEXT.EXE for Minimal CPU Load</u></a></li>
+<li><a href="https://win11.techidaily.com/safely-erasing-the-windows-bt-folder-without-issues/"><u>Safely Erasing the Windows ~BT Folder Without Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-converting-multiple-videos-at-once-with-handbrake/"><u>Step-by-Step Guide: Converting Multiple Videos at Once with HandBrake</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-taskbar-functions/"><u>Streamlining Windows 11 Taskbar Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-and-reinstalling-utorrent-for-windows-users/"><u>Uninstalling and Reinstalling uTorrent for Windows Users</u></a></li>
+</ul></div>
+

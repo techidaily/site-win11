@@ -1,7 +1,7 @@
 ---
 title: "Instant Access: Launching Web Pages as Windows Programs"
-date: 2024-11-22T18:56:40.373Z
-updated: 2024-11-27T17:25:45.047Z
+date: 2024-12-03T23:14:48.778Z
+updated: 2024-12-07T08:52:03.373Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,11 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Use a Web App as a Desktop App?
 
  Desktop apps are easier and faster to access than web apps that require you to use a web browser. You can also add these apps to the Start menu and taskbar for quicker access.
 
  These apps are also often free of all the clutter that web browsers bring, including bookmarks, menus, and more. Then there is a full-screen benefit that allows you to use all the real estate for a distraction-free experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install a Website as an App Using Microsoft Edge
 
@@ -50,12 +42,13 @@ To install a website and app using Microsoft Edge:
 3. Select**Apps** and select**Install this site as an App** .  
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
-![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
-5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
+5. To change the app icon, click the**Edit** button and select an icon from your local drive.
 
 6. Click**Install** and wait for the app to be installed.
 
@@ -64,6 +57,10 @@ To install a website and app using Microsoft Edge:
  In the**Allow this app to** section, select all the options you want to activate. For example, you can pin or unpin the app to the taskbar, Start, add it as a desktop shortcut, and enable auto-start on device login. Select all the options you want and click**Allow** .
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Uninstall An App in Microsoft Edge
 
@@ -83,11 +80,16 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
@@ -105,12 +107,13 @@ To change the app icon:
 3. Click the**Change icon** button at the bottom.  
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
-C:\Windows\System32\imageres.dll
-5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+C:\Windows\System32\imageres.dll
+5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
@@ -129,7 +132,7 @@ To install a website as an app using WebCatalog:
 5. Enter a name for the app and then add the URL to the website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
@@ -185,21 +188,14 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-gaining-traction-effective-seo-techniques-for-youtube-videos/"><u>[New] 2024 Approved Gaining Traction Effective SEO Techniques for YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>[New] The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-tv-for-virtual-concerts/"><u>[Updated] 2024 Approved Ultimate TV for Virtual Concerts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>[Updated] Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[Updated] Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210252385-9781662424359-before-i-die/"><u>Before I Die | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-for-using-windows-canary-service/"><u>Comprehensive Guide for Using Windows' Canary Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-white-screen-problems-on-store-platform/"><u>Curing White Screen Problems on Store Platform</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-network-drive-configuration-for-enhanced-workflow/"><u>Efficient Network Drive Configuration for Enhanced Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-disabled-obstacles-for-executing-powershell-scripts/"><u>Eliminating 'Disabled' Obstacles for Executing PowerShell Scripts</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-broken-or-unresponsive-windows-key-in-windows-10-setup/"><u>How to Repair Broken or Unresponsive Windows Key in Windows 10 Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-display-scaling-in-windows-11/"><u>Modify Display Scaling in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-block-after-failure/"><u>Overcoming Windows Login Block After Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-15-ways-to-reach-windows-settings/"><u>Simplify: 15 Ways to Reach Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/vivetool-steps-for-windows-copilot-enablement/"><u>ViveTool Steps for Windows Copilot Enablement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-speakers-file-download-inspect/"><u>[New] 2024 Approved Speaker's File Download, Inspect</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ey-audio-enhancement-tools-for-social-media-experts/"><u>[New] Key Audio Enhancement Tools for Social Media Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-exquisite-expression-saver-perfecting-the-art-of-twitter-animations/"><u>[Updated] In 2024, Exquisite Expression Saver - Perfecting the Art of Twitter Animations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-screenshots-for-live-viewers/"><u>Essential Screenshots for Live Viewers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-technology-meet-kaley-torres-at-the-helm-of-digiarty-software/"><u>Expertise in Technology: Meet Kaley Torres at the Helm of Digiarty Software</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-xerror-0x80246007/"><u>Quick Fixes for Windows Update XError 0X80246007</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-a-stranded-ships-fate-with-your-xbox-and-win11/"><u>Reversing a Stranded Ship's Fate with Your Xbox & Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-brightening-your-windows-11-cursor/"><u>Step-by-Step: Brightening Your Windows 11 Cursor</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolution-of-windows-marching-towards-feb23/"><u>The Evolution of Windows: Marching Towards FEB23</u></a></li>
 </ul></div>
 

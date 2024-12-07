@@ -1,7 +1,7 @@
 ---
 title: "Speed-Up Sessions: Commanding Project Mastery"
-date: 2024-11-21T20:28:25.874Z
-updated: 2024-11-28T03:26:30.469Z
+date: 2024-12-01T01:09:56.448Z
+updated: 2024-12-07T01:27:05.715Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Project Keyboard Shortcuts
@@ -46,16 +46,24 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Open a New Window
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Activate the Project Control Menu
 
@@ -65,17 +73,21 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 **Shift + F2:** This will open up a window with detailed information about any selected tasks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Turn On or off Auto Calculate
 
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10\. Clear or Reset the Selected Field
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 11\. Copy the Selected Data
 
@@ -85,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 **Ctrl + X:** This will remove the data from its current location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 14\. Set the Task To Manually Schedule
 
@@ -205,10 +209,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 | Extend the selection to the start of the text        | Shift + Home                  |
 | Turn on or off Overtype mode                         | Insert                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get the Most Out of Microsoft Project
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
@@ -228,18 +228,18 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-addressing-iphone-lens-failures-a-step-by-step-approach/"><u>[New] Addressing iPhone Lens Failures A Step-by-Step Approach</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionizing-call-recording-with-facetime-advancements/"><u>[Updated] Revolutionizing Call Recording with FaceTime Advancements</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44ox44os44k844oz44og44o844k344on44oz44gu44gf44kb44gr44k544op44kk44oj44k344on44o844ot44oh44kq44ks5yq55p6c55qe44gr57eo6zug44gz44kl5oqa6kgt44cn1/"><u>「ウェブプレゼンテーションのためにスライドショービデオを効果的に編集する技術」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-top-notch-smartphones-excelling-at-video-capture/"><u>3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
-<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-bots-chatgpt-versus-huggingchat-for-optimal-conversational-ai-experience/"><u>Battle of the Bots: ChatGPT Versus HuggingChat for Optimal Conversational AI Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-mobile-cloud-space-hacks-for-android/"><u>In 2024, Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029205926-iphone/"><u>IPhoneにおける「読み込めない動画エラー」を克服する方法</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028985392-mp3/"><u>MP3音量比率変更ツールをご利用いただける場所と使い方ガイド</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-ace-2-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Ace 2 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-global-communicators-guide-to-the-best-19-translation-apps/"><u>[New] 2024 Approved The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-the-filmmakers-dilemma-in-filmora-for-2024/"><u>[New] Navigating the Filmmaker's Dilemma in Filmora for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ath-to-profit-deciphering-vids-on-dm-and-yo/"><u>[New] Path to Profit Deciphering Vids on Dm and Yo</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-tips-to-fix-iphones-location-service-failures-and-restart-accurate-positioning/"><u>Easy Tips to Fix iPhone's Location Service Failures and Restart Accurate Positioning</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-accuracy-and-efficiency-of-windowed-discord-search/"><u>Enhancing Accuracy and Efficiency of Windowed Discord Search</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unblock-error-0x80070091-empty-folder-issue-on-windows-11-and-11/"><u>How to Unblock Error #0X80070091 Empty Folder Issue on Windows 11 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-path-to-global-communication-1-2022-edition/"><u>Mondly’s Path to Global Communication - #1 2022 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc00ce556-a-guide/"><u>Resolving Windows' Error Code 0xC00CE556: A Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/taking-control-the-hidden-tips-and-tricks-for-power-users-of-window-11-for-2024/"><u>Taking Control The Hidden Tips and Tricks for Power Users of WINDOW 11 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-vlog-concepts-for-daily-engagement-for-2024/"><u>Top Vlog Concepts for Daily Engagement for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-search-game-with-these-critical-windows-11-tricks/"><u>Transform Your Search Game with These Critical Windows 11 Tricks</u></a></li>
 </ul></div>
 

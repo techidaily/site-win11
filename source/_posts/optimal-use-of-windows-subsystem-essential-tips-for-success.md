@@ -1,7 +1,7 @@
 ---
 title: "Optimal Use of Windows Subsystem: Essential Tips for Success"
-date: 2024-11-23T19:37:45.773Z
-updated: 2024-11-28T00:02:00.759Z
+date: 2024-12-01T07:01:23.521Z
+updated: 2024-12-07T00:46:27.254Z
 tags:
   - windows10
   - windows11
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
@@ -55,6 +59,10 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
@@ -70,22 +78,22 @@ Here are some of the other important WSL 2 benefits for developers:
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Multiple Profiles
 
  If you plan on using WSL 2 for work, personal learning, or school, consider creating separate user profiles. This will allow you to keep your apps, configs, and files organized.
 
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update Packages
 
@@ -95,17 +103,9 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
@@ -130,16 +130,24 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-angle-advantage-guide-mastering-the-art-of-spinning-photos-for-social-media-triumphs/"><u>[New] 2024 Approved The Angle Advantage Guide Mastering the Art of Spinning Photos for Social Media Triumphs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-adding-videos-to-written-work-a-budget-friendly-way/"><u>[Updated] Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
-<li><a href="https://win11.techidaily.com/pcmdsd/"><u>「優れた品質PCMへの移行：DSDオーディオからの高精度変換方法」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/100-drone-bargains-top-budget-friendly-models/"><u>$100 Drone Bargains Top Budget-Friendly Models</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728499402255-ssd5/"><u>如何迅速修正SSD克隆时间长问题——5个方法指南</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fix-your-playback-problems-windows-media-player-reinstallation-guide-for-windows-11-users/"><u>Fix Your Playback Problems: Windows Media Player Reinstallation Guide for Windows 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-compile-and-connect-videos-on-youtv/"><u>In 2024, Compile and Connect Videos on YouTV</u></a></li>
-<li><a href="https://win11.techidaily.com/mp3-to-m4a/"><u>MP3 to M4A変換フリーツール比較ガイド - 使いやすくて正確なソフトウェア集めました!</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-mastering-the-art-of-downloading-ballet-beautiful-videos-from-youtube/"><u>Quick Guide: Mastering the Art of Downloading Ballet Beautiful Videos From YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-converting-your-dvd-files-into-avi-with-no-hassle/"><u>Simple Guide: Converting Your DVD Files Into AVI with No Hassle!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-s23plus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel S23+ FRP Bypass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-master-video-production-best-lenses-for-online-platforms/"><u>[New] Master Video Production Best Lenses for Online Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-which-streaming-application-leads-the-race-wirecast-or-obs/"><u>[New] Which Streaming Application Leads the Race, Wirecast or OBS?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[Updated] 2024 Approved Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>[Updated] Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-mg28uq-monitor-review-bridging-the-high-res-divide/"><u>2024 Approved ASUS MG28UQ Monitor Review Bridging the High-Res Divide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-deeper-dive-into-the-game-five-easy-zooming-methods-for-2024/"><u>A Deeper Dive Into the Game Five Easy Zooming Methods for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-unwanted-disk-filling-on-a-windows-system/"><u>Combatting Unwanted Disk Filling on a Windows System</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/gptwindows-111087/"><u>GPT複製ツール:Windows 11/10/8/7対応最高選</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-robloxs-access-denied-error-403-on-windows/"><u>How to Overcome Roblox's Access Denied (Error 403) on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-in-depth-guide-to-archiving-online-conversations-with-fb/"><u>In 2024, In-Depth Guide to Archiving Online Conversations with FB</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-program-window-settings-in-windows-11/"><u>Mastering Program Window Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wsl-2-error-4294967295-in-windows-environment/"><u>Overcoming WSL 2 Error 4294967295 in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-open-system-configuration/"><u>Simple Steps to Open System Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-google-play-in-w11/"><u>Step-by-Step Guide to Google Play in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-removing-discord-from-pc-boot-sequence/"><u>Tips for Removing Discord From PC Boot Sequence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-pfr-rate-for-sluggish-film-speed/"><u>Top PFR Rate for Sluggish Film Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-gems-in-windows-10-product-key-deals/"><u>Unveiling Hidden Gems in Windows 10 Product Key Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/year-end-splurge-612-on-lifetime-windows-10-bf-day/"><u>Year-End Splurge: $6.12 on Lifetime Windows 10 BF Day</u></a></li>
 </ul></div>
 

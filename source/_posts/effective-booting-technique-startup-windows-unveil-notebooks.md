@@ -1,7 +1,7 @@
 ---
 title: "Effective Booting Technique: Startup Windows, Unveil Notebooks"
-date: 2024-09-05T08:33:53.251Z
-updated: 2024-09-06T08:33:53.251Z
+date: 2024-11-30T02:07:00.942Z
+updated: 2024-12-07T00:00:45.266Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  When you're done working with Sticky Notes, make sure not to close the window. Instead, leave it open as you shut down your computer. This will ensure that when you turn on your computer, Sticky Notes opens automatically.
 
  Although the solution is simple, it may not work, or you may find it difficult to remember to keep it open when you turn off your PC. In that case, there are other alternatives; add Sticky Notes to the startup folder or use Task Scheduler.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Add Sticky Notes to the Startup Folder
 
@@ -51,62 +55,39 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 3. In the first step, give your task a name and click **Next**.  
 ![Startup Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-sticky-notes.jpg)
 4. Now select **When I log on** as the trigger and click **Next** at the bottom.  
+
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Create Basic Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-wizard.jpg)
 5. Choose **Start a program** in the Action window and click **Next**.  
+
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Start a program in Action tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-action-tab.jpg)
 6. In the **Program/script** field, type the path below:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 C:\Windows\System32\cmd.exe
 7. In the Add arguments (optional) field, copy and paste the following command:  
 /c start shell:appsfolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App  
 ![Start a Program in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-task-scheduler.jpg)
 8. Click **Next** and review all the settings.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Now click **Finish** to save your work.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/finish-task-wizard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Task Scheduler will now run Sticky Notes each time you log in. This way, Sticky Notes launches automatically at startup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Tweak the Registry Editor
 
  If you're comfortable editing the Windows registry, you can tweak it to open Sticky Notes at startup. This method requires knowledge of how the Registry Editor works and caution when editing it. If done incorrectly, it can cause serious system errors. It's best to [back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before changing anything.
@@ -124,19 +105,11 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
  If you can't find the **LaunchOnNextUserSession** key, right-click on the **Notes** folder and select **New > DWORD (32-bit) Value**. Name the newly created key “LaunchOnNextUserSession” and assign it the Value data of **1**.
 7. Close the Registry Editor and restart your computer to save the changes. Sticky Notes should now open at startup.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Now Starts With Sticky Notes Open
 
  This article outlines several ways to open Sticky Notes at startup in Windows. If you want an easier solution, leave Sticky Notes open when you shut down your computer; it will launch automatically when Windows starts. If not, add Sticky Notes to the startup folder. If you want more control over when Sticky Notes launches, use Task Scheduler or tweak the Registry Editor.
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +117,25 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-snap-with-a-single-purpose-remove-bg-using-affinity/"><u>[New] Snap with a Single Purpose - Remove Bg Using Affinity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-art-of-crafting-excellent-zoom-conferences/"><u>[Updated] 2024 Approved The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-seamless-srt-and-mp4-fusion-the-ultimate-guide-for-2024/"><u>[Updated] Seamless SRT & MP4 Fusion – The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-met-not-achieved-indicator-on-windows-11/"><u>Disable Met Not Achieved Indicator on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-to-know-the-samsung-galaxy-ring-price-points-release-schedule-and-in-depth-specs-analysis/"><u>Get to Know the Samsung Galaxy Ring: Price Points, Release Schedule & In-Depth Specs Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-seamless-guide-to-saving-gifs-on-iphonesandroids/"><u>In 2024, The Seamless Guide to Saving GIFs on iPhones/Androids</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-apex-legends-freezescrashes/"><u>Mastering Fixes for Apex Legends Freezes/Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-unauthorized-sign-in-bypassing-in-windows/"><u>Mastering the Art of Unauthorized Sign-In Bypassing in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-connections-addressing-windows-and-ea-server-linkage/"><u>Mending Connections: Addressing Windows and EA Server Linkage</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-ssd-with-ssd-fresh-tips/"><u>Optimize Your Windows' SSD with SSD Fresh Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-display-disruptions-on-windows-11/"><u>Preventing Display Disruptions on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-windows-11-taskbar-placement/"><u>Tailor Your Windows 11 Taskbar Placement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-key-to-a-secure-ride-learn-how-to-find-and-enter-your-car-radio-password-successfully/"><u>The Key to a Secure Ride: Learn How to Find and Enter Your Car Radio Password Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-5-mobile-apps-to-expand-your-circle-of-friends/"><u>The Ultimate List of 5 Mobile Apps to Expand Your Circle of Friends</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-authentication-breakdown-standard-vs-microsoft-user-access-explored/"><u>Windows Authentication Breakdown: Standard vs Microsoft User Access Explored</u></a></li>
+</ul></div>
+

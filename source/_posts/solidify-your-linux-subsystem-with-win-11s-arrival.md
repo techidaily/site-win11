@@ -1,7 +1,7 @@
 ---
 title: Solidify Your Linux Subsystem with Win 11'S Arrival
-date: 2024-11-21T21:15:01.670Z
-updated: 2024-11-28T01:53:02.995Z
+date: 2024-12-04T18:43:09.259Z
+updated: 2024-12-07T06:03:52.403Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 ![checking if WSL is enabled in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-enabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. In Windows Search, type**Turn Windows features on or off** and click the search result that should appear at the top.
 2. In the Windows System dialog, scroll down until you see**Windows Subsystem for Linux** .
 3. If the checkbox for the feature is not selected, do so now. Then click**Ok** .
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
  Hopefully, WSL is now working, and you can begin using the tool. If not, read on for some other possible solutions.
 
  Learn more about the[things you can do with WSL and Linux](https://www.makeuseof.com/pros-cons-windows-subsystem-for-linux/) on your Windows computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Hyper-V and Virtual Machine Platform
 
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Repair the Linux Distribution App
 
  Your Linux distribution app, such as Ubuntu, Kali, or Debian, could be corrupted or require updating. This can cause WSL to appear to be broken. Repairing Windows apps is very easy.
@@ -76,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
- Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
 ## 4\. Force WSL to Open Using the Microsoft Store
 
@@ -95,6 +91,11 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
@@ -107,15 +108,15 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
 
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing WSL After Upgrading to Windows 11
 
@@ -136,16 +137,18 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-nurturing-network-growth-for-top-tier-subscribers/"><u>[New] In 2024, Nurturing Network Growth for Top-Tier Subscribers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-androidios-wedding-timekeeping-mastered-with-our-top-timer-app-picks/"><u>[Updated] 2024 Approved Android/iOS Wedding Timekeeping Mastered with Our Top Timer App Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-androids-top-gaming-app-kinemaster-unveiled/"><u>[Updated] In 2024, Android's Top Gaming App KineMaster Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-audio-designers-for-iphone-ringtones/"><u>[Updated] Leading Audio Designers for iPhone Ringtones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-mini-multiport-adapter-that-packs-big-performance-at-low-cost-exclusive-review-by-zdnet/"><u>Discover the Ultimate Mini Multiport Adapter That Packs Big Performance at Low Cost | Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-booting-technique-startup-windows-unveil-notebooks/"><u>Effective Booting Technique: Startup Windows, Unveil Notebooks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-this-affordable-windows-notebook-stacks-up-against-the-macbook-air-insights-from-zdnets-tech-analysis/"><u>How This Affordable Windows Notebook Stacks Up Against the MacBook Air - Insights From ZDNET's Tech Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-guide-reviewing-and-removing-windows-history/"><u>Insight Guide: Reviewing & Removing Windows History</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-loadlibrary-error-87-in-windows/"><u>Resolving LoadLibrary Error 87 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/triggers-for-launching-system-restore-in-windows-11-environment/"><u>Triggers for Launching System Restore in Windows 11 Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-your-watching-youtube-performance-in-chrome/"><u>Turbocharge Your Watching: YouTube Performance in Chrome</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-insiders-look-at-sharing-links-on-ig-platform-for-2024/"><u>[New] The Insider's Look at Sharing Links on IG Platform for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-guide-to-uploading-videos-into-youtube-lists/"><u>[Updated] 2024 Approved Guide to Uploading Videos Into YouTube Lists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-zoominnovatex7-advanced-imagery-enlargement/"><u>[Updated] ZoomInnovateX7 Advanced Imagery Enlargement</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-connection-problems-between-windows-11-and-nvidia-experience/"><u>Eliminating Connection Problems Between Windows 11 & NVIDIA Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-conversion-transform-flac-files-into-wav-format-with-ease-movavi/"><u>Free Online Conversion: Transform FLAC Files Into WAV Format with Ease - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-and-convenience-with-cmd-shortcuts-in-win11/"><u>Maximize Productivity and Convenience with Cmd Shortcuts in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-v-mp3-preobrazovanie-onlajn-besplatno-s-pomoshyu-servira-movavi-luchshie-rezultaty-dlya-polzovatelej-rossii/"><u>MP4 В MP3 Преобразование Онлайн Бесплатно С Помощью Сервира Movavi - Лучшие Результаты Для Пользователей России</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0xc0000142-faults-in-win10win11/"><u>Overcoming 0XC0000142 Faults in WIN10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-glitches-apex-legends-issues/"><u>Overcoming Windows 11 Glitches: Apex Legends Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/programmable-shortcuts-to-boost-windows-use/"><u>Programmable Shortcuts to Boost Windows Use</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-shutdown-how-to-open-apps-again-in-w11/"><u>Reactivating Shutdown: How to Open Apps Again in W11</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solutions-for-phasmophobia-game-crashes/"><u>Ultimate Guide: Solutions for Phasmophobia Game Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Protocol for Activating Copy & Paste Features in Edge's Security Mode W11
-date: 2024-11-22T03:34:27.432Z
-updated: 2024-11-28T04:29:55.067Z
+date: 2024-12-01T00:22:48.307Z
+updated: 2024-12-06T18:19:09.580Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable Copy and Paste via Windows Settings
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
@@ -38,19 +42,19 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
@@ -71,17 +75,13 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click twice on the newly created DWORD key to open a pop-up window.
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Copy and Paste Now Works With Edge Application Guard
@@ -112,22 +112,24 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-loop-youtube-videos-on-tv/"><u>[New] In 2024, How to Loop YouTube Videos on TV</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>2024 Approved Elevate Your YouTube Presence Filmmaking with Filmora</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-enhance-your-videos-with-dynamic-camera-movements-camtasa-guide/"><u>2024 Approved Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-artistic-solutions-like-procreate-for-windows/"><u>Digital Artistic Solutions Like Procreate For Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ease-of-disk-management-access-on-win-1011/"><u>Discover the Ease of Disk Management Access on Win 10/11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-guide-for-hp-officejet-pro-asterisk-8610-driver-on-windows-os-7-vista-xp-8-and-10/"><u>Download & Update Guide for HP Officejet Pro Asterisk 8610 Driver on Windows OS (7, Vista, XP, 8, and 10)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-13c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C Pattern Lock Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-adjust-administrative-controlled-options-in-windows-11-os/"><u>How to Adjust Administrative Controlled Options in Windows 11 OS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-tactics-increasing-your-instagram-video-traffic/"><u>In 2024, Proven Tactics Increasing Your Instagram Video Traffic</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-facebook-messages-overcoming-window-snags/"><u>Mastering Facebook Messages: Overcoming Window Snags</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11s-tool-accessibility-settings/"><u>Mastering Windows 11'S Tool Accessibility Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-pathways-to-windows-performance-reports/"><u>Quick Pathways to Windows Performance Reports</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-scripture-melodies-on-your-phone-for-2024/"><u>Step-by-Step Scripture Melodies on Your Phone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/thaw-frozen-handbrake-on-windows/"><u>Thaw Frozen HandBrake on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-qanda-on-quantum-hdr-technology/"><u>The Essential Q&A on Quantum HDR Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-meizu-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Meizu</u></a></li>
-<li><a href="https://win11.techidaily.com/workspace-efficiency-attach-gmail-to-desktop-border/"><u>Workspace Efficiency: Attach Gmail to Desktop Border</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-home-design-potential-in-minecraft/"><u>[Updated] In 2024, Unlocking Home Design Potential in Minecraft</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expanding-minds-virtualizing-classrooms/"><u>2024 Approved Expanding Minds, Virtualizing Classrooms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-huawei-nova-y91-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Huawei Nova Y91 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/clean-slate-deleting-ps5-login-details/"><u>Clean Slate: Deleting PS5 Login Details</u></a></li>
+<li><a href="https://discover-able.techidaily.com/displaying-mobi-book-formats-on-your-kindle-fire-device-a-comprehensive-guide/"><u>Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-fn-key-usage-in-windows-1011-pcs/"><u>Enhancing FN Key Usage in Windows 10/11 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-brilliance-essential-angles-in-iphone-photography/"><u>In 2024, Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-no-start-virtual-machines-in-vmwarewin11/"><u>Navigate Past No-Start Virtual Machines in VMware/Win11</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/quick-and-simple-guide-how-to-change-your-kobo-ebooks-into-pdf-format/"><u>Quick & Simple Guide: How To Change Your Kobo eBooks Into PDF Format</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-to-mouse-wheels-on-pcs/"><u>Restoring Order to Mouse Wheels on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-process-of-activating-system-restore-in-windows-11/"><u>Simplifying the Process of Activating System Restore in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-ps4-network-address-translation-errors/"><u>Step-by-Step Solutions for Correcting PS4 Network Address Translation Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-guide-to-recovering-from-outlook-crashes/"><u>The Complete Guide to Recovering From Outlook Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-for-your-pc-build-insights-from-toms-hardware-experts/"><u>Top Picks for Your PC Build: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-playnite-adopting-emulated-game-titles/"><u>Transforming Playnite: Adopting Emulated Game Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-a2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi A2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unearthing-lost-screens-reopen-windows-10-and-11-effortlessly/"><u>Unearthing Lost Screens: Reopen Windows 10 & 11 Effortlessly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Making the Invisible Windows Goodies Visible Again
-date: 2024-11-22T19:25:42.741Z
-updated: 2024-11-28T01:27:28.601Z
+date: 2024-12-02T06:27:03.710Z
+updated: 2024-12-07T07:58:45.748Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the DISM Tool
 
  One of the first things you can try is using the Deployment Image Servicing and Management (DISM) tool. This tool is part of Windows, and you can use it to fix corrupt system files, including ones that could be causing problems when installing optional features.
@@ -39,7 +43,7 @@ To use the DISM tool, follow these steps:
 ![DISM Windows Utility Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-windows-utility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
@@ -47,7 +51,7 @@ To use the DISM tool, follow these steps:
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the System File Checker or SFC Utility
@@ -62,10 +66,6 @@ To check your system using SFC, follow these steps:
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Want to know the best part?
 
@@ -95,10 +95,6 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -119,7 +115,7 @@ Follow these steps to run the update troubleshooter on Windows:
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
@@ -133,6 +129,10 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -166,14 +166,15 @@ Here's how you can update Windows to the latest version:
 Get-WindowsOptionalFeature -Online  
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -200,17 +201,22 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>[New] 2024 Approved Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-15-windows-10-recording-applications-reviewed/"><u>[New] Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-journey-enhancers-best-narrative-methods-for-2024/"><u>[Updated] YouTube Journey Enhancers Best Narrative Methods for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Samsung Galaxy A05?</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-methods-mastering-the-playback-of-ogm-format-videos/"><u>Effortless Methods: Mastering the Playback of OGM Format Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-truth-behind-wlmp-to-mp3-converters-do-they-actually-work/"><u>Exploring the Truth Behind WLMP to MP3 Converters - Do They Actually Work?</u></a></li>
-<li><a href="https://win11.techidaily.com/free-unlimited-online-conversion-transforming-flv-files-into-mp4-format/"><u>Free Unlimited Online Conversion: Transforming FLV Files Into MP4 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-seamlessly-add-presentations-to-youtube-at-no-cost-audio-optional/"><u>Guide to Seamlessly Add Presentations to YouTube at No Cost - Audio Optional</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-successful-video-streaming-on-google-chrome/"><u>Guide: Successful Video Streaming on Google Chrome</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>In 2024, Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/kom-gratis-mp3-naar-m4a-omzetten-met-behulp-van-de-installeerbare-online-tool-vrije-software-movavi/"><u>Kom Gratis MP3 Naar M4A Omzetten Met Behulp Van De Installeerbare Online Tool Vrije Software Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-pixels-to-spirit-nurturing-memories-through-live-photo-to-video-conversion-for-2024/"><u>[Updated] From Pixels to Spirit Nurturing Memories Through Live Photo to Video Conversion for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-boost-your-views-optimal-hashtags-for-video-success/"><u>[Updated] In 2024, Boost Your Views Optimal Hashtags for Video Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-hasten-to-past-accessing-removed-reddit-threads-swiftly/"><u>[Updated] In 2024, Hasten to Past Accessing Removed Reddit Threads Swiftly</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/forex-traders-beware-steer-clear-of-these-13-common-errors-using-trade-copier-on-mt4-and-mt-5-platforms/"><u>Forex Traders Beware: Steer Clear of These 13 Common Errors Using Trade Copier on MT4 & MT 5 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/hotkeys-and-habits-integrating-quick-paste-features-in-windows-11-edition/"><u>Hotkeys & Habits: Integrating Quick-Paste Features in Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-winstall-for-bulk-app-setup-in-the-latest-windows-11/"><u>Leveraging Winstall for Bulk App Setup in the Latest Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/longer-security-patch-cycle-what-you-need-to-know-about-windows-11-h2/"><u>Longer Security Patch Cycle: What You Need to Know About Windows 11 H2</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-alert-malfunctions-in-microsoft-mail-app/"><u>Methods to Rectify Alert Malfunctions in Microsoft Mail App</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/navigating-crypto-tax-obligations-understanding-consequences-powered-by-yl-technology/"><u>Navigating Crypto Tax Obligations: Understanding Consequences - Powered by YL Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-error-80080300-fixing-ms-teams-win11-glitches/"><u>Overcoming Error 80080300: Fixing MS Teams Win11 Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-webpage-loaders-in-microsoft-stores/"><u>Overcoming Failed Webpage Loaders in Microsoft Stores</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/passo-passo-per-creare-e-gestire-i-punti-di-ripristino-in-windows-server-2e-edition-2012-r2/"><u>Passo-Passo per Creare E Gestire I Punti Di Ripristino in Windows Server 2E Edition 2012 R2</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-updating-your-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-devices-android-and-windows-synchro-magic/"><u>Streamlining Devices: Android & Windows Synchro Magic</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/surge-in-followers-swift-tiktok-growth-tricks-unveiled-for-2024/"><u>Surge in Followers Swift TikTok Growth Tricks Unveiled for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/top-rated-desktop-and-mobile-background-eraser-applications-of-2022/"><u>Top-Rated Desktop & Mobile Background Eraser Applications of 2022</u></a></li>
+<li><a href="https://win11.techidaily.com/unstrand-your-game-remedy-xbox-error-in-windows-operating-systems/"><u>Unstrand Your Game: Remedy Xbox Error in Windows Operating Systems</u></a></li>
 </ul></div>
 

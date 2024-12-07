@@ -1,7 +1,7 @@
 ---
 title: Understanding and Remedying the 0X8007045D Blue Screen
-date: 2024-09-05T08:34:35.501Z
-updated: 2024-09-06T08:34:35.501Z
+date: 2024-12-05T07:24:23.796Z
+updated: 2024-12-06T16:39:18.130Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: BlueScreen_Causes,XAS_ErrorResolution,DebuggingBlueScreen,ErrorCode0x8
 thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6ae22dbb42da5be064fc57fa.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding and Remedying the 0X8007045D Blue Screen
 
  Are you facing the 0x8007045d error on your Windows computer? Don't worry; we've got the solution for you.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  The 0x8007045d error on Windows occurs whenever your operating system can't find or read the files on your computer. While the cause of this glitch can be due to a few different problems (and we've briefly touched them below), we'll go over the different methods to fix this debilitating error for good.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are the Main Causes of the Windows 0x8007045d Error?
 
  You'll usually encounter the 0x8007045d error while copying single or multiple files through an external source—usually a USB stick or a CD/DVD drive. Here's how the error can appear, often in a dialog box:
@@ -42,17 +34,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Perform a Windows Update
 
  A simple Windows Update is enough to solve many problems. That's why Microsoft provides a free update service that lets you download and install new patches to fix and update your operating systems' issues.
@@ -64,7 +48,15 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're done, check and see if the 0x8007045d error persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
 
@@ -72,18 +64,6 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use an Alternate USB Slot
 
  Check your USB stick. See if it's plugged into the USB slot properly. Or take it out and insert it into an alternate slot.
@@ -119,12 +99,6 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  Once done, try and run the installer or the program from your PC, and see if you're still facing the 0x8007045d error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Check for Driver Errors
 
  Driver errors aren't unheard of in Windows computers—we have a whole guide that addresses[ways to fix your corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) . So if there's a problem with your CD/DVD or USB driver, then the 0x8007045d error is likely to happen. Thankfully, you can address the issue with a built-in tool, though. Here's how:
@@ -138,25 +112,20 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the 0x8007045d Error on Your Windows PC
 
  Getting rid of the 0x8007045d error doesn't have to be time-consuming. Hopefully, you were able to quickly fix this debilitating error with the methods we've laid out above.
 
  If you're still struggling with it, though, you should probably give Safe mode a go—an alternate mode of starting up your PC with as few drivers as possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +134,22 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-3dr-one-persons-guide-to-a-futuristic-tech-for-2024/"><u>[Updated] '3DR' One Person’s Guide to a Futuristic Tech for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-activer-lacces-aux-fichiers-hors-ligne-dans-windows-10/"><u>Comment Activer L’Accès Aux Fichiers Hors-Ligne Dans Windows 10</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comprehensive-overview-of-aomeis-phonebackup-software/"><u>Comprehensive Overview of AOMEI's PhoneBackup Software</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-alias-codes-app-run-instances-explained/"><u>Deciphering Alias Codes: App Run Instances Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-start-in-vlogging-with-top-tech-tools/"><u>Easy Start in Vlogging with Top Tech Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17238628801376/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-slowing-down-reality-crafting-slow-motion-videos-from-still-images-online/"><u>In 2024, Slowing Down Reality Crafting Slow Motion Videos From Still Images Online</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/leichter-weg-untertitel-zu-ihren-mp4-videos-hinzuzufugen-schritt-fur-schritt-anleitung/"><u>Leichter Weg, Untertitel Zu Ihren MP4-Videos Hinzuzufügen - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-efficient-windows-laptops-for-maximum-performance/"><u>The Most Efficient Windows Laptops for Maximum Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secret-to-restoring-thumbnails-in-win-11/"><u>Unveiling the Secret to Restoring Thumbnails in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-aesthetics-boosted-adding-lively-live-wallpapers/"><u>Windows 11 Aesthetics Boosted: Adding Lively Live Wallpapers</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-pin-glitches-quick-remedies/"><u>Windows 11 PIN Glitches: Quick Remedies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-index-options-breakdown/"><u>Windows Index Options Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-way-building-a-personalized-speech-to-text-app-with-ahk-and-whisper/"><u>Winning Way: Building a Personalized Speech-to-Text App with AHK & Whisper</u></a></li>
+</ul></div>
 

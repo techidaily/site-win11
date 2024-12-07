@@ -1,7 +1,7 @@
 ---
 title: Resolving Stuttering Displays in Windows Devices
-date: 2024-11-21T03:54:58.498Z
-updated: 2024-11-28T01:38:43.691Z
+date: 2024-12-04T22:27:28.403Z
+updated: 2024-12-07T02:19:38.646Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ![windows 11 desktop with task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-desktop-with-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, watch your screen to see if Task Manager flickers. If it does, along with everything else on the screen, the problem is likely caused by your hardware or a faulty display driver. On the other hand, if everything except Task Manager flickers, the issue is likely due to an application.
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set the Correct Refresh Rate
@@ -64,13 +68,13 @@ To adjust your refresh rate:
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Remove the Driver
 
@@ -79,7 +83,7 @@ To adjust your refresh rate:
 ![windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-recovery.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open Settings.
@@ -92,20 +96,12 @@ Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
 4. Restart your system again.
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Install a New Driver
 
@@ -118,6 +114,10 @@ Next, use Device Manager to uninstall the display driver:
  Alternatively, you can go to your graphics card manufacturer's website (likely[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) ) and manually download the driver from there.
 
  Download the driver, install it, and see if the screen flashing problem has ceased.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roll Back to an Older Driver
 
@@ -143,6 +143,10 @@ Next, use Device Manager to uninstall the display driver:
 
 ![windows 11 apps and features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-apps-and-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn't work, uninstall the program. To do so:
 
 1. Press**Windows Key + I** to open Settings.
@@ -161,10 +165,6 @@ To create a new account:
 1. Press**Windows Key + I** to open Settings.
 2. Go to**Accounts > Family & other users** .
 3. Click**Add someone else to this PC** (Windows 10) or**Add account** (Windows 11) and follow the wizard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows Screen Flickers... No More
 
@@ -187,24 +187,14 @@ To create a new account:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-enhance-audio-quality-get-high-quality-fx/"><u>[New] 2024 Approved Enhance Audio Quality, Get High-Quality FX!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>[New] 2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-strategic-placements-for-elevating-youtube-videos/"><u>[Updated] In 2024, Strategic Placements for Elevating YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-prime-5-cameras-for-precision-slow-mo/"><u>[Updated] Prime 5 Cameras for Precision Slow-Mo</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/best-practices-for-filming-screen-captures-for-2024/"><u>Best Practices for Filming Screen Captures for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-the-windows-canary-vulnerability-alerts/"><u>Demystifying the Windows Canary Vulnerability Alerts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>In 2024, Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-abrupt-game-endings-fix-tips-for-roblox-on-pc/"><u>Preventing Abrupt Game Endings: Fix Tips for Roblox on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-seamless-file-downloads-in-windows-11/"><u>Re-Establishing Seamless File Downloads in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-camera-not-found-on-win11-a-step-by-step-guide/"><u>Resolving Camera Not Found on Win11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ring-spotlight-cam-pro-affordable-surveillance-with-a-holiday-discount-my-pleasant-surprise/"><u>Ring Spotlight Cam Pro: Affordable Surveillance with a Holiday Discount - My Pleasant Surprise!</u></a></li>
-<li><a href="https://win-trending.techidaily.com/solving-large-file-issues-in-emeditor-a-guide/"><u>Solving Large File Issues in EmEditor: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailored-ai-by-nvidia-how-it-works-and-who-benefits/"><u>Tailored AI by NVIDIA: How It Works & Who Benefits</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-technicolor-turnover-desktop-color-fix-tips-for-windows/"><u>Taming the Technicolor Turnover: Desktop Color Fix Tips for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-read-only-reverting-in-file-systems/"><u>Troubleshooting Read-Only Reverting in File Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-policies-on-windows-discover-3-vital-approaches/"><u>Unlock Policies on Windows: Discover 3 Vital Approaches</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-for-ms-office-on-windows-1011/"><u>Unveiling the Process for MS Office on Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-mkv-players-macos-edition/"><u>[New] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-typing-experience-restoring-your-tab-key/"><u>Enhancing Typing Experience: Restoring Your Tab Key</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guiding-viewers-eyes-leading-lines-for-iphone-photography-for-2024/"><u>Guiding Viewers' Eyes Leading Lines for iPhone Photography for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-calls-with-dialer-windows-11-style/"><u>Initiating Calls with Dialer, Windows 11 Style</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-errors-for-building-directx-3d-graphics-device/"><u>Resolved Errors for Building DirectX 3D Graphics Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-old-photos-like-new-the-leading-1asters-for-photo-repair-across-windows-and-apple-computers/"><u>Revive Old Photos Like New: The Leading 1Asters for Photo Repair Across Windows & Apple Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-locate-hidden-windows-1011-search-data/"><u>Techniques to Locate Hidden Windows 10/11 Search Data</u></a></li>
+<li><a href="https://win11.techidaily.com/the-comprehensive-analysis-of-windows-group-policies-through-a-threefold-lens/"><u>The Comprehensive Analysis of Windows Group Policies Through a Threefold Lens</u></a></li>
 </ul></div>
 

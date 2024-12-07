@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Resource for Streamlined Navigation: Windows Narrator Keybindings"
-date: 2024-09-05T08:37:19.652Z
-updated: 2024-09-06T08:37:19.652Z
+date: 2024-12-01T07:56:28.033Z
+updated: 2024-12-07T04:41:17.747Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Narrator Shortcuts,Windows Accessibility,Efficient Screen Reader,Quick
 thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2a50419820d4a5c540b52039.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Resource for Streamlined Navigation: Windows Narrator Keybindings
 
  Narrator is a screen reader from Microsoft that assists with navigation and access to information. It reads text, provides voice assistance, and navigates screen content. Visually impaired or low-vision individuals can better comprehend what's on their computer screens with its help.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
  In this article, we've put together a complete list of legacy keyboard shortcuts that you can use to make your Narrator experience more seamless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
 
  There are two popular keyboard layouts for Narrator: Legacy and Standard. The Legacy keyboard layout was traditionally used on computers before the widespread adoption of the Standard layout. It's still in use today and offers advantages at certain times.
@@ -44,21 +36,17 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All the Narrator Legacy Keyboard Shortcuts
 
  Here is a list of keyboard shortcuts that you can use in Narrator to maximize your productivity.
@@ -183,23 +171,18 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -208,4 +191,19 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/disabling-round-corners-on-windows-11/"><u>Disabling Round Corners on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-m452dn-printer-working-step-by-step-driver-installation/"><u>Get Your HP M452dn Printer Working: Step-by-Step Driver Installation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-magic-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-charting-the-financial-landscape-of-youtube-marketing/"><u>In 2024, Charting the Financial Landscape of YouTube Marketing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-a78-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo A78 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/protocol-for-activating-copy-and-paste-features-in-edges-security-mode-w11/"><u>Protocol for Activating Copy & Paste Features in Edge's Security Mode W11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installed-package-access-issues-in-win11win10-os/"><u>Resolving Installed Package Access Issues in Win11/Win10 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-privileged-requirement-not-met-in-windows-1110-error-code-0x80070522/"><u>Resolving Privileged Requirement Not Met in Windows 11/10: Error Code 0X80070522</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-resolving-file-access-denied-in-windows/"><u>Tips for Resolving File 'Access Denied' In Windows</u></a></li>
+</ul></div>
 

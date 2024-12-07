@@ -1,7 +1,7 @@
 ---
 title: "Time Travel Files: Top Utilities in Win8 for Date Alteration"
-date: 2024-09-05T08:35:19.928Z
-updated: 2024-09-06T08:35:19.928Z
+date: 2024-12-03T00:39:27.029Z
+updated: 2024-12-06T17:37:00.800Z
 tags:
   - windows10
   - windows11
@@ -24,18 +24,6 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 ![TimeStamp Changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/timestamp-changer-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  TimeStamp Changer is a lightweight and easy-to-use app with a minimalist user interface. To use the tool, navigate to the**File** tab and click**Add** . From there, select either the**File** or**Folder** option. Alternatively, you can add your files by dragging and dropping them onto the tool.
 
  Once you’ve uploaded a relevant file, you can change its created/modified date and time at the bottom part of the screen. If you want to set the current date and time, click the**Now** button. When you’re done, press the**Change** button to save the changes.
@@ -47,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 **Download** : TimeStamp Changer for[Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. BulkFileChanger
 
 ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
@@ -66,15 +52,13 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Attribute Changer is a bit different from the other tools, but it’s a bit convenient. It allows you to change the date and time of your files through File Explorer’s context menu.
 
@@ -85,21 +69,13 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
  Before you edit your files with this tool, you’ll have to configure a few settings first. To get started, open the NewFile Time app and click the**Add the files via drag & drop** drop-down menu. By default, the "Add Files" and "Add Folders" options will be selected. If you want to include subfolders, tick the**Include Subfolder** option.
@@ -110,15 +86,13 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 **Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. AttributeMagic
 
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
@@ -128,12 +102,6 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. File & Folder Tools
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
@@ -150,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
  To get started, open Bulk Rename Utility and click the**File** icon in the top-right corner (below the “AB” logo).
@@ -160,28 +132,14 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 **Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
  To use this tool, drag and drop a file onto the middle pane of Advanced Renamer. Next, click the**Add method** button in the top-left corner of the screen and select the**Timestamp** option.
@@ -196,14 +154,11 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
  And while you’re at it, be sure to explore other cool tricks, like how to delete files older than a certain number of days.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,4 +167,20 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/oost-creativity-with-free-audio-effects-online-in-2024/"><u>[New] Boost Creativity with Free Audio Effects Online, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-10-pro-ways-to-upgrade-your-twitch-broadcast-experience-for-2024/"><u>[Updated] 10 Pro Ways to Upgrade Your Twitch Broadcast Experience for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhancing-igtv-with-translation-captions/"><u>2024 Approved Enhancing IGTV with Translation Captions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-sources-for-downloading-movie-audio-tracks-guidelines-and-options/"><u>Best Sources for Downloading Movie Audio Tracks – Guidelines & Options</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-optimal-icon-sizes-in-win-11/"><u>Ensuring Optimal Icon Sizes in Win 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-tracking-visual-storytelling-with-google-collages-for-2024/"><u>Fast-Tracking Visual Storytelling with Google Collages for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/jumpstart-your-fandom-top-10-music-videos-on-facebook-unveiled-for-2024/"><u>Jumpstart Your Fandom Top 10 Music Videos on Facebook Unveiled for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x80070141-and-device-disconnection/"><u>Mastering Windows' Error Code 0X80070141 and Device Disconnection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ottimizza-la-tua-produzione-videografica-con-intelligenza-artificiale-winxvideo/"><u>Ottimizza La Tua Produzione Videografica Con Intelligenza Artificiale WinXVideo</u></a></li>
+<li><a href="https://win11.techidaily.com/running-on-windows-10-after-skipping-11-upgrade/"><u>Running On Windows 10 After Skipping 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winscan-failures-in-geforce-experience/"><u>Troubleshooting WinScan Failures in GeForce Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-cream-of-the-crop-5-top-reaction-video-creators/"><u>Updated In 2024, The Cream of the Crop 5 Top Reaction Video Creators</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210324577-9780645173611-waking-wisdom/"><u>WAKING WISDOM | Free Book</u></a></li>
+</ul></div>
 

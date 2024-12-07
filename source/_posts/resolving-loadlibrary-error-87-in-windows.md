@@ -1,7 +1,7 @@
 ---
 title: Resolving LoadLibrary Error 87 in Windows
-date: 2024-09-05T08:33:50.781Z
-updated: 2024-09-06T08:33:50.781Z
+date: 2024-11-29T18:53:52.758Z
+updated: 2024-12-06T16:37:37.871Z
 tags:
   - windows10
   - windows11
@@ -30,17 +30,15 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 
  If the error persists, disconnect your external displays connected to your system via HDMI or DisplayPort. Then, perform a restart and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the Graphics Device Driver
 
  If you have a fresh Windows install or using a new system, your computer may be missing the necessary driver for the display adapter. This may cause your display adapter to malfunction and stop working.
 
  To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Perform a Driver Roll Back
 
@@ -52,18 +50,6 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 
 ![uninstall display adapter device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-display-adapter-device.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Corrupt display adapter drivers can also trigger "LoadLibrary failed with error 87". To fix the issue, you can uninstall the display driver from Device Manager and then perform a reinstall.
 
 To uninstall a display adapter driver:
@@ -82,17 +68,9 @@ To uninstall a display adapter driver:
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you use an old AMD ATI graphics card, you can fix the error by renaming the atig6pxx.dll file in the System32 folder. It is a graphic drivers module, and issues with it can prevent 3D apps and games on your system from working.
 
  To rename the file, you’ll need administrator privilege. Log in with an administrator account and follow these steps.
@@ -120,27 +98,13 @@ attrib -r -s atig6pxx.dll`
 7. If all the commands are successfully executed, you can rename the atig6pxx.dll file without the permission error.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Repair Windows Image with DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Corrupt system files are another cause that can trigger the LoadLibrary failed error. Fortunately, Windows comes with a built-in system image repair tool to repair the system image.
 
 To run the DISM command-line tool to repair the system image:
@@ -153,9 +117,17 @@ To run the DISM command-line tool to repair the system image:
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 5. This process may take several minutes. Restart your PC after the process is complete, and check for any improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the App
 
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-apps-windows-11-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the error occurs when you launch a specific app, it may be an app-specific conflict triggering the error. To determine the cause, uninstall and install the latest version available.
 
@@ -167,12 +139,6 @@ To uninstall the app:
 4. Search for the app and click the**three-dots menu** beside the app name.
 5. Click**Uninstall** and then click**Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the LoadLibrary Failed With Error 87 on Windows
 
  This error is often triggered due to incompatible or outdated graphics drivers. You can update or reinstall the drivers to fix the issue. Renaming the specified DLL file is another common solution. But any issues with the system image will require repairing the Windows image using the DISM command-line utility.
@@ -183,8 +149,6 @@ To uninstall the app:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +156,20 @@ To uninstall the app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-through-iphone-screen-saving-fast/"><u>[New] Navigate Through iPhone Screen Saving Fast</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-simplified-speech-to-text-integration-into-visual-content/"><u>[New] Simplified Speech-to-Text Integration Into Visual Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-livestream-excellence-unveiling-the-best-practices-for-facebook-recorders/"><u>[Updated] In 2024, Livestream Excellence Unveiling the Best Practices for Facebook Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-royalty-free-sounds-for-youtube-clips/"><u>[Updated] Navigating Royalty-Free Sounds for YouTube Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-noir-effects-in-adobe-premiere/"><u>2024 Approved Noir Effects in Adobe Premiere</u></a></li>
+<li><a href="https://win11.techidaily.com/control-data-cost-monitoring-on-your-wi-fi-network-with-win11/"><u>Control Data Cost Monitoring on Your Wi-Fi Network with Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-english-accents-from-british-to-aussie/"><u>Exploring English Accents: From British To Aussie</u></a></li>
+<li><a href="https://win11.techidaily.com/geforce-scan-woes-on-windows-try-these-fixes-now/"><u>GeForce Scan Woes on Windows? Try These Fixes Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/guide-saving-pptx-images-as-pdf-from-word/"><u>Guide: Saving PPTX Images as PDF From Word</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c51-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C51 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximize-creativity-with-top-10-cost-free-photo-editors-online-for-2024/"><u>Maximize Creativity with Top 10 Cost-Free Photo Editors Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-configuration-in-nvidias-windows-software/"><u>Restoring Lost Configuration in NVIDIA's Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/show-and-tell-accessible-features-in-win11/"><u>Show and Tell: Accessible Features in Win11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Journey Into the New Era: Evolution of File Explorer on Windows 11"
-date: 2024-09-05T08:36:16.574Z
-updated: 2024-09-06T08:36:16.574Z
+date: 2024-11-30T04:41:59.072Z
+updated: 2024-12-07T02:15:22.524Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Home Section
 
  The File Explorer app has a new home section that replaces the Quick Access option in the Navigation pane. When you click on it, you will see three areas.
@@ -37,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
  The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. A New Side Pane
 
  File Explorer’s side pane has a design refresh with a new details pane and some settings to organize all the options in the Navigation pane neatly. You can switch to the compact view to accommodate more items in the Navigation pane.
@@ -51,19 +43,15 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. File Explorer Tabs
 
  Tabs are great in any application with multiple files or folder locations. The File Explorer in Windows 11 and its predecessors lacked this feature, forcing users to create multiple windows to manage files in various locations. Microsoft eventually fixed this, making the overall app experience much better.
@@ -78,23 +66,15 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -104,20 +84,12 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 ![Microsoft 365 Products Integration in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/microsoft-365-products-integration-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Built-In File Archive Support
 
 ![RAR Archive Support in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rar-archive-support-in-file-explorer.jpg)
@@ -130,11 +102,29 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2023s-comprehensive-guide-to-ios-device-screen-capture-for-2024/"><u>[New] 2023'S Comprehensive Guide to iOS Device Screen Capture for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-game-capture-in-the-latest-windows-11/"><u>[New] Navigating Game Capture in the Latest Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>[Updated] 2024 Approved DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chuckle-champions-twitters-comedy-corner/"><u>[Updated] In 2024, Chuckle-Champions Twitter’s Comedy Corner</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-strategy-for-bio-linking-on-tiktok-for-2024/"><u>[Updated] Ultimate Strategy for Bio Linking on TikTok for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-intuitive-steps-setting-up-snapchat-macos-style/"><u>2024 Approved Intuitive Steps Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-process-converting-youtube-clips-into-playful-gifs/"><u>2024 Approved Step-By-Step Process Converting YouTube Clips Into Playful GIFs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210964185-9781088222881-al-otro-lado-del-espejo/"><u>Al Otro lado del Espejo | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty-your-gateway-to-seamless-contact/"><u>Digiarty - Your Gateway to Seamless Contact</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-lost-game-content-in-steam-win11-edition/"><u>How to Recover Lost Game Content in Steam, Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-partition-merging-windows-techniques/"><u>Mastering Partition Merging: Windows Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-resolving-the-disk-unknown-not-init-problem/"><u>Navigating and Resolving the Disk Unknown Not Init Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-wow-failure-code-132-repair-steps/"><u>Navigating Windows WoW Failure Code 132 Repair Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-discord-experience-windows-edition/"><u>Streamlining Your Discord Experience: Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windowed-discords-hindered-search-feature/"><u>Unblocking Windowed Discord's Hindered Search Feature</u></a></li>
+</ul></div>
+

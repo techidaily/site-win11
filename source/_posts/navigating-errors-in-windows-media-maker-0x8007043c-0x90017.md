@@ -1,7 +1,7 @@
 ---
 title: "Navigating Errors in Windows' Media Maker: 0X8007043C, 0X90017"
-date: 2024-11-21T04:17:21.610Z
-updated: 2024-11-27T23:11:51.845Z
+date: 2024-12-02T21:07:17.208Z
+updated: 2024-12-07T07:39:45.550Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,11 @@ To run Media Creation Tool as administrator:
 3. Click**Yes** when prompted by UAC. Wait for the tool to launch and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unblock the Media Creation Tool
@@ -52,8 +56,17 @@ To run Media Creation Tool as administrator:
 4. Next, check the**Unblock** option.  
 ![unblock media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unblock-media-creation-tool.jpg)
 5. Click**Apply** , and the security option will disappear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click**OK** to apply the changes.
 7. Run the Media Creation Tool again, and it should work without the 0x8007043C - 0x90017 error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install Any Pending Windows Updates
 
@@ -67,6 +80,10 @@ To update your Windows computer:
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 4. If available, click on**Download & Install** and wait for the updates to install. Restart your PC and run the tool again to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Update Troubleshooter
 
  The built-in Windows Update troubleshooter is a great way to fix Windows Update issues on Windows 11\. It will scan the system for issues and try to fix them automatically.
@@ -78,10 +95,6 @@ To run the Windows Update Troubleshooter:
 ![Windows 11 settings troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot.jpg)
 3. Next, click on**Other troubleshooters.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows-11-settings-troubleshoot-other-troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-troubleshoot-other-troubleshooters.jpg)
 4. Under the**Most frequent** section, click the**Run** button for**Windows Update.**  
 ![windows update troubleshooter run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-run.jpg)
@@ -89,19 +102,11 @@ To run the Windows Update Troubleshooter:
 6. If not, click**No** in the Windows Update troubleshooter dialog.
 7. Next, click on**View detailed** information. Here you can view the issues found and potential issues that were checked.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check for a Third-Party Antivirus Conflict
 
  Third-party antivirus can be overzealous and block genuine system modifications as malicious. You can disable the security app temporarily to determine if your third-party antivirus is triggering the error.
 
  Once disabled, relaunch the Media Creation Tool and check if the error persists. If not, check and reconfigure your antivirus settings or switch to one of the[best antivirus solutions on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run the DISM and System File Checker Tool
 
@@ -118,24 +123,20 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 4. ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dism-scan-health-restore-health-command-prompt.jpg)  
  Press**Enter** to execute the command. It may take some time for the process to complete. Once the process reaches 100%, you can run the System File Checker tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Type the following command and press**Enter** to run the System File Checker utility:  
 sfc /scannow
 6. The verification can take several minutes. So wait for the verification to reach 100%. The return will indicate if any issue is found and if the tool was able to fix it.
 7. Type**exit** and press**Enter** to close the Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use Rufus to Create a Bootable USB Drive
 
  While Media Creation Tools lets you create a bootable drive, it is not your only option. You can use a popular third-party app, Rufus, to[create a bootable Windows USB drive](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) . You can[download a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) from the Microsoft servers and then use it to create an installation media using Rufus.
 
  Rufus is safe to use and offers some customization, such as choosing a partition format. You can also download the ISO file using Rufus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Perform a Repair Reinstall or Clean Install Windows
 
@@ -162,24 +163,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-palette-primer-compreenasive-guide-to-coloring-for-2024/"><u>[New] The Palette Primer Compreenasive Guide to Coloring for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-popularitys-palette-ig-story-filter-guide/"><u>[Updated] 2024 Approved Popularity's Palette IG Story Filter Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-cropping-and-styling-tips-for-standout-instagram-videos/"><u>[Updated] Cropping and Styling Tips for Standout Instagram Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[Updated] In 2024, From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://win11.techidaily.com/de-jam-your-devices-top-9-solutions-for-unstuck-windows-setup/"><u>De-Jam Your Devices: Top 9 Solutions for Unstuck Windows Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-virtual-battles-why-windows-reigns-supreme/"><u>Elevating Virtual Battles: Why Windows Reigns Supreme</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-11-installer-issues-effectively/"><u>Fixing Windows 11 Installer Issues Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-intellij-unison-back-up-and-running-on-win11/"><u>How to Get IntelliJ Unison Back Up & Running on Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y78 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-desktops-come-alive-with-sketches/"><u>Making Desktops Come Alive with Sketches</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-remedy-for-error-code-0x80071a90/"><u>Mastering the Remedy for Error Code: 0X80071A90</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-blue-screen-interrupt-exception-fix/"><u>Overcoming Blue Screen: Interrupt Exception Fix</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp/"><u>Seamless Transfer of Social Media Videos From Twitter to WhatsApp</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-correct-opengl-error-3-in-nvidia-gpus-win1011/"><u>Strategies to Correct OpenGL Error 3 in Nvidia GPUs (Win10/11)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-xiaomi-redmi-k70e-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 11 Pro 5G Device</u></a></li>
-<li><a href="https://win11.techidaily.com/win-back-missing-windows-top-tips-for-offscreen-recovery-in-windows-11/"><u>Win Back Missing Windows: Top Tips for Offscreen Recovery in Windows 11</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1728498455515-windows-serverwbadmin/"><u>Windows ServerでWbadminツールを利用した効率的なバックアップ方法</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-teammers-your-screens-puzzle/"><u>Windows Teammers, Your Screen's Puzzle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-tailor-made-tunes-for-chrome-companions/"><u>[New] Tailor-Made Tunes for Chrome Companions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-innovative-brainstroming-techniques-for-channels-names/"><u>[Updated] 2024 Approved Innovative Brainstroming Techniques for Channels' Names</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>[Updated] Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-convertir-archivos-de-aac-a-avi-gratis-con-movavi-online/"><u>Cómo Convertir Archivos De AAC a AVI Gratis Con Movavi Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-users-the-key-to-efficient-mouseclicklock/"><u>Empower Users: The Key to Efficient MouseClickLock</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-sj4000-owners-guide-to-stylish-and-practical-gear/"><u>In 2024, SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs/"><u>In 2024, Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discords-javascript-crash-on-win-11-a-step-by-step-guide/"><u>Overcoming Discord's JavaScript Crash on Win 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011-stop-try-connecting-bluetooth-error/"><u>Overcoming Windows 10/11: Stop 'Try Connecting' Bluetooth Error</u></a></li>
+<li><a href="https://win-help.techidaily.com/playing-spotify-streams-with-jetaudio-a-simple-guide/"><u>Playing Spotify Streams with JetAudio - A Simple Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-revive-stuck-grammarly-feature-windows-wise/"><u>Solutions to Revive Stuck Grammarly Feature Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-win11s-empty-directory-alert-error-code-0x80070091/"><u>Solving Win11's Empty Directory Alert (Error Code: 0X80070091)</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-connect-to-devices-via-win-11s-rdc/"><u>Swiftly Connect to Devices via Win 11'S RDC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-your-mordhau-crash-issues-with-these-tips/"><u>Troubleshoot and Resolve Your Mordhau Crash Issues with These Tips</u></a></li>
 </ul></div>
 

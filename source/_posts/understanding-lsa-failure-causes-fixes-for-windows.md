@@ -1,7 +1,7 @@
 ---
 title: Understanding LSA Failure Causes, Fixes for Windows
-date: 2024-11-24T16:07:13.348Z
-updated: 2024-11-27T17:13:53.336Z
+date: 2024-12-04T23:22:39.907Z
+updated: 2024-12-06T19:51:34.142Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes the LSA Protection Error?
 
  The exact cause of the “this change requires you to restart your device” error can vary, but it may be due to corrupted system files or malware infections. Malware can install malicious services and components that interfere with Windows' smooth functioning, including disabling Local Security Authority (LSA) protection. It can also occur if antivirus software incorrectly removes system files and causes instability.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -52,7 +52,15 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change the Group Policy Settings
 
@@ -69,22 +77,14 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After making the above changes, restart your computer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
@@ -100,6 +100,11 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 5. In the right pane, double-click on **RunAsPPL** to open Edit DWORD (32-bit) Value.  
 ![Change RunAsPPL regsitry values](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-runasppl-regsitry-values.jpg)
 6. Change the Value data from 0 to **2** and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
  If you don't find the **RunAsPPL** and **RunAsPPLBoot** keys in the LSA folder, you'll need to create them manually. To do this, right-click on the LSA folder and select **New > DWORD (32-bit) Value**. Name the new value **RunAsPPL** and set its value to 2\. Then repeat this process for the **RunAsPPLBoot** key.
 
@@ -120,10 +125,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
@@ -136,27 +137,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-fb-success-with-professional-360-video-tips/"><u>[New] 2024 Approved Unlock FB Success with Professional 360 Video Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-advanced-tips-for-minecraft-gaming-streams/"><u>[Updated] 2024 Approved Advanced Tips for Minecraft Gaming Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/iuwlleeuuplusoajowtlplusw5leocqoocrplusocueodneodvoodiooajeobqplusobpuwtlplusw5leakvewhuus4jewprzrljplm6djgplop6poqqwi/"><u>動画「字幕エクスポート」にて字幕抽出不可:原因を解説</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-techniques-for-masking-your-appearance-on-camera/"><u>Effortless Techniques for Masking Your Appearance on Camera</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-properly-storing-your-dvd-collection/"><u>Essential Tips for Properly Storing Your DVD Collection</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-troubleshooting-tips-getting-snapchat-video-streams-back-on-track/"><u>Essential Troubleshooting Tips: Getting Snapchat Video Streams Back On Track!</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-for-streaming-and-viewing-dvds-on-an-hp-laptop-a-comprehensive-guide/"><u>Expert Advice for Streaming & Viewing DVDs on an HP Laptop - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-leading-non-winx-solutions-for-seamless-dvd-ripping-and-conversion/"><u>Exploring the Leading Non-WinX Solutions for Seamless DVD Ripping and Conversion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-comprehensive-tech-reviews-and-gadget-tips/"><u>Exploring Tom's Comprehensive Tech Reviews & Gadget Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-your-videos-to-edit-mode-using-gpu-boosted-techniques/"><u>Fast-Track Your Videos to Edit Mode Using GPU-Boosted Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-failed-to-reset-pc-error-on-windows-10-a-step-by-step-guide/"><u>How to Overcome 'Failed to Reset PC' Error on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-motion-graphics-101-key-principles-and-methods/"><u>In 2024, Motion Graphics 101 Key Principles & Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/iosiphone/"><u>IOS上で静寂な映像体験を実現するiPhoneの音量操作法</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-snapchat-expressions-understanding-emoji-meanings-inside-out/"><u>Mastering Snapchat Expressions: Understanding Emoji Meanings Inside Out</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/oming-non-displayed-thumbnails-youtube-shorts-guide/"><u>Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782115-9781620553220-the-path-to-the-guru/"><u>The Path to the Guru | Free Book</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -164,3 +144,22 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-efficient-techniques-for-capturing-google-voice-calls-for-2024/"><u>[New] Efficient Techniques for Capturing Google Voice Calls for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-skyrocketing-youtube-views-strategies-to-dodge-bots/"><u>[Updated] In 2024, Skyrocketing YouTube Views Strategies to Dodge Bots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-ultimate-guide-how-to-combine-mp3s-efficiently-on-windows-11/"><u>1. Ultimate Guide: How to Combine MP3s Efficiently on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-achieve-seamless-video-playback-by-removing-bars-in-youtube/"><u>2024 Approved Achieve Seamless Video Playback by Removing Bars in YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-ai-potential-for-ultimate-user-experience-at-ms-store/"><u>Harnessing AI Potential for Ultimate User Experience at MS Store</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-best-practice-manual-for-text-on-picture-edits/"><u>In 2024, The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-printer-access-within-application-guards-secure-environment/"><u>Initiating Printer Access Within Application Guard's Secure Environment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-12-proplus-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-of-the-best-top-rated-2d-animation-software-free-trials-and-paid-plans/"><u>New 2024 Approved The Best of the Best Top-Rated 2D Animation Software Free Trials & Paid Plans</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-recovery-from-crushing-windows-c0000022-error/"><u>Steps to Recovery From Crushing Window's C0000022 Error</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125700-9781609256432-the-everyday-psychic/"><u>The Everyday Psychic | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-grouping-files-into-windows-11-directories/"><u>The Ultimate Guide to Grouping Files Into Windows 11 Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-unblocking-screen-settings-on-pcs/"><u>The Ultimate Guide to Unblocking Screen Settings on PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+</ul></div>
+

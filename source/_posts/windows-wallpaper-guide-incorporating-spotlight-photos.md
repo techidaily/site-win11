@@ -1,7 +1,7 @@
 ---
 title: "Windows Wallpaper Guide: Incorporating Spotlight Photos"
-date: 2024-09-05T08:37:20.880Z
-updated: 2024-09-06T08:37:20.880Z
+date: 2024-12-04T04:26:28.193Z
+updated: 2024-12-06T17:18:44.005Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Windows Wallscapes,Spotlight Images,Personalized Backgrounds,Photowall
 thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f44d3a38cfaa7537d0961fac.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Wallpaper Guide: Incorporating Spotlight Photos
 
  Windows Spotlight delivers spectacular images on your lock screen and desktop every day—and they usually make for amazing wallpapers. However, you have no control over what images Windows Spotlight will display or when it will show them.
@@ -35,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  To learn more about a Spotlight desktop image on Windows 11, right-click the desktop **camera** icon and click **Open**. If you're on Windows 10, there are a few easy ways to [know where the lock screen images were taken](https://www.makeuseof.com/tag/windows-10-lock-screen-photos-taken/).
 
 ![Windows Spotlight Desktop Picture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-spotlight-desktop-picture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And though it's easy to switch to a new Spotlight picture if you don't like the one displayed, your chosen image will change to a new one in a day or two—that's how Windows Spotlight works.
 
@@ -57,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  In this Assets folder, you'll probably see white thumbnails with long file names made of numbers and letters. These are not only the Spotlight images but also smaller image files and some that are not even images. So it's better if you sort them out first.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Sort and Save Only the Spotlight Images
 
  Sorting images in the Assets folder will make copying and saving only the Windows Spotlight images easier. Here's how:
@@ -71,25 +63,27 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 2. Select **More** and then **Size**.  
 ![Sort Windows Spotlight Image Files By Size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sort-spotlight-images-by-size.jpg)
 3. The files will get sorted in ascending order. Change to descending order by clicking on **Size**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You can copy all the files into the Assets folder. However, it will be easier if you select files that are over 300 kb—anything smaller will not be a Spotlight image.
 5. Now right-click the selected files in the **Assets** folder and select the **Copy** option. When copying the files, you might get a warning message that these might be harmful to your computer. It's because these files are from a System folder and have no extension. Click **OK** to continue copying.  
 ![Copy Windows Spotlight Files from Assets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-spotlight-files-from-assets.jpg)
 6. Create a folder on your PC from where you can easily access Windows Spotlight images to use as wallpapers. Name the folder **Windows Spotlight** or whatever you like.  
-![Save Assets Files in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-assets-files-in-windows-spotlight-folder.jpg)
-7. Right-click inside the folder you just made and select the **Paste** option or use the shortcut **Ctrl + V** to save the chosen Spotlight images from the **Assets** folder.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Save Assets Files in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/save-assets-files-in-windows-spotlight-folder.jpg)
+7. Right-click inside the folder you just made and select the **Paste** option or use the shortcut **Ctrl + V** to save the chosen Spotlight images from the **Assets** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Convert Spotlight Images to Picture Files
 
  Windows Spotlight images are now saved on your PC. However, you can't use them or even see what each image file looks like as they do not have any extensions.
@@ -97,11 +91,9 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  So you'll need to give them an image file extension and convert them to JPG image files. You can do that one by one. Add the **.jpg** extension after the long file name. It will get converted to a jpg file. You can then double-click the file to open and view it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Rename Files En-Masse on Windows 11
 
  However, instead of converting one file at a time, take the easy and speedy way and convert all of them to .jpg files. If you're on Windows 11, here's how. But if you're on Windows 10, scroll down to the next section.
@@ -112,28 +104,14 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 3. Press enter and exit Windows PowerShell.  
 ![Enter Command in PowerShell to Add.jpg Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-to-add-jpg-extension.jpg)
 4. Now check the Windows Spotlight folder. You will see that all the files have been converted to JPG image files.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Spotlight Assets Files Converted to JPG Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/assets-files-converted-to-jpg.jpg)
 5. You can now view their thumbnails by clicking **View > Extra Large Icons** or **Large Icons**.  
 ![Windows Spotlight Folder With Image Thumbnails](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-spotlight-image-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Rename Files En-Masse on Windows 10
 
  If you're on Windows 10, you can still rename the Windows Spotlight files and convert them to .jpg files as a batch. Here's how.
@@ -141,27 +119,13 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 1. Hold the **Shift** key on your keyboard and right-click a space inside the Windows Spotlight folder. From the menu, select **Open PowerShell window here**.  
 ![Open PowerShell Window Here Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-powershell-window-here-option.jpg)
 2. In PowerShell, type **cmd** and press **enter**.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the following line, type **ren \* \*.jpg** and hit **enter**. This command will convert all the files in the folder to JPG files.  
 ![Convert Files to JPG with Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enter-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you've converted all the files to .jpg, you can view the picture thumbnails in the folder.
 
 ![View Image Thumbnails in Windows Spotlight Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-image-thumbnails-in-windows-spotlight-folder.jpg)
@@ -170,26 +134,17 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  Plus, there will be vertical images in 1080 x 1920 dimensions—you can use these as cool wallpapers on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Awesome Wallpapers Whenever You Want
 
  Undoubtedly, Windows Spotlight comprises some of the most stunning images. Plus, there is a new one added almost every day. And now that you have learned how to save them, use the ones you like to deck up your Windows PC and enjoy the view.
 
  You can also explore some cool ways to give a new look and feel to your Windows 10 desktop.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,4 +153,26 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-your-next-travel-companion-best-youtubers-list/"><u>[New] 2024 Approved Your Next Travel Companion Best Youtubers' List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-instagram-game-scouting-the-8-top-post-schedulers-for-2024/"><u>[New] Elevate Your Instagram Game Scouting the 8 Top Post Schedulers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-spotlight-on-premium-360cameras-for-professionals/"><u>[Updated] Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlining-the-recording-process-in-virtual-gatherings/"><u>2024 Approved Streamlining the Recording Process in Virtual Gatherings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unpacking-the-dji-phantom-3-standard-features/"><u>2024 Approved Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11s-system32-directory/"><u>Delving Into Windows 11'S System32 Directory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-your-favorite-songs-at-no-cost-high-definition-mp4-videos-with-ultra-hd-options/"><u>Download Your Favorite Songs at No Cost - High-Definition MP4 Videos with Ultra HD Options!</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-focus-positioning-reminders-on-windows-desktop/"><u>Enhance Focus: Positioning Reminders on Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-windows-11-not-compatible-system-message/"><u>Essential Fixes for Windows 11 Not Compatible System Message</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-erase-error-0xc0f1103f-from-geforce-now-in-win-1011/"><u>How to Erase Error 0Xc0f1103f From GeForce Now in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-your-it-administrator-has-limited-access-windows-security-error/"><u>How to Fix the “Your IT Administrator Has Limited Access” Windows Security Error</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategy-for-integrating-linktree-in-tiktok-profiles/"><u>In 2024, Optimal Strategy for Integrating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-edge-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Edge 2023? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-lengthening-restart-window-on-still-running-tasks/"><u>Methods for Lengthening Restart Window on Still-Running Tasks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avidemux-essentials-how-to-crop-cut-and-enhance-your-videos-for-2024/"><u>New Avidemux Essentials How to Crop, Cut, and Enhance Your Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-code-0x800700e1-issue-on-windows-11-pcs/"><u>Resolving Code 0X800700E1 Issue on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/sniping-in-the-spotlight-prtsc-vs-snipping-tool-analysis/"><u>Sniping in the Spotlight: PrtSc Vs. Snipping Tool Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-lagginess-in-winoutlook-effortlessly/"><u>Tackle Lagginess in WinOutlook, Effortlessly!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-idevice-jokes-creative-ways-to-prank-using-an-iphone-or-ipad/"><u>Top iDevice Jokes: Creative Ways to Prank Using an iPhone or iPad</u></a></li>
+</ul></div>
 

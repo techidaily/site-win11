@@ -1,7 +1,7 @@
 ---
 title: "Unboxing: The Essence of Windows 11 Tiny"
-date: 2024-11-25T02:44:27.320Z
-updated: 2024-11-27T21:58:18.256Z
+date: 2024-11-30T03:11:42.636Z
+updated: 2024-12-06T22:13:03.824Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,11 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
  NTDEV released its version of Windows 11 named Tiny11 in February 2023 which works like a normal Windows 11 installation. It is a freely available ISO image file that you can download and use on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can You Run It on Any Old PC?
 
  Yes. It is possible to run Tiny11 on an old PC. But remember that this is a lightweight version of Windows 11 that can run with 2 GB RAM and 8 GB storage space. Someone even managed to run Tiny11 with 256 MB RAM, but the OS was barely usable. But as your install updates and apps, you will need a little bit more hardware resources to smoothly run this version of Windows 11.
 
  If you have an old desktop or laptop with 2-4 GB RAM and 32-64 GB storage, you can run Tiny 11 without any issues. Moreover, you don't need to worry about using a system with TPM 2.0 and Secure Boot because Tiny11 bypasses both these stern requirements before installation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Tiny11
 
@@ -58,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 ![Tiny11 Internet Archive Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/tiny11-internet-archive-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, the download speed is excruciatingly slow and if you use a torrent client, you can use the magnet URL and download the ISO file much faster. In addition, you can even use software hosting websites like FileHippo. After you download the Tiny11 ISO image file, you need to create a bootable USB drive to install the operating system on any computer.
 
  Rufus offers the most convenient method to[create a Windows 11 USB installation media](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) in a few minutes. After that, eject the device from your system and insert it into the target computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Installing Tiny11
 
@@ -74,12 +70,13 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 3. Windows Installer will launch. Select the appropriate region, keyboard layout, and time and language format, and click on the**Next** button.  
 ![Select Language and Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-language-and-region.jpg)
 4. Accept the EULA by clicking on the checkbox at the bottom of the page, and then click on**Next** .
-5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
-![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the drive for Windows 11 installation and click on the**Format** option to wipe the drive. Then click on the**Next** button.  
+![Selecting Drive for Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/selecting-drive-for-tiny11.jpg)
 
 1. Windows installation will begin instantly. If the system has an HDD drive, the installation will take a while. Your computer will restart a few times during the installation process.
 2. Select your country or region and click on the**Yes** button. Then, pick your preferred keyboard layout and click on the**Yes** button. Click on the**Skip** button when the setup asks for selecting a second keyboard layout.
@@ -87,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 ![Installing Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-windows-11.jpg)
 4. Type in your device name and enter a password for the same. Click on the**Next** button and re-enter your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. After that, select any three security questions, type in their corresponding answers, and click on the**Next** button.
 6. On the Privacy settings for your device page,**uncheck** all the options and click on the**Next** button.
 
 ![Windows 11 by Tiny11 in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-by-tiny11-in-action.jpg)
 
  The setup will prepare your device for the first boot. It will boot to the desktop after a while. Now, your lightweight Windows 11 system is ready for use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tiny11: The Good Points
 
@@ -111,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 ![Web browsing experience in Tiny11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/web-browsing-experience-in-tiny11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Glaring Concerns With Tiny11
@@ -119,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
  Well, this isn’t an official/Microsoft-approved release. Tiny11 is a personal project at the moment which delivers surprisingly well on its claims. But should you install a tweaked ISO file on your primary system?
 
  Well, no. As fun as it sounds, this is clearly a fun experiment that you can do on an old computer (just to revive it). However, if you are willing to ignore these concerns, you can[install Windows 11 on a system with unsupported hardware](https://www.makeuseof.com/windows-11-hardware-requirements-shouldnt-bypass/) and run it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try a Lightweight Build of Windows 11
 
@@ -139,18 +140,18 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-chats-complete-fbm-conversation-history-for-2024/"><u>[New] Capturing Chats Complete FBM Conversation History for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization-for-2024/"><u>[New] Mastering the Social Media Lands Point 10 Secrets for FB Optimization for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-refining-your-craft-making-youtube-friendly-videos-for-2024/"><u>[New] Refining Your Craft Making YouTube-Friendly Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-typhoon-h-unveiled-yuneecs-aerial-marvel/"><u>[New] Typhoon H Unveiled Yuneec's Aerial Marvel</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-battle-of-broadcasting-go-live-with-obstwitch/"><u>[Updated] In 2024, Battle of Broadcasting Go Live with OBS/Twitch</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-our-top-picks-for-free-typing-instruction-suitable-for-all-ages/"><u>Discover Our Top Picks for Free Typing Instruction - Suitable for All Ages!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-google-pixel-7a-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Google Pixel 7a Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-the-speedy-assistance-mechanism-in-w11/"><u>Launching the Speedy Assistance Mechanism in W11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-and-monitor-your-online-presence-with-advanced-tools-from-cookiebot/"><u>Optimize and Monitor Your Online Presence with Advanced Tools From Cookiebot</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-black-window-after-system-ignition/"><u>Remedying Black Window After System Ignition</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pcs-full-potential-in-games-the-win-11-master-plan-of-7-actions/"><u>Unlock Your PC's Full Potential in Games: The Win 11 Master Plan of 7 Actions</u></a></li>
-<li><a href="https://win11.techidaily.com/unwrapping-solutions-the-ultimate-guide-to-fixing-e84-in-steam/"><u>Unwrapping Solutions: The Ultimate Guide to Fixing E84 in Steam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-downloaders-unveiled-top-8-of-2023/"><u>[New] 2024 Approved Innovative Downloaders Unveiled Top 8 of 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-video-communication-platforms-for-modern-tech/"><u>[New] Prime Video Communication Platforms for Modern Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-capturing-stunning-time-lapses-on-galaxys/"><u>[New] The Ultimate Guide to Capturing Stunning Time-Lapses on Galaxys</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-your-gaming-channel-on-youtube/"><u>[Updated] Crafting Your Gaming Channel on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-spreadsheets-excels-edge-in-calculations-vs-conversation/"><u>Advanced Spreadsheets: Excel’s Edge in Calculations Vs. Conversation</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-images-in-win-11-with-these-six-key-adjustment-steps/"><u>Fine-Tune Images in Win 11 with These Six Key Adjustment Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-unregistered-photos-package-issue-in-windows-os/"><u>Fixing the Unregistered Photos Package Issue in Windows OS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-image-editor-convert-your-webp-files-to-bmp-without-charge/"><u>Movavi Image Editor - Convert Your WebP Files to BMP Without Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-sonics-crashes-fix-fullscreen-fails-on-windows-11/"><u>Navigating the Maze of Sonic's Crashes: Fix Fullscreen Fails on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-and-productivity-top-8-window-pomodoro-timers-reviewed/"><u>Precision and Productivity: Top 8 Window Pomodoro Timers Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-overscan-for-perfect-window-placement-on-windows/"><u>Resolving Overscan for Perfect Window Placement on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725284569886-windows-11/"><u>Windows 11導入講座: 無料アップデート方法を含むスマートテクノロジー紹介</u></a></li>
+<li><a href="https://win11.techidaily.com/your-new-pcs-best-friend-10-indispensable-windows-apps/"><u>Your New PC's Best Friend: 10 Indispensable Windows Apps</u></a></li>
 </ul></div>
 

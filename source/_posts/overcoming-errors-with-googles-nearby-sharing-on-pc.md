@@ -1,7 +1,7 @@
 ---
 title: Overcoming Errors with Google's Nearby Sharing on PC
-date: 2024-09-05T08:34:32.912Z
-updated: 2024-09-06T08:34:32.912Z
+date: 2024-12-05T02:11:39.380Z
+updated: 2024-12-07T07:09:42.657Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Google Nearby Sharing Tips,Fixing Nearby Share Errors,PC Nearby Sharin
 thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3e3ae208c5af8f61bf24deca.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Errors with Google's Nearby Sharing on PC
 
  With Google's new Nearby Share app for Windows, sharing photos, videos, documents, and more between an Android phone and a Windows PC is a breeze. While the app requires minimal setup and offers great transfer speeds, it can sometimes malfunction.
@@ -34,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  If the Nearby Share app is not working even though your PC meets the minimum hardware requirements, continue with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart the Nearby Share App
 
  Nearby Share, like any other app, may have problems from time to time. In most cases, you can fix minor issues or glitches by simply restarting the app on your computer.
@@ -47,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
  Click the **Show more icons arrow** on the taskbar, right-click on the **Nearby Share app** icon, and select **Exit** from the context menu.
 
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Reopen the app after this, and see if you can send and receive files as before.
 
@@ -59,20 +51,16 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Bring Both Devices Closer
 
  Another thing you should ensure is that your Android phone is within **16 feet (5 meters)** of your Windows computer. The proximity of your devices directly impacts the quality of the connection. So, if you are experiencing slow transfer speeds or failed transfers, consider bringing the devices closer and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check the Device Visibility Settings
 
@@ -83,17 +71,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Change the Default Save Location
 
  If you can send files to an Android device but are unable to receive files from it, you can try changing the default save location for received files in the Nearby Share app for Windows.
@@ -108,12 +92,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  After completing the above steps, try to receive files from an Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Enable Notifications for the App
 
  Nearby Share for Windows may not alert you about file transfer requests if you have previously [turned off Windows app notifications](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/). Follow these steps to change that:
@@ -122,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 2. Navigate to **System > Notifications**.
 3. Under **Notifications from apps and other senders**, locate the **Nearby Share from Google** and turn on the toggle next to it.  
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
 
@@ -140,12 +122,6 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 7. Select **Yes** if the User Account Control (UAC) prompt appears, and then follow the on-screen prompts to finish the repair.  
 ![Repair Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-google-nearby-share-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart the Nearby Share app after this and see if it works as expected.
 
 ## 9\. Reinstall the Nearby Share App
@@ -158,28 +134,10 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 4. Follow the on-screen instructions to remove the app.  
 ![Uninstall Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-nearby-share-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you have uninstalled the app, be sure to remove any residual app files from your computer. If you need help with that, you can learn how to [eradicate leftovers from uninstalled software in Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/).
 
  Download Google’s [Nearby Share app](https://android.com/better-together/nearby-share-app/) and install it on your PC. Following that, it should work smoothly on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start Using Google’s Nearby Share App on Windows Again
 
  Google's Nearby Share app simplifies the process of transferring files between Android and Windows devices. Occasionally, the app may give you problems and fail to work properly, but it’s nothing you can’t fix with the tips mentioned above.
@@ -188,11 +146,24 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-revealed-best-8-costless-3d-vids-software-on-pcmac/"><u>[New] Secrets Revealed Best 8 Costless 3D Vids Software on PC/Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-imitate-macos-window-styling-on-your-windows-pc/"><u>Effortlessly Imitate macOS Window Styling on Your Windows PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-y28-5g-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y28 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 Pro or iPad?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/multi-platform-windows-film-editor-clones-for-2024/"><u>Multi-Platform Windows Film Editor Clones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/multidisplay-configuration-tips-for-windows-11-users/"><u>Multidisplay Configuration Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-a-mobile-hotspot-on-your-pc-a-quick-guide-to-win-11/"><u>Setting Up a Mobile Hotspot on Your PC: A Quick Guide to Win 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/sound-symphony-music-within-whatsapp-statuses-for-2024/"><u>Sound Symphony Music Within WhatsApp Statuses for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-for-cooling-your-high-performance-laptop-power-users-cant-do-without-this-accessory-zdnet/"><u>The Ultimate Guide for Cooling Your High-Performance Laptop - Power Users Can't Do Without This Accessory | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-and-11-merging-files-with-ease-and-precision/"><u>Win 10 & 11: Merging Files with Ease and Precision</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Optimizing Microsoft Edge's Steady Backstage in Win11
-date: 2024-09-05T08:33:11.389Z
-updated: 2024-09-06T08:33:11.389Z
+date: 2024-12-02T07:01:50.084Z
+updated: 2024-12-06T21:06:31.405Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Windows 11 Edge Optimization,Steady Backstage Enhancement,Edge Browser
 thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804f026be8d035e08eecc94b3e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimizing Microsoft Edge's Steady Backstage in Win11
 
  If Edge is always runing in the background on Windows, it will use up your device's CPU and negatively impacts its memory, performance, and battery.
@@ -33,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
  Here are simple methods you can undertake to keep Edge from running in the background to improve your device’s performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Change the Power Settings on Edge
 
  The easiest and most effective way to keep Edge from running undetected in the background on Windows 11 is to update its permissions from Settings.
@@ -48,23 +34,13 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 ![changing settings in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Edit the Windows Registry
 
  Another method to prevent Edge from running in the background is to tweak the Registry. Microsoft Edge is set to automatically start background processes at Windows startup. You can[disable processes set to run on startup](https://www.makeuseof.com/windows-pc-too-many-background-processes/) from the Registry.
@@ -82,23 +58,13 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 ![editing registry to disable automatic edge process startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-registry-edge-processes.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Edge Running in the Background to Ensure the Smooth Functioning of Your Device
 
  While Edge running in the background isn’t a major issue, preventing this from happening can go a long way in improving your device’s performance and freeing up its memory. Of course, Edge uses a lot of resources anyway, just like Chrome and Firefox. If you're trying to improve performance, you might consider looking for a light browser that isn't resource-intensive.
@@ -109,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +82,20 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-first-offset-guide-affordable-channel-buys-to-monetize/"><u>[Updated] 2024 Approved First Offset Guide Affordable Channel Buys to Monetize</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone-for-2024/"><u>Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhancing-remote-collaboration-with-ease-mastering-skype-screen-share-capabilities/"><u>Enhancing Remote Collaboration with Ease Mastering Skype Screen-Share Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cultivating-patience-with-youtube-disapproval/"><u>In 2024, Cultivating Patience with YouTube Disapproval</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/income-patterns-in-the-podcast-industry-for-2024/"><u>Income Patterns in the Podcast Industry for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-seas-of-application-and-browser-control/"><u>Navigating the Seas of Application & Browser Control</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-sessions-commanding-project-mastery/"><u>Speed-Up Sessions: Commanding Project Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-accessing-and-watching-your-gopro-log-data-viewer-videos/"><u>Step-by-Step Guide: Accessing & Watching Your GoPro Log Data Viewer Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solution-for-faulty-windows-0x80072af9-fix/"><u>Swift Solution for Faulty Windows: 0X80072AF9 Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/trimming-high-cpu-usage-vanguards-user-mode-service-guide/"><u>Trimming High CPU Usage: Vanguard's User-Mode Service Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/two-methods-for-moving-images-from-your-pc-to-a-flash-drive-on-windows-11/"><u>Two Methods for Moving Images From Your PC to a Flash Drive on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/virtual-groove-hunt-try-this-online-software-for-2024/"><u>Virtual Groove Hunt – Try This Online Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-most-people-stick-with-windows-10-seven-reasons/"><u>Why Most People Stick with Windows 10: Seven Reasons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How (and When) to Use the Ping Command in Windows
-date: 2024-09-05T08:36:08.290Z
-updated: 2024-09-06T08:36:08.290Z
+date: 2024-11-29T17:22:25.248Z
+updated: 2024-12-07T06:29:39.567Z
 tags:
   - windows10
   - windows11
@@ -14,13 +14,11 @@ keywords: WinPing Usage Guide,Ping Basics for PCs,Timestamp Ping Tricks,Network 
 thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f43714543b259bc14c7475306.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How (and When) to Use the Ping Command in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 * [How to Use the Ping Command on Windows](#how-to-use-the-ping-command-on-windows)
 * [What Can the Ping Command Do for You?](#what-can-the-ping-command-do-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The ping command tests the availability of a host by sending data packets and checking for a response from the server.
@@ -50,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Syntax of the Ping Command
 
  The basic syntax of the ping command looks like this:
@@ -77,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
@@ -85,35 +75,25 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Analyzing the Results of the Ping Test
 
  The **Sent** packets (with a default size of 32 bytes each) indicate how many messages were sent from the host device to the remote server. **Received** packets show the number of responses received from the server to the host device. **Lost** packets represent the number of signals sent from the host device that the destination server didn't respond to. **Time** refers to the round-trip time of each ping.
 
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Stop the Ping Command?
 
@@ -122,17 +102,9 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## What Can the Ping Command Do for You?
 
  Here are some common uses for the ping command:
@@ -143,11 +115,30 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  Besides the ping command, you can also [use other CMD commands to manage your wireless networks](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) effectively.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] 2024 Approved Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-6-best-linkedin-video-downloaders-to-save-videos-from-linkedin/"><u>[New] 6 Best Linkedin Video Downloaders to Save Videos From LinkedIn</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-software-transform-and-tweet-videos-for-2024/"><u>[New] Cutting-Edge Software Transform and Tweet Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-critical-windows-fault-c0000022-correction/"><u>Combatting Critical Windows Fault: C0000022 Correction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/guide-to-scrolling-through-youtube-comment-threads-for-2024/"><u>Guide to Scrolling Through YouTube Comment Threads for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-enable-reset-all-data-functionality-when-it-appears-grayed-out-on-ios-devices/"><u>How to Enable 'Reset All Data' Functionality When It Appears Grayed-Out on iOS Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210689755-9781398446946-how-to-escape-from-hell/"><u>How to Escape from Hell | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/little-legends-top-gaming-adventures-in-2024/"><u>Little Legends Top Gaming Adventures, In 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-advanced-video-editing-techniques-and-effects-for-2024/"><u>New Unleash Your Creativity Advanced Video Editing Techniques and Effects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-utorrent-downloads-on-windows-devices/"><u>Quicken uTorrent Downloads on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-no-available-screens-error-on-your-system/"><u>Remedying No Available Screens Error on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-mac-style-5-step-process/"><u>The Ultimate Guide to Windows Mac Style - 5 Step Process</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-resolving-windows-11-bluetooth-connectivity-errors/"><u>Tips for Resolving Windows 11 Bluetooth Connectivity Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-solutions-addressing-common-anydesk-windows-mistakes/"><u>Unlocking Solutions: Addressing Common AnyDesk Windows Mistakes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photos-unleashed-editing-made-simple/"><u>Windows Photos Unleashed: Editing Made Simple</u></a></li>
+</ul></div>
+

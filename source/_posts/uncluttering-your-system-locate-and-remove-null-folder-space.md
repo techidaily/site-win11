@@ -1,7 +1,7 @@
 ---
 title: "Uncluttering Your System: Locate and Remove Null Folder Space"
-date: 2024-11-24T03:38:30.756Z
-updated: 2024-11-27T16:21:38.323Z
+date: 2024-12-04T10:32:17.410Z
+updated: 2024-12-06T20:49:14.350Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Once you've signed in as an administrator and revealed the hidden folders, it's time to delete the empty folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find and Delete Empty Folders Using Windows PowerShell
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Running the Windows PowerShell App as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-running-the-windows-powershell-app-as-administrator.jpg)  
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | select FullName | Out-GridView`  
 ![Locating Empty Folders by Running a Command in Windows PowerShell App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-locating-empty-folders-by-running-a-command-in-windows-powershell-app.jpg)
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Similarly, you can use the above method to find empty folders on crowded drives and delete them. However, this method is limited because it doesn't allow you to delete some empty folders, leaving others intact selectively.
 
  Therefore, if you want more control over finding and deleting empty folders on your Windows device, you will have to use third-party tools. In the next section, we will demonstrate how you can do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find and Delete Empty Folders Using Third-Party Software
 
@@ -104,17 +104,17 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 5. In the top-left corner, right next to**Scan** , click**Delete Empty Folders** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Once the warning pop-up appears, select**Yes** to delete all empty folders successfully.  
 ![Deleting All Empty Files and Folders by Clicking on the Yes Button in the Warning Pop-up in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/11-deleting-all-empty-files-and-folders-by-clicking-on-the-yes-button-in-the-warning-pop-up-in-empty-folder-cleaner-software.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There is no doubt that Empty Folder Cleaner makes deleting empty folders on Windows devices incredibly simple. Despite its ease of use, it remains a third-party software. Even though it has a good reputation, you should still be aware of security risks when using it, especially when allowing it to scan confidential documents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let Empty Folders Clog Up Your Device's Organization
 
@@ -137,18 +137,16 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-intensified-interaction-through-advanced-zoom-settings/"><u>[New] 2024 Approved Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-overview-of-dji-flyer-x20-virtual-reality-lenses/"><u>[New] Overview of DJi Flyer X20 Virtual Reality Lenses</u></a></li>
-<li><a href="https://win11.techidaily.com/5oiq5lq65zcr44gr44ot44oh44kq44ks44kt44oj44ox44ob44oj44gz44kl5yq55p6c55qe44gq44og44kv44ol44od44kv/"><u>成人向けビデオをキャプチャする効果的なテクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/aacm4a/"><u>音声ファイルの変換:AACとM4Aを比べて、最適な無劣化方法は何ですか？</u></a></li>
-<li><a href="https://win11.techidaily.com/6zw35oyb44gh44gz44kl5pa55rov77ya44ov44oq44od44ox44ot44oh44kq44gu5pya6ygp44gq5lplusd5a2y5oml5q61/"><u>長持ちする方法：フリップビデオの最適な保存手段</u></a></li>
-<li><a href="https://win11.techidaily.com/best-split-screen-video-software-discover-the-5-most-user-friendly-options-for-making-split-videos-with-ease/"><u>Best Split Screen Video Software: Discover the 5 Most User-Friendly Options for Making Split Videos with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dialoguepausedate-seeking-revival-of-chatgpt/"><u>DialoguePauseDate: Seeking Revival of ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-access-and-enjoy-3d-movie-nights-with-fandango-right-in-the-comfort-of-your-living-room/"><u>How to Access and Enjoy 3D Movie Nights with Fandango, Right in the Comfort of Your Living Room</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-validate-your-xml-documents-effective-techniques-and-tips/"><u>How To Validate Your XML Documents: Effective Techniques & Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco Phone FRP Lock</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-streamlined-process-adding-youtube-videos-into-slate-decks/"><u>In 2024, Streamlined Process Adding YouTube Videos Into Slate Decks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-browser-snapshot-guide-for-tech-enthusiasts/"><u>In 2024, The Ultimate Browser Snapshot Guide for Tech Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-conquering-the-dilemma-how-to-send-videos-on-facebook-message/"><u>[New] 2024 Approved Conquering the Dilemma How to Send Videos on Facebook Message</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-simplified-guide-to-saving-instagrams-dynamic-content/"><u>[New] In 2024, Simplified Guide to Saving Instagram's Dynamic Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-snatching-the-best-videos-from-facebook-feed/"><u>[Updated] In 2024, Snatching the Best Videos From Facebook Feed</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-display-delight-selective-themes-for-each-screen-win-1011-style/"><u>Dual Display Delight: Selective Themes for Each Screen, WIN 10/11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/enlivening-the-inactive-wastebin-in-windows-11/"><u>Enlivening the Inactive Wastebin in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-role-of-windows-bt-directories-in-os/"><u>Exploring the Role of Windows ~BT Directories in OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immediate-ios-screen-playback-guide/"><u>Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-video-downloads-focus-on-mp4-for-2024/"><u>Mastering Video Downloads - Focus on MP4 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-windows-component-services-management-console/"><u>Mastery of Windows Component Services Management Console</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unidentified-component-problem-with-lsassexe/"><u>Tackling Unidentified Component Problem with lsass.exe</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-fcpx-subtitle-tutorial-adding-captions-for-better-video-engagement-for-2024/"><u>Updated FCPX Subtitle Tutorial Adding Captions for Better Video Engagement for 2024</u></a></li>
 </ul></div>
 

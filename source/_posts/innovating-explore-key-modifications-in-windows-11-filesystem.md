@@ -1,7 +1,7 @@
 ---
 title: "Innovating Explore: Key Modifications in Windows 11 Filesystem"
-date: 2024-11-22T22:00:12.138Z
-updated: 2024-11-27T18:02:59.654Z
+date: 2024-12-05T07:44:47.759Z
+updated: 2024-12-07T08:36:08.511Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,11 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![Home Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/home-section-in-file-explorer.jpg)
 
- The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
 
 ## 2\. A New Side Pane
 
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
 ## 3\. File Explorer Tabs
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  Tabs are great in any application with multiple files or folder locations. The File Explorer in Windows 11 and its predecessors lacked this feature, forcing users to create multiple windows to manage files in various locations. Microsoft eventually fixed this, making the overall app experience much better.
 
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
 
@@ -63,22 +71,14 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  File Explorer has had ZIP archive support for a long time but lacked the same for other popular formats such as RAR and 7Z. But after a new feature upgrade to the Insider build in the Dev Channel, the [File Explorer app can view and extract archive formats](https://www.makeuseof.com/enable-archive-support-windows-11/). So, you wouldn’t have to download WinRar whenever you want to extract a RAR file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## File Explorer Is Evolving in Windows 11
@@ -107,25 +107,6 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts-for-2024/"><u>[Updated] Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-seo-synergy-reshaping-online-discoverability-through-intelligent-search-engines/"><u>AI and SEO Synergy: Reshaping Online Discoverability Through Intelligent Search Engines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-v700-printer-driver-download-optimized-for-windows-7-through-10-users/"><u>Epson V700 Printer Driver Download: Optimized for Windows 7 Through 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722040743882-explore-the-fresh-capabilities-now-available-in-chatgpt/"><u>Explore the Fresh Capabilities Now Available in ChatGPT!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-ios-messages-on-your-pc-with-windows-expert-tips/"><u>Guide: Sending & Receiving iOS Messages on Your PC with Windows - Expert Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-a24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy A24 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/installing-the-crew-add-on-successfully-a-step-by-step-guide-for-kodi-users-nexusmatrix/"><u>Installing the Crew Add-On Successfully: A Step-by-Step Guide for Kodi Users (Nexus/Matrix)!</u></a></li>
-<li><a href="https://win11.techidaily.com/launch-of-apples-new-ipad-prospect-expect-the-slicker-faster-ipad-2-by-next-spring/"><u>Launch of Apple's New iPad Prospect: Expect the Slicker, Faster iPad 2 by Next Spring</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-transforming-jpeg-photos-into-animated-gifs-with-these-simple-methods/"><u>Master the Art of Transforming JPEG Photos Into Animated GIFs with These Simple Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-video-frame-rate-changes-with-our-comprehensive-step-by-step-guide/"><u>Mastering Video Frame Rate Changes with Our Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-youtube-frames-top-5-cost-free-techniques/"><u>Mastering YouTube Frames Top 5 Cost-Free Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/motmp4/"><u>MOTファイルを効率的にMP4に直し、見逃させない方法</u></a></li>
-<li><a href="https://win11.techidaily.com/movwindows-1011/"><u>MOVビデオファイルに対してWindows 10/11環境での品質保持編集テクニック</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -133,3 +114,25 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>[New] In 2024, Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-vrecorder-download-install/"><u>[Updated] In 2024, Mastering VRecorder Download, Install</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailoring-your-canvas-a-guide-to-erasing-background-elements/"><u>[Updated] Tailoring Your Canvas A Guide to Erasing Background Elements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-ambiguity-clear-dating-of-digital-pics/"><u>Avoiding Ambiguity Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-system-images-error-x80780119-on-windows/"><u>Correcting System Images' Error X80780119 on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/game-critique-building-an-empire-vs-facing-destruction-in-imperator-rome/"><u>Game Critique: Building an Empire vs Facing Destruction in 'Imperator: Rome'</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-selective-mp4-editing-made-simple-on-mac/"><u>In 2024, Selective MP4 Editing Made Simple on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-overheat-risk-on-your-windows-11-pc/"><u>Lowering Overheat Risk on Your Windows 11 PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/making-life-easier-watching-fb-videos-on-your-tv/"><u>Making Life Easier Watching FB Videos on Your TV</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-0xc00d36b4-on-windows/"><u>Resolving Error Code 0XC00D36B4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-11-discord-js-catastrophe-practical-solutions/"><u>Resolving Win 11 Discord JS Catastrophe: Practical Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-recycle-bin-hang-ups-in-windows-11/"><u>Solving Recycle Bin Hang-Ups in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-autoshrink-habits/"><u>Tackle Window's Autoshrink Habits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nubia-red-magic-8s-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nubia Red Magic 8S Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-and-repair-your-lenovo-mouse-pad-compatibility-with-windows-operating-systems-xpvista/"><u>Troubleshoot and Repair Your Lenovo Mouse Pad Compatibility with Windows Operating Systems (XP/Vista)</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-techniques-banish-mouse-lags-on-sw-battlefront-2/"><u>Turbo Techniques: Banish Mouse Lags on SW Battlefront 2</u></a></li>
+</ul></div>
+

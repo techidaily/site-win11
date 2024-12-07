@@ -1,7 +1,7 @@
 ---
 title: "Extending Windows 10 Shutdown Time: Tips for Active Tasks"
-date: 2024-09-05T08:33:07.519Z
-updated: 2024-09-06T08:33:07.519Z
+date: 2024-12-02T03:45:01.489Z
+updated: 2024-12-07T01:05:35.865Z
 tags:
   - windows10
   - windows11
@@ -14,23 +14,15 @@ keywords: Win10 Shutdown Extension,Prolonged PC Sleep,Delay Shutdown Tricks,Wind
 thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae79e9b219910350b66fadbff.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Extending Windows 10 Shutdown Time: Tips for Active Tasks
 
  Sometimes, when shutting down, restarting, or logging off from your Windows 10 machine, you may get an error message that interrupts or even cancels the operation. To prevent this from happening, you can make Windows wait longer when logging off.
 
  Making the system give it a little while longer could actually save you time. Here’s what you should do, should you be faced with this situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does Windows Show an Error Message While Logging Off?
 
@@ -39,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  Alternatively, it could just be a problem task. This may be true if it is a recurring issue. In this case, and if you’re sure none of the applications you are using will lose data, you could make Windows force a sign-off more quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Should You Try First?
 
  The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
@@ -51,23 +41,15 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Windows Wait Longer When Logging Off
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
@@ -80,12 +62,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 5. Double-click this string to edit its value, which is in milliseconds. (1000 milliseconds equals one second.) By default, the value data is set to 20,000 (or 20 seconds).
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1B. How to Change WaitToKillAppTimeout for All Users
 
 This will apply altered log-off rules to all users on the PC.
@@ -94,6 +70,10 @@ This will apply altered log-off rules to all users on the PC.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
 
@@ -107,18 +87,6 @@ This will apply altered log-off rules to all users on the PC.
 5. Double-click this string to edit its value – again, in milliseconds. (1000 milliseconds equals 1 second.) By default, the value data is set to 5000.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2B. How to Change HungAppTimeout for All Users
 
 This will allow you to change the default value for all users.
@@ -128,18 +96,19 @@ This will allow you to change the default value for all users.
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Give Apps More Time to Close When Logging Off
 
  If apps keep interrupting Windows when you shut down or log off, it would be wise to give them a little more time to finish up and close properly. That way, they won’t interrupt the log-off process and have you intervene manually.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +117,23 @@ This will allow you to change the default value for all users.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-authoritative-periscope-users-bible/"><u>[New] In 2024, The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed/"><u>[New] In 2024, Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-must-watch-live-games-top-nine-sites-for-2024/"><u>[New] Must-Watch Live Games Top Nine Sites for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-pathway-to-perfect-audio-placement-on-youtube/"><u>[New] The Pathway to Perfect Audio Placement on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-real-value-of-selfie-verifications/"><u>[Updated] In 2024, The Real Value of Selfie Verifications?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-crafting-engaging-videos-with-adobe-captivate/"><u>2024 Approved Crafting Engaging Videos with Adobe Captivate</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-navigation-quick-cmd-command-tips/"><u>Enhance Windows 11 Navigation: Quick Cmd Command Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-note-50-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme Note 50?</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-capturing-and-downloading-your-favorite-instagram-live-sessions/"><u>Simple Tricks: Capturing and Downloading Your Favorite Instagram Live Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-videos-into-high-quality-av1-format/"><u>Step-by-Step Guide: Transforming MKV Videos Into High-Quality AV1 Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-challenge-of-business-processes-insights-from-the-abbyy-perspective/"><u>The Challenge of Business Processes: Insights From the ABBYY Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-remedies-to-resolve-the-0xc00d36c4-error-during-videoaudio-playback/"><u>Top 4 Remedies to Resolve the '0xC00D36C4' Error During Video/Audio Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-fixes-for-when-plex-fails-to-acknowledge-or-stream-your-mp4-files/"><u>Ultimate Fixes for When Plex Fails to Acknowledge or Stream Your MP4 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-11s-credentials-manager-essential-11-methods/"><u>Unraveling Windows 11'S Credentials Manager: Essential 11 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mac-iphone-and-android-how-to-create-audio-files-effortlessly/"><u>Windows, Mac, iPhone & Android: How to Create Audio Files Effortlessly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying Common Microsoft Excel (Windows) Column Failures
-date: 2024-11-21T21:58:55.026Z
-updated: 2024-11-27T16:58:19.791Z
+date: 2024-12-03T16:37:45.565Z
+updated: 2024-12-07T10:37:49.318Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,11 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 4. Click **OK** to apply the changes.  
 ![Disable Cell Protection in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-cell-protection-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After disabling the cell protection feature, try to insert new cells again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Unfreeze the Panes
 
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 4. Select **Unfreeze Panes** from the resulting menu.  
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you unfreeze the panes, Excel should let you insert new cells.
 
 ## 3\. Unmerge the Cells
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  Excel will unmerge all the selected cells and you should be able to add new cells after that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete Entries From the Last Row and Column
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 ![Clear Excel Last Row](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-excel-last-row.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair the Corrupted Excel Workbook
 
  If you still can’t add new cells, it's likely that your [Excel workbook has become corrupted for some reason](https://www.makeuseof.com/excel-workbook-corruption-how-to-prevent/). Fortunately, Excel includes an option to repair corrupted or damaged files. Here’s how you can use it to repair a problematic Excel workbook.
@@ -88,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 ![Repair Excel File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-excel-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Excel to fix any issues with your worksheet and then open it. After that, check if the issue is still there.
@@ -103,14 +111,10 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 4. In the **Home** tab, click the **Paste** button and select your preferred option from the resulting menu.  
 ![Paste Option in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/paste-option-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After completing the above steps, you should be able to insert new rows and columns without any errors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update Microsoft Excel
@@ -141,34 +145,11 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
  Wait for the tool to repair your Office apps and then check if you can insert cells in Excel. If you still get errors, repeat the above steps and select the **Online Repair** option. This will allow the tool to perform a thorough repair operation and download any missing files from the internet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Insert Cells in Your Excel Spreadsheet Without Errors
 
  It is annoying when Microsoft prevents you from performing basic tasks such as inserting cells. Hopefully, one of the suggestions above has resolved your issue and you are now able to insert cells in your Excel workbook.
 
  If you are facing a similar problem, don’t fret. This guide will walk you through some effective solutions that should fix the problem in no time.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-airborne-ingenuity-sections/"><u>[New] Airborne Ingenuity Sections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-expert-insight-on-sierras-icloud-drive-accessibility/"><u>[New] In 2024, Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-integration-for-the-tech-savvy-mac-user/"><u>[New] Snapchat Integration for the Tech-Savvy Mac User</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-asus-mg28uq-monitor-review-bridging-the-high-res-divide/"><u>2024 Approved ASUS MG28UQ Monitor Review Bridging the High-Res Divide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beating-the-bug-successful-launch-strategies-for-robocop-rogue-city-on-pc-setup/"><u>Beating the Bug: Successful Launch Strategies for 'RoboCop: Rogue City' On PC Setup</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-poco-x6-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco X6 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/steps-to-set-up-the-zilt-addon-collection-on-kodi-version-190-leia/"><u>Steps to Set Up the Zilt Addon Collection on Kodi Version 19.0 Leia</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-the-top-10-mp4-to-avi-video-converter-programs-available-for-free/"><u>The Ultimate List of the Top 10 MP4-to-AVI Video Converter Programs Available for Free</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-stabilization-tools-for-smooth-footage/"><u>Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-gif-editors-step-by-step-guide-for-cropping-gifs-on-desktop-mobile-and-web/"><u>Top 7 GIF Editors: Step-by-Step Guide for Cropping GIFs on Desktop, Mobile, and Web</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-avcd-to-avi-transcoder-for-pcs-running-windows-11-your-ultimate-guide/"><u>Top Rated AVCD to AVI Transcoder for PCs Running Windows 11 – Your Ultimate Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-common-issues-why-doesnt-your-dvd-video-converter-successfully-convert-vob-files/"><u>Troubleshooting Common Issues: Why Doesn't Your DVD Video Converter Successfully Convert VOB Files?</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-how-to-troubleshoot-video-issues-in-your-android-device/"><u>Ultimate Guide: How to Troubleshoot Video Issues in Your Android Device</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-step-by-step-tutorial-cropping-footage-with-davinci-resolve/"><u>Ultimate Step-by-Step Tutorial: Cropping Footage with DaVinci Resolve</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-for-usage-without-a-premium-sign-up/"><u>Unlocking ChatGPT: Top 5 Strategies for Usage Without a Premium Sign-Up</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +158,24 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-prime-8-instagram-managers-for-mobile-devices/"><u>[New] 2024 Approved Prime 8 Instagram Managers for Mobile Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arness-the-full-potential-of-video-tags-in-youtube-for-2024/"><u>[New] Harness the Full Potential of Video Tags in YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oice-change-innovations-for-youtubers-and-their-videos-for-2024/"><u>[New] Voice Change Innovations for YouTubers & Their Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-sns-hdr-pro-and-similar-software/"><u>2024 Approved Comprehensive Guide to SNS HDR Pro and Similar Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tips-for-extending-instagram-videos-beyond-limits/"><u>2024 Approved Tips for Extending Instagram Videos Beyond Limits</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-and-save-the-quick-guide-from-esd-to-iso-format-on-pcs/"><u>Convert and Save: The Quick Guide From ESD to ISO Format on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-your-path-to-epic-game-access/"><u>Fast Tracking Your Path to Epic Game Access</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-react-when-your-windows-cant-find-powershell/"><u>How to React When Your Windows Can't Find PowerShell?</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-disabled-windows-menu-items/"><u>Methods to Rectify Disabled Windows Menu Items</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-genshin-impacts-recurring-shutdown-problems-on-pc-systems/"><u>Overcoming Genshin Impact's Recurring Shutdown Problems on PC Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reduce-cpu-load-from-dropbox-applications/"><u>Techniques to Reduce CPU Load From Dropbox Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-realm-of-aether-explained-discovering-its-nature-and-entry-methods/"><u>The Realm of Aether Explained: Discovering Its Nature & Entry Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/timely-updates-pick-the-superior-time-screen-savers/"><u>Timely Updates: Pick the Superior Time Screen Savers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-inactive-shadow-copy-on-pc/"><u>Troubleshooting Inactive Shadow Copy on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-s17t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo S17t to Gmail | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-of-10-free-video-hosting-sites-for-online-success/"><u>Updated 2024 Approved The Ultimate List of 10 Free Video Hosting Sites for Online Success</u></a></li>
+</ul></div>
+

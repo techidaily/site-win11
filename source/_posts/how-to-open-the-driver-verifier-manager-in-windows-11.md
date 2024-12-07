@@ -1,7 +1,7 @@
 ---
 title: How to Open the Driver Verifier Manager in Windows 11
-date: 2024-09-05T08:34:13.240Z
-updated: 2024-09-06T08:34:13.240Z
+date: 2024-12-04T19:18:50.537Z
+updated: 2024-12-06T16:29:13.224Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  With just a few simple steps, you can access this tool and begin making sure that all of your drivers are up-to-date and functioning properly. In this article, we will show you how to launch Driver Verifier Manager on Windows operating systems for immediate driver verification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Opening the Driver Verifier Manager With a Taskbar Search
 
  The easiest way to open Driver Verifier Manager in Windows 11 is to type “verifier” in the Taskbar search and click on the result to start it.
@@ -27,29 +31,15 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Opening the Driver Verifier Manager With the Run Dialog Box
 
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Opening the Driver Verifier Manager With Task Manager
 
  Task Manager is an essential utility built into Windows that allows you to view and manage all running processes and services. It also provides a quick way to access programs like Driver Verifier Manager, which can help troubleshoot driver compatibility issues.
@@ -65,11 +55,9 @@ To open Driver Verifier Manager using Task Manager, do the following:
 6. When UAC prompts, click**Yes** to grant administrative rights.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Opening the Driver Verifier Manager With File Explorer
 
  Windows File Explorer is a great tool for both novice and advanced users. It allows you to easily search for, and access files stored as well as programs running on your computer. To open the driver verifier manager, follow these steps:
@@ -88,12 +76,11 @@ To open Driver Verifier Manager using Task Manager, do the following:
 1. Right-click on your desktop and select**New > Shortcut** .  
 ![Open Driver Vefifier With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-with-desktop-shortcut.jpg)
 2. Type the below command into the "Create Shortcut" window and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `C:\WINDOWS\system32\verifier.exe`
 3. Then, type a name for your shortcut (such as "Driver Verifier") and hit**Finish** .
 
@@ -107,11 +94,9 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. Type "cmd" in the text field and press**Ctrl + Shift + Enter** on your keyboard. This will[launch the Command Prompt with admin rights on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Open Driver Vefifier Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-command-prompt.jpg)
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
@@ -120,14 +105,11 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
  Driver Verifier Manager is a powerful tool for detecting issues with driver software. Hopefully one of the above methods has helped you open the tool on your system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +118,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-visual-anonymity-in-sharing-blurring-methods-explained-for-2024/"><u>[Updated] Visual Anonymity in Sharing Blurring Methods Explained for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-four-effective-techniques-for-irreversible-file-deletion-on-your-pc/"><u>1. Four Effective Techniques for Irreversible File Deletion on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-play-fine-tuning-amd-gpu-performance/"><u>Elevating Play: Fine-Tuning AMD GPU Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-enlightenment-identifying-disks-in-windows/"><u>Hardware Enlightenment: Identifying Disks in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-8-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 8 Plus and iPad?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-note-50-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme Note 50 Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sound-challenges-expert-tips-for-recording-audio-in-obs/"><u>Overcoming Sound Challenges: Expert Tips for Recording Audio in OBS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-sound-obstacles-correcting-hps-beats-audio-drivers-on-multiple-windows-platforms/"><u>Overcoming Sound Obstacles: Correcting HP's Beats Audio Drivers on Multiple Windows Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C12 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-constant-edge-on-your-windows-11-pc/"><u>Tackling Constant Edge on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-window-clutter-reduction-in-win11/"><u>The Ultimate Guide to Window Clutter Reduction in Win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-infinix-smart-7-hd-frp-by-drfone-android/"><u>The Updated Method to Bypass Infinix Smart 7 HD FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-with-precision-upgrading-from-virtualbox-v6-to-v7-in-win11-computers/"><u>Transition with Precision: Upgrading From VirtualBox v6 to v7 in Win11 Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/ultimate-8-linux-cutting-solutions-for-2024/"><u>Ultimate 8 Linux Cutting Solutions for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-audio-synthesis-in-film-the-2023-process-of-capturing-and-adding-vocal-talent-to-visuals/"><u>Updated 2024 Approved Audio Synthesis in Film The 2023 Process of Capturing and Adding Vocal Talent to Visuals</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Customizing Screen Real Estate: Win11's Best Practices"
-date: 2024-09-05T08:36:57.829Z
-updated: 2024-09-06T08:36:57.829Z
+date: 2024-12-02T02:41:31.643Z
+updated: 2024-12-06T16:13:09.509Z
 tags:
   - windows10
   - windows11
@@ -33,14 +33,13 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 1. Next, open the software you want to set the preset window size for. You should then see that software listed in the**Currently open windows** box.  
 ![The AutoSizer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosizer-window.jpg)
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -54,11 +53,9 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
@@ -77,12 +74,6 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -90,18 +81,11 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
+
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -111,12 +95,6 @@ Now it's time to use WinSize2 to size our windows:
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
  You can change the saved width and height values for the window. To do so, click inside the width and height boxes to input different values there. Select**Change** and**OK** to apply the new window size.
@@ -130,11 +108,13 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Your Software at Your Preferred Window Sizes
 
  Setting software packages to open with preset window sizes will save you from manually resizing them with the mouse. Both WinSize2 and AutoSize will automatically resize software windows for you when you’ve set some preset sizes with them. The additional settings they have for saving window positions will also come in handy for opening multiple programs.
@@ -145,8 +125,6 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +132,23 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unlimited-choice-in-free-personalized-outro-sounds/"><u>[New] 2024 Approved Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-video-quality-mastering-fb-1080p-streams/"><u>[Updated] 2024 Approved Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-accessibility-incorrancing-desktop-with-this-pc/"><u>Convenient Accessibility: Incorrancing Desktop with 'This PC'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-gopro-videos-with-professional-filmmaking-techniques/"><u>Elevating Gopro Videos with Professional Filmmaking Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-and-insights-on-iphone-13-features/"><u>Expert Evaluation and Insights on iPhone 13 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activate-windows-bound-handbrake/"><u>How to Activate Windows-Bound HandBrake</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-v27-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo V27 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-explore-key-modifications-in-windows-11-filesystem/"><u>Innovating Explore: Key Modifications in Windows 11 Filesystem</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-execute-the-sfc-command-correctly/"><u>Mastering Windows: Execute the SFC Command Correctly</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-more-efficiently-with-enhanced-mouseclicklock-functionality/"><u>Navigating More Efficiently with Enhanced MouseClickLock Functionality</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-1011s-error-0x80246007-complication/"><u>Overcoming Windows 10/11'S Error 0X80246007 Complication</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-usage-cutting-edge-practices-for-windows-users/"><u>Pro WLS 2 Usage: Cutting-Edge Practices for Windows Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/scambio-video-gratuitamente-swf-per-avi-su-movavi-convertitore-rapido-ed-efficiente/"><u>Scambio Video Gratuitamente SWF per AVI Su Movavi - Convertitore Rapido Ed Efficiente.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-brother-hl-l2370dw-get-the-newest-printer-software-here/"><u>Update Your Brother HL-L2370DW: Get the Newest Printer Software Here</u></a></li>
+</ul></div>
 

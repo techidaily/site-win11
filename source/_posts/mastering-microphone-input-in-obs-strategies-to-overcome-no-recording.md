@@ -1,7 +1,7 @@
 ---
 title: Mastering Microphone Input in OBS - Strategies to Overcome No Recording
-date: 2024-11-20T16:07:54.294Z
-updated: 2024-11-27T23:19:46.092Z
+date: 2024-12-05T10:45:23.219Z
+updated: 2024-12-06T19:26:13.088Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Launch OBS Studio With Administrative Rights
 
  Oftentimes, issues in third-party applications occur due to a lack of administrative privileges. It can happen even when you're using an administrator account on your computer.
@@ -59,11 +55,11 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 5. Also, click the drop-down icon next to OBS Studio, then choose the correct input device.  
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart OBS Studio and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Use the Correct Recording Device
 
@@ -77,7 +73,7 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -91,11 +87,12 @@ Restart OBS Studio and check if the problem persists.
 3. Enable the toggle next to the**Microphone access** option.  
 ![Microphone access option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microphone-access.jpg)
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
-![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
 ## 6\. Change the OBS Studio Settings
 
@@ -112,11 +109,7 @@ Restart OBS Studio and check if the problem persists.
 6. Choose**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 . Adjust the Audio Mixer Settings
@@ -127,17 +120,27 @@ Restart OBS Studio and check if the problem persists.
 2. Under the**Audio Mixer** section, adjust the**Mic/Aux** slider to**\-2.1dB.**  
 ![Adjusting dB in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-db.jpg)
 3. Click the three dots next to Mic/Aux and choose**Properties.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the drop-down icon next to**Device,** select your default recording device and click**OK.**  
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
 5. Next, click the three dots next to Mic/Aux again and choose**Advanced Audio Properties.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Choosing Advanced properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-properties.jpg)
 6. Under the**Audio Monitoring** tab, choose**Monitor** **and Output** for**Desktop Audio** and**Monitor Only** **(mute output)** for**Mic/Aux.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
 
@@ -151,15 +154,15 @@ You can do that by following the below steps:
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-2.jpg)
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
 ## 9\. Reinstall OBS Studio
 
  Are you still facing the issue? If yes, then there's something wrong with the OBS Studio installation file that's causing the problem. The only solution, in this case, is to reinstall the OBS Studio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Uninterrupted Recording Again on OBS Studio for Windows
 
@@ -182,18 +185,24 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs/"><u>[New] 2024 Approved Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-webcam-master-ultimate-live-recording-guide/"><u>[Updated] 2024 Approved WebCam Master Ultimate Live Recording Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-boost-engagement-on-instagram-with-large-post-combinations/"><u>[Updated] Boost Engagement on Instagram with Large Post Combinations</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44ot44oq44ot44oq44gl44kj6ksh5pww5yuv55s744gu6zug5lit44oa44km44oz44ot44o844oj5oml6acg44cn/"><u>「ビリビリから複数動画の集中ダウンロード手順」</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-viral-content-with-a-strategic-influencer-approach/"><u>2024 Approved Crafting Viral Content with a Strategic Influencer Approach</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>2024 Approved Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
-<li><a href="https://win11.techidaily.com/2024-youtube/"><u>2024年用: YouTubeコンテンツをメモリースティックにバックアップする専門的な方法</u></a></li>
-<li><a href="https://win11.techidaily.com/5l255so44gx44gm44ge44kl6zplusz5aow44ov44kp44o844oe44od44oi44gu56k66kqn5pa55rov44co6zplusz5aow56ym5yplus35yyw44k544kt44o844og44ob44kn44od44kv44cp/"><u>使用している音声フォーマットの確認方法『音声符号化スキームチェック』</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030664644-pc8/"><u>PCに最適!人気の絶対必見ビデオ記録ソフト8本載流</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030030603-pcyoutube/"><u>PCを使ったYouTubeショートムービーの手順と最適アプリ選び：ステップバイステップレシピ</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210640698-9781685262235-the-unmerciful-pain/"><u>The Unmerciful Pain | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/toggle-system-editor-enabledisable-in-win11/"><u>Toggle System Editor: Enable/Disable in Win11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/trending-tracks-a-list-of-popular-audio-for-cutting-edge-video-shorts-for-2024/"><u>Trending Tracks A List of Popular Audio for Cutting-Edge Video Shorts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-effortlessly-download-free-skype-tones-online/"><u>[New] In 2024, Effortlessly Download Free Skype Tones Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ignite-your-imagination-a-look-at-the-leading-6-nft-makers/"><u>[New] In 2024, Ignite Your Imagination - A Look at the Leading 6 NFT Makers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-navigating-the-secrets-of-funimate-download/"><u>[New] Navigating the Secrets of Funimate Download</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers/"><u>[New] Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-washington-dc-an-overview-of-top-performers-including-seo-powersuite/"><u>Best SEO Firms in Washington, DC: An Overview of Top Performers Including SEO PowerSuite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-analysis-by-zdnet-how-the-iphone-14-meets-its-mark-in-performance-and-features/"><u>Comprehensive Analysis by ZDNET: How the iPhone 14 Meets Its Mark in Performance and Features</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-11-theme-restrictions-using-registry/"><u>Demystifying Windows 11 Theme Restrictions Using Registry</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-tricks-to-restore-windows-display-immediately/"><u>Easy Tricks to Restore Windows Display Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-connection-interruptions-for-nvidias-win-based-apps/"><u>Fixing Connection Interruptions for Nvidia's Win-Based Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-use-win-plus-p-printer-command-in-windows/"><u>How to Correctly Use Win + P Printer Command in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>In 2024, Unleash Window History An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/propel-steam-performance-circumventing-zero-speed-troubles/"><u>Propel Steam Performance: Circumventing Zero-Speed Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/strategic-approaches-to-restarting-file-explorer-on-windows-11/"><u>Strategic Approaches to Restarting File Explorer on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-help-with-cortanas-replacement/"><u>Transforming Help with Cortana's Replacement</u></a></li>
+<li><a href="https://win11.techidaily.com/triumphant-tweaks-for-trendsetting-windows-11-users/"><u>Triumphant Tweaks for Trendsetting Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-data-transfer-failures-from-usb-devices/"><u>Troubleshooting Data Transfer Failures From USB Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-budgets-youtube-marketing-investments/"><u>Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-instagrams-video-upload-feature-for-2024/"><u>Unlocking Instagram's Video Upload Feature for 2024</u></a></li>
 </ul></div>
 

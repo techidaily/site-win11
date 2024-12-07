@@ -1,7 +1,7 @@
 ---
 title: "Redefining Explore: Top 7 Updates to Windows 11'S Filesystem"
-date: 2024-11-20T19:11:51.063Z
-updated: 2024-11-27T23:06:16.694Z
+date: 2024-12-04T22:24:31.259Z
+updated: 2024-12-07T09:12:17.312Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  The last section on the Home page in File Explorer is the Recents section which displays all the recently opened files. So, all these sections appear neatly tucked on the Home page, effectively reducing cluttering in the Navigation pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. A New Side Pane
 
  File Explorer’s side pane has a design refresh with a new details pane and some settings to organize all the options in the Navigation pane neatly. You can switch to the compact view to accommodate more items in the Navigation pane.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  The old details pane didn’t blend in with the rest of the File Explorer. But the new one presents all the information about a file in a far more palatable manner.
 
 ![New Side Pane in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-side-pane-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can easily spot its recent activity; check out its details without opening the Properties window. It also includes sharing the file using the inbuilt file-sharing methods or opening the Properties window without opening the right-click context menu.
 
@@ -52,14 +60,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![Tabs in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tabs-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can easily create multiple apps in a single window and move files or folders across them. You can even [drag tabs from a File Explorer window](https://www.makeuseof.com/drag-tabs-out-file-explorer-windows-11/) to create a different window and drag that tab back to another File Explorer window as you do in the Chrome browser. This feature reduced reliance on third-party apps that market the same feature as a USP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. A Gallery Section
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![New Gallery Section in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-gallery-section-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A nice scroll bar displays the start and end date of the images, and you can use it to move across hundreds of photos swiftly. Apart from the two default folders, you can add more folders to the collection to display images stored in other locations.
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ## 5\. An Improved Context Menu
 
  The right-click context menu was a significant surprise in Windows 11 but is gradually improving. You can find relevant options like Install whenever you right-click on an app installer file. The menu is also concise now, and you can view the full version when you click on the Show More options. Similarly, a few minor tweaks to the right-click context menu make it better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Microsoft 365 Products Integration
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
  Microsoft is also experimenting with a new Home page in the Settings app, which will also offer a glance at the currently used OneDrive storage space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Built-In File Archive Support
@@ -107,22 +107,6 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  Windows File Explorer is one of the areas where Microsoft made some exciting additions that were absent in older versions. In this post, we will discuss all the noteworthy changes done to the File Explorer, some of which are yet to arrive in stable builds at the time of writing.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-understanding-and-manipulating-discords-identity-system/"><u>[New] 2024 Approved Understanding and Manipulating Discord's Identity System</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-proactive-strategies-in-building-an-irresistible-online-identity-on-youtube/"><u>[New] In 2024, Proactive Strategies in Building an Irresistible Online Identity on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-proven-strategies-for-successful-green-screen-videography/"><u>[Updated] 2024 Approved Proven Strategies for Successful Green Screen Videography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-online-radio-recordings-a-practical-handbook/"><u>2024 Approved Free Online Radio Recordings - A Practical Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/dialogue-deployment-on-windows-11-systems/"><u>Dialogue Deployment on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/high-quality-methodology-stitching-gopro-sequences-in-virtual-reality-films/"><u>High-Quality Methodology Stitching GoPro Sequences in Virtual Reality Films</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-creating-videos-using-just-your-desktop/"><u>Mastering the Art of Creating Videos Using Just Your Desktop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-with-toms-hardware-insider-tips/"><u>Navigating New Tech with Tom's Hardware Insider Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-uninstalling-epic-launcher-woes-on-w11-systems/"><u>Sidestep Uninstalling Epic Launcher Woes on W11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-and-office-updates-a-quick-cessation-guide/"><u>Windows & Office Updates: A Quick Cessation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photos-the-art-of-key-management/"><u>Windows Photos: The Art of Key Management</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +114,25 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>[New] In 2024, Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>[Updated] 2024 Approved Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-slick-quick-fades-in-premiere/"><u>[Updated] Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-complete-guide-to-fixing-compromised-system-files-in-modern-windows-os/"><u>A Complete Guide to Fixing Compromised System Files in Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-window-11s-search-to-new-heights/"><u>Elevate Your Window 11'S Search to New Heights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/energize-and-optimize-the-elite-collection-of-rechargeable-battery-stations-year-end-review/"><u>Energize and Optimize: The Elite Collection of Rechargeable Battery Stations (Year End Review)</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-operation-of-windows-gesture-functionality/"><u>Ensuring Seamless Operation of Windows Gesture Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-touchscreen-portables-unveiled-professional-evaluations-cnet-reviews/"><u>Leading Touchscreen Portables Unveiled: Professional Evaluations | CNET Reviews</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-korean-from-home-cutting-edge-online-resource-list/"><u>Mastering Korean From Home: Cutting-Edge Online Resource List</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-video-conversion-for-vr-enthusiasts-top-picks-and-tips-for-2024/"><u>New Video Conversion for VR Enthusiasts Top Picks and Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-geforce-0x0001-issue-in-windows-1011/"><u>Remedying GeForce 0X0001 Issue in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/renewal-techniques-for-windows-updating-drivers-swiftly/"><u>Renewal Techniques for Windows: Updating Drivers Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-strategy-for-graphics-drivers-reboot-in-win1011/"><u>Simplified Strategy for Graphics Drivers' Reboot in WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-stealthy-way-to-stow-zip-archives-within-pc-photos/"><u>The Stealthy Way to Stow ZIP Archives Within PC Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/trailblazing-to-system32-on-windows-11-os/"><u>Trailblazing to System32 on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-win-os-anomalies-a-guide-to-debugging-errors-via-the-power-of-command-prompt/"><u>Unraveling Win-OS Anomalies: A Guide to Debugging Errors via the Power of Command Prompt</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/waht-is-ai-pixel-art-generator-wondershare-virbo-glossary-for-2024/"><u>Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+</ul></div>
+

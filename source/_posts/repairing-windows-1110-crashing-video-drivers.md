@@ -1,7 +1,7 @@
 ---
 title: Repairing Windows 11/10 Crashing Video Drivers
-date: 2024-11-24T01:15:36.225Z
-updated: 2024-11-27T19:49:20.619Z
+date: 2024-12-01T05:27:34.152Z
+updated: 2024-12-07T03:35:07.977Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Utilize the Video Playback Troubleshooter
 
  The Video Playback troubleshooter might be useful for fixing the “Video driver crashed” error when that error affects video playback. That is a troubleshooter for fixing video playback issues, which the “Video driver crashed” error sometimes is. Our [how to run any Windows troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) guide provides instructions for accessing that troubleshooter and others.
@@ -32,14 +36,6 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
  When you start that troubleshooting tool, you’ll have three options. Select the **I want to continue with this troubleshooter** option to initialize the automated video troubleshooting. The troubleshooter might automatically make some system changes or suggest you do something like installing a codec.
 
 ![The Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-playback-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Your PC’s Graphics Driver
 
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
  Manually updating graphics drivers by downloading them from the NVIDIA, AMD, or Intel sites is a bit slower but will ensure you get the very latest driver package.
 
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-nvidia-driver-download-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your PC’s Graphics Driver
 
@@ -63,21 +63,13 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-device-option.jpg)
 4. Select a checkbox option for deleting the driver and click **Uninstall**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option3.jpg)
 5. Click on **Action > Scan for hardware changes** to reinstall the graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the **Scan for hardware** changes option doesn’t reinstall the GPU’s driver, download the latest driver package for your graphics card from the [Intel](https://www.intel.com/content/www/us/en/download-center/home.html), [AMD](https://www.amd.com/en/support), or [NVIDIA](https://www.nvidia.com/download/index.aspx) websites. Double-click on the downloaded driver package file to open its setup window and select the installation option there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Lower Your Monitor’s Refresh Rate
@@ -90,7 +82,15 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 4. Then, select a lower setting in the **Refresh rate** drop-down menu.  
 ![The Refresh rate drop-down menu in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/advanced-display-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
@@ -134,27 +134,6 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-teaching-with-technology-innovative-editing-approaches-in-education/"><u>[New] In 2024, Teaching with Technology Innovative Editing Approaches in Education</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-viral-video-to-visuals-converting-tweets-to-costless-cgi-for-2024/"><u>[New] Viral Video to Visuals Converting Tweets to Costless CGI for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effective-strategies-to-document-competitive-play/"><u>[Updated] 2024 Approved Effective Strategies to Document Competitive Play</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-video-ads-mastery-a-guide-to-creating-viral-content/"><u>2024 Approved Instagram Video Ads Mastery A Guide to Creating Viral Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-dj-game-free-easy-online-beat-detectors-revealed/"><u>Boosting DJ Game Free, Easy Online Beat Detectors Revealed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/crafting-engaging-bio-stories-a-guide-to-stand-out-on-fb-for-2024/"><u>Crafting Engaging Bio Stories – A Guide to Stand Out on FB for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-vast-visuals-purchase-the-innovative-ar-100-inch-screen-laptop-from-zdnet-without-a-separate-monitor/"><u>Experience Vast Visuals: Purchase the Innovative AR 100-Inch Screen Laptop From ZDNet Without a Separate Monitor</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-of-unrecognized-wd-my-passport-ultra-by-windows-os/"><u>Resolved: Fixing the Issue of Unrecognized WD My Passport Ultra by Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/shazam-tutorial-how-to-identify-music-in-videos-across-android-ios-and-pcs/"><u>Shazam Tutorial: How to Identify Music in Videos Across Android, iOS, and PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-for-changing-youtube-videos-into-mov-format/"><u>Simple Steps for Changing YouTube Videos Into MOV Format</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-issue-handbrake-cannot-rip-dvds-a-comprehensive-guide/"><u>Solving the Issue: HandBrake Cannot Rip DVDs – A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-capturing-audio-from-tunein-radio-app-on-windows-11/"><u>Step-by-Step Guide: Capturing Audio From TuneIn Radio App on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/teams/"><u>Teamsミーティングの録画編集：効果的なソフトウェアと技術ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insightful-guide-to-unlocking-the-secrets-of-cpi-files-an-easy-step-by-step-opener/"><u>The Insightful Guide to Unlocking the Secrets of CPI Files: An Easy Step-by-Step Opener</u></a></li>
-<li><a href="https://win11.techidaily.com/top-2024-video-audio-editing-software-and-apps-recommendations/"><u>Top 2024 Video Audio Editing Software & Apps - Recommendations</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-performers-comprehensive-guide-to-using-the-halo-bolt-portable-chargerjump-starter/"><u>Top Performers: Comprehensive Guide to Using the Halo Bolt Portable Charger/Jump Starter</u></a></li>
-<li><a href="https://win11.techidaily.com/top-questions-answered-exploring-the-features-of-a-complimentary-video-transformation-tool/"><u>Top Questions Answered: Exploring the Features of a Complimentary Video Transformation Tool</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -162,3 +141,21 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-employing-google-trends-to-discover-compelling-video-themes-for-2024/"><u>[New] Employing Google Trends to Discover Compelling Video Themes for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-keystroke-response-in-winos-and-11-7-techniques/"><u>Enhancing Keystroke Response in WINOS & 11: #7 Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fire-up-your-tech-savvy-comparing-amazon-fire-and-ipad-tablets-for-optimal-use/"><u>Fire Up Your Tech Savvy: Comparing Amazon Fire and iPad Tablets for Optimal Use</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-display-clarity-with-these-6-tips-for-windows-users/"><u>Optimize Display Clarity with These 6 Tips for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-deactivation-windows-11-interruption-lifter/"><u>Rapid Deactivation: Windows 11 Interruption Lifter</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-disconnected-network-in-windows-os/"><u>Restoring Disconnected Network in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-fixing-windows-configuration-stuck-glitch/"><u>Solution Guide for Fixing Windows Configuration Stuck Glitch</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-sound-settings-windows-11-volume-control-guide/"><u>Streamline Your Sound Settings: Windows 11 Volume Control Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/toggle-display-inclination-for-windows-devices/"><u>Toggle Display Inclination for Windows Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-tv-streaming-made-easy-using-mobile-data-on-your-amazon-firestick/"><u>Wireless TV Streaming Made Easy: Using Mobile Data on Your Amazon Firestick</u></a></li>
+</ul></div>
+

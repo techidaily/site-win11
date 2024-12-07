@@ -1,7 +1,7 @@
 ---
 title: How to Set Up Custom Volume Control Hotkeys in Windows 11
-date: 2024-11-26T19:04:24.530Z
-updated: 2024-11-27T18:48:50.641Z
+date: 2024-12-01T18:15:03.589Z
+updated: 2024-12-07T03:37:53.027Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Extract NirCmd
 
  NirCmd is a command-line tool that can carry out many useful PC tasks. It has some volume control commands for muting, maximizing, increasing, and reducing sound levels. Although NirCmd doesn’t provide any built-in options for establishing volume control hotkeys, we can set up keyboard shortcuts for its commands.
@@ -39,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 5. Select the **Browse** option to choose an extraction path.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the **Show extracted files when complete** checkbox to select it.  
 ![The Extract compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/extract-compressed-window.png)
 7. Press the **Extract** button to [extract the ZIP archive in Windows](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up a Mute Hotkey
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 7. Click **Next** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Enter **Mute** in the shortcut name box, and select the **Finish** option.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 4. Select **Apply** to save.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Start playing a video, and press the **Ctrl + Alt + M** keyboard shortcut. You can unmute the sound by pressing **Ctrl + Alt + M** again. Pressing that hotkey both mutes and unmutes audio.
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
 ![The Change icon window and Mute desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/change-icon-window.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up a Hotkey for Maximizing Volume
 
  Aside from a mute hotkey, you can [set up a keyboard shortcut](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) for maximizing volume. If you want a hotkey to max out volume (just don’t disturb the neighbors), you can create one with NirCmd’s **setsysvolume 65535** command. You can establish a max volume desktop shortcut much the same as a mute one with the Create Shortcut tool. The only difference is that you’ll need to input this command in the location box instead: **“NirCmd folder path\\nircmd.exe” setsysvolume 65535**.
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 ![The setsysvolume command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/setsysvolcommand.png)
 
  The 65,535 in that command is NirCmd’s maximum decibel value. Clicking your new maximum audio desktop shortcut will max out playback volume. Thereafter, you can apply a hotkey to the max volume desktop shortcut just the same as for the mute one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create Volume Up and Down Hotkeys
 
@@ -115,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
  Note that you can change the unit values in those commands. To configure a shortcut to increase volume more, for example, you could input **changesysvolume 5000** in the location box instead. Or enter **changesysvolume -10000** to decrease the decibel level by twice as much. However, all values must be below the maximum of 65,535\.
 
  When you’ve set up some desktop shortcuts for increasing and reducing volume, right-click them and select **Properties**. You can add new hotkeys to them with their **Shortcut key** boxes as outlined for the mute command. Then press the NirCmd volume up and down hotkeys to your heart’s content to increase and lower the decibel level.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Custom Volume Control Hotkeys for a Specific App
 
@@ -152,25 +148,15 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
 ![The Action drop-down menu for advanced hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-hotkey-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adjust Playback Volume With Your New Sound Control Hotkeys
 
  So, you don’t need to get a new keyboard if your current one lacks volume control hotkeys. Simply set up a few custom keyboard shortcuts for muting, maximizing, lowering, and increasing volume with the NirCmd command-line utility or Volume Control. Then you can quickly mute, max out, or raise/lower the decibel level for video and music playback in Windows 11 by pressing those hotkeys.
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-iphone-photography-wonders-capturing-surface-mirrors/"><u>[New] 2024 Approved IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-quest-for-your-own-distinctive-stream-tagline/"><u>[New] The Quest for Your Own Distinctive Stream Tagline</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-from-novice-to-expert-perfecting-mac-audio-with-audacity/"><u>[Updated] 2024 Approved From Novice to Expert Perfecting Mac Audio with Audacity</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-your-quick-pathway-to-ipad-time-lapse-success/"><u>[Updated] 2024 Approved Your Quick Pathway to iPad Time-Lapse Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fast-track-your-mobile-vids-with-these-tools-for-2024/"><u>Fast-Track Your Mobile Vids with These Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-open-the-driver-verifier-manager-in-windows-11/"><u>How to Open the Driver Verifier Manager in Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-visual-data-harvester/"><u>In 2024, Visual Data Harvester</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-subsystem-for-linux-solving-error-4294967295/"><u>Navigating Through Windows Subsystem for Linux: Solving Error 4294967295</u></a></li>
-<li><a href="https://win11.techidaily.com/temporary-user-profiles-avoiding-login-interruptions/"><u>Temporary User Profiles: Avoiding Login Interruptions</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-component-tools-accessing-and-operating-guide/"><u>Windows Component Tools: Accessing & Operating Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -179,3 +165,23 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transform-your-videos-first-impression-with-these-fonts/"><u>[Updated] 2024 Approved Transform Your Video's First Impression with These Fonts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-download-directly-from-instagram-a-methodology-for-iphone-users/"><u>[Updated] Download Directly From Instagram A Methodology for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-mobile-viewing-fb-videos-on-android-for-2024/"><u>[Updated] Enhance Mobile Viewing FB Videos on Android for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-which-should-you-use-obs-studio-or-bandicam-for-2024/"><u>[Updated] Which Should You Use, OBS Studio or Bandicam for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-access-exploring-startup-options-in-windows/"><u>Easy Access: Exploring Startup Options in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/key-fixes-to-restore-windows-11s-manager-functionality/"><u>Key Fixes to Restore Windows 11'S Manager Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/mspaint-your-creative-companion-in-windows-11/"><u>MSPaint, Your Creative Companion in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-firefox-webpage-loading-woes-on-windows-systems/"><u>Resolving Firefox Webpage Loading Woes on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-capturing-simplified-snip-tool-vs-prtsc/"><u>Screen Capturing Simplified: Snip Tool Vs. PrtSc</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-no-driver-detected-error-during-os-setup/"><u>Steps to Address No Driver Detected Error During OS Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-screen-windows-10-and-11-cascade-mastery/"><u>Streamline Your Screen: Windows 10 & 11 Cascade Mastery</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-performance-on-your-mobile-device/"><u>Top 8 Essential Tips for Maintaining Optimal Performance on Your Mobile Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-correcting-errors-when-your-warframe-update-doesnt-work/"><u>Ultimate Guide: Correcting Errors When Your Warframe Update Doesn’t Work</u></a></li>
+</ul></div>
+

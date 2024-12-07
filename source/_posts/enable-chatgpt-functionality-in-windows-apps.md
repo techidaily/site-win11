@@ -1,7 +1,7 @@
 ---
 title: Enable ChatGPT Functionality in Windows Apps
-date: 2024-11-21T16:52:42.101Z
-updated: 2024-11-27T19:56:52.917Z
+date: 2024-12-04T04:51:44.758Z
+updated: 2024-12-07T02:18:34.390Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run ChatGPT as a Windows App Using Edge
 
  Microsoft Edge offers an **Install this site as an app** feature. It lets you run web pages as standalone native Windows apps. Since ChatGPT is only available as a web app, you can install the AI chatbot website as an app on your computer. It looks and works similarly to the web version, except you don't see any web elements such as bookmarks, tabs, etc.
@@ -41,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 2. Next, click the t**hree-dots menu** to access the browser menu.  
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
 5. To add a custom icon, click the **Edit** button under **Install App** and select an icon from your local drive. For GPT, you can leave it as default.
@@ -55,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
@@ -74,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
@@ -97,13 +98,13 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -114,6 +115,11 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
 
@@ -126,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
  If you decide to uninstall the app, you can do so from the **Settings** app:
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
@@ -147,25 +149,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-comparing-top-tech-does-active-live-up-to-hype-for-2024/"><u>[New] Comparing Top Tech Does Active Live Up to Hype for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-choices-for-professional-gopro-video-editing/"><u>[Updated] Top Choices for Professional GoPro Video Editing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-workflow-on-windows-the-best-apps-for-maximum-output/"><u>Elevate Workflow on Windows: The Best Apps for Maximum Output</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-printer-use-in-defender-smartscreen-on-edge-browser/"><u>Enabling Printer Use in Defender SmartScreen on Edge Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-zerodxgierordevicehung-in-win11-systems/"><u>Fixing ZeroDXGIErorDeviceHung in Win11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-high-speeds-across-devices/"><u>Harmonizing High Speeds Across Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bypass-bluetooth-pin-related-connectivity-issues-in-win11win10/"><u>How To Bypass Bluetooth Pin-Related Connectivity Issues in Win11/Win10</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s21-fe-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S21 FE 5G (2023) without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-11-pro-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 11 Pro to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g13-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G13 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-netgear-networking-gear-the-ultimate-guide/"><u>Leading Netgear Networking Gear: The Ultimate Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/selecting-the-ideal-360-cameras-for-videography-for-2024/"><u>Selecting the Ideal 360° Cameras for Videography for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-access-to-commands-setting-up-keybinds-effortlessly/"><u>Speedy Access to Commands: Setting up Keybinds Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/tricks-for-stealthy-login-silencing-security-prompts-in-windows-11/"><u>Tricks for Stealthy Login: Silencing Security Prompts in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -173,3 +156,25 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-castwatch-inspection/"><u>[New] CastWatch Inspection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-effortless-video-integration-into-instagram-feed-for-2024/"><u>[New] Effortless Video Integration Into Instagram Feed for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pinnacle-sound-selections-android-based-for-2024/"><u>[New] Pinnacle Sound Selections, Android-Based for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-performance-gains-with-optimized-android-studio-on-windows/"><u>Drive Performance Gains with Optimized Android Studio on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-bluetooth-link-airpods-on-windows/"><u>Easy Steps to Bluetooth-Link AirPods on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-file-transfers-remedy-for-utorrent-on-windows/"><u>Enabling File Transfers: Remedy for uTorrent on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-the-boundaries-of-hero5-sessions-for-2024/"><u>Evaluating the Boundaries of Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-digital-magic-enhancing-vhs-photos-online/"><u>Exploring Digital Magic Enhancing VHS Photos Online</u></a></li>
+<li><a href="https://win11.techidaily.com/high-fidelity-gaming-hacked-top-strategies-for-classic-adventures-with-scummvm/"><u>High Fidelity Gaming Hacked: Top Strategies for Classic Adventures with ScummVM</u></a></li>
+<li><a href="https://win11.techidaily.com/quiet-down-windows-update-reminders-and-alerts/"><u>Quiet Down Windows' Update Reminders and Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-features-within-windows-11s-control-panel/"><u>Rediscover Lost Features Within Windows 11'S Control Panel</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211145198-9781804530375-scorpio/"><u>Scorpio | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-adjusting-taskbar-dimensions-on-win11/"><u>Step by Step: Adjusting Taskbar Dimensions on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-your-window-game-with-these-8-bubbleui-personalization-techniques/"><u>Step Up Your Window Game with These 8 BubbleUI Personalization Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-next-big-thing-in-streaming-chromecast-now-comes-with-google-tv/"><u>The Next Big Thing in Streaming: Chromecast Now Comes With Google TV</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-picks-7-best-live-streaming-apps-to-upgrade-your-youtube-presence-iosandroid/"><u>Top Picks 7 Best Live Streaming Apps to Upgrade Your YouTube Presence (iOS/Android)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-to-enhanced-widget-display-interface-in-windows-11/"><u>Transitioning to Enhanced Widget Display Interface in Windows 11</u></a></li>
+</ul></div>
+

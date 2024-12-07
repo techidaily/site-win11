@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Speech Technology: Navigating Shortcuts on Win 11"
-date: 2024-09-05T08:39:09.335Z
-updated: 2024-09-06T08:39:09.335Z
+date: 2024-11-29T22:42:59.107Z
+updated: 2024-12-07T03:50:38.971Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win 11 Speech Tech,W11 Audio Shortcuts,Win 11 Voice Control,Tech Ease 
 thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165b0175087b89427fe82c8e76.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking Speech Technology: Navigating Shortcuts on Win 11
 
  Windows 11 comes packed with a number of features that ease your work. One such feature is the voice recorder, which allows you to make recordings quickly and easily. To help you get the most out of this tool, we’ve put together a list of voice recorder keyboard shortcuts for Windows computers.
@@ -27,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  With these shortcuts, you can save time and energy when recording without having to use your mouse or touchpad. So, let's get started.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Start a New Recording
 
  The**Ctrl + R** keyboard shortcut is especially useful for voice recorders. It starts a new recording without having to open the application and hit record manually. It's great for speeding up workflows, as it can save significant time when compared to manually starting a recording each time.
@@ -54,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Delete Recording in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-recording-in-voice-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use the shortcut, you need to select the recording you want to delete and then press the**Delete** key. If you see a confirmation pop-up, click**OK** . This will immediately remove the selected recording from your library and free up space for new recordings.
 
 ## 4\. Play or Pause
@@ -81,12 +61,14 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 ![Rename a file in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-a-file-in-voice-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To use this feature, simply choose the desired file, then press F2 on your keyboard. After that, give the file a name and click**Rename** to save it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Show in Folder
 
@@ -96,17 +78,19 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
 
 ![Show Recording in Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-recording-in-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To open a folder, select the recording you want to open and then press O – this will launch an Explorer window displaying all of your audio recordings. With this shortcut, you do not have to search through numerous files to find what you need. It takes just one quick keystroke to access all of your recorded audio files!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Share a Recording
 
  With the**S** keyboard shortcut, you can quickly share recordings without having to navigate menus. All you have to do is select the recording you want to share and press**S** . From there, choose the platform and send it off to someone else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Jump Ahead or Back While Playing a Recording
 
@@ -123,43 +107,26 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
  Using the shift right arrow key will take you forward 5 seconds at a time while using the shift left arrow key will take you backward. It is especially helpful when dealing with long blocks of audio since it eliminates the need to scroll around in the timeline bar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Jump to the Start of the Recording
 
  It is very useful to have the**Home** key shortcut in Windows Voice Recorder, which allows you to quickly jump to the start of the recording. To use it, just press the**Home** key while playing or recording a clip, and it will jump back to the beginning instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Jump to the End of the Recording
 
  You can jump immediately to the end of your recording using the**End** shortcut available in Voice Recorder.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using a Voice Recorder to Its Full Potential
 
  When it comes to recording audio files, a vocal recorder keyboard shortcut can prove to be extremely helpful. It provides quick and easy access to essential functions and improves the overall experience. However, it is important to know that some shortcuts might not work on your system.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +135,24 @@ thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-simple-scan-capture-solution-w10-os/"><u>[Updated] In 2024, Simple Scan-Capture Solution - W10 OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-integrating-apple-tunes-with-visual-media/"><u>2024 Approved Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://win11.techidaily.com/control-data-cost-monitoring-on-your-wi-fi-network-with-win11/"><u>Control Data Cost Monitoring on Your Wi-Fi Network with Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-gaming-capture-with-intels-pc-graphics-hub/"><u>Effortless Gaming Capture with Intel's PC Graphics Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-ai-convenience-setup-a-free-and-locally-run-chatbot-with-gpt4all-technology-for-windows-enthusiasts/"><u>Embrace AI Convenience: Setup a Free and Locally Run Chatbot with GPT4All Technology for Windows Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/geforce-scan-woes-on-windows-try-these-fixes-now/"><u>GeForce Scan Woes on Windows? Try These Fixes Now</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-interruptexceptionnothandled-blue-screen-on-windows-10-and-11/"><u>How to Fix the INTERRUPT_EXCEPTION_NOT_HANDLED Blue Screen on Windows 10 and 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-up-custom-volume-control-hotkeys-in-windows-11/"><u>How to Set Up Custom Volume Control Hotkeys in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>In 2024, Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rank-the-best-10-cost-free-image-enhancers-for-smartphone-users/"><u>In 2024, Rank the Best 10 Cost-Free Image Enhancers for Smartphone Users</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-launching-web-pages-as-windows-programs/"><u>Instant Access: Launching Web Pages as Windows Programs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/no1-video-recorders-headset-display-enhanced-for-2024/"><u>No.1 Video Recorders Headset Display Enhanced for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-configuration-in-nvidias-windows-software/"><u>Restoring Lost Configuration in NVIDIA's Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/show-and-tell-accessible-features-in-win11/"><u>Show and Tell: Accessible Features in Win11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-ultimate-source-for-online-video-to-mp3-downloads-for-2024/"><u>Your Ultimate Source for Online Video to MP3 Downloads for 2024</u></a></li>
+</ul></div>
 

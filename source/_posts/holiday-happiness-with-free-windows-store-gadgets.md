@@ -1,7 +1,7 @@
 ---
 title: Holiday Happiness with Free Windows Store Gadgets
-date: 2024-11-24T17:54:51.948Z
-updated: 2024-11-27T20:58:05.070Z
+date: 2024-11-30T10:52:46.166Z
+updated: 2024-12-07T11:06:17.464Z
 tags:
   - windows10
   - windows11
@@ -36,15 +36,19 @@ To gift any of the apps mentioned above:
 3. Select “Buy as gift” (the Gift icon), as you can see in the screenshot below.  
 ![Microsoft Store With Buy as Gift Option on Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-gift-a-microsoft-store-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then enter the email of the gift recipient to send the app code for redemption.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Movie Maker - Video Editor PRO
 
 ![Movie Maker Video Editor Pro App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/movie-maker-pro-windows-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Movie Maker - Video Editor PRO is the best-selling Windows 10 and 11 movie maker and video editor app.
 
@@ -59,16 +63,12 @@ To gift any of the apps mentioned above:
 **Download** :[Movie Maker - Video Editor PRO](https://apps.microsoft.com/store/detail/movie-maker-video-editor-pro/9N9KBWP6HVQQ?hl=en-us&gl=us) ($19.99)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2. Adobe Photoshop Elements 2023
 
 ![Adobe Photoshop Elements 2023 App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/adobe-photoshop-elements-2023-windows-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll find all your photo essentials in the easy-to-use Adobe Photoshop Elements 2023\. This creative app will make a perfect gift for friends who are photography enthusiasts or those who love to create unique photos to share.
 
@@ -82,17 +82,9 @@ To gift any of the apps mentioned above:
 
 **Download** :[Adobe Photoshop Elements 2023](https://apps.microsoft.com/store/detail/adobe-photoshop-elements-2023/9NVRJNJ1D93S) (Free trial, $99.99)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. djay Pro
 
 ![djay Pro App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/djay-pro-windows-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This award-winning app would be a great gift for your friend or loved ones who would love to mix tracks and make music like a DJ.
 
@@ -106,13 +98,13 @@ To gift any of the apps mentioned above:
 
 **Download** :[djay Pro](https://apps.microsoft.com/store/detail/djay-pro/9NBLGGH4VM4H?hl=en-us&gl=us) (Free trial, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Spotify - Music and Podcasts
 
 ![Spotify Premium App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/spotify-premium-windows-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Spotify is perhaps the most popular music app and player. You can stream the tracks you love and discover new music too.
 
@@ -127,7 +119,7 @@ To gift any of the apps mentioned above:
 **Download** :[Spotify - Music and Podcasts](https://apps.microsoft.com/store/detail/spotify-music-and-podcasts/9NCBCSZSJRSB) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5. SOUND FORGE Audio Studio 15 Microsoft Store Edition
@@ -141,6 +133,10 @@ To gift any of the apps mentioned above:
  You can record podcasts in the exceptional quality of up to 32-bit/384 kHz, edit your projects using professional effects, produce soundtracks for videos, and convert your collection of vinyl and cassettes to digital.
 
 **Download** :[SOUND FORGE Audio Studio Studio 15 Microsoft Store Edition](https://apps.microsoft.com/store/detail/sound-forge-audio-studio-15-microsoft-store-edition/9PGSQ8HZLWR5?hl=en-us&gl=us) ($49.99)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Virtual Teleprompter PRO
 
@@ -186,6 +182,10 @@ To gift any of the apps mentioned above:
 
 ![Diarium Journal, Diary, Notes App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/diarium-windows-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This Christmas, you can gift a great way to record memories and experiences to friends and family.
 
  This feature-rich app includes Cloud Sync, and you can write your journal on all your devices—PC, laptop, tablet, or phone. You can attach pictures, audio recordings, files, tags, people, ratings, or locations to your diary entries.
@@ -217,16 +217,18 @@ To gift any of the apps mentioned above:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-beginners-key-to-mastering-social-media-metrics/"><u>[New] 2024 Approved A Beginner's Key to Mastering Social Media Metrics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-spectacular-movie-sneak-insights/"><u>[Updated] 2024 Approved Spectacular Movie Sneak Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-accelerated-gpu-task-order-in-windows/"><u>Eliminating Accelerated GPU Task Order in Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>In 2024, Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 11?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-windows-pin-issues/"><u>Mastering the Art of Fixed Windows PIN Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-detection-challenges-for-the-blue-yeti-microphone-fix-and-tips/"><u>Overcoming Detection Challenges for the Blue Yeti Microphone – Fix & Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-android-tablet-and-w11-duo-display-setup/"><u>Seamless Android Tablet & W11 Duo Display Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/simplicity-and-clarity-in-the-newest-w11-start/"><u>Simplicity & Clarity in the Newest W11 Start</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-inner-artist-creating-captivating-ai-visuals-with-paint-cocreator-and-windows-11/"><u>Unleash Your Inner Artist: Creating Captivating AI Visuals with Paint Cocreator & Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>[New] The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-master-list-of-affordable-websites-boosting-vector-graphics-skills/"><u>[Updated] In 2024, Master List of Affordable Websites Boosting Vector Graphics Skills</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-google-voice-calling-features-and-performance/"><u>Comprehensive Analysis: Google Voice Calling Features and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-enhanced-settings-in-windows-11/"><u>Deciphering Enhanced Settings in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-steps-setting-up-matrix-aios-boys-add-on-in-your-kodi-device/"><u>Easy Steps: Setting Up Matrix AIO's Boys Add-On in Your Kodi Device</u></a></li>
+<li><a href="https://win11.techidaily.com/focus-on-sharpness-nine-tactics-to-clear-up-blurry-pc-screens/"><u>Focus on Sharpness: Nine Tactics to Clear Up Blurry PC Screens</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-11s-rapid-support-feature/"><u>Launching Windows 11'S Rapid Support Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-max-and-min-cpu-indicators-on-windows/"><u>Mastery of Max & Min CPU Indicators on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-remote-desktop-errors-in-windows-10-and-11/"><u>Overcoming Remote Desktop Errors in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-windows-11-zoom-problems-code-1132/"><u>Solving Common Windows 11 Zoom Problems: Code 1132</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-cds-a-wmp-masterclass/"><u>Unlocking the Potential of Cds A WMP Masterclass</u></a></li>
 </ul></div>
 

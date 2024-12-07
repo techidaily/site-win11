@@ -1,7 +1,7 @@
 ---
 title: "Navigating Functional Adjustments: Windows 10/11 Edition"
-date: 2024-09-05T08:39:35.762Z
-updated: 2024-09-06T08:39:35.762Z
+date: 2024-12-06T11:29:29.868Z
+updated: 2024-12-06T18:37:20.481Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win10_FunctionalAdj,Windows11_Adaptations,AdaptiveWindowsTech,Function
 thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792c4b565af91b063377adb915.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating Functional Adjustments: Windows 10/11 Edition
 
  The function keys at the top of your keyboard serve as a shortcut to control certain hardware features. For instance, if you want to turn on the backlit keyboard, they allow you to do so by pressing a key, saving you from having to do the same through Windows.
@@ -35,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
  The easiest way to change function keys is by modifying settings within the Windows Mobility Center. This method, however, will only work for those of you using a Dell device.
@@ -52,30 +44,17 @@ Here is how to proceed:
 3. Click on**Windows Mobility Center** .  
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Modify the Function Keys Settings in the BIOS
 
  You can also make the changes directly in BIOS, which helps the operating system and the hardware load properly.
@@ -106,20 +85,13 @@ Similarly, if you have an Acer device, follow these steps:
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
+
 If you are a Windows 11 user, follow these steps:
 
 1. Press the Win + S keys together to open the Windows Search utility.
@@ -127,18 +99,16 @@ If you are a Windows 11 user, follow these steps:
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
 
 1. In the following window, select**Troubleshoot** .
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
@@ -151,12 +121,6 @@ If you are a Windows 11 user, follow these steps:
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is It a Good Idea To Change Fn Key Settings?
 
  Changes to Fn keys are safe and do not have any negative consequences. The customization options for the keys within Windows are limited, but there are quite a few third-party resources that you can look into if you want to modify keys a step further.
@@ -171,18 +135,19 @@ If you are a Windows 11 user, follow these steps:
 
  Ultimately, whether it is a good idea to change the Fn key settings or not will depend on how you use your computer and what you prefer. We recommend weighing the pros and cons and consider your usage patterns before you make a decision.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Function Keys Like a Pro
 
  Function keys are great for improving productivity and efficiency. With the right techniques in mind, you can make the most of them. We hope that following the steps above enabled you to modify the setting of your function keys. It is also important to note that all the methods outlined above don't make a permanent change to the system, so you can always revert the changes.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +156,24 @@ If you are a Windows 11 user, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-positive-side-of-engaging-with-asmr/"><u>[New] Exploring The Positive Side of Engaging with ASMR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-power-of-focused-image-blurring/"><u>[New] Exploring the Power of Focused Image Blurring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289143668-ai-winxvideo/"><u>AI WinXvideo 기술에 관한 자주 묽는 질문과 해석</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-techniques-to-run-task-manager-admin-style-on-windows-11/"><u>Command Prompt Techniques to Run Task Manager Admin-Style on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1723005468576-cyberpunk-2077-black-screen-dilemma-top-solutions-revealed/"><u>Cyberpunk 2077 Black Screen Dilemma: Top Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-nearby-networking-solutions-googles-vs-microsofts-method/"><u>Evaluating Nearby Networking Solutions: Google's Vs. Microsoft's Method</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-management-app-snafus-quickly/"><u>Fix Windows Management App Snafus Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-11-proplus-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme 11 Pro+?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-v29-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo V29 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-widget-alerts-management/"><u>Mastering Windows 11 Widget Alerts Management</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-windows-11-taskbar-icons-effectively/"><u>Scaling Windows 11 Taskbar Icons Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-easy-to-use-gamers-edits-software/"><u>Top 10 Easy-to-Use Gamers' Edits Software</u></a></li>
+<li><a href="https://win11.techidaily.com/top-secrets-to-boosting-windows-11-games-unveiling-the-seven-key-moves/"><u>Top Secrets to Boosting Windows 11 Games: Unveiling the Seven Key Moves</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-windows-blue-screen-error/"><u>Ultimate Guide: Resolving the Windows Blue Screen Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugged-reactivate-your-windows-wi-fi-with-these-tips-and-tricks/"><u>Unplugged? Reactivate Your Windows Wi-Fi with These Tips and Tricks</u></a></li>
+</ul></div>
 

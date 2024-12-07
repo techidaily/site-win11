@@ -1,7 +1,7 @@
 ---
 title: "Revamp Records: 7 Essential Tools to Alter File Dates on PC"
-date: 2024-11-20T17:24:51.494Z
-updated: 2024-11-28T02:11:02.963Z
+date: 2024-12-04T02:27:58.731Z
+updated: 2024-12-07T01:14:19.254Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 ![BulkFileChanger App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulkfilechanger-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  BulkFileChanger is another lightweight app that doesn’t require any installation. Simply download the tool and run the relevant executable (.exe) file.
 
  To add a folder or file to this tool, navigate to the**File** tab and select**Add Files** . To make things even much easier, simply drag and drop your files onto the tool.
@@ -53,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Attribute Changer is a bit different from the other tools, but it’s a bit convenient. It allows you to change the date and time of your files through File Explorer’s context menu.
 
@@ -69,13 +73,13 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -92,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![AttributeMagic App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attributemagic-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
  To use the "Date and Time Changer" feature, open File & Folder Tools and click the**calendar icon** at the top of the screen. Next, click the**Add File(s)** button and then pick a relevant file on your PC. You can also drag and drop your files onto the tool if you want.
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 **Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Bulk Rename Utility
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
@@ -174,17 +174,20 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer-by-filmora/"><u>[New] In 2024, How to Make a YouTube Trailer by Filmora</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-precision-in-motion-apowersofts-pc-screen-recorder-review/"><u>[New] Precision in Motion Apowersoft's PC Screen Recorder Review</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-snapchats-new-spotlight-functionality/"><u>[Updated] In 2024, Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-live-to-recorded-your-path-to-maccam-skills-for-2024/"><u>From Live to Recorded Your Path to MacCam Skills for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-active-directory-domain-services-printer-error-in-windows-11-and-11/"><u>How to Fix the “Active Directory Domain Services” Printer Error in Windows 11 & 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below/"><u>New 2024 Approved What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-hurdles-with-handbrake/"><u>Overcoming Windows Hurdles with HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-login-failures-8-strategies/"><u>Overcoming Windows Login Failures: 8 Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-uninstalling-and-reinstalling-utorrent-on-windows-1087/"><u>Steps for Uninstalling and Reinstalling uTorrent on Windows 10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-wipe-out-email-at-sign-in/"><u>The Ultimate Guide to Wipe Out Email at Sign-In</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-malfunction-solved-steps-to-regain-control/"><u>Windows 10 Brightness Malfunction Solved: Steps to Regain Control</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-choice-top-12-non-time-restricted-recorders-for-2024/"><u>[New] Expert Choice Top 12 Non-Time Restricted Recorders for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-amplify-your-content-speedy-instagram-fame/"><u>[New] In 2024, Amplify Your Content Speedy Instagram Fame</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-seamless-desktop-capture-high-quality-free-windowsmac-software/"><u>[New] Seamless Desktop Capture High-Quality Free Windows/Mac Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-video-presence-with-stellar-intros-in-imovie-for-2024/"><u>[Updated] Elevate Your Video Presence with Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-store-complete-online-interface-for-2024/"><u>[Updated] Store Complete Online Interface for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-five-steps-to-enhance-your-screenplay-narration/"><u>2024 Approved Five Steps to Enhance Your Screenplay Narration</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-touch-input-layout-on-newest-windows-os-win-11-edition/"><u>Correcting Touch Input Layout on Newest Windows OS - Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-computer-quirks-with-pct-mastery-guide/"><u>Resolve Computer Quirks with PCT Mastery Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-and-reinstall-solutions-for-unison-problems-in-win11/"><u>Restart & Reinstall: Solutions For Unison Problems in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/start-windows-file-explorer-using-onedrive-pathway/"><u>Start Windows File Explorer Using OneDrive Pathway</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-accessing-and-enjoying-swf-videos-on-your-mac/"><u>Step-by-Step Guide: Accessing & Enjoying SWF Videos on Your Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-early-window-11-edge-tabs-now/"><u>Stop Early Window 11 Edge Tabs Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/strengthen-your-network-defenses-add-safe-websites-to-windows-11/"><u>Strengthen Your Network Defenses: Add Safe Websites to Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-astonishing-methods-boosting-your-daily-productivity-with-chatgpt/"><u>Top 7 Astonishing Methods: Boosting Your Daily Productivity with ChatGPT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/uncharted-visual-narrative-evaluation-and-parallel-proposals-for-2024/"><u>Uncharted Visual Narrative Evaluation & Parallel Proposals for 2024</u></a></li>
 </ul></div>
 

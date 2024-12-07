@@ -1,7 +1,7 @@
 ---
 title: How to Extend the Duration of Windows 11 Shutdown During Running Operations
-date: 2024-11-22T18:03:29.715Z
-updated: 2024-11-27T20:28:09.727Z
+date: 2024-11-30T17:19:18.271Z
+updated: 2024-12-06T18:08:53.144Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Windows Show an Error Message While Logging Off?
 
  It may be that you have quite a few tasks running simultaneously, each possibly with unsaved data. If this is the case, each task or application attempts to save data before Windows logs off. This could be one reason for the error message. As a remedy, you may want to extend the time allotted for signing off to allow all tasks to finish what they are doing.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Windows Wait Longer When Logging Off
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
  Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 5. Double-click this string to edit its value, which is in milliseconds. (1000 milliseconds equals one second.) By default, the value data is set to 20,000 (or 20 seconds).
 6. Increase this value to make Windows wait on running apps longer before shutting down or logging off. (Decreasing its value will log you off more quickly.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1B. How to Change WaitToKillAppTimeout for All Users
 
 This will apply altered log-off rules to all users on the PC.
@@ -77,7 +77,7 @@ This will apply altered log-off rules to all users on the PC.
 3. Follow steps three to six from method 1A to change how long Windows waits for apps to finish closing properly when logging off for all users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2A. How to Set HungAppTimeout for Just Your User Account
@@ -92,6 +92,10 @@ This will apply altered log-off rules to all users on the PC.
 5. Double-click this string to edit its value – again, in milliseconds. (1000 milliseconds equals 1 second.) By default, the value data is set to 5000.
 6. Increase this value to make Windows afford more time to hung apps and wait longer when shutting down or logging off. (Reduce this value to log off more quickly.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2B. How to Change HungAppTimeout for All Users
 
 This will allow you to change the default value for all users.
@@ -100,10 +104,6 @@ This will allow you to change the default value for all users.
 2. Navigate to the following folder in the registry:  
 `HKEY_USERS\.DEFAULT\Control Panel\Desktop`
 3. Follow steps 3 to 6 from method 2A to change how long Windows waits when logging off for all users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Give Apps More Time to Close When Logging Off
 
@@ -124,19 +124,20 @@ This will allow you to change the default value for all users.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-passion-to-prominence-the-creators-quest/"><u>[New] 2024 Approved From Passion to Prominence The Creator's Quest</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cardboard-contrast-google-to-samsung-gear-headset/"><u>[Updated] Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ranked-top-5-ps3-virtual-players-for-pc/"><u>[Updated] In 2024, Ranked Top 5 PS3 Virtual Players for PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend-for-2024/"><u>[Updated] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm54sh5paz44cb5l244ge44ke44gz44gp44gm5lplush6ac844gn44gn44kl44od44od44oj44kt44oj44k544oi44oa44km44oz44ot44o844oa44o844gu6kmz57sw44gq6kej6kqs44cn/"><u>「無料、使いやすくて信頼できるポッドキャストダウンローダーの詳細な解説」</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44k144kk44oi44go44k944o844k344oj44or44oh44oh44kj44ki44gn5yq55p6c55qe44gr44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44ks5ywx5pyj44gz44kl44gf30/"><u>「ウェブサイトとソーシャルメディアで効果的にマルチメディアファイルを共有するための戦略」</u></a></li>
-<li><a href="https://win11.techidaily.com/all-inclusive-kodi-handbook-expert-strategies-for-optimizing-and-personalizing-your-viewing-pleasure/"><u>All-Inclusive Kodi Handbook: Expert Strategies for Optimizing and Personalizing Your Viewing Pleasure</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-guide-for-popular-screen-recorder-zd-soft/"><u>In 2024, Ultimate Guide for Popular Screen Recorder ZD Soft</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028954324-m4a/"><u>M4A形式への簡単なビデオ変換テクニック</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solutions-for-sony-wireless-earbuds-mic-problems-on-windows-pc-wh-1000-series/"><u>Solutions for Sony Wireless Earbuds Mic Problems on Windows PC - WH-1000 Series</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-g42-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia G42 5G Phone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/tune-in-for-a-song-fb-music-experience/"><u>Tune In for a Song FB Music Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-video-playback-easy-instructions-for-toshiba-tv-users/"><u>USB Video Playback: Easy Instructions for Toshiba TV Users</u></a></li>
-<li><a href="https://win11.techidaily.com/44ow44op44km44k444oz44kw5lit44gr44oh44oh44kj44ki44gm5yan55sf44gn44gn44gq44ge5ac05zci44cb44gp44gg5aplusplus5yem44gz44km44gw44ki44ge44gl77ya44ob44ol44o844oi4440/"><u>ブラウジング中にメディアが再生できない場合、どう対処すればよいか：チュートリアル</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-tips-for-operating-ez-grabber/"><u>[Updated] Essential Tips for Operating EZ Grabber</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ranked-highest-audio-transformation-tools-including-magic/"><u>[Updated] In 2024, Ranked Highest Audio Transformation Tools, Including Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[Updated] In 2024, Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlock-your-potential-with-ez-grabber-installation-and-usage-for-2024/"><u>[Updated] Unlock Your Potential with EZ Grabber - Installation & Usage for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-use-jump-cuts-in-your-vlog/"><u>2024 Approved How To Use Jump Cuts in Your Vlog</u></a></li>
+<li><a href="https://win11.techidaily.com/declutter-your-pc-using-windows-1011-to-delete-old-files/"><u>Declutter Your PC: Using Windows 10/11 to Delete Old Files</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-gaming-controls-windows-mastery-in-calibration-and-test/"><u>Elevating Gaming Controls: Windows Mastery in Calibration & Test</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-top-picks-unmissable-amazon-prime-day-2024-offers-early-access-and-savings/"><u>Exclusive Top Picks: Unmissable Amazon Prime Day 2024 Offers - Early Access & Savings!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-g22-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia G22 Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-unresponsive-solutions-within-windows-1011-systems/"><u>Optimizing Unresponsive Solutions Within Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resetting-error-code-zero-in-windows-11/"><u>Quick Guide: Resetting Error Code Zero in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rekindling-file-explorer-windows-10-edition/"><u>Rekindling File Explorer: Windows 10 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/revert-windows-configs-post-reboot-effective-solutions/"><u>Revert Windows Configs Post-Reboot: Effective Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revive-deleted-notifications-a-comprehensive-tutorial-for-iphone-users/"><u>Revive Deleted Notifications: A Comprehensive Tutorial for iPhone Users</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-world-of-warcraft-error-132-in-windows-editions/"><u>Solving World of Warcraft Error 132 in Windows Editions</u></a></li>
 </ul></div>
 

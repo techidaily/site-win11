@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Notification Management
-date: 2024-09-05T08:37:40.874Z
-updated: 2024-09-06T08:37:40.874Z
+date: 2024-12-03T02:09:05.487Z
+updated: 2024-12-07T05:45:33.537Z
 tags:
   - windows10
   - windows11
@@ -21,33 +21,13 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Are Widgets in Windows 11?
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Widgets are your personalized gateway to essential information updates on topics that interest you. On Windows 11, you’re presented with a dedicated Widgets panel filled with a dynamic array of cards and quickly accessible through the taskbar. You can also [add widgets to Windows 11's desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
 
  You can think of widgets as your go-to shortcuts that directly bring you information from apps that are important to you. Whether it’s the latest global news updates, weather forecasts, or scores from last night’s football game, widgets let you glance over what matters without the ordeal of opening individual apps or consistent Google searches.
@@ -59,11 +39,9 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
  If you haven't yet, we recommend [getting started with Windows 11's widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/). Once you're all set up with a selection of widgets that are relevant to your interests, you can then refine them further by tweaking how their notifications appear.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Two Different Kinds of Widget Notifications on Windows 11
 
  Widgets use two types of notifications—rotating announcements, and badge notifications.
@@ -73,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
  Furthermore, widgets make use of a badge notification to catch your eye when there are important updates about the weather or news. If you want to know more about the notification, you can open the Widgets panel and see what caused the notification to appear.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change the Notification Settings for Widgets on Windows 11
 
  There are two main channels that you can use to stay informed on the latest updates for your configured widgets. You can either periodically launch the widgets panel and glance over your widgets or set up notifications to keep you informed on new developments.
@@ -89,29 +65,24 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 1. Launch the **Widgets** board through the icon on the **taskbar** or by pressing its dedicated keyboard shortcut, **Win + W**.  
 ![change widget notifications on Windows 11 through the Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/whatsapp-image-2023-08-13-at-20-26-38.jpeg)
 2. Click on the profile picture icon to open Widget settings.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Under the **Widget taskbar behaviors**, toggle the **Show notification badges** and **Show announcements** options as per your preference.
 
  Ideally, you want to show announcements for widgets that are very relevant to your interests—the topics you want instant updates on. Badge notifications without announcements are good for more casual interests that you don't want disturbing you every time something happens, and rarely-used widgets can have all of these disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Widgets Make Using Windows 11 Easy
 
  Microsoft made a smart move by adding widgets to Windows 11\. It's not just about boosting productivity and keeping up with global events; the excellent design also adds a touch of style to the whole experience.
 
  Read on as we discuss what widgets are and how you can manage widget notifications on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +90,23 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>[New] 2024 Approved Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximize-your-earnings-with-youtube-short-tips/"><u>[New] In 2024, Maximize Your Earnings with Youtube Short Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-filmora-insights-for-every-content-creator/"><u>[New] Leveraging Filmora Insights for Every Content Creator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>[Updated] Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoid-hassle-effortless-addition-of-video-content-in-youtube-plays-for-2024/"><u>Avoid Hassle Effortless Addition of Video Content in YouTube Plays for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/connect-to-common-windows-shared-docs/"><u>Connect to Common Windows Shared Docs</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-made-simple-personalize-your-w11-desktop/"><u>Decluttering Made Simple: Personalize Your W11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-the-lock-screen-on-windows-11/"><u>How to Disable the Lock Screen on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-edit-the-windows-registry-in-the-command-prompt/"><u>How to Edit the Windows Registry in the Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-you-need-to-format-the-disk-in-drive-before-you-can-use-it-error-on-windows/"><u>How to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g29-racing-wheel-software-updates-compatible-with-modern-operating-systems-including-windows-1087/"><u>Logitech G29 Racing Wheel Software Updates: Compatible with Modern Operating Systems Including Windows 10/8/7</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-locking-windows-safescreen-status/"><u>Methods for Locking Windows SafeScreen Status</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-fixed-system-paused-over-device-error/"><u>NVIDIA Fixed: System Paused Over Device Error</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-internal-failure-for-win10plus-networking/"><u>Resolving Internal Failure for Win10+ Networking</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-excellence-mirrorless-cameras-vs-traditional-dslrs-for-2024/"><u>Video Excellence Mirrorless Cameras vs Traditional DSLRs for 2024</u></a></li>
+</ul></div>
+

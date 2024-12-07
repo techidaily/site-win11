@@ -1,7 +1,7 @@
 ---
 title: Ensuring Continuous Tab Integrity in Explorer
-date: 2024-09-05T08:33:06.242Z
-updated: 2024-09-06T08:33:06.242Z
+date: 2024-11-30T11:03:26.971Z
+updated: 2024-12-06T22:29:29.099Z
 tags:
   - windows10
   - windows11
@@ -22,18 +22,6 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
  If File Explorer keeps opening a new window for every folder you access, you can use the tips below to troubleshoot the problem.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Update to Windows 11 22H2
 
  To get File Explorer tabs on your computer, you must run the Windows 11 22H2 version. So, if you’ve somehow missed the latest update, here’s how you can update to Windows 11 22H2:
@@ -45,19 +33,15 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -67,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove File Explorer Cache
 
@@ -84,12 +72,6 @@ Follow these steps to clear File Explorer cache files:
 
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the[built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -99,11 +81,9 @@ Follow these steps to clear File Explorer cache files:
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall Windows Updates
 
  There’s a chance File Explorer’s tabs are still missing even after updating to Windows 11 22H2 because of an update malfunction. In this case, reinstalling the update should fix the problem.
@@ -117,11 +97,9 @@ Follow these steps to clear File Explorer cache files:
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 ## Get Your File Explorer Tabs Back on Windows 11
@@ -130,14 +108,11 @@ Follow these steps to clear File Explorer cache files:
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +121,23 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-clarity-the-elite-list-of-online-gridding-services/"><u>[New] Capturing Clarity The Elite List of Online Gridding Services</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[New] In 2024, Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-minimal-shake-cam-for-dynamic-shooting/"><u>[Updated] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-easy-to-use-drones-kids-edition/"><u>[Updated] Top 10 Easy-to-Use Drones - Kids Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-windows-10-cameras-unveiled/"><u>2024 Approved Innovative Windows 10 Cameras Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost-for-2024/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138575445-9781452500348-conversations-with-mr-kiki-one-womans-spiritual-journey-with-her-best-friend/"><u>Conversations with Mr Kiki: One Woman’S Spiritual Journey with Her Best Friend | Free Book</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ver-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-free-passwords-creator-apps-for-windows-users/"><u>Essential Free Passwords Creator Apps for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-windows-simulators-unmatched-nintendo-switch-games/"><u>Leading Windows Simulators: Unmatched Nintendo Switch Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932847-9781855842847-sexuality-love-and-partnership/"><u>Sexuality, Love and Partnership | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-errors-when-accessing-roblox-on-windows-accounts/"><u>Solving Errors when Accessing Roblox on Windows Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/the-missing-link-how-to-find-and-fix-your-pcs-missing-enhancements/"><u>The Missing Link: How to Find and Fix Your PC’s Missing Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-disabling-mobility-center-in-windows-11/"><u>Tutorial: Disabling Mobility Center in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-avoid-risks-with-inexpensive-windows-codes/"><u>Unlocking Secrets to Avoid Risks with Inexpensive Windows Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/user-interface-renaissance-a-proposal-of-6-taskbar-improvements-for-windows-11/"><u>User Interface Renaissance: A Proposal of 6 Taskbar Improvements for Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Turning Phones Into Windows Audio Input
-date: 2024-09-05T08:39:23.458Z
-updated: 2024-09-06T08:39:23.458Z
+date: 2024-12-06T04:33:00.483Z
+updated: 2024-12-06T23:58:34.179Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Phone to Window Sound,Audio Input via Phone,Windows Audio Feature,Mobi
 thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f668f4cb2a72d45c0fe37f64.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Turning Phones Into Windows Audio Input
 
  Whether you're chatting with friends over Discord, participating in a family Zoom call, or laying down some tunes, a microphone can come in very handy for your computer. But what if you don't have one?
@@ -28,18 +22,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Your Phone as a Microphone for PC
 
  One of the best ways to achieve this is by using [WO Mic](https://wolicheng.com/womic/). With this program, you can use USB, Bluetooth, or Wi-Fi to connect your smartphone's microphone to your computer.
@@ -52,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![connect wo mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/connect-wo-mic.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We'll detail the steps for all the different options below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Connect via Bluetooth
 
@@ -92,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 2. Tap **Transport** and select **Bluetooth**.
 3. Go back to the previous screen and tap the **play icon** to begin transmitting your voice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Connect via USB
 
  Connecting via USB is the best option for most people because it's more stable than a wireless connection and the latency is lower. This method only works for Android.
@@ -118,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 3. Go back to the previous screen and tap the **play icon** to activate your phone's microphone.
 
 ![wo mic android app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![wo mic android app main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/wo-mic-android-app-main-screen.jpg)
 
@@ -148,6 +120,10 @@ Close
 2. In the **Phone IP address** field, input the IP address from the app.
 3. Click **Connect** to begin using the microphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Connect via Wi-Fi Direct
 
  This method requires you to [turn your phone into a Wi-Fi hotspot](https://www.makeuseof.com/what-is-a-hotspot-and-how-does-it-work/) and use your network data. Use this as a last resort if your computer doesn't have its own internet connection and the other methods above aren't suitable.
@@ -174,17 +150,9 @@ Close
 3. Click **Connect**.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Windows Not Detecting Your Voice?
 
  You shouldn't run into any problems, but if you follow the above instructions and [Windows isn't detecting the microphone](https://www.makeuseof.com/tag/fix-microphone-problems-windows-10/), there's an easy fix:
@@ -195,18 +163,6 @@ Close
 
 ![windows 11 sound input settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-sound-input-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To check the microphone is detecting your voice:
 
 * On Windows 10, speak into your smartphone and you should see the volume reflected on the **Test your microphone** bar.
@@ -215,11 +171,9 @@ Close
 ![windows 11 microphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-11-microphone-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Alternative Methods to WO Mic
 
  There are alternatives to WO Mic, like [Megaphone Free](https://apps.apple.com/app/megaphone-free/id304955183) for iOS or [Microphone](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36696/https://play.google.com/store/apps/details?id=com.grace.microphone) for Android, but these require the use of an audio connection jack:
@@ -230,18 +184,6 @@ Close
 
  Simply put, headphones vibrate to create sound, while microphones monitor for vibrations. But you can still switch it and use the headphones as a microphone. However, bear in mind that the audio quality will leave a lot to be desired, making this a last resort option.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Your Smartphone as a Webcam
 
  While using your smartphone as a Windows microphone might not be ideal for everyone, it's a perfect solution for those who need to get talking quickly and don't have a traditional microphone handy.
@@ -252,11 +194,27 @@ Close
 
  We'll show you different ways to use your phone as a microphone. The instructions herein work for both Windows 10 and Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sharing-vimeo-content-instagram-tips/"><u>[New] 2024 Approved Sharing Vimeo Content Instagram Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[New] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-rapid-troubleshooting-creating-shortcuts-for-win-1011/"><u>Enabling Rapid Troubleshooting: Creating Shortcuts for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-windows-error-code-0xc0000001/"><u>How to Eliminate Windows Error Code 0Xc0000001</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-tecno-spark-10-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Tecno Spark 10 Pro Lock Screen Password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-companion-for-online-radio-preservationists/"><u>In 2024, The Ultimate Companion for Online Radio Preservationists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leading-mp4-converter-apps-compared-the-ultimate-guide-to-dvd-authoring-software-on-pc-and-mac/"><u>Leading MP4 Converter Apps Compared: The Ultimate Guide to DVD Authoring Software on PC and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-amd-software-failures-on-your-computer/"><u>Mending AMD Software Failures on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-chrome-hiccups-fixes-for-w11-users/"><u>Navigate Past Chrome Hiccups: Fixes for W11 Users.</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-securing-low-cost-windows-11-vcs/"><u>Strategies for Securing Low-Cost Windows 11 VCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-successfully-handle-windows-update-failure-error-0x80070003/"><u>Strategies to Successfully Handle Windows Update Failure (Error: 0X80070003)</u></a></li>
+</ul></div>
+

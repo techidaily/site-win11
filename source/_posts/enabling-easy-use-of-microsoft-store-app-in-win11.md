@@ -1,7 +1,7 @@
 ---
 title: Enabling Easy Use of Microsoft Store App in Win11
-date: 2024-11-20T20:58:33.614Z
-updated: 2024-11-27T22:39:52.749Z
+date: 2024-12-01T22:18:02.864Z
+updated: 2024-12-07T00:42:32.805Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  As the name implies, you should run this troubleshooter any time you have a problem with one of the Microsoft Store apps. Including the store itself. So, it might be a useful tool while trying to unblock the Microsoft Store app.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  Windows will now search for any possible issues with the store apps. Once it finishes the process, it will provide troubleshooting instructions, so make sure to follow them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Switch to a Different Account
 
  There’s a chance that Microsoft Store restrictions are impacting only the account you’re currently using. If you’re looking for a workaround, you could[switch user accounts](https://www.makeuseof.com/windows-11-switch-user-accounts/) .
@@ -50,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  But if this didn’t fix the problem, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reset Microsoft Store
 
  You might be dealing with restricted actions in Microsoft Store due to outdated or corrupted cache files. Fortunately, there are multiple[ways to reset Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) and fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Group Policy
 
@@ -71,7 +67,11 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![Disabling or Enabling the Microsoft Store using the LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-or-Enabling-the-Microsoft-Store-using-the-LGPE.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check Registry Editor
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![Clicking the “RemoveWindowsStore” value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Clicking-the-“RemoveWindowsStore”-value-in-the-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Unblock the Microsoft Store on Windows
@@ -107,17 +107,22 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-taking-the-plunge-a-stepwise-strategy-to-set-up-your-personal-tech-review-platform/"><u>[New] In 2024, Taking the Plunge A Stepwise Strategy to Set Up Your Personal Tech Review Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unrivaled-script-authority-place/"><u>[New] In 2024, Unrivaled Script Authority Place</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030191811-mp4/"><u>「プロモーションビデオ作成後にMP4ファイルが正常に再生されない場合の解決法」</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029921217-20246/"><u>2024年最高のオンラインビデオ編集プラットフォームベスト6</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030205806-wav/"><u>高度WAV編集ガイド：効果的にトリミング・組み合わせ・ボリューム調整法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-ppm-png/"><u>無條件免費：使用Movavi自動改變 PPM為 PNG -在線上</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/demystifying-the-money-behind-1m-on-youtube/"><u>Demystifying the Money Behind 1M on YouTube</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effective-strategies-recovering-file-corruption-issues-following-the-latest-windows/"><u>Effective Strategies: Recovering File Corruption Issues Following the Latest Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-advanced-conversational-ai-metaai/"><u>Exploring Advanced Conversational AI: MetaAI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-v27-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo V27 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030041701-youtube/"><u>YouTube ミュージックダウンロードガイド - 曲を正しく記録するための効果的な手法</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029971792-obs-studio/"><u>ぜひ体験！OBS Studioで美しくキレイに高精細化されたゲーム動画の作成法</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-for-classic-film-aesthetics/"><u>[New] In 2024, Step-by-Step for Classic Film Aesthetics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>[Updated] 2024 Approved Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-follower-dilemrancy-guide/"><u>[Updated] The Instagram Follower Dilemrancy Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-video-ranking-breakdown-how-it-works-for-2024/"><u>[Updated] YouTube Video Ranking Breakdown How It Works for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-insights-on-constructing-high-quality-srt-files/"><u>2024 Approved Expert Insights on Constructing High-Quality SRT Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>2024 Approved The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-24-making-your-device-visible-again-in-windows-11-8-and-7/"><u>Error Code 24 - Making Your Device Visible Again in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-quick-fixes-configuring-windows-troubleshooting-commands/"><u>Expert Guide to Quick Fixes: Configuring Windows Troubleshooting Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-mastering-windows-lav-filter-usage-and-functionality/"><u>Expert Tips for Mastering Window's LAV Filter Usage and Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-m34-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy M34 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/novel-methods-to-execute-software-on-windows-os/"><u>Novel Methods to Execute Software on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-active-state-for-windows-11-user-interface/"><u>Reinstating Active State for Windows 11 User Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-settings-the-drivers-rebooting-roadmap/"><u>Tailoring Screen Settings: The Drivers' Rebooting Roadmap</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-audacity-paudio-internal-issue-in-windows/"><u>Troubleshooting Audacity PAudio Internal Issue in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-batches-into-windows-wonders-the-exe-guide/"><u>Turning Batches Into Windows Wonders: The Exe Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-troubleshoot-tool-integration-into-right-click-options/"><u>Windows Troubleshoot Tool Integration Into Right-Click Options</u></a></li>
 </ul></div>
 

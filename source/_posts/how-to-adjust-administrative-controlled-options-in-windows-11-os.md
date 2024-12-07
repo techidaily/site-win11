@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Administrative Controlled Options in Windows 11 OS
-date: 2024-09-05T08:38:36.831Z
-updated: 2024-09-06T08:38:36.831Z
+date: 2024-12-02T05:32:54.384Z
+updated: 2024-12-07T10:26:26.179Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
  If you're encountering this error, we'll show you how to fix the “some settings are managed by your organization” error quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Causes This Error Message to Appear?
 
  The error generally appears on your computer screen whenever you attempt to make changes to the Settings app. This can cause an unwanted hindrance, as it will not allow you to make changes in your Settings menu. It can occur due to several reasons:
@@ -37,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 Let's now see how to fix this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  The first thing to fix the "some settings are managed by your organization" error is to restart your computer. This will resolve any temporary glitches. If you need help, check out[the different ways to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
@@ -54,6 +46,10 @@ Let's now see how to fix this problem.
 
  Usually, restart your computer to complete the installation process. Then check to see if you can now make changes in your Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the Third-Party Application
 
  If you've recently added any third-party application installed on your Windows PC, it could be the cause of this issue. Uninstalling such applications can solve the problem.
@@ -61,6 +57,10 @@ Let's now see how to fix this problem.
  Think back to any applications you installed before the error began appearing. If you have an idea as to what might be the cause, follow our guide on[how to uninstall programs on Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) or[Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to get rid of it.
 
  Once done, restart your computer to apply the changes. If it hasn't gone away yet, try getting rid of any other recent applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Diagnostic Data Settings
 
@@ -73,18 +73,6 @@ Let's now see how to fix this problem.
 3. On the right side of the page, scroll down to**Windows permissions** and click on**Diagnostics & feedback** .  
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
 
@@ -106,22 +94,14 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tweak the Registry Editor
 
  This method is a bit more advanced and should be done with extra caution. One wrong move and you may end up damaging your system. This is why you should[back up your Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -133,12 +113,11 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 4. Now go to the right side pane and look for the**Wuserver** key.  
 ![Edit Registry Editor to fix the error message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-registry-editor-to-fix-the-error-message.jpg)
 5. Then right-click on it and choose**Delete** from the context menu.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. If a pop-up menu appears on the screen, click**Yes** to confirm.
 
  Once you have made these changes, close the Registry editor window and restart your computer. Next time you start your PC, the error message will be gone.
@@ -147,14 +126,11 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
 
  When updating Windows or changing certain settings, you may encounter an error message that says "Some settings are managed by your organization". If so, this guide will help you fix the error and get back in control of your system settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +139,21 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-expert-online-workshop-title-author/"><u>[Updated] Expert Online Workshop Title Author</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-android-cache-a-comprehensive-walkthrough/"><u>Clearing Android Cache - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-non-persistent-state-failures-for-nvidias-control-center/"><u>Correcting Non-Persistent State Failures for NVidia's Control Center</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-employment-search-the-ultimate-6-step-guide-with-chatgpt/"><u>Elevate Your Employment Search: The Ultimate 6-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elite-architects-best-of-breed-instragram-hlv-artisans-for-2024/"><u>Elite Architects Best-of-Breed Instragram HLV Artisans for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-manage-windows-11-rgb-options/"><u>Learn to Manage Windows 11 RGB Options</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-workspace-strategic-software-shortcuts-for-win11/"><u>Optimizing Your Workspace: Strategic Software Shortcuts for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-stop-repeated-edge-toolbar/"><u>Solutions to Stop Repeated Edge Toolbar</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-influencers-blueprint-five-steps-to-proven-marketing-success-for-2024/"><u>The Influencer's Blueprint Five Steps to Proven Marketing Success for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-poco-x6-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco X6 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-huoxijie-vii-steps-to-avoid-game-crashes-on-windows-computers/"><u>Troubleshooting Huòxījié VII: Steps to Avoid Game Crashes on Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-microsofts-money-making-in-w11/"><u>Understanding Microsoft's Money-Making in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-window-11-capabilities-efficient-process-screening-and-dynamic-theming/"><u>Unlocking Window 11 Capabilities: Efficient Process Screening & Dynamic Theming</u></a></li>
+</ul></div>
 

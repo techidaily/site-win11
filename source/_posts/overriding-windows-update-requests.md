@@ -1,7 +1,7 @@
 ---
 title: Overriding Windows Update Requests
-date: 2024-09-05T08:40:02.633Z
-updated: 2024-09-06T08:40:02.633Z
+date: 2024-11-30T19:46:59.756Z
+updated: 2024-12-06T21:40:01.483Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: Windows Updates Control,Block Update Commands,Disable Windows Patches,
 thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overriding Windows Update Requests
 
  Microsoft regularly releases patch updates to enhance your device's performance and security. When you download this update, Windows often replaces the usual Shut Down and Restart buttons with “Update and shut down” to remind you not to miss the update.
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Computer From Settings
 
@@ -48,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
  This will search for available updates and install them if there are any. If you see no updates, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows operating system comes with troubleshooting tools specific to each problem. To solve update-related issues, use the Windows Update troubleshooter. This tool detects corrupted, or faulty files associated with updates and fixes them automatically.
@@ -72,20 +62,12 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 4. Look for **Windows Update** and click **Run** next to it.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Clear the Software Distribution Folder
 
  The Software Distribution folder contains downloaded updates and installation files. If these files become corrupted, it could lead to this issue. To fix it, clear the Software Distribution directory and check if that solves the problem.
@@ -103,12 +85,6 @@ net stop msiserver`
 6. In the SoftwareDistribution folder, select all the files and delete them permanently.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
 `net start wuauserv  
 net start bits  
@@ -130,18 +106,11 @@ net start msiserver`
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
 4. Now double-click on **Windows Update** to open the Properties window.
+
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
 6. Click **Apply** \> **OK** to save the changes.
@@ -220,15 +189,13 @@ net start cryptsvc`
 5. Save the file as **ResetWindowsUpdate.bat** and close Notepad.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-windows-update-components.jpg)
 6. Now right-click on the .bat file and select **Run as administrator**.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. When the UAC window appears, select **Yes** to continue.
 
  The script will start resetting the Windows Update components and may take a few minutes to complete. Once done, restart your computer and this should solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving Incorrect Notifications for Updates and Restarts
 
@@ -236,11 +203,29 @@ net start cryptsvc`
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/harting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[New] Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-screen-recording-mastery-with-vsdc-reviewed/"><u>[New] In 2024, Screen Recording Mastery with VSDC Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cultural-heritage-without-copyright-boundaries/"><u>[Updated] 2024 Approved Cultural Heritage Without Copyright Boundaries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-xstudio-complete-video-setup-analysis/"><u>[Updated] 2024 Approved Mastering XStudio Complete Video Setup Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-avengers-the-marvellous-world-builders/"><u>[Updated] Pioneering Avengers The Marvellous World-Builders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-comprehensible-guide-to-leveraging-videos-for-social-media-success-for-2024/"><u>[Updated] The Comprehensible Guide to Leveraging Videos for Social Media Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/delve-into-the-mechanics-of-configuring-services-on-windows-11-boots-up/"><u>Delve Into the Mechanics of Configuring Services on Windows 11 Boots Up</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-sound-glitches-in-audacity-on-windows-1111/"><u>Eliminating Sound Glitches in Audacity on Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-sudden-video-driver-halt-in-windows-1011/"><u>Fixing Sudden Video Driver Halt in Windows 10/11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-5-best-mp3-voice-recorder-to-help-you-how-to-record-mp3/"><u>New In 2024, 5 Best MP3 Voice Recorder to Help You How to Record MP3</u></a></li>
+<li><a href="https://win11.techidaily.com/no-one-wants-ads-in-their-windows-11-start-menu/"><u>No One Wants Ads in Their Windows 11 Start Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-the-troublesome-application-failed-to-launch-xc000003e/"><u>Strategies to Fix the Troublesome Application Failed to Launch Xc000003e</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209838270-9780984660445-the-gurus-gift/"><u>The Guru's Gift | Free Book</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-efficient-apc-be600m1-uninterruptible-power-supply-plus-a-usb-charger-for-your-devices/"><u>The Ultimate Guide to the Efficient APC BE600M1 Uninterruptible Power Supply - Plus a USB Charger for Your Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-index-configuration-explained/"><u>Windows Index Configuration Explained</u></a></li>
+</ul></div>
+

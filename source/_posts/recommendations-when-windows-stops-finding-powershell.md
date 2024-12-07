@@ -1,7 +1,7 @@
 ---
 title: Recommendations When Windows Stops Finding PowerShell
-date: 2024-11-25T03:34:20.680Z
-updated: 2024-11-28T04:28:38.122Z
+date: 2024-12-05T08:59:30.245Z
+updated: 2024-12-07T01:24:21.805Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make Sure Windows PowerShell Is Enabled
 
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
@@ -65,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 ![Create Desktop Shortcut for PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-PowerShell-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
@@ -110,17 +114,9 @@ To update PowerShell on Windows:
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
  Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on[how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
 
@@ -134,6 +130,10 @@ To create a new user account on Windows, use these steps.
 4. Click the**Add account** button.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
@@ -158,19 +158,22 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-essential-studio-handbook-xvideo-studio-guide/"><u>[New] In 2024, The Essential Studio Handbook XVideo Studio Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-snapback-automatically-adding-snapshots-to-photos/"><u>[Updated] Navigating Snapback Automatically Adding Snapshots to Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/1-quick-and-simple-guide-downloading-and-setting-up-showbox-on-your-computer/"><u>1. Quick & Simple Guide: Downloading & Setting Up ShowBox on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028090190-20248/"><u>2024年度人気動画編集ツールベスト8！無料でダウンロード可能</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comprehensive-guide-to-installing-titanium-kodi-skin-across-various-kodi-editions/"><u>A Comprehensive Guide to Installing Titanium Kodi Skin Across Various Kodi Editions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-the-world-in-360-watching-vr-videos-on-iphone/"><u>Discover the World in 360 Watching VR Videos on iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hero5-vs-yi-4k-updated-battle-for-best-action-cam-for-2024/"><u>Hero5 Vs. Yi 4K Updated Battle for Best Action Cam for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-redmi-note-12-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi Redmi Note 12 4G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/safe-video-extraction-from-youtube-tips-on-downloading-to-mp4-for-2024/"><u>Safe Video Extraction From YouTube - Tips on Downloading to MP4 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-transition-getting-started-with-outlook-preview-on-windows-11/"><u>Seamless Transition: Getting Started with Outlook Preview on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027263067-step-by-step-guide-video-editing-in-windows-10-updated/"><u>Step-by-Step Guide: Video Editing in Windows 10 (Updated)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/track-the-admirers-of-your-visual-stories-mastering-instagram-save-insights/"><u>Track the Admirers of Your Visual Stories: Mastering Instagram Save Insights</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unleash-your-creativity-top-phone-apps-for-animated-text-in-videos-for-2024/"><u>Unleash Your Creativity Top Phone Apps for Animated Text in Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wave-goodbye-to-black-screens-in-hitman-3-a-guide-for-windows-gamers/"><u>Wave Goodbye to Black Screens in Hitman #3 - A Guide for Windows Gamers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-guide-to-personalizing-video-images/"><u>[New] In 2024, A Comprehensive Guide to Personalizing Video Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-stunning-youtubers-imagery-a-comprehensive-walkthrough/"><u>[New] In 2024, Crafting Stunning YouTubers' Imagery A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovative-ideas-to-make-your-youtube-shorts-exceptional/"><u>[Updated] Innovative Ideas to Make Your YouTube Shorts Exceptional</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[Updated] Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-uncomplicated-tutorial-for-capturing-mac-screenshots/"><u>[Updated] Uncomplicated Tutorial for Capturing Mac Screenshots</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726223797485-m4a-mp3/"><u>無損將 M4A 轉為 MP3：最快速優化技巧 | 免費指南</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/command-mastery-embracing-sudo-on-windows-pcs/"><u>Command Mastery: Embracing Sudo on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/hide-time-show-dates-taskbar-settings-insight/"><u>Hide Time, Show Dates - Taskbar Settings Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-techniques-for-capturing-audio-on-ipad/"><u>Innovative Techniques for Capturing Audio on iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-computer-mechanics-creating-and-interpreting-reports/"><u>Mastering Computer Mechanics: Creating & Interpreting Reports</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-quickly-to-system-resolutions-in-windows-using-keys/"><u>Navigating Quickly to System Resolutions in WIndows Using Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/new-ui-features-in-enhanced-windows-11/"><u>New UI Features in Enhanced Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-windows-11-altering-system-preferences/"><u>Personalizing Windows 11: Altering System Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functional-key-presses-for-snipshot/"><u>Restoring Functional Key Presses for Snipshot</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-resolving-system-call-failed-errors-in-windows/"><u>Step-by-Step: Resolving System Call Failed Errors in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mystery-unveiled-how-and-why-cant-chatgpt-detect-its-writing-errors/"><u>The Mystery Unveiled: How and Why Can't ChatGPT Detect Its Writing Errors?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Get the Best Linux Features With Windows Apps
-date: 2024-09-05T08:39:27.996Z
-updated: 2024-09-06T08:39:27.996Z
+date: 2024-12-02T01:51:45.971Z
+updated: 2024-12-07T04:13:05.078Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Linux+Windows Integration,Cross-Platform Apps Benefits,Windows Emulati
 thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5be6c80ea6d2432a854e4bb42.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get the Best Linux Features With Windows Apps
 
  Even though Linux is a term that applies to many different flavors of operating system, there are a handful of features that Linux users will know well, but Windows users have to go without.
@@ -31,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![screenshot of numerous programs with linux features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_numerous_programs_with_linux_features.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Linux offers many useful tools for power users, but at the end of the day, many of its functions are simple ones that Windows either obscures or didn't think to add.
 
  Implementing these features into your own Windows system is as easy as installing one of the many third-party programs that aim to offer the functionality.
@@ -49,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
  There are still [many functions that Linux has that Windows will struggle to imitate](https://www.makeuseof.com/things-you-can-do-on-linux-but-not-on-windows/), but with this list, you'll hopefully be able to bring over your favorite Linux features without much hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Better Window Management With AltSnap
 
 ![screenshot of windows desktop with the altdrag configuration menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/altdrag-rightclick-menu-configure.jpg)
@@ -65,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
  A popular program known as AltSnap exists to give this same functionality to Windows. We've written about this powerful tool before, and it's just as handy now as it was then.
 
 **Download:**[AltSnap](https://github.com/RamonUnch/AltSnap/) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Faster Windows Focus With X-Mouse Controls
 
@@ -80,16 +68,14 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 **Download:**[X-Mouse Controls](https://joelpurra.com/projects/X-Mouse%5FControls/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Batch File for More Efficient Command Prompt Management
 
 ![screenshot of the cd command in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_cd_command_in_cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This one is a bit obscure, but anyone who has used Linux distros in the past will know how useful this can be.
 
  On Linux, jumping to the home directory in a terminal window is as easy as typing cd. On Windows, this isn't as easy. You'd need to type cd %userprofile% to achieve the same effect.
@@ -104,22 +90,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
  Now you can use whatever you named the batch file as a command to jump to your home directory. This can be a huge time saver if you're coming over from Linux!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Strip Down Unnecessary Bloat With Winaero Tweaker
 
 ![screenshot of the winaero tweaker main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot_of_winaero_tweaker_main_screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When it comes to comparing the advantages of Linux and Windows, one point in Linux's favor is definitely how hands-off it is with the user.
 
  So, if we want to bring our Windows experience closer to Linux, why not strip out some of the annoying factors of Windows?
@@ -130,20 +104,21 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 **Download:**[Winaero Tweaker](https://winaero.com/winaero-tweaker/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows and Linux Are as Similar as They Are Different
 
  There are not many Linux-exclusive features that you can simply port over to Windows. Enjoying Windows as you would a Linux system has a lot to do with crafting the perfect user experience, which thankfully, Windows allows you to do.
 
  You won't be achieving the same feats as a Linux power user on your Windows machine, but you might be able to feel a little more at home if you were previously a Linux user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +127,26 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-shoot-breathtaking-igtv-content-on-smartphonesdlsrs/"><u>[New] How to Shoot Breathtaking IGTV Content on Smartphones/DLSRs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-outro-samples-collection-including-both-costs-for-2024/"><u>[New] Outro Samples Collection Including Both Costs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-record-pc-sounds-effortlessly-with-x-recorder/"><u>[New] Record PC Sounds Effortlessly with X-Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-superior-practices-for-mute-videography-for-2024/"><u>[Updated] Superior Practices for Mute Videography for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-social-media-success-iphone-360-video-filming-guide/"><u>2024 Approved Social Media Success IPhone 360 Video Filming Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-storage-analysis-game-with-the-power-of-diskusage-in-windows/"><u>Elevating Your Storage Analysis Game with the Power of DiskUsage in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-built-in-error-with-windows-files-and-apps/"><u>Fixing 'No Built-In' Error with Windows Files & Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-defense-strategies-for-insider-sets/"><u>Implementing Defense Strategies for Insider Sets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-essential-tiktok-strategies-aiming-for-the-top-of-the-list/"><u>In 2024, Essential TikTok Strategies Aiming for the Top of the List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-share-permission-hurdles-in-win-os/"><u>Navigate Past Share Permission Hurdles in Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-of-skyrims-sse-on-windows/"><u>Overcoming Obstacles of Skyrim's SSE on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-unveiling-key-distinctiveness/"><u>PowerShell Vs. Windows Terminal: Unveiling Key Distinctiveness</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rising-higher-than-ever-comprehensive-review-of-nokias-standout-mid-range-phone-the-72/"><u>Rising Higher Than Ever: Comprehensive Review of Nokia's Standout Mid-Range Phone, the 7.2</u></a></li>
+<li><a href="https://win11.techidaily.com/spruce-up-your-inboxes-use-beloved-images-for-design/"><u>Spruce Up Your Inboxes: Use Beloved Images for Design</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-errors-during-onedrive-syncs/"><u>Steps to Rectify Errors During OneDrive Syncs</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reduce-windows-browser-resource-demand/"><u>Techniques to Reduce Windows Browser Resource Demand</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-to-dos-in-the-windows-environment/"><u>Winning Strategies for To-Dos in the Windows Environment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reimagine Your Taskbar: A Guide to Incorporating a Favorite Weather Icon in Windows 11"
-date: 2024-11-25T17:49:28.651Z
-updated: 2024-11-28T00:01:35.938Z
+date: 2024-12-03T21:14:10.137Z
+updated: 2024-12-07T04:29:02.922Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 3. Click **OK** in the Browse for Folder window and select **Finish**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select **Close** to exit the setup window and launch WeatherMate.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 ![weathermate-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-icon.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To set your location, press the **Click for options** cog button on the WeatherMate panel. Then select **Locations** to bring up a window from which you can select many US or international locations.
@@ -56,21 +56,17 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 
 ![The Locations window for WeatherMate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/locations-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  WeatherMate will show only today’s weather info by default. However, you can change that to a weekly forecast via the app’s settings.
 
  Click on the cog icon and Settings. Select **Weekly** **detail** on the **Forecast** drop-down menu within the **Display** tab and choose **OK**. WeatherMate will show a more detailed one-week forecast for your area.
 
 ![The weekly detail setting and forecast](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/detailed-weathermate-forecast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Weather Icon to the System Tray With Weather Bar
 
@@ -82,12 +78,16 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
 
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check the Weather From the System Tray in Windows 11
@@ -96,24 +96,6 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 
  Would you prefer to have current and forecast weather details directly accessible from the system tray instead? If so, this is how you can add a weather icon to Windows 11’s system tray for quick access to forecasts with two third-party apps.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ubscribers-on-a-shoestring-grow-your-channel-fast/"><u>[New] Subscribers on a Shoestring Grow Your Channel Fast</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-phantom-v-flip-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Phantom V Flip via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-insignia-usb-video-adapter-for-monitor-connection/"><u>How to Install the Insignia USB Video Adapter for Monitor Connection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>In 2024, Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-effective-methods-for-converting-your-wma-audio-to-wav-quality/"><u>Quick & Effective Methods for Converting Your WMA Audio to WAV Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-crafting-tailored-listening-sessions-with-windows-media-player/"><u>Quick Guide to Crafting Tailored Listening Sessions with Windows Media Player</u></a></li>
-<li><a href="https://win11.techidaily.com/returning-to-basics-the-revival-of-apples-traditional-roots/"><u>Returning to Basics: The Revival of Apple's Traditional Roots</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-transition-the-ultimate-guide-to-watching-dvds-on-an-ipad/"><u>Seamless Transition: The Ultimate Guide to Watching DVDs on an iPad</u></a></li>
-<li><a href="https://win11.techidaily.com/seamlessly-transfer-and-enjoy-iphone-content-on-android-with-these-2-effective-solutions/"><u>Seamlessly Transfer and Enjoy iPhone Content on Android with These 2 Effective Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/techniques-to-mitigate-vr-disorientation-for-2024/"><u>Techniques to Mitigate VR Disorientation for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-top-picks-for-high-quality-game-captures-for-2024/"><u>The Top Picks for High-Quality Game Captures for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforma-archivos-m4a-en-formatos-swf-sin-costo-alguno-con-convertmp3toswfcom/"><u>Transforma Archivos M4A en Formatos SWF Sin Costo Alguno Con ConvertMp3ToSwf.com</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -121,3 +103,25 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[New] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resonance-and-rhythm-guide-to-downloading-vintage-ringtones/"><u>[New] Resonance and Rhythm Guide to Downloading Vintage Ringtones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-calls-merging-youtube-and-sustainable-backgrounds/"><u>[Updated] 2024 Approved Expert Calls Merging YouTube & Sustainable Backgrounds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-video-edits-essential-mp4-tools-for-mac-users/"><u>[Updated] Mastering Video Edits Essential MP4 Tools for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-selecting-5-online-title-makers/"><u>[Updated] The Ultimate Guide to Selecting 5 Online Title Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-effectively-move-files-between-two-ios-units/"><u>How to Effectively Move Files Between Two iOS Units</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-liberating-video-files-free-mp4-and-hd-from-facebook-posts/"><u>In 2024, Liberating Video Files Free MP4 & HD From Facebook Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/master-time-windows-finest-tools-to-maximize-output/"><u>Master Time: Windows' Finest Tools to Maximize Output</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-customization-8-essential-tips-from-winbubble/"><u>Mastering Window Customization: 8 Essential Tips From WinBubble</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-quick-control-panel-in-windows-11/"><u>Navigating Quick Control Panel in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ram-usage-insight-comparing-best-lightweight-web-browsers/"><u>RAM Usage Insight: Comparing Best Lightweight Web Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-access-to-windows-11-post-reset/"><u>Regaining Full Access to Windows 11 Post-Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/the-evolution-continues-beyond-windows-11/"><u>The Evolution Continues: Beyond Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/trouble-with-compatibility-try-these-straightforward-fixes-now/"><u>Trouble with Compatibility? Try These Straightforward Fixes Now</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-fbm-potential-10-fixes-for-computer-users/"><u>Unleashing FBM Potential: 10 Fixes for Computer Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-smart-8-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Smart 8 Pro Device</u></a></li>
+</ul></div>
+

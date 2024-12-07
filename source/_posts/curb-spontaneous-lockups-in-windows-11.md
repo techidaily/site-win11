@@ -1,7 +1,7 @@
 ---
 title: Curb Spontaneous Lockups in WIndows 11
-date: 2024-11-26T19:52:40.761Z
-updated: 2024-11-28T02:14:18.523Z
+date: 2024-12-03T20:52:27.336Z
+updated: 2024-12-06T20:13:22.879Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update Windows 11
 
  The shutdown box might be a temporary system glitch caused by an outdated Windows version. To update your operating system, press the **Windows key + I** to bring up the Settings menu. There, head to **Windows Update** and click the **Check for updates** button.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 ![Update Windows 11 to the latest version available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/update-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a new version available, Windows will display the **Updates available to download** message. In this case, click **Download now**.
@@ -52,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 
 ![Run System Maintenance troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-maintenance-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Perform Some Generic Windows-Based Fixes
 
  Whenever something goes awry with Windows, there are always a few tricks you can try to see if they fix it. These include:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scan Your System for Malware
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Start Windows in Safe Mode
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
  If you no longer encounter the same issue while in Safe Mode, you should check the list of installed apps and remove the problematic one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Windows Shutdown Box Appearing By Itself
@@ -98,29 +98,6 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
 
  No matter the reason, here are a few troubleshooting tips to help you stop the shutdown box from popping up.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-smooth-playback-overcoming-booty-freezes/"><u>[New] 2024 Approved Unlocking Smooth Playback Overcoming Booty Freezes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-downloading-fb-videos-made-easy-our-top-5-selection/"><u>[Updated] Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-comparing-charge-levels-one-through-three-in-evs/"><u>Comprehensive Guide to Comparing Charge Levels One Through Three in EVs</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-personalized-shortcut-keys/"><u>Elevate Your Workflow: Personalized Shortcut Keys</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nize-your-hours-synchronized-video-playback-across-platforms/"><u>Harmonize Your Hours Synchronized Video Playback Across Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-resolve-windows-update-issue-code-x80246007/"><u>How To Quickly Resolve Windows Update Issue Code X80246007</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g42-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G42 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-conquering-blue-screen-errors/"><u>Mastering System Recovery: Conquering Blue Screen Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-capturing-dynamic-images-on-ios-devices-for-2024/"><u>Mastering the Art of Capturing Dynamic Images on iOS Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-solutions-for-non-operational-wwinplusp-in-pc/"><u>Mastery of Solutions for Non-Operational WWin+P in PC</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80070003-during-system-upgrades/"><u>Overcoming Windows Error: 0X80070003 During System Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-windows-model-years-simplified/"><u>Pinpointing Windows Model Years Simplified</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/"><u>Profit Pinnacle Peak Your Income by Monetizing YouTube Mobile Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps4-joystick-woes-master-common-repairs-and-restarts/"><u>PS4 Joystick Woes? Master Common Repairs and Restarts</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-windows-security-today-with-free-desktop-pass-gen-apps/"><u>Step Up Windows Security Today With Free Desktop Pass Gen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-windows-experience-resetting-apps/"><u>Streamlining Your Windows Experience: Resetting Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y56 5G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,3 +105,21 @@ thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[New] Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-the-purpose-behind-facebooks-blue-emoji/"><u>[New] In 2024, Unveiling the Purpose Behind Facebook's Blue Emoji</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerate-compatibility-with-simple-intel-nuc-driver-instructions/"><u>Accelerate Compatibility with Simple Intel NUC Driver Instructions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/appearance/"><u>Appearance</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-efficiently-download-and-install-microsofts-extension-bundles/"><u>Guide to Efficiently Download & Install Microsoft's Extension Bundles</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigate-past-cyberpunk-2077-downloading-woes-on-steam-expert-tips-and-tricks/"><u>Navigate Past Cyberpunk 2077 Downloading Woes on Steam: Expert Tips and Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-deal-with-malwarebytes-missing-call-functions-on-win11win10/"><u>Solutions to Deal with Malwarebytes Missing Call Functions on Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-error-16-when-viewing-windows-files/"><u>Tackling Error 16 When Viewing Windows Files</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-utilizing-windows-11s-netstat-for-analysis/"><u>The Ultimate Guide to Utilizing Windows 11'S Netstat for Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-elusive-footage-the-systematic-guide-to-youtube-secrets/"><u>Unlocking Elusive Footage The Systematic Guide to YouTube Secrets</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-and-11-make-heic-photos-jpeg-at-once/"><u>Windows 10 & 11: Make HEIC Photos JPEG at Once</u></a></li>
+</ul></div>
+

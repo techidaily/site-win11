@@ -1,7 +1,7 @@
 ---
 title: GeForce Scan Woes on Windows? Try These Fixes Now
-date: 2024-11-21T20:59:33.474Z
-updated: 2024-11-27T21:05:10.277Z
+date: 2024-12-02T05:14:14.877Z
+updated: 2024-12-07T12:03:51.621Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
  Regardless of the reason, this issue deprives you of squeezing the full potential of your graphics card! Thus, we recommend you try out the below-mentioned fixes immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Add the Game or App Manually
 
  The program relies on a[database of NVIDIA GeForce Experience-supported games](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) for scanning. GeForce Experience can only optimize the games that are officially supported.
@@ -46,9 +42,18 @@ Follow these steps to add a game or app for optimization manually:
 1. Click the toggle next to your account name and select**Account** .  
 ![GeForce Experience Dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-dashboard.jpg)
 2. Click**GAMES & APPS > ADD** to open the Windows File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select the folder where you've installed the game or app and click**Select Folder** .  
 ![Game Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/game-folder-location.jpg)
 4. Click**SCAN NOW** to let GeForce Experience add your selected game to its dashboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is a simple and quick way to add your games to GeForce Experience manually. If this method doesn't work for you, consider the advanced solutions below.
 
@@ -66,6 +71,11 @@ Follow these steps to add a game or app for optimization manually:
 4. Right-click on it and select the**Restart** option from the context menu.  
 ![NVIDIA Display Container Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-display-container-service.jpg)
 5. Do the same process, i.e., restart the service with**NVIDIA LocalSystem Container** and**Cryptographic** **Services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Cryptographic Windows Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cryptographic-windows-service.jpg)
 6. Once done, make sure to restart your PC once.
 
@@ -81,17 +91,9 @@ Follow these steps to add a game or app for optimization manually:
 
 ![GeForce Experience Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you've to exercise caution while running programs as an administrator. This could cause security issues if the program is affected by any malware.
 
  We never recommend running all programs in administrator mode! This is to avoid giving administrative privileges to programs that may misuse the permissions and affect your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair Missing or Broken Registry Entries
 
@@ -114,15 +116,11 @@ Follow these steps to add a game or app for optimization manually:
 ![LocalAppData Explorer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localappdata-explorer-command.jpg)
 3. Search for the**NVIDIA Corporation** folder and delete it. You can select**NVIDIA Corporation** and press**Shift + Del** to delete the folder permanently.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![NVIDIA Corporation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-corporation-folder.jpg)
 4. Once you delete the folder, open GeForce Experience and check for scanning issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We advise you to be very careful while deleting files from the AppData folder. Deleting the wrong file can lead to other problems that may leave you in trouble.
@@ -144,10 +142,14 @@ Follow these steps to add a game or app for optimization manually:
 6. Once the setup is over, you can click the three-dot menu and then**Scan for games & apps** . This will scan your entire Windows system for installed games or apps for optimization.  
 ![GeForce Experience Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geforce-experience-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the scanning issue was related to the corrupted software files, this reinstallation process should resolve.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Back to Scanning in GeForce Experience
@@ -171,18 +173,20 @@ Follow these steps to add a game or app for optimization manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-eliminating-virtual-reality-sickness-with-hint/"><u>[New] 2024 Approved Eliminating Virtual Reality Sickness with Hint</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-macs-finest-for-gif-saving-the-leading-apps/"><u>[Updated] Mac's Finest for GIF Saving The Leading Apps</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-13-mini-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 13 mini Online</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-frayed-script-extensions-in-skyrim-games/"><u>Fixing Frayed Script Extensions in Skyrim Games</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-err0r-x7e1-on-win10-pcs/"><u>How to Reset Err0r: X7E1 on Win10 PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-g54-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola G54 5G Location | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-pontiff-embracing-modern-communication-with-emails/"><u>Is the Pontiff Embracing Modern Communication with Emails?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy F54 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/key-complementary-aid-for-elevating-your-windows-11-use/"><u>Key Complementary Aid for Elevating Your Windows 11 Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-video-capture-leaders-revealed/"><u>Prime Video Capture Leaders Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-command-function-keys-restoration-in-win10/"><u>Regain Command: Function Keys' Restoration in Win10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-preventing-your-airpods-from-connecting-automatically-with-different-idevices/"><u>Solutions for Preventing Your AirPods From Connecting Automatically with Different iDevices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/trouble-free-driver-download-for-your-hp-envy-5660-all-in-one-device/"><u>Trouble-Free Driver Download for Your HP Envy 5660 All in One Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlocking-fast-track-on-friend-finding-in-facebook-land/"><u>[New] Unlocking Fast Track on Friend-Finding in Facebook Land</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-micro-post-your-next-audio-adventure/"><u>2024 Approved Micro-Post Your Next Audio Adventure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accurate-ranking-of-top-free-subtitle-makers-srt-online/"><u>Accurate Ranking of Top Free Subtitle Makers (Srt) Online</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-websites-into-functional-windows-applications/"><u>Convert Websites Into Functional Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-bluescreenview-functions/"><u>Demystifying BlueScreenView Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-up-desktop-aesthetics-raising-taskbar-images-in-win11/"><u>Dial-Up Desktop Aesthetics - Raising Taskbar Images in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-missing-display-in-power-on-process/"><u>Fixing Missing Display in Power On Process</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11-help-application-crash/"><u>Fixing Windows 11 Help Application Crash</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-13-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 13 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-gt-5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme GT 5 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-forget-your-finstas-quickly-iosandroid-advice/"><u>In 2024, Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-email-issue-0x800713f-fix-guide/"><u>Overcoming Windows Email Issue: 0X800713F Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-window-11-experience-with-dynamic-backdrops/"><u>Personalize Your Window 11 Experience with Dynamic Backdrops</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-x5-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco X5 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-a-frozen-chromebook-8-essential-solutions/"><u>Troubleshooting a Frozen Chromebook: 8 Essential Solutions</u></a></li>
 </ul></div>
 

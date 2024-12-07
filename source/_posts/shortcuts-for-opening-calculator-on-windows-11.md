@@ -1,7 +1,7 @@
 ---
 title: Shortcuts for Opening Calculator on Windows 11
-date: 2024-11-23T00:21:06.619Z
-updated: 2024-11-27T23:13:48.877Z
+date: 2024-12-02T11:45:34.018Z
+updated: 2024-12-06T18:00:20.170Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![Open Calculator Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-windows-search.jpg)
 2. Click on the Calculator shortcut that appears in the search results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After opening the Calculator, you can begin using it to perform basic math operations. If you need more advanced features, such as scientific or programmer modes, click the navigation button in the top left corner and select the desired mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Calculator Via Run Command
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 2. In the address bar, type "calc" and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Calculator Using Command Prompt
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 ![Open Calculator Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This will launch your Calculator application.
@@ -89,7 +89,7 @@ To open Calculator using Windows PowerShell, follow these steps:
 4. This command will cause the Calculator application to open quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Open Calculator Through Task Manager
@@ -104,7 +104,7 @@ To open the Calculator application on Windows 11, use these steps:
 3. Type “calc” into the text box and click**OK** to open the Calculator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Calculator From Start Menu
@@ -116,11 +116,11 @@ To open the Calculator application on Windows 11, use these steps:
 ![Open Calculator Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-start-menu.jpg)
 3. Once you find it, click on it and a pop-up window will appear with all its features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You are now ready to start performing calculations!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. How to Open Calculator With Desktop Shortcut
 
@@ -132,10 +132,6 @@ You are now ready to start performing calculations!
 2. In the "Create Shortcut" window, type "**C:\\WINDOWS\\system32\\calc.exe** ".  
 ![Open Calculator Using Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-desktop-shortcut.jpg)
 3. Click**Next** , and then give your shortcut a name, such as Calculator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. To complete the process, click**Finish** .
 5. You will see a shortcut icon appear on the desktop of your computer.
@@ -151,6 +147,11 @@ You are now ready to start performing calculations!
 2. On the**Shortcut** tab, go to the**Shortcut** field.  
 ![Open Calculator Using Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-batch-file.jpg)
 3. In the Shortcut field, type any letter or number you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply > OK** to save your selections.
 
  To open Calculator using the shortcut key, hold down**Ctrl + Alt** and then type the letter or number. For example, if you select**D** as a shortcut letter, you will have to press**Ctrl + Alt + D** on your keyboard to open the Calculator application on Windows.
@@ -185,22 +186,19 @@ To do this, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-perfect-playtime-how-to-take-great-xbox-one-shots-for-2024/"><u>[Updated] A Perfect Playtime How to Take Great Xbox One Shots for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-splitting-views-ultimate-video-recorder-ranking/"><u>[Updated] Splitting Views Ultimate Video Recorder Ranking?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-fresh-film-enthusiasts-primer-on-visual-quality-for-2024/"><u>[Updated] The Fresh Film Enthusiast’s Primer on Visual Quality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44kq44oz44op44kk44oz44gn5psplus6ycb5asn5a2m6kyb5bqn44ks6kiy6yyy44gz44kl44gf44kb44gu5b2556ul44gk44os44oz44oi44go44kz44oe44cn/"><u>「オンラインで放送大学講座を記録するための役立つヒントとコツ」</u></a></li>
-<li><a href="https://win11.techidaily.com/1726030291888-mp46/"><u>「ダウンロード不要でスムーズな動画コンバート - MP4に最適化しやすいフリーサイトベスト6選」</u></a></li>
-<li><a href="https://win11.techidaily.com/1-unveiling-wonderfoxs-latest-upgrade-video-watermarking-version-3-now-available/"><u>1. Unveiling WonderFox's Latest Upgrade: Video Watermarking Version 3 Now Available</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028487452-usb/"><u>高度なビデオファイルをUSB保存・コピーするための専門的テクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028212066-dvd/"><u>同時に動作する他プログラムが原因? DVDを正常に再読み込みする方法：エラーの対策を学ぶ！</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027880858-dvd/"><u>効果的なリソースを使えば、古いDVDや過去のビデオを見られます: 修理方法とアドバイス</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-mobile-instagram-videos-velocity-tips/"><u>Enhancing Mobile Instagram Videos' Velocity (Tips)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-quadro-rtx-8000-graphics-driver-on-win-10-8-and-7/"><u>Install the Newest Nvidia Quadro RTX 8000 Graphics Driver on Win 10, 8 & 7</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/rotate-your-3gp-videos-for-free-top-5-tools-of-the-year/"><u>Rotate Your 3GP Videos for Free Top 5 Tools of the Year</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-top-5-reasons-why-car-owners-need-the-powerful-space-saving-jaco-smartpro-digital-portable-tire-inflator/"><u>The Top 5 Reasons Why Car Owners Need the Powerful, Space-Saving Jaco SmartPro Digital Portable Tire Inflator</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/movavimp4aac/"><u>オーディオファイルを自由に変換！- Movaviで、MP4からAACへ無料ダウンロード</u></a></li>
-<li><a href="https://win11.techidaily.com/44kq44oz44op44kk44oz44gn5l244gi44kl6zu75a2q5rg6566x44k144o844ot44k5/"><u>オンラインで使える電子決算サービス</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026678839-soundcloud/"><u>レベルアップした SoundCloud 音楽ダウンロードガイド</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-remove-background-noise-from-your-youtube-video/"><u>[New] How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-powerpoint-presentations-merging-text-with-tuneable-tracks/"><u>[Updated] 2024 Approved PowerPoint Presentations Merging Text with Tuneable Tracks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unranked-movies-the-real-top-picks/"><u>[Updated] 2024 Approved Unranked Movies The Real Top Picks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-your-personal-drone-that-never-falters-in-following/"><u>[Updated] Your Personal Drone that Never Falters in Following</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-mac-dvd-dvdmov-mp4-m4vitunesappletv/"><u>IOS系统 Mac端 DVD转播器软件 - 免费提取DVD影像，支持MOV, MP4, M4V、iTunes和AppleTV等多个音视频格式导出</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-correction-of-win11s-dxgi-device-latency-error/"><u>Mastering Correction of Win11's DXGI Device Latency Error</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-windows-11-credential-manager/"><u>Navigating to Windows 11 Credential Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-chromes-hitching-points-for-file-downloads-on-windows-pc/"><u>Overcoming Chrome's Hitching Points for File Downloads on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/syncing-files-across-mobile-platforms-to-windows/"><u>Syncing Files Across Mobile Platforms to Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-layout-embedding-this-pc-icon/"><u>Tailoring Screen Layout: Embedding 'This PC' Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fixes-for-no-mail-glitch-on-your-windows-11-pc/"><u>The Ultimate Fixes for No Mail Glitch on Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-leading-hardware-reviews-and-advice/"><u>Tom's Tech Insights: Leading Hardware Reviews and Advice</u></a></li>
 </ul></div>
 

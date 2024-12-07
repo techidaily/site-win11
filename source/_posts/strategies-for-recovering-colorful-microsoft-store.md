@@ -1,7 +1,7 @@
 ---
 title: Strategies for Recovering Colorful Microsoft Store
-date: 2024-11-23T03:33:06.623Z
-updated: 2024-11-27T21:18:41.722Z
+date: 2024-12-02T17:56:50.520Z
+updated: 2024-12-07T09:14:01.788Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/d0be551e2fb6faca9c1b4ad092d1becef6333157c
 
 ![Clost Microsoft Store tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-microsoft-store-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Microsoft Store again and check if it’s now working.
 
  If you're encountering a lot of glitches that go away after a restart, you might be leaving your PC on for too long. Check out these[reasons why you should turn off your PC every night](https://www.makeuseof.com/reasons-why-should-shut-down-computer/) for some inspiration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Your Internet Connection
 
@@ -62,11 +62,11 @@ Open Microsoft Store again and check if it’s now working.
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete the Microsoft Store Cache
 
@@ -87,7 +87,7 @@ Open Microsoft Store again and check if it’s now working.
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
@@ -104,10 +104,14 @@ Go through the below steps to change the Windows region:
 
 ![Change Windows region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-region-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -121,10 +125,6 @@ Go through the below steps to change the Windows region:
 ## 8\. Reset Your Windows PC
 
  If Microsoft Store showing a black or white screen isn’t the only problem you noticed, there might be some deep corruption within your system files. In this case, you could try to[factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . This will revert it back to its factory settings, so make sure you back up all essential data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Working Again
 
@@ -147,18 +147,24 @@ Go through the below steps to change the Windows region:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevating-visuals-with-acoustic-elements/"><u>[New] 2024 Approved Elevating Visuals with Acoustic Elements</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-list-of-instagram-downloaders/"><u>[Updated] In 2024, The Ultimate List of Instagram Downloaders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-mkv-software-pc-and-android/"><u>[Updated] Prime MKV Software PC & Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-pickups-for-novice-gopro-owners/"><u>2024 Approved Prime Pickups for Novice GoPro Owners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-smart-ocr-speeding-up-your-companys-digital-evolution-with-advanced-scanning-technology/"><u>ABBYY® Smart OCR: Speeding Up Your Company's Digital Evolution with Advanced Scanning Technology</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instagrams-silent-frames-no-more-a-sound-fix/"><u>Instagram's Silent Frames No More – A Sound Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-video-playback-from-usb-on-your-sharp-aquos-television/"><u>Smooth Video Playback From USB on Your Sharp Aquos Television</u></a></li>
-<li><a href="https://win11.techidaily.com/solution-found-bypassing-the-time-restriction-for-ripping-longer-segments-with-winx-dvd-ripper/"><u>Solution Found: Bypassing the Time Restriction for Ripping Longer Segments with WinX DVD Ripper</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-lenovo-keyboard-malfunction-issues-and-resolutions/"><u>Solved! Lenovo Keyboard Malfunction Issues and Resolutions</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-large-video-files-down-to-manageable-mb-sizes/"><u>Step-by-Step Guide: Shrinking Large Video Files Down to Manageable MB Sizes</u></a></li>
-<li><a href="https://win11.techidaily.com/streaming-ultra-hd-anime-without-limits-your-complete-tutorial-on-using-the-9anime-add-on-in-kodi/"><u>Streaming Ultra HD Anime Without Limits: Your Complete Tutorial on Using the 9Anime Add-On in Kodi</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-seamlessly-cutting-and-splitting-your-videos-into-pieces/"><u>The Ultimate Guide: Seamlessly Cutting and Splitting Your Videos Into Pieces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-your-storytelling-potential-11-effective-chatgpt-techniques-for-book-characters/"><u>Unleash Your Storytelling Potential - 11 Effective ChatGPT Techniques for Book Characters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-10-superior-video-capture-software-in-windows-10/"><u>[New] 10 Superior Video Capture Software in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites/"><u>[New] A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>[New] Perfecting Your Craft Making Time-Lapse Films with iPad</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-strategies-for-developing-captivating-audio-visual-teasers/"><u>[Updated] Expert Strategies for Developing Captivating Audio-Visual Teasers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-techniques-in-no-cost-windows-software-recording/"><u>2024 Approved Expert Techniques in No-Cost Windows Software Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-connectivity-a-step-by-step-guide-to-troubleshoot-and-fix-bluetooth-pairing-problems-in-windows-11/"><u>Conquering Connectivity: A Step-by-Step Guide to Troubleshoot and Fix Bluetooth Pairing Problems in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-beats-and-melodies-the-chatgpt-way-in-audio-workstations/"><u>Crafting Beats & Melodies - The ChatGPT Way in Audio Workstations</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-disk-access-in-modern-windows-oses-win-1011/"><u>Deciphering Disk Access in Modern Windows OSes (Win 10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-sam-related-issues-on-modern-windows/"><u>Deciphering SAM-Related Issues on Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-blue-screen-errors-with-microsoft/"><u>Decoding Windows 11 Blue Screen Errors with Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-productivity-leveraging-the-windows-11-bar/"><u>Enhance Productivity: Leveraging the Windows 11 Bar</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hunt-for-savings-the-most-valuable-acer-deals-dominating-prime-day-2024/"><u>Hunt for Savings! The Most Valuable Acer Deals Dominating Prime Day 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-at-your-fingertips-drag-and-drop-tabs-in-file-explorer-windows-11/"><u>Mastery at Your Fingertips: Drag & Drop Tabs in File Explorer, Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-future-of-tech-toms-guide-to-next-gen-hardware/"><u>Navigating the Future of Tech: Tom's Guide to Next-Gen Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apperror-with-text-on-w11-os/"><u>Overcoming AppError with Text on W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/stylishen-windows-mail-and-calendar-use-preferred-photographs/"><u>Stylishen Windows Mail & Calendar: Use Preferred Photographs</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-window-thumbnails-dimensions/"><u>Tweaking Window Thumbnails' Dimensions</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-future-affordable-windows-11-for-keys-fan-enthusiasts-on-black-friday/"><u>Unlock the Future: Affordable Windows 11 for Keys Fan Enthusiasts on Black Friday!</u></a></li>
 </ul></div>
 

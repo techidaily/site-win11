@@ -1,7 +1,7 @@
 ---
 title: Cure Non-Scrolling Errors in Excel, Windows Edition
-date: 2024-09-05T08:37:38.203Z
-updated: 2024-09-06T08:37:38.203Z
+date: 2024-12-03T02:07:46.165Z
+updated: 2024-12-06T23:28:43.198Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: Fix Excel Scroll Issues,Rectify Excel Glitches,Solve Excel Navigation 
 thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674663074f051eaef5c591591c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cure Non-Scrolling Errors in Excel, Windows Edition
 
  When you work on large Excel spreadsheets, it is often necessary to scroll both horizontally and vertically in order to access and modify data. But what if you can’t scroll in Microsoft Excel with your mouse or keyboard on Windows?
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Turn Off Scroll Lock
 
@@ -33,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 ![Turn Off Scroll Lock in Excel-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-scroll-lock-in-excel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also disable Scroll Lock on Windows using your keyboard. The **Scroll Lock** (or **ScrLk**) key is typically located in the upper right corner of the keyboard. Pressing this key will deactivate Scroll Lock and allow you to scroll through your Excel spreadsheet again.
 
 ![Windows Print Screen Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-print-screen-key.jpg)
@@ -57,25 +53,11 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Following this, your Excel spreadsheet should scroll as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
  Is your Microsoft Excel spreadsheet zooming in or out when you try to scroll through it? That could happen if you have enabled the "Zoom on roll with IntelliMouse" option in Excel. Here’s how to turn it off.
@@ -89,11 +71,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Enable Scroll Bars
 
  You may have trouble scrolling through your spreadsheets if Excel does not display the horizontal and vertical scroll bars on your PC. Here’s how you can enable them.
@@ -116,17 +96,9 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -136,12 +108,6 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
 
 ## 7\. Run the Office Repair Tool
@@ -158,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Apply Some Generic Fixes
 
  If the above fixes don’t help, you can try some generic fixes and see if that solves the problem.
@@ -166,12 +136,6 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 * **Repair Excel Workbook:** If you are unable to scroll in Excel only while working on a specific workbook, there may be an issue with the file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Check if the Shift Key Is Stuck:** Another reason why you might not be able to scroll in Excel is if the Shift key is stuck on your Windows computer. Carefully examine the Shift key on your keyboard for any dirt or damage, and take the appropriate actions to resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Scrolling Issues in Microsoft Excel
 
  Being unable to scroll through your Excel spreadsheets can be a major inconvenience. Hopefully, one or more of the above solutions has helped you resolve the scrolling issues in Excel for Windows, and you are now able to navigate your spreadsheet smoothly again.
@@ -182,11 +146,27 @@ thumbnail: https://thmb.techidaily.com/eb645c13ee9dd9fbe7f99fc761b9dd81222823674
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-examining-instagrams-per-video-content-restrictions/"><u>[New] Examining Instagram's Per-Video Content Restrictions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-obtain-high-quality-photos-without-watermarks/"><u>[New] Obtain High-Quality Photos Without Watermarks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>[New] Transforming Digital Media Expert Advice for Mac's DVD Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>2024 Approved Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-rapid-troubleshooting-creating-shortcuts-for-win-1011/"><u>Enabling Rapid Troubleshooting: Creating Shortcuts for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/hotkey-hacks-for-efficient-multilingual-translations-in-windows-os/"><u>Hotkey Hacks for Efficient Multilingual Translations in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-cross-platform-apps-from-a-windows-to-an-android/"><u>Ideal Cross-Platform Apps: From a Windows to an Android</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-enhancement-of-local-management-on-win1110-home/"><u>Stepwise Enhancement of Local Management on WIN11/10 Home</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-empty-folder-warning-in-windows-11-os/"><u>Tackling Empty Folder Warning in Windows 11 OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-way-to-enjoy-the-full-dragon-ball-universe-chronologically/"><u>The Ultimate Way to Enjoy the Full Dragon Ball Universe Chronologically</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-reno-11-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo Reno 11 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-powerhouses-an-insightful-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Powerhouses: An Insightful Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win11.techidaily.com/unsightly-gaps-lost-thumbnails-in-windows-11-how-to-restore/"><u>Unsightly Gaps: Lost Thumbnails In Windows 11, How to Restore</u></a></li>
+</ul></div>
+

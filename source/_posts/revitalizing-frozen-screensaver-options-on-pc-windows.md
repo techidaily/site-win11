@@ -1,7 +1,7 @@
 ---
 title: Revitalizing Frozen Screensaver Options on PC Windows
-date: 2024-11-21T17:19:20.839Z
-updated: 2024-11-27T23:30:33.107Z
+date: 2024-12-03T10:41:27.956Z
+updated: 2024-12-06T23:52:25.182Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Local Group Policy Editor
 
  The “grayed out screen saver settings” error might be caused by issues that stem from the Local Group Policy Editor (LGPE). So, the best way to tackle the problem is to make some changes in the LGPE.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 4. Double-click on the **Enable screen saver** option on the right-hand side.
 
 ![Clicking the Enable screen saver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-enable-screen-saver-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the **Enabled** box on the next screen. From there, click **Apply** and then click **OK**.
 
@@ -61,17 +69,9 @@ thumbnail: https://thmb.techidaily.com/f411804b07d8feb5757ac6a37c514ffad28202840
 
  So, by disabling the “Force specific screen saver” feature, the "screen saver" drop-down menu in the Screen Saver Settings window won't be grayed out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Registry Editor
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, we’ll show you how to get rid of the “grayed out screen saver settings” error using the Registry Editor. But if you tweak the wrong Registry keys by mistake, your device might end up crashing. That’s why we always recommend that you [back up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before editing its keys.
 
@@ -86,6 +86,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Next, click the **Control Panel** key (folder) from the options within the "Windows" key.
 
 ![Clicking the Control Panel key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-control-panel-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the "Control Panel" key is missing, here’s how you can create it:
 
@@ -109,19 +113,11 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You might not be aware of this, but configuring the power settings usually has an effect on the other system settings.
 
  For example, if you enable power-saving mode, then your device will pause some tasks in an effort to save power. But enabling some power-saving features might end up graying out some settings and tools.
 
  Now, let's check out how to configure a few power settings to tackle the “grayed out screen saver settings” issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change the Power Settings Via the Screen Saver Settings Window
 
@@ -132,10 +128,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 3. Click the **Change power settings** option.
 
 ![Clicking the Change power settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-change-power-settings-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the **Change plan settings** option on the "Power Options" screen. This will display the "Edit Plan Settings" screen.
 
@@ -158,7 +150,7 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 ![Selecting the Display option in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/selecting-the-display-option-in-the-power-options-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, expand the "Desktop background settings" option and select **Never** for all the options in this section. Finally, click **Apply** and then click **OK** to save these changes.
@@ -168,6 +160,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
  Simply navigate to the "Power Options" screen as per the previous steps and then click the **Restore plan defaults** button. Finally, click **Apply** and then click **OK**.
 
 ![Clicking the Restore plan defaults button in the Power Options screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-restore-plan-defaults-button-in-the-power-options-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change the Power Settings via the Control Panel
 
@@ -188,12 +184,16 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
 ![Computer antivirus illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Computer-antivirus-illustration.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Still struggling to resolve the "grayed out screen saver settings" issue? If so, then maybe the error is caused by corrupted system files. In this case, you can [repair corrupt Windows files with built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) like DISM and SFC.
 
  And if all else fails, [update your Windows device](https://www.makeuseof.com/update-windows-manually/) and see if that helps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You've Successfully Restored Your Screen Saver Settings
@@ -204,21 +204,6 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
 
  Fortunately, we’ve got all the solutions you need. So, let’s dive in and check out the four ways to resolve this issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discovering-the-roots-of-visual-content-through-reverse-scans-fb/"><u>[New] 2024 Approved Discovering the Roots of Visual Content Through Reverse Scans (FB)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-dji-phantom-3-the-pro-drone-experience-explored-for-2024/"><u>[New] DJI Phantom 3 The Pro Drone Experience Explored for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>[Updated] 2024 Approved Google's Platform Unveiled The Ultimate Guide to Podcast Postings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-for-windows-the-quick-guide/"><u>Easy Canon PRO 100 Printer Setup for Windows: The Quick Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Camon 20 Premier 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-strategy-behind-extended-updates-for-windows-11/"><u>Microsoft's Strategy Behind Extended Updates for Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-new-skies-with-syma-x5c-an-experts-take-for-novices-for-2024/"><u>Navigating New Skies with Syma X5C – An Expert’s Take for Novices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unity-graphical-glitches-fixed-failure-to-initialize-solutions/"><u>Overcoming Unity Graphical Glitches - Fixed Failure to Initialize Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/rethink-renewal-why-not-go-beyond-windows/"><u>Rethink Renewal: Why Not Go Beyond Windows?</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-commands-define-wins-cli/"><u>Streamlining Your Commands: Define Win's CLI</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -226,3 +211,21 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-intensive-investigation-the-gecata-game-logger/"><u>[New] Intensive Investigation The Gecata Game Logger</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>[Updated] A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/assemble-ppt-narratives-into-video-for-2024/"><u>Assemble PPT Narratives Into Video for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/boosting-zoom-clarity-the-guide-to-using-filters-wisely-for-2024/"><u>Boosting Zoom Clarity The Guide to Using Filters Wisely for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insight-for-installing-powertoys-on-win11/"><u>Essential Insight for Installing PowerToys on Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-system-call-failed-error-on-windows-11-and-11/"><u>How to Fix the “System Call Failed” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-steps-for-clean-startup/"><u>Mastering Windows 11: Steps for Clean Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-power-use-of-window-manager-on-microsoft-os/"><u>Streamlining Power Use of Window Manager on Microsoft OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-advancing-cognitive-behavioral-therapy-strategies/"><u>The Role of ChatGPT in Advancing Cognitive Behavioral Therapy Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-routine-for-ms-office-setup-in-windows-1011/"><u>Unveiling the Routine for MS Office Setup in WIndows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-w11s-notepad-with-ai-maestro/"><u>Upgrade W11's Notepad with AI Maestro</u></a></li>
+</ul></div>
+

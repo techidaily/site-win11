@@ -1,7 +1,7 @@
 ---
 title: Eliminating Problems with Unknown USB Devices in Win 11
-date: 2024-11-24T02:56:02.399Z
-updated: 2024-11-27T16:05:43.329Z
+date: 2024-12-03T06:42:55.626Z
+updated: 2024-12-07T08:27:51.586Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the Unknown USB Device, Port Reset Failed Error in Windows 11?
 
  USB devices are generally easy to use with computers. But sometimes, you might face different errors upon connecting them to your computer. One of these errors is the Unknown USB Device, Port Reset Failed error that appears due to the following reasons:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Look for Hardware Changes
 
@@ -74,10 +78,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Fast Startup
 
  Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
@@ -93,7 +93,15 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -105,15 +113,7 @@ Next, restart your computer and check for the problem.
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, wait until Windows searches for any available driver update online and install it on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall All the USB Controllers
 
@@ -123,6 +123,10 @@ Next, restart your computer and check for the problem.
 2. Right-click on the problematic device and choose**Uninstall device.**
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
 
@@ -134,10 +138,6 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
 
@@ -166,18 +166,20 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-to-watching-fb-live-on-roku/"><u>[Updated] In 2024, The Ultimate Guide to Watching FB Live on Roku</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-picks-superior-iphone-tone-creators/"><u>[Updated] Top Picks Superior iPhone Tone Creators</u></a></li>
-<li><a href="https://win11.techidaily.com/1-comprehensive-guide-transforming-wav-files-into-pcm-format-and-back-again/"><u>1. Comprehensive Guide: Transforming WAV Files Into PCM Format & Back Again</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>2024 Approved The Food Filmmaker’s Blueprint Techniques and Tricks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-v30t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme V30T FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/macsnap-gallery-builder-for-2024/"><u>MacSnap Gallery Builder for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>New 2024 Approved What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-phantom-v-flip-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno Phantom V Flip</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-premium-light-up-mice-pads-for-seamless-navigation/"><u>The Ultimate Guide to Premium Light-Up Mice Pads for Seamless Navigation</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10movjpeg/"><u>Windows 10向けMOVファイルからの高品質JPEGへの変換手順</u></a></li>
-<li><a href="https://win11.techidaily.com/windowsiphoneandroidtop5/"><u>Windows、iPhone、Android用動画連結手法TOP5 - スムーズな映像編集</u></a></li>
-<li><a href="https://win11.techidaily.com/wwe-video-extractor-pro-your-ultimate-resource-for-free-mp4avi3gp-download-from-wrestling-events/"><u>WWE Video Extractor Pro - Your Ultimate Resource for Free MP4/AVI/3GP Download From Wrestling Events</u></a></li>
-<li><a href="https://win11.techidaily.com/youtubeaudacity/"><u>YouTubeコンテンツをAudacityでクリアに録音するための簡単ガイド</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-social-networks-to-personal-messages-twitchs-journey-through-whatsapp/"><u>[Updated] In 2024, From Social Networks to Personal Messages Twitch's Journey Through WhatsApp</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screen-sleeves-on-sony-a6400-block-video-playback/"><u>[Updated] Screen Sleeves on Sony A6400 Block Video Playback</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tailored-dimensions-for-captivating-videos-for-2024/"><u>[Updated] Tailored Dimensions for Captivating Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/easy-steps-to-decode-your-facebook-data-for-2024/"><u>Easy Steps to Decode Your Facebook Data for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-windows-photography-with-key-combinations/"><u>Effortless Windows Photography with Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/from-voice-to-words-a-guide-to-whisper-transcription/"><u>From Voice to Words: A Guide to Whisper Transcription</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-decoding-the-art-of-engaging-in-youtube-short-forms/"><u>In 2024, Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/izing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos-for-2024/"><u>Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-lag-and-crashes-in-mordhau-easily/"><u>Overcoming Game Lag and Crashes in Mordhau Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-low-end-pc-issues-in-windows-game-capture/"><u>Overcoming Low-End PC Issues in Window's Game Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-ragnaroks-scripting-struggles/"><u>Overcoming Ragnarok's Scripting Struggles</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-edge-2023-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Edge 2023 unlock screen</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-resolve-inkjet-and-laser-printer-conflicts/"><u>Tactics to Resolve Inkjet and Laser Printer Conflicts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-g54-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola G54 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-admin-command-failures-on-pcs/"><u>Troubleshooting Admin Command Failures on PCs</u></a></li>
 </ul></div>
 

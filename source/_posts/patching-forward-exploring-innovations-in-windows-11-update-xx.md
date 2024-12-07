@@ -1,7 +1,7 @@
 ---
 title: "Patching Forward: Exploring Innovations in Windows 11 Update X.x"
-date: 2024-11-22T00:15:14.463Z
-updated: 2024-11-28T02:32:45.797Z
+date: 2024-12-05T22:50:42.040Z
+updated: 2024-12-07T00:29:01.055Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
  This feature can come in handy for backing up and restoring files and settings when migrating from one Windows 11 PC to another. Check out our [guide to the Windows Backup feature](https://www.makeuseof.com/windows-11-new-backup-feature-guide/) for details about how to utilize that app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RGB Lighting Settings
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  You should be able to find those new settings via the search tool. Input **dynamic lighting** into the search tool. Then select the **Change lighting colors** search result to bring up the Dynamic Lighting section of the **Personalization** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Taskbar Label Settings
 
  Taskbar labels show you the titles for software windows minimized to the taskbar. Of course, that’s not exactly a new feature since Windows platforms dating back to 1995 had taskbar labels until Microsoft removed them from Windows 7\.
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 ![The Combine taskbar buttons and hide labels option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/combine-taskbar-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can access these new settings by right-clicking Windows 11’s taskbar and selecting **Taskbar settings**. Click **Taskbar behaviors** and the **Combine taskbar** **buttons and hide labels** drop-down menu. Selecting **Never** will enable window taskbar labels.
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
  The Moment 4 update extended Windows 11’s archive support, which was previously limited to ZIP. You can now extract RAR, TAR, and 7Z archives with Windows 11’s extraction utility. However, please note that you can’t create those archive formats with Windows 11’s archive utility at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. An Updated Paint App
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
  Windows 11 now has an updated Paint app. The revamped Paint app includes an option for removing backgrounds from images. Clicking **Remove background** erases the backdrop from a picture.
 
 ![The Remove background option in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-background-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Plus, the updated Paint app now supports dark mode. That means you can [select a Dark mode within Paint](https://www.makeuseof.com/dark-mode-microsoft-paint/) to turn that app black without changing the whole system theme. Or you can select alternative **Light** or **System setting** options for Paint’s theme.
 
@@ -119,21 +119,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  Microsoft has rolled out a slew of new features for Windows 11\. Contrary to expectations, an optional Moment 4 update added many of the new features the 23H2 build update was expected to introduce to Windows 11\. Moment 4 dropped more than 100 new features for users to discover. These are some of the more noteworthy.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-2024s-pinnacle-unboxing-channels-on-youtube-revealed/"><u>[Updated] 2024'S Pinnacle Unboxing Channels on YouTube, Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/youtubeweb/"><u>「YouTube動画のオーディオコンテンツだけダウンロード可能な無料アプリとWebサイト」</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11107/"><u>動画を縦から横に変更するためのWindows 11・10・7対応手順集</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-buy-in-4k-budget-savvy-camera-picks-for-2024/"><u>Best Buy in 4K Budget-Savvy Camera Picks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-the-power-of-claude-understanding-its-benefits-and-uses/"><u>Discovering the Power of Claude: Understanding Its Benefits and Uses</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xr-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone XR Lock Screen with Notifications?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-one-size-fits-all-not-with-these-top-mics-for-diverse-channels/"><u>In 2024, One Size Fits All? Not with These Top Mics for Diverse Channels</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-watermark-no-cost-top-10-online-video-editing-tools-for-2024/"><u>No Watermark, No Cost Top 10 Online Video Editing Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-avi-videos-top-5-methods-for-converting-online-and-offline/"><u>Transform Your AVI Videos: Top 5 Methods for Converting Online & Offline</u></a></li>
-<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
-<li><a href="https://win11.techidaily.com/youtubecapcut/"><u>YouTubeビデオやミュージックの編集：容易なCapCutで始めよう</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -141,3 +126,21 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-whats-new-with-windows-11/"><u>[New] 2024 Approved What's New with Windows 11?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-the-art-of-finding-cost-effective-graphics/"><u>[New] In 2024, Mastering the Art of Finding Cost-Effective Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-individualized-music-for-engaging-video-conclusions/"><u>[Updated] Free, Individualized Music for Engaging Video Conclusions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc/"><u>[Updated] In 2024, Freeze Frame Perfection The Best 9 Apps to Record and Save Animation on PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-site-with-cookiebot-technology-the-smart-choice-for-marketers/"><u>Boost Your Site with Cookiebot Technology – The Smart Choice for Marketers</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-file-writing-restrictions-in-windows-1011/"><u>Curing File Writing Restrictions in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conjure-imagination-in-ai-art-forms-using-paint-cocreator-and-windows-11/"><u>How to Conjure Imagination in AI Art Forms Using Paint Cocreator and Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-typical-anomalies-in-anydesk-for-windows/"><u>Navigating Through Typical Anomalies in AnyDesk for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-display-error-during-windows-11-boot/"><u>Rectifying Display Error During Windows 11 Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/shattering-the-scripts-off-glass-ceiling-in-powershell-execution/"><u>Shattering the 'Scripts Off' Glass Ceiling in PowerShell Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-sidestep-policy-based-installation-denial-in-windows/"><u>Strategies to Sidestep Policy-Based Installation Denial in Windows</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-movie-making-blueprint-easy-and-fast-for-2024/"><u>Updated The Ultimate Movie Making Blueprint Easy and Fast for 2024</u></a></li>
+</ul></div>
+

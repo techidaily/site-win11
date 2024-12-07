@@ -1,7 +1,7 @@
 ---
 title: Whispered Slumber Routines for Computers
-date: 2024-11-21T00:38:50.403Z
-updated: 2024-11-28T01:59:03.869Z
+date: 2024-11-30T07:03:27.510Z
+updated: 2024-12-06T18:37:47.953Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,7 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 3. Select**Sleep** from the menu that appears.  
 ![Put Windows Computer to Sleep From Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Can’t find the sleep option in the Start menu? Check our guide on[how to restore a missing Sleep option on Windows](https://www.makeuseof.com/windows-10-fix-mising-sleep-option/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Putting a Windows PC to Sleep With the Power User Menu
 
@@ -52,11 +44,19 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 2. Select**Shut down or sign out > Sleep** .  
 ![Put Windows Computer to Sleep From Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-from-power-user-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using the Sleep Key on Your Keyboard
 
  Many Windows laptops and computers come with a dedicated sleep key that allows you to enter sleep mode quickly. The exact location of this key can vary depending on the make and model of your computer.
 
  The sleep key is usually labeled with a**crescent moon** or a**Zz** icon. You can press that key while holding the**Function** or**Fn** key to put Windows into sleep mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Converting the Power Button Into a Sleep Button
 
@@ -70,7 +70,15 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 6. Click the**Save changes** button at the bottom.  
 ![Put Windows Computer to Sleep Using Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-power-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, when you press the physical Power button on your machine, your PC will fall asleep instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Ctrl + Alt + Delete Menu
 
@@ -78,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 
 1. Press**Ctrl + Alt + Delete** on your keyboard to open the options screen.
 2. Click the**Power icon** in the bottom right corner and select**Sleep** from the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the Alt + F4 Keyboard Shortcut
 
@@ -93,7 +97,11 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 ![Put Windows Computer to Sleep Using Shut Down Windows Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/put-windows-computer-to-sleep-using-shut-down-windows-dialog.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Use the Command Prompt or PowerShell
@@ -113,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 
 As soon as you run the above command, your PC will enter sleep mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set Up Automatic Sleep Mode on Windows
 
  You can also configure your Windows computer to enter sleep mode automatically after a certain period of inactivity. Here are the steps for the same.
@@ -126,10 +130,6 @@ As soon as you run the above command, your PC will enter sleep mode.
 3. Click the downward arrow next to**Screen and sleep** .
 4. Click the drop-down menu beside**On battery power, put my device to sleep after** , and**When plugged in, put my device to sleep after** to select a time period after which Windows should fall asleep.  
 ![Power and Battery Settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-and-battery-settings-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Create a Desktop Shortcut to Put Windows to Sleep
 
@@ -168,19 +168,24 @@ As soon as you run the above command, your PC will enter sleep mode.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-photobooth-video-glitch-understanding-the-halt-for-2024/"><u>[New] Photobooth Video Glitch - Understanding the Halt for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-download-powerhouse-top-free-quick-vids-extraction-for-pinterest-for-2024/"><u>[Updated] Download Powerhouse Top Free, Quick Vids Extraction for Pinterest for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-tactics-to-determine-igtv-viewership-success/"><u>[Updated] Tactics to Determine IGTV Viewership Success</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-the-process-step-by-step-guide-to-converting-beatstars-tracks-into-mp3-format/"><u>1. Mastering the Process: Step-by-Step Guide to Converting BeatStars Tracks Into MP3 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028392485-mp3/"><u>無響拡張子MP3でピークレス部分をクリアする手引き</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/cinematic-color-grading-and-editing-in-final-cut-pro-x-a-comprehensive-guide-for-2024/"><u>Cinematic Color Grading and Editing in Final Cut Pro X A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-for-world-of-warcraft-crashes-no-more-gaming-interruptions/"><u>Easy Fixes for World of Warcraft Crashes - No More Gaming Interruptions!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-redragon-mic-issues-effective-solutions-for-windows-users/"><u>Fix Your Redragon Mic Issues - Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027925580-huawei/"><u>Huawei端末における音楽再生の不具合解消ガイド</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-13c-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi 13C Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-enjoy-ps4-games-on-a-ps5-gaming-system/"><u>Is It Possible to Enjoy PS4 Games on a PS5 Gaming System?</u></a></li>
-<li><a href="https://win11.techidaily.com/itunes-mp3wav/"><u>ITunes MP3ファイルからWAV形式への変換手順</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/must-have-gear-for-road-trip-documentaries-for-2024/"><u>Must-Have Gear for Road Trip Documentaries for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outubes-opposite-order-rearranging-videos-in-reverse-flow/"><u>[New] Youtube's Opposite Order Rearranging Videos in Reverse Flow</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-art-of-vocal-performance-for-video-projects/"><u>[Updated] 2024 Approved The Art of Vocal Performance for Video Projects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-instagram-video-quirk-unusual-vertical-display/"><u>2024 Approved Instagram Video Quirk Unusual Vertical Display</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-windows-high-dpi-problems/"><u>Deciphering and Fixing Window's High DPI Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargar-convertidor-de-archivos-libres-online-para-transferir-webm-a-mp3-sin-coste/"><u>Descargar Convertidor De Archivos Libres Online Para Transferir WEBM a MP3 Sin Coste</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-execution-errors-the-malwarebytes-procedure-calls-in-win11win10/"><u>Fixing Execution Errors: The Malwarebytes Procedure Calls in Win11/Win10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-do-i-fix-corrupted-mp4-video-files-from-android/"><u>How Do I Fix Corrupted MP4 Video Files From Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-change-your-phones-ringtone-picking-from-viral-tiktok-sounds/"><u>How To Change Your Phone's Ringtone Picking From Viral TikTok Sounds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ai-powered-name-ideas-for-standout-podcast-titles/"><u>In 2024, AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-onedrive-servers-errors/"><u>Mastering the Art of Fixing OneDrive Servers Errors</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-downloads-needed-10-free-online-video-compression-solutions/"><u>New In 2024, No Downloads Needed 10 Free Online Video Compression Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-in-windows-screen-setup-fixes/"><u>Overcoming Obstacles in Windows Screen Setup Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-launch-hurdle/"><u>Overcoming Windows' Lunar Client Launch Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-grayed-cursors-bios-update-guide/"><u>Resurrecting Grayed Cursors: BIOS Update Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-kodi-buffering-proven-techniques-for-a-smooth-stream/"><u>Say Goodbye to Kodi Buffering: Proven Techniques for a Smooth Stream</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-prior-disk-formatting-windows-warning/"><u>Tackling 'Prior Disk Formatting' Windows Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-windows-exe-and-pe-files/"><u>The Essence of Windows EXE and PE Files</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-perfecting-your-win11-systems-boot-sequence/"><u>Unveiling the Secrets to Perfecting Your Win11 System's Boot Sequence</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725289842644-iso/"><u>アビファイルへの自由なISOからの変換手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Correcting Misleading Virus Alerts on the Chrome Browser
-date: 2024-11-21T21:30:43.918Z
-updated: 2024-11-27T18:09:09.051Z
+date: 2024-12-01T02:53:15.245Z
+updated: 2024-12-07T12:11:17.239Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before We Get Started…
 
  Before implementing the fixes, ensure Chrome is up-to-date. In some cases, outdated Chrome can cause unforeseen issues. Among them could be halting the download for no apparent reason. Therefore, it's imperative to[update Chrome](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/#how-to-update-and-view-the-current-version-of-chrome-on-desktop) to rule out this possibility.
@@ -42,19 +46,15 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 4. Press**Enter** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![scan results of a file being downloaded checked on the virus totals official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-results-of-a-file-being-downloaded-checked-on-the-virus-totals-official-website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the scan is complete, see if it returns a clean result. If the tool detects some viruses, you'd be better off not downloading the file. If the scan comes back clean but you're still getting the error, it's time to try something else
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Does the Issue Pertain to a Particular File?
@@ -81,15 +81,15 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Opening Manage Settings Option under Virus and Threat Protection Settings in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-5-Opening-Manage-Settings-Option-under-Virus-and-Threat-Protection-Settings--in-Windows-Security-App.jpg)
 4. Under**Exclusions** , click**Add or remove exclusions** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on**Add an exclusion** button and select**Folder** .  
 ![Adding an Exclusion for Downloads Folder in Windows Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-6-Adding-an-Exclusion-for-Downloads-Folder-in-Windows-Security-Settings.jpg)
 6. Browse to the**Downloads** folder or any other location you have set as a download location.
 
  By following the above steps, you will prevent Windows Defender from scanning the files in the Downloads folder, so if Windows Defender is causing the error even when the file you're downloading is safe, you won't encounter it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add the File to Windows Defender's Whitelist
 
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Checking Protection History under Virus and Threat Protection in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-7-Checking-Protection-History-under-Virus-and-Threat-Protection-in-Windows-Security-App.jpg)
 4. Locate and expand the blocked app or file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Expand the**Actions** dropdown menu and click**Allow** .
 
  This time, you should not encounter any errors when downloading the file. If the problem persists, tweak Chrome's security settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily Disable Microsoft Defender Firewall
 
@@ -116,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
  If you have never disabled the firewall before, refer to our guide on[how to disable the Microsoft Defender Firewall in Windows 11](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
  Don't forget to turn on Microsoft Defender after downloading the file, as it's the first line of defense against malware and threats your computer faces.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Tweak Chrome's Security Settings
 
@@ -130,13 +126,18 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 3. In the right-hand pane, click**Security** .  
 ![Go to Security Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tweaking-chromes-security-settings-by-clicking-on-security-option-under-the-privacy-and-security-tab-in-chrome-settings.jpg)
 4. Check the circle for**No Protection (not recommended)** .  
-![check the ircle for no protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checking-the-circle-for-no-protection-not-recommended-option-in-chromes-security-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![check the ircle for no protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/checking-the-circle-for-no-protection-not-recommended-option-in-chromes-security-settings.jpg)
+
  You might be able to download files successfully by disabling Safe Browsing, but once you disable it, Chrome's built-in security won't protect you from malware and malicious downloads. Therefore, after downloading your files, be sure to turn Safe Browsing back on again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tweak the Windows Registry Editor
 
@@ -181,18 +182,24 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-videos-impact-with-gs-and-yt-conversion-for-2024/"><u>[New] Boost Your Video's Impact with GS and YT Conversion for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-secure-and-swift-transfer-of-photos-from-iphoneandroid-to-snapchat/"><u>[Updated] 2024 Approved How-To Secure and Swift Transfer of Photos From iPhone/Android to Snapchat</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-rumors-on-tesla-automation-device-pricing-projections-release-schedule-and-performance-specifications/"><u>Decoding Rumors on Tesla Automation Device: Pricing Projections, Release Schedule, and Performance Specifications</u></a></li>
-<li><a href="https://win-special.techidaily.com/efficiently-duplicate-windows-11-system-on-several-computers-with-these-3-key-steps/"><u>Efficiently Duplicate Windows 11 System on Several Computers with These 3 Key Steps</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17e-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17e to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-z-fold-5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy Z Fold 5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas/"><u>In 2024, Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas</u></a></li>
-<li><a href="https://win11.techidaily.com/intro-to-windows-accessibility-must-know-tips/"><u>Intro to Windows Accessibility: Must-Know Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Razr 40</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-visual-placement-on-windows-devices/"><u>Reversing Visual Placement on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprehensive-guide-to-disbanding-disk-divisions-in-win-os/"><u>The Comprehensive Guide to Disbanding Disk Divisions in Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-audacitys-windows-compatibility-issue-9999/"><u>Unlocking Audacity's Windows Compatibility Issue #9999</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fbs-leading-charts-10-hot-music-videos/"><u>[Updated] FB's Leading Charts 10 Hot Music Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-clarity-visual-notes-made-easy-with-obsidian/"><u>Dive Into Clarity: Visual Notes Made Easy with Obsidian</u></a></li>
+<li><a href="https://app-tips.techidaily.com/efficient-methods-to-unlink-your-iphone-device-from-icloud-accounts/"><u>Efficient Methods to Unlink Your iPhone Device From iCloud Accounts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-hiring-game-with-the-best-vids-in-town/"><u>Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-silence-of-the-microsoft-store-in-win-11/"><u>Eliminating the Silence of the Microsoft Store in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-utorrent-download-freeze-phenomenon-on-pcs/"><u>Eliminating uTorrent Download Freeze Phenomenon on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-guide-windows-11s-hidden-themes-unlocked-with-registry/"><u>Exclusive Guide: Windows 11'S Hidden Themes Unlocked with Registry</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-your-perfect-viewing-companion-ranking-the-top-6-online-retailers-for-televisions/"><u>Find Your Perfect Viewing Companion: Ranking the Top 6 Online Retailers for Televisions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-start-participating-in-google-webinars/"><u>How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f04-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F04 Fingerprint Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-no-longer-available-on-last-line-error-on-your-iphone-with-these-tips/"><u>Overcome 'No Longer Available on Last Line' Error on Your iPhone with These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-static-silence-fixing-pc-sounds/"><u>Overcoming Static Silence: Fixing PC Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-directx-setup-download-errors-in-windows/"><u>Resolving DirectX Setup Download Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-net-visibility-on-disconnected-pcs-windows/"><u>Restoring Net Visibility on Disconnected PCs Windows</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google Pixel 7a</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-off-games-in-windows-11-suggestions/"><u>Switching Off Games in Windows 11 Suggestions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-gpeditmsc-access-issues-in-windows-home-edition/"><u>Troubleshooting 'gpedit.msc' Access Issues in Windows Home Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-re-ignite-windows-11-explorer/"><u>Troubleshooting Tips: Re-Ignite Windows 11 Explorer</u></a></li>
 </ul></div>
 

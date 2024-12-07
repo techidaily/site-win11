@@ -1,7 +1,7 @@
 ---
 title: Disabling Round Corners on Windows 11
-date: 2024-11-25T18:13:55.853Z
-updated: 2024-11-28T04:10:04.490Z
+date: 2024-12-01T19:41:07.490Z
+updated: 2024-12-07T07:08:42.438Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable Rounded Corners in Windows 11 Using a Third-Party Tool
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 ![Square Corners in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/square-corners-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
@@ -65,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 ![Disable Rounded Corners in Windows 11 via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-rounded-corners-in-windows-11-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
@@ -86,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 4. Right-click on your display driver and select **Disable device**.  
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disabling Rounded Corners in Windows 11 Is Easy
 
@@ -100,25 +100,6 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
  The good news is that it is possible to disable rounded corners in Windows 11, and this guide will walk you through three easy methods for the same.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-insights-viewing-nba-games-remotely/"><u>[New] Exclusive Insights Viewing NBA Games Remotely</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-creating-a-skype-group-on-both-systems-for-2024/"><u>[New] Step-by-Step Creating a Skype Group on Both Systems for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cultivating-cash-by-critiquing-consumer-commodities-online/"><u>[Updated] Cultivating Cash by Critiquing Consumer Commodities Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-the-world-of-video-timestamps-on-youtube/"><u>[Updated] Navigating the World of Video Timestamps on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-seo-strategy-for-podcast-growth/"><u>2024 Approved The Complete Seo Strategy for Podcast Growth</u></a></li>
-<li><a href="https://win11.techidaily.com/cross-device-compatibility-windows-app-supports-apple-and-desktop-oses/"><u>Cross-Device Compatibility: Windows App Supports Apple and Desktop OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/dxgidll-gone-unveiling-win11-remedy-steps/"><u>Dxgi.dll Gone? Unveiling Win11 Remedy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-root-of-windows-defender-error-0x80004004/"><u>Eliminating the Root of Windows Defender Error 0X80004004</u></a></li>
-<li><a href="https://driver-install.techidaily.com/m2-ssd-compatibility-tips/"><u>M.2 SSD Compatibility Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-windows-11-taskbar-sizing-techniques/"><u>Perfect Windows 11 Taskbar Sizing Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-the-art-of-ppt-video-creation-for-2024/"><u>Perfecting the Art of PPT Video Creation for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-installing-the-latest-nahimic-audio-drivers-in-no-time/"><u>Seamless Setup: Installing the Latest Nahimic Audio Drivers in No Time</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-non-empty-directory-error-in-windows-11-and-win11-code-0x80070091/"><u>Taming the Non-Empty Directory Error in Windows 11 & Win11 (Code: 0X80070091)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211383492-9780645738636-the-complete-teachings-of-modern-wicca-for-the-seeker/"><u>The Complete Teachings of Modern Wicca For the Seeker | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-source-unavailable-errors-in-windows-1011/"><u>Troubleshooting Steps for “Source Unavailable” Errors in Windows 10/11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -126,3 +107,27 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-exiting-with-impact-mastering-podcast-conclusions-beyond-the-basics/"><u>[New] 2024 Approved Exiting with Impact Mastering Podcast Conclusions Beyond the Basics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[New] In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>[New] The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-supercharge-your-videos-with-these-proven-keyword-analyst-tools/"><u>[Updated] Supercharge Your Videos with These Proven Keyword Analyst Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-v29e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo V29e For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ctrlplustab-minimizing-programs-to-system-tray-quickly/"><u>Mastering Ctrl+Tab: Minimizing Programs to System Tray Quickly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-unveiling-the-6-top-rated-digital-libraries-for-haunting-audio-effects-2e-update/"><u>New Unveiling the 6 Top-Rated Digital Libraries for Haunting Audio Effects (2E Update)</u></a></li>
+<li><a href="https://win11.techidaily.com/pioneering-phone-sync-on-windows-11-a-new-era-begins/"><u>Pioneering Phone Sync on Windows 11: A New Era Begins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-up-any-web-session-integrating-agentgpts-ais/"><u>Power Up Any Web Session – Integrating AgentGPT's AIs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/premier-editing-software-for-vimeo-streams/"><u>Premier Editing Software for Vimeo Streams</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-to-downloading-your-brother-printers-driver/"><u>Quick and Simple Guide to Downloading Your Brother Printer's Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/ram-cache-clarity-and-techniques-for-windows-users/"><u>RAM Cache Clarity & Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-context-menus-a-windows-users-guide/"><u>Realigning Context Menus: A Windows User's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-dll-loading-problem-in-steamui/"><u>Rectifying the DLL Loading Problem in SteamUI</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-window-11-desktop-systems-user-interface/"><u>Restoring Window 11 Desktop System's User Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-typing-with-powertoys-on-windows/"><u>Supercharge Typing with PowerToys on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-snip-and-sketch-command/"><u>Unlock Windows 11 Snip & Sketch Command</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-rebooting-ram-settings/"><u>Win 11: Rebooting RAM Settings</u></a></li>
+</ul></div>
+

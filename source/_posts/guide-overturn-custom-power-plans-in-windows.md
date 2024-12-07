@@ -1,7 +1,7 @@
 ---
 title: "Guide: Overturn Custom Power Plans in WIndows"
-date: 2024-11-26T02:22:37.795Z
-updated: 2024-11-28T02:17:32.273Z
+date: 2024-12-06T11:33:08.055Z
+updated: 2024-12-07T00:21:53.342Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reset Power Plans to Default Using the Control Panel
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ![Reset Power Plan Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-power-plan-using-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can repeat the above steps to reset other power plans as well. Before you do that, it's a good idea to note down any changes you wish to reapply after the reset.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
  If you are looking for a way to swiftly switch between power plans, don't miss our guide on the best [ways to change power plans on Windows](https://www.makeuseof.com/windows-11-change-power-plan/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reset Power Plans to Default With Command Prompt or Windows PowerShell
@@ -74,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ![Reset Power Plan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-power-plan-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s about it. Once you run the above command, Windows will reset all the power plans to their default settings. For more such useful commands, why not check our guide on the [most useful CMD commands for Windows](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting Windows Power Plans to Default Settings
@@ -91,29 +91,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Whether you want to troubleshoot power-related issues or simply start afresh, resetting power plans on your Windows 10 or 11 PC is fairly straightforward. There are a couple of ways you can go about this. Let’s go through them one at a time.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-boosting-productivity-with-innovative-win11-features/"><u>[New] 2024 Approved Boosting Productivity with Innovative Win11 Features</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/iscover-the-leading-youtube-to-webm-converter-tools-for-2024/"><u>[New] Discover the Leading YouTube-to-WebM Converter Tools for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>[New] Laughing in the Metaverse How to Create Your Own Funny Memes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-a-beginners-approach-to-nvidia-screen-capture-for-2024/"><u>[Updated] A Beginner's Approach to NVIDIA Screen Capture for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-video-projects-using-intel-quick-sync-video-encoder/"><u>Accelerate Your Video Projects Using Intel Quick Sync Video Encoder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/building-your-personal-conversational-agent-emulating-chatgpt-on-your-computer/"><u>Building Your Personal Conversational Agent: Emulating ChatGPT on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-guide-to-dvd-extraction-on-windows-and-mac-a-step-by-step-tutorial/"><u>Complete Guide to DVD Extraction on Windows and Mac: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-tutorial-installing-and-configuring-openmeta-and-openinfo-platforms/"><u>Comprehensive Tutorial: Installing and Configuring OpenMeta & OpenInfo Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-6-ai-driven-apps-for-analyzing-and-conversing-in-pdfs-like-a-pro/"><u>Discover the Ultimate List of 6 AI-Driven Apps for Analyzing and Conversing in PDFs Like a Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-converting-m4a-audio-to-aiff-format/"><u>Easy Guide: Converting M4A Audio to AIFF Format</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-methods-for-converting-png-graphics-into-high-quality-mp4-movies-with-both-online-services-and-pc-applications/"><u>Easy Methods for Converting PNG Graphics Into High-Quality MP4 Movies with Both Online Services and PC Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-robust-customer-assistance/"><u>Effective Strategies for Robust Customer Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-techniques-to-combine-mp3-tracks-on-windows-11/"><u>Efficient Techniques to Combine MP3 Tracks on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-dvd-to-mkv-conversion-guide-for-windows-11-and-10-users/"><u>Effortless DVD-to-MKV Conversion Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-transforming-gopro-4k-videos-into-crisp-clear-1080p-without-losing-detail/"><u>Expert Tips for Transforming GoPro 4K Videos Into Crisp, Clear 1080P Without Losing Detail</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-edition-the-ultimate-guide-to-final-cut-pro-x-keyboard-shortcuts-40-must-knows-for-2024/"><u>New Edition The Ultimate Guide to Final Cut Pro X Keyboard Shortcuts (40 Must-Knows) for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-8-web-based-mp3-trimmers-streamline-your-audio-files-online/"><u>Top 8 Web-Based MP3 Trimmers - Streamline Your Audio Files Online</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -121,3 +98,23 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-seamless-incorporation-of-text-overlays-for-vimeo-films/"><u>[New] 2024 Approved Seamless Incorporation of Text Overlays for Vimeo Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-private-snapshares-a-comprehensive-tutorial/"><u>[New] Unlocking Private Snapshares A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-free-fb-tracks-at-your-command/"><u>[Updated] Free FB Tracks at Your Command</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-ways-to-define-text-in-win11/"><u>Convenient Ways to Define Text in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-boot-issues-with-windows-11s-safe-mode/"><u>Easy Fixes for Boot Issues with Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>EIZO's Boundaries Reached The CG318-4K Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-0x80242016-in-windows-update-woes/"><u>Halt 0X80242016 in Windows Update Woes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-gif-design-and-creation/"><u>In 2024, The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-outlook-alert-mechanisms-on-pcs/"><u>Mastering Microsoft Outlook Alert Mechanisms on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-your-notepad-experience-with-windows-theme-tweaks/"><u>Maximizing Your Notepad Experience with Windows Theme Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-pc-peripherals-and-systems-at-toms-hardware-hub/"><u>Pioneering PC Peripherals and Systems at Tom’s Hardware Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-heic-photos-into-jpeg-on-pcs/"><u>Streamline HEIC Photos Into JPEG on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
+</ul></div>
+

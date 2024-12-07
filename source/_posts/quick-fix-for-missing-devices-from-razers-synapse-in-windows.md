@@ -1,7 +1,7 @@
 ---
 title: Quick Fix for Missing Devices From Razer's Synapse in Windows
-date: 2024-11-24T01:06:19.071Z
-updated: 2024-11-27T21:32:21.911Z
+date: 2024-12-02T03:47:02.013Z
+updated: 2024-12-07T08:05:18.700Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
  You can check supported hardware at the[Razer Synapse 3 supported device page](https://mysupport.razer.com/app/answers/detail/a%5Fid/4130/~/razer-synapse-3-supported-devices) . Click a category on that page to see if your device is listed there. You can also check compatibility for version 2.0 at the[Razer Synapse 2.0](https://mysupport.razer.com/app/answers/detail/a%5Fid/4131/~/razer-synapse-2.0-supported-devices) supported device page. If your device is listed among the supported hardware on one of those pages, your Synapse software should detect it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Hardware and Devices Troubleshooter
 
  Windows has a Hardware and Devices troubleshooter that could identify and even resolve issues with the Razer device Synapse isn’t detecting. However, that troubleshooter isn’t visible within Settings. Nevertheless, you can run the Hardware and Devices troubleshooter from Command Prompt like this:
@@ -49,14 +45,6 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 6. Click**Next** in the Hardware and Devices troubleshooter.  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hardware-and-devices-troubleshooter.jpg)
 7. Select**Apply this fix** for resolutions the troubleshooter suggests.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Plug the Razer Device into an Alternative USB Port
 
@@ -77,16 +65,17 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 4. Select the**Repair** option in the window that opens.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-button.jpg)
 5. Sign back into Razer Synapse after selecting**Repair** .
-6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Then select**Restart** in Windows 11/10 before launching Synapse.
 
 ## 4\. Reinstall Razer Synapse
 
@@ -110,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 ![The ProgramData > Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/razer-subfolder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Repeat steps eight and nine to delete all files in the Razer directories folder. Once done, restart your PC.
 
 1. Click**Download Now** on the[Razer Synapse](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2022703&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3) page.
@@ -118,7 +111,11 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 3. Select the**Synapse** checkbox along with other Razer software to reinstall, and click the**Install** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall Mouse and Keyboard Device Drivers
@@ -136,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 7. Uninstall all Razer and HID keyboard devices listed there as outlined in step four.
 8. Reboot the Windows PC for the automatic reinstallation of device drivers. You can also select**Action** and**Scan for hardware changes** in Device Manager to reinstall uninstalled peripherals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Antivirus Utilities
 
  Temporarily antivirus apps on your PC to ensure they aren’t blocking Synapse in any way. You can disable Windows Security’s real-time protection as outlined in our guide for[disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) . If there’s a third-party antivirus tool on your PC, turn off its shield via its system tray icon’s context menu.
@@ -143,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 ![Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Razer Synapse to see if it detects your devices after disabling antivirus software on your PC. If this potential resolution works, consider adding Razer Synapse to the[exclusion list in Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/) or alternative security software. Then turn your antivirus protection back on.
@@ -167,17 +168,22 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-best-templates-no-cost-explore-premiere-pro-samples-free-for-2024/"><u>[New] Best Templates, No Cost! Explore Premiere Pro Samples (FREE) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-potential-apple-devices-on-your-youtube-channel/"><u>[Updated] In 2024, Discovering the Potential Apple Devices on Your YouTube Channel</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unleash-potential-in-digital-art-top-10-android-drawing-app-reviews-for-2024/"><u>[Updated] Unleash Potential in Digital Art Top 10 Android Drawing App Reviews for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-review-in-depth-analysis-from-toms-hardware-experts/"><u>Advanced PC Review: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-hibernate-for-idle-windows-1011-users/"><u>Effortless Hibernate for Idle Windows 10/11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-w11s-notepad-through-intelligent-assistance/"><u>Elevate W11's Notepad Through Intelligent Assistance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/homepod-or-homepod-mini-unveiling-which-of-apples-smart-speakers-best-suits-your-needs-tech-expertise-insights/"><u>HomePod or HomePod Mini - Unveiling Which of Apple's Smart Speakers Best Suits Your Needs | Tech Expertise Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavis-no-cost-swf-to-wav-file-conversion-tool-a-simple-solution-for-audio-extraction-and-playback/"><u>Movavi's No-Cost SWF to WAV File Conversion Tool: A Simple Solution for Audio Extraction and Playback</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-stay/"><u>New 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-windows-save-permission-mishaps/"><u>Steps to Address Windows Save Permission Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-checklist-for-clean-windows-installations/"><u>The Ultimate Checklist for Clean Windows Installations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-tutorial-transferring-youtube-videos-to-dailymotion-for-2024/"><u>The Ultimate Tutorial Transferring YouTube Videos to Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-brand-visualization-inserting-watermarks-and-logos-into-youtube-media/"><u>[New] In 2024, Brand Visualization Inserting Watermarks and Logos Into YouTube Media</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[New] In 2024, The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-everyday-youtubes-finest-yoga-influencers-for-2024/"><u>[Updated] Elevate Everyday - YouTube's Finest Yoga Influencers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canoscan-lide-120-driver-software-update-how-to-download-and-install/"><u>CanoScan LiDE 120 Driver Software Update: How to Download and Install</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-vanished-files-problem-on-windows-11/"><u>Correcting Vanished Files Problem on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disconnected-servers-restoring-access-to-ms-sql-and-malwarebytes/"><u>Fixing Disconnected Servers: Restoring Access to MS SQL & Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-saving-failures-in-windows-10-and-11/"><u>Fixing Saving Failures in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-detect-your-pcs-disk-hdd-or-ssd/"><u>How to Detect Your PC's Disk – HDD or SSD?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-steams-content-file-unlocking-problem-quickly/"><u>How to Fix Steam's Content File Unlocking Problem Quickly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-aesthetics-unleashed-leading-enhancers-for-2024/"><u>Instagram Aesthetics Unleashed Leading Enhancers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-art-of-canvas-with-these-top-10-secrets-for-2024/"><u>Master the Art of Canvas with These Top 10 Secrets for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/open-local-group-policies-with-a-click-on-win11/"><u>Open Local Group Policies with a Click on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-false-device-errors-tips-and-tricks-windows/"><u>Removing False Device Errors: Tips and Tricks, WIndows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-winx-error-0x80246007-fix/"><u>Step-by-Step Guide to WinX Error 0X80246007 Fix</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/uncovering-the-best-in-budget-a-comprehensive-review-of-the-1byone-amplified-hdtv-antenna/"><u>Uncovering the Best in Budget: A Comprehensive Review of the 1byOne Amplified HDTV Antenna</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-slumber-techniques-quick-tips/"><u>Windows Slumber Techniques: Quick Tips</u></a></li>
 </ul></div>
 

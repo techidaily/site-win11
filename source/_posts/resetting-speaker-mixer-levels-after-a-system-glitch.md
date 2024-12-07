@@ -1,7 +1,7 @@
 ---
 title: Resetting Speaker Mixer Levels After a System Glitch
-date: 2024-09-05T08:32:53.529Z
-updated: 2024-09-06T08:32:53.529Z
+date: 2024-11-30T02:21:14.584Z
+updated: 2024-12-06T20:41:31.300Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Speaker Levels Reset,System Glitch Mixer Fix,Re-Calibrate Sound Sy
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resetting Speaker Mixer Levels After a System Glitch
 
  The Windows Volume Mixer is a great tool; it lets you manage audio outputs for different devices and adjust the volume for individual apps. But if the Volume Mixer doesn't save your audio settings, you might be stuck with an app that is too loud or playing through the wrong device.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
  If this has happened to you, there’s no need to worry. We’ll walk you through the steps to fix the Volume Mixer and easily control your computer’s audio output.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Playing Audio Troubleshooter
 
  It might be hard to identify the exact cause of why Windows Volume Mixer can’t save audio settings. Before going through the list of more complicated fixes, try using Windows built-in tools to fix the issue. In this case, try running the Playing Audio troubleshooter.
@@ -44,27 +36,17 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 ![Run the Audio Troubleshooter in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-audio-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows will now search for any possible problems regarding its playing audio capability. Once the process is complete, it will suggest one or more fixes that you can apply to make Volume Mixer save your audio settings.
 
 ##
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Turn On Exclusive Mode
 
  Exclusive Mode allows apps to restrict your device’s audio control. In this case, it might help solve the Volume Mixer issue. Here’s how you can enable it:
@@ -80,11 +62,9 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 ![Turn on exclusive mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/exclusive-mode-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Try Some Generic Windows Fixes
 
  If none of those did the job, there are some simple fixes you can do around Windows.
@@ -94,23 +74,18 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 * Additionally, you could[perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to check if there’s an installed app that manages your computer’s audio without you knowing about it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Control the Volume Mixer Again on Windows
 
  Not being able to adjust individual volumes can be really annoying, especially if you have multiple apps playing audio at the same time. We hope one or more of the above methods helped you fix the issue.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +94,20 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-chorus-chronicles-new-speaker-insights/"><u>[New] 2024 Approved Chorus Chronicles New Speaker Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/verything-you-need-to-know-about-youtube-shorts-for-2024/"><u>[New] Everything You Need to Know About YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/png-6/"><u>如何回復被移除的 PNG 畫面：6 顆不用花一分錢的答案</u></a></li>
+<li><a href="https://win-special.techidaily.com/affordable-microsoft-office-2019-deals-get-your-windowsmac-license-for-just-25-read-more-on-zdnet/"><u>Affordable Microsoft Office 2019 Deals: Get Your Windows/Mac License for Just $25 - Read More on ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-non-pressing-tab-button-on-windows-desktop/"><u>Fixing the Non-Pressing Tab Button on Windows Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-display-repair-how-to-solve-the-persistent-white-screen-problem/"><u>Laptop Display Repair: How to Solve the Persistent White Screen Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-windows-10-quadro-drivers-downloads-by-nvidia/"><u>Official Windows 10 Quadro Drivers Downloads by Nvidia</u></a></li>
+<li><a href="https://win11.techidaily.com/shield-windows-from-nonstop-updates/"><u>Shield Windows From Nonstop Updates</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X8b</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-addressing-upgrade-issues-windows-11s-0x80246007/"><u>Swiftly Addressing Upgrade Issues: Windows 11'S 0X80246007</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-6-iphone-security-software-leading-antivirus-applications/"><u>Top 6 iPhone Security Software: Leading Antivirus Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-wireless-spotlight-on-windows-11/"><u>Troubleshooting Missing Wireless Spotlight on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-mysteries-solved-decoding-unlisted-content-explained-for-2024/"><u>YouTube Mysteries Solved Decoding 'Unlisted' Content Explained for 2024</u></a></li>
+</ul></div>
 

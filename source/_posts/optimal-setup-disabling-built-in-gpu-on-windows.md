@@ -1,7 +1,7 @@
 ---
 title: "Optimal Setup: Disabling Built-In GPU on Windows"
-date: 2024-11-23T21:35:25.345Z
-updated: 2024-11-28T04:28:01.287Z
+date: 2024-11-30T04:03:18.862Z
+updated: 2024-12-07T09:32:00.985Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 ![Task Manager Option in the Taskbar Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Task-Manager-Option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Task Manager, select the **Performance** tab on the left and look at the number of GPUs available for your PC on the right. If there is more than one, then the other one is the dedicated GPU. In our case, **GPU 1** is the dedicated GPU, and if we click on it and scroll to the bottom, we can see that it says **Dedicated GPU Memory** in the rightmost panel.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
@@ -51,19 +55,15 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Turn Off Integrated Graphics?
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Your Dedicated Graphics Card When You Need It
@@ -85,23 +85,6 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-avoidance-of-windows-10-photos-application-hang-ups/"><u>[New] In 2024, Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-luminance-hdr-analysis-worth-the-production-for-2024/"><u>[Updated] Luminance HDR Analysis Worth the Production for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-windows-11-the-easy-way/"><u>How To Refresh Windows 11 [The Easy Way]</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-picks-for-integrating-frame-elements-with-images/"><u>In 2024, Top Picks for Integrating Frame Elements with Images</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-videos-from-naver-without-paying/"><u>Step-by-Step Guide: Downloading Videos From Naver Without Paying</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-recording-your-tango-calls-across-all-platforms/"><u>Step-by-Step Guide: Recording Your Tango Calls Across All Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hunting-game-reversed-in-frozen-ground-dvd-release/"><u>The Hunting Game Reversed in 'Frozen Ground' DVD Release</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-youtube-stardom-reaching-submillion-status-for-2024/"><u>The Key to YouTube Stardom Reaching Submillion Status for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-18-unbeatable-prime-day-specials-on-laptops-including-brands-like-hp-apple-and-razer-zdnet/"><u>Top 18 Unbeatable Prime Day Specials on Laptops Including Brands Like HP, Apple, and Razer | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-methods-for-converting-mov-files-into-wav-format-a-comprehensive-guide/"><u>Top 8 Methods for Converting MOV Files Into WAV Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-solutions-how-to-resolve-your-pcmac-video-playback-issues/"><u>Top 8 Solutions: How to Resolve Your PC/Mac Video Playback Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/top-no-cost-arte-video-downloader-seamless-access-to-high-quality-arte-streams-at-zero-price/"><u>Top No-Cost Arte Video Downloader: Seamless Access to High-Quality Arte Streams at Zero Price</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-review-of-kooteks-advanced-cooling-solution-for-your-laptop-needs/"><u>Top Review of Kootek's Advanced Cooling Solution for Your Laptop Needs</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -109,3 +92,19 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/arnings-on-youtube-the-crucial-number-of-video-views-for-money-for-2024/"><u>[New] Earnings on YouTube The Crucial Number of Video Views for Money for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-tools-to-create-stunning-igtv-video-edits-for-2024/"><u>Best Tools to Create Stunning IGTV Video Edits for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-the-heart-of-recent-windows-use/"><u>Direct to the Heart of Recent Windows Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-black-ops-understanding-the-black-screen-and-error-code-0xc0000005/"><u>Fixing Black Ops: Understanding the 'Black Screen' And 'Error Code 0xC0000005'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-x8b-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor X8b to iPod | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-restart-stuck-windows-task-bar/"><u>Methods to Restart Stuck Windows Task Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-a-device-not-valid-message-on-pc/"><u>Resolving a Device Not Valid Message on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/rewind-records-quick-applications-on-pc-to-change-file-dates/"><u>Rewind Records: Quick Applications on PC to Change File Dates</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-windows-11-interface-icon-sizing-up/"><u>Tailoring Windows 11 Interface: Icon Sizing Up</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-pick-ultimate-app-for-effortlessly-creating-a-see-through-canvas/"><u>Top Pick: Ultimate App for Effortlessly Creating a See-Through Canvas</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-12-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi 12 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

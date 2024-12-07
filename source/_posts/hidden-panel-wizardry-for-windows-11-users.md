@@ -1,7 +1,7 @@
 ---
 title: Hidden Panel Wizardry for Windows 11 Users
-date: 2024-11-26T17:34:36.520Z
-updated: 2024-11-27T23:11:24.893Z
+date: 2024-12-01T01:36:49.425Z
+updated: 2024-12-06T19:18:53.369Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 3. Select **Yes** if a User Account Control prompt pops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Yes** within the Registry Editor dialog box that asks if you’re sure about continuing.  
@@ -58,14 +58,10 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
 
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Click on the **Apply** button.
@@ -92,34 +88,15 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
 
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>[New] 2024 Approved From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-inauthentic-accounts-on-brand-pages/"><u>[New] In 2024, Unveiling Inauthentic Accounts on Brand Pages</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-prolonging-snapstreak-excellence-top-10-advice-for-2024/"><u>[New] Prolonging Snapstreak Excellence Top 10 Advice for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>[Updated] In 2024, The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>[Updated] In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[Updated] Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/44cm44ol44kz44ol44kz44ob44oj44oz44on44or44gl44kj44oa44km44oz44ot44o844oj44gx44gm44cb44ov44kh44kk44or44go44gx44gm5lplusd5a2y44gz44kl5oml6acg6zug44cn/"><u>「ニコニコチャンネルからダウンロードして、ファイルとして保存する手順集」</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4isotop3/"><u>無料MP4からISOへの高性能な変換ソフトウェア：おすすめランキングTOP3</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-n3-flip-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find N3 Flip Phone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-converting-videocasts-to-high-quality-mp3-files-in-minutes/"><u>Master the Art of Converting Videocasts to High-Quality MP3 Files in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-wav-file-creation-in-windows-10-for-clear-sound-capture/"><u>Mastering the Art of WAV File Creation in Windows 10 for Clear Sound Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/mp4-f4v/"><u>MP4に変換してください - F4Vファイルからのコンバージョンガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/pcgta5/"><u>PC上のGTA5キャプチャ手順: ステップバイステップガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-ipod-video-format-maker-easily-transform-videos-into-compatible-formats-for-ipod-ipod-touch-and-more/"><u>Professional IPod Video Format Maker - Easily Transform Videos Into Compatible Formats for iPod, iPod Touch & More</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-track-to-success-5-straightforward-strategies-to-speed-up-your-youtube-content-sharing-process/"><u>Quick-Track to Success: 5 Straightforward Strategies to Speed up Your YouTube Content Sharing Process</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-to-transforming-your-pds-videos-from-cyberlinks-powerdirector-into-popular-codecs-such-as-mp4-avi-or-wmv/"><u>Simple Guide to Transforming Your PDS Videos From Cyberlink's PowerDirector Into Popular Codecs Such as MP4, AVI or WMV</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-on-shortening-your-zoom-captures-managing-both-online-streams-and-offline-archives/"><u>Step-by-Step Guide on Shortening Your Zoom Captures - Managing Both Online Streams and Offline Archives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-resolving-uneven-colors-and-bent-appearances-on-monitors/"><u>Troubleshooting Techniques for Resolving Uneven Colors and Bent Appearances on Monitors</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +105,27 @@ thumbnail: https://thmb.techidaily.com/c7f5000e41b71ee026b5d1dc2b4d2e4d8155a2a1a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-adding-depth-with-customized-facebook-slideshows/"><u>[New] In 2024, Adding Depth with Customized Facebook Slideshows</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-creating-seamless-split-screen-visuals-on-sierra-systems/"><u>[New] In 2024, Creating Seamless Split-Screen Visuals on Sierra Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[Updated] Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-of-how-to-use-animoji-on-iphone-x/"><u>[Updated] The Ultimate Guide of How to Use Animoji on iPhone X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>2024 Approved 8 Best Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-easy-instagram-posting-for-gif-lovers-4-essential-tips/"><u>2024 Approved Easy Instagram Posting for GIF Lovers 4 Essential Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dji-flying-series-fundamentals-advanced-features-high-res-vision-for-2024/"><u>DJI Flying Series Fundamentals, Advanced Features, High-Res Vision for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-android-studio-speed-and-productivity-on-windows/"><u>Elevate Android Studio Speed and Productivity on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-lsa-offline-security-alarm-in-windows/"><u>Eradicating LSA Offline Security Alarm in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 3 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-windows-11-edge-less/"><u>Make Windows 11 Edge-Less</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-security-adopt-daily-windows-backup-habits/"><u>Mastering Data Security: Adopt Daily Windows Backup Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/mouse-mystery-solve-non-waking-windows-1011-devices/"><u>Mouse Mystery: Solve Non-Waking Windows 10/11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-install-on-no-wi-fi/"><u>Navigating Windows 11 Install on No Wi-Fi</u></a></li>
+<li><a href="https://win11.techidaily.com/quench-the-high-contrast-flame-in-windows-display/"><u>Quench the High Contrast Flame in Windows Display</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fall-guys-performance-issues-causing-pc-game-crashes-fixed/"><u>Resolved: Fall Guys Performance Issues Causing PC Game Crashes Fixed</u></a></li>
+<li><a href="https://win11.techidaily.com/the-foundation-of-victory-in-the-world-of-diablo/"><u>The Foundation of Victory in the World of Diablo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-building-and-optimizing-pc-systems/"><u>Tom's Guide to Building and Optimizing PC Systems</u></a></li>
+</ul></div>
+

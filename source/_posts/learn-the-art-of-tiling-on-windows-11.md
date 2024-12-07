@@ -1,7 +1,7 @@
 ---
 title: Learn the Art of Tiling on Windows 11
-date: 2024-11-21T22:00:41.566Z
-updated: 2024-11-28T01:50:47.194Z
+date: 2024-11-29T23:14:22.964Z
+updated: 2024-12-06T17:36:02.260Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Settings on Windows 11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 ![quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-settings.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, the dialog box for your Quick Settings will open. You can then tweak your settings from here reasonably easily.
@@ -46,11 +46,11 @@ thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf978908
 ![accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/accessibility-settings.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Editing the Quick Settings Menu
@@ -77,7 +77,7 @@ Here's how you can get started:
  Moreover, if you click on the settings icon, you'll see it as the settings menu. And, when you hover over it, you'll get taken straight to the settings menu of your Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Quick Settings on Windows PC
@@ -99,20 +99,18 @@ Here's how you can get started:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop-for-2024/"><u>[New] From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visionaries-convergence-dissecting-virtual-reality-augmented-and-mixed-realms/"><u>[New] Visionaries Convergence Dissecting Virtual Reality, Augmented & Mixed Realms</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-10-camera-lenses-to-use-for-2024/"><u>[Updated] Best 10 Camera Lenses to Use for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-innovators-behind-vr-spectacles/"><u>[Updated] Innovators Behind VR Spectacles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-game-changer-implementing-custom-gaming-banners/"><u>2024 Approved The Game Changer Implementing Custom Gaming Banners</u></a></li>
-<li><a href="https://win11.techidaily.com/tver/"><u>画面録画機能を使ってTVer番組視聴法：パソコンでの設定ガイド</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/step-by-step-guide-on-downloading-and-setting-up-pokemon-go-on-android-worldwide/"><u>Step-by-Step Guide on Downloading and Setting Up Pokémon GO on Android Worldwide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/terramat-cubefit-evaluation-boost-your-fitness-routine-in-a-standing-position/"><u>TerraMat CubeFit Evaluation: Boost Your Fitness Routine in a Standing Position</u></a></li>
-<li><a href="https://win11.techidaily.com/top-picks-ultimate-guide-to-choosing-a-user-friendly-pc-screen-recording-tool/"><u>Top Picks: Ultimate Guide to Choosing a User-Friendly PC Screen Recording Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tools-for-transforming-youtube-clips-into-mp3s-beyond-listentoyoutube-options-explained/"><u>Top Tools for Transforming YouTube Clips Into MP3s - Beyond ListenToYouTube Options Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-music-collection-convert-doobie-brothers-dvds-to-high-quality-mp4mp3-files/"><u>Transform Your Music Collection: Convert Doobie Brothers' DVDs to High-Quality MP4/MP3 Files</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-incompatible-sound-codes-on-samsung-tvs-simple-solutions-for-audio-issues/"><u>Troubleshooting Incompatible Sound Codes on Samsung TVs - Simple Solutions for Audio Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-solving-the-mp4-playback-issue-in-vlc-on-your-windows-pc/"><u>Ultimate Guide: Solving the MP4 Playback Issue in VLC on Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unauthorized-tutorial-steps-to-modify-someone-elses-youtube-content/"><u>Unauthorized Tutorial: Steps to Modify Someone Else's YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-command-attention-elevating-your-page-to-the-social-summit/"><u>2024 Approved Command Attention Elevating Your Page to the Social Summit</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-asus-rog-phone-8-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Asus ROG Phone 8 FRP Bypass Instantly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crafting-flawless-virtual-reality-gaming-archives/"><u>Crafting Flawless Virtual Reality Gaming Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/defying-conformity-a-journey-through-edges-microphonecamera-restrictions/"><u>Defying Conformity: A Journey Through Edge's Microphone/Camera Restrictions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/efficiently-dividing-soundtracks-an-introduction-to-audio-segmentation-tools-for-2024/"><u>Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-connectivity-hurdles-bluetooth-pin-problems-in-win11win10/"><u>How To Overcome Connectivity Hurdles: Bluetooth Pin Problems in Win11/Win10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 14 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-m34-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy M34 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/must-have-ios-8-keyboards-upgrade-your-iphone-or-ipad-input-options-today/"><u>Must-Have iOS 8 Keyboards: Upgrade Your iPhone or iPad Input Options Today!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-video-quality-ditching-buffering-and-jerking/"><u>Optimizing Video Quality: Ditching Buffering and Jerking</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-data-corruption-fixes-in-windows-1011/"><u>Streamlining Data Corruption Fixes in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-surface-upgrade-compendium-for-improved-functionality/"><u>The Ultimate Surface Upgrade Compendium for Improved Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-asmrs-secrets-for-optimal-wellness/"><u>Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
 </ul></div>
 

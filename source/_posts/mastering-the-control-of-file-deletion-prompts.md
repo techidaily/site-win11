@@ -1,7 +1,7 @@
 ---
 title: Mastering the Control of File Deletion Prompts
-date: 2024-11-24T17:48:07.709Z
-updated: 2024-11-27T19:19:42.752Z
+date: 2024-12-03T02:22:45.101Z
+updated: 2024-12-06T17:16:17.438Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable or Disable Delete Confirmation Dialog via Recycle Bin's Properties
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 2. In the**Recycle Bin Properties** window, tick the**Display delete confirmation dialog** checkbox.
 3. Click**Apply** followed by**OK** .  
 ![Enable or Disable Delete Confirmation Dialog via Recycle Bin Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Recycle-Bin-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you complete the above steps, Windows should display the delete confirmation dialog every time you move something to the Recycle Bin.
 
@@ -57,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 ![Enable or Disable Delete Confirmation Dialog via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable or Disable Delete Confirmation Dialog With Registry Editor
@@ -81,14 +85,10 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 ![Enable or Disable Delete Confirmation Dialog via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the reboot, Windows should display the delete confirmation dialog when you try to delete something. If you want to undo this change at any time, follow the same steps above and change the value data for**ConfirmFileDelete** to**0** . Alternatively, you can delete the**ConfirmFileDelete** entry altogether.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enabling or Disabling the Delete Confirmation Dialog on Windows
 
@@ -111,21 +111,24 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-adobe-advances-bringing-text-into-three-dimensional-space-for-2024/"><u>[New] Adobe Advances Bringing Text Into Three-Dimensional Space for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-drones-demystified-crucial-considerations-before-buying/"><u>[Updated] In 2024, Drones Demystified Crucial Considerations Before Buying</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-palette-power-skillful-color-adjustment/"><u>[Updated] In 2024, Palette Power Skillful Color Adjustment</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools-for-2024/"><u>[Updated] Mastering Your Game Library The Finest PC-Based GBA Emulation Tools for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastery-in-documentary-writing-essential-techniques/"><u>[Updated] Mastery in Documentary Writing Essential Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-digital-music-management-win-media-and-cds/"><u>2024 Approved Pioneering Digital Music Management Win, Media and Cds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/an-honest-review-of-recordcast-for-2024/"><u>An Honest Review of RecordCast for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-commands-open-screenshots-utility-in-win-11/"><u>Efficient Commands: Open Screenshots Utility in Win 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-n3-flip-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Find N3 Flip Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macmastery-expert-tips-on-resetting-and-restarting-your-macbook-pro/"><u>MacMastery: Expert Tips on Resetting and Restarting Your MacBook Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-store-failure-error-0x80073d26/"><u>Overcoming Windows Store Failure: Error 0X80073D26</u></a></li>
-<li><a href="https://win11.techidaily.com/premium-weather-tech-for-windows-users/"><u>Premium Weather Tech for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-type-speed-with-windows-tools/"><u>Skyrocket Your Type-Speed with Windows Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-edge-settings-to-reduce-processes/"><u>Tailoring Edge Settings to Reduce Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/tiny-tech-giants-running-microsoft-os/"><u>Tiny Tech Giants Running Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-dealing-with-failed-ms-store-app-downloads/"><u>Tips for Dealing with Failed MS Store App Downloads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-your-ultimate-guide-to-budget-friendly-excellent-webm-viewers-for-2024/"><u>[Updated] Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-how-to-identify-and-delete-null-space-in-your-windows-drives/"><u>Discover How to Identify and Delete Null Space in Your Windows Drives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effectively-converting-cda-audio-files-into-mp3-online-busting-the-quick-fix-fallacy-with-proven-techniques/"><u>Effectively Converting CDA Audio Files Into MP3 Online - Busting the Quick Fix Fallacy with Proven Techniques</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratuit-gebaseerd-mpe-konverter-naar-mp4-efficient-online-voorbeelden-met-movavi/"><u>Gratuit Gebaseerd MPE-Konverter Naar MP4: Efficiënt Online Voorbeelden Met Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-unable-to-link-issue-with-nvidia-geforce-in-windows-11/"><u>How to Resolve 'Unable to Link' Issue With NVIDIA GeForce in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-your-streams-with-seamless-obspluszoom-integration/"><u>In 2024, Elevate Your Streams with Seamless OBS+Zoom Integration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/iphone-connectivity-issue-solved-ensuring-successful-recognition-by-itunes-on-windows-10-systems/"><u>IPhone Connectivity Issue Solved: Ensuring Successful Recognition by iTunes on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-windows-11-the-ultimate-guide-to-default-apps/"><u>Personalize Windows 11: The Ultimate Guide to Default Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/sonicscope-in-depth-auditory-evaluation-for-2024/"><u>SonicScope In-Depth Auditory Evaluation for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-setting-up-system-protection-with-restore-points-on-windows-server-2008-r2/"><u>Step-by-Step Guide: Setting Up System Protection with Restore Points on Windows Server 2008 R2</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-quick-spooler-fix-in-windows/"><u>Steps for Quick Spooler Fix in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-resolving-winerror-709/"><u>Steps for Resolving WinError 709</u></a></li>
+<li><a href="https://win11.techidaily.com/task-management-perfection-ifttt-for-to-do/"><u>Task Management Perfection: IFTTT for To-Do</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-rectifying-configurations-managed-by-your-organization-on-windows-11/"><u>Tips for Rectifying Configurations Managed by Your Organization on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-installers-on-windows-os/"><u>Troubleshooting Failed Installers on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-windows-ui-with-customizable-portable-tools/"><u>Upgrade Windows UI with Customizable Portable Tools</u></a></li>
 </ul></div>
 

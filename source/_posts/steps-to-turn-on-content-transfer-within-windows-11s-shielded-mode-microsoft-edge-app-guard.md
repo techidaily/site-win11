@@ -1,7 +1,7 @@
 ---
 title: "Steps to Turn On Content Transfer Within Windows 11'S Shielded Mode: Microsoft Edge App Guard"
-date: 2024-09-05T08:33:26.950Z
-updated: 2024-09-06T08:33:26.950Z
+date: 2024-12-04T10:18:48.614Z
+updated: 2024-12-07T08:59:08.666Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win11 EdgeAppGuard ContentTransfer,Activate EdAppGuard Shielding,Enabl
 thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468e25eb7e04a5333cdbe19d66.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steps to Turn On Content Transfer Within Windows 11'S Shielded Mode: Microsoft Edge App Guard
 
  Looking to improve the security of your device? Microsoft Edge's Application Guard feature is an ideal solution, as it creates a virtualized atmosphere and blocks malicious websites. However, copy and paste functionality is disabled by default in this setting for extra precautionary measures.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
  If you would like to switch on copy and paste within Application Guard for Edge on Windows 11, then this guide will assist you in doing so.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Enable Copy and Paste via Windows Settings
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
@@ -43,25 +35,26 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 5. Go to the Isolated browsing section and click the link "Change Applications Guard settings."  
 ![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
 6. Search for the**Copy and paste** option, then click the toggle to enable it.  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
 7. The UAC prompt will appear on the screen. Click**Yes** to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
 
  If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Enable Copy and Paste Using Registry Editor
 
  The Windows Registry is another method you can use to copy and paste within Application Guard for Edge on your Windows 11 PC. But, please be aware that editing the registry can have severe consequences if done incorrectly. To be safe,[back up the registry data](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you begin making any changes.
@@ -83,11 +76,9 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
 ![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
 6. Finally, click**OK** to save your changes.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed the steps, close any running applications and restart your computer
@@ -96,30 +87,15 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
  Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Copy and Paste Now Works With Edge Application Guard
 
  With Application Guard for Edge, your device can remain secure while browsing the web. Unfortunately, certain functionalities such as copy and paste are disabled by default - but don't worry! This guide will explain two methods to activate them quickly and easily.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +104,24 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/ethereum-explorer-facebook-ceos-curious-goat-nickname/"><u>'Ethereum Explorer': Facebook CEO's Curious Goat Nickname.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-your-videos-discoverability-mastering-tags/"><u>[New] In 2024, Elevate Your Video's Discoverability - Mastering Tags</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-live-broadcasts-a-step-by-step-guide-for-fb-users/"><u>[New] In 2024, Mastering Live Broadcasts A Step-by-Step Guide for FB Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-sound-integrating-music-into-vimeo-video-projects/"><u>[New] Perfecting Sound Integrating Music Into Vimeo Video Projects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vr-liftoff-top-peripherals-and-their-impacts/"><u>[Updated] In 2024, VR Liftoff - Top Peripherals & Their Impacts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimizing-profits-on-youtube-studio-for-all-device-users/"><u>2024 Approved Optimizing Profits on YouTube Studio for All-Device Users</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-untapped-capabilities-in-windows-monitors/"><u>Deciphering Untapped Capabilities in Windows Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-defenders-historical-data-clean-secure-windows-pcs/"><u>Eliminate Defender's Historical Data - Clean, Secure Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-reconnecting-steam-to-online-content-servers/"><u>Guidelines for Reconnecting Steam to Online Content Servers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-extend-the-duration-of-windows-11-shutdown-during-running-operations/"><u>How to Extend the Duration of Windows 11 Shutdown During Running Operations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-lite-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Lite 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-poms-the-ultimate-list-of-winning-timers/"><u>Mastering Poms: The Ultimate List of Winning Timers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-windows-blue-screen-0x8007007e/"><u>Mastering the Fix for Windows Blue Screen 0X8007007E</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-instructions-to-download-and-update-epson-et-3760-printer-software-for-microsoft-windows/"><u>Quick & Easy Instructions to Download & Update Epson ET-3760 Printer Software for Microsoft Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-precision-in-your-presentations-prints-9-steps-with-powerpoint-and-pcs/"><u>Securing Precision in Your Presentations' Prints: 9 Steps with PowerPoint & PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-lsa-failure-causes-fixes-for-windows/"><u>Understanding LSA Failure Causes, Fixes for Windows</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-of-microsofts-windows-11-se-and-affordable-250-surface-laptop-se-targeting-educators-zdnet-update/"><u>Unveiling of Microsoft's Windows 11 SE and Affordable $250 Surface Laptop SE Targeting Educators – ZDNet Update</u></a></li>
+</ul></div>
 

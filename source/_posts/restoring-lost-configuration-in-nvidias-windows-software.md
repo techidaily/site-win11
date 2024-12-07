@@ -1,7 +1,7 @@
 ---
 title: Restoring Lost Configuration in NVIDIA's Windows Software
-date: 2024-11-21T18:46:13.220Z
-updated: 2024-11-27T16:59:30.907Z
+date: 2024-12-02T02:29:29.046Z
+updated: 2024-12-07T01:35:40.235Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If that works, set GeForce Experience to always run with elevated user rights. Then you won’t need to select the **Run as administrator** option all the time. Our guide for [always running apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set software packages to start with elevated permissions.
 
 ## 2\. Remove Scan Locations
@@ -45,17 +41,14 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 2. Click the **Settings** button by your user account name.  
 ![The Settings menu button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/settings-button.jpg)
 3. Select the **Games & Apps** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select a scan location and click **Remove**. Repeat this step to remove all scan locations shown.  
 ![The Remove button for scan locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-button.jpg)
 5. Press the **Scan Now** button to rescan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete the CefCache Folder
 
@@ -67,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![The CefCache folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cefcache-folder.jpg)
 3. Right-click the **CefCache** folder to select **Delete**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-button.jpg)
 4. Then launch the GeForce Experience software.
 5. Input your GeForce Experience account details again and click **Log In**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restore Default NVIDIA 3D Settings
 
@@ -86,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 4. Select **Yes** to reset the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Delete the Steam User Data
@@ -100,19 +93,23 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 3. Right-click a subfolder that doesn’t have any numbers in its name within the userdata folder and select **Delete**.
 4. Repeat the previous step to delete all subfolders in userdata with non-numeric titles like anonymous, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform Some Generic Windows Fixes
 
  There are a few Windows-based fixes you can try to get rid of this error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Erase Temporary Windows Data
 
  The Temp folder stores temporary files. GeForce Experience users confirm deleting data in that Temp folder can fix the “Unable to retrieve settings” issue. So, try eradicating data in that folder with one of the methods in our guide to [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/)[in Windows 11](http://www.makeuseof.com/windows-11-delete-temporary-files/).
 
 ![disk-cleanup-tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disk-cleanup-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Latest NVIDIA Driver for Your GPU
 
@@ -121,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  Follow the instructions in our guide to [installing and cleanly reinstalling GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) to apply this potential fix with the DDU software.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-downloads.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable Third-Party Antivirus Tools
 
@@ -134,11 +135,11 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option3.jpg)
 
- Restart the PC before reinstalling GeForce Experience. Then head over to this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) webpage and click **Download Now**. Open the folder your browser usually downloads files to and double-click the GeForce Experience setup wizard. Go through the installer’s steps to reinstall the software.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart the PC before reinstalling GeForce Experience. Then head over to this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) webpage and click **Download Now**. Open the folder your browser usually downloads files to and double-click the GeForce Experience setup wizard. Go through the installer’s steps to reinstall the software.
 
 ## Optimize Your Games With GeForce Experience
 
@@ -148,26 +149,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  Consequently, users can’t select the Optimize option for games that show the “unable to retrieve settings” error. That’s a bit annoying for players seeking optimal gaming performance. This is how you can fix GeForce Experience’s “unable to retrieve settings” error within Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-tailoring-youtube-shorts-thumbnails-made-simple/"><u>[New] 2024 Approved Tailoring Youtube Shorts Thumbnails Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-presenter-prefix-planner/"><u>[New] Prime Presenter Prefix Planner</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-exploring-the-versatility-of-magix-designer/"><u>[Updated] In 2024, Exploring the Versatility of MAGIX Designer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-that-autocorrect-and-improve-your-iphones-spell-check-like-a-pro/"><u>Fix That Autocorrect and Improve Your iPhone's Spell Check Like a Pro!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-have-more-fps-on-roblox-games-2024-tips/"><u>How to Have More FPS on Roblox Games - 2024 Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-peer-reviewed-best-action-replay-tech/"><u>In 2024, Peer-Reviewed Best Action Replay Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/onedrives-invalid-reparse-point-a-guide-to-mend-it-on-windows/"><u>OneDrive’s Invalid Reparse Point: A Guide to Mend It on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-errors-with-googles-nearby-sharing-on-pc/"><u>Overcoming Errors with Google's Nearby Sharing on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/refinement-of-console-controls-in-depth-windows-techniques/"><u>Refinement of Console Controls: In-Depth Windows Techniques</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/suneast-ssdhdd-4/"><u>SUNEAST SSDに簡単なHDDのコピー:完全ガイド 4ステッププロセス</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-specialists/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Specialists</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-the-0x8007045d-blue-screen/"><u>Understanding and Remedying the 0X8007045D Blue Screen</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-revolutionize-your-videos-top-10-free-green-screen-apps-for-mobile/"><u>Updated In 2024, Revolutionize Your Videos Top 10 Free Green Screen Apps for Mobile</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-webcam-troubleshooting-avoid-code-0xa00f4289/"><u>Win10/11 Webcam Troubleshooting - Avoid Code 0xA00F4289</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-google-play-setup-protocols/"><u>Windows 11 Google Play Setup Protocols</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-innovations-effortless-navigation-of-qr-codes/"><u>Windows Innovations: Effortless Navigation of QR Codes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,3 +156,23 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-in-depth-review-of-razers-high-res-cam/"><u>[New] 2024 Approved In-Depth Review of Razer's High-Res Cam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-linuxs-best-pick-screen-capture-and-save-tools/"><u>[New] Linux's Best Pick Screen Capture & Save Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-lg-vr-360-review-a-new-dimension-of-gaming/"><u>[Updated] 2024 Approved LG VR 360 Review A New Dimension of Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>[Updated] In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-discover-new-heights-top-10-adventure-channels/"><u>2024 Approved Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210273226-9781736789322-confessions-of-a-preachers-kid/"><u>Confessions Of A Preacher's Kid | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11s-overlooked-capabilities-that-matter/"><u>Delving Into Windows 11'S Overlooked Capabilities That Matter</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-intuitive-design-of-mods-newly-released-sidecar-e-bike/"><u>Experience the Intuitive Design of Mod's Newly Released Sidecar E-Bike</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-displays-out-of-sync-in-windows/"><u>Fixing Displays Out of Sync in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-search-menu-opening-by-itself-on-windows-11/"><u>How to Fix the Search Menu Opening by Itself on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-failed-remote-connections-on-pc/"><u>How to Reactivate Failed Remote Connections on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-prevent-freezing-of-epic-games-launcher-on-pc/"><u>Methods to Prevent Freezing of Epic Games Launcher on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-the-reduction-keeping-your-window-11-icons-full-size/"><u>Stop the Reduction: Keeping Your Window 11 Icons Full-Size</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-zero-a00f-camera-app-issue-in-windows-11/"><u>Tackling Zero-A00F Camera App Issue in Windows 11</u></a></li>
+</ul></div>
+

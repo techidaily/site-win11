@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows: Execute the SFC Command Correctly"
-date: 2024-11-25T02:07:45.753Z
-updated: 2024-11-28T02:55:44.841Z
+date: 2024-12-01T11:39:58.382Z
+updated: 2024-12-07T03:18:24.680Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens After I Run the System File Checker?
@@ -52,14 +52,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other SFC Commands You Can Run on Windows
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Run an Offline SFC Scan on Windows
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  The CBS.log file contains other logs besides those from the System File Checker. When looking through the entries, look for those that have an**\[SR\]** tag on them. Each entry will contain the date and time of the scan, along with the details of what happened.
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
@@ -143,22 +143,20 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-demystifying-spotify-advertising-for-marketers/"><u>[Updated] In 2024, Demystifying Spotify Advertising for Marketers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-pinnacle-of-vr-how-htc-vive-transforms-playtime-for-2024/"><u>[Updated] The Pinnacle of VR How HTC Vive Transforms Playtime for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-androids-new-frontier-the-impact-of-kinemaster-app/"><u>2024 Approved Android's New Frontier The Impact of KineMaster App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-video-recording-on-ios-and-android-select-the-best-apps/"><u>2024 Approved Seamless Video Recording on iOS & Android Select the Best Apps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Pro Max</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-11-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 11 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rapid-resolution-for-titanfall-2s-persistent-crashing-woes-expert-advice/"><u>Rapid Resolution for Titanfall 2'S Persistent Crashing Woes - Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-methods-for-saving-your-favorite-youtube-content-playlists-and-channels/"><u>Step-by-Step Methods for Saving Your Favorite YouTube Content – Playlists & Channels!</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-tutorial-grab-and-keep-any-youtube-or-dailymotion-video-with-these-three-techniques/"><u>Step-by-Step Tutorial: Grab and Keep Any YouTube or Dailymotion Video with These Three Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/top-methods-for-converting-dvds-into-high-quality-mpeg2-audiovideo-files/"><u>Top Methods for Converting DVDs Into High-Quality MPEG2 Audio/Video Files</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-video-converter-from-dvd-to-avi-format-for-windows-10-and-11/"><u>Top Rated Video Converter From DVD to Avi Format for Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-dvd-menus-into-mp4-format-using-handbrake/"><u>Transforming DVD Menus Into MP4 Format Using HandBrake</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-avchd-video-edits-in-davinci-resolve-step-by-step-solutions/"><u>Troubleshooting AVCHD Video Edits in DaVinci Resolve - Step-by-Step Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-to-dvd-conversion-top-tools-for-seamless-format-changes-from-videoaudio/"><u>Ultimate Guide to DVD Conversion: Top Tools for Seamless Format Changes From Video/Audio</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-securely-transferring-your-tunes-downloading-and-storing-music-on-usb/"><u>Ultimate Guide: Securely Transferring Your Tunes – Downloading & Storing Music on USB</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-trick-for-removing-stubborn-folders-from-windows-11-and-10-using-revo/"><u>Ultimate Trick for Removing Stubborn Folders From Windows 11 and 10 Using Revo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-funnyframe-easy-memes-no-stress/"><u>[Updated] 2024 Approved FunnyFrame Easy Memes, No Stress</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-secret-crafting-boomerang-masterpieces/"><u>[Updated] SnapChat's Secret Crafting Boomerang Masterpieces</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-ways-to-repair-windows-icon-cache/"><u>Effective Ways to Repair Windows Icon Cache</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhanced-data-collection-with-the-help-of-cookiebot-technology/"><u>Enhanced Data Collection with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-defective-alt-keys-in-windows-48-characters/"><u>How to Repair Defective ALT Keys in Windows (48 Characters)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-tech-world-affordable-lifetime-access-to-free-windows-11-on-black-friday-for-keys-fans/"><u>Master Your Tech World - Affordable Lifetime Access to Free Windows 11 on Black Friday for Keys Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/masterfully-managing-software-dependencies-with-the-package-manager/"><u>Masterfully Managing Software Dependencies with the Package Manager</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95687601-9781605506944-the-everything-guide-to-angels/"><u>The Everything Guide to Angels | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps for Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-known-glitches-and-solutions/"><u>WINDOWS 11: Known Glitches & Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-explored-and-deletion-strategies-revealed-139-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Windows ARP Cache Explored & Deletion Strategies Revealed (139 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
 </ul></div>
 

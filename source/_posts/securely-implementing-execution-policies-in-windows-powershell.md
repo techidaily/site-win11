@@ -1,7 +1,7 @@
 ---
 title: Securely Implementing Execution Policies in Windows PowerShell
-date: 2024-09-05T08:38:27.863Z
-updated: 2024-09-06T08:38:27.863Z
+date: 2024-12-05T08:53:14.987Z
+updated: 2024-12-07T11:44:10.792Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 ![Powershell set execution policy undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-undefined.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can use a PowerShell cmdlet to get your current execution policy. Knowing your current execution policy is necessary to know if you need a policy change or not.
 
 To get your current execution policy for the current user:
@@ -43,12 +41,6 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -60,28 +52,24 @@ To change execution policy using Settings:
 3. Next, click on**For developers.**  
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
+
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
@@ -117,11 +105,9 @@ To disable script execution using PowerShell:
 4. The above command will disable script execution for**CurrentUser** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Understanding Execution Policies and Scopes
 
  Simply put, PowerShell’s execution policy is a policy that controls how PowerShell executes config files and scripts. The intended purpose is to prevent users from accidentally running malicious scripts. The seven PowerShell execution policies are **Default, Restricted, RemoteSigned, AllSigned, Unrestricted, Bypass, and Undefined** .
@@ -138,12 +124,6 @@ To disable script execution using PowerShell:
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Execution Policy Scope
 
  You can set execution policy for a particular scope in PowerShell. The five execution policy scopes are**MachinePolicy, UserPolicy, Process, CurrentUser,** and**LocalMachine** .
@@ -164,14 +144,11 @@ The below table briefly explains all the execution policy scopes:
 
  Alternatively, you can bypass the PowerShell execution policy by pasting the script into a PowerShell console or ECHO your script into PowerShell standard input. This is useful if you want to execute scripts without changing the execution policy.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +157,24 @@ The below table briefly explains all the execution policy scopes:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr-for-2024/"><u>30+ Metaverse Quotes to Inspire You [Include AR & VR] for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/aif-to-flac-with-movavi/"><u>無料変換サービス：オンデマンドAIF to FLAC with Movavi ― 音質を維持したプロセス</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-best-visuals-in-vlogs-for-2024/"><u>Capturing the Best Visuals in Vlogs for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-f34-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy F34 5G Phone Screen?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-block-inadvertent-key-combinations-on-pc/"><u>How to Block Inadvertent Key Combinations on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resuscitate-your-unresponsive-windows-start-button/"><u>How to Resuscitate Your Unresponsive Windows Start Button</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/master-your-mobile-communications-skype-and-zoom-on-android/"><u>Master Your Mobile Communications Skype & Zoom on Android</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mcuicntexe-not-found-problem-on-windows/"><u>Overcoming McUICnt.exe Not Found Problem on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quelles-sont-les-methodes-faciles-pour-copier-et-sauvegarder-un-fichier-dvd-sur-windows-et-macos/"><u>Quelles Sont Les Méthodes Faciles Pour Copier Et Sauvegarder Un Fichier DVD Sur Windows Et macOS ?</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-dormant-office-outlook-alerts/"><u>Reactivating Dormant Office Outlook Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-when-your-torrent-fails-to-download-correctly/"><u>Solutions When Your Torrent Fails to Download Correctly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-quick-and-easy-dvd-extraction-leading-software-picks-for-windows-and-macos-users/"><u>Ultimate Guide to Quick and Easy DVD Extraction: Leading Software Picks for Windows & macOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-wsl-entirely-on-windows-11-systems/"><u>Uninstalling WSL Entirely on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-full-ram-capacity-on-windows-systems/"><u>Unleashing Full RAM Capacity on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-perfect-way-to-clear-your-frozen-updates/"><u>Unraveling the Perfect Way to Clear Your Frozen Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-traits-that-set-ai-devices-aside/"><u>Unveiling the Traits That Set AI Devices Aside</u></a></li>
+</ul></div>
 

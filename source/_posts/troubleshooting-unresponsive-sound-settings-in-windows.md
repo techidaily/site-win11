@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unresponsive Sound Settings in Windows
-date: 2024-11-22T04:32:51.529Z
-updated: 2024-11-27T18:22:06.404Z
+date: 2024-12-06T08:29:43.317Z
+updated: 2024-12-07T04:12:34.441Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Windows Audio Service
 
  Typically, the Windows Audio service starts automatically when your computer boots. However, if the service encounters any problems during startup, it may malfunction. If it's just a one-off glitch, restarting the Windows Audio service should fix the issue. Hence, you should start with that.
@@ -39,14 +35,6 @@ To restart the Windows Audio service:
 2. Type**services** in the text box and press**Enter** .
 3. In the Services window, scroll down to locate the**Windows Audio** service on the list. Then, right-click on it and select**Restart** .  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-windows-audio-service.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Make Sure the Supporting Audio Components Are Running
 
@@ -62,7 +50,15 @@ Here’s how to check if the required services are running.
 6. Similarly, change the startup type for**Remote Procedure Call (RPC)** and**DCOM Server Process Launcher** services as well.  
 ![Remote Procedure Call Service in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remote-procedure-call-service-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart your PC after this and check if the issue is still there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Add Local and Network Services Using Command Prompt
 
@@ -78,6 +74,10 @@ Restart your PC after this and check if the issue is still there.
 6. Exit the Command Prompt window and then restart your PC.  
 ![Add Local and Network Services Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-local-and-network-services-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like using Command Prompt? Check our guide to learn[how to master Command Prompt on Windows](https://www.makeuseof.com/tag/windows-10-command-prompt-tips/) .
 
 ## 4\. Update Audio Drivers
@@ -87,7 +87,7 @@ Restart your PC after this and check if the issue is still there.
  If updating audio drivers manually sounds like a tedious task, you can get one of the[best driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) to ease the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Switch to the Default Sound Drivers
@@ -108,10 +108,6 @@ Restart your PC after this and check if the issue is still there.
 5. Select**Uninstall** to confirm the action.
 6. In the Device Manager window, click the**Action** menu at the top and select**Scan for hardware changes** from the list.  
 ![Uninstall Sound Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-sound-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run the SFC and DISM Scans
 
@@ -138,6 +134,10 @@ To perform a system restore on Windows, use these steps:
 
  Wait for Windows to restart and revert to the specified restore point. After that, the audio services should work fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing Audio Services on Windows Is Easy
 
  It can be confusing if the audio services on Windows suddenly become unresponsive. In most cases, manually restarting the audio services should resolve the issue. If not, you may have to go through the trouble of scanning the system files or performing a system restore.
@@ -159,17 +159,22 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-learning-and-work-habits-top-ideas-for-combining-tasks-with-podcasts-for-2024/"><u>[New] Elevate Your Learning & Work Habits Top Ideas for Combining Tasks with Podcasts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-science-of-hash-optimization-for-game-streaming/"><u>[New] In 2024, Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audiovisual-adventures-unleashed-by-polaroid-camplus-cubeplus-for-2024/"><u>Audiovisual Adventures Unleashed by Polaroid Cam+ Cube+ for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/download-free-hdd-data-retrieval-tools-compatible-with-windows-systems/"><u>Download Free HDD Data Retrieval Tools Compatible with Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-harmonize-files-on-dual-windows-pcs-using-aoemi/"><u>Effortlessly Harmonize Files on Dual Windows PCs Using AOEMi</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-wsl-disruptions-after-win-11-rollout/"><u>Fixing WSL Disruptions After Win 11 Rollout</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-11-pro-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 11 Pro in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-8t-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 8T 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-brightness-management-on-windows-multi-monitors/"><u>Precision Brightness Management on Windows Multi-Monitors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/steps-to-install-and-upgrade-xp-pen-device-drivers/"><u>Steps to Install and Upgrade XP-Pen Device Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reactivate-non-operational-buttons/"><u>Strategies to Reactivate Non-Operational Buttons</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-a-world-of-movies-captions-in-windows-media-player-for-2024/"><u>Unlock a World of Movies Captions in Windows Media Player for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[New] In 2024, Download Premium Video Covers - Free, Fast & Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-journey-through-lut-based-color-enhancement-methods/"><u>[Updated] 2024 Approved Journey Through LUT-Based Color Enhancement Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-laughter-photo-composer-tool/"><u>[Updated] Elite Laughter Photo Composer Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-snapshot-post-photosvideos-without-a-twit-for-2024/"><u>[Updated] Social Snapshot Post Photos/Videos without a Twit for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-future-without-vlc-media-player-insights/"><u>[Updated] The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-concealed-chronicles-your-ultimate-guide-to-secret-stories/"><u>2024 Approved Concealed Chronicles Your Ultimate Guide to Secret Stories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-mx-g920-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Logitech MX G920 Drivers – Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiency-at-its-peak-streamlined-grouped-software-installs-with-winstall-on-windows-11/"><u>Efficiency at Its Peak: Streamlined Grouped Software Installs with Winstall on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/examining-energy-demand-in-your-windows-based-computer/"><u>Examining Energy Demand in Your Windows-Based Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-educational-flair-into-your-win-11-display/"><u>Infuse Educational Flair Into Your Win 11 Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-gadgets-insightful-tips-from-the-experts-at-toms-hardware/"><u>Mastering Gadgets: Insightful Tips From the Experts at Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-file-safety-wins-delete-settings-guide/"><u>Optimize File Safety: Win's Delete Settings Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-live-feed-rates-on-task-monitor-win-11/"><u>Optimize Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixelpunmatic-device/"><u>PixelPunmatic Device</u></a></li>
+<li><a href="https://win11.techidaily.com/rehabilitate-your-windows-service-management-tool-with-these-7-tactics/"><u>Rehabilitate Your Windows Service Management Tool With These 7 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-teammers-screens-not-showing/"><u>Tackle Teammers' Screens Not Showing</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-worst-js-error-on-discord-specifically-for-windows-users/"><u>Tackling the Worst JS Error on Discord, Specifically for Windows Users</u></a></li>
 </ul></div>
 

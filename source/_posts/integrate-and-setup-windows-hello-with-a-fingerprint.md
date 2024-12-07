@@ -1,7 +1,7 @@
 ---
 title: "Integrate and Setup: Windows Hello with a Fingerprint"
-date: 2024-09-05T08:38:51.413Z
-updated: 2024-09-06T08:38:51.413Z
+date: 2024-11-30T16:51:19.047Z
+updated: 2024-12-07T07:11:45.133Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
  If you've never used Windows Hello before, stick around to find out how to set up Windows Hello fingerprint login on your Windows 11 computer to make it more secure and enable faster authentication.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Windows Hello?
 
  Windows Hello is a convenient and secure way to unlock your Windows 10 or Windows 11 PC. It facilitates quick access to your system by allowing you to sign in to your computer using your face, fingerprint, or PIN.
@@ -41,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
  Setting up Windows Hello on Windows 11 requires you to set up a PIN first. It's required as a backup, so you aren't locked out of your computer in the event your computer's hardware fails to recognize your face or fingerprint. Once you've set the PIN, you can then set up Windows Hello fingerprint login on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Set Up a Windows Hello PIN
 
  If you haven't set up a PIN on your computer already, you can do so using the following steps:
@@ -60,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 6. Enter a PIN in the**New PIN** field and input it again in the**Confirm PIN** field. If you wish to include letters and symbols in your PIN, check off the Include letters and symbols option.
 7. Click**OK** to create and set the PIN as your new sign-in option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Set Up a Windows Hello Fingerprint Login on Windows 11
 
  After you've created a Windows Hello PIN, setting up fingerprint recognition is simple. Use the steps below to set it up on your PC. Irrespective of whether you’re using a built-in fingerprint reader on your laptop or a[USB fingerprint scanner](https://www.makeuseof.com/tag/best-usb-fingerprint-scanners/) , the steps you need to take are the same.
@@ -79,14 +65,13 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 6. On the**Windows Hello setup** window, click on**Get started** , and when prompted to enter your PIN, type the PIN you created earlier.  
 ![Windows Hello PIN authentication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-2.jpg)
 7. Swipe your finger across the fingerprint reader on your PC until it registers it completely.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Hello fingerprint registration prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/setting-up-windows-hello-fingerprint-login-3.jpg)
 8. Hit**Close** to close the setup window.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to be extra cautious, you can register a second finger with Windows Hello. That way, if your scanner fails to recognize one fingerprint, you can try the other one to sing-in instead of having to resort to using the PIN.
 
@@ -95,23 +80,9 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![Windows Hello second fingerprint set up option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-a-second-fingerprint-for-windows-hello.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### How to Log Into Your Windows 11 PC Using a Fingerprint
 
  With Windows Hello enabled and fingerprint unlocking enabled on your computer, you can verify if the fingerprint scanner on your PC works by putting it to the test.
@@ -119,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
  To do this, press the**Win + L** keys to lock your PC. Now, swipe your registered finger across the fingerprint scanner on your computer. If your fingerprint scanner is functional, and you managed to register your fingerprint properly, you should've unlocked your PC by now.
 
  However, if this doesn't work, try another finger if you've registered it. Alternatively, enter the PIN when your PC asks you for it upon failing to recognize your fingerprint. And subsequently, remove the fingerprint login and try registering your fingerprint again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove the Windows Hello Fingerprint Login in Windows 11
 
@@ -130,11 +105,9 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![removing Windows Hello fingerprint login on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/removing-windows-hello-fingerprint-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Irrespective of how many fingerprints you've set, this will delete all of them for you and remove the Windows Hello fingerprint login from your computer. After you do this, you can still sign in to your PC using the PIN you generated earlier.
 
 ## Sign Into Your Windows 11 PC Quickly and Securely
@@ -149,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +129,24 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-guffaw-guide-the-leading-text-generator-companions-for-2024/"><u>[New] Guffaw Guide The Leading Text Generator Companions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>[Updated] 2024 Approved Mastering TikTok How to Set & Modify Your Profile Age</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[Updated] In 2024, Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-youtubes-livestream-landscape-without-massive-followings/"><u>2024 Approved Navigating YouTube's Livestream Landscape without Massive Followings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-presence-using-cookiebot-tools/"><u>Elevate Your Online Presence Using Cookiebot Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-optimal-icon-sizes-in-win-11/"><u>Ensuring Optimal Icon Sizes in Win 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-a-conversation-with-apple-staff-transformed-my-perspective-on-vision-pro-tech-tales/"><u>How a Conversation with Apple Staff Transformed My Perspective on Vision Pro - Tech Tales</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-sony-xperia-10-v-by-drfone-android/"><u>How to Bypass FRP on Sony Xperia 10 V?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-device-not-recognized-problem-in-windows-tips-and-tricks/"><u>How to Resolve the 'Device Not Recognized' Problem in Windows: Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-blackout-dilemma-during-your-zoom-calls-on-windows-devices-guide/"><u>How to Resolve the Blackout Dilemma During Your Zoom Calls on Windows Devices (Guide )</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x80070141-and-device-disconnection/"><u>Mastering Windows' Error Code 0X80070141 and Device Disconnection</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-errors-in-windows-media-maker-0x8007043c-0x90017/"><u>Navigating Errors in Windows' Media Maker: 0X8007043C, 0X90017</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-policies-that-prevent-admin-level-software-installs/"><u>Navigating Policies that Prevent Admin-Level Software Installs</u></a></li>
+<li><a href="https://win11.techidaily.com/recommendations-when-windows-stops-finding-powershell/"><u>Recommendations When Windows Stops Finding PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-privileges-for-regular-windows-users/"><u>Reconfiguring Privileges for Regular Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/running-on-windows-10-after-skipping-11-upgrade/"><u>Running On Windows 10 After Skipping 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winscan-failures-in-geforce-experience/"><u>Troubleshooting WinScan Failures in GeForce Experience</u></a></li>
+</ul></div>
 

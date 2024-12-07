@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Speech Capture: Shortcut Techniques in Windows 11"
-date: 2024-11-25T21:56:32.304Z
-updated: 2024-11-27T16:17:35.247Z
+date: 2024-12-06T11:33:16.851Z
+updated: 2024-12-07T00:34:13.586Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Start a New Recording
 
  The**Ctrl + R** keyboard shortcut is especially useful for voice recorders. It starts a new recording without having to open the application and hit record manually. It's great for speeding up workflows, as it can save significant time when compared to manually starting a recording each time.
@@ -36,12 +32,16 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  If your recording sounds a little low-quality, it may be time to upgrade your microphone. Fortunately, we have a guide on[what to look for when buying a studio microphone](https://www.makeuseof.com/buying-studio-microphone-what-to-look-for/) to help you pick the right one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Add a New Marker to the Recording
 
 **Ctrl + M** is another useful and intuitive shortcut. It adds a marker to the recording, making it easy to find and reference audio content. Markers allow you to quickly jump between various points in a recording without having to search through large amounts of audio data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Delete the Selected Recording
 
@@ -49,17 +49,21 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 ![Delete Recording in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-recording-in-voice-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To use the shortcut, you need to select the recording you want to delete and then press the**Delete** key. If you see a confirmation pop-up, click**OK** . This will immediately remove the selected recording from your library and free up space for new recordings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Play or Pause
 
  A simple press of the**Spacebar** lets you play or pause recorded files on your computer, allowing you to control playback easily. This shortcut can help you save time and improve your workflow.
 
  When a sound file is open in Windows Media Player, hitting the Spacebar once will play it from where it left off. Pressing it again pauses whatever is currently playing; then pressing it again resumes the song from that point forward. With this convenient feature, you can increase your productivity while staying focused on your tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Go Back
 
@@ -73,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 ![Rename a file in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-a-file-in-voice-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To use this feature, simply choose the desired file, then press F2 on your keyboard. After that, give the file a name and click**Rename** to save it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Show in Folder
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ![Show Recording in Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-recording-in-folder.jpg)
 
  To open a folder, select the recording you want to open and then press O – this will launch an Explorer window displaying all of your audio recordings. With this shortcut, you do not have to search through numerous files to find what you need. It takes just one quick keystroke to access all of your recorded audio files!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Share a Recording
 
@@ -105,15 +105,15 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
  This is an especially useful feature when you need to skip over a certain section of your audio file quickly. You can also hold down either key for faster navigation during the playback process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Jump Further Ahead or Back
 
  The**Shift Right** and**Shift Left** arrow keys are two of the most useful shortcuts that allow you to jump further ahead or back in your recordings. It can be extremely useful for making edits or quickly finding a portion of the recording.
 
  Using the shift right arrow key will take you forward 5 seconds at a time while using the shift left arrow key will take you backward. It is especially helpful when dealing with long blocks of audio since it eliminates the need to scroll around in the timeline bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Jump to the Start of the Recording
 
@@ -142,22 +142,22 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-magixs-multimedia-capabilities/"><u>[Updated] Assessing MAGIX's Multimedia Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artisans-handbook-to-photomontage-creation/"><u>2024 Approved The Artisan's Handbook to PhotoMontage Creation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/comprehensive-tutorial-for-recovering-lost-partitions-on-windows-11-systems/"><u>Comprehensive Tutorial for Recovering Lost Partitions on Windows 11 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960296555-download-logitech-g35-headset-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech G35 Headset Drivers Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/expertenhilfe-fur-winx-dvd-ripping-and-videokonvertierung-online-technik-support/"><u>Expertenhilfe Für WinX DVD Ripping & Videokonvertierung - Online Technik Support</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-breakpoint-errors-on-windows-pcs-quick-guide/"><u>Fixing Breakpoint Errors on Windows PCs - Quick Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>In 2024, Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-exclusive-access-to-insider-batches/"><u>Maintaining Exclusive Access to Insider Batches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-2-game-crashing-try-these-6-reliable-pc-fix-techniques/"><u>Modern Warfare 2 Game Crashing? Try These 6 Reliable PC Fix Techniques!</u></a></li>
-<li><a href="https://win11.techidaily.com/msc-troubleshooting-restoring-windows-print-management/"><u>MSC Troubleshooting: Restoring Windows Print Management</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-multiple-ms-users-error-on-windows/"><u>Resolving Multiple MS Users' Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-approach-to-remedy-error-0x80070570-and-file-corruption-in-windows-11/"><u>Strategic Approach to Remedy Error 0X80070570 & File Corruption in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-savvy-bootable-media-generate-an-efficient-win-11-usb-quickly/"><u>Tech-Savvy Bootable Media: Generate an Efficient Win 11 USB Quickly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-blueprint-for-selecting-exceptional-hdr-cameras-for-2024/"><u>The Blueprint for Selecting Exceptional HDR Cameras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-files-top-utilities-in-win8-for-date-alteration/"><u>Time Travel Files: Top Utilities in Win8 for Date Alteration</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-ios-photo-importers-on-windows-11/"><u>Troubleshooting iOS Photo Importers on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ensuring-privacy-4-steps-to-safely-log-fb-calls-for-2024/"><u>[New] Ensuring Privacy 4 Steps to Safely Log FB Calls for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-virtualitys-voyage-an-overview/"><u>[New] Virtuality’s Voyage An Overview</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-ethical-tiktok-following-purchase-with-peace-of-mind/"><u>[Updated] 2024 Approved Ethical TikTok Following Purchase with Peace of Mind</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-a-journey-to-windows-insider-program/"><u>Embark on a Journey to Windows Insider Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-remedies-to-rejuvenate-a-locked-steam-service/"><u>Essential Remedies to Rejuvenate a Locked Steam Service</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuito-ferramenta-de-conversao-nsv-online-da-movavi-transforme-seus-arquivos-agora/"><u>Gratuito: Ferramenta De Conversão NSV Online Da Movavi - Transforme Seus Arquivos Agora</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-wsresetexe-not-working-on-windows/"><u>How to Fix WSReset.exe Not Working on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ignoring-unwanted-windows-11-advice-popups/"><u>Ignoring Unwanted Windows 11 Advice Popups</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-excel-features-that-leave-chatgpt-in-the-dust/"><u>Mastering Excel: Features That Leave ChatGPT in the Dust</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-memes-on-iphone-and-android/"><u>New 2024 Approved How to Make Memes on iPhone and Android</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-basic-battery-power-schemes-win-11/"><u>Reinstating Basic Battery Power Schemes (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-windows-machines-as-distributed-transcoding-forces-through-tdarr/"><u>Revamp Windows Machines as Distributed Transcoding Forces Through Tdarr</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-efficiency-master-the-art-of-windows-flow-launcher/"><u>Skyrocketing Efficiency: Master the Art of Windows' Flow Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-overlapping-icons-on-windows-11-taskbar/"><u>Tackling Overlapping Icons on Windows 11 Taskbar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-the-art-of-multi-app-closure/"><u>Windows Wizardry: The Art of Multi-App Closure</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Audacity's Windows Compatibility Issue #9999
-date: 2024-09-05T08:39:30.601Z
-updated: 2024-09-06T08:39:30.601Z
+date: 2024-12-05T01:49:36.964Z
+updated: 2024-12-06T20:31:16.427Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
  Users have mostly reported error 9999 happening on Windows 10 PCs. However, that doesn’t mean that issue can’t arise in Microsoft’s latest desktop platform. This is how you can fix Audacity error code 9999 in Windows 11/10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Run the Recording Audio Troubleshooter
 
  It makes sense to run the Recording Audio troubleshooter since error code 9999 is a recording issue. Running that troubleshooter isn’t widely confirmed to fix error code 9999, but it’s worth a try as it can resolve a variety of recording issues on Windows. You can run the Recording Audio troubleshooter from the Windows 11/10 Control Panel as follows:
@@ -35,21 +33,14 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 3. To see all Control Panel items, click the**Large icons** option that’s on the**View by** menu.  
 ![The Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/large-icons-option.jpg)
 4. Select**Troubleshooting** to open up that applet.
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**View all** to see the full list of troubleshooting tools.  
 ![The View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/view-all-option.jpg)
 6. Select**Recording Audio** to bring up that troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
@@ -65,11 +56,9 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 5. Also, look in your system tray to see if that includes an icon for a messaging app like Skype or Zoom. Right-click any messaging app icon there and select a context menu option that closes the software.  
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
 6. Then open Audacity and try recording something again.
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Microphone Access for Audacity
@@ -81,27 +70,13 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reinstall the Microphone Driver
 
  Another possible cause for error 9999 is a faulty microphone driver. Reinstalling your microphone‘s driver will address that potential cause. These are the steps for reinstalling a microphone driver in Windows:
@@ -111,15 +86,18 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
@@ -128,41 +106,21 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
  Do you have Kaspersky security software installed on your PC? If so, look for and disable a**Host Intrusion Protection** setting in that software. This[Kaspersky online help page](https://support.kaspersky.com/KESWin/11.5.0/en-US/128217.htm) tells you how to disable that feature in Endpoint Security for Windows. Or move Audacity to a Trusted app group in that software.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disable Third-Party Antivirus Shields
 
  Other third-party antivirus software packages can also feasibly conflict with Audacity. If you’ve installed a third-party antivirus utility in Windows 11/10, try disabling its shield before running Audacity. You can usually do that by right-clicking an antivirus tool’s icon in the system tray and selecting a context menu option to turn off its shield.
 
  However, some antivirus utilities have special features that monitor microphones, which can block mic access for certain apps. For example, Bitdefender has a**Microphone monitor** setting. Disabling your antivirus utility’s shield might not turn off such a microphone security feature. So, have a look through your security software’s tabs to see if they include any feature setting that could affect microphone access and disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Perform a Clean Boot
 
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
 ## 8\. Reinstall Audacity
@@ -183,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +148,22 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic-6-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-securing-sound-output-fixes-for-silent-obs-streams/"><u>2024 Approved Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-play-fine-tuning-amd-gpu-performance/"><u>Elevating Play: Fine-Tuning AMD GPU Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/emergency-windows-fixes-reanimate-lost-screens-using-6-steps/"><u>Emergency Windows Fixes: Reanimate Lost Screens Using 6 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-enlightenment-identifying-disks-in-windows/"><u>Hardware Enlightenment: Identifying Disks in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-equivalent-of-the-ls-command-in-windows/"><u>How to Use the Equivalent of the Ls Command in Windows</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-insert-electronic-signatures-into-pdfs-using-simple-techniques/"><u>How To: Insert Electronic Signatures Into PDFs Using Simple Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-masterclass-flawless-powerpoint-screen-recordings/"><u>In 2024, Masterclass Flawless PowerPoint Screen Recordings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-a-crossed-out-icon-on-computer-files/"><u>Interpreting a Crossed-Out Icon on Computer Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-window-11-4-proven-shortcuts-for-screenshot-success/"><u>Mastering Window 11: 4 Proven Shortcuts for Screenshot Success</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-window-clutter-reduction-in-win11/"><u>The Ultimate Guide to Window Clutter Reduction in Win11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/uncover-the-past-advanced-methods-for-instagram-image-retrieval-for-2024/"><u>Uncover the Past Advanced Methods for Instagram Image Retrieval for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-blur-video-online-for-free-for-2024/"><u>Updated How to Blur Video Online for Free for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-shouldnt-switch-7-benefits-from-using-win10/"><u>Why You Shouldn't Switch: 7 Benefits From Using Win10</u></a></li>
+</ul></div>
 

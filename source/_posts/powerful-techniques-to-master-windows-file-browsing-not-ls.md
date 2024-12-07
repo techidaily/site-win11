@@ -1,7 +1,7 @@
 ---
 title: Powerful Techniques to Master Windows File Browsing, Not LS
-date: 2024-11-21T20:05:21.744Z
-updated: 2024-11-27T17:11:46.432Z
+date: 2024-12-01T07:52:21.537Z
+updated: 2024-12-06T19:24:52.874Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the “ls” Command in Windows?
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
 
 1. Click on the **Start** menu icon, search for **Command Prompt**, right-click the Best Match, and select **Run as administrator**.
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A Handy Tool for Both Linux and Windows Users
 
  If you love using Linux, you'll likely find that Microsoft's own command prompt is a bit weaker in comparison. Fortunately, the "ls" command is also on Windows; it just uses a different name within Command Prompt. If you're using PowerShell you can use any of the alias commands to get the required file directories.
@@ -90,21 +90,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
  There are many commands that are supported on the Linux terminal that does not exist on Windows 10 and 11\. Luckily the “ls” command in Windows is supported on the Command Prompt. Read on as we explore how to use the "ls" command in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-photo-sharpening-with-photopeas-background-cutting/"><u>[Updated] Innovative Approaches to Photo Sharpening with Photopea's Background Cutting</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-movie-capture-pc-mac-and-mobile-devices-for-2024/"><u>[Updated] Mastering Movie Capture PC, Mac, & Mobile Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gl44kj5yuv55s744ks44kt44oj44ox44ob44oj44gz44kl44gf44kb44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj44cn/"><u>「インターネットから動画をキャプチャするためのステップバイステップガイド」</u></a></li>
-<li><a href="https://win11.techidaily.com/2024-ps5/"><u>2024年版 PS5 ビデオ再生問題解決法：ステップバイステップガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/a-simple-guide-converting-stunning-hdr-videos-into-compatible-sdr-format/"><u>A Simple Guide: Converting Stunning HDR Videos Into Compatible SDR Format</u></a></li>
-<li><a href="https://win11.techidaily.com/can-i-trust-online-video-conversion-services-understanding-their-security-risks-and-benefits/"><u>Can I Trust Online Video Conversion Services? Understanding Their Security Risks and Benefits</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-lgs-65-oled-c9-4k-television-ideal-choice-for-audiophiles-and-movie-buffs/"><u>In-Depth Analysis of LG's 65 OLED C9 4K Television – Ideal Choice for Audiophiles and Movie Buffs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/inting-your-individual-playlist-hub-on-youtube/"><u>Pinpointing Your Individual Playlist Hub on YouTube</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tpm-security-basics-what-you-need-to-know-for-upgrading-to-windows-groovy-and-why-it-matters-according-to-zdnet/"><u>TPM Security Basics: What You Need to Know for Upgrading to Windows Groovy, and Why It Matters According to ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/44oh44oh44kj44ki44ov44kh44kk44or566h55cg44gr54m55yyw44gx44gf44gv44gplus44gw44gplus44gq44k944ov44oi44km44kn44ki44o744oe44o844or44go44ki44ox44oq44kx44o844k34490/"><u>メディアファイル管理に特化したさまざまなソフトウェア・ツールとアプリケーションを紹介する</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,3 +97,17 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-brilliant-filters-to-illuminate-videography/"><u>[New] 2024 Approved Brilliant Filters to Illuminate Videography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-all-encompassing-evaluation-gecatas-live-recording-for-2024/"><u>[Updated] All-Encompassing Evaluation Gecata's Live Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-integration-assembling-your-digital-toolkit-in-win-11/"><u>Effortless Integration: Assembling Your Digital Toolkit in Win 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-reviews-on-samsungs-latest-premium-tab-s7plus-an-android-marvel/"><u>Expert Reviews on Samsung's Latest Premium Tab S7+ - An Android Marvel</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-missing-taskbar-in-full-screen-browser-frames/"><u>Fixing Missing Taskbar in Full-Screen Browser Frames</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209776236-9781591433774-hieroglyphic-words-of-power/"><u>Hieroglyphic Words of Power | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-override-windows-antivirusfirewall-blocking-chrome/"><u>Steps to Override Windows Antivirus/Firewall Blocking Chrome</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-level-of-ai-with-gpt-5-anticipating-4-key-upgrades/"><u>The Next Level of AI with GPT-5: Anticipating 4 Key Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-filesystem-glitches/"><u>Unlocking Windows 11'S Filesystem Glitches</u></a></li>
+</ul></div>
+

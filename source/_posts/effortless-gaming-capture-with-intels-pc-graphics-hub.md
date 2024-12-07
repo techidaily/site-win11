@@ -1,7 +1,7 @@
 ---
 title: Effortless Gaming Capture with Intel's PC Graphics Hub
-date: 2024-11-21T01:35:14.810Z
-updated: 2024-11-27T22:44:41.460Z
+date: 2024-12-01T18:29:02.023Z
+updated: 2024-12-06T21:10:45.529Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Record Gameplay With the Intel Graphics Command Center on Windows?
 
  If you're still new to this app, it's a good idea to first learn[how to add games to the Intel Graphics Command Center for better performance](https://www.makeuseof.com/windows-intel-graphics-command-center-add-remove-games/) . Once you're familiar with the Intel Graphics Command Center, you can follow the steps below to capture gameplay with it:
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 4. You will find that there’s a default capture profile already created for you, and you can start recording right away. However, you can also adjust the**Resolution** ,**Output File Name** , and**File Format** before beginning the capture session. Also, leave the**Stream to Location** option at**Save to Local Disk** at this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once you’re ready, click the**Start Recording** button – it’s below the top menu next to the**Capture Profiles** heading.
@@ -43,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f25
 7. When you’re done recording, click the**Stop Recording** button – it will be right where the**Start Recording** button was.  
 ![the intel graphics command center showing the stop recording button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-stop-recording.jpg)
 
- Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Your gameplay video will be saved to your computer. Now you can share the video with others. And for more ways to record video on your PC, take a look at our guide on the[best recording apps for Windows](https://www.makeuseof.com/windows-screen-recording-programs/) .
 
 ## How to Create a Custom Capture Profile in Intel Graphics Command Center
 
@@ -63,20 +67,16 @@ To create a custom profile, follow the steps below:
 3. You can rename the custom profile by clicking the**three horizontal dots** in the top right corner of the card and selecting**Rename** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![renaming a custom profile in the intel graphics command center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/intel-graphics-command-center-rename-custom-profile.jpg)
 4. Tweak the**Resolution** ,**Save to Location** ,**Output File Name** , and**File Format** options to your liking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your custom profile is ready to go.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It’s All About Capturing Awesome Gaming Moments on Windows
@@ -98,18 +98,20 @@ Now your custom profile is ready to go.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-fixes-to-ensure-your-tiktok-accounts-corrected-age/"><u>[New] Quick Fixes to Ensure Your TikTok Account's Corrected Age</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-convenient-steps-upside-down-video-via-vlc-application/"><u>[Updated] Convenient Steps Upside Down Video via VLC Application</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-views-implementing-these-proven-youtube-growth-methods/"><u>[Updated] Skyrocket Views Implementing These Proven YouTube Growth Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-tools-to-convert-and-tweet-videos/"><u>2024 Approved Optimal Tools to Convert and Tweet Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-what-are-luts-and-how-they-change-your-photo/"><u>2024 Approved What Are LUTs and How They Change Your Photo</u></a></li>
-<li><a href="https://win11.techidaily.com/disassembling-and-reassembling-windows-app-settings-for-success/"><u>Disassembling and Reassembling Windows App Settings for Success</u></a></li>
-<li><a href="https://win11.techidaily.com/establish-prerequisites-before-vbox-installation/"><u>Establish Prerequisites Before VBox Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-strategies-in-the-art-of-win10-for-2024/"><u>Expert Strategies in the Art of Win10 for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-devices-best-cars-surveillance-tech/"><u>In 2024, Pinnacle Devices Best Cars Surveillance Tech</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-x-fold-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo X Fold 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-blocked-by-admin-error-in-windows-setup/"><u>Overcoming the Blocked by Admin Error in Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-inactive-alerts-for-phone-link-app-on-windows-devices/"><u>Tackling Inactive Alerts for Phone Link App on Windows Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-music-to-video-seamless-audio-import-for-inshot/"><u>[New] 2024 Approved Music to Video Seamless Audio Import for InShot</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-securing-your-snapshots-premium-and-budget-friendly-cloud-options/"><u>[New] Securing Your Snapshots Premium and Budget-Friendly Cloud Options</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-spectaculous-slideshow-in-windows-11-no-fuss/"><u>Crafting a Spectaculous Slideshow in Windows 11, No Fuss</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-counteract-windows-startup-disruption-from-winscomrssvdll/"><u>How to Counteract Windows Startup Disruption From WinscomrssvDLL</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-canon-mx-series-printers-drivers-on-windows-step-by-step-tutorial/"><u>How to Install Updated Canon MX Series Printers Drivers on Windows: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-energy-efficient-browsers-for-windowsmacoschromeos/"><u>Identifying Energy-Efficient Browsers for Windows/macOS/ChromeOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi Note 13 Pro+ 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-connecting-for-content-roku-and-facebook-live/"><u>In 2024, Connecting for Content Roku and Facebook LIVE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y27s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y27s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-auto-shutdown-configurations-in-win11/"><u>Navigating Through Auto-Shutdown Configurations in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-failed-to-launch-error-xc000003e-on-windows-11/"><u>Overcoming Application Failed to Launch Error Xc000003e on Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/tips-for-seamless-integration-of-supplementary-footage/"><u>Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-pc-with-adaptive-wmdesk/"><u>Transform Your PC with Adaptive WmDesk</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-consciousness-effects-of-meditation-on-thinking-and-feeling/"><u>Uniting Consciousness: Effects of Meditation on Thinking & Feeling</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Erase Error 0Xc0f1103f From GeForce Now in Win 10/11
-date: 2024-11-22T20:14:02.003Z
-updated: 2024-11-28T01:48:13.044Z
+date: 2024-12-01T17:56:34.479Z
+updated: 2024-12-07T00:26:39.011Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![The NVIDIA server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-server-status-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run GeForce Now With Administrator Rights
@@ -51,7 +51,15 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-as-adminstrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Select a Power Saving GPU for the GeForce Now App
 
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/power-saving-option.jpg)
 9. Click**Save** to apply the selected option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Update Your Graphics Card’s Driver
 
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for[updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Proxy Servers
@@ -99,11 +103,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
@@ -117,6 +117,11 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 4. Select a listed VPN connection added.  
 ![VPN settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-settings.jpg)
 5. Then select the**Disconnect** option for the VPN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open GeForce Now and try playing some games with the VPN disconnected.
 
 ## 8\. Reinstall GeForce Now
@@ -128,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 ![The Uninstall/Change option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-option.jpg)
 3. Select**Uninstall** on the window that opens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart Windows 11 or 10 after uninstalling GeForce Now.
 5. Open the[GeForce Now](https://www.nvidia.com/en-us/geforce-now/download/) [download page](http://www.nvidia.com/en-us/geforce-now/download/) .
 6. Click**Download** for the GeForce Now Windows software.  
@@ -140,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 7. Then go through the setup wizard steps to reinstall GeForce Now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play GeForce Now Games on Windows Again
@@ -162,16 +163,22 @@ thumbnail: https://thmb.techidaily.com/9f799a63c5ced001089eec847a965c77100b85a29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-optimizing-your-workflow-with-bandicams-screen-recorder-features/"><u>[Updated] Optimizing Your Workflow with Bandicam’s Screen Recorder Features</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-best-free-cloud-based-video-editing-tools-for-2024/"><u>[Updated] The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/dell-printer-drivers-download-and-update-easily/"><u>Dell Printer Drivers Download & Update Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-best-of-both-worlds-windows-and-games/"><u>Exploring the Best of Both Worlds: Windows & Games</u></a></li>
-<li><a href="https://win11.techidaily.com/master-naming-conventions-for-windows-files-max-156/"><u>Master Naming Conventions for Windows Files (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-to-noise-fixing-your-google-meet-mic-on-windows-pc/"><u>Mute to Noise? Fixing Your Google Meet Mic on Windows PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/opt-out-of-unwanted-windows-system-updates/"><u>Opt Out of Unwanted Windows System Updates</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/quick-fix-extracting-silent-footage-from-your-iphone-for-2024/"><u>Quick Fix Extracting Silent Footage From Your iPhone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win1011s-network-error-code-0x800704b3/"><u>Solving Win10/11's Network Error Code: 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-microsoft-store-quick-sign-in-fixes/"><u>Unlocking the Microsoft Store: Quick Sign-In Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-convert-twitter-vids-into-aacmp4-files/"><u>[New] 2024 Approved Convert Twitter Vids Into AAC/MP4 Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-steps-to-apply-a-creative-commons-copyright/"><u>[New] In 2024, Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-hd-visual-capture-systems-for-2024/"><u>[New] Premier HD Visual Capture Systems for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-mapping-w11-troubleshooter-icons-to-buttons/"><u>Essential Guide: Mapping W11 Troubleshooter Icons to Buttons</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-guide-easily-transforming-your-epub-files-into-editable-pdfs/"><u>Free Guide: Easily Transforming Your ePub Files Into Editable PDFs</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-at-snippys-errors-uncover-repair-routines-now/"><u>Halt at Snippy's Errors? Uncover Repair Routines Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y17s-by-drfone-android/"><u>How to Bypass FRP from Vivo Y17s?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-lava-yuva-2-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Lava Yuva 2 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>In 2024, Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disguise-concealing-linguistic-line-from-windows-11-status-bar/"><u>Mastering Disguise: Concealing Linguistic Line From Windows 11 Status Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-multi-task-mastery-on-a-windows-11-device-like-an-expert/"><u>Navigate Multi-Task Mastery on a Windows 11 Device Like an Expert</u></a></li>
+<li><a href="https://win11.techidaily.com/prepping-windows-users-webcam-and-mic-checks-for-meetings/"><u>Prepping Windows Users: Webcam & Mic Checks for Meetings</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-and-disabling-windows-key/"><u>Quick Fix: Enabling and Disabling Windows Key</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-rockalldlldll-from-pc-disappearance/"><u>Recovering Rockalldll.dll From PC Disappearance</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-error-code-0x00709-in-windows/"><u>Rectifying Error Code 0X00709 in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-creativity-build-logos-using-free-template-inspiration/"><u>Unleash Creativity Build Logos Using Free Template Inspiration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleashing-ais-potency-pioneering-profound-global-change/"><u>Unleashing AI’s Potency: Pioneering Profound Global Change</u></a></li>
 </ul></div>
 

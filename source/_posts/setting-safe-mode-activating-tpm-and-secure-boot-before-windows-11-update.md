@@ -1,7 +1,7 @@
 ---
 title: "Setting SAFE Mode: Activating TPM & Secure Boot Before Windows 11 Update"
-date: 2024-11-25T01:02:24.126Z
-updated: 2024-11-27T19:48:37.895Z
+date: 2024-12-05T16:21:11.703Z
+updated: 2024-12-07T07:03:20.194Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,19 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are Secure Boot and TPM?](#what-are-secure-boot-and-tpm)
 * [How to Enable TPM and Secure Boot](#how-to-enable-tpm-and-secure-boot)
 * [Use Microsoft's PC Health Check App to Check If Your Hardware Is Compatible](#use-microsoft-39-s-pc-health-check-app-to-check-if-your-hardware-is-compatible)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,17 +61,9 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  However, if not, you'll have to opt for a [Windows 11 clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) or to [bypass Windows 11's minimum requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/). A clean installation of Windows 11 will work on most hardware, but it does come with caveats. Notably, Microsoft has repeatedly stated that it will not provide updates to Windows 11 installations on "unsupported" hardware, so you install at your own risk.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable TPM and Secure Boot
 
  Trusted Module Platform and Secure Boot are found in your UEFI settings. You'll have to enter system UEFI to enable them before attempting to upgrade to Windows 11\. Both settings are found in similar areas, but we'll break the steps down into three parts for ease of reading.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Enter Your BIOS/UEFI
 
@@ -74,19 +74,11 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  You should be in your BIOS/UEFI settings menu when the computer restarts again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Enable TPM in Your BIOS/UEFI
 
  The location of the TPM settings in your BIOS will differ depending on your motherboard manufacturer. The following images are taken from an X570 MSI motherboard, though where you find the TPM option won't necessarily be similar.
 
 ![msi motherboard enable tpm settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-tpm-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Be aware that the TPM might be listed under a different name on some motherboards, depending on your CPU manufacturer:
 
@@ -100,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
  Press **Windows key + R** to open the Run dialog, then input **tpm.msc** and press Enter. The TPM management console will load, indicating if TPM is enabled—and if so, which version you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Enable Secure Boot
@@ -111,9 +103,17 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
 ![msi motherboard enable secure boot settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/msi-motherboard-enable-secure-boot-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that Secure Boot requires your drives to use GUID Partition Table (GPT) rather than the older master boot record (MBR). As the newer partition table, GPT comes with several enhancements over MBR. If Secure Boot doesn't enable, you may need to [convert your MBR drive to GPT](http://www.makeuseof.com/tag/convert-mbr-gpt-windows/).
 
  Alternatively, your computer or hardware may be too old to enable Secure Boot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Microsoft's PC Health Check App to Check If Your Hardware Is Compatible
 
@@ -123,23 +123,6 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
 
  So there you have it. You've enabled two of the most important settings that will block your Windows 11 upgrade path. Once enabled, and presuming you're running compatible hardware, Microsoft will offer you the Windows 11 upgrade. To check if your Windows 11 upgrade is ready, head to **Settings > Update & Security > Windows Update**, where you'll find the big update button.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-insiders-choice-selecting-the-superior-screen-recorder/"><u>[Updated] Insider’s Choice Selecting the Superior Screen Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028777909-windows-11/"><u>「ウェブ会議を記録・再生する Windows 11ユーザーへの究極チュートリアル」</u></a></li>
-<li><a href="https://win11.techidaily.com/1-easy-steps-transforming-wmv-files-into-mpeg-format-on-your-pc/"><u>1. Easy Steps: Transforming WMV Files Into MPEG Format on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/1-two-top-methods-for-converting-dsfdff-audio-files-into-high-quality-flac-format/"><u>1. Two Top Methods for Converting DSF/DFF Audio Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-elite-matches-best-8-stability-systems-for-4k-cameras/"><u>2024 Approved Elite Matches Best 8 Stability Systems for 4K Cameras</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-installation-guide-for-canon-xp-on-windows-10/"><u>Easy Installation Guide for Canon XP on Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/mastering-the-macs-hidden-photo-editor-a-guide-to-using-preview/"><u>Mastering the Mac's Hidden Photo Editor - A Guide to Using Preview</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027083182-mp4/"><u>MP4ビデオのクリップ編集：品質損失ゼロ、再エンコード不要</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027968883-pcyoutube/"><u>PCで手軽にYouTubeショートをカット・編集する方法とフリーアプリ</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-builds-for-maximum-mc-safety/"><u>Top Builds for Maximum MC Safety</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-stuck-audio-during-video-streaming-in-google-chrome-and-mozilla-firefox/"><u>Troubleshooting Stuck Audio During Video Streaming in Google Chrome and Mozilla Firefox</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029399771-3/"><u>プロが選ぶベストな動画合成ソフトウェア 上位3品種（新しいもの）</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +130,23 @@ thumbnail: https://thmb.techidaily.com/b7b45cfdc35344213e5101907c39a4f8622c548d3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[New] 2024 Approved Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-superior-hd-gameplay-through-top-captures-for-2024/"><u>[Updated] Superior HD Gameplay Through Top Captures for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-roku-guide-to-facebook-live-streams/"><u>[Updated] The Ultimate Roku Guide to Facebook Live Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-masterpieces-top-meme-templates/"><u>2024 Approved Crafting Masterpieces Top Meme Templates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-for-swift-and-simple-windows-driver-updates/"><u>Expert Tips for Swift and Simple Windows Driver Updates</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oneplus-open-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on OnePlus Open Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-5-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-gpo-navigation-on-windows-11/"><u>Mastering GPO Navigation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disk-read-problems-quickly/"><u>Overcoming Disk Read Problems Quickly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-and-easy-steps-for-photos-in-your-instagram-gallery-for-2024/"><u>Quick and Easy Steps for Photos in Your Instagram Gallery for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-11-recover-lost-d3dx939dll/"><u>Solving Windows 11: Recover Lost D3DX9_39.dll</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-efficient-windowsstore-app-navigation/"><u>Techniques for Efficient WindowsStore App Navigation</u></a></li>
+<li><a href="https://win11.techidaily.com/tracking-entry-successes-and-fails-on-windows-pcs/"><u>Tracking Entry Successes & Fails on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-why-apples-new-m2-ipad-air-is-your-ideal-choice-expert-insights-from-zdnet/"><u>Ultimate Guide: Why Apple's New M2 iPad Air Is Your Ideal Choice - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/win-troubleshooting-guide-for-non-starting-obs/"><u>Win Troubleshooting Guide for Non-Starting OBS</u></a></li>
+</ul></div>
+

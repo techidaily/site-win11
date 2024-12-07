@@ -1,7 +1,7 @@
 ---
 title: Resolving Incomplete Network Prompt Guidance on Windows
-date: 2024-09-05T08:39:13.140Z
-updated: 2024-09-06T08:39:13.140Z
+date: 2024-12-06T09:05:30.572Z
+updated: 2024-12-06T19:49:55.629Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: Window Network Troubleshooting Guide,Complete Network Issue Fix,Prompt
 thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab5554465668491f874fa276d36a0e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Incomplete Network Prompt Guidance on Windows
 
  The "Action needed" prompt for Wi-Fi in Windows pops up when users try to connect to a Wi-Fi network on their devices and can occur with both new and old/trusted networks.
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable the NCSI Probe From Windows Registry
 
@@ -44,12 +42,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet
 5. Move to the right pane and right-click on the **EnableActiveProbing** value.  
 ![EnableActiveProbing key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-active-probing-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Type 0 in the text field for Value data and click **OK**.
 2. Now, navigate to the following location:  
 HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
@@ -57,24 +49,17 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. Choose **New** \> **DWORD (32-bit) Value** and rename it as **NoActiveProbe**.  
 ![NoActiveProbe key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/no-active-probe.jpg)
 5. Double-click on this newly created value and change its value data to 1\.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now, create another value the same way and name it as DisablePassivePolling.
 7. Double-click on **DisablePassivePolling** and change its value data to 1 as well.  
 ![DisablePassivePolling key in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-passive-polling.jpg)
 8. Click **OK** to save the changes and exit the Registry Editor.
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable the NCSI Probe From GPE
 
  If using the Windows Registry did not work, you can also make the same changes using the Group Policy Editor.
@@ -94,18 +79,11 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
@@ -136,15 +114,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. Click on **Power Options** from the list and select **Choose what the power buttons do**.  
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
 
@@ -153,17 +129,9 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Network Connections in Windows Made Easy
 
  Network-related issues in Windows can be annoying, especially if they are preventing you from establishing a stable connection. Hopefully, the steps listed above will help you fix the "Action needed" problem for good.
@@ -172,11 +140,31 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
  Below, we discuss the common causes of this problem alongside the troubleshooting methods you can try to fix this issue once and for all.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pcs-picks-the-finest-ps1-game-emulators/"><u>[New] 2024 Approved PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-process-youtube-clips-become-engaging-animation-gifs/"><u>[New] In 2024, Navigating the Process YouTube Clips Become Engaging Animation Gifs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-video-visibility-with-expert-titles/"><u>2024 Approved Elevate Video Visibility with Expert Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/black-shark-5-pro-review-elevating-gaming-experience/"><u>Black Shark 5 Pro Review: Elevating Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bringing-old-school-gaming-to-modern-apple-products-download-retroarch-for-iphone-ipad-and-apple-tv/"><u>Bringing Old-School Gaming to Modern Apple Products: Download RetroArch for iPhone, iPad & Apple TV!</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-esd-file-metamorphosis-into-an-iso-for-windows-os/"><u>Demystifying the ESD File Metamorphosis Into an ISO for Windows OS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-conversion-of-quicktime-mov-videos-to-webm-for-the-web-discover-7-helpful-techniques/"><u>Effortless Conversion of QuickTime MOV Videos to WebM for the Web - Discover 7 Helpful Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-persona-with-a-new-riot-tagline-and-nickname/"><u>Elevating Your Gaming Persona with a New Riot Tagline and Nickname</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-the-new-normal-resize-your-desktops-taskbar-images/"><u>Embrace the New Normal: Resize Your Desktop's Taskbar Images</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-another-computer-is-using-the-printer-error-on-windows-11-and-11/"><u>How to Fix the “Another Computer Is Using the Printer” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-dark-mode-in-microsoft-paint/"><u>How to Use Dark Mode in Microsoft Paint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>IPhone HDR Masterclass From Basics to Brilliance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-maze-of-multimonitors-in-windows-11/"><u>Navigating Through The Maze Of Multimonitors In Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0xa00f429f-error-in-microsoft-windows-cameras/"><u>Overcoming 0xA00F429F Error in Microsoft Windows Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-black-white-problems-with-microsoft-store/"><u>Overcoming Black, White Problems with Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-windows-scale-challenges/"><u>Strategies to Overcome Windows Scale Challenges</u></a></li>
+</ul></div>
+

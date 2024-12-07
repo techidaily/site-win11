@@ -1,0 +1,165 @@
+---
+title: Navigating Through Windows' Crash Dumps
+date: 2024-12-04T11:04:26.600Z
+updated: 2024-12-07T02:17:33.173Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Navigating Through Windows' Crash Dumps
+excerpt: This Article Describes Navigating Through Windows' Crash Dumps
+keywords: Crash Analysis Guide,Windows Error Logs,Debugging Tools,System Recovery Steps,OS Diagnostic Solutions,Crash Data Interpretation,Troubleshooting Dumps
+thumbnail: https://thmb.techidaily.com/f66305bee95e2c8cfda71737bc488d60f6c275330b2e729ec458216f465e024e.png
+---
+
+## Navigating Through Windows' Crash Dumps
+
+ When your computer crashes and you face a Blue Screen of Death (BSOD), your system saves the details of the crash as a BSOD log, in a pre-defined location in Windows. This information gives you details about when the crash happened, what caused it, and sometimes even what to do to fix the problem.
+
+ In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Where Are the BSOD Log Files Located in Windows?
+
+ You can find the BSOD log files in the Event Viewer, Control Panel, and Registry Editor in Windows. Below, we have listed the detailed steps for finding these files in all three of these utilities.
+
+### 1\. Find and Read the BSOD Log Files in the Event Viewer
+
+ The Event Viewer is a tool developed by Microsoft for users to view system and program-related events in Windows. These events can include system errors, warnings, informational messages, and more. In other words, every issue you encounter (whether a minor glitch or a major crash) will be logged in the Event Viewer for later investigation and sharing with Microsoft.
+
+ You can check out our detailed guide on [what the Event Viewer is and how it can be useful](https://www.makeuseof.com/windows-event-viewer-guide/) if you are unfamiliar with it.
+
+ Here is how you can find the BSOD log files in the Event Viewer:
+
+1. Right-click on the Windows icon in the taskbar and choose **Event Viewer** from the context menu.  
+![Choose Event Viewer in the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer.jpg)
+2. Head over to the **Action** menu located at the top, and choose **Create Custom View** from the context menu.  
+![Create a custom view in the Event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/create-custom-view.jpg)
+3. In the following dialog, expand the dropdown for **Logged** and choose the time when you encountered the issue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Check the logged section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/custom-time.jpg)
+4. Now, move to the Event Level section and choose **Error**.  
+![Event level of the error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/error-event-level.jpg)
+5. Expand the dropdown for **Event Logs** and checkmark the box for **Windows Logs**.  
+![Choose Windows logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-logs.jpg)
+
+1. Click **OK** to proceed.
+2. You will now be prompted to enter a name and description for the custom view you just created. Enter these details and click **OK**.  
+![Create a filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/name-event-viewer.jpg)
+3. Once the view is created, you will be presented with a list of errors that occurred during the time frame you selected earlier. You can sort this information further in the Date and time section.  
+![Check the Event Viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/event-viewer-11.jpg)
+4. Next, locate the BSOD using details like the date and time again.
+5. Once you find the targeted log, click on it.
+6. Check both the General and Details tabs to get information about this error.
+
+ Once you find the error code associated with the crash and the cause, you can look for solutions online, or head over to our guide that discusses [how to fix blue screen errors in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) if it's a bsod.
+
+### 2\. Find and Read the BSOD Log Files in the Registry Editor
+
+ In case using the Event Viewer does not work for you for some reason, you can use another Windows utility to locate and study the BSOD log files—the Registry Editor.
+
+ Windows Registry Editor is an administrative-level utility that lets you control how Windows operates and interacts with hardware and software. The Registry stores information related to the hardware and software components of your system. This information in the Registry is stored in the form of keys and values, and by modifying these with the dedicated Registry Editor, you can customize the operations of your system.
+
+ Listed below are the steps for finding the BSOD log files in the Registry Editor. Make sure you are logged into your system as an administrator before you proceed.
+
+1. Press the **Win + R** keys to open Run.
+2. Type "regedit" in Run and press **Ctrl + Shift + Enter** to launch the Registry Editor as an administrator.
+3. Now, select **Yes** in the User Account Prompt.
+4. Once you are inside the Registry Editor, navigate to the following location:  
+`HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\CrashControl`
+5. Next, move to the right pane and right-click on an empty space anywhere.
+6. Choose **New** \> **DWORD (32-bit) Value**.  
+![Create a new DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dword-policies.jpg)
+7. Name this value as **DisplayParameters** and double-click on it.
+8. Under Value data, type 1 and click **OK**.  
+![Change the Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/value-data-1.jpg)
+9. Once done, restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Upon reboot, you should be able to view the log files without any problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 3\. Find and Read the BSOD Log Files in the Control Panel
+
+ The third way of finding and reading the BSOD log files is via the Control Panel. This approach offers a graphical representation of the log files using the Windows Reliability Monitor, unlike the methods we have explored previously.
+
+ The Reliability Monitor, which is different than the Performance Monitor (see [Reliability Monitor vs. Performance Monitor](https://www.makeuseof.com/reliability-monitor-vs-performance-monitor/)) will show you a timeline of important system events that occurred on your computer including BSOD occurrences, software installations, application crashes, and other relevant events.
+
+ Here is how you can use it to identify and fix problems that may affect your system:
+
+1. Type Control Panel in the search area of the taskbar and click **Open**.
+2. In the following window, choose **System and Security** \> **Security and Maintenance**.  
+![Security and maintenance settings in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/security-maintenance.jpg)
+3. Click on **Maintenance** and then select **View reliability history**.  
+![Check the reliability history of the system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/view-realability-history.jpg)
+4. You should now see a graph showing the reliability data. Look for red cross icons and blue (i) icons in the graph, as they show problematic events.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Reliability graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/realability-graph.jpg)
+5. Click on each of the icons to view its details. Keep repeating the process to locate the event you are looking for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ You will be presented with information like the faulting application path, its name, fault module timestamp, exception code, etc. If this app caused a BSOD crash, then you can try ending its process via the Task Manager or uninstalling the app if it is not necessary.
+
+ It is also a good idea to copy this information and send it to Microsoft for review if you cannot find a solution online.
+
+## Learn How to Read Your BSOD Log Files and Resolve Your Crashes
+
+ ​​​​​​Windows blue screen errors are nothing new, but since they only display messages like "Your PC encountered a problem" without describing the cause, it can be difficult to find a fix. Understanding how to read BSOD log files can not only help you identify the exact cause of the problem but also help you find the right solution.
+
+ Whenever a component causes your system to crash, you can disable it and switch to a better alternative to avoid the problem.
+
+ In this guide, we will first discuss where are the BSOD files located in Windows and then how to identify them. Once you have located a BSOD file, we will show you how to read it properly to understand the potential causes of the error and resolve the problem.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-swift-playback-on-instagram-videos-mobiledesktop/"><u>[New] 2024 Approved Swift Playback on Instagram Videos (Mobile/Desktop)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-easy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments-for-2024/"><u>[New] Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-optimal-plot-generation-portal/"><u>[New] In 2024, Optimal Plot Generation Portal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-structuring-inspirational-lifestyle-content-for-audiences/"><u>[New] In 2024, Structuring Inspirational Lifestyle Content for Audiences</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ios-screen-capture-a-comparative-analysis-for-2024/"><u>[New] IOS Screen Capture A Comparative Analysis for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/chilling-yet-heating-top-5-winter-scenes-for-vids-for-2024/"><u>Chilling Yet Heating Top 5 Winter Scenes for Vids for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-ways-to-resolve-crashes-in-genshin-impact/"><u>Effortless Ways to Resolve Crashes in Genshin Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-system-performance-4-strategies-for-managing-disk-on-windows-11/"><u>Elevate System Performance: 4 Strategies for Managing Disk on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empower-your-python-code-with-microsofts-gpt-navigate-the-ai-integration-process/"><u>Empower Your Python Code with Microsoft's GPT-Navigate the AI Integration Process</u></a></li>
+<li><a href="https://win11.techidaily.com/flickering-wi-fi-mouse-issues-solutions-for-windows-users/"><u>Flickering Wi-Fi Mouse Issues - Solutions for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reuse-powertoys-configurations-elsewhere/"><u>How to Reuse PowerToys Configurations Elsewhere</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-laptop-functionality-post-monitor-hookup/"><u>Optimize Laptop Functionality Post-Monitor Hookup</u></a></li>
+<li><a href="https://win11.techidaily.com/prohibiting-date-manipulation-on-windows-machines/"><u>Prohibiting Date Manipulation on Windows Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-navigating-comic-files-in-win11/"><u>The Essentials of Navigating Comic Files in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-tecno-pop-8-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Pop 8 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

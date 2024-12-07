@@ -1,7 +1,7 @@
 ---
 title: "Windows Terminal: Implementing a New Color Scheme"
-date: 2024-11-25T21:23:32.872Z
-updated: 2024-11-27T21:15:10.889Z
+date: 2024-12-02T19:24:26.183Z
+updated: 2024-12-06T22:24:32.772Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Do I Edit a Color Scheme in Windows Terminal?
 
  Editing the color scheme is just one of the many[ways you can customize the Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) . To do that, follow the steps below:
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 3. On the left side menu, select**Color Schemes** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
@@ -81,17 +81,18 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
-![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
-6. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![changing the color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/change-color-scheme-windows-terminal.jpg)
+6. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 ## Customizing Color Schemes in Windows Terminal Is Easy
 
@@ -112,18 +113,22 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>[New] 2024 Approved Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>[New] In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028154413-dvd/"><u>「パソコン上でDVDのデータダウンロード手順４つの効果的な方法」</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-launch-success-a-guide-to-10-motivating-movies/"><u>2024 Approved Launch Success A Guide to 10 Motivating Movies</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027472714-mp4mp3/"><u>効率的な方法：大量のMP4ファイルが入ったバッチでMP3への変換手順</u></a></li>
-<li><a href="https://fox-access.techidaily.com/angles-unleashed-dive-into-our-11-best-bridge-cameras-review/"><u>Angles Unleashed Dive Into Our 11 Best Bridge Cameras Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-imagery-detailed-analysis-of-mavic-pro/"><u>Elevating Imagery - Detailed Analysis of Mavic Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-lite-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Magic 5 Lite Phone without Google Account?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200832245-local-safeguard-protocols-need-activation-action-steps-inside/"><u>Local Safeguard Protocols Need Activation – Action Steps Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s24plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S24+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028554855-gif/"><u>アニメーション素材を使ったキャプチャと切り取り：ビデオ、イメージ、GIFへの変換テクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027458854-mov/"><u>ファイル形式MOVから変換するための最適な方法 - 詳細ガイド</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-master-privacy-unveil-faces-less-clearly/"><u>[New] Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-your-youtube-personality-top-6-creator-categories-for-2024/"><u>[New] Unlock Your YouTube Personality Top 6 Creator Categories for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-importance-of-tracking-igtv-conversion-rates/"><u>[Updated] The Importance of Tracking IGTV Conversion Rates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-snapchat-intro-video-breakdown-size-format-duration/"><u>2024 Approved SnapChat Intro Video Breakdown Size, Format, Duration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-mkv-editor-software-top-10-tools-for-trimming-cropping-and-combining-matroska-video-files/"><u>Best MKV Editor Software: Top 10 Tools for Trimming, Cropping, and Combining Matroska Video Files</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-chrome-installation-on-windows-11/"><u>Mastering Chrome Installation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-external-monitor-setup-without-sluggishness/"><u>Navigate Through External Monitor Setup Without Sluggishness</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-scripts-for-efficient-account-management/"><u>PowerShell Scripts for Efficient Account Management</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-movie-capture-free-mp4-download-tool-for-youku-videos-speedy-and-user-friendly-techniques/"><u>Seamless Movie Capture: Free MP4 Download Tool for YouKu Videos – Speedy & User-Friendly Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-disk-read-failures-in-windows/"><u>Steps to Mend Disk Read Failures in Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-win11-photos-app-showcase-crafting-captivating-slideshows-and-spot-corrections/"><u>The Ultimate Win11 Photos App Showcase: Crafting Captivating Slideshows & Spot Corrections</u></a></li>
+<li><a href="https://win11.techidaily.com/trust-traps-heres-how-to-escape-fake-windows-software/"><u>Trust Traps? Here's How to Escape Fake Windows Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472110113-unable-to-locate-an-app-on-your-iphone-discover-solutions-here/"><u>Unable to Locate An App on Your iPhone? Discover Solutions Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-efficient-file-sharing-top-fixes-for-onedrive-in-windows-11/"><u>Unlocking Efficient File Sharing: Top Fixes for OneDrive in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unwrapping-paudio-problems-within-audacity-on-w10w11/"><u>Unwrapping PAudio Problems Within Audacity on W10/W11</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x90s-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X90S Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
 

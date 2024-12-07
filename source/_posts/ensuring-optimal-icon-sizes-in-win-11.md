@@ -1,7 +1,7 @@
 ---
 title: Ensuring Optimal Icon Sizes in Win 11
-date: 2024-11-23T02:33:10.219Z
-updated: 2024-11-27T18:33:33.517Z
+date: 2024-12-06T00:47:57.237Z
+updated: 2024-12-07T06:17:43.770Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are My Icons Shrinking on Windows 11?
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![screenshot_of_small_icon_size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_small_icon_size.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you've noticed your icons seem to be getting smaller, there's a good chance you're running a device with a high resolution, or non-standard DPI settings.
@@ -40,22 +40,22 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
  This bug occurs mostly upon changing resolution or when DPI settings are automatically adjusted. It affects non-Windows app icons exclusively, which means you have to have a keen eye if you're[using customized icons in Windows](https://www.makeuseof.com/tag/customize-icon-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restore Icon Size by Deleting Icon Cache
 
 ![screenshot_of_iconcachedb_file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_iconcachedb_file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The quick fix for this issue is to clear the icon cache. It's as easy as finding and deleting some files. Open up the AppData folder by typing **%appdata%** into the top field of an explorer window. Then, navigate to the **Local** folder.
 
  The file titled **IconCache.db** is the first file we'll need to delete.
 
 ![screenshot of the icon cache files in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_icon_cache_windows_11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, click into the **Microsoft** folder, then **Windows,** and finally **Explorer**. There will be a large number of files with the extension **.db**. Delete all of these files.
 
@@ -67,35 +67,17 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 ![screenshot of the windows 11 display settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_display_settings_windows_11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unfortunately, it's not currently possible to permanently fix this error. Microsoft may notice this error and fix it in the future, but for now, the best way to keep your icons from shrinking is to avoid switching resolutions too much.
 
 [You can also make sure that your DPI settings are set to the recommended scale](https://www.makeuseof.com/change-display-dpi-windows-11/) and keep an eye out for anything that might be automatically changing it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One Very Strange Shrinking Bug on Windows 11
 
  It's certainly not the only bug of Windows, but it's one of the stranger ones. While it's a shame there isn't a permanent fix for this frustrating bug, at least it's easy to correct whenever it does happen.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-revolutionizing-action-video-with-polaroid-xs-100i/"><u>[New] 2024 Approved Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube/"><u>[Updated] 2024 Approved From Concept to Classroom A Guide to Creating Engaging Edu-Videos on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/1-quick-guide-transforming-tta-files-into-various-audio-formats-like-flac-wav-and-mp3/"><u>1. [Quick Guide: Transforming TTA Files Into Various Audio Formats Like FLAC, WAV, and MP3]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-strategies-for-overwatch-gaming-saves/"><u>2024 Approved Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-free-dual-screen-video-editing-tools-web-and-desktop/"><u>New In 2024, Top Free Dual-Screen Video Editing Tools Web & Desktop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-wlanapidll-missing-errors-strategies-and-best-practices/"><u>Overcoming WLANAPI.DLL Missing Errors: Strategies & Best Practices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-essential-checklist-purging-backdrops-with-affinity-photo-for-2024/"><u>The Essential Checklist Purging Backdrops with Affinity Photo for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-converting-ogv-audio-files-to-mp3-format-on-your-windows-pc/"><u>Ultimate Guide: Converting OGV Audio Files to MP3 Format on Your Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-the-top-12-leading-youtube-to-mp4-converter-tools/"><u>Ultimate Guide: The Top 12 Leading YouTube to MP4 Converter Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-techniques-for-changing-a-videos-fps-from-60-to-24/"><u>Ultimate Techniques for Changing a Video's FPS From 60 to 24</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-vegaspro-the-19-edition/"><u>Unveiling VegasPro The '19 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/users-guide-to-the-leading-free-tool-for-downloading-vimeo-content-without-hassle/"><u>User's Guide to the Leading Free Tool for Downloading Vimeo Content Without Hassle</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +86,27 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-elevating-your-film-utilizing-drones-effectively/"><u>[New] Elevating Your Film Utilizing Drones Effectively</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-complete-guide-for-powerdirector-experts-2024/"><u>[Updated] Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-motion-picture-descriptive-creator/"><u>[Updated] Motion Picture Descriptive Creator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-proven-strategies-elevating-your-mobile-capture-game-with-mobizens-expertise/"><u>[Updated] Proven Strategies Elevating Your Mobile Capture Game with Mobizen's Expertise</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-through-exit-not-found-a-windows-fix-guide/"><u>Easing Through Exit Not Found: A Windows Fix Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-what-to-do-when-an-application-fails-to-open-on-your-mac/"><u>Expert Advice: What to Do When an Application Fails to Open on Your Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-toms-gadget-reviewz/"><u>Exploring Hardware with Tom’s Gadget Reviewz</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-headset-mic-in-windows-environment/"><u>Fixing Unresponsive Headset Mic in Windows Environment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y100a-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y100A Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-ways-to-bypass-tpm-on-windows-11/"><u>Innovative Ways to Bypass TPM on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permission-based-save-errors-in-microsoft-os/"><u>Overcoming Permission-Based Save Errors in Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-error-0x80073d26-on-windows-devices/"><u>Remedy for Error 0X80073D26 on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-os-maintenance-autoupdate-switch-amd-drivers/"><u>Seamless OS Maintenance: Autoupdate, Switch AMD Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-high-memory-usage-problem-in-edge-browser/"><u>Solving High-Memory Usage Problem in Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-access-using-powershell-commands/"><u>Streamlining File Access Using PowerShell Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-low-speaker-output-in-windows-11/"><u>Troubleshooting Low Speaker Output in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-10-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 10 Pro Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
+

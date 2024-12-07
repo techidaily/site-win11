@@ -1,7 +1,7 @@
 ---
 title: Learn How to Use Updated Window for Choosing Widgets in Win11
-date: 2024-11-23T00:15:45.047Z
-updated: 2024-11-28T01:35:03.256Z
+date: 2024-12-03T18:35:01.968Z
+updated: 2024-12-06T19:54:44.663Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Redesigned Widgets Picker in Windows 11?
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViveTool And Why Do You Need It?
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Redesigned Widgets Picker in Windows 11, Enabled
@@ -91,29 +91,6 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] In 2024, Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-inside-look-securing-a-profitable-monetized-youtube-space/"><u>[New] In 2024, Inside Look Securing a Profitable Monetized Youtube Space</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[New] In 2024, Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-snapchat-slideshow-technique/"><u>[New] In 2024, The Ultimate Snapchat Slideshow Technique</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-3-ipad-voice-recorder/"><u>[New] In 2024, Top 3 iPad Voice Recorder</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-creator-funding-in-youtube-shorts/"><u>[New] Leveraging Creator Funding in YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-decibel-documentation-system-and-speech-for-2024/"><u>[Updated] Decibel Documentation System and Speech for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-shotchrome-xtreme-top-tier-os-capturing-for-2024/"><u>[Updated] ShotChrome Xtreme Top-Tier OS Capturing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-text-alterations-with-snipping-tool/"><u>Cutting Edge Text Alterations with Snipping Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-10-effortless-tips-for-amplifying-video-engagement-on-facebook/"><u>In 2024, 10 Effortless Tips for Amplifying Video Engagement on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/interface-revamp-visualizing-disk-and-network-resources/"><u>Interface Revamp: Visualizing Disk and Network Resources</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-network-nooks-overcoming-obs-connectivity-concerns-7-ways/"><u>Navigating Network Nooks: Overcoming OBS Connectivity Concerns (7 Ways)</u></a></li>
-<li><a href="https://win11.techidaily.com/power-surprise-camouflaging-the-shutdown-icon-in-win11/"><u>Power Surprise: Camouflaging the Shutdown Icon in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/powerrename-the-essential-tool-for-files/"><u>PowerRename: The Essential Tool for Files</u></a></li>
-<li><a href="https://win11.techidaily.com/responding-to-noninteractive-elements-in-new-windows-release/"><u>Responding to Noninteractive Elements in New Windows Release</u></a></li>
-<li><a href="https://win11.techidaily.com/spooler-revival-instruction-for-win/"><u>Spooler Revival Instruction for Win</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-july-2024-laptop-bargains-on-the-market-explore-insights/"><u>Top July 2024 Laptop Bargains on the Market - Explore Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-overcoming-non-registered-devices-issue/"><u>Understanding & Overcoming Non-Registered Devices Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-disk-space-insights-via-powershell-scripts/"><u>Unlocking Disk Space Insights via PowerShell Scripts</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -121,3 +98,22 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>[New] 2024 Approved Build Your Wealth on YouTube A Guide to Creating Content Without Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-beginners-companion-swift-iphone-screen-recording/"><u>[New] Beginner's Companion Swift Iphone Screen Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-30-acid-pro-replacements-explored/"><u>[New] In 2024, Top 30 ACID Pro Replacements Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-moto-g04-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola Moto G04 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-best-features-of-amazons-fire-hd-10-a-versatile-tablet-for-all-family-members/"><u>Exploring the Best Features of Amazon's Fire HD 10 - A Versatile Tablet for All Family Members</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11-connection-failures-on-your-network/"><u>Fixing Windows 11 Connection Failures on Your Network</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-dot-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .dot file Document</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-media-creation-tool-error-0x8007043c-0x90017-on-windows/"><u>How to Fix Media Creation Tool Error 0X8007043C - 0X90017 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-troubleshooters-not-working-in-windows-11-and-11/"><u>How to Fix the Troubleshooters Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-error-code-windows-updates-0x80246007-snag/"><u>Mitigating Error Code: Windows Update's 0X80246007 Snag</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-disconnect-remedy-for-xbox-on-win11/"><u>Navigating Through Disconnect: Remedy for Xbox on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-overcoming-error-0x800f0831-in-windows/"><u>The Ultimate Guide to Overcoming Error 0X800f0831 in Windows</u></a></li>
+</ul></div>
+

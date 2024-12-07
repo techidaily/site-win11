@@ -1,7 +1,7 @@
 ---
 title: Steps to Reactivate Windows Photo Viewer on Windows 11
-date: 2024-11-23T23:09:18.109Z
-updated: 2024-11-28T03:29:07.706Z
+date: 2024-12-04T17:50:30.246Z
+updated: 2024-12-06T16:46:09.384Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
  Microsoft replaced the classic Photo Viewer app in Windows 10 and 11 with Photos, its modern, feature-rich image viewer. However, if you liked the simplicity of Photo Viewer, here's how you can bring it back in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restore Windows Photo Viewer in Windows 10/11 Using the Registry
 
  You can enable the classic Windows Photo Viewer app using a Windows Registry script. The following Windows Registry script reconfigures and enables the Windows Photo Viewer app.
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![Notepad App Showing a Save As Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-save-as-dialog-in-windows-11.png)
 5. Next, open **File Explorer**, browse to the location where you saved the file, double-click **ActivateWindowsPhotoViewer.reg**, and then click **Yes**. When a warning prompt appears, click **Yes**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After the script is executed, you'll see a success message. Click **OK**.
 7. To apply the changes, press **Win + X** to open the **Windows Power** **menu** and choose **Task Manager**.
 8. In the **Process** tab, find and right-click on **Windows Explorer**, then click **Restart**. Your screen may flash momentarily as Windows Explorer restarts.  
@@ -68,11 +60,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 ![File Explorer Choose Another App Menu Showing Windows Photo Viewer App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-explorer-choose-another-app-menu-showing-windows-photo-viewer-app-option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Windows Photo Viewer in Windows 10 and 11
@@ -84,18 +72,31 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 `Windows Registry Editor Version 5.00[-HKEY_CLASSES_ROOT\Applications\Windowsphotoviewer.dll]`  
 ![Notepad App Showing a Registry Script to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-registry-script-to-disable-windows-photo-viewer-in-windows-11.png)
 3. Press **Ctrl + Shift + S** to open the **Save** dialog.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type **DeactivateWindowsPhotoViewer.reg** as the file name. Click the **Save as type** drop-down, choose **All files (\*.\*)**, then click **Save**.  
 ![Notepad App Showing a Save As Dialog to Disable Windows Photo Viewer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/notepad-app-showing-a-save-as-dialog-to-disable-windows-photo-viewer-in-windows-11.png)
 5. Double-click **DeactivateWindowsPhotoViewer.reg** to execute the script and follow the on-screen instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/), and the Photo Viewer app will be disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use One Photo Viewer
 
 ![One Photo Viewer App Showing Right-Click Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/one-photo-viewer-app-showing-right-click-context-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One Photo Viewer is an excellent Windows Photo Viewer and [Windows Photos alternative](https://www.makeuseof.com/best-windows-10-photos-app-alternatives/). It's fast, free, and offers a clean interface by placing all the controls in the context menu, decluttering the toolbar area. Right-click the app interface to view the menu and access all the tools and settings.
@@ -108,25 +109,6 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
  That said, if you prefer to stick with a native option, give the built-in Windows Photos app another shot. It's not as bad as you may think upon first use.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-sweets-and-snacks-tiktoks-top-food-trends/"><u>[New] 2024 Approved Sweets & Snacks TikTok's Top Food Trends</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-80s-family-flick-the-vhs-edition-of-the-goofys-for-2024/"><u>[Updated] '80S Family Flick The VHS Edition of The Goofys for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-self-expression-through-instacraze-100-captivating-captions/"><u>[Updated] 2024 Approved Self-Expression Through #InstaCraze 100 Captivating Captions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-remove-jello-effect-from-an-aerial-video/"><u>[Updated] How to Remove Jello Effect From an Aerial Video</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-pro-level-video-trimming-on-your-windows-device/"><u>Discover Pro-Level Video Trimming on Your Windows Device</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-error-0x800700e1-in-windows-11-and-11/"><u>How to Fix Error 0X800700E1 in Windows 11 & 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastery-of-spotify-ad-formats-and-best-practices/"><u>In 2024, Mastery of Spotify Ad Formats and Best Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-windows-11-search-the-ultimate-guide-to-11-solutions/"><u>Overhauling Windows 11 Search: The Ultimate Guide to 11 Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-alignment-on-your-monitor-overcoming-overscan/"><u>Perfect Alignment on Your Monitor: Overcoming Overscan</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/phones-to-fantasy-crafting-a-home-for-vr-goggles/"><u>Phones to Fantasy Crafting a Home for VR Goggles</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unresponsive-nvidia-cp-windows-11/"><u>Quick Fixes for Unresponsive Nvidia CP, Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/step-by-step-process-youtube-vids-converted-to-mp3-for-2024/"><u>Step-by-Step Process YouTube Vids, Converted to MP3 for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-on-fixing-your-rust-mic-issues-updated-for-2e4-tech-needs/"><u>Step-by-Step Tutorial on Fixing Your Rust Mic Issues: Updated for 2E4 Tech Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-parseerror-fixes-for-winoss/"><u>Streamlining ParseError Fixes for WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/the-fundamentals-of-data-protection-in-windows-notes/"><u>The Fundamentals of Data Protection in Windows Notes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +116,24 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-twitvid-mastery-your-go-to-resource-for-video-downloads/"><u>[New] TwitVid Mastery Your Go-To Resource for Video Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-and-contrasting-google-and-microsofts-nearby-file-services/"><u>Comparing and Contrasting Google & Microsoft's Nearby File Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-ustreams-features-and-rivals/"><u>Dissecting Ustream's Features and Rivals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-install-of-amd-graphics-software-on-windows-os-versions-10-11-and-7/"><u>Fresh Install of AMD Graphics Software on Windows OS Versions: 10, 11, and 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-expert-kinemaster-gs-journey/"><u>From Novice to Expert KineMaster GS Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-industrys-heavyweight-champions-drones-of-the-year/"><u>In 2024, Industry's Heavyweight Champions - Drones of the Year</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-livestreaming-tools-evaluation-which-bets-on-performance/"><u>In 2024, Livestreaming Tools Evaluation Which Bets on Performance?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>In 2024, The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-storing-custom-sound-levels-effectively/"><u>Methods for Storing Custom Sound Levels Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-nuances-of-window-11-widget-installation/"><u>Navigating Through the Nuances of Window 11 Widget Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/secret-scrolls-of-system-files-unveil-the-steps/"><u>Secret Scrolls of System Files: Unveil the Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-journey-to-w11s-printer-tools-max-50-chars/"><u>Streamline Your Journey to W11’s Printer Tools (Max 50 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-sanitization-of-accounts-easy-ways-to-disable-users-on-win11/"><u>Swift Sanitization of Accounts: Easy Ways to Disable Users on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-of-progress-windows-beyond-11/"><u>The Pinnacle of Progress: Windows Beyond 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-incomplete-amd-ryzen-master-installation/"><u>Troubleshooting Steps for Incomplete AMD Ryzen Master Installation</u></a></li>
+</ul></div>
+

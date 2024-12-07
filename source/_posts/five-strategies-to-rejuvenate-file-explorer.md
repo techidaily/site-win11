@@ -1,7 +1,7 @@
 ---
 title: Five Strategies to Rejuvenate File Explorer
-date: 2024-09-05T08:35:50.234Z
-updated: 2024-09-06T08:35:50.234Z
+date: 2024-12-03T05:26:28.484Z
+updated: 2024-12-07T08:53:10.244Z
 tags:
   - windows10
   - windows11
@@ -16,18 +16,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
 ## Five Strategies to Rejuvenate File Explorer
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is File Explorer in Windows?](#what-is-file-explorer-in-windows)
@@ -38,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
  When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is File Explorer in Windows?
 
  File Explorer is the built-in file manager for Windows devices. You use it to navigate through various directories and browse for files within the operating system. It starts running in the background as soon as your computer boots up.
@@ -52,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
  Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart File Explorer Using Task Manager
 
  Task Manager is a built-in system monitor that lets you start or end a process on your computer. These processes can be active programs, services, and other tasks that run in the background while you use your PC. Many people use Task Manager to [monitor RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
@@ -81,12 +57,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
 ![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
 2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
 3. Now, press **Ctrl + Shift + Esc** on your keyboard to open the Task Manager.
@@ -95,20 +65,12 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
 ![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Windows Explorer Manually Using Command Prompt
 
  The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
@@ -123,12 +85,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
  After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use a Batch File to Restart File Explorer in Windows
 
  A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
@@ -145,11 +101,9 @@ exit`
 ![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
 
  Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
@@ -163,6 +117,10 @@ exit`
  If you're someone who switched from a Mac, think of File Explorer as Microsoft's equivalent of Finder in macOS. You can open a new File Explorer window by simply clicking the **folder** icon in the taskbar.
 
  Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart File Explorer Using Task Manager
 
@@ -179,12 +137,6 @@ exit`
 
  Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
 
  Do you like to have more control when you restart File Explorer? Maybe you don't want to immediately restart it because you're testing something on your computer and need it to use as few resources as possible.
@@ -203,12 +155,6 @@ exit`
 
  The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restart Windows Explorer Manually Using Command Prompt
 
  The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
@@ -221,12 +167,6 @@ exit`
 `start explorer.exe`  
 ![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
 
 ## 4\. Use a Batch File to Restart File Explorer in Windows
@@ -251,11 +191,9 @@ exit`
  When you're facing issues with the Windows user interface—for example, your taskbar isn't responding or file navigation seems slow—restarting the File Explorer process can often fix the issue. We'll show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is File Explorer in Windows?
 
  File Explorer is the built-in file manager for Windows devices. You use it to navigate through various directories and browse for files within the operating system. It starts running in the background as soon as your computer boots up.
@@ -264,18 +202,6 @@ exit`
 
  Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart File Explorer Using Task Manager
 
  Task Manager is a built-in system monitor that lets you start or end a process on your computer. These processes can be active programs, services, and other tasks that run in the background while you use your PC. Many people use Task Manager to [monitor RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
@@ -307,20 +233,12 @@ exit`
 
 ![running a new explorer task in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/running-a-new-explorer-task-in-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Windows Explorer Manually Using Command Prompt
 
  The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
@@ -333,12 +251,6 @@ exit`
 `start explorer.exe`  
 ![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
 
 ## 4\. Use a Batch File to Restart File Explorer in Windows
@@ -370,6 +282,10 @@ exit`
 
  Besides file management, the process behind this tool also allows you to interact with the Start menu, desktop, and taskbar items. Thus, when you restart File Explorer, you're hitting the reboot button for most of Windows' graphical user interface—without having to shut down or restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart File Explorer Using Task Manager
 
  Task Manager is a built-in system monitor that lets you start or end a process on your computer. These processes can be active programs, services, and other tasks that run in the background while you use your PC. Many people use Task Manager to [monitor RAM, GPU, and CPU usage on Windows](https://www.makeuseof.com/windows-11-check-ram-gpu-cpu-usage/).
@@ -383,18 +299,6 @@ exit`
 
 ![Restarting Windows Explorer in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restarting-windows-explorer-in-task-manager.png)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your desktop will go black, and the taskbar will disappear for a split second, confirming that the Windows Explorer process has rebooted on your system. After the restart, the interface will likely feel more responsive; any slowdowns should be fixed.
 
 ## 2\. Exit Explorer and Manually Restart It (Windows 10 Only)
@@ -404,6 +308,10 @@ exit`
  If so, Windows 10 lets you exit File Explorer, then you can manually restart it using Task Manager. Follow these steps:
 
 ![Exit Explorer option from the Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/exit-explorer-option-from-the-windows-taskbar.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press **Ctrl + Shift** on your keyboard and right-click anywhere on the taskbar.
 2. Choose **Exit Explorer** from the context menu. Your screen will go black, and the taskbar will disappear indefinitely, but don't panic.
@@ -416,11 +324,9 @@ exit`
  The taskbar and your desktop will reappear on the screen, confirming that File Explorer is once again actively running in the background of your system.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Windows Explorer Manually Using Command Prompt
 
  The [Command Prompt is a tool](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) that most Windows users are familiar with. This built-in command-line interpreter lets you perform various tasks on a Windows computer using specific commands.
@@ -433,14 +339,12 @@ exit`
 `start explorer.exe`  
 ![Using CMD to restart Windows explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After entering the first command, your screen will go black. You'll be able to access your desktop again once you enter the second command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use a Batch File to Restart File Explorer in Windows
 
  A batch file is simply a plain text file containing a series of commands you can execute with command-line interpreters like Command Prompt or PowerShell. These files use the **.bat** format; you can access them using File Explorer.
@@ -456,18 +360,19 @@ exit`
 
 ![Saving code to restart explorer as a batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-restart-explorer-windows-10-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All you need to do now is double-click the file to run the commands automatically. When File Explorer restarts, your screen will go black for a moment. If you store the batch file on your desktop or [pin the file to your Windows taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/), where it's easily accessible, this becomes the fastest way to restart **Explorer.exe** on your Windows PC.
 
  Now that you've learned not one, but four, different ways to restart File Explorer, it's time to figure out what works best for you. We have a clear winner if you're looking for the fastest method. But if you don't want to set up a batch file for the job, using Task Manager is generally your best bet.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -476,4 +381,22 @@ exit`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-constructing-an-inviting-subscribe-link-for-youtube-enthusiasts/"><u>[New] Constructing an Inviting Subscribe Link for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>2024 Approved Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-virtual-warriors-journey-7-intense-fps-games/"><u>2024 Approved Virtual Warriors’ Journey - 7 Intense FPS Games</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-play-recording-with-intels-gpu-center/"><u>Direct Play Recording with Intel's GPU Center</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-ios-174s-new-capabilities-including-emoji-updates-and-podcast-text-for-accessibility-in-the-eu-exclusive-coverage/"><u>Discover iOS 17.4'S New Capabilities Including Emoji Updates & Podcast Text for Accessibility in the EU | Exclusive Coverage</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-into-a-corruption-free-windows-state/"><u>Easing Into a Corruption-Free Windows State</u></a></li>
+<li><a href="https://win11.techidaily.com/ending-operation-failures-address-code-0x000-written-by-user2295431/"><u>Ending Operation Failures: Address Code 0X000 Written by User2295431</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exhaustive-list-and-evaluation-of-10-leading-blackberry-video-transformation-apps/"><u>Exhaustive List and Evaluation of 10 Leading BlackBerry Video Transformation Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/hacker-intrusion-do-fingerprint-scanners-risk-our-safety/"><u>Hacker Intrusion: Do Fingerprint Scanners Risk Our Safety?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-asus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Asus Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-file-journey-skip-these-file-explorer-slip-ups/"><u>Perfect Your File Journey: Skip These File Explorer Slip-Ups</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-cannot-read-from-disk-issue-with-win1110/"><u>Tackling 'Cannot Read From Disk' Issue with Win11/10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transferring-and-archiving-your-customized-gpt-dialogues/"><u>Transferring and Archiving Your Customized GPT Dialogues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-an-in-depth-look-into-modern-computer-components-by-tom/"><u>Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom</u></a></li>
+</ul></div>
 

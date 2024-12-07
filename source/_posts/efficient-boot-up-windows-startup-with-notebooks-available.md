@@ -1,7 +1,7 @@
 ---
 title: "Efficient Boot-Up: Windows Startup with Notebooks Available"
-date: 2024-09-05T08:35:26.389Z
-updated: 2024-09-06T08:35:26.389Z
+date: 2024-12-04T01:34:53.546Z
+updated: 2024-12-06T21:07:44.818Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fast Startup Windows,Notebook Boot Efficiency,Startup Optimization Win
 thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d4bbb61a362d901e0200289d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Efficient Boot-Up: Windows Startup with Notebooks Available
 
  Are you tired of opening Sticky Notes every time you turn on your computer? What if it could open automatically each time Windows starts?
@@ -46,11 +40,9 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
  After performing these steps, close File Explorer and restart your computer. Sticky Notes should now open at startup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Task Scheduler
 
  Task Scheduler is another way to open Sticky Notes at startup. This Windows feature schedules and automates tasks at specific times or conditions.
@@ -63,18 +55,11 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 3. In the first step, give your task a name and click **Next**.  
 ![Startup Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-sticky-notes.jpg)
 4. Now select **When I log on** as the trigger and click **Next** at the bottom.  
+
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Create Basic Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-basic-task-wizard.jpg)
 5. Choose **Start a program** in the Action window and click **Next**.  
 ![Start a program in Action tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-action-tab.jpg)
@@ -84,16 +69,19 @@ C:\Windows\System32\cmd.exe
 /c start shell:appsfolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App  
 ![Start a Program in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-a-program-in-task-scheduler.jpg)
 8. Click **Next** and review all the settings.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. Now click **Finish** to save your work.  
 ![Finish Task Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/finish-task-wizard.jpg)
 
  The Task Scheduler will now run Sticky Notes each time you log in. This way, Sticky Notes launches automatically at startup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -109,28 +97,18 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
 5. Double-click the **LaunchOnNextUserSession** key on the right.  
 ![Tweak Registry Editor to Open Sticky Notes at Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tweak-registry-editor-to-open-sticky-notes-at-startup.jpg)
 6. Change the Value data from 0 to **1** in the Edit DWORD (32-bit) Value window and click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you can't find the **LaunchOnNextUserSession** key, right-click on the **Notes** folder and select **New > DWORD (32-bit) Value**. Name the newly created key “LaunchOnNextUserSession” and assign it the Value data of **1**.
 7. Close the Registry Editor and restart your computer to save the changes. Sticky Notes should now open at startup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Now Starts With Sticky Notes Open
 
  This article outlines several ways to open Sticky Notes at startup in Windows. If you want an easier solution, leave Sticky Notes open when you shut down your computer; it will launch automatically when Windows starts. If not, add Sticky Notes to the startup folder. If you want more control over when Sticky Notes launches, use Task Scheduler or tweak the Registry Editor.
 
  Well, there's good news for you: Sticky Notes can launch at startup in Windows. This article illustrates how to set up and use Sticky Notes at startup.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +116,22 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PenWorkspac
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-tips-for-crafting-engaging-facebook-reels/"><u>[New] 2024 Approved Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-tips-screen-recording-made-simple-for-mac-users/"><u>[New] 2024 Approved Quick Tips Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[New] Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elevate-vlogging-select-best-handheld-and-tripod-systems/"><u>[Updated] In 2024, Elevate Vlogging Select Best Handheld and Tripod Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-for-graphics-driver-reinstatement-on-win1011/"><u>Efficient Methods for Graphics Driver Reinstatement on Win10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-linux-and-macos-images-for-free-discover-the-power-of-darktable-raw-photo-editor/"><u>Enhance Linux & macOS Images for Free: Discover the Power of Darktable Raw Photo Editor</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-search-experience-with-fast-setup-for-bing-chat/"><u>Enhance Your Search Experience with Fast Setup for Bing Chat</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-problem-in-windows-effective-troubleshooting-steps/"><u>Escape Problem in Windows: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-roblox-launch-troubles-pro-tips-and-solutions-for-the-modern-player/"><u>Mastering Roblox Launch Troubles: Pro Tips and Solutions for the Modern Player</u></a></li>
+<li><a href="https://win11.techidaily.com/paving-your-way-to-a-working-charmap-on-windows/"><u>Paving Your Way to a Working CharMap on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-service-links-solutions-for-malwarebytes-failures/"><u>Reviving Service Links: Solutions for Malwarebytes Failures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sculpt-comical-visuals-for-digital-sharing-for-2024/"><u>Sculpt Comical Visuals for Digital Sharing for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-age-estimation-tips-and-tricks/"><u>Windows Age Estimation Tips and Tricks</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Guide: Turning On/Off NTFS Compression"
-date: 2024-11-24T01:24:38.585Z
-updated: 2024-11-28T02:46:12.194Z
+date: 2024-12-04T19:36:14.015Z
+updated: 2024-12-06T21:38:05.149Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
  The quickest way to enable NTFS[file compression](https://www.makeuseof.com/windows-11-file-compression-guide/) is through File Explorer. Below are the steps to compress a folder:
@@ -41,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 4. Under the**Compress or Encrypt attributes** section, check the**Compress contents to save disk space** box and click**OK** .  
 ![Compress content to save disk option in Folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/compress-content-to-save-disk-option.jpg)
 5. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the confirmation dialog box that crops up, choose the **Apply changes to this folder, subfolders, and files option** .  
 ![Apply changes option in folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apply-changes-option.jpg)
 7. Click**OK.**
@@ -57,7 +58,7 @@ Similarly, you can compress an entire drive. Here's how:
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable NTFS File Compression Using the Command Prompt
@@ -95,10 +96,14 @@ Similarly, you can compress an entire drive. Here's how:
 9. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable NTFS File Compression Using the Local Group Policy Editor
 
@@ -112,14 +117,10 @@ Similarly, you can compress an entire drive. Here's how:
 ![Disabling policy in LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-policy.jpg)
 5. Click**Apply** \>**OK** to enable file compression.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
@@ -143,21 +144,20 @@ Similarly, you can compress an entire drive. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/levate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube-for-2024/"><u>[New] Elevate Video Quality Mastering Aspect Ratio and Size Settings on YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-building-brands-through-innovative-design-work/"><u>[Updated] 2024 Approved Building Brands Through Innovative Design Work</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubes-journey-seamlessly-converted-into-high-quality-avis/"><u>[Updated] In 2024, YouTube's Journey Seamlessly Converted Into High-Quality AVIs</u></a></li>
-<li><a href="https://win11.techidaily.com/1-ultimate-guide-downloading-youtube-content-onto-your-ipad/"><u>1. Ultimate Guide: Downloading YouTube Content Onto Your iPad</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-step-by-step-on-hosting-webinars-a-beginners-guide-to-zoom/"><u>2024 Approved Step-by-Step on Hosting Webinars A Beginner's Guide to Zoom</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027881327-youtube/"><u>効果的な方法でYoutube映像ダウンロード術</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029196115-youtube/"><u>最高の解決策! YouTube動画をセキュリティ保証付きでダウンロードするためのベストソフト選び方</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/celebrity-fleeting-frame-study-for-2024/"><u>Celebrity Fleeting Frame Study for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/iphone-external-storage-troubles-fix-your-usb-mtp-drivers-now/"><u>IPhone External Storage Troubles? Fix Your USB MTP Drivers Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027705515-pc-and-smartphone/"><u>PC & Smartphoneで組み合わせ編集:ビデオ・オーディオの最適化</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210133167-9781644111666-the-ancient-language-of-sacred-sound-2nd-ed/"><u>The Ancient Language of Sacred Sound (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transition-smoothly-with-chromes-picture-in-picture/"><u>Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027640655-wav/"><u>WAV形式のメタデータ管理 - 最適な編集ソフトと使用手順</u></a></li>
-<li><a href="https://win11.techidaily.com/wonderfoxs-limited-time-deal-earn-high-value-ripper-pro-licenses-discounted-3995-7990-during-this-months-movie-campaign-join-now/"><u>WonderFox's Limited-Time Deal: Earn High-Value Ripper Pro Licenses (Discounted @$3995-$7990) During This Month’s Movie Campaign – Join Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026812283-tiktok/"><u>パーフェクトなTikTok動画の縦横サイズ及び製作技術</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-recording-the-virtual-realm/"><u>[New] In 2024, Recording the Virtual Realm</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-discovering-the-best-music-playback-on-youtube-2023/"><u>2024 Approved Discovering the Best Music Playback on YouTube, 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-windows-1011-tackling-expiration-notifications/"><u>Easing Windows 10/11: Tackling Expiration Notifications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-experience-with-cookiebot-driven-customization/"><u>Enhance User Experience with Cookiebot-Driven Customization</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-15-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 15 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-administrative-firewalls-for-installer-setup/"><u>Navigating Administrative Firewalls for Installer Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-love-in-motion-how-to-craft-a-romantic-valentines-day-video/"><u>New In 2024, Love in Motion How to Craft a Romantic Valentines Day Video</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-following-a-windows-update/"><u>Overcoming Obstacles Following a Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revamped-guide-ultimate-tips-to-eliminate-minecraft-performance-problems/"><u>Revamped Guide: Ultimate Tips to Eliminate Minecraft Performance Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-windows-11-fs-errors-swiftly/"><u>Reversing Windows 11 FS Errors Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-productive-with-solid-fixes-for-file-explorer-woes-in-win11/"><u>Stay Productive With Solid Fixes For File Explorer Woes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-renaming-limitations-on-windows-11s-system/"><u>Strategies to Overcome Renaming Limitations on Windows 11'S System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creativity-using-mematic-app/"><u>Unleash Creativity Using Mematic App</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-clock-calibration-chrome-discrepancy-solution/"><u>Windows Clock Calibration: Chrome Discrepancy Solution</u></a></li>
 </ul></div>
 

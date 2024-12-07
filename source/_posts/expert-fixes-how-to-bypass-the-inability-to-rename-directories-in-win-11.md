@@ -1,7 +1,7 @@
 ---
 title: "Expert Fixes: How to Bypass the Inability to Rename Directories in Win 11"
-date: 2024-09-05T08:32:58.579Z
-updated: 2024-09-06T08:32:58.579Z
+date: 2024-12-05T20:39:30.691Z
+updated: 2024-12-07T11:52:41.294Z
 tags:
   - windows10
   - windows11
@@ -21,29 +21,15 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
  Fortunately, you don’t have to open random folders and hope for the best. We’ll walk you through the steps of how you can solve the issue and rename Windows 11 folders any time you want.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Close Any Apps Accessing the Folder
 
  Windows might now allow you to rename a folder because that folder is already in use. Close any image or video editor, or any other app that may access the files within the folder.
 
  Also, take a look at your tabs in File Explorer and close the folder that you want to rename. If you're still getting to grips with them, check out[everything you need to know about File Explorer tabs on Windows 11](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Windows Explorer
 
  The inability to rename a folder in Windows 11 might be due to a temporary Windows Explorer glitch. Hopefully, restarting it will fix it.
@@ -53,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 ![End File Explorer Task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-file-explorer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Re-launch Windows Explorer and try to rename the folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Windows
 
  An outdated Windows version might miss a patch or bug fix to keep your system error-proof. If you can’t rename folders on your computer no matter what you try, you should update your system to the latest version available.
@@ -74,18 +52,6 @@ Re-launch Windows Explorer and try to rename the folder.
 
  In the Settings menu, go to**Windows Update** . There, click the**Check for updates** button. If there’s a large update available, you can schedule it for later, so you don't interrupt your work.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the Folder Permissions
 
  If you’ve signed in using a local account, it might lack the necessary permissions to rename folders. Here’s how you can check it:
@@ -98,12 +64,14 @@ Re-launch Windows Explorer and try to rename the folder.
 ![Check folder permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/folder-permissions-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your account is blocked from renaming the folder, you should switch to an administrator account or[take ownership of the folder on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Scan for Malware
 
@@ -123,6 +91,10 @@ In this case, you should turn it off.
 
 ![Controlled folder access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you rename the folder, you can re-enable the Controlled Folder Access feature.
 
 ## 7\. Perform a Clean Boot
@@ -131,12 +103,6 @@ In this case, you should turn it off.
 
  If the problem is fixed after a clean boot, look at the list of installed apps and uninstall the ones that may be causing the issue. If there are too many to go through, you can re-activate only a handful of apps and services between each clean boot. Once the problem re-appears, one of the apps you just re-activated is the culprit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Do Not Use Unsupported Characters in the Filename
 
  If you get**The parameter is incorrect** message when trying to rename a folder, you might’ve typed in an incompatible character. When naming or renaming a folder on a Windows computer, you can’t use the following characters:
@@ -159,14 +125,11 @@ Try renaming the folder without using the above characters.
 
  Sometimes, it’s just a syntax error as Windows doesn’t let you use all characters when naming a folder. But if the problem is more complex, you can turn off the Controlled folder access or perform a clean boot to solve the issue.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +138,19 @@ Try renaming the folder without using the above characters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-screen-to-speakers-secrets-to-successful-video-sharing-for-2024/"><u>[Updated] From Screen To Speakers Secrets to Successful Video Sharing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hush-for-restfulness-top-asmr-picks/"><u>2024 Approved Harmonious Hush for Restfulness Top ASMR Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-the-sale-click-and-grow-indoor-gardens-at-an-unbelievable-55-discount-on-prime-day-now-sold-out/"><u>Catch the Sale! Click & Grow Indoor Gardens at an Unbelievable 55% Discount on Prime Day - Now Sold Out!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/effortless-photo-series-display-on-ig/"><u>Effortless Photo Series Display on IG</u></a></li>
+<li><a href="https://win11.techidaily.com/exposing-the-concealed-managing-windows-11-icons/"><u>Exposing the Concealed: Managing Windows 11 Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/from-small-to-significant-expanding-your-desktops-icon-size-in-w11/"><u>From Small to Significant: Expanding Your Desktop's Icon Size in W11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>In 2024, Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-x5-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco X5 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-process-for-acquiring-moviemaker-6-on-pcs/"><u>In 2024, Step-by-Step Process for Acquiring Moviemaker 6 on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-password-policy-adjusting-lockout-counter-post-failed-logins/"><u>Optimizing Password Policy: Adjusting Lockout Counter Post-Failed Logins</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/three-cost-free-methods-transferring-your-data-from-computer-to-google-drive-on-windows-os/"><u>Three Cost-Free Methods: Transferring Your Data From Computer to Google Drive on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-print-troubleshooting-guide-for-ad-ds-errors/"><u>Win11 Print Troubleshooting Guide for AD DS Errors</u></a></li>
+</ul></div>
 

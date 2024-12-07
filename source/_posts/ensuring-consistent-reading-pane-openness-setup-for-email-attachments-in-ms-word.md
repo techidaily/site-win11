@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word"
-date: 2024-09-05T08:36:05.717Z
-updated: 2024-09-06T08:36:05.717Z
+date: 2024-12-06T03:30:16.610Z
+updated: 2024-12-07T02:50:09.924Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: MS Word ReadPane,Email Attachment Sys,Word Attachment View,Open ReadPa
 thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a4e026b76fba822f7faa2ec3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ensuring Consistent Reading Pane Openness: Setup for Email Attachments In MS Word
 
  Microsoft Word comes with a lot of security features that protect your computer from malicious files. One of these options allows you to open all email attachments in Word's reading view by default.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
  If you want an extra layer of protection against email attachments, there are several ways to always open attached Word documents in reading view on Windows. Let’s go over them one by one.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
 
  You can modify Word's startup settings to specify how your documents are handled. From there, you can set Word to open all email attachments in reading mode by default. Here's how:
@@ -43,20 +35,12 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 5. Check the box that reads **Open e-mail attachments and other uneditable files in reading view** and click on**OK** .  
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
 
  Another way to configure Word to open email attachments in reading view is to use the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor if you’re running the Professional, Education, or Enterprise edition of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -70,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
 
  The Registry Editor in Windows stores important settings for Windows and its apps. If you're comfortable editing registry files, you can also use the following method to configure Word to open email attachments in reading view.
@@ -98,20 +74,25 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 7. Click**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
 
  Email remains a prominent attack vector for hackers and cybercriminals. Configuring Microsoft Word to open email attachments in reading view is just one of many methods for avoiding malware. Another option is to check suspicious files for malware before opening them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +101,24 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-complete-examination-screenflow-full-features-for-mac/"><u>[New] 2024 Approved Complete Examination ScreenFlow Full Features for Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-youtube-screen-recording/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Screen Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>[New] Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-worldwide-rankings-top-10-youtube-influencers-by-subscription-counts/"><u>[Updated] Worldwide Rankings Top 10 YouTube Influencers by Subscription Counts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-million-viewer-milestones-youtubes-pay-structure/"><u>2024 Approved Million-Viewer Milestones YouTube's Pay Structure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862734166-best-buy-unveils-new-release-date-for-innovative-ryzen-ai-300-laptops-order-starting-june-28/"><u>Best Buy Unveils New Release Date for Innovative Ryzen AI 300 Laptops - Order Starting June 28!</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-techniques-to-run-task-manager-admin-style-on-windows-11/"><u>Command Prompt Techniques to Run Task Manager Admin-Style on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/1723005468576-cyberpunk-2077-black-screen-dilemma-top-solutions-revealed/"><u>Cyberpunk 2077 Black Screen Dilemma: Top Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-nearby-networking-solutions-googles-vs-microsofts-method/"><u>Evaluating Nearby Networking Solutions: Google's Vs. Microsoft's Method</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-management-app-snafus-quickly/"><u>Fix Windows Management App Snafus Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-widget-alerts-management/"><u>Mastering Windows 11 Widget Alerts Management</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-b350-toms-oc-driver-download-compatible-with-new-and-old-windows-systems-win11-win7/"><u>MSI B350 TOM'S OC Driver Download: Compatible with New & Old Windows Systems (Win11, Win7)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-windows-11-taskbar-icons-effectively/"><u>Scaling Windows 11 Taskbar Icons Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-8-fb-movie-extraction-tools-for-2024/"><u>Top 8 FB Movie Extraction Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-secrets-to-boosting-windows-11-games-unveiling-the-seven-key-moves/"><u>Top Secrets to Boosting Windows 11 Games: Unveiling the Seven Key Moves</u></a></li>
+<li><a href="https://win11.techidaily.com/unplugged-reactivate-your-windows-wi-fi-with-these-tips-and-tricks/"><u>Unplugged? Reactivate Your Windows Wi-Fi with These Tips and Tricks</u></a></li>
+</ul></div>
 

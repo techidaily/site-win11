@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Download Roadblocks & Hiccups
-date: 2024-11-24T03:54:56.232Z
-updated: 2024-11-27T19:49:40.048Z
+date: 2024-12-02T10:37:29.456Z
+updated: 2024-12-07T01:17:50.491Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 4. Next, click **Settings** on the **General** tab.  
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
@@ -91,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
@@ -109,7 +93,15 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
@@ -117,10 +109,14 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -135,6 +131,11 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 2. Click **Reset settings** in the sidebar.  
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Reset** inside the confirmation prompt.
 
 ## 9\. Factory Reset Window
@@ -153,25 +154,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-non-retweeted-video-tweet-guide-for-iphone-and-android-users/"><u>[New] In 2024, Non-Retweeted Video Tweet Guide for iPhone & Android Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-unlocked-potential-of-new-windows-11/"><u>[Updated] 2024 Approved The Unlocked Potential of New Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-how-to-improve-gopro-battery-life-for-2024/"><u>[Updated] How to Improve GoPro Battery Life for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/1-successfully-streaming-mkv-files-on-xbox-series-xs-a-comprehensive-guide/"><u>1. Successfully Streaming MKV Files on Xbox Series X|S: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-influencer-tip-crafting-irresistible-templated-content-in-youtube-descriptions/"><u>2024 Approved Influencer Tip Crafting Irresistible Templated Content in YouTube Descriptions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-lightweight-laptop-analysis-how-the-lg-gram-17-balances-power-with-portability/"><u>Cutting-Edge Lightweight Laptop Analysis: How the LG Gram 17 Balances Power with Portability</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-11-proplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme 11 Pro+ Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-google-pixel-7a-screen-sharing-drfone-by-drfone-android/"><u>How To Do Google Pixel 7a Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-youtube-partnership-a-comprehensive-guide-for-video-creators-for-2024/"><u>Securing YouTube Partnership A Comprehensive Guide for Video Creators for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-asfmp4-conversion-tools-speeding-up-file-format-switching-with-best-practices/"><u>Ultimate ASF/MP4 Conversion Tools: Speeding Up File Format Switching with Best Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-acquiring-1440p-video-streams-from-youtube/"><u>Ultimate Techniques for Securely Acquiring 1440P Video Streams From YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/watch-on-the-go-how-to-effortlessly-save-movies-tv-episodes-and-songs-for-offline-enjoyment/"><u>Watch On the Go: How to Effortlessly Save Movies, TV Episodes & Songs for Offline Enjoyment</u></a></li>
-<li><a href="https://win11.techidaily.com/wma-to-mp3-or-other-formats-the-easy-free-way-of-converting-your-music-without-spending-a-dime/"><u>WMA to MP3 or Other Formats - The Easy, FREE Way of Converting Your Music Without Spending a Dime</u></a></li>
-<li><a href="https://win11.techidaily.com/youtube-live-screen-recording-techniques-ideal-privacy-tips/"><u>YouTube Live Screen Recording Techniques - Ideal Privacy Tips</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +161,25 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-toolwiz-photosapp-for-photographers-for-2024/"><u>[New] The Ultimate Guide to Toolwiz PhotosApp for Photographers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gigglegrid-create-social-media-laughs-in-seconds/"><u>[Updated] GiggleGrid Create Social Media Laughs in Seconds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-distort-text-in-photographyvideo/"><u>[Updated] How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>2024 Approved Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-perfect-guide-youtube-videos-on-instagram-feed/"><u>2024 Approved Perfect Guide YouTube Videos on Instagram Feed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepwise-guide-to-launching-and-managing-a-live-broadcast/"><u>2024 Approved Stepwise Guide to Launching and Managing a Live Broadcast</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-windows-error-code-0x80040610-a-detailed-breakdown/"><u>Conquering Windows Error Code 0X80040610: A Detailed Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cpu-management-in-modern-hosts/"><u>Mastering CPU Management in Modern Hosts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-usb-regulation-in-windows-environment/"><u>Mastering USB Regulation in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-complexities-of-disabling-non-critical-windows-11-services/"><u>Navigating the Complexities of Disabling Non-Critical Windows 11 Services</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-onedrive-login-issues-in-windows/"><u>Overcoming Common OneDrive Login Issues in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premiere-pros-best-practices-free-template-samples/"><u>Premiere Pro's Best Practices FREE Template Samples</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-to-address-compatibility-issues-on-windows-xp/"><u>Quick Remedies to Address Compatibility Issues on Windows XP.</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-chrono-errors-in-chrome-for-windows-users/"><u>Rectifying Chrono-Errors in Chrome for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-minimum-hardware-requirements-with-intel-error-correction/"><u>Rectifying Minimum Hardware Requirements with Intel Error Correction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-creative-potential-installing-windows-movie-maker-on-w11-for-2024/"><u>Unlocking Creative Potential Installing Windows Movie Maker on W11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-of-iphone-podcast-integration/"><u>Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+</ul></div>
+

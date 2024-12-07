@@ -1,7 +1,7 @@
 ---
 title: "Regain Command: Function Keys' Restoration in Win10"
-date: 2024-09-05T08:34:42.020Z
-updated: 2024-09-06T08:34:42.020Z
+date: 2024-12-05T20:06:52.346Z
+updated: 2024-12-07T11:58:19.674Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win10 Keyboard Fix,Key Focus Recovery,Control Panel Rehab,Windows Key 
 thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cca9a229e16ca142428daa51f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Regain Command: Function Keys' Restoration in Win10
 
  The Function keys give you a faster and easier way to control several hardware features. Using the Fn keys you can adjust the screen brightness, control the speaker volume, or turn on and off airplane mode, among many functions.
@@ -34,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  Then, try to use one of the Function keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -43,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 1. Disconnect and reconnect the keyboard.
 2. For a Bluetooth keyboard, remove the battery, wait a few minutes, and reconnect it.
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
 
@@ -55,11 +57,13 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -71,18 +75,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Filter Keys
 
  In Windows, the Filter Keys feature is designed to stop repeated keystrokes. However, disabling it might have a positive impact on the Fn keys' functionality.
@@ -90,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Keyboards Drivers
 
  There is a chance the Fn keys stopped working because of an outdated, damaged, or corrupted driver. In this case, updating the keyboard driver should fix the problem.
@@ -118,12 +108,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, restart your computer and check if the problem is now fixed.
 
 ## Bring Back the Convenience of Fn Keys
@@ -134,11 +118,25 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-digital-dynamo-recording-on-a-mac/"><u>[Updated] In 2024, Digital Dynamo Recording on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-connections-the-premier-selection-of-cablewireless-routers-for-2amoons/"><u>Advanced Connections: The Premier Selection of Cable/Wireless Routers for 2Amoons</u></a></li>
+<li><a href="https://win11.techidaily.com/design-your-ideal-screen-ordering-crafting-snaps-with-powertoys/"><u>Design Your Ideal Screen Ordering: Crafting Snaps with PowerToys</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-netflix-streaming-hiccups-get-your-favorite-shows-playing-smoothly-again/"><u>Easy Fixes for Netflix Streaming Hiccups – Get Your Favorite Shows Playing Smoothly Again!</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-virtualbox-usb-connection-snags-a-practical-guide-for-windows-users/"><u>Eliminate VirtualBox USB Connection Snags: A Practical Guide for Windows Users</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pcandroid-tutorial-successful-facebook-video-sharing/"><u>In 2024, PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-visuals-5-best-windows-pc-time-themed-screen-saver-creation-apps/"><u>Optimize Visuals: 5 Best Windows PC Time-Themed Screen Saver Creation Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-correcting-isdonedll-errors-windows-wise/"><u>Preventing and Correcting ISDone.dll Errors Windows-Wise</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-9-perks-of-the-updated-windows-outlook/"><u>Unveiling 9 Perks of the Updated Windows Outlook</u></a></li>
+</ul></div>
+

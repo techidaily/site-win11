@@ -1,7 +1,7 @@
 ---
 title: Preserve Personal Files While Extending Windows Storage
-date: 2024-09-05T08:36:38.062Z
-updated: 2024-09-06T08:36:38.062Z
+date: 2024-12-01T20:29:13.507Z
+updated: 2024-12-07T02:28:36.667Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: File Preservation Tips,Extend Windows Space,Data Safety in Windows,Opt
 thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preserve Personal Files While Extending Windows Storage
 
  If one of the volumes on your Windows computer is full, you always have the option to extend it to give it more storage space. However, this can be impossible if the option to extend said volume is grayed out in Disk Management.
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Is the Extend Volume Option Grayed Out?
 
@@ -49,42 +47,26 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 ![Opening the Computer Management Tool using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Opening-the-Computer-Management-Tool-using-the-Run-command-dialog-box.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the **Storage** section of the left panel, select **Disk Management**.
 
 ![the Disk Management section of Computer Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-disk-management-section-of-computer-management-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the right panel, right-click the volume you want to shrink and select **Shrink Volume**.
 
 ![selecting the option to shrink a volume in Disk Management on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-the-option-to-shrink-volume-in-disk-management-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Enter the amount of space you want to shrink (keeping in mind that you cannot exceed the amount that is available to shrink) and then click on **Shrink**.
 
 ![the dialog box to shrink a volume on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/dialog-box-shrink-volume-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It will take a few seconds to shrink the volume, but when it's done, you should have some unallocated space. Now, check to see if the option is available when you right-click the volume you want to extend.
 
 ## 2\. Delete the Recovery Partition
@@ -108,11 +90,9 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ![selecting a disk in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/selecting-a-disk-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So, if you want to select disk drive #1, you'd run the below command:
 
 `select disk 1`
@@ -140,11 +120,9 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ![resizing a volume in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/resize-volume-in-magic-partition-resizer-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the **Volume size** text box, enter how much you want to shrink the volume by and then click on **OK**.
 
 ![choosing how much of the volume to resize in Magic Partition Resizer on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choosing-how-much-of-the-volume-to-resize-in-magic-partition-resizer-on-windows.jpg)
@@ -157,11 +135,31 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
  Here's how you can fix that issue and bring back the grayed-out "Extend Volume" option without erasing your precious data.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[New] In 2024, Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-inviolable-tactic-to-eliminate-youtube-shorts/"><u>[New] Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlimited-audio-processing-at-zero-cost/"><u>[Updated] In 2024, Unlimited Audio Processing at Zero Cost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/become-a-streaming-sensation-on-twitter-platform-for-2024/"><u>Become a Streaming Sensation on Twitter Platform for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/complete-guide-to-video-studios-focusing-on-xvideo/"><u>Complete Guide to Video Studios Focusing on XVideo</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-pin-based-login-barriers-in-win10win11/"><u>Conquering Pin-Based Login Barriers in Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-recovering-from-faulty-asana-use-in-windows/"><u>Essential Guide to Recovering From Faulty Asana Use in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reconnect-with-missing-copilot-on-ws11-pcs/"><u>How To Reconnect With Missing Copilot On WS11 PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-magnify-memories-unaltered-resolution/"><u>In 2024, Magnify Memories Unaltered Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-software-compatibility-tool/"><u>Navigating Windows 11’S Software Compatibility Tool</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/premiere-ready-text-configurations/"><u>Premiere-Ready Text Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-classic-games-enhancing-imagery-via-retroshaders/"><u>Rediscover Classic Games: Enhancing Imagery via RetroShaders</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-deleting-run-session-logs/"><u>Solutions for Deleting Run Session Logs</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-overcoming-win11s-tpmsecure-boot-restrictions/"><u>Techniques for Overcoming Win11's TPM/Secure Boot Restrictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-screen-record-or-screenshot-on-ps4/"><u>Ultimate Tutorial: How to Screen Record or Screenshot on PS4</u></a></li>
+<li><a href="https://win11.techidaily.com/unclutter-desktop-techniques-for-window-arrangement-in-win11/"><u>Unclutter Desktop: Techniques for Window Arrangement in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-chatbot-simulation-localize-for-free-with-gpt4all/"><u>Windows ChatBot Simulation: Localize for Free with GPT4All.</u></a></li>
+</ul></div>
+

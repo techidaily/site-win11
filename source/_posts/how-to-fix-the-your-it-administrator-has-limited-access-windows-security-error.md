@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Your IT Administrator Has Limited Access” Windows Security Error
-date: 2024-11-23T19:25:32.335Z
-updated: 2024-11-27T20:21:24.377Z
+date: 2024-12-03T03:29:35.764Z
+updated: 2024-12-07T11:00:29.857Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Change Your User Account to an Admin Account
 
  You shouldn’t usually need admin rights to access Windows Security. However, make sure you’re signed in to an admin account to ensure you have full system permissions. If you’re utilizing a standard account, change it to an administrator one. You can do that with one of the methods outlined in this guide to[changing user account type in Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) .
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove Any Work or School Accounts
 
@@ -65,30 +65,31 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 ![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click**Allow antimalware to startup with normal priority** and select to disable that policy as outlined in the previous two steps as well.  
 ![The Allow antimalware service to startup with normal priority window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-antimalware-service-window.jpg)
 6. Next, click**Client Interface** within the Microsoft Defender Antivirus settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
 7. Double-click the**Enable headless UI mode** policy to view it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
 
@@ -103,11 +104,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair/Reset Windows Security
@@ -119,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Modify the Registry via Command Prompt
@@ -160,6 +157,10 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-resotre-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 ## Start Utilizing Windows Security Again
@@ -181,19 +182,20 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/omprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>[New] Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-visualtwitter-quickly-download-and-share-videos-on-mobile/"><u>[New] VisualTwitter Quickly Download and Share Videos on Mobile</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-apex-athletes-snowspeedcross-22-recaps-for-2024/"><u>[Updated] Apex Athletes Snowspeedcross '22 Recaps for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-audio-recording-solutions-for-educators-using-apple-products/"><u>2024 Approved Audio Recording Solutions for Educators Using Apple Products</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>2024 Approved SRT Conversion Made Simple XML, SSA, TTML, and More</u></a></li>
-<li><a href="https://win11.techidaily.com/command-line-connections-utilizing-wsl-in-windows/"><u>Command Line Connections: Utilizing WSL in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/from-old-to-new-a-windows-11-reboot-strategy/"><u>From Old to New: A Windows 11 Reboot Strategy</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-huawei-p60-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Huawei P60 Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-edge-of-power-management-max-and-min-states/"><u>Leading Edge of Power Management: Max & Min States</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-guide-initiating-sticky-note-windows-session/"><u>Quick Access Guide: Initiating Sticky Note Windows Session</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-11-notification-management/"><u>Streamlining Windows 11 Notification Management</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-fix-grouped-desktop-icon-issues/"><u>Tactics to Fix Grouped Desktop Icon Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-microsofts-leading-ios-apps-for-professionals/"><u>Ultimate List of Microsoft's Leading iOS Apps for Professionals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-techniques-to-halt-live-streams-in-qt-player/"><u>[New] In 2024, Techniques to Halt Live Streams in QT Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/career-evolution-generative-ais-role-in-changing-job-dynamics/"><u>Career Evolution: Generative AI's Role in Changing Job Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-nonessential-services-a-guide-to-safer-windows-11-management/"><u>Disabling Nonessential Services: A Guide to Safer Windows 11 Management</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-clear-voice-capture-in-win-pcs/"><u>Ensuring Clear Voice Capture in Win PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-form-funny-meme-tools-on-a-shoestring-budget/"><u>Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-recover-when-your-hard-drive-disappears-discover-two-quick-solutions/"><u>How to Recover When Your Hard Drive Disappears? Discover Two Quick Solutions!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-9a-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 9A Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-pop-8-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Pop 8 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/last-snapshot-exploring-windows-latest-files/"><u>Last Snapshot: Exploring Windows' Latest Files</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-custom-screensavers-in-win11/"><u>Mastering Custom Screensavers in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/sniplink-trouble-quick-fixes-for-a-smooth-experience/"><u>SnipLink Trouble? Quick Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-top-animation-software-for-all-users-for-2024/"><u>Updated The Best of the Best Top Animation Software for All Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-unveiled-mastering-the-art-of-folder-tabbing/"><u>Windows 11 Unveiled: Mastering the Art of Folder Tabbing</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-evolution-slowly-adopted-heres-why/"><u>Windows Evolution Slowly Adopted – Here's Why</u></a></li>
 </ul></div>
 

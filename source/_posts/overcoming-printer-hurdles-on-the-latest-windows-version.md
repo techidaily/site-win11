@@ -1,7 +1,7 @@
 ---
 title: Overcoming Printer Hurdles on the Latest Windows Version
-date: 2024-09-05T08:40:08.365Z
-updated: 2024-09-06T08:40:08.365Z
+date: 2024-11-30T21:48:44.990Z
+updated: 2024-12-07T09:19:58.996Z
 tags:
   - windows10
   - windows11
@@ -36,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  If none of the aforementioned basic checks and fixes resolves the issue, you can start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Printer Troubleshooter
 
  Start investigating the problem by running the Printer troubleshooter. It's a built-in utility in Windows that helps users diagnose issues with their printers and provides suggestions for fixing them.
@@ -52,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  After that, follow the on-screen instructions to assist the troubleshooter in diagnosing the printer's problem. If there are any software issues impeding your printing process, the troubleshooter will likely show you how to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update the Relevant Drivers
 
  Running the troubleshooter should be your go-to step whenever an error or issue arises. However, it is highly rare for it to diagnose, let alone solve, the problem. For this reason, your next reasonable step should be to check for driver updates and ensure the drivers are up-to-date. Here's how to go about it:
@@ -77,18 +65,6 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 4. Go to the[DriverPack database](https://driverpack.io/en/catalog) .
 5. Paste the copied value in the search box, download a suitable driver and then install it.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restart the Print Spooler Service
 
  If updating the printer drivers does not fix the problem, you should check whether the print spooler service is running. The printer spooler service handles your operating system's interactions with the printer. If this service is turned off, or its files get corrupted, your device may not even detect the printer.
@@ -114,22 +90,23 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 3. Under the**Printers** panel, right-click on your PDF printer and select**Set as default.**  
 ![devices and printers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/devices-and-printers.jpg)
 4. Then, head over to**Properties > Ports** .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Scroll through the list and select the port type that matches your connection.
 6. Select**Configure Port > Apply > OK** .  
 ![different ports in printer properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/printer-properties-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable the Windows Defender Firewall
 
  If your problem is still not solved the most probable culprit could be the Windows Defender firewall. It's possible that your firewall has been configured too strictly, preventing the printer from interacting properly. So, turning off the firewall could fix the probem.
@@ -137,11 +114,9 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
  If you have never disabled the firewall before, check out our guide on[how to temporarily disable the Microsoft Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check for New Windows Updates
 
  Windows releases updates periodically to fix existing bugs within the operating system. If you keep the updates paused or don't let them install on time, you're likely to run into unforeseen issues. To ensure that's not the case, see if there is a new update available. If there is, you should install it immediately.
@@ -153,13 +128,11 @@ Here's how you can check that:
 3. Click on**Check for Updates** .  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows will automatically search for updates, and if any new version is available, it will be installed, thus resolving your printer error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Remove Your Last Windows 11 Update
 
@@ -168,21 +141,13 @@ Here's how you can check that:
 ![two boxes highlighting Windows Update and Update history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-update-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For this, head over to**Settings > Windows Update > Update history.** Here, scroll down and go to**Uninstall updates** located under**Related settings** . This action will prompt open a list of Windows updates where you must select the latest one and click on**Uninstall** .
 
  If the latest Windows 11 update was the culprit, reversing it should do the trick and kickstart the printer once again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Run System Restore
 
  If the problem began as soon as you upgraded to Windows 11, and you've exhausted all other alternatives, there's one final solution–the Windows System Restore. Using this method restores Windows to a previous restore point where you know your printer was functional without any error.
@@ -202,17 +167,9 @@ To go back to a restore point:
  Your PC will restart while it resets your Windows 11 to its last restore point.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Printer’s Fixed and Running—What’s Next?
 
  Whether the printer’s malfunctioning due to troubles with your operating system or general hardware issues, it can be a frustrating experience. But hopefully, now that your printer is up and running smoothly again with the aid of these fixes mentioned above. Feel free to delve into how you can make the most of your home and office printers.
@@ -223,8 +180,6 @@ To go back to a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +187,19 @@ To go back to a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-list-recording-digital-tv-programming/"><u>[Updated] The Ultimate List Recording Digital TV Programming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-method-for-permanent-bio-link-integration-in-tiktok/"><u>[Updated] Unbeatable Method for Permanent Bio-Link Integration in TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-a-funny-meme/"><u>2024 Approved How To Create A Funny Meme</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-keyboard-hotkeys/"><u>Disabling Unwanted Edge Keyboard Hotkeys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-the-creators-of-chatgpt-an-in-depth-look/"><u>Identifying the Creators of ChatGPT: An In-Depth Look</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>In 2024, The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-creative-ai-solutions-for-podcast-names-online/"><u>In 2024, Top 10 Creative AI Solutions for Podcast Names Online</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-6-techniques-for-extracting-file-and-folder-paths-in-windows-11/"><u>Navigating: 6 Techniques for Extracting File & Folder Paths in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/outlook-races-against-time-win-tricks-to-speed-up/"><u>Outlook Races Against Time: WIN Tricks to Speed Up</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-microsoft-words-audio-readback-function/"><u>Reinstating Microsoft Word's Audio Readback Function</u></a></li>
+</ul></div>
 

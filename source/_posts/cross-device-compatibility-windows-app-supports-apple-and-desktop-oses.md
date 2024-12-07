@@ -1,7 +1,7 @@
 ---
 title: "Cross-Device Compatibility: Windows App Supports Apple and Desktop OSes"
-date: 2024-09-05T08:38:03.959Z
-updated: 2024-09-06T08:38:03.959Z
+date: 2024-12-03T01:56:55.616Z
+updated: 2024-12-07T00:16:36.595Z
 tags:
   - windows10
   - windows11
@@ -14,26 +14,12 @@ keywords: Cross-Device Support,Windows App Integration,Windows & iOS Compatibili
 thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11def92a26e974e1428f77307f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cross-Device Compatibility: Windows App Supports Apple and Desktop OSes
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft has announced a new Windows App that allows users to connect to Windows 365, Azure Virtual Desktop, and remote PCs from any device with an internet connection.
@@ -43,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
  At the Ignite 2023 event, Microsoft announced the Windows App for the iPhone, iPad, Mac, and PC. The simply named app allows users to connect to Windows 365, Azure Virtual Desktop, Microsoft Dev Box, and remote PCs from anywhere with an internet connection. The app is now available for Public Preview.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Is Now a Remote Desktop App for Other Devices
 
 ![Windows App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-app-overview.png)
@@ -65,11 +43,9 @@ Image: [Microsoft](https://learn.microsoft.com/en-us/windows-app/overview)
  The Windows App is available in Preview for Windows, macOS, iOS and iPadOS, and web browsers. Before leaving Preview, the app may undergo several changes to become a better version of itself and serve the users better. At the time of writing, the app is not available on Android, but that might change in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the Windows App to Connect to a Remote Windows System
 
  Microsoft specified the operating systems you can run the Windows App on. But since you can open it through a web browser, you can open the Windows App from anywhere, as long as the device can run a modern web browser.
@@ -79,34 +55,22 @@ Image: [Microsoft](https://learn.microsoft.com/en-us/windows-app/overview)
 ![Microsoft-Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After installing the app on your device, the first action is to sign in to the app using your work, school, or personal account. It's important to note that you should use the account associated with all the virtual PCs you want to access.
 
  You don't have to install any other software. But no matter what device you use, the Windows App allows you to take advantage of the peripherals and features on the local device. For instance, you can use multiple monitors, webcam, audio, storage devices, and printer connections with the remote Windows system. The app also supports custom display resolutions, dynamic display resolutions, and scaling.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Getting Started With the Windows App
 
  Working on a virtual Windows OS from anywhere is a natural development for a mobile workforce. The Windows App can become something better than a remote desktop connection when you can access Microsoft's powerful tools and platforms via the cloud.
 
  At the Ignite 2023 event, Microsoft announced the Windows App for the iPhone, iPad, Mac, and PC. The simply named app allows users to connect to Windows 365, Azure Virtual Desktop, Microsoft Dev Box, and remote PCs from anywhere with an internet connection. The app is now available for Public Preview.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +78,27 @@ Image: [Microsoft](https://learn.microsoft.com/en-us/windows-app/overview)
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capture-professional-quality-with-complimentary-and-subscription-luts/"><u>[New] In 2024, Capture Professional Quality with Complimentary & Subscription LUTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-pioneers-guide-to-vr-terminology/"><u>[Updated] In 2024, The Pioneer's Guide to VR Terminology</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/answers-to-your-data-sanitization-questions-expert-articles-and-techniques/"><u>Answers to Your Data Sanitization Questions: Expert Articles & Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-imitate-macos-window-styling-on-your-windows-pc/"><u>Effortlessly Imitate macOS Window Styling on Your Windows PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emerging-ai-trends-reshaping-job-dynamics/"><u>Emerging AI Trends: Reshaping Job Dynamics</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-impact-and-purpose-of-runtime-brokers-on-pcs/"><u>Exploring the Impact and Purpose of Runtime Brokers on PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-clearing-up-confusion-a-guide-to-understanding-youtube-strikes/"><u>In 2024, Clearing Up Confusion A Guide to Understanding YouTube Strikes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win11.techidaily.com/lighten-system-burden-reducing-high-usage-from-interests-apps/"><u>Lighten System Burden: Reducing High Usage From Interests Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/microsofts-redesigned-print-functionality-in-windows-11-an-in-depth-look/"><u>Microsoft's Redesigned Print Functionality in Windows 11: An In-Depth Look</u></a></li>
+<li><a href="https://win11.techidaily.com/multidisplay-configuration-tips-for-windows-11-users/"><u>Multidisplay Configuration Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-restoring-windows-11s-search-habits/"><u>Quick Steps for Restoring Windows 11'S Search Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-a-mobile-hotspot-on-your-pc-a-quick-guide-to-win-11/"><u>Setting Up a Mobile Hotspot on Your PC: A Quick Guide to Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-dual-camera-usage-in-competing-software/"><u>Stopping Dual Camera Usage in Competing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/tying-your-systems-together-winpc-galaxy-interconnection/"><u>Tying Your Systems Together - WinPC, Galaxy Interconnection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-asana-actions-for-fixing-windows-issues/"><u>Unblocking Asana: Actions for Fixing Windows Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-your-chatgpt-access-top-4-causes-of-bans-and-solutions/"><u>Unlocking Your ChatGPT Access: Top 4 Causes of Bans and Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-and-11-merging-files-with-ease-and-precision/"><u>Win 10 & 11: Merging Files with Ease and Precision</u></a></li>
+</ul></div>
+

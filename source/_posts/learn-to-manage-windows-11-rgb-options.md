@@ -1,7 +1,7 @@
 ---
 title: Learn to Manage Windows 11 RGB Options
-date: 2024-11-25T20:44:46.829Z
-updated: 2024-11-28T02:27:18.966Z
+date: 2024-12-03T20:43:00.437Z
+updated: 2024-12-07T06:33:34.372Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do You Really Need RGB Lighting Controls on Windows?
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable RGB Lighting Controls in Windows 11
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Change to the Insider Build
 
@@ -70,22 +70,23 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 6. Type**exit** in the Command Prompt window to close it. Restart your system to apply changes made by the ViVeTool.  
 ![Enabling RGB Lighting Using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabling-rgb-lighting-using-vivetool.jpg)
 7. Once you boot to the Desktop, press**Win + I** to launch the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click on the**Personalization** option in the left-hand side menu.  
 ![RGB Lighting Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-1.jpg)
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control All Your RGB Peripherals in One Place
@@ -107,17 +108,16 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup-for-2024/"><u>[New] Steps to Eliminate the OBS Blank Screens in Gaming Setup for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-most-immersive-iphone-vr-games-ever/"><u>[New] The Most Immersive iPhone VR Games Ever</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-chortlechamber-personalize-everyday-humor-online/"><u>2024 Approved ChortleChamber Personalize Everyday Humor Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-trick-elevate-your-mac-mini-to-studio-status-for-just-75-cnet-gadgets/"><u>Budget-Friendly Trick: Elevate Your Mac Mini to Studio Status for Just $75! | CNET Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/screensnapper-showdown-for-2024/"><u>ScreenSnapper Showdown for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-trailblazers-reshuffle-as-samsungs-galaxy-ai-rises-challenging-google-after-antitrust-verdict-in-the-innovation-league-table-zdnet-insights/"><u>Tech Trailblazers Reshuffle as Samsung's Galaxy AI Rises, Challenging Google After Antitrust Verdict in the Innovation League Table | ZDNET Insights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-economical-choice-of-noise-cancelled-headphones-life-q30-focus/"><u>The Economical Choice of Noise-Cancelled Headphones - Life Q30 Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-your-music-collection-into-ogg-format-at-no-cost-a-simple-guide-on-mp3-to-ogg-transformation/"><u>Turn Your Music Collection Into Ogg Format at No Cost: A Simple Guide on MP3-to-Ogg Transformation</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-8-screen-recorder-apps-compatible-with-mac-and-windows-pc-top-picks-for-easy-recording/"><u>Ultimate 8 Screen Recorder Apps Compatible with Mac & Windows PC: Top Picks for Easy Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-top-7-excellent-choices-instead-of-kodi/"><u>Ultimate Guide: Top 7 Excellent Choices Instead of Kodi</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-top-dvd-ripper-tools-for-seamless-plex-media-server-integration/"><u>Ultimate Guide: Top DVD Ripper Tools for Seamless Plex Media Server Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-tutorial-for-implementing-the-black-lightning-extension-in-kodi-versions-19-and-18/"><u>Ultimate Tutorial for Implementing the Black Lightning Extension in Kodi Versions 19 & 18</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pinnacle-playwriting-sanctuary/"><u>[New] 2024 Approved Pinnacle Playwriting Sanctuary</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-free-skype-mp3-logger-101-guide-for-2024/"><u>[New] Free Skype Mp3 Logger 101 Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategic-use-of-hashtags-in-gaming-vlog-production/"><u>[New] Strategic Use of Hashtags in Gaming Vlog Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-gopro-timelapses-top-editing-techniques/"><u>2024 Approved Mastering GoPro Timelapses Top Editing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-screen-shutter-essentials/"><u>Decoding Windows Screen Shutter Essentials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-amplify-your-sounds-mac-studio-guide/"><u>In 2024, Amplify Your Sounds Mac Studio Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mp3-player-unboxing-agpteks-beginner-model/"><u>MP3 Player Unboxing: AGPTEK's Beginner Model</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-for-home-interface/"><u>Navigating Windows 11 for Home Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-account-restrictions-quickly/"><u>Overcoming Windows Account Restrictions Quickly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-finest-6-destinations-for-finding-quality-computing-devices/"><u>The Finest 6 Destinations for Finding Quality Computing Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-controlling-cpu-cooling-in-win10win11/"><u>Understanding and Controlling CPU Cooling in Win10/Win11</u></a></li>
 </ul></div>
 

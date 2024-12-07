@@ -1,7 +1,7 @@
 ---
 title: Harness Free Note Tools on Windows 11
-date: 2024-09-05T08:33:32.202Z
-updated: 2024-09-06T08:33:32.202Z
+date: 2024-12-03T00:17:59.968Z
+updated: 2024-12-07T03:14:45.498Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Free Notes Win11,NoteTools Win11,Notebook App Windows,Productivity Too
 thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3eb3971cf8c85804bd7c66ed.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Harness Free Note Tools on Windows 11
 
  If you’re looking for a simple and quick way to take notes while working on your PC, you don’t have to download software to write things down. Windows offers some useful note-taking tools to quickly jot things down.
@@ -29,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ## 1\. Use Notepad
 
 ![Windows 11 Notepad in dark mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-notepad-in-dark-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Notepad is a long-term favorite for offline note-taking on your PC. Its simplicity is liked by many, although since the release of Windows 11, Notepad has added some extra features to aid your writing experience. Notepad now offers dark mode support and options to change the font style and size.
 
@@ -47,11 +45,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  To access the app, go to the Start menu and search for “WordPad.” Files can be saved as a plain text file (as used in Notepad) or as a rich text document (.rtf) if you’d like to import your notes into other software.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Try Windows Sticky Notes
 
 ![Windows 11 Colored Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-colored-sticky-notes.jpg)
@@ -65,31 +61,21 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![Memo Notepad note-taking page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memo-notepad-note-taking-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another way you can take notes without downloading software is by using an online note-taking site. [Memo Notepad](https://www.memonotepad.com/) is a simple, no-nonsense note-taking app with minimal but powerful features to aid your writing.
 
  The text interface features key formatting tools, including bold, underlining, and italics. In the "style" tab, you can change the font style and increase the overall text size. The app’s cloud-based technology offers syncing to multiple devices, so you write notes wherever you are.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use Windows Clipboard to Save Snippets of Text
 
 ![Windows clipboard history display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-clipboard-history-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whether you’re multitasking or doing online research, you’ll often come across pieces of information you need to remember. The good news is, using the Windows Clipboard feature, you no longer have to rely on writing things on the back of your hand.
 
  The Windows clipboard is a storage unit to store short pieces of text, even if you restart your machine. There are no prerequisites needed to start using the feature—Windows automatically saves information to the clipboard. Select any text you’d like to save, right-click, and hit **Copy**.
@@ -97,18 +83,14 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  You can access the clipboard at any point by using the shortcut **Ctrl + V**. For the most important pieces of information, you can pin notes by hitting the small pin icon. Now, you no longer have to remember bits of information while browsing online.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Take Notes Easily on Windows 11
 
  Whether you want to remind yourself of small things or take long-from notes, Windows offers many tools to get you started with note-taking. Using these tools, you avoid the effort of downloading and setting up software to write things down. Take notes easily using these simple tips.
 
  If like most people, your memory is not perfect, you can use these tools to remind yourself of important things while working. Here are five easy ways to take notes on Windows 11 without downloading any software.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +98,20 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-ultimate-collection-top-6-fb-lite-vids/"><u>[Updated] Ultimate Collection #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-a79-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo A79 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discovering-why-filmora-captivates-your-heart-for-2024/"><u>Discovering Why Filmora Captivates Your Heart for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-alerts-for-admin-set-security-options/"><u>Fixing Windows Alerts for Admin-Set Security Options</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-win11-without-an-online-connection/"><u>Guide to Win11 Without an Online Connection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-itel-p55-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Itel P55 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-rufus-to-bypass-tpm-and-secure-boot-requirements-in-windows-11/"><u>How to Use Rufus to Bypass TPM and Secure Boot Requirements in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 4Gwith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-monitor-clarity-on-windows-11/"><u>Redefining Monitor Clarity on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-excelentes-enhancer-de-video-con-inteligencia-artificial-opciones-libres-y-sin-coste-para-pc-y-mac/"><u>Top 10 Excelentes Enhancer De Vídeo Con Inteligencia Artificial: Opciones Libres Y Sin Coste Para PC Y Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/whats-your-potential-income-from-youtube-sponsored-videos-in-2024/"><u>What's Your Potential Income From YouTube Sponsored Videos, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-unrave-written-steps-and-strategies-126-chars-exceeds-limit-adjusted-to-fit-better-steps-for-clearing-windows-arp/"><u>Windows ARP Cache Unrave Written: Steps & Strategies (126 Chars, Exceeds Limit, Adjusted to Fit Better: Steps for Clearing Windows ARP</u></a></li>
+</ul></div>
+

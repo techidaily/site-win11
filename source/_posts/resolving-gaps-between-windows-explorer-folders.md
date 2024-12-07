@@ -1,7 +1,7 @@
 ---
 title: Resolving Gaps Between Windows Explorer Folders
-date: 2024-09-05T08:35:35.969Z
-updated: 2024-09-06T08:35:35.969Z
+date: 2024-12-01T23:37:12.695Z
+updated: 2024-12-07T03:22:01.045Z
 tags:
   - windows10
   - windows11
@@ -23,17 +23,9 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  If File Explorer keeps opening a new window for every folder you access, you can use the tips below to troubleshoot the problem.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Update to Windows 11 22H2
 
  To get File Explorer tabs on your computer, you must run the Windows 11 22H2 version. So, if you’ve somehow missed the latest update, here’s how you can update to Windows 11 22H2:
@@ -45,19 +37,15 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart File Explorer
 
  Tabs might be missing from Windows File Explorer due to a temporary glitch. If there are other File Explorer features that are acting up, you should restart it.
@@ -66,20 +54,12 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
 ![Restart File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-file-explorer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Remove File Explorer Cache
 
  Every app on your computer stores cache files to improve overall performance. But if there are too many cache files or these files get corrupted, you’ll experience all sorts of issues, including tabs missing from File Explorer.
@@ -119,25 +99,20 @@ Follow these steps to clear File Explorer cache files:
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your File Explorer Tabs Back on Windows 11
 
  The File Explorer tabs were long overdue, so there’s no reason to wait for even more before you can use them. Hopefully, one of the methods above helped you fix the problem, and you can easily browse through multiple folders.
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +121,26 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-new-horizons-windows-11s-latest-advances/"><u>[New] 2024 Approved New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-viral-potential-the-key-to-popularizing-your-videos/"><u>[New] In 2024, Mastering Viral Potential The Key to Popularizing Your Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exploring-isprings-screencap-capabilities/"><u>[Updated] 2024 Approved Exploring iSpring's Screencap Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-key-techniques-for-capturing-youtube-streaming-content/"><u>[Updated] 2024 Approved Key Techniques for Capturing YouTube Streaming Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-instagrams-video-landscape-a-detailed-look/"><u>[Updated] 2024 Approved Navigating Instagram's Video Landscape A Detailed Look</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-round-corners-on-windows-11/"><u>Disabling Round Corners on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-focus-positioning-reminders-on-windows-desktop/"><u>Enhance Focus: Positioning Reminders on Windows Desktop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-tactics-for-dramatizing-success-stories-through-testimonials-for-2024/"><u>Essential Tactics for Dramatizing Success Stories Through Testimonials for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/holiday-happiness-with-free-windows-store-gadgets/"><u>Holiday Happiness with Free Windows Store Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-your-it-administrator-has-limited-access-windows-security-error/"><u>How to Fix the “Your IT Administrator Has Limited Access” Windows Security Error</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide/"><u>In 2024, How to Blur Background in Zoom with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-itel-p55plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Itel P55+ to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/protocol-for-activating-copy-and-paste-features-in-edges-security-mode-w11/"><u>Protocol for Activating Copy & Paste Features in Edge's Security Mode W11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x80072af9-windows-error-explained/"><u>Resolving 0X80072AF9 Windows Error Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installed-package-access-issues-in-win11win10-os/"><u>Resolving Installed Package Access Issues in Win11/Win10 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-privileged-requirement-not-met-in-windows-1110-error-code-0x80070522/"><u>Resolving Privileged Requirement Not Met in Windows 11/10: Error Code 0X80070522</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-resolving-file-access-denied-in-windows/"><u>Tips for Resolving File 'Access Denied' In Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Gionee F3 Pro | Dr.fone</u></a></li>
+</ul></div>
 
