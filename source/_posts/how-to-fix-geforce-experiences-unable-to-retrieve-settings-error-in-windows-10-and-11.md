@@ -1,7 +1,7 @@
 ---
 title: How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 10 & 11
-date: 2024-12-01T22:41:51.220Z
-updated: 2024-12-07T06:24:55.023Z
+date: 2024-12-08T01:38:38.059Z
+updated: 2024-12-13T10:11:24.868Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,14 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If that works, set GeForce Experience to always run with elevated user rights. Then you won’t need to select the **Run as administrator** option all the time. Our guide for [always running apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set software packages to start with elevated permissions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Remove Scan Locations
@@ -45,12 +49,17 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 2. Click the **Settings** button by your user account name.  
 ![The Settings menu button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/settings-button.jpg)
 3. Select the **Games & Apps** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select a scan location and click **Remove**. Repeat this step to remove all scan locations shown.  
 ![The Remove button for scan locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-button.jpg)
 5. Press the **Scan Now** button to rescan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Delete the CefCache Folder
@@ -62,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 `C:\Users\<user folder>\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience`  
 ![The CefCache folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cefcache-folder.jpg)
 3. Right-click the **CefCache** folder to select **Delete**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-button.jpg)
 4. Then launch the GeForce Experience software.
 5. Input your GeForce Experience account details again and click **Log In**.
@@ -76,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![The Restore button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restore-button.jpg)
 4. Select **Yes** to reset the settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Delete the Steam User Data
 
  The “Unable to retrieve settings” error can arise for Steam games because of a data conflict with Steam. Players have confirmed erasing data in a Steam userdata subfolder works for fixing this issue. So, that’s a possible resolution recommended for all players who’ve got Steam installed. Clear Steam’s userdata folder like this:
@@ -90,25 +100,21 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ![Steam's userdata folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/userdata-folder.jpg)
 3. Right-click a subfolder that doesn’t have any numbers in its name within the userdata folder and select **Delete**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Repeat the previous step to delete all subfolders in userdata with non-numeric titles like anonymous, etc.
 
 ## 6\. Perform Some Generic Windows Fixes
 
  There are a few Windows-based fixes you can try to get rid of this error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Erase Temporary Windows Data
 
  The Temp folder stores temporary files. GeForce Experience users confirm deleting data in that Temp folder can fix the “Unable to retrieve settings” issue. So, try eradicating data in that folder with one of the methods in our guide to [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/)[in Windows 11](http://www.makeuseof.com/windows-11-delete-temporary-files/).
 
 ![disk-cleanup-tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disk-cleanup-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Latest NVIDIA Driver for Your GPU
 
@@ -124,21 +130,17 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  So, try disabling BitDefender or any other third-party antivirus software to see if that makes a difference. You can disable real-time scanning by right-clicking an antivirus tool in the Windows system tray and selecting to disable or turn it off from the context menu. Select to temporarily disable the antivirus scanning for about an hour or so and then open GeForce Experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall GeForce Experience
 
  Reinstalling GeForce Experience might be a necessary potential fix for the “Unable to retrieve files” error if others fail. That will replace any corrupted GeForce Experience files that could be causing glitches. Remove GeForce Experience with a method in this guide to [uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart the PC before reinstalling GeForce Experience. Then head over to this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) webpage and click **Download Now**. Open the folder your browser usually downloads files to and double-click the GeForce Experience setup wizard. Go through the installer’s steps to reinstall the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize Your Games With GeForce Experience
 
@@ -148,29 +150,6 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 
  Consequently, users can’t select the Optimize option for games that show the “unable to retrieve settings” error. That’s a bit annoying for players seeking optimal gaming performance. This is how you can fix GeForce Experience’s “unable to retrieve settings” error within Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-sound-symphony-for-social-media-stardom-on-insta-reels/"><u>[New] Sound Symphony for Social Media Stardom on Insta Reels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[Updated] Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/motion-vs-youtube-who-earns-more-from-video-content/"><u>Dailymotion vs YouTube Who Earns More From Video Content?</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-0xc000003e-exception-in-pc-startup-procedure/"><u>Decoding the 0XC000003E Exception in PC Startup Procedure</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-error-elimination-for-winscript-issues/"><u>Efficient Error Elimination for WinScript Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-already-in-use-error-streamline-windows-devices-names/"><u>Eliminating 'Already in Use' Error: Streamline Windows Devices Names</u></a></li>
-<li><a href="https://win11.techidaily.com/lock-out-period-customization-in-windows-os/"><u>Lock Out Period Customization in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-c0000022-error-a-step-by-step-approach/"><u>Overcoming the C0000022 Error: A Step-by-Step Approach</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722877981731-photoshop-crashes-fix-scratch-disk-full-mistakes-effortlessly/"><u>Photoshop Crashes? Fix 'Scratch Disk Full' Mistakes Effortlessly!</u></a></li>
-<li><a href="https://fox-making.techidaily.com/recuperacion-gratuita-de-archivos-con-descarga-del-programa-iso-soluciones-para-archivos-eliminados-y-formateados/"><u>Recuperación Gratuita De Archivos Con Descarga Del Programa ISO: Soluciones Para Archivos Eliminados Y Formateados</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-rectifying-windows-camera-save-malfunction/"><u>Steps for Rectifying Windows Camera Save Malfunction</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/topeight-innovative-4k-blu-ray-player-options/"><u>TopEight Innovative 4K Blu-Ray Player Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-media-source-errors-for-games/"><u>Troubleshooting and Resolving Windows Media Source Errors for Games</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-win-pcs-issue-with-non-opening-battlenet/"><u>Troubleshooting: Win PC's Issue with Non-Opening Battle.net</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-11s-network-gateway-configuration/"><u>Understanding Windows 11'S Network Gateway Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-tips-revisiting-retro-gaming-via-my-pictures-haven/"><u>Win11 Tips: Revisiting Retro Gaming via My Pictures Haven</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028056630-windows-1011wav/"><u>Windows 10/11におけるWAVファイルの再生手順とトラブルシューティング</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,3 +157,18 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-alert-sound-pick-optimal-websites/"><u>[New] In 2024, Superior Alert Sound Pick Optimal Websites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-11-gamers-ultimate-playbook-top-5-record-techniques-for-2024/"><u>[Updated] Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-low-cost-video-call-app-selection/"><u>2024 Approved Android's Low Cost Video Call App Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-up-on-the-graphics-winwm-usage-optimization-tips/"><u>Ease Up on the Graphics: WinWM Usage Optimization Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pcs-auditory-experience-with-atmos-technology/"><u>Elevate Your PC's Auditory Experience with Atmos Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-11-potential-with-microsofts-innovative-copilot-key/"><u>Maximizing Windows 11 Potential with Microsoft's Innovative Copilot Key</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimize-chromes-voice-the-best-web-based-vocal-modification-apps-for-2024/"><u>Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-peer-to-peer-power-top-windows-apps/"><u>Unleashing Peer-to-Peer Power: Top Windows Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-real-time-collaboration-via-xbox-zoom-for-2024/"><u>Unlocking Real-Time Collaboration via Xbox Zoom for 2024</u></a></li>
+</ul></div>
+

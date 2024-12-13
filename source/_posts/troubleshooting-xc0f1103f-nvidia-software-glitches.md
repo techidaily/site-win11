@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting XC0F1103F Nvidia Software Glitches
-date: 2024-12-02T12:21:16.618Z
-updated: 2024-12-07T05:45:50.525Z
+date: 2024-12-08T18:11:37.263Z
+updated: 2024-12-12T23:40:16.517Z
 tags:
   - windows10
   - windows11
@@ -25,15 +25,15 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Double-Check That Your PC Matches GeForce Now's System Requirements
 
  If you’re a first-time GeForce Now user, double-check your PC meets the streaming service’s system requirements before troubleshooting. Open the[GeForce Now system requirement page](https://www.nvidia.com/en-gb/geforce-now/system-reqs/) for Windows PCs to check hardware requirements.
 
 ![GeForce Now system requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-now-system-requirements.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can check how your PC’s specs match up by[opening the System Information app](https://www.makeuseof.com/windows-open-system-information/) . The system summary shows most of the essential hardware specs for GeForce Now streaming. You can view GPU details by clicking**Components** \>**Display** in the System Information app.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![The NVIDIA server status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-server-status-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run GeForce Now With Administrator Rights
@@ -56,14 +56,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-as-adminstrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If that works, it’s best to set GeForce Now to always run with elevated rights. You can do that by opening the properties window for the GeForce Now EXE (Application) and selecting the**Run as administrator** checkbox. Check out our guide about[always running apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further details.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select a Power Saving GPU for the GeForce Now App
 
@@ -81,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![Power saving option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/power-saving-option.jpg)
 9. Click**Save** to apply the selected option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update Your Graphics Card’s Driver
 
  Other users have said updating graphics drivers resolved the issue for them. You can update your PC’s graphics driver with third-party driver update software or download it from the NVIDIA, AMD, or Intel manufacturer site. Check out our guide for[updating graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for further details about applying this potential error 0xc0f1103f solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Restart All NVIDIA-Related Services
 
@@ -99,21 +95,17 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![NVIDIA-related-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-services-window.jpg)
 4. Right-click every NVIDIA-related service you can see and select**Restart** . If an NVIDIA service isn’t already running, select the**Start** option for it instead.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Restart option for a NVIDIA service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off Any Active Proxy Servers
 
  Do you have a proxy server on your PC? If so, that could be causing the 0xc0f1103f error by generating a server issue. So, try disabling your proxy server on Windows via Settings or the Control Panel. Our article about[disabling your proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes instructions for how to do so.
 
 ![The Edit proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-proxy-server-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable Any Active VPNs
 
@@ -128,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 5. Then select the**Disconnect** option for the VPN.
 6. Open GeForce Now and try playing some games with the VPN disconnected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall GeForce Now
 
  The GeForce Now app might be corrupted if none of the alternative troubleshooting methods specified here work for you. In this case, you’ll probably need to reinstall the GeForce Now software to resolve such an issue. These are the steps for reinstalling GeForce Experience:
@@ -141,6 +137,11 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 6. Click**Download** for the GeForce Now Windows software.  
 ![The GeForce Now download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/geforce-now-download-option.jpg)  
  Double-click the**GeForce-Now-release.exe** file to open the software’s setup wizard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then go through the setup wizard steps to reinstall GeForce Now.
 
 ## Play GeForce Now Games on Windows Again
@@ -162,24 +163,20 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionary-videography-uncovering-the-top-cameras-of-2024/"><u>[New] Revolutionary Videography Uncovering the Top Cameras of 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dissection-of-fb-video-dimensions-for-2024/"><u>[Updated] Dissection of FB Video Dimensions for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-jumpstart-your-journey-to-tiktok-fame-with-these-hits-for-2024/"><u>[Updated] Jumpstart Your Journey to TikTok Fame with These Hits for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/chromatic-creativity-enhancing-your-craft-for-2024/"><u>Chromatic Creativity Enhancing Your Craft for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-microsofts-commitment-to-long-term-support-of-windows-11/"><u>Decoding Microsoft's Commitment to Long-Term Support of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-memdump-reports-from-blue-screen-errors/"><u>Exploring Memdump Reports From Blue Screen Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laugh-loom-meme-crafter/"><u>In 2024, Laugh Loom Meme Crafter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantaneously-revamp-ati-radeon-hd-4800-drivers/"><u>Instantaneously Revamp: ATI Radeon HD 4800 Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-16-pro-vs-iphone-14-pro-evaluating-if-the-newest-tech-is-a-smart-investment-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Evaluating if the Newest Tech Is a Smart Investment | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-the-same-wallpaper-on-windows-11-always/"><u>Keeping the Same Wallpaper on Windows 11 Always</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209790281-9781071504116-meditacion-mejora-tu-concentracion-con-estas-tecnicas-basicas-de-meditacion/"><u>Meditación. Mejora Tu Concentración Con Estas Técnicas Básicas De Meditación | Free Book</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/perpetual-screen-snapshot-for-2024/"><u>Perpetual Screen Snapshot for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-silenced-pc-audio-sound-restoration-tips/"><u>Reactivate Silenced PC Audio – Sound Restoration Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-smoothing-out-windows-update-problems/"><u>Strategies for Smoothing Out Windows Update Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-the-shadows-of-window-11s-interface/"><u>Uncovering the Shadows of Window 11'S Interface</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-oneplus-8t-revealed-insights-on-pricing-launch-timeline-and-hardware-speculations/"><u>Upcoming OnePlus 8T Revealed? Insights on Pricing, Launch Timeline & Hardware Speculations</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-error-files-without-preview-thumbnails/"><u>Windows 11 Error: Files Without Preview Thumbnails</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-gains-additional-lifespan-with-new-yearly-patches/"><u>Windows 11 Gains Additional Lifespan with New Yearly Patches</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-notes-made-simple-no-software-required/"><u>Windows 11 Notes Made Simple, No Software Required</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-frolicsome-media-repository/"><u>[New] In 2024, Frolicsome Media Repository</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mac-screen-capture-tool-with-sound-support/"><u>[New] In 2024, Mac Screen Capture Tool with Sound Support</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/weep-viewers-off-their-feet-templates-that-work-wonders/"><u>[New] Sweep Viewers Off Their Feet Templates That Work Wonders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-configure-youtube-pip-on-iphone-quickly/"><u>[Updated] Configure YouTube PIP on iPhone Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-smooth-operation-of-file-explorer-on-latest-windows-11/"><u>Ensure Smooth Operation of File Explorer on Latest Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-error-code-0x800f0845-during-update-process/"><u>Handling Error Code: 0X800F0845 During Update Process</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-simultaneously-extract-multiple-zip-files-in-windows/"><u>How to Simultaneously Extract Multiple ZIP Files in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-winos-for-non-gpu-scheduled-workflows/"><u>Optimizing WinOS for Non-GPU Scheduled Workflows</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-workspace-learning-fn-key-management/"><u>Secure Your Workspace: Learning Fn Key Management</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-selecting-a-premium-travel-wireless-router-2024-edition/"><u>The Ultimate Guide to Selecting a Premium Travel Wireless Router - 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-the-eye-disguise-controls-for-stealth-use/"><u>Trick the Eye: Disguise Controls for Stealth Use</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-steps-how-to-resolve-unrecognized-hardware-issues-guidance-by-yl-software/"><u>Troubleshooting Steps: How to Resolve Unrecognized Hardware Issues - Guidance by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-android-studios-full-potential-on-windows-pcs/"><u>Unleash Android Studio's Full Potential on Windows PCs</u></a></li>
 </ul></div>
 

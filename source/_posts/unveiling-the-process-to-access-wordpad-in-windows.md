@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Process to Access WordPad in Windows
-date: 2024-12-04T09:15:21.187Z
-updated: 2024-12-07T02:58:09.960Z
+date: 2024-12-12T07:17:51.631Z
+updated: 2024-12-12T21:45:36.882Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ To open WordPad using the search tool, follow these steps:
 
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Open WordPad via File Explorer
 
  You can also use Windows File Explorer to access some useful programs installed on your Windows PC. To open WordPad using Windows Explorer, follow these steps:
@@ -51,10 +47,6 @@ To open WordPad using the search tool, follow these steps:
 
 The WordPad application will open on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Open WordPad Using the Run Dialog
 
  If you're looking for a quick way to open WordPad on your Windows PC, the Run dialog is the way to go. Here's a step-by-step guide on how to do it:
@@ -62,10 +54,6 @@ The WordPad application will open on your computer.
 1. Press**Win + R** on your keyboard to open the Run dialog.  
 ![Open WordPad Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Run-Command.jpg)
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The WordPad application will now launch.
 
@@ -81,6 +69,11 @@ The WordPad application will now launch.
 2. On the top bar, click**Run new task** in the "Processes" tab.  
 ![Open WordPad Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Task-Manager.jpg)
 3. When a pop-up window appears, type "wordpad" in its search box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now click**OK** to launch the WordPad application.
 
 ## 5\. How to Open WordPad Using the Control Panel
@@ -97,7 +90,7 @@ To open WordPad using the Control Panel, follow these steps:
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
@@ -128,6 +121,14 @@ To open WordPad using the Start menu, follow these steps:
 5. Double-click on**WordPad** to open it.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. How to Open WordPad by Creating a Desktop Shortcut
 
  If you would like to access WordPad right from your desktop, you can create a desktop shortcut. To do this, follow these steps:
@@ -139,14 +140,10 @@ To open WordPad using the Start menu, follow these steps:
 ![Create Desktop Shortcut of WordPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-WordPad.jpg)
 4. If Windows asks for your confirmation, click**Yes** to create it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Pin WordPad to the Start menu or Taskbar
@@ -158,10 +155,14 @@ To open WordPad using the Start menu, follow these steps:
 ![Pin WordPad to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-WordPad-to-Taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Access WordPad on Windows
 
@@ -182,20 +183,22 @@ To open WordPad using the Start menu, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[New] Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-saving-every-moment-on-mac-with-screen-recording-tutorial-for-2024/"><u>[New] Saving Every Moment on Mac with Screen Recording Tutorial for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-audiences-on-the-rise-gauge/"><u>[Updated] 2024 Approved Audiences on the Rise Gauge</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-playstation-1-triumph-winning-tips-for-gaming-pcs-duckstations-approach/"><u>Decoding PlayStation 1 Triumph: Winning Tips for Gaming PCs - Duckstation’s Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workspace-a-guide-to-widget-additions-in-windows-11/"><u>Elevate Your Workspace: A Guide to Widget Additions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/gaining-superior-access-in-windows-settings-room/"><u>Gaining Superior Access in Windows Settings Room</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-windows-10s-best-new-applications-and-games/"><u>In 2024, Explore Windows 10'S Best New Applications & Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-deploying-browser-based-ai-agents-with-agentgpt-technology/"><u>Mastering the Art of Deploying Browser-Based AI Agents with AgentGPT Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-wows-critical-failure-code-132/"><u>Quick Fixes for WoW’s Critical Failure Code #132</u></a></li>
-<li><a href="https://fox-http.techidaily.com/soothing-soundscapes-recommended-voice-experts/"><u>Soothing Soundscapes Recommended Voice Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-non-functional-bluetooth-mouse-on-windows-pcs/"><u>Tackling Non-Functional Bluetooth Mouse on Windows PCs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/visual-storytelling-with-vsco-a-complete-guide-for-2024/"><u>Visual Storytelling with VSCO A Complete Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-strategies-against-constant-c-drive-consumption/"><u>Winning Strategies Against Constant C: Drive Consumption</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[New] 2024 Approved Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-epicurean-eminence-best-online-chefs-and-cooks-for-2024/"><u>[New] Epicurean Eminence Best Online Chefs & Cooks for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-visual-virtue-essential-resources-for-adding-frames-to-images/"><u>[Updated] In 2024, Visual Virtue Essential Resources for Adding Frames to Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-interactive-achievements-the-click-based-reward/"><u>[Updated] Interactive Achievements The Click-Based Reward</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-zte-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock ZTE Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-roblox-gaming-with-smooth-playback-on-pcs/"><u>Elevating Your Roblox Gaming with Smooth Playback on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/enablingdisabling-battery-saving-mode-on-windows-pcs/"><u>Enabling/Disabling Battery Saving Mode on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-window-11-search-a-comprehensive-list/"><u>Improving Window 11 Search: A Comprehensive List</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-search-in-windows-11-the-ultimate-guides-top-five/"><u>Maximizing Search in Windows 11: The Ultimate Guide's Top Five</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unveils-the-new-smartthings-hub-revolutionizing-smart-home-management-zdnet/"><u>Samsung Unveils the New SmartThings Hub, Revolutionizing Smart Home Management - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-silent-deactivating-prompts-for-win-11s-administrator-login/"><u>Securely Silent: Deactivating Prompts for Win 11'S Administrator Login</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-enabledisable-windows-11-registry-tools/"><u>Steps to Enable/Disable Windows 11 Registry Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-picks-in-gaming-8-essential-websites/"><u>The Top Picks in Gaming - #8 Essential Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-ui-proposals-to-refresh-windows-11s-widget-space/"><u>Transformative UI: Proposals to Refresh Windows 11'S Widget Space</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-retrieving-permanently-lost-data-even-in-the-absence-of-backups/"><u>Ultimate Guide: Retrieving Permanently Lost Data Even in the Absence of Backups</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-error-in-stores-hub-0x80073cf3/"><u>Understanding and Resolving Error in Store's Hub: 0X80073CF3</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/king-youtubes-potential-understanding-the-impact-of-tags-for-2024/"><u>Unlocking YouTube's Potential Understanding the Impact of Tags for 2024</u></a></li>
 </ul></div>
 

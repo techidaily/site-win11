@@ -1,7 +1,7 @@
 ---
 title: "Maintain Your Data, Expand Disk Space: Techniques for Windows 11 Users (Max 156 Chars)"
-date: 2024-12-02T10:05:38.173Z
-updated: 2024-12-07T08:26:03.274Z
+date: 2024-12-06T18:35:47.253Z
+updated: 2024-12-12T20:26:23.029Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,24 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use NTFS Drive Compression
 
  Windows 11 includes a compression option for NTFS drives. Selecting that setting applies compression to user files on a drive by removing redundant data. You can select to apply NTFS compression for your whole C: drive or a single folder. Our guide to [enabling NTFS compression on Windows 11](https://www.makeuseof.com/enable-disable-ntfs-file-compression-windows-11/) tells you how to select the **Compress contents to save disk space** option.
 
 ![The Compress this drive to save disk space checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-this-drive-to-save-space-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable System Restore
@@ -49,15 +57,11 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 5. Click the **Disable system protection** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Disable system protection radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-system-protection-option.jpg)
 6. Select **Apply** to save the system protection settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click the System Protection window’s **OK** option.
 
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  Also, check out some of the options for converting to MP4 within the Online-Convert video conversion tool. You can select from a wide variety of video presets by clicking the **Choose a preset** drop-down menu. Further down, there’s a **Set file size** option in which you can input a target size value for the converted video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Convert Your Saved Image Files Into the JPG Format
 
  JPG is like the image equivalent of the MP4 format with its lossy compression. Image files with the JPG format are typically smaller than the PNG of BMP alternatives. If your C: drive includes many PNG or BMP images, converting them to JPGs will probably also free up a significant amount of storage space.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Recycle Bin’s Size
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Create ZIP Archives for Storing Files
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
@@ -153,23 +153,6 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  This is how you can free up C: drive space on a Windows 11 PC without erasing files.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-for-fixing-unregistered-class-errors-on-windows/"><u>Easy Steps for Fixing Unregistered Class Errors on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-conversion-of-oggv-to-mp3-on-windows-top-techniques-revealed/"><u>Effortless Conversion of OGGV to MP3 on Windows - Top Techniques Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-package-control-a-windows-11-and-wingetuser-experience/"><u>Elevate Your Package Control: A Windows 11 & WingetUser Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-the-unavailable-file-message-in-windows-153-chars/"><u>Eradicating the 'Unavailable' File Message in Windows (153 Chars)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-camon-20-premier-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Camon 20 Premier 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-play-the-original-diablo/"><u>How to Play the Original Diablo</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-x6-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco X6 Prowith/without a PC</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-taskbar-with-numlock-icon-on-win11/"><u>Personalize Taskbar with NumLock Icon on Win11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-tools-for-macos-optimization/"><u>Tailoring Windows Tools for MacOS Optimization</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-java-virtual-machine-dll-errors-efficiently/"><u>Troubleshooting Java Virtual Machine DLL Errors Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-secrets-the-six-ways-to-restore-hidden-windows-in-windows-11/"><u>Unveiling Secrets: The Six Ways to Restore Hidden Windows in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,3 +160,23 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-excellent-micro-photography-videos-step-by-step-for-2024/"><u>[Updated] Crafting Excellent Micro Photography Videos Step by Step for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-video-call-options-safe-small-enterprises-guide/"><u>[Updated] In 2024, Leading Video Call Options Safe Small Enterprises Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722890227736-avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-guide-to-windows-voice-modification-clowns/"><u>Basic Guide to Windows Voice Modification - Clowns</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-the-ultimate-selection-of-free-iphone-music-apps-for-endless-earful-enjoyment-at-no-cost/"><u>Download the Ultimate Selection of Free iPhone Music Apps for Endless Earful Enjoyment at No Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-win11-writings-using-ai-master/"><u>Elevate Win11' Writings Using AI Master</u></a></li>
+<li><a href="https://win11.techidaily.com/go-green-with-pc-updates-ditch-windows/"><u>Go Green with PC Updates: Ditch Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-migrate-your-google-photos-collection-to-icloud-storage/"><u>How to Migrate Your Google Photos Collection to iCloud Storage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-6s-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 6s</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-troubleshooting-the-case-of-the-gone-print-management/"><u>Navigating Troubleshooting: The Case of the Gone Print Management</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-system-icons-in-a-quick-windows-fix/"><u>Revamping System Icons in a Quick Windows Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-up-game-resolving-steam-write-problems/"><u>Stepping Up Game: Resolving Steam Write Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-respond-and-recover-windows-download-issues/"><u>Strategies to Respond and Recover Windows Download Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-grayed-recycle-icon-issue-in-win11/"><u>Tackling Grayed Recycle Icon Issue in Win11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-simple-video-editing-for-windows-get-started-with-microsoft-video-editor-for-2024/"><u>Updated Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Git Workflow: GitHub Desktop & Windows 10/11"
-date: 2024-09-05T08:29:13.302Z
-updated: 2024-09-06T08:29:13.302Z
+date: 2024-12-10T10:42:41.604Z
+updated: 2024-12-12T22:57:05.145Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
  Fortunately, GitHub Desktop allows you to work with git through an interactive user interface that does not require any commands. Read on as we describe what GitHub Desktop is and how to make the most of it on a Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is GitHub Desktop?
 
  GitHub Desktop is an intuitive desktop application that allows users to work with Git without the hassle of the command line. GitHub Desktop is an open-source tool (meaning it’s free to use) that relies on the efforts of the developer community to simplify workflow for developers and improve team collaboration.
@@ -37,27 +31,17 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Computer on a table showing code in a text editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/computer-with-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you’ve set up GitHub Desktop with a repository, you can also create issues and pull requests. You can even review pull requests your team makes directly within GitHub Desktop.
 
  All in all, GitHub Desktop helps you adapt the best practices for git through an easy-to-use interface allowing you to take version control of your projects to the next level.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install GitHub Desktop on Windows
 
  GitHub Desktop is free to use and available on Windows, macOS, and Ubuntu. You can quickly install GitHub Desktop on Windows 10 and 11 as follows:
@@ -81,21 +65,13 @@ To add an existing GitHub account to GitHub Desktop:
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
 4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use GitHub Desktop Like a Pro
 
  Now that you’ve configured GitHub Desktop on your Windows PC, you can use it in your daily workflow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Clone a Repository Using GitHub Desktop on Windows
 
@@ -110,12 +86,6 @@ To add an existing GitHub account to GitHub Desktop:
 
 The project should then be accessible within the saved directory.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Create a Branch in GitHub Desktop
 
  Branches are essential in the git workflow and allow you to work on a copy of the main codebase. It ensures experimental and unreliable code does not affect the production version of the codebase. Developers can freely play around in their isolated branch and push code once it’s tested.
@@ -126,16 +96,19 @@ To create a branch in GitHub desktop:
 2. Select the**Current repository** dropdown and choose the project you want to work on.  
 ![create branch github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-branch-1.jpg)
 3. Next, select the**Current branch** dropdown and click on**New branch** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Commit Using GitHub Desktop on Windows
 
@@ -146,12 +119,6 @@ To create a branch in GitHub desktop:
 3. Make the necessary changes in your code and save the files.  
 ![commit code using Github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/commit-code.jpg)
 4. Go back to GitHub Desktop, and you should see the changes you’ve made in the left pane.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Review your changes, and once you’re ready, enter a message with your commit in the text box of the left pane.
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
@@ -171,8 +138,6 @@ To create a branch in GitHub desktop:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +145,26 @@ To create a branch in GitHub desktop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gamers-guide-to-affordable-yet-powerful-keyboards/"><u>[New] Gamer's Guide to Affordable, Yet Powerful Keyboards</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-hidden-highlight-harvester/"><u>[New] Hidden Highlight Harvester</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-expert-strategies-for-managing-facebook-lives-in-two-screens/"><u>[Updated] In 2024, Expert Strategies for Managing Facebook Lives in Two Screens</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>[Updated] Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagrams-untapped-potential/"><u>2024 Approved Mastering Instagram's Untapped Potential</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-perfecting-pics-and-vids-the-art-of-snapchat-zooming/"><u>2024 Approved Perfecting Pics & Vids The Art of Snapchat Zooming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-gaming-experience-6-best-gpu-stress-testers-for-win-users/"><u>Enhance Your Gaming Experience: 6 Best GPU Stress Testers for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-unique-features-in-windows-11-god-mode/"><u>Explore: Unique Features in Windows 11 God Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-muted-speaker-issue-with-windows-10/"><u>Fixing Muted Speaker Issue with Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-rectifying-resource-allocation-problems-on-windoes-153-chars/"><u>Guidelines for Rectifying Resource Allocation Problems on Windoes (153 Chars)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/losung-fur-den-fehler-bei-der-wiederherstellung-des-systemabbilds-datentrager-nicht-erkannt/"><u>Lösung Für Den Fehler Bei Der Wiederherstellung Des Systemabbilds – Datenträger Nicht Erkannt</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-qbittorrent-status-quo-fixes-for-windows-users/"><u>Mastering qBittorrent Status Quo Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/powerpoint-print-predicaments-and-how-to-fix-them-in-windows/"><u>PowerPoint Print Predicaments and How to Fix Them in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-rescue-of-powerpoint-problems-6-instantaneous-cures-win11/"><u>Rapid Rescue of PowerPoint Problems: 6 Instantaneous Cures Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/school-supply-nightmare-persistent-bedbug-problem-plagues-student-laptops-raises-concerns-over-hygiene-and-maintenance-practices/"><u>School Supply Nightmare: Persistent Bedbug Problem Plagues Student Laptops, Raises Concerns Over Hygiene and Maintenance Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tip-bid-farewell-to-ms-edge-in-w11/"><u>Tech Tip: Bid Farewell to MS Edge in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-tasks-unleash-potential-with-flow-launcher/"><u>Transform Your Tasks: Unleash Potential with Flow Launcher</u></a></li>
+</ul></div>
 

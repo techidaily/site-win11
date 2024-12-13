@@ -1,7 +1,7 @@
 ---
 title: Sidestep WIN11 Screensaver Exceptions Easily
-date: 2024-09-05T08:28:13.198Z
-updated: 2024-09-06T08:28:13.198Z
+date: 2024-12-08T13:42:08.976Z
+updated: 2024-12-13T00:37:42.184Z
 tags:
   - windows10
   - windows11
@@ -40,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, remember that this key may be different for you, depending on your device. In some devices, it is F9 or F12 key. It is best to check your manufacturer's official website for this information.
 
  If using a key does not work, you can also try hard rebooting your computer a couple of times. Usually, upon the third attempt, Windows automatically launches WinRE.
@@ -57,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete the Problematic Registry Keys
 
  As mentioned above, several Registry entries might be corrupted or have incorrect information, causing the problem. In the case of this specific error, several users noticed that the Registry keys related to a tech program were leading to the issue.
@@ -75,12 +67,11 @@ C:\Windows\System32\
 2. Here, delete the APOIM32.EXE. APOMNGR.DLL, and CMDRTR.DLL files.  
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
 3. Now, press the Win + R keys together to open Run.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
 6. Once you are inside the Registry Editor, navigate to the location mentioned below if you are using a 32-bit system:  
@@ -88,6 +79,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 7. Delete the APOIM values from here by right-clicking on the value and choosing**Delete** .  
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
@@ -105,21 +101,13 @@ Here is what you need to do:
 4. You should now see a list of installed apps in the system. Right-click on the targeted app and choose**Uninstall** from the context menu.  
 ![Clicking on the Uninstall Button by Right-clicking on the Suspicious App in Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2.jpg)
 5. Follow the on-screen instructions to complete the process.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run Driver Verifier
 
  If you encounter a blue screen error, it may be due to an issue with the critical drivers on your computer. Identifying the problematic driver manually can be time-consuming, which is where the Driver Verifier utility comes in handy.
@@ -128,36 +116,25 @@ Here is what you need to do:
 
  Once you've identified the problematic driver, you can update it using the Device Manager utility to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Other Generic Fixes to Try
 
  Apart from the solutions discussed above, several[other troubleshooting methods for BSODs](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) can help you fix blue screen errors such as this one. This includes scanning the critical system files, restoring the system to an older working state, and checking the hardware for problems.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## BSOD Error, Now Fixed
 
  The Blue Screen of Death is always frustrating, especially because they do not provide much information about the cause of the problem, making them harder to troubleshoot. Hopefully, the methods we have listed above will help you fix the INTERRUPT\_EXCEPTION\_NOT\_HANDLED BSOD for good.
 
  And to prevent the issue from occurring again in the future, make sure to keep your system and its drivers updated at all times.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +143,26 @@ Here is what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ssential-screen-recording-software-list-for-vloggers/"><u>[New] Essential Screen Recording Software List for Vloggers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-masterful-iphone-images-through-strategic-leading-lines-for-2024/"><u>[New] Masterful iPhone Images Through Strategic Leading Lines for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-rhythmcapture-toolkit-a-critical-walkthrough/"><u>[New] RhythmCapture Toolkit A Critical Walkthrough</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-insights-for-creating-hits-with-music-reaction-videos/"><u>[New] Top 10 Insights for Creating Hits with Music Reaction Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-no-cost-game-recording-software-guide/"><u>[Updated] 2024 Approved Essential No-Cost Game Recording Software Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44ov44kh44kk44or44ot44o844oj5lit44gr44ko44op44o844oh44od44k744o844k444ks5yplusx44gr5yplusw44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go6kej5rg6562w44cn/"><u>「ファイルロード中にエラーメッセージを受け取った場合、その原因と解決策」</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-windows-11-tackling-issues-head-on/"><u>Combatting Windows 11: Tackling Issues Head-On</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compact-cost-effective-spherical-video-capture-systems-for-2024/"><u>Compact, Cost-Effective Spherical Video Capture Systems for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-windows-utilities-aiding-mac-to-windows-changeover/"><u>Critical Windows Utilities Aiding Mac to Windows Changeover</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xbox-games-download-issue-with-ms-store/"><u>Fixing Xbox Games Download Issue with MS Store</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-fives-best-quick-reliable-time-lapse-tools/"><u>In 2024, Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>In 2024, Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-and-propagate-windows-note-data/"><u>Preserve & Propagate Windows' Note Data</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-optimal-performance-in-win11-learn-the-top-availability-verification-steps/"><u>Secure Optimal Performance in Win11 - Learn the Top Availability Verification Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/slash-resource-hogs-streamlining-media-use-on-windows-1011/"><u>Slash Resource Hogs: Streamlining Media Use on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-dxgidll-file-lack-in-windows-11/"><u>Steps to Address Dxgi.dll File Lack in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-notes-mastery-entering-the-world-of-win11/"><u>Sticky Notes Mastery: Entering the World of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-for-package-incompatibility-in-windows-os/"><u>Workarounds for Package Incompatibility in Windows OS</u></a></li>
+</ul></div>
 

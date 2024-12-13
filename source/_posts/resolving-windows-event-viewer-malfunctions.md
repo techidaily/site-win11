@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows Event Viewer Malfunctions
-date: 2024-12-03T21:27:14.863Z
-updated: 2024-12-07T11:29:53.353Z
+date: 2024-12-09T21:58:42.487Z
+updated: 2024-12-12T20:22:06.709Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Windows Event Log Service
 
 ![restart windows event log service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/restart-windows-event-log-service.jpg)
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 5. Close the Services snap-in and try to relaunch Event Viewer to see if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install the Latest Windows Updates
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Often the issues with Windows Event Viewer are associated with bad Windows updates. Check your Windows Updates section if a new update is available with a fix.
@@ -64,23 +60,19 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 3. Click **Check for Updates**. Windows will scan the server for newer updates and populate the screen with the same if available.
 4. Click on **Download & install** to install any critical Windows updates available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Try Some Generic Troubleshooting Steps to Get Event Viewer Working
 
  If the issue persists, this may be an issue with a recently installed Windows update, corrupt system files, and a problematic memory stick. Here are a few tips to try and resolve issues associated with the Windows Event Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Perform a System Restore
 
  A restore point saves a copy of your system’s working image. Depending on your System Protection settings, you can use the [existing restore point to restore the system](https://www.makeuseof.com/use-system-restore-windows/) and undo system changes caused by an update or the user.
 
  Start with the most recent restore point available. If the problem persists, check if you can undo the most recently installed Windows update. You can also [manually uninstall Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) from the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check for System File Corruption
 
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 ### Check for Issues With the Storage Drive
 
  Some apps can stop working if the storage drive is corrupt and need repair. You can [use the built-in check disk utility on Windows to scan and repair your drive](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for data corruption.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Disable Windows Defender
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
  Issues with your system memory are another reason why the Event Viewer app is not working. Fortunately, Windows has a built-in [Memory Diagnostic tool to scan and detect issues with your system memory](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
  Often issues with the system memory may be due to faulty hardware. However, it is recommended to run more tests using the Memory Diagnostic tool report to get more insights into the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform a Windows Installation Repair
 
@@ -114,19 +114,6 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
  Event Viewer can stop working due to issues with the Windows system files, system memory, glitchy Event Viewer services, and corrupt user accounts. Even some rudimentary issues with the recently installed updates can trigger the issue. Here are a few troubleshooting tips to help you fix the Event Viewer not working problem on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-conquering-common-challenges-easy-steps-for-your-ipad-capture-process/"><u>[New] In 2024, Conquering Common Challenges Easy Steps for Your iPad Capture Process</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>[Updated] Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-and-fixing-create-failed-problem-in-windows/"><u>Dissecting and Fixing Create Failed Problem in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-access-barriers-in-windows-a-powershell-solution/"><u>Overcoming Access Barriers in Windows: A PowerShell Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-overcoming-workspace-failure-in-win-office/"><u>Quick-Fix Guide: Overcoming Workspace Failure in Win Office</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-sweetest-vr-bargain-meta-quest-3-inches-steep-discounts-prime-day-october-deals-still-on/"><u>Snag the Sweetest VR Bargain! Meta Quest 3 Inches Steep Discounts - Prime Day October Deals Still On!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-your-favorites-discover-hitachis-4k-uhd-tvs-featuring-integrated-roku-technology/"><u>Stream Your Favorites: Discover Hitachi's 4K UHD TVs Featuring Integrated Roku Technology</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/time-travel-photos-on-snapchat-step-by-step-guide-for-2024/"><u>Time-Travel Photos on Snapchat Step by Step Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-todays-users-need-more-ram-for-windows-a-closer-look/"><u>Why Today's Users Need More RAM for Windows: A Closer Look</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -134,3 +121,20 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/"><u>[New] Biography Breakthroughs 101 Expert Tips and Tricks for Facebook Biographers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>[New] In 2024, High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[Updated] How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-15-must-try-iphone-vr-apps-for-everyday-gamers-for-2024/"><u>[Updated] Top 15 Must-Try IPhone VR Apps for Everyday Gamers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-how-to-remove-background-noise-from-your-youtube-video/"><u>2024 Approved How To Remove Background Noise From Your Youtube Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-and-education-understanding-why-teachers-should-adapt-not-fear-this-technology-top-8-points-explained/"><u>AI and Education: Understanding Why Teachers Should Adapt, Not Fear This Technology - Top 8 Points Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-terminal-resurfacing-techniques/"><u>Mastering Windows Terminal Resurfacing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-precise-assessment-of-cpu-utilization-in-windows/"><u>Methods for Precise Assessment of CPU Utilization in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-steam-interface-failure-issue/"><u>Remedying Steam Interface Failure Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-watching-usb-files-via-vu-smarttv-system/"><u>Step-by-Step Tutorial: Watching USB Files via VU SmartTV System</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reset-and-stabilize-windows-post-restart/"><u>Steps to Reset and Stabilize Windows Post-Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failures-repairing-windows-11s-cloud-functionality/"><u>Tackling Failures: Repairing Windows 11'S Cloud Functionality</u></a></li>
+</ul></div>
+

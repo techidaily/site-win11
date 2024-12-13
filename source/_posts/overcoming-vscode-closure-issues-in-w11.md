@@ -1,7 +1,7 @@
 ---
 title: Overcoming VSCode Closure Issues in W11
-date: 2024-12-01T05:15:23.384Z
-updated: 2024-12-07T10:12:03.839Z
+date: 2024-12-06T01:45:14.182Z
+updated: 2024-12-12T16:24:01.913Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Terminate Visual Studio Code and Restart
 
  Before moving on to more complex fixes for the app, completely close Visual Studio Code using Task Manager and restart it. Here's how to do it:
@@ -36,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 4. Close the Task Manager window and open the Start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type Visual Studio Code and run the app with administrator privileges. Check if it encounters a crash now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reboot your System
 
@@ -48,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 **Right-click** on the Start button and select the**Restart** option from the Power user menu. After the system restarts, run the Visual Studio Code with administrator permissions and check if it crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Acceleration
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  If Visual Studio Code works fine after a clean boot, retry the clean boot while enabling some third-party service. Repeat this process until you find the problematic service or app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable Visual Studio Code Extensions
 
  Visual Studio Code needs extensions to extend language and debugger support for various programming languages. If you use extensions, you must find and remove the troublesome ones. Here's how to do it:
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 3. Right-click on any extension and select the**Disable** option from the context menu.  
 ![Disable Visual Studio Code Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-visual-studio-code-extensions.jpg)
 4. Repeat this process for all extensions to disable them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Now restart the Visual Studio Code app and run it for some time without any extensions. If it doesn't crash, an extension is probably the reason behind the crash.
 6. To identify the extension, revisit the Extension settings in the app and right-click on a disabled extension. Select the**Enable** option.
@@ -108,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
  Windows updates can break system features or not sit well with third-party apps. If you encounter the app crash issue after a recent update,[manually uninstall the most recent Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) on your computer. It will revert all the new changes made to your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Visual Studio Code
 
  If the app installation is severely corrupt and unfixable, then a simple app reset won’t be effective. Instead, you must completely remove Visual Studio Code from your system and then reinstall it.
@@ -127,15 +123,20 @@ winget uninstall Microsoft.VisualStudioCode
 6. Wait for the uninstallation to complete. Restart your system.  
 ![Reinstall Visual Studio Code 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-1.jpg)
 7. Launch the Command Prompt with admin privileges again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then type the following command and press the enter key:**winget install Microsoft.VisualStudioCode**  
 ![Reinstall Visual Studio Code 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-visual-studio-code-2.jpg)
 9. It will take a while to download and install the app on your system. You won’t need to interact with the installer window or grant any permissions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Run Visual Studio Code now and check if the app encounters any crashes now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Use the Web Version
 
@@ -160,22 +161,24 @@ winget uninstall Microsoft.VisualStudioCode
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/est-free-video-cutting-apps-your-go-to-list-for-2024/"><u>[New] Best Free Video Cutting Apps Your Go-To List for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-paintbrush-inserting-text-into-windowsmac-photos/"><u>2024 Approved Digital Paintbrush Inserting Text Into Windows/Mac Photos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-vcplusplus-package-significance/"><u>Deciphering VC++ Package Significance</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-pcs-screen-glow-with-these-fixes/"><u>Enhance Your PC's Screen Glow with These Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-inaccessible-display-configurations/"><u>Guide to Correcting Inaccessible Display Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-wordpad-shortcuts-to-windows-11s-context-menu/"><u>How to Add WordPad Shortcuts to Windows 11’S Context Menu</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-on-mac-quick-setup-tips/"><u>In 2024, Snapchat on Mac - Quick Setup Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-uwp-app-shortcut-creation-on-windows-11/"><u>Mastering UWP App Shortcut Creation on Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-oculus-winerror-a-step-by-step-guide/"><u>Resolving Oculus WinError: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revive-your-zoom-presentations-solutions-to-common-screen-share-issues/"><u>Revive Your Zoom Presentations: Solutions to Common Screen Share Issues</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-revenue-building-for-youtube-creators/"><u>Step-by-Step Revenue Building for YouTube Creators</u></a></li>
-<li><a href="https://win11.techidaily.com/the-artisans-guide-to-transforming-windows-outlook-into-masterpieces/"><u>The Artisan's Guide to Transforming Windows Outlook Into Masterpieces</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-launching-winrm-utility/"><u>The Ultimate Guide to Launching WinRM Utility</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/vollumfanglicher-gratiskompatibler-medienwiedergabe-player-fur-die-meisten-videodateien/"><u>Vollumfänglicher Gratiskompatibler Medienwiedergabe Player Für Die Meisten Videodateien</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-chasing-the-crash-action-cameras-reviewed/"><u>[New] 2024 Approved Chasing the Crash Action Cameras Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-secrets-of-captivating-audiences-in-your-videos/"><u>[New] 2024 Approved The Secrets of Captivating Audiences in Your Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/anorama-pro-network-partnership-guide-for-2024/"><u>[New] Panorama Pro Network Partnership Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-the-blues-fixing-continuous-kinect-xbox-f1-2021-pc-game-crashes/"><u>Banish the Blues: Fixing Continuous Kinect Xbox F1 2021 PC Game Crashes</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-ai-rap-voice-generators-you-should-try/"><u>Best AI Rap Voice Generators You Should Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-6-fantastic-budget-friendly-photo-editors-instead-of-photoshop/"><u>Explore These 6 Fantastic Budget-Friendly Photo Editors Instead of Photoshop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-a60-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel A60 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-filename-date-management/"><u>Mastering the Art of Windows Filename Date Management</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-absence-of-notification-badges/"><u>Remedy for Absence of Notification Badges</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-gameplay-on-win-11-with-these-essential-seven-strategies/"><u>Revolutionize Your Gameplay on Win 11 with These Essential Seven Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-unloading-issues-in-windows-discord-application/"><u>Steps to Mend Unloading Issues in Windows Discord Application</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-windows-11s-software-removal-hurdles/"><u>Strategies to Overcome Windows 11'S Software Removal Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-fixes-with-10-windows-actions/"><u>Streamlining System Fixes with 10 Windows Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-approach-to-fixing-installer-error-in-win11/"><u>Streamlining Your Approach to Fixing Installer Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-stubborn-0x800f0831-problem-in-win11/"><u>Tackling the Stubborn 0X800F0831 Problem in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-functionality-and-security-implications-of-deleting-pagefilesys/"><u>The Functionality & Security Implications of Deleting Pagefile.sys</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-low-usb-resources-in-windows-os/"><u>Troubleshooting Low USB Resources in Windows OS</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/tutorial-completement-expert-copier-des-films-en-dvd-sur-un-disque-dur-macwindows-avec-ease/"><u>Tutorial Complètement Expert : Copier Des Films en DVD Sur Un Disque Dur Mac/Windows Avec Ease</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-the-10-most-effective-iphone-data-erasing-programs/"><u>Ultimate Guide: The 10 Most Effective iPhone Data-Erasing Programs</u></a></li>
 </ul></div>
 

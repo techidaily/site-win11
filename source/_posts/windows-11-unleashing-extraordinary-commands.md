@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Unleashing Extraordinary Commands"
-date: 2024-12-04T11:25:14.308Z
-updated: 2024-12-07T01:30:57.506Z
+date: 2024-12-07T06:39:22.474Z
+updated: 2024-12-13T09:52:16.787Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add God Mode to the Context Menu by Manually Editing the Registry
 
  You can add God Mode to Windows 11’s desktop context menu by manually tweaking the registry. The tweaking required is relatively simple to apply and involves adding a couple of new registry entries to the Shell key. Follow these steps to manually add God Mode to Windows 11’s context menu:
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ![The New > Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-key-options.jpg)
 5. Type **God Mode** in the key’s text box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Right-click **God Mode** and select the **New** \> **Key** context menu options again.
 2. Input **command** within the subkey’s text box.  
 ![The God Mode registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/god-mode-key.jpg)
@@ -49,20 +49,24 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-string-window.jpg)
 5. Click on the Registry Editor’s **X** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check out the new **God Mode** option on your context menu for opening Task View. Right-click somewhere on the desktop background image and select **Show more options**. Then select **God Mod** to bring up the **Task View** window. You can open a multitude of Control Panel applets from there.
 
 ![A God Mode context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/god-mode-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you ever change your mind about having a **God Mode** context menu option, open the Shell key in Registry Editor again. Then right-click on the **God Mode** key you added and select delete. Click **Yes** to erase the **God Mode** key along with its **command** subkey.
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-delete-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add God Mode to the Context Menu With Right-Click Extender
@@ -74,6 +78,11 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 3. Extract the Right-Click Extender archive by following the instructions within this guide to [unzipping ZIP files in Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extract-compressed-zip-folder.jpg)
 4. Open the extracted Right-Click Extender directory and its Right-Click Extender v2 subfolder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click the Right-Click Extender v2 application file.
 6. Click on the **Desktop** tab in Right-Click Extender.
 7. Select the **All Tasks (GodMode)** setting and its Icon checkbox.  
@@ -90,38 +99,11 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make the Most of God Mode on Windows
 
  Adding God Mode to your desktop’s context menu will enable you to access a plethora of Control Panel applets and tools within a single window in a couple of clicks. That will save you from rummaging through the Control Panel to find certain applets and settings when needed. Plus, you can make more essential Control Panel applets even more accessible by creating shortcuts for them from the Task View window.
 
  Many users activate God Mode by setting up desktop shortcuts that open the All Tasks window. However, you can instead add a **God Mode** option to the desktop’s context menu in Windows 11\. Then the All Tasks window will be directly accessible on your right-click menu. This is how you can add God Mode to Windows 11’s context menu.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-unleash-the-potential-customizing-your-youtube-channel-url/"><u>[New] In 2024, Unleash the Potential Customizing Your YouTube Channel Url</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfect-your-hd-vids-on-android-with-these-10-players-for-2024/"><u>[Updated] Perfect Your HD Vids on Android With These 10 Players for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-leading-titles-in-rapid-online-content-expansion/"><u>2024 Approved The Leading Titles in Rapid Online Content Expansion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-display-drivers-installation-secure-and-efficient-download-process/"><u>ASUS Display Drivers Installation - Secure & Efficient Download Process</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-imaginary-hardware-specification-errors/"><u>Correcting Imaginary Hardware Specification Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-for-starting-a-system-restore-on-windows-11/"><u>Essential Techniques for Starting a System Restore on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-microsoft-store-issue-x800704cf-on-pcs/"><u>Guide to Correcting Microsoft Store Issue X800704CF on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-flip-your-pcs-two-screens/"><u>How to Flip Your PC's Two Screens</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalize-your-youtube-experience-with-altered-rhythms/"><u>In 2024, Personalize Your YouTube Experience with Altered Rhythms</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-sandbox-initialization-guide/"><u>Mastering Windows 11 Sandbox: Initialization Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-for-overcoming-white-out-screens-in-win1011/"><u>Tactics for Overcoming White Out Screens in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-made-winterral-ambiance/"><u>Tailor-Made WinTerral Ambiance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-route-to-record-your-favorite-streaming-content-hulu-for-2024/"><u>The Ultimate Route to Record Your Favorite Streaming Content (Hulu) for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tracks-into-tunes-mp3-to-youtube-conversion-made-simple-for-2024/"><u>Turn Tracks Into Tunes MP3-to-YouTube Conversion Made Simple for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A23 5G Device</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +112,22 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-haven-for-harmonious-hits-download-classics-now/"><u>[New] In 2024, Haven for Harmonious Hits Download Classics Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-premium-mac-and-pc-fullscreen-recording-apps/"><u>[Updated] In 2024, Premium Mac & PC Fullscreen Recording Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-ios-tools-replicating-ps2-games/"><u>[Updated] Premier iOS Tools Replicating PS2 Games</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-p40-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel P40 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/depannage-facilite-faire-face-a-des-ndr-errones-sur-windows-n-solutions-et-conseils-dexperts/"><u>Dépannage Facilité : Faire Face À Des NDR Erronés Sur Windows N, Solutions Et Conseils D'experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-past-alerts-a-guide-to-viewing-old-notifications-on-your-iphone/"><u>Discovering Past Alerts: A Guide to Viewing Old Notifications on Your iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-fodt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .fodt file</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-ms-store-hiccups-overcoming-error-0x80072f17/"><u>Mending MS Store Hiccups: Overcoming Error 0X80072f17</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-keyboard-settings-in-windows-easily/"><u>Navigate Keyboard Settings in Windows Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-steam-glitches-in-your-gaming-environment-win-11-style/"><u>Navigate Through Steam Glitches in Your Gaming Environment, Win 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-cannot-determine-value-issue-on-windows-systems/"><u>Overcoming 'Cannot Determine' Value Issue on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-updates-eliminate-error-0x800f0922/"><u>Tackling Windows 11 Updates: Eliminate Error 0X800f0922</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unbelievable-examination-and-replacement-ideas-for-2024/"><u>Unbelievable Examination & Replacement Ideas for 2024</u></a></li>
+</ul></div>
+

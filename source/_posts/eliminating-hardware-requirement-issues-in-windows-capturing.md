@@ -1,7 +1,7 @@
 ---
 title: Eliminating Hardware Requirement Issues in Windows Capturing
-date: 2024-12-01T09:57:16.413Z
-updated: 2024-12-06T22:50:29.351Z
+date: 2024-12-11T07:42:59.352Z
+updated: 2024-12-12T22:12:28.657Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable Game DVR With Game DVR Config
 
  Game DVR Config is third-party software with which some users have resolved the “PC doesn't meet the hardware requirements for captures” error. That software includes settings users can select to enable Game DVR along with audio and microphone capture.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 5. Select the **Enable Game DVR (Win+G)** checkbox.  
 ![The Game DVR Config software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-dvr-config.jpg)
 6. Click the **Force software MFT** checkbox to select that setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
@@ -57,9 +57,19 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 4. If there isn’t a **PortableOperatingSystem** DWORD already, right-click on the **Control** key and select **New** and **DWORD**. Input **PortableOperatingSystem** within the new key’s text box.  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg)
 5. Double-click on the **PortableOperatingSystem** DWORD in the Control key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Delete the **0** number and input **1** within the **Value data** box.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window.jpg)
 7. Set the value by clicking **OK** inside the Edit DWORD window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then close out of the Registry Editor app and restart Windows.
 
 ## Update Your Graphics Adapter’s Driver
@@ -67,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Windows Game Recording and Broadcasting Policy
 
@@ -85,11 +99,7 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Erase Data in the GameDVR Registry Key
@@ -106,34 +116,11 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 ![the-delete-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option.jpg)
 5. Click the Start menu’s Power button and select **Restart**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Recording Again With the Xbox Game Bar
 
  The potential solutions covered here are widely confirmed to resolve the “PC doesn't meet the hardware requirements for captures” by users who’ve needed to fix that issue. So, it’s most likely applying the potential fixes above will resolve that Game Bar recording issue on your Windows laptop or desktop. Then you can record video while gaming with the Game Bar’s recording feature again.
 
  The error message highlights a PC doesn’t meet system requirements for Game Bar recording. Yet, this error often arises for users who’ve utilized Game Bar’s recording on their PCs before. This is how you can fix the “PC doesn't meet the hardware requirements for captures” error in Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-the-best-audio-recording-options-for-apple-products/"><u>[New] 2024 Approved Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-clearing-picture-edges/"><u>[New] Expert Techniques for Clearing Picture Edges</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-check-what-youve-liked-on-facebook-lately-for-2024/"><u>[New] How To Check What You've Liked on Facebook Lately for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-mac-users-guide-to-stellar-tiktok-beginnings-for-2024/"><u>[New] Mac Users' Guide to Stellar TikTok Beginnings for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peak-creation-suite-insightful-2023-analysis/"><u>[New] Peak Creation Suite Insightful 2023 Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-tech-tutorial-record-on-hangouts-for-2024/"><u>[New] Tech Tutorial Record on Hangouts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/command-center-camouflage-win-1011-guidebook/"><u>Command Center Camouflage: Win 10/11 Guidebook</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-inspect-and-purging-windows-10-activities/"><u>Comprehensive Guide to Inspect & Purging Windows 10 Activities</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-purify-windows-ram-cache-quickly/"><u>How to Purify Windows' RAM Cache Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-missing-time-remaining-indicator-in-windows-11-pcs/"><u>How to Rectify Missing Time Remaining Indicator in Windows 11 PCs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/which-live-stream-software-wins-exploring-obs-vs-streamlabs-for-2024/"><u>Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,3 +129,22 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid/"><u>[New] 2024 Approved 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-balancing-volume-levels-in-obs-streaming/"><u>[New] In 2024, Balancing Volume Levels in OBS Streaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-flashback-finder-for-2024/"><u>[Updated] Facebook Flashback Finder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gone-sticker-refining-vids-for-a-slick-tiktok-presence/"><u>2024 Approved Gone Sticker Refining Vids for a Slick TikTok Presence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-how-to-convert-your-music-files-from-wma-to-lossless-flac-format/"><u>Comprehensive Guide: How to Convert Your Music Files From WMA to Lossless FLAC Format</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cutting-edge-methods-backing-up-iphone-photos-to-snapchat/"><u>Cutting-Edge Methods Backing Up iPhone Photos to Snapchat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-bridging-the-web-with-instagram-a-url-tutorial/"><u>In 2024, Bridging the Web with Instagram A URL Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tactical-volume-management-in-live-mixing/"><u>In 2024, Tactical Volume Management in Live Mixing</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-lightweight-web-access-browser-ram-consumption-tested-and-rated/"><u>Seeking Lightweight Web Access: Browser RAM Consumption Tested & Rated</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-premium-sound-installing-dolby-atmos-on-win-11/"><u>Setting up Premium Sound: Installing Dolby Atmos on Win 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speaker-connects-but-no-sound-a-guide-for-diagnosing-audio-issues-in-windows/"><u>Speaker Connects but No Sound? A Guide for Diagnosing Audio Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-address-security-hurdles-with-these-top-5-windows-troubleshooting-steps/"><u>Swiftly Address Security Hurdles with These Top 5 Windows Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-printing-power-in-windows-environment/"><u>Unleash Peak Printing Power in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-secrets-for-purging-windows-security-history/"><u>Unveiling Secrets for Purging Windows' Security History</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Past: Integrating Awards in Vintage Titles Through Retroarch"
-date: 2024-12-06T08:59:33.591Z
-updated: 2024-12-07T09:52:32.894Z
+date: 2024-12-06T13:46:46.023Z
+updated: 2024-12-13T02:54:34.126Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are We Adding Achievements Retroactively?
 
  We don't actually need achievements to enjoy our games. For many, they're a useless, superficial, and even annoying addition to their hobby. Others like them so much, they'd love to be able to re-unlock them from scratch (which, by the way, is what we saw in our article on [how to reset achievements for Steam games](https://www.makeuseof.com/how-to-reset-achievements-for-steam-games/)).
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  Rest assured, retro gaming achievements are almost never annoying. Being created by gamers for gamers, they should be fair even when they're hard to unlock, and work as one of the best excuses for revisiting old favorites.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do Achievements Work in Retro Games?
 
  Adding achievements retroactively begins with a site, aptly named [RetroAchievements](https://retroachievements.org/). This is a database of digital trophies for hundreds of games on various platforms.
@@ -51,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  Neither MUO nor this writer are affiliated with RetroAchievements. Still, for retro-achievements to work, an emulator has to connect to RetroAchievements' database through a personal user account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable RetroArch’s Support for Achievements
 
  Although many modern emulators support retro game achievements, for this article, we will be using the popular multi-emulator front-end RetroArch.
@@ -66,8 +70,18 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 2. Run RetroArch, and select **Settings** from its main menu (it's the second entry if using RetroArch's full-screen mode). Scroll down to find the **Achievements Settings** page.  
 ![RetroArch Settings Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements.jpg)
 3. Inside the **Achievements Settings** page, flick the switch next to **Achievements** to **On** to activate the emulator's support for them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch Settings Achievements Switched On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-switched-on.jpg)
 4. Enter your username and password at the RetroAchievements site in RetroArch's **Achievements** **Username** and **Password** fields.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch Settings Achievements Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-username.jpg)
 5. If you wish, check the options and customize them to your liking. For example, you can enable a **Hardcore mode**, which unlocks more achievements, but disables many helpful functions in the emulator, like support for save states and rewind. Or you could enable the **Automatic Screenshot** feature to have a screen grab of your in-game action automatically taken when you unlock an achievement.  
 ![RetroArch Settings Achievements Automatic Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-settings-achievements-automatic-screenshot.jpg)
@@ -79,15 +93,12 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 1. When you launch a supported game with a supported core emulator, you will be notified that you are logged in to RetroAchievements.  
 ![RetroArch Logged In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-logged-in.jpg)
 2. You will also see an indication of your current achievement-hunting progress on the top left of the emulator. As you play the game and hit some milestones, any related achievements will be automatically unlocked, both "locally in your emulator" and synced to your account at RetroAchievements.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroArch In Game Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-in-game-status.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check if a Game Has Retroactive Achievements
 
@@ -98,30 +109,23 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 2. Various versions of the same games are available, and not all of them support RetroAchievements. To ensure your copy of a game does, visit its page at RetroAchievements and click **Supported Game Files** on the right side.  
 ![RetroAchievements Site Metal Gear Solid Version Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check.jpg)
 3. There, you will find a list of the **supported game files** and their **hashes**, which you can use to check your version of the game. We won't dive into details for this part of the process. If you're not familiar with the term, check our article where we explain [what is hashing](https://www.makeuseof.com/what-is-hashing/). Then, take a look at our article on some great [free hash checkers and how to use them on Windows](https://www.makeuseof.com/tag/free-hash-checkers-file-integrity/).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![RetroAchievements Site Metal Gear Solid Version Check File Hashes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-metal-gear-solid-version-check-file-hashes.jpg)
 4. You can see all the achievements you've unlocked at the RetroAchievements site by visiting the **Achievements** page under **My Pages**.  
 ![RetroAchievements Site My Pages Menu Achievements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroachievements-site-my-pages-menu-achievements.jpg)
 5. You can also see all the available achievements for a game you are playing by visiting RetroArch's menu (by default by pressing F1) and then selecting the **Achievements** menu entry.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![RetroArch Game Achievements List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-list-1.jpg)
 6. On the list within the **Achievements** entry, you can see the locked achievements at the top, followed by the ones you've unlocked.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![RetroArch Game Achievements Unlocked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/retroarch-game-achievements-unlocked.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Achieving the Previously Unachievable With RetroArch
@@ -132,25 +136,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  Let's see how you can add modern achievements to ancient emulated titles using Retroarch.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-podcasting-perfection-premium-recording-mics-for-2024/"><u>[New] Podcasting Perfection Premium Recording Mics for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-excellent-series-of-animated-type-options/"><u>[Updated] 2024 Approved Excellent Series of Animated Type Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-essential-5-pro-drones-for-skilled-drone-pilots/"><u>[Updated] Essential 5 Pro Drones for Skilled Drone Pilots</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-10-most-subscribed-youtuber-in-the-world/"><u>2024 Approved Top 10 Most Subscribed YouTuber in the World</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-default-cam-use-anonymity-on-windows-11/"><u>Counteracting Default Cam Use Anonymity on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/echoes-end-solutions-for-stifled-windows-spacebar/"><u>Echoes End? Solutions for Stifled Windows Spacebar</u></a></li>
-<li><a href="https://win11.techidaily.com/enchanting-windows-11-holiday-system-tweaks/"><u>Enchanting Windows 11: Holiday System Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-access-violation-windows-save-permissions-error/"><u>Fixing Access Violation: Windows Save Permissions Error</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-15-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 15 Pro Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-to-the-leading-free-accurate-srt-translators-online/"><u>Navigating to the Leading Free, Accurate SRT Translators Online</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-your-way-to-iis-mastery-with-ease/"><u>Navigating Your Way to IIS Mastery with Ease</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-hot-40-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Hot 40 Device</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-taskbar-look-with-personalized-weather-icons-on-windows-11/"><u>Transforming Taskbar Look with Personalized Weather Icons on Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-130-musics-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia 130 Musics Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-solutions-eradicating-no-servers-found-issues-in-apex-legends-(156-chars/"><u>Unveiling Solutions: Eradicating No Servers Found Issues in Apex Legends (<156 Chars)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +143,24 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-direct-route-uploading-from-youtube-to-dailymotion/"><u>[Updated] Direct Route Uploading From YouTube to Dailymotion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>[Updated] How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>2024 Approved Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-deadly-script-error-in-discord-for-windows-11-users/"><u>Combatting the Deadly Script Error in Discord for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-missing-zlibdll-error-in-windows/"><u>Comprehensive Fixes for Missing zlib.dll Error in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-drivers-for-nvidia-rtx-2060-compatible-with-win11win10win8win7/"><u>Download the Newest Drivers for NVIDIA RTX 2060: Compatible with Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-adjustments-your-guide-to-pointer-settings-in-win11/"><u>Effortless Adjustments: Your Guide to Pointer Settings in Win11</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/enhanced-traffic-with-automated-tracking-the-benefits-of-using-cookiebot/"><u>Enhanced Traffic with Automated Tracking: The Benefits of Using Cookiebot</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltm Online with DigiSigner</u></a></li>
+<li><a href="https://solve-info.techidaily.com/itunes-enthusiasts-tutorial-how-to-convert-and-import-dvd-content-seamlessly/"><u>ITunes Enthusiast's Tutorial: How to Convert & Import DVD Content Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-synchronization-timely-windows-update/"><u>Seamless Synchronization: Timely Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-java-not-setup-error-on-windows/"><u>Strategies for Correcting Java Not Setup Error on Windows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-windows-11-audio-transformation-tool/"><u>Top-Rated Windows 11 Audio Transformation Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-access-denied-for-windows-users/"><u>Understanding and Resolving Access Denied for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-invisible-disk-in-os-environment/"><u>Unveiling Invisible Disk in OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enhancement-choose-best-clock-based-screen-protectors/"><u>Windows Enhancement - Choose Best Clock-Based Screen Protectors</u></a></li>
+</ul></div>
+

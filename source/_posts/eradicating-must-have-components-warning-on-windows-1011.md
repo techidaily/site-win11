@@ -1,7 +1,7 @@
 ---
 title: Eradicating Must-Have Components Warning on Windows 10/11
-date: 2024-09-05T08:30:49.859Z
-updated: 2024-09-06T08:30:49.859Z
+date: 2024-12-08T17:54:18.082Z
+updated: 2024-12-12T19:59:07.736Z
 tags:
   - windows10
   - windows11
@@ -14,56 +14,24 @@ keywords: Windows Upgrade Alerts,Win10/Win11 Essentials,Critical Features Warnin
 thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c1304de3ac8c4843a110a218e6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Eradicating Must-Have Components Warning on Windows 10/11
 
  Some users have posted on software (or gaming) support forums about an error message that says, “the following components are required to run this program.” The error message also specifies the component to be either Visual C++ or DirectX Runtime.
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
  Check out [how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -78,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
  If repairing doesn’t work, or you can’t find the Visual C++ package specified in the error, you may need to install missing C++ runtime libraries. Microsoft has a webpage from which you can download numerous different C++ Redistributable packages.
@@ -97,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Install DirectX Runtime Libraries
 
  If the error message mentions DirectX, that means your PC might be missing DirectX runtime components required for a game. That’s more likely to be the case if you’re trying to play an older game on a Windows 11/10 PC.
@@ -119,22 +77,19 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 3. Select **I accept the agreement** inside the "Installing Microsoft DirectX" window.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click **Next** to proceed to an offer for installing a Bing Bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Uncheck the **Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select **Next** to install the required DirectX components.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
@@ -151,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  If you're unsure how to do this, check out [how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the Affected Game or Software
 
  If the “following components are required” issue continues after applying all fixes above, reinstalling the game or software is the last thing to try. Some players might be concerned about losing saved data for games after reinstalling them. However, you can [back up saved game progress](https://www.makeuseof.com/tag/protect-your-game-saves/#:~:text=To%20turn%20on%20cloud%20saves,keep%20it%20in%20the%20cloud.) before uninstalling titles in different ways.
@@ -159,12 +118,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
@@ -177,11 +130,30 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
  This error typically occurs when users try to launch Windows games. Consequently, players cannot play games for which the “following components are required” error occurs. This is how you can fix the “following components are required” error on a Windows 10 or 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-non-retweeting-video-tweets-from-your-phone/"><u>[New] In 2024, Non-Retweeting Video Tweets From Your Phone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-the-role-of-ram-reservation-on-windows/"><u>Demystifying the Role of RAM Reservation on Windows</u></a></li>
+<li><a href="https://win-unique.techidaily.com/download-fox-news-videos-in-hd-get-high-quality-mp4-wmv-or-avi-files/"><u>Download Fox News Videos in HD: Get High-Quality MP4, WMV or AVI Files</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-your-way-through-windows-11-refresh/"><u>Guiding Your Way Through Windows 11 Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-sound-device-errors-with-audacity-windows/"><u>How to Resolve Sound Device Errors with Audacity (Windows)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>In 2024, Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sci-fis-new-frontiers-a-compilation-of-incredible-metaverse-movie-experiences/"><u>In 2024, Sci-Fi's New Frontiers A Compilation of Incredible Metaverse Movie Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-usb-wi-fi-limbo-with-these-8-troubleshooting-steps/"><u>Overcoming USB Wi-Fi Limbo with These 8 Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/post-bsod-the-quest-for-system-logs-on-windows/"><u>Post-BSOD: The Quest for System Logs on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/saying-thanks-access-to-otu-creations-freepaid/"><u>Saying Thanks Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-complexities-of-windowed-discord-queries/"><u>Simplifying the Complexities of Windowed Discord Queries</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-winmedia-errors/"><u>Strategies for Addressing WinMedia Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/switch-onoff-fingerwriting-feature-in-windows-os/"><u>Switch On/Off Fingerwriting Feature in Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-impact-and-importance-of-switching-to-electric-autos/"><u>The Impact and Importance of Switching to Electric Autos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitta-to-trackable-audio-transitions/"><u>Twitta to Trackable Audio Transitions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-discount-top-rated-gaming-speakers-now-30-less-on-amazon-insider-review/"><u>Unbelievable Discount: Top-Rated Gaming Speakers Now 30% Less on Amazon - Insider Review</u></a></li>
+</ul></div>
+

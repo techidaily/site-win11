@@ -1,7 +1,7 @@
 ---
 title: Steps for Correcting Messages Not Rendering in Discord
-date: 2024-12-02T03:43:31.112Z
-updated: 2024-12-07T08:25:05.221Z
+date: 2024-12-08T12:57:08.139Z
+updated: 2024-12-13T07:51:06.232Z
 tags:
   - windows10
   - windows11
@@ -29,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
 ![Checking Discord Status on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/1-Checking-Discord-Status-on-Discord.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before you start tweaking any settings, ensure Discord isn't down first. Check the[Discord status page](https://discordstatus.com/) for any reported problems, and keep an eye out for server connection issues. If other Discord users have reported a similar issue, there might be a problem on the backend.
 
  If the problem is with Discord's servers you can't do much about it until the developers resolve the server issues. Once they're done, Discord should return to normal operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rule Out Any Internet Issues
 
@@ -51,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
  However, if other apps do work, try closing bandwidth-hogging apps on your PC. Double-check if any devices on your network are soaking up bandwidth, too. Once you've freed up some space, try running Discord again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Give Discord a Fresh Start
 
  Sometimes, just giving Discord a fresh start is enough to knock it out of its issues. Log out of your account, close Discord, restart the app, and log back in. Check to see if messages are loading correctly this time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Switch Your Network Connection
 
@@ -77,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
  After confirming that Discord systems are operational, the internet is working fine, and there is no temporary glitch, you should rule out channel-specific issues. For that, try switching to another channel on the same server. If the problem occurs across all channels on the same server, check that you haven't been banned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Mute and Unmute a Channel
 
  Muting and unmuting the channel where you're experiencing the "messages failed to load" error may also help. While muting only pauses the notifications from the channel or server, it can sometimes help with problems loading messages. To mute and unmute a Discord channel or server, follow these steps:
@@ -94,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 ![Unmuting the Muted Server in the Discord App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Mark Messages as Read
@@ -107,7 +87,11 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 3. Wait for the app to load messages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make Sure You Are Not Temporarily Banned From Discord
@@ -136,10 +120,19 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 2. Enter**%appdata%/discord** and click**OK** . After that, you will be redirected to Discord's**AppData** folder, where you will find its cache.  
 ![Opening the DIscord AppData Folder Using the Windows Run Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-1.jpg)
 3. Find the cache folders, namely**Cache, Code Cache,** and**GPU Cache** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click each folder and select**Delete** .  
 ![Deleting the Cache Code, Cache, and GPU Cache Folders in the Discord AppData Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-1.jpg)
 
  Once you have completed these steps, close the Discord app and restart your device. When your device has fully restarted, open Discord and see if messages have loaded successfully this time. If the messages remain stuck and the error persists, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Update Discord
 
@@ -153,16 +146,24 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
 ![A finger pointing at the Discord logo on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/A-finger-pointing-at-the-Discord-logo-on-a-phone--(1).jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If none of the fixes have worked, you should try loading messages on a different Discord client. You can access Discord in several ways, including a PC client, a mobile app, and a web version you can use in your browser.
 
  To double-check if the problem lies within your chosen client or not, try connecting to Discord via a different one. If it doesn't work in one client but works in another, you should[uninstall Discord](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) from your device and install it again to fix the problem. If the problem is with the web version, try[clearing the cookies and cache](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) and see if that fixes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13\. Report the Problem to Discord Support as a Last Resort
 
  If none of the fixes work, contact Discord support as a last resort. For that, you can reach out to them via email at <support@discordapp.com>. If you don't hear back, you can submit a request via the request form on the[Discord website](https://support.discord.com/hc/en-us/requests/new) . If that also fails, you can reach out to[Discord via Twitter](https://twitter.com/discord) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "Messages Fail to Load" Error, Fixed
@@ -186,15 +187,20 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-video-snatchers-for-optimal-use-in-win11/"><u>[Updated] 2024 Approved Best Video Snatchers for Optimal Use in Win11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-auditory-appeal-infusing-music-into-instagram-stories/"><u>[Updated] Auditory Appeal Infusing Music Into Instagram Stories</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-essential-guide-free-youtube-image-saving/"><u>[Updated] In 2024, The Essential Guide FREE YouTube Image Saving</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-safe-file-housing-on-win1011-systems/"><u>Establishing Safe File Housing on Win10/11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-wintoys-a-brief-yet-in-depth-look-into-windows-powerhouse/"><u>Exploring WinToys: A Brief Yet In-Depth Look Into Windows' Powerhouse</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-for-preventing-win11-v22h2-updater-failure/"><u>Guide for Preventing WIN11 V22H2 Updater Failure</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peak-performance-tools-best-4k-cameras-for-professionals-for-2024/"><u>Peak Performance Tools Best 4K Cameras for Professionals for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-fix-the-privileged-requirement-not-met-error-in-windows/"><u>Strategies to Fix the Privileged Requirement Not Met Error in Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-top-race-rc-off-roader-a-comprehensive-rock-crawler-evaluation/"><u>Ultimate Guide: Top Race RC Off-Roader - A Comprehensive Rock Crawler Evaluation</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-download-splice-for-mac-os-and-unleash-your-creativity/"><u>Updated In 2024, Download Splice for Mac OS and Unleash Your Creativity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[Updated] In 2024, Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-rotation-revelations-maximizing-media-experience-with-vlc-for-2024/"><u>[Updated] Rotation Revelations Maximizing Media Experience with VLC for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-scripting-a-riveting-movie-in-miniature-for-2024/"><u>[Updated] Scripting a Riveting Movie-in-Miniature for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlocking-youtube-sounds-through-screen-capture/"><u>[Updated] Unlocking YouTube Sounds Through Screen Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-monochrome-moments-to-multicolor-movies/"><u>2024 Approved From Monochrome Moments to Multicolor Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-addressing-steam-auth-timeout-on-windows-with-rust-coding/"><u>Deciphering and Addressing Steam Auth Timeout on Windows with Rust Coding</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/erfolgreiche-wiederherstellung-von-festplatten-image-dateien-unter-windows-11-erklart/"><u>Erfolgreiche Wiederherstellung Von Festplatten-Image-Dateien Unter Windows 11 Erklärt</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-gaming-devices-a-windows-approach-to-testing/"><u>Fine-Tuning Gaming Devices: A Windows Approach to Testing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adjust-your-android-images-right-here/"><u>In 2024, Adjust Your Android Images Right Here</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-handle-unavailable-files-on-windows-oses-150-chars/"><u>Method to Handle 'Unavailable' Files on Windows OSes (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-password-change-windows-11-tutorial/"><u>Navigating Password Change: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-wake-up-sequence-windows-11-boot-timer-control/"><u>Speeding Up Wake-Up Sequence: Windows 11 Boot Timer Control</u></a></li>
+<li><a href="https://win11.techidaily.com/the-photographers-shield-preventing-windows-camera-problems/"><u>The Photographer’s Shield: Preventing Windows Camera Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-error-code-0x80070091-directories-not-empty-issue-on-windows-11/"><u>Unblocking Error Code: 0X80070091 Directories Not Empty Issue on Windows 11</u></a></li>
 </ul></div>
 

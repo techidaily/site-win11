@@ -1,7 +1,7 @@
 ---
 title: "Master Access in Windows 11: 11 Tips for Credential Manager"
-date: 2024-12-04T08:06:46.168Z
-updated: 2024-12-07T01:55:59.832Z
+date: 2024-12-07T12:30:34.486Z
+updated: 2024-12-12T16:47:50.854Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Start Menu
 
  The Start menu is the most-visited section by Windows users. To access Credential Manager using the Start menu, repeat the following steps:
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 1. Press the**Win** key to open the Start menu.
 2. Type**Credentials Manager** and click on the**Open** option.
 3. The Credential Manager utility will launch on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using Windows Search
 
@@ -42,7 +50,11 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 2. Type Credential Manager and click on the first relevant search result to open the tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Using the Run Command Box
@@ -55,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 3. Credential Manager will open in a separate control panel window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Using the File Explorer
@@ -91,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 ![Open Credentials Manager Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-control-panel.jpg)
 3. Lastly, click on the**Credential Manager** option to launch the tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Using a Desktop Shortcut
 
  A desktop shortcut can save much time in Credential Manager on the system. Since it is not an executable program but a DLL file, merely making a desktop shortcut won’t work. Instead, we will create a shortcut of the Credential Manager DLL file and configure it to open with Control Panel.
@@ -107,11 +115,11 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 ![Open Credentials Manager Using a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-desktop-shortcut.jpg)
 4. Click on the**Next** button. Name the shortcut**Credential Manager** and click on the**Finish** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Now, double-click on the shortcut to open Credential Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Using the Settings App
 
@@ -122,14 +130,6 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 ![Open Credentials Manager Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-settings-app.jpg)
 3. Type**Credential Manager** and click on the first relevant search result for the utility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Using a PowerShell Command
 
  Like the Command Prompt, you can use PowerShell to open Credential Manager with a simple one-line command. Here’s how to do it:
@@ -139,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 3. Type the following command in the PowerShell window and press the**Enter** key:**start-process control.exe keymgr.dll**  
 ![Open Credentials Manager Using a PowerShell Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-a-powershell-command.jpg)
 4. Credential Manager will open. Type the**exit** command in the PowerShell window and press the**Enter** key to close it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Using a Batch File
 
@@ -162,14 +166,10 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 ![Open Credentials Manager Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-credentials-manager-using-the-task-manager.jpg)
 3. Type**control.exe keymgr.dll** in the Create new task window and click on the**OK** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Credential Manager will open in a new window. Exit the Task Manager window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check Your Credentials on Windows Quickly With These Tips
@@ -191,16 +191,19 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>[Updated] 2024 Approved Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-beginners-guide-to-making-money-on-youtubers/"><u>[Updated] 2024 Approved Your Beginner's Guide to Making Money on YouTubers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-blend-beats-and-bullets-in-microsofts-presentation-tool-for-2024/"><u>[Updated] How to Blend Beats and Bullets in Microsoft's Presentation Tool for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-reset-counter-for-incorrect-logins-on-windows-11-os/"><u>Customizing Reset Counter for Incorrect Logins on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-the-editing-environment-incorporating-wordpad-commands-in-windows-menu/"><u>Enhancing the Editing Environment: Incorporating WordPad Commands in Window's Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-remedy-for-keyboard-shortcut-failures-with-snips/"><u>Immediate Remedy for Keyboard Shortcut Failures with Snips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-a23-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy A23 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-online-gif-loop-generators-2023-edition/"><u>New In 2024, Best Free Online GIF Loop Generators 2023 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/seeking-low-ram-browsers-our-exhaustive-evaluation-guide/"><u>Seeking Low-RAM Browsers: Our Exhaustive Evaluation Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-visuals-win11s-auto-color-features/"><u>Streamline Your Visuals: Win11's Auto Color Features</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-a-lasting-impression-with-the-best-video-invitation-apps/"><u>Updated In 2024, Make a Lasting Impression with the Best Video Invitation Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-peak-memes-ranking-the-viral-ones-on-both-platforms/"><u>[New] 2024 Approved Peak Memes Ranking the Viral Ones on Both Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-covert-content-creation-how-to-invisibly-alter-videos/"><u>[New] In 2024, Covert Content Creation How to Invisibly Alter Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>[New] In 2024, Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
+<li><a href="https://win11.techidaily.com/core-reasons-for-using-vcplusplus-distribute/"><u>Core Reasons for Using VC++ Distribute</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-hypervisorbsod-on-windows-1011-instantly/"><u>Eliminating HYPERVISOR_BSOD on Windows 10/11 Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-microsoft-shop-fault-0x80131500/"><u>Eradicating Microsoft Shop Fault #0X80131500</u></a></li>
+<li><a href="https://win11.techidaily.com/exiting-others-sign-in-profiles-on-microsoft-os/"><u>Exiting Other's Sign-In Profiles on Microsoft OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/from-simple-to-sophisticated-weaving-multiple-images-into-your-insta-story-for-2024/"><u>From Simple to Sophisticated Weaving Multiple Images Into Your Insta Story for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723014000495-how-to-fix-pc-doesnt-launch-far-cry-issue-solutions-applied/"><u>How to Fix 'PC Doesn't Launch Far Cry 지도' Issue - Solutions Applied</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-for-efficiency-transforming-administrative-control-systems/"><u>Innovating for Efficiency: Transforming Administrative Control Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-tiktok-video-reversal-made-easy-a-beginners-guide-2023-edition/"><u>New 2024 Approved TikTok Video Reversal Made Easy A Beginners Guide 2023 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-over-windows-shared-resource-restrictions/"><u>Triumph Over Windows Shared Resource Restrictions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-recurrent-audio-drops-on-your-windows-11-pc-solutions/"><u>Troubleshooting Recurrent Audio Drops on Your Windows 11 PC - Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211815347-windows-11-keyboard-responsiveness-issue-how-to-fix-it/"><u>Windows 11 Keyboard Responsiveness Issue - How to Fix It!</u></a></li>
 </ul></div>
 

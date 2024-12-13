@@ -1,7 +1,7 @@
 ---
 title: Minimizing Options in the Win 11 Context List
-date: 2024-09-05T08:29:40.122Z
-updated: 2024-09-06T08:29:40.122Z
+date: 2024-12-11T18:36:13.811Z
+updated: 2024-12-12T21:14:26.689Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Windows 11 Minimize Features,Win 11 Clutter Reduction,Streamline Win 1
 thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111cdb4f87264835a3e2bfe371a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Minimizing Options in the Win 11 Context List
 
  Windows 11 comes with a fresh new look and has mainly got a positive response for its new interface. However, there are a couple of features that are not being welcomed by the users. For instance, the addition of the "show more options" entry to the right-click context menu.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
  Although it was introduced to simplify things, many users still prefer the old context menu from Windows 10\. Fortunately, you can remove Show more options from the context menu on Windows 11 by following the below methods.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
  The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
@@ -48,11 +40,9 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 Next, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -76,11 +66,9 @@ Next, restart your computer for the changes to take effect.
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
  Another quick way to remove the "show more options" entry is through the Registry Editor. Here's what you need to do:
@@ -94,20 +82,17 @@ Next, restart your computer for the changes to take effect.
 4. Name the value as**"UndockingDisabled"** and press**Enter** .  
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -126,14 +111,11 @@ Next, restart your computer for the changes to take effect.
 
  The desktop context menu lets you quickly access areas like the personalization menu, display settings, and much more. In Windows 11, you get the new "Show more options" entry in the context menu. But if you prefer the old design, you can quickly disable the "Show more options" entry from the context using either of the above methods.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +124,24 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-20-best-twitter-unfollowers-and-tools/"><u>[New] 2024 Approved Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-premier-guide-to-high-definition-android-viewing-tools/"><u>[New] The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-airborne-broadcasting-how-to-stream-with-dji-drones/"><u>[Updated] Airborne Broadcasting How to Stream with DJI Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-photography-with-phantoms-retrograde-technique/"><u>2024 Approved Perfecting Photography with Phantom's Retrograde Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-worst-aspects-of-windows-11-for-users/"><u>Dissecting the Worst Aspects of Windows 11 for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-8-customizations-with-bubble-ui/"><u>Enhance Your Windows Experience: 8 Customizations with Bubble UI</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-vn-video-editor-for-pc-a-compact-review-of-features-and-performance/"><u>In 2024, VN Video Editor for PC A Compact Review of Features and Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reclaim-pre-set-touch-key-positions-in-windows-11/"><u>Method to Reclaim Pre-Set Touch Key Positions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-event-viewer-malfunctions/"><u>Resolving Windows Event Viewer Malfunctions</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/setting-your-wallpaper-on-windows-10-or-11-for-free-a-step-by-step-guide-with-easy-techniques/"><u>Setting Your Wallpaper on Windows 10 or 11 for Free: A Step-by-Step Guide with Easy Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpening-windows-gameplay-boost-yuzu-speed/"><u>Sharpening Windows Gameplay: Boost Yuzu Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/sniping-in-windows-10-prtsc-vs-snip-and-sketch-showdown/"><u>Sniping in Windows 10: PrtSc Vs. Snip & Sketch Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-techniques-for-ios-image-sharing-for-2024/"><u>Streamlined Techniques for iOS Image Sharing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-fine-tuning-ntfs-file-compression/"><u>The Essential Guide to Fine-Tuning NTFS File Compression</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unprintable-pdf-woes-masterful-shortcuts-to-make-them-work/"><u>Unprintable PDF Woes? Masterful Shortcuts to Make Them Work!</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cannot-find-powershell/"><u>What to Do When Windows Cannot Find PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-netstat-command-your-gateway-to-network-analysis/"><u>Windows 11 Netstat Command: Your Gateway to Network Analysis</u></a></li>
+</ul></div>
 

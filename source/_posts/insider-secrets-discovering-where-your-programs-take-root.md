@@ -1,7 +1,7 @@
 ---
 title: "Insider Secrets: Discovering Where Your Programs Take Root"
-date: 2024-09-05T08:29:07.600Z
-updated: 2024-09-06T08:29:07.600Z
+date: 2024-12-08T00:12:29.168Z
+updated: 2024-12-12T22:41:16.992Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
  The program's installation directory is typically located somewhere within the Program Files folder on your system, but locating the correct folder can be time taking. Read on as we list the different ways you can use to find the install location of a program on Windows 10 and 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Find the Location of a Program Using the Start Menu
 
  One of the easiest methods of finding the install location of a program is through the**Start** menu. Here’s what you need to do:
@@ -33,12 +31,11 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 1. Launch the**Start** menu and locate the program's icon whose install location you need to find. If you don’t immediately see it, you might have to search for the program.  
 ![start menu program location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/start-menu-file-location.jpg)
 2. Right-click on the program icon, and click on**Open file location** .
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
 
@@ -52,19 +49,15 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 2. Click on the**Properties** , and the Properties window should now be displayed.  
 ![shortcut properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-target.jpg)
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
  The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other[conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
@@ -74,18 +67,11 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
@@ -102,32 +88,17 @@ To find where a program is located using the File Explorer:
 ![program files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/program-files-explorer.jpg)
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Finding a Program's Install Location Is Easy
 
  Knowing where a program is installed on your system can come in handy when you need to access its folder. Luckily, there are several ways to find the installation directory of a program.
 
  If you're big on file and folder management, why not get an alternative for File Explorer? There are some excellent candidates out there, and some of them are even open source.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +107,19 @@ To find where a program is located using the File Explorer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ontent-creation-battleground-choosing-between-vimeo-youtube-dailymotion-for-2024/"><u>[New] Content Creation Battleground Choosing Between Vimeo, YouTube, DailyMotion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dissection-of-fb-video-dimensions/"><u>[Updated] 2024 Approved Dissection of FB Video Dimensions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-slice-and-tag-the-art-of-chaptering-in-vimeo/"><u>[Updated] Slice and Tag The Art of Chaptering in Vimeo</u></a></li>
+<li><a href="https://fox-making.techidaily.com/boilerplate-mastery-for-developers-pro-horizon-ai-framework-advanced-oauth-stripe-and-supabase-features-in-nextjsfigma-combo-by-creative-tim/"><u>Boilerplate Mastery for Developers: Pro Horizon AI Framework - Advanced OAuth, Stripe & Supabase Features in NextJS/Figma Combo by Creative Tim</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-mov-video-rotators-for-2024/"><u>Discover the Best Free MOV Video Rotators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/edges-hidden-workers-a-tasker-question/"><u>Edge's Hidden Workers: A Tasker Question</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rebuild-the-icon-cache-in-windows/"><u>How to Rebuild the Icon Cache in Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-social-media-reach-the-best-2e-free-fb-video-creation-tools/"><u>In 2024, Boosting Social Media Reach The Best 2E Free FB Video Creation Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-movavi-plus-unveiled-the-latest-edition/"><u>In 2024, Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-no-license-plenty-of-melodies-top-10-online-websites/"><u>In 2024, No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-to-mend-a-stuck-windows-11-search-bar-on-settings-page/"><u>Quick Steps to Mend a Stuck Windows 11 Search Bar on Settings Page</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-frontier-of-programming-with-microsoft-copilot/"><u>The New Frontier of Programming with Microsoft Copilot</u></a></li>
+</ul></div>
 

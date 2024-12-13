@@ -1,7 +1,7 @@
 ---
 title: The Insider’s Guide to Winstall and Application Groups in Windows 11
-date: 2024-12-01T20:11:20.140Z
-updated: 2024-12-06T20:01:44.570Z
+date: 2024-12-10T05:08:10.066Z
+updated: 2024-12-13T06:28:38.141Z
 tags:
   - windows10
   - windows11
@@ -27,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Winstall?
 
 ![Winstall home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/winstall-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Winstall is a website that outputs the exact Winget commands you need to run in the Terminal app to install various apps. What's groundbreaking about this service is that it provides the exact package name, ID, and commands for everything you need—you no longer have to scrounge up what you need from all over the internet.
 
@@ -40,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
  Currently, the Winstall app library has over 4,600+ app listings, all thanks to the efforts of Mehdi Hassan and other contributors who continue to find, list, and update package details of apps. It isn't as big as the Microsoft Store or Winget repository but still tries to include all the popular and requested apps on the portal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Batch Install Apps in Windows 11 with Winstall
 
  Before batch-installing apps on your Windows 11 PC, remember that Winstall is a web portal that provides the complete Winget command to install one or many apps. It cannot directly install apps on your PC. For that, you need to run the generated commands in Command Prompt, PowerShell, as a batch file, or import as a .json file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to Install Multiple Apps Using a Winstall App Pack
 
@@ -59,11 +63,12 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 2. Click on the app pack label. Alternatively, you can click on the **View Pack** option.  
 ![Install Multiple Apps Using a Winstall App Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack.jpg)
 3. Now, click on the **Get Pack** button. This will scroll the page to the **Get the Pack** section at the bottom.  
-![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
 
  Now, you can install the app pack in three ways: Batch, PowerShell, and Winget Import. You can [download and run the batch file](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) with administrator privileges on your system. Or, you can copy the batch file commands and run them in an elevated Command Prompt window.
 
@@ -76,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 3. Click on the **Copy to clipboard** button to copy the generated code.  
 ![Install Multiple Apps Using a Winstall App Pack 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-3.jpg)
 4. Now, press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **cmd** and press **Ctrl + Shift + Enter** keys to open the tool with administrator privileges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Paste the copied code into the Command Prompt window and press the enter key to execute the code.  
 ![Install Multiple Apps Using a Winstall App Pack 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-4.jpg)
@@ -100,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
@@ -123,29 +124,6 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
 
  With Winstall, you can now easily use Winget to batch-install Windows 10 and 11 apps. Best of all, both tools are free! So, are you wondering how to use this? Let's begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronizing-sequential-images-for-impactful-storytelling/"><u>2024 Approved Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Redmi Note 12T Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-ram-type-in-windows-a-step-by-step-guide/"><u>Discovering RAM Type in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-to-modify-windows-11-account-hierarchy/"><u>Essential Techniques to Modify Windows 11 Account Hierarchy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-software-for-optimal-performance/"><u>Get the Most Recent NVIDIA Quadro RTX 4000 Driver Software for Optimal Performance</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-poco-c51-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Poco C51 Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-camon-20-premier-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Camon 20 Premier 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>In 2024, Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-fixes-unraveling-error-1152-on-pc/"><u>Mastering Windows Fixes: Unraveling Error 1152 on PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mediamagic-8-edition-for-2024/"><u>MediaMagic 8 Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-to-activate-or-deactivate-fingerwritten-entry-in-windows/"><u>Quick Tips to Activate or Deactivate Fingerwritten Entry in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-lost-windows-a-compact-guide-to-resurrecting-hidden-panes-on-win-10/"><u>Reviving Lost Windows: A Compact Guide to Resurrecting Hidden Panes on Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-error-0x800700e1-windows/"><u>Steps to Correct Error 0X800700E1 Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-stop-overheating-in-computers-os-w11/"><u>Strategies to Stop Overheating in Computers OS: W11</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-restarting-non-operational-obs-on-pc/"><u>Successfully Restarting Non-Operational OBS on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/three-essential-tweaks-for-windows-11-settings/"><u>Three Essential Tweaks for Windows 11 Settings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-innovative-ios-18-updates-unveiled-at-wwdc-2024-the-beginning-of-a-new-era-with-integrated-ai-features-techinsight/"><u>Top 5 Innovative iOS 18 Updates Unveiled at WWDC 2024: The Beginning of a New Era with Integrated AI Features | TechInsight</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/1a81b2424f69fff5b71451b0842af4d68db51d144
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-moment-in-time-windows-108-screenshots-explained/"><u>[New] Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-niconico-stars-in-snapchat-moments/"><u>[New] Niconico Stars in Snapchat Moments</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>[Updated] 2024 Approved The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-hitting-your-targets-with-these-8-social-media-planners-for-2024/"><u>[Updated] Hitting Your Targets with These 8 Social Media Planners for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-list-of-5-gaming-audio-experts/"><u>2024 Approved The Ultimate List of 5 Gaming Audio Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-kyocera-printer-drivers-on-windows-a-comprehensive-guide/"><u>Download & Install KYOCERA Printer Drivers on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failure-error-in-win-1011/"><u>Eradicating Operation Failure Error in Win 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y77t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y77t For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y100i-power-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y100i Power 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-out-of-arrow-chaos-in-windows-pcs/"><u>Navigate Out of Arrow Chaos in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-issue-a-step-by-step-guide/"><u>Overcoming 'lsass.exe' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-silent-audio-issues-during-valorant-playthroughs-on-windows/"><u>Overcoming Silent Audio Issues During Valorant Playthroughs on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-to-classic-folder-visibility/"><u>Resetting Windows 11 to Classic Folder Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-virtual-setup-installing-win11-on-workstation-17/"><u>Streamlining Virtual Setup: Installing Win11 on Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/the-enigmatic-personal-space-in-win-how-to-engage-with-private-character-viewer/"><u>The Enigmatic Personal Space in Win: How to Engage with Private Character Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-discovering-deleting-null-space-in-windows-systems/"><u>The Ultimate Guide: Discovering, Deleting Null Space in Windows Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/tips-for-a-swift-submission-into-apple-catalog-for-2024/"><u>Tips for a Swift Submission Into Apple Catalog for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-your-spotlight-theme-a-users-guide-in-windows/"><u>Updating Your Spotlight Theme: A User's Guide in Windows</u></a></li>
+</ul></div>
+

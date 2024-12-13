@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting DirectDraw Errors in W10/W11
-date: 2024-12-02T23:38:51.610Z
-updated: 2024-12-06T16:45:16.147Z
+date: 2024-12-05T17:39:43.277Z
+updated: 2024-12-12T18:04:17.788Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 5. Then select the latest Windows platform that was available in the game’s release year. If you’re not sure, choose a **Windows 8** or 7 option on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select **Apply** to set the new compatibility option.
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 6. Then click the **Keep Changes** button to set the selected resolution.
 7. Try starting the game or software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Legacy Component Features
 
  Some users might need to enable older legacy component features to resolve the DirectDraw error. To be more specific, an older game might need the deprecated **DirectPlay** feature enabled to run. This is how you can enable legacy component features on Windows 11/10:
@@ -77,21 +81,22 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 2. Click on the **Turn Windows features on or off navigation** option along the left side of the uninstaller tool.  
 ![The Turn Windows features on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-turn-windows-features-on-or-off-option.jpg)
 3. Double-click **Legacy Components** to expand it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then select the **DirectPlay** checkbox.  
 ![The DirectPlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directplay-option.jpg)
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
 6. Press **OK** to install the features.
 7. Restart Windows after installing the features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -102,17 +107,13 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 ![The Download option for Microsoft DirectX End-User Runtime](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option3.jpg)
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/#:~:text=the%20Command%20Prompt%3A-,Press%20Win%20%2B%20R%20to%20open%20the%20Run%20command%20dialog%20box,Explorer%20and%20then%20press%20Enter.) to go to whatever folder your browser is set to download files to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click the DirectX End-User Runtime Web Installer file (otherwise **dxwebsetup.exe**) to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Then click **I accept** to make your agreement with Microsoft.  
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Try Some Basic Windows Fixes
@@ -125,15 +126,15 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the Affected App in Windowed Mode
 
  Running the game or software in windowed mode can also address resolution issues. To do so, check out our article about [forcing games into windowed mode on Windows](https://www.makeuseof.com/windows-10-11-windowed-mode-games/). Follow the instructions for that guide’s third method to set the software to start in windowed mode.
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reinstall the Affected Game or Software
 
@@ -149,29 +150,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhancing-digital-presence-with-vimeo-sharing/"><u>[New] 2024 Approved Enhancing Digital Presence with Vimeo Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-complete-inshot-editors-handbook-to-smoothness/"><u>[Updated] In 2024, The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>2024 Approved The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-what-is-the-youtube-creator-studio/"><u>2024 Approved What Is the YouTube Creator Studio?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix-for-2024/"><u>Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-and-overcoming-activation-error-0x8007251d-in-windows/"><u>Dissecting and Overcoming Activation Error 0X8007251D in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-gear-insights-and-comparisons-by-team-toms-technology/"><u>Expert Gear Insights and Comparisons by Team Tom's Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-unsigned-file-complication-in-w11w10/"><u>Fixing the 'Unsigned File' Complication in W11/W10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-pixel-8-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Pixel 8 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>In 2024, The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-to-a-new-beginning-windows-in-three-stages/"><u>Pathways to a New Beginning: Windows in Three Stages</u></a></li>
-<li><a href="https://win11.techidaily.com/push-the-envelope-with-these-8-customizations-by-winbubble/"><u>Push The Envelope with These 8 Customizations by WinBubble</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-to-fix-lost-renderer-errors-in-ow2/"><u>Quick Tips to Fix Lost Renderer Errors in OW2</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-effective-ways-to-resolve-windows-errors/"><u>Quick, Effective Ways to Resolve Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-thx-sound-glitches-on-windows-devices/"><u>Resolving THX Sound Glitches on Windows Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-to-updating-thunderbolt-drivers-on-all-windows-versions-free-downloads-available/"><u>Step-by-Step to Updating Thunderbolt Drivers on All Windows Versions - Free Downloads Available</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing/"><u>The Expert's Guide to 360 Video Conversion and YouTube Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-silent-sound-capture-in-obs-tips-and-tricks-for-win-11/"><u>Unblock Silent Sound Capture in OBS - Tips & Tricks for Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-solution-for-try-connecting-bluetooth-error-in-win-11/"><u>Unlocking the Solution for 'Try Connecting' Bluetooth Error in Win 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -179,3 +157,18 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-8-fastest-growing-youtube-channel/"><u>[New] In 2024, 8 Fastest Growing YouTube Channel</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pioneering-mobile-applications-for-altered-vocal-output-for-2024/"><u>[Updated] Pioneering Mobile Applications for Altered Vocal Output for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-quick-fixes-to-enhance-your-youtube-reach/"><u>2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989810274-dark-souls-iii-stability-patched-stop-the-unexpected-shutdowns-now/"><u>Dark Souls III Stability Patched – Stop the Unexpected Shutdowns Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/deepening-understanding-of-microsoft-family-safety/"><u>Deepening Understanding of Microsoft Family Safety</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cpu-management-reducing-ums-strain-on-windows-pcs/"><u>Mastering CPU Management: Reducing UMS Strain on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-windows-image-error-0x80780119/"><u>Quick Fix for Windows' Image Error: 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-resource-lock-error-in-windows-oses-156-chars/"><u>Removing Resource Lock Error in Windows OSes (156 Chars)</u></a></li>
+<li><a href="https://win-guides.techidaily.com/solving-common-windows-program-failure-issues-understanding-error-messages-with-insights-from-yl-software-experts/"><u>Solving Common Windows Program Failure Issues: Understanding Error Messages with Insights From YL Software Experts</u></a></li>
+</ul></div>
+

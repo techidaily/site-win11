@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Solution for Error Code 3 with NVIDIA, Windows
-date: 2024-09-05T08:31:52.795Z
-updated: 2024-09-06T08:31:52.795Z
+date: 2024-12-10T06:02:04.246Z
+updated: 2024-12-12T20:10:13.376Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 6. Select the**Prefer maximum performance** option.  
 ![The Prefer maximum performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/prefer-maximum-performance-option.jpg)
 7. Press the NVIDIA Control Panel’s**Apply** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then click**Start** ,**Power** , and the**Restart** option.
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
@@ -47,18 +52,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 4. Select the**3D App – Visual Simulation** setting on the menu.  
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
 
@@ -70,18 +63,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Select the Repair and Reset Options for the Affected App
 
  If error code 3 occurs for a Universal Windows Platform app or game, try fixing it with the**Repair** or**Reset** options. Each UWP app has options for repairing and resetting you can select within Settings. Check out our article about[resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) to clear the app’s data.
@@ -91,23 +72,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall the Affected Software
 
  The software for which error code 3 occurs might have corrupted DLL files. Reinstalling the affected software will repair corrupted files by replacing them with fresh new ones. You can remove desktop software or UWP apps via Settings or the Control Panel (Programs and Features) as outlined in our[article about uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -116,15 +87,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  Then reinstall the uninstalled program in Windows. First, download the latest software version, preferably from the publisher’s website. Open the folder containing the downloaded installer and double-click that setup wizard to reinstall its software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Cleanly Reinstall the NVIDIA Graphics Driver
 
  The OpenGL error code 3 message suggests an issue with your PC’s graphics (GPU) driver. Reinstalling the NVIDIA display driver could fix such an issue. We recommend that you cleanly reinstall your graphics card’s driver as covered in our guide to[cleanly reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Windows
 
@@ -133,25 +102,11 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on[how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stop Error Code 3 Crashing Your Software on Windows
 
  Those potential fixes will probably stop error code 3 crashing software packages on most Windows 10 and 11 PCs. The most widely confirmed solutions for that OpenGL issue are to select the maximum performance and 3D App Visual Simulation settings in NVIDIA Control Panel. However, some users might need to reinstall affected apps and NVIDIA drivers or even reset Windows to get this issue fixed.
@@ -162,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +124,24 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-explore-the-power-of-pip-on-modern-edge-browser-for-2024/"><u>[New] Explore the Power of PIP on Modern Edge Browser for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-use-zoom-video-filters-to-make-a-high-quality-zoom-call/"><u>[New] How to Use Zoom Video Filters to Make a High-Quality Zoom Call</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-angular-video-editing-on-your-android-device/"><u>[New] Unlocking Potential Angular Video Editing on Your Android Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>[Updated] 2024 Approved Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-favorite-frameworks-top-instagram-filters/"><u>[Updated] In 2024, Favorite Frameworks Top Instagram Filters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-journey/"><u>Discover Cutting-Edge Devices on Tom's Hardware Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-pure-linux-leave-behind-wsl/"><u>Embrace Pure Linux - Leave Behind WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-cs-go-frames-per-second-strategies/"><u>Enhancing Win CS GO Frames Per Second Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-irq-settings-for-pure-audio/"><u>Harmonizing IRQ Settings for Pure Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reinstate-missing-mcuicntexe-file-on-windows/"><u>How To Reinstate Missing McUICnt.exe File on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro with a Mask On</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-dailymovement-vs-youtube-income-comparison/"><u>In 2024, DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-speech-problems-for-valorant-players/"><u>Overcoming Windows Speech Problems for Valorant Players</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-media-maker-error-x90017-on-windows/"><u>Solving Media Maker Error: X.90017 On Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win-adjusting-screensaver-and-lock-delay/"><u>Win: Adjusting Screensaver & Lock Delay</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-drive-letter-dilemma-why-they-arent-available-and-how-to-rectify/"><u>Windows' Drive Letter Dilemma: Why They Aren’t Available & How to Rectify</u></a></li>
+</ul></div>
 

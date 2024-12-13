@@ -1,7 +1,7 @@
 ---
 title: "Decoding and Correcting Error Code: 0X80071A90 Windows Issue"
-date: 2024-12-01T08:02:04.159Z
-updated: 2024-12-06T17:52:50.820Z
+date: 2024-12-06T21:29:23.366Z
+updated: 2024-12-13T03:15:41.461Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors That Might Be Contributing to the 0x80071A90 Error
 
  While there are several factors that might be contributing to the Windows Features error, here are the most common ones:
@@ -51,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform the Action in Safe Mode
 
@@ -82,13 +78,13 @@ Follow these steps to proceed:
 `winmgmt /salvagerepositorywinmgmt /verifyrepositorywinmgmt /resetrepository`
 5. Wait for the commands to execute and then exit Command Prompt. You can now check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Try Some Generic Windows-Based Fixes for Errors
 
  If nothing else works, these general WIndows fixes can help you fix the issue:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update Windows
 
@@ -99,12 +95,16 @@ Follow these steps to proceed:
  In this case, we recommend taking your time to[install any pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) available. This will ensure that the drivers and software are compatible with the latest version of Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the System for Corruption Errors
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
@@ -113,7 +113,7 @@ Follow these steps to proceed:
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
@@ -137,19 +137,22 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-text-boosting-techniques-in-videos/"><u>[New] Top 10 Text Boosting Techniques in Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-enhancements-for-high-quality-gopros/"><u>[Updated] In 2024, Elite Enhancements for High-Quality GoPros</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-free-subtitles-and-downloader-guide/"><u>Best Free Subtitles & Downloader Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-xbox-game-pass-glitch-windows-11s-0x800700e9/"><u>Dealing with Xbox Game Pass Glitch: Windows 11'S 0X800700E9</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dell-audio-driver-fixes-for-a-perfectly-tuned-windows-nvme-ssd-7-experience/"><u>Dell Audio Driver Fixes for a Perfectly Tuned Windows Nvme SSD 7 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-change-heic-to-jpeg-using-windows-tools/"><u>Efficiently Change HEIC to JPEG Using Windows Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-dead-pixels-from-windows-steam/"><u>Eliminating Dead Pixels From Windows Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-steam-and-windows-11-privilege-problems/"><u>Navigating Through Steam and Windows 11 Privilege Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-new-hp-printer-software-update-download-now/"><u>Seamless Compatibility with New HP Printer Software Update - Download Now!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-steps-for-restoring-permanently-deleted-photos-on-your-iphone/"><u>Secure Steps for Restoring Permanently Deleted Photos on Your iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-smartphone-into-an-extra-monitor-with-this-intelligent-laptop-docking-station-insights/"><u>Transform Your Smartphone Into an Extra Monitor with This Intelligent Laptop Docking Station - Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-lenovo-screen-capture-tips-for-2024/"><u>[New] Quick Lenovo Screen Capture Tips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-and-dailymotion-unveiling-core-variations-for-2024/"><u>[New] YouTube & Dailymotion Unveiling Core Variations for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-manual-to-creating-youtube-playlists-for-2024/"><u>[Updated] The Essential Manual to Creating YouTube Playlists for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-time-stretched-pixelation-the-ultimate-guide-to-cam-gear/"><u>[Updated] Time-Stretched Pixelation The Ultimate Guide to Cam Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-worst-aspects-of-windows-11-for-users/"><u>Dissecting the Worst Aspects of Windows 11 for Users</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-8-customizations-with-bubble-ui/"><u>Enhance Your Windows Experience: 8 Customizations with Bubble UI</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-reliable-operation-with-essential-windows-11-device-uptime-methods/"><u>Ensuring Reliable Operation with Essential Windows 11 Device Uptime Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11f-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11F 5Gwith/without a PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-v29-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo V29? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reclaim-pre-set-touch-key-positions-in-windows-11/"><u>Method to Reclaim Pre-Set Touch Key Positions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-event-viewer-malfunctions/"><u>Resolving Windows Event Viewer Malfunctions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Huawei Nova Y71 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-fine-tuning-ntfs-file-compression/"><u>The Essential Guide to Fine-Tuning NTFS File Compression</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts/"><u>The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-new-features-at-apples-worldwide-developer-conference-2nd25/"><u>Unpacking the New Features at Apple's Worldwide Developer Conference 2nD25</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cannot-find-powershell/"><u>What to Do When Windows Cannot Find PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-netstat-command-your-gateway-to-network-analysis/"><u>Windows 11 Netstat Command: Your Gateway to Network Analysis</u></a></li>
 </ul></div>
 

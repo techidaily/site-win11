@@ -1,0 +1,181 @@
+---
+title: Realigning the Skewed Discord Game Detector for Windows Users
+date: 2024-12-06T09:01:24.607Z
+updated: 2024-12-12T19:26:12.263Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Realigning the Skewed Discord Game Detector for Windows Users
+excerpt: This Article Describes Realigning the Skewed Discord Game Detector for Windows Users
+keywords: Discord Detector Update,Skew Corrector App,Windows User Guide,Realigner Tool,Gaming Detection Software,PC Game Monitoring,Win Users Alert System
+thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d08ba1beb7fd17db0047dd1a.jpg
+---
+
+## Realigning the Skewed Discord Game Detector for Windows Users
+
+ Are you unable to keep your server members informed of which game you are playing because Discord's game detection feature isn't working on your Windows PC? It usually happens when users mistakenly disable the feature in Discord settings.
+
+ However, it could also be caused by restrictions imposed by other games running simultaneously or the security software you use, a game-specific issue, or simply because the Discord app isn't up-to-date.
+
+ Below, we'll look at various solutions for getting Discord's game detection feature working again.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## But First, Some Preliminary Checks
+
+ First, apply these preliminary checks before performing more advanced fixes:
+
+* Make sure your internet is working.
+* Restart the game Discord isn't detecting.
+* Restart the Discord app.
+* Close any streaming apps that are running when you have Discord open.
+* Disable your VPN if you are using one.
+
+ If the above preliminary checks don't resolve the issue, begin applying the following fixes.
+
+## 1\. Run Discord as an Administrator
+
+ First, you should run Discord as an administrator. By doing so, the application will get administrative privileges, allowing it to access even those system files that would otherwise be restricted, which may fix the issue. To run Discord as an administrator, right-click on the Discord app icon and hit **Run as administrator**.
+
+![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
+
+## 2\. Ensure That Discord's Activity Status Feature Is Enabled
+
+ Discord attempts to detect your game and show it to your friends only if you enable the activity status feature. When it's off, Discord won't detect the game you're playing. If you've tweaked Discord settings or reset Discord, ensure the activity status feature wasn't accidentally disabled. Follow these steps to confirm:
+
+1. Launch Discord.
+2. To access **User Settings**, click the **gear icon** in the bottom-left corner.  
+![Go to Discord User Settings at the Bottom Left Corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-go-to-discord-user-settings-at-the-bottom-left-corner.jpg)
+3. Under **Activity Settings** on the left-hand side, click **Activity Privacy**.
+4. Switch the toggle next to **Display current activity as a status message** to the right.  
+![Switching the Toggle for Display Current Activity as a Status Message Setting to the Right by Clicking on Activity Privacy under Activity Settings in Discord User Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Switching-the-Toggle-for-Display-Current-Activity-as-a-Status-Message-Setting-to-the-Right-by-Clicking-on-Activity-Privacy-under-Activity-Settings-in-Discord-User-Settings-1.jpg)
+5. Let the changes take effect by relaunching Discord.
+
+ Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 3\. Rule Out Game Specific Issues
+
+ Is Discord not detecting only when playing a particular game? If so, have you purchased an authentic copy of the game, or are you just playing a pirated copy? Cracked, pirated, and illegally activated games are not detected by Discord. So, if you don't have a genuine copy, get one, and Discord will start detecting it.
+
+ If you are unsure whether the game you are playing is authentic or not, you can verify its authenticity by following these steps:
+
+1. Go to the game's installation folder containing the game's executable file.
+2. Right-click on it and select **Properties** from the context menu.  
+![Clicking on the Properties Option by Right-clicking on the Game’s Executable File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clicking-on-the-Properties-Option-by-Right-clicking-on-the-Game’s-Executable-File-on-Windows-1.jpg)
+3. Go to the **Digital Signatures** tab in the **Properties** window.
+4. Select the signer's name and click on **Details**.
+5. Click **View Certificate**.
+
+ The game is authentic if the certificate is issued to the original developer. If not, it is a cloned copy. Hence, you should purchase an original copy of the game. However, if Discord fails to detect a single or multiple games even though they are authentic, continue applying the remaining fixes.
+
+ Discord can't detect game mods, just like it won't detect pirated games. Likewise, if you are using any cheat software to get an advantage in the game, Discord may not detect it due to its real-time file tempering. Considering that, do not modify the game or enable cheat software, and it will help Discord detect your game better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 4\. Update Discord
+
+ An outdated Discord app can also cause unexpected problems. Typically, the Discord app checks for updates and installs them when you run it, but there are times when it doesn't, especially when you have stopped Discord from updating automatically.
+
+ To check whether or not you already have the latest Discord version, click the **gear icon** (**User Settings**) in the bottom-right corner and scroll down. Compare the version number next to **Host** with the latest version released by Discord.
+
+![Checking the Discord Version in Discord’s User Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Checking-the-Discord-Version-in-Discord’s-User-Settings-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ If they match, your Discord app is updated. If not, you can update the app by following these steps:
+
+1. At the right end of the taskbar, open the **System Tray**.
+2. Right-click on Discord and click **Check for Updates**.  
+![Clicking on Check for Updates by Right-clicking on Discord in the Windows System Tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Clicking-on-Check-for-Updates-by-Right-clicking-on-Discord-in-the-Windows-System-Tray.jpg)
+3. Relaunch Discord, and hopefully, the updates will be automatically installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
+
+ Your antivirus or Windows Defender Firewall can also prevent Discord from detecting the game. Discord won't be able to detect the game if its access to it has been restricted. To rule out this possibility, you must whitelist Discord in the Windows Defender Firewall or antivirus settings.
+
+ If you use the antivirus that comes included with Windows, check out our article on [how to whitelist files in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you aren't familiar with the process. If you use a third-party program, each antivirus software has a different process for whitelisting an app in its settings. Refer to the official website or documentation of your antivirus for more information.
+
+## 6\. Manually Add the Game to Discord
+
+ Users can also manually add games to Discord, which the app does not detect automatically. If none of the above fixes work, you should manually add it. Follow these steps to do so:
+
+1. Launch Discord.
+2. Click the **gear icon** in the bottom-left corner to access **User Settings**.
+3. Under **Activity Settings** on the left-hand side, click **Registered Games**.  
+![Clicking on the Registered Games Option Under Activity Settings in User Settings in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/9-Clicking-on-the-Registered-Games-Option-Under-Activity-Settings-in-User-Settings-in-the-Discord-App-on-Windows.jpg)
+4. Next to "Not seeing your game?", click on **Add it**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. In the box, paste the path to the game's executable file.  
+![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
+6. Select the game from the search results.
+
+ By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
+
+## 7\. Reinstall Discord
+
+ If none of the fixes work and you get tired of adding the games manually, you can reinstall Discord. So, [uninstall the app from your Windows device](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), visit the [Discord website](https://discord.com/download), and download the app. After downloading, install the app; hopefully, a fresh installation will resolve the issue.
+
+## Fix Discord's Game Detection
+
+ By applying the fixes in the article, you should be able to fix Discord's game detection feature. Hopefully, you'll now be able to keep your audience informed about what game you're playing and help you keep them engaged.
+
+ The game detection feature can also be disabled in a few clicks if you find it compromising your privacy. You can also control your visibility on the platform with great ease.
+
+ However, it could also be caused by restrictions imposed by other games running simultaneously or the security software you use, a game-specific issue, or simply because the Discord app isn't up-to-date.
+
+ Below, we'll look at various solutions for getting Discord's game detection feature working again.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-decoding-vr-a-virtual-cinematic-journey-for-2024/"><u>[New] Decoding VR A Virtual Cinematic Journey for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-counterview-commentary-review/"><u>[Updated] CounterView Commentary Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensible-guide-to-earnings-as-a-youtube-channel/"><u>[Updated] The Comprehensible Guide to Earnings as a YouTube Channel</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-rectify-windows-defender-engine-outage/"><u>Effective Strategies to Rectify Windows Defender Engine Outage</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-to-overcome-directdraw-errors-on-win1011/"><u>Efficient Techniques to Overcome DirectDraw Errors on WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-frozen-epic-launcher-on-your-windows-11-machine/"><u>Eliminate Frozen Epic Launcher on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-disk-needs-format-message-in-windows/"><u>How to Clear Disk Needs Format Message in Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-latency-for-real-time-obs-viewing/"><u>In 2024, Optimizing Latency for Real-Time OBS Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-content-strategy-with-youtube-movie-maker/"><u>In 2024, Streamline Your Content Strategy with YouTube Movie Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-enhancement-or-extra-cost-justified-for-win-11s-add-ons/"><u>Is Enhancement or Extra Cost Justified for Win 11'S Add-Ons?</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-strategies-solve-clipchamp-issues-on-win11-platforms/"><u>Masterful Strategies: Solve ClipChamp Issues on Win11 Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-video-integration-with-apple-music-for-2024/"><u>Mastering Video Integration with Apple Music for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-your-windows-1011-apps-with-restart-techniques/"><u>Revamping Your Windows 10/11 Apps with Restart Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-alternatives-to-the-windows-snipping-tool/"><u>The 5 Best Alternatives to the Windows Snipping Tool</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-ace-2v-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Ace 2V FRP Bypass</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    

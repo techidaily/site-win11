@@ -1,7 +1,7 @@
 ---
 title: "Comparing Windows Terminal and PowerShell: Key Contrasts Explored"
-date: 2024-12-01T02:46:24.257Z
-updated: 2024-12-07T03:22:11.620Z
+date: 2024-12-12T06:48:34.537Z
+updated: 2024-12-13T08:41:15.321Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
  If you're using Windows 11 or Windows 10, you'll find PowerShell and Windows Terminal pre-installed. Both are command-line interfaces that allow you to enter text commands to perform various tasks, but what makes them different?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PowerShell Is an Improvement Over the Command Prompt
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 ![Windows Terminal with the profiles dropdown expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-terminal-with-the-profiles-dropdowb-expanded.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft introduced Windows Terminal as a terminal emulator in 2019 (during the era of Windows 10). In this context, it can emulate the behavior and functionality of command-line shells, including the Command Prompt and PowerShell. The app is most notable for bringing a command-line tool to Windows that the community has long envied about Linux: [BASH (Bourne Again SHell)](https://www.makeuseof.com/what-is-bash-linux/).
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
  To run BASH and other Linux shells, including ZSH, FISH, and Ksh (KornShell) in Windows Terminal, you'll first have to [enable Windows Subsystems for Linux (WSL)](https://www.makeuseof.com/enable-windows-subsystem-for-linux/). You can also run Azure Cloud Shell in Windows Terminal, which allows you to manage your Azure resources from within Windows Terminal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## User Interface and Customization
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 ![the settings page of Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/the-settings-of-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of Windows Terminal's most notable features is the move to a modern tabbed interface that lets you run several command-line utilities side by side. For instance, you can have multiple instances of Command Prompt running simultaneously while using PowerShell, BASH, or Azure.​​​​​ This is something that PowerShell cannot do.
@@ -102,29 +102,6 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
  While each one of these tools is powerful in its own right, there's no need to open PowerShell with Windows Terminal around as it can emulate the Shell environment just as well.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-guide-to-iconic-youtube-beginnings-method-a-and-b/"><u>[New] 2024 Approved Step-by-Step Guide to Iconic YouTube Beginnings Method A & B</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ay-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces/"><u>[New] Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/avs-video-editor-a-comprehensive-analysis/"><u>AVS Video Editor A Comprehensive Analysis</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/choosing-your-mobile-sidekick-iphone-or-android-find-the-perfect-fit/"><u>Choosing Your Mobile Sidekick: IPhone or Android - Find the Perfect Fit</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-gpu-load-effective-wm-tweaks-for-win11/"><u>Cutting Down GPU Load: Effective WM Tweaks for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-old-games-adding-new-glory-tips-on-incorporating-trophies-using-retroarch/"><u>Enhancing Old Games, Adding New Glory: Tips on Incorporating Trophies Using Retroarch</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstarting-windows-11-3-routes-to-quicker-boot-process/"><u>Jumpstarting Windows 11: 3 Routes to Quicker Boot Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-over-your-steam-account-eradicating-gaming-clutter/"><u>Mastery Over Your Steam Account: Eradicating Gaming Clutter</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-around-pin-issues-for-secure-windows-logins/"><u>Navigating Around PIN Issues for Secure Windows Logins</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-the-trouble-with-windows-missing-file-updates-error-0x80070003/"><u>Navigating Through the Trouble with Windows' Missing File Updates (Error: 0X80070003)</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-setup-initiate-ms-paint-in-windows-11/"><u>Quick Setup: Initiate MS Paint in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolved-fixing-asus-pce-ac56-driver-problems-in-windows-operating-systems-1187/"><u>Resolved: Fixing ASUS PCE-AC56 Driver Problems in Windows Operating Systems (11/8/7)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-printing-a-comprehensive-guide-to-downloading-and-installing-epson-xp-430-drivers-on-windows/"><u>Seamless Printing: A Comprehensive Guide to Downloading and Installing Epson XP-430 Drivers on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-avoid-usb-sleep-during-energy-saver/"><u>Techniques to Avoid USB Sleep During Energy Saver</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-free-video-editing-tools-best-open-source-options/"><u>Top-Rated Free Video Editing Tools: Best Open Source Options</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transform-your-video-creation-with-winxvideo-ai-the-ultimate-solution-for-capturing-enhancing-and-editing-media/"><u>Transform Your Video Creation with WinxVideo AI - The Ultimate Solution for Capturing, Enhancing, and Editing Media</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-resolving-nvidias-disconnect-issue-on-pcs/"><u>Troubleshooting: Resolving Nvidia's Disconnect Issue on PCs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-pc-video-editing-with-vn-a-short-review-for-2024/"><u>Updated PC Video Editing with VN A Short Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-microsoft-store-ai-hub/"><u>What Is the Microsoft Store AI Hub?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +109,25 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-webmaster.techidaily.com/biocompatibility-is-the-ability-of-a-material-to-elicit-an-appropriate-biological-response-in-a-specific-application/"><u>Biocompatibility Is the Ability of a Material to Elicit an Appropriate Biological Response in a Specific Application.</u></a></li>
+<li><a href="https://win11.techidaily.com/counteract-non-selectable-text-in-windows-readers/"><u>Counteract Non-Selectable Text in Windows Readers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-y77t-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Y77t</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-auditory-experience-on-win11-setting-up-your-shortcuts/"><u>Enhance Auditory Experience on Win11: Setting Up Your Shortcuts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-bandicam-ultimate-guide-to-screen-capture-for-2024/"><u>Exploring Bandicam Ultimate Guide to Screen Capture for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ffxiv-update-woes-how-to-ensure-you-have-the-latest-game-version-without-errors/"><u>FFXIV Update Woes: How to Ensure You Have the Latest Game Version Without Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 12 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-copy-paste-troubleshooting-in-chromeedgefirefox/"><u>Mastering Copy-Paste Troubleshooting in Chrome/Edge/Firefox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrect-your-usb-wi-fi-effective-fixes-for-microsoft-users/"><u>Resurrect Your USB Wi-Fi – Effective Fixes for Microsoft Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-unresponsive-volume-slider-on-pc/"><u>Reviving Unresponsive Volume Slider on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-0x800700e9-error-xbox-live-troubleshooting-guide/"><u>Solving the 0X800700E9 Error: Xbox Live Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-voice-recordings-made-simple-with-win-11s-shortcuts/"><u>Speedy Voice Recordings Made Simple with Win 11'S Shortcuts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-on-hosting-webinars-a-beginners-guide-to-zoom/"><u>Step-by-Step on Hosting Webinars A Beginner's Guide to Zoom</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-text-vision-windows-11-notepad-customization-guide/"><u>Tailoring Your Text Vision: Windows 11 Notepad Customization Guide</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-disk-read-issues-on-a-pc-effective-strategies-plus-essential-tips-for-speed-recovery/"><u>Troubleshooting Disk Read Issues on a PC | Effective Strategies + Essential Tips for Speed Recovery</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-flickering-on-lenovo-displays/"><u>Troubleshooting Flickering on Lenovo Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-copy-and-paste-on-chrome-edge-firefox-os/"><u>Unblocking Copy & Paste on Chrome, Edge, Firefox OS</u></a></li>
+</ul></div>
+

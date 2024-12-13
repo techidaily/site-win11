@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Update: Defeating Error Code 0X800736CC"
-date: 2024-12-02T16:54:57.327Z
-updated: 2024-12-07T07:39:44.782Z
+date: 2024-12-12T09:42:26.084Z
+updated: 2024-12-13T02:26:11.295Z
 tags:
   - windows10
   - windows11
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  The first thing you need to do is [restart your computer](https://www.makeuseof.com/windows-restart-methods/). Although it may seem too simplistic, you'd be surprised how often this resolves various issues. When your computer reboots, it clears temporary files and processes that could cause problems. This includes incomplete Windows updates that failed to install or encountered installation errors.
 
  A quick reboot can bypass the error and complete the update, so it should be your primary course of action before delving into more intricate troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Windows Update Troubleshooter
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the troubleshooting process. It may take a few minutes for the tool to finish its job.
@@ -67,17 +67,21 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 6. After deleting the files, head back to the Services window, right-click on the **Windows Update** service, and select **Start**. This step restarts the Windows Update service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now restart your computer. It will allow Windows Update to recreate cache files from scratch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable your Antivirus Temporarily
 
  Security software interferes with Windows Update and causes errors. To avoid this issue, [temporarily disable your security program](http://www.makeuseof.com/how-to-turn-off-windows-defender/) before running updates. Once you have disabled it, restart the computer and install the update again. If it works, it was your security software that caused the issue.
 
  Remember that disabling security software leaves your computer vulnerable to malware attacks, so enable it immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reset Windows Update Components
 
@@ -155,7 +159,7 @@ net start cryptsvc`
  The script will take a few minutes to run. When it's finished, close the Command Prompt window and restart your computer. Once your computer restarts, check if the 0x800736cc error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Try Generic Windows Update Fixes
@@ -168,32 +172,9 @@ net start cryptsvc`
 * [Perform a Clean Boot](https://www.makeuseof.com/clean-boot-windows-11/) \- Clean Boot can identify software conflicts causing the error. It disables all non-essential services and programs from running in the background. That way, you can isolate the problematic process and resolve the issue.
 * [Manually Install the Update](https://www.makeuseof.com/update-windows-manually/) \- If Windows Update fails to install or is stuck, you can download and install it manually
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing Windows Update Error 0x800736cc
 
  As you can see, multiple ways exist to fix the Windows Update error. We hope one of these methods has solved your problem, and you can now successfully install Windows Update. If nothing else works, you can restore your computer to a previous state or reinstall Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>[New] 2024 Approved Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-future-of-photography-top-frames/"><u>[New] 2024 Approved The Future of Photography Top Frames</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-best-10-websites-for-premium-quality-vector-stock-images/"><u>[New] Best 10 Websites for Premium-Quality Vector Stock Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-pinnacle-workshop-moniker-composer/"><u>[New] In 2024, Pinnacle Workshop Moniker Composer</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-hdmi-21-master-list-in-depth-screen-comparisons/"><u>2024 Approved HDMI 2.1 Master List In-Depth Screen Comparisons</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-fighters-fixes-conquer-mouse-lags-in-star-wars-battlefront-2/"><u>Fast Fighter's Fixes: Conquer Mouse Lags in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-11-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 11 & 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/inshot-tips-achieving-seamless-video-segmentation-for-2024/"><u>Inshot Tips Achieving Seamless Video Segmentation for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-ai-education-an-introduction-to-9-must-visit-communities/"><u>Navigating the Landscape of AI Education: An Introduction to 9 Must-Visit Communities</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-setup-woes-ms-pc-manager-fix/"><u>Resolve Setup Woes: MS PC Manager Fix</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/simple-steps-for-converting-m4r-ringtone-files-into-mp3-format/"><u>Simple Steps for Converting M4R Ringtone Files Into MP3 Format</u></a></li>
-<li><a href="https://win11.techidaily.com/skirting-stuck-troubleshooters-in-windows-updates/"><u>Skirting Stuck Troubleshooters in Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/the-best-new-laptops-shown-at-ifa-2023/"><u>The Best New Laptops Shown at IFA 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/the-definitive-resource-on-windows-system-booting/"><u>The Definitive Resource on Windows System Booting</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-flip-your-windows-display-angle-by-90-degrees/"><u>Why and How to Flip Your Windows Display Angle by 90 Degrees</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +183,27 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-smooth-playback-on-instagram-videos-for-2024/"><u>[New] Mastering Smooth Playback on Instagram Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-methods-for-saving-discord-livestreams-on-video/"><u>2024 Approved Essential Methods for Saving Discord Livestreams on Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-personal-aerial-companions-gps-drones-that-never-stray/"><u>2024 Approved Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-the-digital-intruder-how-to-disarm-wacatacbml-trojan/"><u>Confronting the Digital Intruder: How to Disarm Wacatac.B!ml Trojan</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-rockalldll-not-found-in-windows/"><u>Correcting 'Rockalldll' Not Found in Windows</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-livekernelevent-error-code-117-expert-tips-and-tricks/"><u>Fixing LiveKernelEvent Error Code 117: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-wmp-playback-glitches/"><u>How to Tackle WMP Playback Glitches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>In 2024, From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-add-vimeo-in-instagram-reels/"><u>In 2024, Step-by-Step Add Vimeo in Instagram Reels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-strategies-for-clearing-your-windows-10-activity-record/"><u>Insightful Strategies for Clearing Your Windows 10 Activity Record</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-0x800f0845/"><u>Mastering the Resolution of 0X800f0845</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-home-protection-with-arlo-pro-5ss-unbeatable-sale-at-only-180-a-zdnet-exclusive-review/"><u>Maximizing Home Protection with Arlo Pro 5S's Unbeatable Sale at Only $180 - A ZDNET Exclusive Review</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-without-default-browsers-on-win/"><u>Navigate Without Default Browsers on Win</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimizing-audio-and-video-quality-during-zoom-recordings-for-2024/"><u>Optimizing Audio & Video Quality During Zoom Recordings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-ip-managing-subnet-mask-in-win11/"><u>Redefining IP: Managing Subnet Mask in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/shut-down-windows-auto-update-notifications/"><u>Shut Down Windows' Auto-Update Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-ip-management-made-simple/"><u>Windows 11 IP Management Made Simple</u></a></li>
+</ul></div>
+

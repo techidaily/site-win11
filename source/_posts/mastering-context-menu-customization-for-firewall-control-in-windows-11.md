@@ -1,7 +1,7 @@
 ---
 title: Mastering Context Menu Customization for Firewall Control in Windows 11
-date: 2024-12-04T17:05:20.110Z
-updated: 2024-12-07T05:06:34.644Z
+date: 2024-12-06T13:47:59.881Z
+updated: 2024-12-12T21:45:00.883Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Firewall Block Options With OneClickFirewall
@@ -41,12 +41,17 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 5. Bring up the extracted OneClickFirewall folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
  Now you can block software internet access from the classic context menu in Windows 11\. Bring up a software installation folder in File Explorer. Then right-click the program’s EXE (application) file to select**Show more options** . Select the new**Block Internet Access** option to set up an outbound rule.
@@ -55,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
 
  Right-click a program’s EXE file you’ve set up an outbound rule for and select**Show more options** \>**Restore Internet Access** . Then the previously blocked software will be allowed through the firewall again.
 
  If you decide you don’t want to keep the firewall context menu options, you can remove them by uninstalling OneClickFirewall. Remove OneClickFirewall with one of the methods in our guide on[how to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Firewall Block Options With the Right Click App
 
@@ -78,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 ![The Add Right Click Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-right-click-menu-option.jpg)
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
@@ -115,18 +116,18 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-freeze-frame-creation-through-stabilized-capture/"><u>[New] Freeze-Frame Creation Through Stabilized Capture</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>[Updated] Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones/"><u>[Updated] In 2024, Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-guide-to-mastering-message-pins-on-discord-for-2024/"><u>[Updated] The Ultimate Guide to Mastering Message Pins on Discord for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-inverted-alphabet-typing-windows-wise/"><u>Correcting Inverted Alphabet Typing Windows-Wise</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-error-code-0x8007251d-a-comprehensive-solution/"><u>Demystifying Error Code 0X8007251d: A Comprehensive Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-virtualbox-error-efail-0x80004005/"><u>Eliminating Windows Virtualbox Error: E_FAIL (0X80004005)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-ditch-microsoft-edge-in-win11/"><u>How to Ditch Microsoft Edge in Win11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ideal-programs-for-vector-drawing-and-design-mastery/"><u>Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/retrace-your-cortana-path-with-data-extraction/"><u>Retrace Your Cortana Path with Data Extraction</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-secure-a-36-discount-on-the-durable-8tb-samsung-portable-ssd-at-amazon-insights/"><u>Sale Alert: Secure a 36% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-reviving-deadlocked-downloads-in-windows-11/"><u>Strategies for Reviving Deadlocked Downloads in Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-big-tech-and-why-is-the-government-trying-to-break-it-up/"><u>What Is Big Tech and Why Is the Government Trying to Break It Up?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhance-virtual-presence-mastering-zooms-snaps-for-2024/"><u>[New] Enhance Virtual Presence Mastering Zoom’s Snaps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-video-boost-tips-for-enhancement-22/"><u>[Updated] 2024 Approved Mastering Video Boost Tips for Enhancement (2.2)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-echoes-of-the-unliving-top-8-zombie-game-choices/"><u>[Updated] Echoes of the Unliving Top 8 Zombie Game Choices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-remote-collaboration-tools-post-zoom/"><u>2024 Approved Advanced Remote Collaboration Tools, Post-Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-30-compelling-video-presentation-ideas/"><u>A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
+<li><a href="https://win11.techidaily.com/fostering-seamless-link-ups-between-microsoft-phones-and-pcs/"><u>Fostering Seamless Link-Ups Between Microsoft Phones & PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-gentle-interference-on-active-windows-tasks/"><u>Guide to Gentle Interference on Active Windows Tasks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/interconnected-evolution-4-ways-platforms-altered-society/"><u>Interconnected Evolution: 4 Ways Platforms Altered Society</u></a></li>
+<li><a href="https://win11.techidaily.com/invest-wisely-why-cheap-windows-activation-key-might-not-pay-off/"><u>Invest Wisely: Why Cheap Windows Activation Key Might Not Pay Off</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-the-ability-to-delete-characters-in-windows-pcs/"><u>Reclaiming the Ability to Delete Characters in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-approach-to-fixing-isdonedll-in-windows-11/"><u>Stepwise Approach to Fixing ISDone.dll in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-link-top-4-ways-to-validate-net-adapter-pace/"><u>Unleash Your Link: Top 4 Ways to Validate Net Adapter Pace</u></a></li>
 </ul></div>
 

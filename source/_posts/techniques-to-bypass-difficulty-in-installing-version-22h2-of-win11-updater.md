@@ -1,7 +1,7 @@
 ---
 title: Techniques to Bypass Difficulty in Installing Version 22H2 of Win11 Updater
-date: 2024-11-30T23:20:16.832Z
-updated: 2024-12-07T00:11:31.064Z
+date: 2024-12-06T16:00:59.340Z
+updated: 2024-12-13T09:37:44.959Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 5. Wait for the troubleshooter to detect issues and display an outcome. It will usually automatically apply fixes for detected issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disconnect Non-Essential External Hardware and Peripherals From PC
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 6. Wait for the SFC scan to show an outcome message in the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Free Up Some Drive Storage Space
@@ -88,14 +88,15 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 2. Double-click**Windows Module Installer** to view a properties window for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/windows-modules-installer-1.jpg)
 3. Select the**Automatic** start option for the service on its**Startup type** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Start** on the properties window if the service isn’t running.  
 ![The Windows Modules Installer service properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/a-service-properties-window-1.jpg)
 5. Select**Apply** \>**OK** to set the service’s settings.
 6. Repeat the previous four steps for the Background Intelligent Transfer Service, Cryptographic Service, and Windows Update services.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Make Sure .NET Framework 3.5 is Enabled
 
@@ -108,17 +109,9 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 ![The Windows Features window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-windows-features-window-1.jpg)
 5. Also, click the**.NET Framework 4.8** checkbox if it’s not selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Press the**OK** button in the Windows Features window.
 7. Then click**Yes** to install.
 8. Restart Windows 11 after installing the feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reset the Components for Windows Update
 
@@ -134,9 +127,19 @@ net stop msiserver`
 `ren C:\Windows\SoftwareDistribution SoftwareDistribution.old`  
 ![The ren SoftwareDistribution command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-softwaredistribution-command-1.jpg)
 4. Input this rename catroot2 command and press**Return** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren C:\Windows\System32\catroot2 Catroot2.old`  
 ![The ren catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-catroot2-folder-1.jpg)
 5. Then restart the services with these commands:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net start wuauserv  
 net start bits  
 net start cryptSvc  
@@ -144,7 +147,7 @@ net start msiserver`
 6. Close Command Prompt, and select**Restart** on your Start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Antivirus Utilities
@@ -160,6 +163,10 @@ net start msiserver`
  Some users have said the Kernel DMA Protection security feature in Windows 11 causes the 22H2 update to fail when enabled. If that feature is enabled on your desktop or laptop, disabling it could fix the Windows 11 22H2 not installing. To check if Kernel DMA Protection is enabled,[open the System Information app](https://www.makeuseof.com/windows-11-check-system-information/) and look for that feature in the**System Summary** section.
 
 ![The Kernel DMA Protection system detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-kernal-dma-system-detail-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The only way to turn off Kernel DMA Protection is to disable a setting for it in the BIOS (Basic Input Output System). You can access Basic Input Output System settings on Windows 11/10 PCs as outlined within our guide on[how to enter the BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) . Look for and disable a Kernel DMA Protection setting on a**Security** tab within the BIOS.
 
@@ -180,7 +187,7 @@ net start msiserver`
 5. Click the**Download and install** option for selected driver updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Install the 22H2 Update via the Installation Assistant
@@ -188,10 +195,6 @@ net start msiserver`
  This final resolution is more of a workaround than a fix for the 22H2 update not installing via Settings. Instead of using Settings, try upgrading with the Windows 11 Installation Assistant. We have a full guide that tells you[how to use the Installation Assistant](https://www.makeuseof.com/windows-11-installation-assistant-guide/) for updating Windows 11.
 
 ![The Windows 11 Update Assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-windows-11-update-assistant.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Discover the Windows 11 2022 Update
 
@@ -212,16 +215,16 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-avoid-blandness-in-your-vids-top-recommended-youtube-thumbnail-heights/"><u>[Updated] Avoid Blandness in Your Vids Top Recommended YouTube Thumbnail Heights</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-autominimize-in-windows/"><u>Eradicate AutoMinimize in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-to-resolve-package-problems-in-the-latest-windows-version/"><u>Expert Advice to Resolve Package Problems in the Latest Windows Version</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-windows-updater-bug-0x80073712/"><u>Handling Windows Updater Bug: 0X80073712</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/intels-raptor-lake-cpu-empowers-compact-performance-in-the-energy-efficient-msi-mini-pc-featuring-four-high-speed-lan-ports/"><u>Intel's Raptor Lake CPU Empowers Compact Performance in the Energy-Efficient MSI Mini PC, Featuring Four High-Speed LAN Ports</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-hotkey-creation-your-keyboard-shortcuts-for-text-snippet-pasting/"><u>Navigating Hotkey Creation: Your Keyboard Shortcuts for Text Snippet Pasting</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nubia-red-magic-9-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nubia Red Magic 9 Pro Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-successfully-changing-user-configurations-after-a-driver-failed-alert/"><u>Step-by-Step Fix: Successfully Changing User Configurations After a 'Driver Failed' Alert</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-correct-error-0x80300024-on-windows/"><u>Strategies to Correct Error 0X80300024 on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/understanding-youtubes-monthly-revenue-options/"><u>Understanding YouTube's Monthly Revenue Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ashtags-that-elevate-your-channels-visibility-and-value-for-2024/"><u>[New] Hashtags that Elevate Your Channels' Visibility & Value for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-to-sub-guide-practical-conversion-methods/"><u>[New] SRT to SUB Guide Practical Conversion Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-introduction-to-soft-starting-sounds-in-audition/"><u>[Updated] 2024 Approved Introduction to Soft-Starting Sounds in Audition</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-resolving-isdonedll-crashes-on-w11-os/"><u>Essential Tips: Resolving ISDone.dll Crashes on W11 OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-yuva-2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Yuva 2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimal-techniques-for-capturing-ppt-sessions/"><u>In 2024, Optimal Techniques for Capturing PPT Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-fixing-failed-utorrent-setup-on-windows-devices/"><u>Preventing and Fixing Failed uTorrent Setup on Windows Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974538684-quick-setup-with-zebra-gk42d-driver-software-download-now/"><u>Quick Setup with Zebra GK42d Driver Software – Download Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-the-automatic-open-of-search-bar-win11-edition/"><u>Stop the Automatic Open of Search Bar, Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-top-windows-to-do-apps/"><u>The Ultimate Guide to Top Windows To-Do Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-to-lenovo-educational-price-cuts-for-students/"><u>Unveiling the Secrets to Lenovo Educational Price Cuts for Students</u></a></li>
 </ul></div>
 

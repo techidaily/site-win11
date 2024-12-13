@@ -1,7 +1,7 @@
 ---
 title: "Winway Login Tips: Removing Personal Emails"
-date: 2024-09-05T08:29:42.675Z
-updated: 2024-09-06T08:29:42.675Z
+date: 2024-12-12T02:49:55.206Z
+updated: 2024-12-13T04:19:41.785Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: Winway Login Guide,Email Removal Tips,Safe Login Steps,Avoid Personal 
 thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463ce070f6b273e0abf69dbbe5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Winway Login Tips: Removing Personal Emails
 
  If you frequently use your computer in public places, it's a good idea to remove your email address from the Windows login screen. This means people can't get your email address if they see your screen over your shoulder.
 
  You can accomplish this using the Settings app, Group Policy Editor, or Registry Editor. In this post, we've covered all these methods in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Hide Email Address From Windows Login Screen Using the Settings App
 
@@ -36,11 +34,13 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Hide Email From Windows Login Screen Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Hide Email Address From Windows Login Screen Using the Group Policy Editor
 
  The Group Policy Editor (or gpedit.msc) is a handy Windows tool for configuring advanced system settings. You can also this tool to hide your email address from the Windows login screen.
@@ -55,27 +55,14 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 6. Click**Apply** followed by**OK** .  
 ![Hide Email From Windows Login Screen Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-group-policy-editor.jpg)
 7. Next, double-click on the**Interactive logon: Do not display last user name** policy from the same section.
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Select**Enabled** in the properties window.
 9. Click**Apply** followed by**OK** to save changes.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Hide Email Address From Windows Login Screen Using the Registry Editor
 
  If the above two methods don’t work for some reason, you can make changes to the Windows registry files to hide your email address from the login screen. For that, you’ll need to use the Registry Editor on Windows.
@@ -93,32 +80,21 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 7. Double-click on the newly created DWORD and enter**1** in the**Value data** field. Then, click**OK** .  
 ![Hide Email From Windows Login Screen Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-email-from-windows-login-screen-using-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Exit the Registry Editor and restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hiding Your Email Address From the Windows Login Screen Is Easy
 
  As we just saw, hiding your personal information from the Windows login screen barely takes a couple of minutes, regardless of the method you employ.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +103,23 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-soundtrack-addition-to-social-media-videos-on-facebook-for-2024/"><u>[New] Mastering Soundtrack Addition to Social Media Videos on Facebook for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-capturing-the-moment-advanced-tips-for-iphone-silhouettes-for-2024/"><u>[Updated] Capturing the Moment Advanced Tips for iPhone Silhouettes for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cost-effective-subscriber-growth-hundreds-at-a-bargain-price-for-2024/"><u>[Updated] Cost-Effective Subscriber Growth - Hundreds at a Bargain Price for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-audio-techniques-capturing-clear-sound-for-2024/"><u>[Updated] Essential Audio Techniques Capturing Clear Sound for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-clock-companion-for-wedding-planners-and-couples/"><u>[Updated] The Ultimate Clock Companion for Wedding Planners & Couples</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-zero-eighty-three-one-in-windows/"><u>Conquering Error Zero-Eighty-Three-One in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ffmpeg-review-upholding-authentic-audio-formats/"><u>In 2024, FFmpeg Review Upholding Authentic Audio Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-sudo-for-enhanced-windows-security/"><u>Leveraging Sudo for Enhanced Windows Security</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-your-data-expand-disk-space-techniques-for-windows-11-users-max-156-chars/"><u>Maintain Your Data, Expand Disk Space: Techniques for Windows 11 Users (Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-task-execution-efficient-keybinds-in-win-os/"><u>Personalize Task Execution: Efficient Keybinds in WIN OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-camera-app-issues-quickly/"><u>Solving Windows Camera App Issues Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-directx-update-procedures-uncovered/"><u>Step-by-Step DirectX Update Procedures Uncovered</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/visual-power-in-gaming-channels-a-template-guidebook/"><u>Visual Power in Gaming Channels A Template Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-notetakers-the-7-greatest-for-pcs-and-slate/"><u>Winning Notetakers: The 7 Greatest for PCs and Slate</u></a></li>
+</ul></div>
 

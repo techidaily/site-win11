@@ -1,7 +1,7 @@
 ---
 title: Ease of Access Tools in Windows' Right-Click Options
-date: 2024-09-05T08:30:27.923Z
-updated: 2024-09-06T08:30:27.923Z
+date: 2024-12-11T04:49:10.032Z
+updated: 2024-12-13T01:07:52.428Z
 tags:
   - windows10
   - windows11
@@ -14,31 +14,17 @@ keywords: Windows Accessibility Aids,Right-Click Assistive Features,Easy Access 
 thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378c0abebd2da2f4a67474809a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ease of Access Tools in Windows' Right-Click Options
 
  There are many ways to run the Compatibility Troubleshooter, but the easiest way is to do it from the context menu by right-clicking on a program and selecting**Troubleshoot Compatibility** . However, sometimes, this option can go missing, and the good news is that you can add it back with a couple of registry tweaks. Keep on reading to find out how.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do Before Tweaking the Registry Editor
 
  Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on[creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a "Troubleshoot Compatibility" Option to the Context Menu With the Registry Editor
 
@@ -50,32 +36,17 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 3. Right-click the**ContextMenuHandlers** key and then select**New > Key** and name it**Compatibility** . If it is already there, move on to the next step.  
 ![Adding a new key to the ContextMenuHandler key for the EXE files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/new-key-compatibility-troubleshooter-context-menu.jpg)
 4. Select the**Compatibility** key, double-click**Default** on the right, and set**Value data** to**{1d27f844-3a1f-4410-85ac-14651078412d}** .  
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Entering value data for a string value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you’re going to repeat the steps above to add the**Troubleshoot Compatibility** to the context menu of other BAT and CMD files. Just replace the key path in step two with**HKEY\_CLASSES\_ROOT\\batfile\\shellEx\\ContextMenuHandlers\\** for BAT files and**HKEY\_CLASSES\_ROOT\\cmdfile\\shellEx\\ContextMenuHandlers\\** for CMD files.
 
  Now when you right-click an EXE, BAT, or CMD file, you should see the**Troubleshoot Compatibility** option in the context menu.
@@ -83,31 +54,24 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 ![The Troubleshoot compatibility option in the context menu on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-compatibility-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now you have one more way to[run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run the Program Compatibility Troubleshooter Easily
 
  The Program Compatibility Troubleshooter is one of the best ways to fix compatibility issues on Windows. If you use it often, it helps to have the tool close. With the instructions above, you can add it to and run it from the context menu, which is extremely convenient.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +80,22 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigate-office-tasks-with-voice-recognition-in-microsoft-word/"><u>[New] 2024 Approved Navigate Office Tasks with Voice Recognition in Microsoft Word</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unlocking-the-potential-of-wide-angle-360-photos/"><u>[New] 2024 Approved Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-top-8-gear-in-the-vr-sphere/"><u>[New] Exclusive Top 8 Gear in the VR Sphere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-to-crafting-winning-freefire-videos/"><u>[Updated] In 2024, Secrets to Crafting Winning FreeFire Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elite-collective-photo-music-plus-visual-creation-fusion/"><u>2024 Approved Elite Collective Photo, Music + Visual Creation Fusion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-nord-n30-se-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/achieving-ideal-illumination-a-guide-to-masterful-video-lighting-techniques/"><u>Achieving Ideal Illumination: A Guide to Masterful Video Lighting Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/coordinated-chaos-how-androidpluswindows-sync-works/"><u>Coordinated Chaos: How Android+Windows Sync Works</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-or-disabling-tpm-support-a-complete-vbox-70-guide/"><u>Enabling or Disabling TPM Support - A Complete VBox 7.0 Guide</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/free-online-converter-convert-mov-files-into-high-quality-flac-format/"><u>Free Online Converter: Convert MOV Files Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-weather-icon-to-your-system-tray-in-windows-11/"><u>How to Add a Weather Icon to Your System Tray in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-tricks-for-resolving-2024-miracast-reception-error-on-your-device/"><u>Latest Tricks for Resolving 2024 Miracast Reception Error on Your Device</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-leverage-windows-11s-pcm-bar-tools-quickly-and-effectively/"><u>Learn to Leverage Windows 11'S PCM Bar Tools Quickly & Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-sluggish-excel-operations-in-a-windows-environment/"><u>Revive Sluggish Excel Operations in a Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-maintenance-navigating-and-purge-of-vacant-directories/"><u>Windows Maintenance: Navigating & Purge of Vacant Directories</u></a></li>
+</ul></div>
 

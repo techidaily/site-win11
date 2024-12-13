@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Giants: Identifying Heavy Disk Space Usage on PCs"
-date: 2024-09-05T08:27:20.625Z
-updated: 2024-09-06T08:27:20.625Z
+date: 2024-12-07T04:21:14.255Z
+updated: 2024-12-13T09:07:53.572Z
 tags:
   - windows10
   - windows11
@@ -43,18 +43,16 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 5. Click on**Show more categories** to view other categories that occupy the most real estate.  
 ![Opening the Show More Categories Option in the Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-opening-the-show-more-categories-option-in-the-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
 ## How to Free Up Your Windows Storage Drive
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Manage Your Apps and Features
 
 Follow these steps to remove extra apps and features:
@@ -66,42 +64,27 @@ Follow these steps to remove extra apps and features:
 5. Select**Size (Large to small)** from the dropdown menu next to**Sort by** .  
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
+
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Manage System and Reserved Files Storage
 
  Be cautious when managing the disk space used by the system and reserved files, as deleting essential files could cause unexpected problems. The overall storage occupied by the system and reserved files is normally divided into five categories: system files, reserved storage, virtual memory, hibernation file, and system restore files.
 
 ![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
 
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
@@ -109,11 +92,9 @@ Follow these steps to remove extra apps and features:
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Manage Temporary Files Storage
 
  Temporary files usually consume the most space on your drives after system files and installed applications. As their name implies, they are temporary files that only speed up Windows processes. Does that mean you can safely delete them? Yes, but you'll need to be careful. Here are some tips for clearing temporary files wisely:
@@ -125,30 +106,25 @@ Follow these steps to remove extra apps and features:
 
 ![Managing the Temporary File Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-managing-the-temporary-file-storage-in-storage-tab-of-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Avoid Cluttering Up Your Precious Disk Space
 
  Having insufficient disk space and not knowing what's causing it can be a horrible experience. Hopefully, using the tips in this article, you will be able to identify what apps and files are draining your disk storage the most.
 
  If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +133,20 @@ Follow these steps to remove extra apps and features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-audio-recording-made-simple-with-iphone-for-2024/"><u>[Updated] Step-By-Step Audio Recording Made Simple with iPhone for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-generative-ai-giants-notion-ai-vs-chatgpt-the-ultimate-showdown/"><u>Comparing Generative AI Giants: Notion AI Vs. ChatGPT - The Ultimate Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-integration-websites-as-windows-friendly-software/"><u>Digital Integration: Websites as Windows-Friendly Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-audio-dimension-with-windows-11-configurations/"><u>Enriching Audio Dimension with Windows 11 Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-win-pcs-discord-errors/"><u>Essential Tips to Overcome Win PC's Discord Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-advice-livestream-without-the-price-tag-for-2024/"><u>Expert Advice Livestream Without the Price Tag for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy S23+?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mp3s-on-android-the-best-free-tools/"><u>In 2024, Mastering MP3s on Android - The Best Free Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-ms-store-hiccups-overcoming-error-0x80072f17/"><u>Mending MS Store Hiccups: Overcoming Error 0X80072f17</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-discord-errors-during-windows-11-installation-process/"><u>Solving Discord Errors During Windows 11 Installation Process</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-updates-eliminate-error-0x800f0922/"><u>Tackling Windows 11 Updates: Eliminate Error 0X800f0922</u></a></li>
+</ul></div>
 

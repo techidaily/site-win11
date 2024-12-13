@@ -1,7 +1,7 @@
 ---
 title: "Eradicate Chrome's File Upload Issues: A Windows Fix Guide"
-date: 2024-12-03T02:14:35.512Z
-updated: 2024-12-06T20:15:11.773Z
+date: 2024-12-12T08:45:03.823Z
+updated: 2024-12-13T11:10:48.674Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Start With Generic Fixes
 
  Before we get to any advanced troubleshooting tips, it’s a good idea to first try some basic solutions mentioned below.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
  After that, try uploading files and check if the issue occurs again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Browser Extensions
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Energy Saver Mode in Chrome
 
  When you [enable Energy Saver mode in Chrome](https://www.makeuseof.com/enable-google-chrome-energy-saver-mode/), it limits certain background processes and visual effects to conserve battery life. However, this feature might cause your file uploads to fail in Chrome, especially if you are uploading large files.
@@ -75,7 +75,15 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. Disable the toggle next to **Energy saver**.  
 ![Turn Off Energy Saver in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-energy-saver-in-google-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, see if you can upload files without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Your Antivirus
 
@@ -84,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
  To check for this possibility, you can temporarily disable your antivirus program on Windows. To do so, simply right-click on the antivirus program's taskbar icon, and select **Disable > Disable until the next restart**.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
@@ -102,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have updated Chrome, your file uploads should work as expected.
 
 ## 7\. Create a New Chrome Profile
@@ -113,15 +121,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. Choose whether you want to sign in with or without an account.  
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reset Chrome Settings
 
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After resetting Chrome, restart it, and the issue should bother you.
@@ -148,22 +148,6 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-grading-for-emotion-altering-footage-to-evoke-feelings/"><u>[Updated] Grading for Emotion Altering Footage to Evoke Feelings</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-insightful-comparison-of-triller-and-tiktoks-content-models-max-156-chars/"><u>2024 Approved Insightful Comparison of Triller and TikTok's Content Models (Max 156 Chars)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-sci-fi-vr-adventures-new-realms-unveiled/"><u>2024 Approved Top 10 Sci-Fi VR Adventures New Realms Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-reserve-memory-feature/"><u>Decoding Windows Reserve Memory Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-active-directory-printer-error-on-win-1011/"><u>Eliminating Active Directory Printer Error on WIN 10/11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhanced-with-customizable-automation-via-cookiebot/"><u>Enhanced with Customizable Automation via Cookiebot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guides-top-10-must-know-ipad-shortcuts-and-tweaks-for-beginners-and-experts-zdnet-insights/"><u>Essential Guides: Top 10 Must-Know iPad Shortcuts & Tweaks for Beginners & Experts - ZDNet Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-revive-a-non-functional-hp-computer-screen-expert-tips/"><u>How To Revive A Non-Functional HP Computer Screen - Expert Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-camera-and-recording-apps-for-iphone-and-android-smartphones-for-2024/"><u>Ideal Camera and Recording Apps for iPhone and Android Smartphones for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-picklist-of-digital-vault-services/"><u>Premium Picklist of Digital Vault Services</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-desktop-icons-and-menus/"><u>Restoring Functionality to Windows Desktop Icons and Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-blue-screen-error/"><u>Understanding and Remedying Blue Screen Error</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +155,24 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-screenshots-of-a-full-page-for-2024/"><u>[Updated] Capture Screenshots of a Full Page for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-peasy-automating-the-repetitive-view-of-youtube-videos-for-2024/"><u>[Updated] Easy Peasy Automating the Repetitive View of YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deep-dive-into-streamlining-your-google-podcast-process/"><u>A Deep Dive Into Streamlining Your Google Podcast Process</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-limited-access-on-win11-wi-fi-with-9-key-strategies/"><u>Conquer Limited Access on Win11 Wi-Fi With 9 Key Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-the-ideal-windows-11-environment-with-strategic-tweaks/"><u>Crafting the Ideal Windows 11 Environment with Strategic Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-data-management-with-autodelete-in-windows/"><u>Enhanced Data Management with AutoDelete in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v29-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V29 Phone that is Locked?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-z-flip-5-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy Z Flip 5 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Location | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-play-8t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor Play 8T</u></a></li>
+<li><a href="https://win11.techidaily.com/place-of-windows-shot-pics-storage/"><u>Place of Windows Shot Pics Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnecting-windows-11-printer-a-step-by-step-guide/"><u>Reconnecting Windows 11 Printer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/traverse-the-archives-using-file-history-in-windows-11/"><u>Traverse the Archives: Using File History in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-package-handling-via-wingetinterface-in-windows-11/"><u>Unveiling Package Handling via WingetInterface in Windows 11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering Shortcut Expansion in Modern Windows Operating Systems
-date: 2024-12-06T02:35:05.876Z
-updated: 2024-12-06T17:46:57.480Z
+date: 2024-12-12T06:45:19.377Z
+updated: 2024-12-13T02:24:03.953Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Move to Folder Context Menu Option
 
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 ![The Move to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-to-folder-context-menu-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A small Move Items window will then appear from which you can select a destination folder. Choose a folder to move the file to in that window. Then click**Move** to place the file in the selected directory.
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 7. Click the**OK** button to apply the value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Registry Editor app’s window.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
@@ -117,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
@@ -146,18 +146,22 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-essential-free-tiktok-cutting-tools-for-mac-computers/"><u>[New] In 2024, Essential Free TikTok Cutting Tools for Mac Computers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-step-by-step-approach-to-mastering-free-youtube-video-transcription/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Mastering Free YouTube Video Transcription</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-breaking-top-tiktok-videos-making-twitter-shout/"><u>[Updated] Breaking Top TikTok Videos Making Twitter Shout</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-stealthy-sound-softening-with-garageband-for-2024/"><u>[Updated] Stealthy Sound Softening with Garageband for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-decisions-5-ways-to-upgrade-your-crypto-strategy/"><u>AI-Driven Decisions: 5 Ways to Upgrade Your Crypto Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-navigation-employing-apple-maps-on-windows/"><u>Cutting-Edge Navigation: Employing Apple Maps on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-and-customize-windows-photo-viewer-for-11-users/"><u>How to Reactivate and Customize Windows Photo Viewer for 11 Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introducing-you-to-basic-numbers-in-spanish/"><u>Introducing You to Basic Numbers in Spanish</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-windows-11-clipboard-glitches/"><u>Mitigating Windows 11 Clipboard Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-system-resources-with-smart-security-settings/"><u>Optimizing System Resources with Smart Security Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-the-disappearance-of-printmanagement-service/"><u>Quick Fix for the Disappearance of 'Printmanagement' Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-code-802-a-comprehensive-guide/"><u>Resolving Windows Update Error Code 802#: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/smart-energy-saving-set-auto-shutdown-on-windows-11/"><u>Smart Energy Saving: Set Auto Shutdown on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-next-gen-sound-and-vision-leading-devices-of-24/"><u>[New] Next-Gen Sound and Vision Leading Devices of '24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-techniques-for-home-based-podcast-capture/"><u>[New] Professional Techniques for Home-Based Podcast Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>[Updated] 2024 Approved Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-moviemakermag-comprehensive-editor-review/"><u>2024 Approved MovieMakerMag Comprehensive Editor Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/4-ways-to-set-up-your-youtube-talking-head-shots-for-2024/"><u>4 Ways To Set Up Your YouTube Talking-Head Shots for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-missing-msvcrt120dll-errors-on-pcs/"><u>Guide to Correcting Missing Msvcrt120dll Errors on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-wi-fi-erasure-on-windows-11/"><u>Guide to Wi-Fi Erasure on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-top-11-economical-cameras-for-professional-vloggers/"><u>In 2024, Top 11 Economical Cameras for Professional Vloggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-guide-inverse-video-tricks-on-youtube-plustutorials/"><u>In 2024, Ultimate Guide Inverse Video Tricks on YouTube (+Tutorials)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>In 2024, Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/instantly-stop-notifications-in-windows-11-ui/"><u>Instantly Stop Notifications in Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographic-advantages-with-quantum-hdr-mastery/"><u>Photographic Advantages with Quantum HDR Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-lengthen-windows-11-shutdown-process-during-tasks-execution/"><u>Strategies to Lengthen Windows 11 Shutdown Process During Tasks Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-workflow-microsoft-tech-evolution/"><u>Streamlined Workflow: Microsoft Tech Evolution</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-efail-error-0x80004005-in-virtualbox-windows/"><u>Tackling the E_FAIL (Error 0X80004005) in VirtualBox Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-in-live-streaming-efficient-capture-techniques-via-intel/"><u>Winning in Live Streaming: Efficient Capture Techniques via Intel</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Integration of Ethernet & Wi-Fi in a Windows Environment
-date: 2024-12-04T11:02:41.210Z
-updated: 2024-12-07T00:51:41.516Z
+date: 2024-12-07T02:14:18.950Z
+updated: 2024-12-12T20:17:46.530Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why You May Need to Use Both the Wi-Fi and Ethernet Connections Simultaneously
 
  While you may not get an additional speed advantage when using the same ISP for your Wi-Fi and Ethernet, you can have both connections up and running as a backup for critical Internet-dependent services. Also, if you have access to multiple ISP connections, you can[merge multiple connections to increase your internet speed](https://www.makeuseof.com/how-to-merge-internet-connections/) .
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
  Additionally, it is also useful if you have a local server and want to be connected to both the Internet and the local server simultaneously. You can connect to the local media server via Ethernet and access the internet over Wi-Fi without dropping the connection.
 
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
 
@@ -49,16 +49,8 @@ To disable packet priority and VLAN on Windows:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 4. In the left pane, click on**Change adapter settings.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right-click on your**Ethernet network adapter** and select**Properties** . Alternatively, double-click on the**Ethernet adapter** and then click on**Properties** .  
 ![ethernet properties configure networking control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ethernet-properties-configure-networking-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. In the**Networking** tab, click the**Configure** button.
 2. Next, open the**Advanced** tab.
@@ -66,6 +58,11 @@ To disable packet priority and VLAN on Windows:
 4. Click the drop-down under**Value** .  
 ![priority vlan disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/priority-vlan-disabled.jpg)
 5. Select**Priority and VLAN Disabled.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** to save the changes.
 7. Next, you need to repeat the steps for your Wi-Fi adapter. So, open Properties for your Wi-Fi adapter and set its**Priority and VLAN** value to**Priority & VLAN Disabled** .
 8. Click**OK** to save the changes.
@@ -73,7 +70,7 @@ To disable packet priority and VLAN on Windows:
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
@@ -86,19 +83,24 @@ To change network priority on Windows:
 2. Type**ncpa.cpl** and click**OK** .  
 ![ncpa cpl open control panel network and sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ncpa-cpl.jpg)
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
 ![tcp ip v4 properties control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tcp-ip-v4-properties-control-panel.jpg)
 5. Click the**Advanced** button in the**Properties** dialog.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Next, uncheck**Automatic metric** and type**5** in the**Interface metric** field.
 7. Click**OK** on all the open windows to save the changes.
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
 
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
 
@@ -121,17 +123,24 @@ To change network priority on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos-for-2024/"><u>[Updated] Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>[Updated] Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-11-device-not-found-errors/"><u>Fixing Windows 11 Device Not Found Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-auto-update-notifications-on-windows-1011/"><u>Halt Auto-Update Notifications on Windows 10/11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/highpoint-craftsman-workspace-review/"><u>Highpoint Craftsman Workspace Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-logitech-m510-on-point-with-our-comprehensive-driver-upgrade-guide/"><u>Keep Your Logitech M510 on Point with Our Comprehensive Driver Upgrade Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restart-your-way-fixing-non-working-intel-unison-in-windows-11/"><u>Restart Your Way: Fixing Non-Working Intel Unison in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/stop-interrupted-workflows-proven-strategies-to-prevent-recurring-restarts-on-your-windows-11-system/"><u>Stop Interrupted Workflows: Proven Strategies to Prevent Recurring Restarts on Your Windows 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-concurrent-use-of-wireless-and-cable-networks-for-windows-pcs/"><u>Streamlining Concurrent Use of Wireless and Cable Networks for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-devhome-your-ultimate-windows-11-hub/"><u>Unveiling DevHome: Your Ultimate Windows 11 Hub</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/weaving-time-anomalies-into-visual-storytelling-for-2024/"><u>Weaving Time Anomalies Into Visual Storytelling for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>[Updated] In 2024, Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-clear-out-instructions-for-disabling-an-old-linkedin-profile/"><u>[Updated] In 2024, The Clear-Out Instructions for Disabling an Old LinkedIn Profile</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[Updated] In 2024, The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-master-the-art-of-attraction-8-proven-techniques-for-reel-success/"><u>2024 Approved Master the Art of Attraction 8 Proven Techniques for Reel Success</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-correcting-error-code-0x80071a90-windows-issue/"><u>Decoding and Correcting Error Code: 0X80071A90 Windows Issue</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-0x800713f-in-the-email-app-of-windows-os/"><u>Fixing Error 0X800713F in the Email App of Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-facebook-a-brand-reborn-as-the-innovative-meta-network/"><u>From 'Facebook': A Brand Reborn as the Innovative Meta Network</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-overclocking-for-enjoyable-power-efficient-gaming/"><u>Managing Overclocking for Enjoyable, Power-Efficient Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-print-problem-fixes-on-your-windows-11-pc/"><u>Navigate Through Print Problem Fixes on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-network-access-denial-by-correcting-keys-in-windows-11/"><u>Overcoming Network Access Denial by Correcting Keys in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-enhance-group-policy-effectiveness-in-windows/"><u>Strategies to Enhance Group Policy Effectiveness in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-revealing-the-invisible-registry-editor/"><u>Techniques for Revealing the Invisible 'Registry Editor'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-system32-win11/"><u>The Ultimate Guide to System32 (Win11)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-detecting-missing-gpu-on-pc-platforms/"><u>Tips for Detecting Missing GPU on PC Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-explorer-not-recognizing-sd-remedy-tips/"><u>Windows Explorer Not Recognizing SD: Remedy Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-snd-movavi/"><u>무료 MP3 역화: SND 콘텐츠를 위해 Movavi의 인터넷 서비스</u></a></li>
 </ul></div>
 

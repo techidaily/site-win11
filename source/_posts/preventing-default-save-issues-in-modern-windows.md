@@ -1,7 +1,7 @@
 ---
 title: Preventing Default Save Issues in Modern Windows
-date: 2024-09-05T08:27:09.492Z
-updated: 2024-09-06T08:27:09.492Z
+date: 2024-12-10T23:48:31.278Z
+updated: 2024-12-12T17:18:26.461Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Set Your User Account to Administrator
 
  If you’re utilizing a standard Windows account, [change your user account type](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) to an administrative one. A standard user account will prevent you from applying any more complicated system changes. Changing the save location for apps is something you might need admin privileges for.
@@ -33,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![The Account type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-account-type-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Rename the WindowsApps Directory
 
  This error can arise because the WindowsApps folder where apps save is corrupted. Renaming the WindowsApps folder on the drive or partition you want to save apps can address such an issue. To do so, rename that folder as follows:
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  If that still doesn’t work, then proceed to the next resolution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete or Rename the WpSystem Folder
 
  Many users confirm that renaming or deleting the WpSystem folder fixes error 0x80070005\. WpSystem is a folder created to store app data. Try renaming that folder to **WpSystem.old** on the drive you can’t set to be a save location for apps, as outlined for the previous method. The WpSystem will be in the same directory as the WindowsApps folder.
@@ -60,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Set Full System Permission for the System Volume Folder
 
  Setting full permission for the System Volume folder is another confirmed fix for error 0x80070005\. Follow these steps to set full permission for the System Volume directory:
@@ -75,12 +69,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 3. Deselect the **Hide protected operating system files (Recommended)** option.  
 ![The Hide protected operating system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hide-protected-operating-system-files.jpg)
 4. Select the **Show hidden files, folders and drives** radio button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **Apply** to save the new Explorer settings.
 
 1. Select the drive you need to set as the default save location for apps.
@@ -94,30 +82,21 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 2. Input **SYSTEM** inside the object name box.  
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-user-group.jpg)
 3. Click on the **OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the **Full control permission** setting.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-control-option.jpg)
 5. Then select the **OK** options on the Permission Entry and Advanced Security Settings windows.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close all remaining open windows. Then, restart your PC and try changing the default save location.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Set a New Default Save Location in Windows 11/10
 
  Many users have needed to fix error 0x80070005 and have done so by applying the potential solutions in this guide. The WpSystem folder is often the source of the error, and resolution two is the most widely confirmed method for fixing this issue.
@@ -126,11 +105,33 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  Is that error also preventing you from changing where new apps save to? If it is, this is how you can fix error codes 0x80070005 or 0x80070539 on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-share-tunes-mp3-from-fb/"><u>[New] 2024 Approved Share Tunes MP3 From FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-share-wisdom-top-strategies-for-video-sharing-on-instagram/"><u>[New] Share Wisdom Top Strategies for Video Sharing on Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-optimal-recording-is-30fps-or-60fps-superior-for-videos-for-2024/"><u>[Updated] Optimal Recording Is 30Fps or 60Fps Superior for Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-prompt-access-for-admin-tasks-on-pc/"><u>Command Prompt Access for Admin Tasks on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-data-size-and-space-usage-with-win11s-ntfs-features/"><u>Controlling Data Size & Space Usage with Win11's NTFS Features</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-issues-with-elevated-user-roles-and-privileges/"><u>Correcting Issues with Elevated User Roles and Privileges</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-oppo-find-x6-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Oppo Find X6.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 11 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-world-of-toolwiz-an-in-depth-software-review-for-2024/"><u>Inside the World of Toolwiz An In-Depth Software Review for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-technology-choices-why-experts-agree-apples-ipad-pro-201e-11-inch-is-unbeatable/"><u>Mastering Technology Choices: Why Experts Agree, Apple's iPad Pro (201E, 11-Inch) Is Unbeatable</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-with-widget-driven-hardware-insights/"><u>Maximize Efficiency with Widget-Driven Hardware Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-gameplay-smart-adjustments-for-amd-gpu-performance-on-pc/"><u>Optimize Gameplay: Smart Adjustments for AMD GPU Performance on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/sniping-in-windows-10-prtsc-vs-snip-and-sketch-showdown/"><u>Sniping in Windows 10: PrtSc Vs. Snip & Sketch Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-typing-on-win-11-combat-keyboard-lag-effectively/"><u>Speed Up Typing on Win 11: Combat Keyboard Lag Effectively</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/step-by-step-guide-to-moving-whatsapp-messages-between-two-iphone-devices-by-bypassing-the-icloud-route/"><u>Step-by-Step Guide to Moving WhatsApp Messages Between Two iPhone Devices by Bypassing the iCloud Route</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-correcting-messages-not-rendering-in-discord/"><u>Steps for Correcting Messages Not Rendering in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-tackle-frozen-power-settings-on-windows-11/"><u>Tricks to Tackle Frozen Power Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unmatched-comfort-and-efficiency-leading-windows-laptops/"><u>Unmatched Comfort & Efficiency - Leading Windows Laptops</u></a></li>
+</ul></div>
+

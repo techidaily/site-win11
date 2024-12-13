@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Screen Organization: Custom Snap Setups in Windows"
-date: 2024-12-06T01:16:22.776Z
-updated: 2024-12-07T04:21:14.732Z
+date: 2024-12-10T11:15:50.886Z
+updated: 2024-12-13T00:47:36.885Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Snap Layouts in PowerToys
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 9. Click the**Save** button to save your changes.  
 ![Edit Snap Layouts in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-snap-layouts-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the existing layout templates aren't enough for you, PowerToys also gives you the option to create new snap layouts from scratch. Here’s how to create one.
 
 1. In the PowerToys app, navigate to the**FancyZones** tab.
@@ -59,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 6. After creating your snap layout, click the**Save & apply** button.  
 ![Create New Custom Layout in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-new-custom-layout-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can repeat the above steps to create as many custom layouts as you want.
 
  By default, apps and programs on your computer will utilize[Windows 11's snap layouts](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) when you move the mouse cursor over the maximize button or drag the window into a corner. To use your custom snap layout created with PowerToys, you'll need to hold the**Shift key** and then drag the window to one of your zones.
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ![Snap Layout on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snap-layout-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize FancyZones Settings in PowerToys
@@ -77,25 +77,25 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
 ![Customize Zone Appeareance in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-zone-appeareance-in-powertoys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, in the**Window behavior** section, you can use the checkboxes to specify how windows should behave when you use FancyZones. You can, for example, configure windows to revert to their original size when unsnapped using the**Restore the original size of windows when unsnapping** checkbox.
 
 ![Customize Window Behavior in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/customize-window-behavior-in-powertoys.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re accustomed to using**Win + arrow key** shortcut to snap windows on your computer, you can configure PowerToys to override Windows Snap. For that, enable the toggle next to**Override Windows Snap** and then use the Win + arrow keys to arrange your windows.
 
 ![Overide Windows Snap Setting in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/overide-windows-snap-setting-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With FancyZones, you can prevent specific apps and programs from snapping to zones. To do so, scroll down to the**Excluded apps** section in the FancyZones tab. Then, type in the name of the app you want to exclude. For instance, if you wanted to prevent File Explorer from snapping to zones, you’d type**explorer.exe** in the text field.
 
 ![Exlude Apps in FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/exlude-apps-in-fancyzones.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multitask Better With Custom Snap Layouts on Windows 11
 
@@ -116,16 +116,17 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-syncing-fb-vids-with-whatsapp-a-step-by-step-guide-for-2024/"><u>[New] Syncing FB Vids with WhatsApp A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-virtual-symposium-streams/"><u>[New] Virtual Symposium Streams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5asw6yoo6zplusz44ks5o6s6zmk44gx44gm44kv44oq44ki44gq55s75yop6yyy6kaw5pa55rov/"><u>外部音を排除してクリアな画像録視方法</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-frozen-lock-screen-timed-out-error/"><u>Diagnosing Frozen Lock Screen Timed Out Error</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-dism-commands-to-repair-windows-11-system-images/"><u>How to Use DISM Commands to Repair Windows 11 System Images</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-explore-advanced-techniques-making-a-difference-with-your-captivating-slow-motion-videos-and-photos-for-instagram/"><u>In 2024, Explore Advanced Techniques Making a Difference with Your Captivating Slow-Motion Videos & Photos for Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-entry-into-the-world-of-facebook-marketplace/"><u>Navigating Entry Into the World of Facebook Marketplace</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/navigating-your-way-into-microsofts-tech-team-strategies-by-zdnet-experts/"><u>Navigating Your Way Into Microsoft's Tech Team - Strategies by ZDNet Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-for-crystal-clear-wallpapers/"><u>Optimizing Windows for Crystal Clear Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-profile-corruption-in-modern-windows-versions/"><u>Overcoming Profile Corruption in Modern Windows Versions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/practical-steps-for-saving-real-time-chat-sessions/"><u>Practical Steps for Saving Real-Time Chat Sessions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>[New] A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-secrets-of-selecting-a-powerful-streaming-device/"><u>[New] In 2024, The Secrets of Selecting a Powerful Streaming Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-7-secure-video-conferencing-systems-for-smbs/"><u>[New] In 2024, Ultimate 7 Secure Video Conferencing Systems for SMBs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-actions-screening-tech-report-for-2024/"><u>[Updated] Cutting-Edge Actions Screening Tech Report for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-8t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 8T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-redo-installation-of-unavailable-windows-add-ons/"><u>How to Redo Installation of Unavailable Windows Add-Ons</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-best-3d-software-perfect-for-youtube-openers/"><u>In 2024, The Best 3D Software Perfect for YouTube Openers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-nooks-to-fix-file-download-issues-on-windows-11-2/"><u>Navigating Nooks to Fix File Download Issues on Windows 11 (2)</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-recovery-6-effective-steps-to-counteract-save-errors/"><u>Speedy Recovery: 6 Effective Steps to Counteract Save Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-temperature-trackers-for-windows-11-users/"><u>Top-Tier Temperature Trackers for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-windows-11-audio-landscape-with-dolby-atmos/"><u>Transform Your Windows 11 Audio Landscape with Dolby Atmos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquering System Hurdles: A Complete Solution to Fixing Xbox Game Pass’s Error Code 0X800700E9"
-date: 2024-12-06T00:35:53.923Z
-updated: 2024-12-06T20:54:09.709Z
+date: 2024-12-10T19:31:06.988Z
+updated: 2024-12-12T22:45:56.106Z
 tags:
   - windows10
   - windows11
@@ -37,14 +37,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 5. Apply any suggestions the troubleshooter provides.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows 10 troubleshooters are available within the**Update & Security** category of Settings. Click the**Troubleshoot** tab in that category and select**Additional troubleshooters** . Then you can select Windows Store Apps from there and click**Run** to access the tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Turn Delivery Optimization On in Settings
 
@@ -55,14 +51,19 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 3. Select the**Delivery Optimization** navigation option.  
 ![The Delivery Optimization navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delivery-optimization-navigation-option.jpg)
 4. Turn on the**Allow downloads from other PCs** option to enable Delivery Optimization.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Allow downloads from other PCs option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-downloads-from-other-pcs-option.jpg)
 5. Click the**Devices on my local network** radio button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can enable Delivery Optimization in Windows 10’s Settings app much the same. However, you’ll need to select the**Windows Update** category. Then click the**Deliver Optimization** tab in the**Windows Update** category to access and turn on the same**Allow downloads from other PCs** setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable the Delivery Optimization and BITS Services
 
@@ -81,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
  If the services are already running, try restarting them. Right-click the services and select their**Stop** options. Then you can start those services again by right-clicking them and selecting**Restart** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable Delivery Optimization via the Windows Registry
 
  If the above methods didn't work for you, try enabling Delivery Optimization service by editing the registry. You can back up the registry or set up a restore point before editing the registry if you want to be extra careful. To apply this potential solution, edit the**DoSvc** key like this:
@@ -91,15 +96,20 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc`  
 ![The DoSvc key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/dovsc-key.jpg)
 4. Select the**DoSvc** key, and right-click the**Start** DWORD to select**Modify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/modify-option.jpg)
 5. Input**3** in the**Value** box and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-dword-key.jpg)
 6. Exit Regedit, and restart the PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset or Repair the Xbox App
 
@@ -108,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
  Check out our guide on[resetting apps in Windows 11 and 10](https://www.makeuseof.com/windows-reset-app/) to clear the Xbox app’s data. The**Repair** option for the Xbox app in Settings is available just above its**Reset** button.
 
 ![The Reset option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Microsoft Store Cache
 
@@ -118,14 +132,6 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 3. Click**WSReset.exe** to run the command.  
 ![The wsreset.exe Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-exe-command.jpg)
 4. Wait for MS Store to open automatically, and then try downloading Xbox Game Pass titles again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
 
@@ -146,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
  Have a look at our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide for details about how to apply this troubleshooting method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enjoy Your Xbox Game Pass Games Again
 
  Fortunately, you don’t have to cancel your Xbox Game Pass subscription because of error 0x800700e9\. A lot of users have fixed this installation issue for Xbox Game Pass titles with the resolutions in this guide.
@@ -169,20 +171,21 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-whats-different-on-facebook-a-comprehensive-overview/"><u>[New] 2024 Approved What's Different on Facebook? - A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-innovative-ways-to-control-your-iphones-picture-angles-for-2024/"><u>[New] Innovative Ways to Control Your iPhone's Picture Angles for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fv-downloader-for-social-networking-videos-for-2024/"><u>[Updated] FV-Downloader for Social Networking Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-to-device-direct-and-indirect-video-transfers/"><u>[Updated] Instagram to Device Direct and Indirect Video Transfers</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/5-leading-iphone-backup-tools-compared-the-ultimate-guide-for-users-on-both-windows-and-macos-systems/"><u>5 Leading iPhone Backup Tools Compared: The Ultimate Guide for Users on Both Windows and macOS Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-hp-universal-print-driver-on-windows-step-by-step-guide/"><u>Download the HP Universal Print Driver on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-dark-visual-settings-in-wincalc-app/"><u>Enable Dark Visual Settings in WinCalc App</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-uncharted-with-w11s-upcoming-moment-update/"><u>Exploring the Uncharted with W11's Upcoming Moment Update</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-undo-personalized-windows-sleep-settings/"><u>How To Undo Personalized Windows Sleep Settings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/masterful-80s-filters-and-transitions-for-editors-for-2024/"><u>Masterful 80S Filters & Transitions for Editors for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discoveries-and-reviews-by-toms-hardware-gurus/"><u>Pioneering Tech Discoveries and Reviews by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-data-disasters-in-windows-systems/"><u>Preventing Data Disasters in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/soft-install-showdown-chocolatey-vs-windows-package-manager/"><u>Soft Install Showdown: Chocolatey VS. Windows Package Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-look-at-notifications-on-win-11/"><u>The Insider’s Look at Notifications on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-access-steps-to-locate-and-restore-your-hidden-pin-in-win-11/"><u>Unlocking Access: Steps to Locate and Restore Your Hidden PIN in Win 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-captivating-youtube-thumbnails-for-mac-users/"><u>[New] 2024 Approved Creating Captivating YouTube Thumbnails for Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-steps-to-remove-following-requests-on-instagram/"><u>[New] 2024 Approved Steps to Remove Following Requests on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>[Updated] The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-start-a-stream-reap-riches-vlog-money-secrets/"><u>2024 Approved Start a Stream, Reap Riches Vlog Money Secrets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ace-choices-top-10-streaming-apps-for-live-soccer-and-football-action-for-2024/"><u>Ace Choices Top 10 Streaming Apps for Live Soccer & Football Action for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-unlock-your-pcs-credentials-with-these-11-win11-tricks/"><u>Effortlessly Unlock Your PC’s Credentials with These 11 Win11 Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failure-error-in-win-1011/"><u>Eradicating Operation Failure Error in Win 10/11</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>In 2024, Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-silent-audio-issues-during-valorant-playthroughs-on-windows/"><u>Overcoming Silent Audio Issues During Valorant Playthroughs on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-to-classic-folder-visibility/"><u>Resetting Windows 11 to Classic Folder Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-virtual-setup-installing-win11-on-workstation-17/"><u>Streamlining Virtual Setup: Installing Win11 on Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/the-enigmatic-personal-space-in-win-how-to-engage-with-private-character-viewer/"><u>The Enigmatic Personal Space in Win: How to Engage with Private Character Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-discovering-deleting-null-space-in-windows-systems/"><u>The Ultimate Guide: Discovering, Deleting Null Space in Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-12-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme 12 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

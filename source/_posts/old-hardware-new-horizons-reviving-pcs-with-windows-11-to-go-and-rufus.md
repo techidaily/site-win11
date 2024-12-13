@@ -1,7 +1,7 @@
 ---
 title: Old Hardware, New Horizons - Reviving PCs with Windows 11 To Go & Rufus
-date: 2024-11-29T18:35:03.234Z
-updated: 2024-12-07T04:37:31.659Z
+date: 2024-12-11T11:46:08.248Z
+updated: 2024-12-12T16:39:32.092Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 
 ![Screenshot showing the minimum system requirements for Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-screenshot-showing-the-minimum-system-requirements-for-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Image via Microsoft.com](https://www.microsoft.com/en-in/windows/windows-11-specifications)
 
  You can check if your PC meets these requirements using the [PC Health Check app](https://support.microsoft.com/en-us/windows/how-to-use-the-pc-health-check-app-9c8abd9b-03ba-4e67-81ef-36f37caa7844). But, if any of the requirements are not fulfilled, Windows will say that the system does not meet the requirements.
 
 ![Screenshot showing that the PC does not meet minimum system requirements for Windows 11 in PC Health Check app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-screenshot-showing-that-the-pc-does-not-meet-minimum-system-requirements-for-windows-11-in-pc-health-check-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 11 compatibility check is not only a warning, but will also result in refusal to install the OS. [Windows 10 will retire on October 14, 2025](https://www.makeuseof.com/windows-10-last-version-end-of-support/), after which it will not get any updates. As such, your PC won't get any new features or security fixes unless you install Windows 11 on it.
 
@@ -47,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 * TPM (Trusted Platform Module),
 * and a Microsoft account for the initial device setup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Hardware You Need to Create a Windows 11 To Go Drive
 
 ![Photo showing a SSD connected to a USB to SATA adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-photo-showing-a-ssd-connected-to-a-usb-to-sata-adapter.jpg)
@@ -56,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
  And yes, you can install Windows To Go on a USB flash drive. It will also work with a USB 2.0 and a hard disk as well. But, these slower devices and interfaces are not recommended. We will get to this later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create a Windows To Go Drive Using Rufus
@@ -79,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 
 ![Screenshot showing selection of USB SSD in Device dropdown box of Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/05-screenshot-showing-selection-of-usb-ssd-in-device-dropdown-box-of-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot showing selection of Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/06-screenshot-showing-selection-of-disk-image-in-rufus.jpg)
 
 ![Screenshot showing selection of Windows 11 ISO as Disk Image in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/07-screenshot-showing-selection-of-windows-11-iso-as-disk-image-in-rufus.jpg)
@@ -100,7 +108,7 @@ Close
 ![Screenshot showing selection of Target system in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/10-screenshot-showing-selection-of-target-system-in-rufus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -118,10 +126,6 @@ Close
 
 ![Screenshot showing customization of Windows installation in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/12-screenshot-showing-customization-of-windows-installation-in-rufus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Once you're ready to go, click **Start.** Rufus will clear the data on the portable drive, write Windows 11 files, and make the drive bootable. This will usually take around 10 minutes.
@@ -129,23 +133,23 @@ Close
 ![Screenshot showing warning that all data in the USB SSD will be destroyed and to click OK to confirm in Rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/13-screenshot-showing-warning-that-all-data-in-the-usb-ssd-will-be-destroyed-and-to-click-ok-to-confirm-in-rufus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot showing Rufus applying the Windows 11 Disk Image to the USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/14-screenshot-showing-rufus-applying-the-windows-11-disk-image-to-the-usb-ssd.jpg)
 
-![Screenshot showing that Rufus completed applying the Windows 11 Disk Image to the USB SSD and is ready for boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-screenshot-showing-that-rufus-completed-applying-the-windows-11-disk-image-to-the-usb-ssd-and-is-ready-for-boot.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Screenshot showing that Rufus completed applying the Windows 11 Disk Image to the USB SSD and is ready for boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/15-screenshot-showing-that-rufus-completed-applying-the-windows-11-disk-image-to-the-usb-ssd-and-is-ready-for-boot.jpg)
 
 Close
 
  When done, close Rufus. If you are going to use Windows To Go on the same computer, reboot it. If you want to use it on another computer, eject the USB device and connect it to the target computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Set Up Windows 11 to Boot
@@ -161,6 +165,10 @@ Close
  Windows will take a few minutes to set up everything. Since you have already set the regional options and privacy options, the installation will not ask any more questions.
 
 ![Screenshot showing Windows 11 setting everything up after boot of USB SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/18-screenshot-showing-windows-11-setting-everything-up-after-boot-of-usb-ssd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, you have Windows 11, completely functional on a computer that does not meet the minimum system requirements. It will still run A-OK!
 
@@ -180,10 +188,6 @@ Close
 
  Windows 11 on a USB drive will work well, exactly as it would on an internal drive, provided the disk speeds are up to the mark. As such, it's a good idea to ensure you're using the right ports and drives to ensure the quickest experience possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SSDs Are Always a Better Choice
 
 ![Photo showing a Hard Disk and a SSD and to prefer a SSD to HDD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/22-photo-showing-a-hard-disk-and-a-ssd-and-to-prefer-a-ssd-to-hdd.jpg)
@@ -192,13 +196,13 @@ Close
 
  Operating systems use plenty of small files, and SSDs shine at the read/write speed of these files. Hard disks, in contrast, need more time to seek the files. This is shown via the access time of each drive; SSDs take 1ms, and hard disks take 20ms. As such, you should always choose an SSD to store your operating system if you can.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### USB 3.0 Is 10 Times Faster Than 2.0
 
 ![Photo showing a USB 2.0 adapter and a USB 3.0 adapter and to prefer USB 3.0 adapter to USB 2.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/23-photo-showing-a-usb-2-0-adapter-and-a-usb-3-0-adapter-and-to-prefer-usb-3-0-adapter-to-usb-2-0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  USB 3.0 read/writes at 5Gbps compared to USB 2.0 which can do only 480Mbps. So, you should use a USB 3.0 to SATA adapter.
 
@@ -216,38 +220,11 @@ Close
 * **The disk is portable across different computers—if they have the same configuration.** For example, if one computer has NVIDIA graphics with an already installed driver, the same disk will not boot on other hardware. In such case, you need to boot in safe mode and reset the drivers.
 * **Bypassing the system requirements is not a good idea overall.** Some of the features in Windows 11 provide additional security for your computer. You may need those if the computer is at risk of cyberattacks. However, this may be a good last resort if you're worried about Windows 10's loss of support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Extend Your PC's Life With Windows 11 To Go
 
  Some say that aging hardware kills a computer. But that’s not the usual case. Chromebooks in perfect condition are getting discarded because of the lack of software updates. The same will happen with the PCs that are running Windows 10, the ones that are incompatible with Windows 11\. Bypassing the system requirements can give your computer a new lease of life.
 
  There is a way to bypass these requirements and install Windows 11 on any powerful computer, even if it is old. The process is quite simple as well.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-achieving-professional-bokeh-on-mobile-phones/"><u>[New] 2024 Approved Achieving Professional Bokeh on Mobile Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-for-board-usage-during-your-zoom-meetings-desktopiosandroid/"><u>[New] 2024 Approved The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-downscaling-from-newmacos-sierra-to-prior-os-el-capitan/"><u>[New] Downscaling From Newmacos Sierra To Prior OS - El Capitan</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-discover-11-secrets-of-windows-11/"><u>[Updated] Discover 11 Secrets of Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-record-keeper-for-chromebook/"><u>[Updated] Precision Record Keeper for ChromeBook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bold-and-beautiful-implementing-borders-on-instagram-shots/"><u>2024 Approved Bold & Beautiful Implementing Borders on Instagram Shots</u></a></li>
-<li><a href="https://win-trending.techidaily.com/5-effiziente-techniken-zum-synchronisieren-von-iphone-kontakten-mit-google/"><u>5 Effiziente Techniken Zum Synchronisieren Von iPhone-Kontakten Mit Google</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-win1011-graphics-memory-increase-your-pcs-punch/"><u>Enhancing Win10/11 Graphics Memory: Increase Your PC's Punch</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-portable-software-integration-w11/"><u>Essential Steps for Portable Software Integration W11</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-steam-controller-blunders-on-pc/"><u>Fixing Steam Controller Blunders on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/magic-meets-technology-the-future-of-home-studio-production/"><u>Magic Meets Technology The Future of Home Studio Production</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-teams-sharing-common-solutions/"><u>Microsoft Teams Sharing: Common Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-wi-fi-deletion-on-windows-11/"><u>Navigating Wi-Fi Deletion on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resizing-images-made-easy-for-windows-11-users-uncover-the-top-6-methods/"><u>Resizing Images Made Easy for Windows 11 Users – Uncover the Top 6 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-net-core-runtime-error-on-windows-a-guide/"><u>Resolving .NET Core Runtime Error on Windows: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-order-steady-your-windows-updates-again/"><u>Restore Order: Steady Your Windows Updates Again</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-responsiveness-to-sound-settings-on-windows/"><u>Restoring Responsiveness to Sound Settings on Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/seamless-classic-play-on-ios-with-select-ps2-emulators/"><u>Seamless Classic Play on iOS with Select PS2 Emulators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-launchdll-files-in-windows/"><u>Troubleshooting Steps for Missing 'Launch.dll' Files in Windows</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -256,3 +233,17 @@ Close
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-media-analysis-evaluating-your-vs-opponents-youtube-content/"><u>[Updated] 2024 Approved Mastering Media Analysis Evaluating Your Vs. Opponents' YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/beam-worthy-moments-samsung-gamers-chronicle/"><u>Beam-Worthy Moments Samsung Gamers Chronicle</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-the-features-of-inshots-editing-software/"><u>Dissecting the Features of InShot's Editing Software</u></a></li>
+<li><a href="https://win11.techidaily.com/game-hacks-directories-revealed-in-windows/"><u>Game Hacks: Directories Revealed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-xbox-mic-fixes-within-windows-11-environment/"><u>Implementing Xbox Mic Fixes Within Windows 11 Environment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>In 2024, Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-e-readers-to-the-next-level-expert-insights-on-amazons-2018-kindle-paperwhite/"><u>Taking E-Readers to the Next Level: Expert Insights on Amazon's 2018 Kindle Paperwhite</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-a-translucent-taskbar-in-win11/"><u>Techniques for a Translucent Taskbar in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-connection-overcoming-ea-service-errors/"><u>Winning Back Connection: Overcoming EA Service Errors</u></a></li>
+</ul></div>
+

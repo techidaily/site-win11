@@ -1,7 +1,7 @@
 ---
 title: Method to Reclaim Pre-Set Touch Key Positions in Windows 11
-date: 2024-11-30T23:43:29.087Z
-updated: 2024-12-07T11:26:56.746Z
+date: 2024-12-07T06:50:32.746Z
+updated: 2024-12-12T23:29:15.468Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ Let's explore each one.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Tweak Registry Editor to Reset Touch Keyboard Default Open Position
@@ -48,7 +48,7 @@ Let's explore each one.
 6. Then go to its corresponding right pane, where you will find the**OptimizedKeyboardRelativeXPositionOnScreen** REG\_DOWRD value. Right-click on the key and delete it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Similarly, delete the**OptimizedKeyboardRelativeYPositionOnScreen** key value in the same folder.
@@ -56,7 +56,7 @@ Let's explore each one.
  After deleting both values, close the Registry Editor and restart your PC to apply the changes. Now, when you open the touch keyboard, it will start showing up at the default opening position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run a Batch File to Reset the Touch Keyboard's Default Open Position
@@ -78,7 +78,7 @@ start explorer.exe`
 ![Run Batch File to Reset Touch Keyboard Default Open Position](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-batch-file-to-reset-touch-keyboard-default-open-position.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the File name field, type "ResetTouch.bat", and choose**All Files** from the Save as type. After that, select Desktop from the left-hand side and click**Save** .
@@ -86,7 +86,7 @@ start explorer.exe`
  Once the batch file is saved, close the Notepad window. Next, double-click**ResetTouch.bat** on your Desktop to run it. This should reset your touch keyboard's default open position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting the Default Position of the Touch Keyboard
@@ -110,19 +110,20 @@ start explorer.exe`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-tackling-youtube-shorts-issues/"><u>[New] The Ultimate Guide Tackling YouTube Shorts Issues</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digitally-liberated-fb-tunes/"><u>[Updated] In 2024, Digitally Liberated FB Tunes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos/"><u>2024 Approved The Ultimate Method for Adding High-Quality SRT to MP4 Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-on-decorative-images-in-win-search/"><u>Cutting Down on Decorative Images in Win Search</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-dilemnas-windows-fingerprint-hacking-concerns-rising/"><u>Digital Dilemnas: Windows Fingerprint Hacking Concerns Rising</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/germanys-language-milestone-with-mondly-as-the-leader/"><u>Germany's Language Milestone with Mondly as the Leader</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-14-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 14 Pro IMEI Checker</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-fe-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S23 FE Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-camon-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Camon 20 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-dxgierror-zerodx887a0006-in-win11/"><u>Quick Guide to Fixing DXGIError ZeroDX887A0006 in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-older-features-of-photo-viewer-with-this-guide-for-win11/"><u>Reviving Older Features of Photo Viewer with This Guide for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-epic-launcher-sign-in-woes-on-pc/"><u>Tackling the Epic Launcher Sign-In Woes on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-safe-harbor-understanding-s-mode/"><u>Windows 11'S Safe Harbor: Understanding S Mode</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-practices-in-youtube-keyword-selection-for-2024/"><u>[Updated] Best Practices in YouTube Keyword Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-respond-to-unexpected-content-rejections-by-fb-platform/"><u>2024 Approved How to Respond to Unexpected Content Rejections by FB Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-sticknotes-setup-for-optimal-note-taking-in-win11win10/"><u>Easy StickNotes Setup for Optimal Note-Taking in Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-cure-for-windows-11-drag-glitches/"><u>Immediate Cure for Windows 11 Drag Glitches</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-hone-your-message-effective-use-of-templates-for-shorts/"><u>In 2024, Hone Your Message Effective Use of Templates for Shorts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6s-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 6s Without Previous Owner?</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-win-rpc-failures-five-essential-steps/"><u>Preventing Win RPC Failures: Five Essential Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-sluggishness-in-microsoft-edge-win10w11/"><u>Solutions for Sluggishness in Microsoft Edge, Win10/W11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-frontier-of-programming-with-microsoft-copilot/"><u>The New Frontier of Programming with Microsoft Copilot</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-power-5-must-try-apps-to-supercharge-windows-productivity/"><u>Unleashing Power: 5 Must-Try Apps to Supercharge Windows Productivity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/webcam-safety-starts-here-the-10-best-shields/"><u>Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-restoration-how-to-bring-back-the-buzz-and-boom/"><u>Windows 11 Audio Restoration: How to Bring Back the Buzz and Boom</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-integrity-restoration-6-summation-error-solutions/"><u>WinRAR Integrity Restoration: 6 Summation Error Solutions</u></a></li>
 </ul></div>
 

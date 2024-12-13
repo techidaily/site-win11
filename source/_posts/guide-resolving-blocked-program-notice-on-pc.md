@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving Blocked Program Notice on PC"
-date: 2024-12-01T03:26:52.455Z
-updated: 2024-12-07T03:15:31.719Z
+date: 2024-12-08T04:26:40.647Z
+updated: 2024-12-13T03:01:02.896Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
  If you don’t experience the error after rebooting, then it is likely a temporary glitch on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan for Malicious Programs
 
  If restarting your computer doesn’t work, the next step is to run a full antivirus scan on your system. Chances are that the application is blocked due to a virus, malware or another malicious program.
@@ -41,15 +37,15 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
 
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the SmartScreen Filter
 
@@ -62,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ![Disable the SmartScreen Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-smartscreen-filter.jpg)
 5. Toggle off **Potentially unwanted app blocking** and **SmartScreen for Microsoft Store apps**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Group Policy Settings
 
@@ -77,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ![User Account Control Run all administrators in Admin Approval Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control-run-all-administrators-in-admin-approval-mode.jpg)
 3. Once you're in the Local Group Policy Editor window, navigate to the following:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options.`
 4. From the list of settings, double-click on **User Account Control: Run all administrators in Admin Approval Mode** and set it to **Disabled**.
 5. After making the changes, click **Apply > OK** and restart your computer to apply it.
 
  Keep in mind that modifying group policy settings can leave your computer vulnerable to malicious applications. Therefore, you should only do it as a last resort and revert the change as soon as you’re done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Tweak the Registry Editor
 
@@ -100,7 +96,15 @@ thumbnail: https://thmb.techidaily.com/99c9865a6c9c6ec80635e573e65ff37309dc9b7d7
 ![Disable the EnableLUA key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-enablelua-key-in-registry-editor.jpg)
 6. Click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making the changes, close the Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Windows Update Components
 
@@ -174,34 +178,11 @@ net start cryptsvc`
 
  Wait for the process to finish and restart your computer. After the reboot, try running the blocked app again. It should now work without issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Access to Your Apps and Files on Windows
 
  Windows is known for its tight security which prevents malicious applications from launching and infecting your PC. However, sometimes even legitimate programs are blocked by the operating system and leave an error message saying “This app has been blocked for your protection.”
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-smart-video-alteration-for-mac-users-seeking-insta-perfect-posts/"><u>[New] Smart Video Alteration for Mac Users Seeking Insta-Perfect Posts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[Updated] 2024 Approved Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-extract-gif-content-seamlessly-on-various-devices/"><u>[Updated] 2024 Approved How To Extract GIF Content Seamlessly on Various Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-common-blue-screens-in-windows-os/"><u>Conquering Common Blue Screens in Windows OS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/creating-polished-composites-with-skillful-modes-use/"><u>Creating Polished Composites with Skillful Modes Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-connection-how-to-ensure-your-ps4-dualshock-works-perfectly/"><u>Effortless Connection: How To Ensure Your PS4 DualShock Works Perfectly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y200e-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y200e 5G Phones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/nine-techniques-for-reversing-livestream-engagement/"><u>Nine Techniques for Reversing Livestream Engagement</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-team-meeting-blank-screens/"><u>Resolve Team Meeting Blank Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-frozen-grammarly-errors-on-windows-systems/"><u>Resolving Frozen Grammarly Errors on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-altering-admin-credentials-a-guide-for-windows-11-users/"><u>Securely Altering Admin Credentials: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/sonic-social-media-merging-melodies-and-memes-on-instagram-for-2024/"><u>Sonic Social Media Merging Melodies and Memes on Instagram for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-expiry-notification-issue/"><u>Steps to Overcome Windows Expiry Notification Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/thorough-guide-to-completely-uninstall-wsl-in-win-1011/"><u>Thorough Guide to Completely Uninstall WSL in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-click-efficiency-with-customized-mouse-settings-on-win11/"><u>Upgrade Your Click Efficiency with Customized Mouse Settings on Win11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -210,3 +191,24 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-hilarity-in-a-click-meme-creation/"><u>[Updated] In 2024, Hilarity in a Click (Meme Creation)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-screen-recording-software-a-comprehensive-analysis/"><u>2024 Approved Essential Screen Recording Software A Comprehensive Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-activate-auto-hdr-setting-in-windows-11/"><u>2024 Approved How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-11-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 11 Pro iCloud Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-htc-u23-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your HTC U23 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/erasing-identity-the-most-effective-face-blur-video-editing-software-for-2024/"><u>Erasing Identity The Most Effective Face Blur Video Editing Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/evaluating-the-expense-determining-your-personal-pricing-for-windows-11/"><u>Evaluating the Expense: Determining Your Personal Pricing for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grayed-boot-prompt-issues/"><u>Fixing Grayed BOOT Prompt Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-audio-only-plays-during-mp4-videos-on-a-pc/"><u>How to Resolve Audio-Only Plays During MP4 Videos on a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-concealing-windows-11s-bar/"><u>Mastering the Art of Concealing Windows 11'S Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/next-level-windows-paving-the-ai-way-forward/"><u>Next-Level Windows: Paving the AI Way Forward</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-repairing-renderer-failures-in-overwatch-2/"><u>Preventing and Repairing Renderer Failures in Overwatch 2</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-read-only-accessibility-on-windows-11-drives/"><u>Remedying Read-Only Accessibility on Windows 11 Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-old-user-credentials-error-in-windows-1011/"><u>Tackling Old User Credentials Error in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-easy-ms-work-installation/"><u>Unlocking Windows 11: Easy MS Work Installation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-avi-editor-for-windows-8-advanced-video-editing-features/"><u>Updated 2024 Approved Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features</u></a></li>
+</ul></div>
+

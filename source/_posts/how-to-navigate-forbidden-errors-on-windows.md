@@ -1,7 +1,7 @@
 ---
 title: How to Navigate Forbidden Errors on Windows
-date: 2024-12-05T06:26:10.686Z
-updated: 2024-12-07T07:42:03.104Z
+date: 2024-12-06T09:57:22.285Z
+updated: 2024-12-13T08:43:52.891Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does the “You Don’t Have Permission to Access / On This Server” Error Occur?
 
  The major causes of the "you don't have permission to access / on this server" include a server-side issue with the website you are trying to access, interference from the browser's cache and cookies, a website not being accessible in your geographical location, an interference from your ISP or merely using a proxy server on your Windows device.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  Once you're confident there is no server-side issue, apply the appropriate fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Next, Apply Preliminary Checks
 
  First, apply the following preliminary checks before attempting any of the fixes below:
@@ -54,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
  If the above preliminary checks do not help, proceed to the main fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix Browser-Specific Issues
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Faithie/Depositphotos
 
@@ -80,21 +80,17 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Did you recently change your browser settings and then encounter the error? If so, you should revert the changes. To do this, you should reset your browser. A browser reset restores all customizations and changes to the default.
 
  Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix Network Related Issues
 
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Disable or Enable Your VPN
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 Proceed to the next step if either of these changes does not help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
@@ -112,11 +112,11 @@ Proceed to the next step if either of these changes does not help.
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
- Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
 ## Ensure the Firewall Isn't Causing the Problem
 
@@ -141,20 +141,19 @@ Proceed to the next step if either of these changes does not help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-tech-skills-learn-how-to-record-your-mac-display-for-2024/"><u>[New] Essential Tech Skills Learn How to Record Your Mac Display for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-set-the-atmosphere-musical-statuses/"><u>[Updated] In 2024, Set the Atmosphere Musical Statuses</u></a></li>
-<li><a href="https://win11.techidaily.com/dimming-windows-11-brightness-simple-fixes-unveiled/"><u>Dimming Windows 11 Brightness - Simple Fixes Unveiled!</u></a></li>
-<li><a href="https://win11.techidaily.com/enhanced-efficiency-with-6-top-computer-utilization-apps/"><u>Enhanced Efficiency with 6 Top Computer Utilization Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-uses-for-vcplusplus-redistribution/"><u>Essential Uses for VC++ Redistribution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-phantom-v-fold-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Phantom V Fold Phones with/without a PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-a2pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi A2+with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-13-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 13 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-yet-misguided-move-how-southwest-airlines-new-idea-baffled-and-frustrated-customers-zdnet-insight/"><u>Innovative Yet Misguided Move? How Southwest Airlines' New Idea Baffled and Frustrated Customers | ZDNet Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/nocturnal-artistry-utilizing-dark-themes-in-paint/"><u>Nocturnal Artistry: Utilizing Dark Themes in Paint</u></a></li>
-<li><a href="https://win11.techidaily.com/straightforward-approach-set-up-outlook-preview-on-winos/"><u>Straightforward Approach: Set Up Outlook Preview on WinOS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210224933-9780857909817-the-diary-of-archie-the-alpaca/"><u>The Diary of Archie the Alpaca | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-smart-8-hd-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Smart 8 HD</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-11-home-features/"><u>Understanding Windows 11 Home Features</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-steams-frozen-files-windows-fix-guide/"><u>Unlocking Steam's Frozen Files: Windows Fix Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[New] 2024 Approved Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pro-level-hp-notebook-screen-recording-techniques-uncovered-for-2024/"><u>[New] Pro-Level HP Notebook Screen Recording Techniques Uncovered for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-silent-input-transcription-services/"><u>[New] Ultimate Silent Input Transcription Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716062743130-new-vrecorder-how-to-download-and-install-for-2024/"><u>[New] VRecorder How to Download and Install for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-iphone-7-screen-a-step-by-step-guide/"><u>[Updated] Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728501352844-windows-1011/"><u>如何在Windows 10和11上使用数据恢复软件修复故障</u></a></li>
+<li><a href="https://win11.techidaily.com/defeating-error-barrier-installing-oculus-on-ws11/"><u>Defeating Error Barrier: Installing Oculus on WS11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-speed-using-windows-powertoys/"><u>Enhance Speed: Using Windows PowerToys</u></a></li>
+<li><a href="https://media-tips.techidaily.com/netflix-vs-competitors-hulu-disneyplus-and-others-a-comprehensive-showdown/"><u>Netflix Vs. Competitors: Hulu, Disney+ & Others – A Comprehensive Showdown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/robovac-revolutionized-cleaning-with-roborock-s8-pro-in-depth-analysis-and-review-gizmopulse/"><u>RoboVac Revolutionized Cleaning with Roborock S8 Pro: In-Depth Analysis & Review | GizmoPulse</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-access-to-windows-disk-management-in-win-1011/"><u>Simplified Access to Windows Disk Management in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-reinstating-automatic-voice-for-textual-narration-on-windows-word/"><u>Tips & Tricks: Reinstating Automatic Voice for Textual Narration on Windows' Word</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-audio-feedback-on-computer-mswin/"><u>Troubleshooting Missing Audio Feedback on Computer, MSWin</u></a></li>
+<li><a href="https://win11.techidaily.com/wake-up-5-solutions-to-power-down-issues/"><u>Wake Up: 5 Solutions to Power Down Issues</u></a></li>
 </ul></div>
 

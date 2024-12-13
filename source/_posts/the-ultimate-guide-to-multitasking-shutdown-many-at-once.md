@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Multitasking: Shutdown Many at Once"
-date: 2024-12-01T17:34:52.584Z
-updated: 2024-12-06T17:16:17.924Z
+date: 2024-12-06T05:32:34.828Z
+updated: 2024-12-13T11:45:40.840Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Taskbar
 
  The Windows taskbar displays all your active and pinned programs. This means you can easily close your active apps by scrolling to the relevant taskbar icon and clicking the “close” button.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 ![Closing multiple windows on the taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/closing-multiple-windows-on-the-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Resource Monitor
@@ -65,17 +69,9 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 2. Check the boxes of all the apps you want to re-open.
 3. Right-click on one of the results and select **Resume Process**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Command Prompt can help you troubleshoot PC issues, configure some system settings, and run your Windows apps.
 
@@ -88,11 +84,19 @@ thumbnail: https://thmb.techidaily.com/2921f580a005bca983d6da9a3afb73cd46b329730
 
 ![Opening the Command Prompt using the Start menu search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-command-prompt-using-the-start-menu-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let’s say you want to close multiple File Explorer windows simultaneously. To do that, type the following command in the Command Prompt and press **Enter**:
 
 taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
@@ -135,13 +139,13 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Close All Windows Tool
 
@@ -158,10 +162,6 @@ taskkill /f /im paintdotnet.exe /T > nul
  You can customize the Close All Windows tool by clicking the **View** tab and ticking the relevant boxes. And if the tool seems a bit too complicated to use, then you can navigate to the **Help** tab to get some assistance.
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
@@ -184,19 +184,14 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-boost-views-with-your-own-youtube-thumbnail-design/"><u>[New] 2024 Approved Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-fresh-perspectives-on-digital-health-promotion/"><u>[New] In 2024, Fresh Perspectives on Digital Health Promotion</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>[New] In 2024, Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-become-a-broadcast-pro-screen-sharing-101-for-facebookers/"><u>[Updated] 2024 Approved Become a Broadcast Pro Screen Sharing 101 for Facebookers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-10-top-value-hd-cameras-for-extreme-sports/"><u>2024 Approved 10 Top Value HD Cameras for Extreme Sports</u></a></li>
-<li><a href="https://win11.techidaily.com/curating-a-list-of-top-windows-11-sketch-apps/"><u>Curating a List of Top Windows 11 Sketch Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/dispel-windows-handbrake-barriers-instantly/"><u>Dispel Windows' HandBrake Barriers Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-windows-11-6-changes-that-could-revolutionize-the-taskbar/"><u>Innovating Windows 11: 6 Changes that Could Revolutionize the Taskbar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smoother-playthrough-of-overwatch-after-critical-driver-update/"><u>Smoother Playthrough of Overwatch After Critical Driver Update</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-slowness-issues-with-windows-monitor-app/"><u>Solving Slowness Issues with Windows Monitor App</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-solving-interrupt-at-breakpoint-in-debugging/"><u>Understanding and Solving 'Interrupt at Breakpoint' In Debugging</u></a></li>
-<li><a href="https://win11.techidaily.com/work-smart-not-harder-top-time-management-windows-apps/"><u>Work Smart, Not Harder: Top Time Management Windows Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-comprehensive-guide-to-zoom-screen-casts-for-2024/"><u>[New] The Comprehensive Guide to Zoom Screen Casts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[Updated] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-restoring-windows-11-media-software/"><u>Essential Tips for Restoring Windows 11 Media Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/explore-the-hidden-depths-of-canvas-photo-editor/"><u>Explore the Hidden Depths of Canva's Photo Editor</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-social-giant-reaching-its-limits/"><u>Is the Social Giant Reaching Its Limits?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-gratuit-tool-voor-conversie-caf-naar-aiff-expertise-van-movavi-vergelijken/"><u>Online Gratuit Tool Voor Conversie CAF Naar AIFF - Expertise Van Movavi Vergelijken</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-desktop-effective-steps-for-restoring-missing-windows-in-11/"><u>Revitalize Your Desktop: Effective Steps for Restoring Missing Windows in 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-task-manager-refreshes-on-windows-11/"><u>Speeding Up Task Manager Refreshes on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winx-chroma-challenge-overcoming-blacked-out-displays/"><u>WinX Chroma Challenge: Overcoming Blacked-Out Displays</u></a></li>
 </ul></div>
 

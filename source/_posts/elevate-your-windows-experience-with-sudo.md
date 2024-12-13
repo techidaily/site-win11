@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Windows Experience with Sudo
-date: 2024-12-01T22:56:10.001Z
-updated: 2024-12-06T17:48:05.103Z
+date: 2024-12-06T05:09:41.524Z
+updated: 2024-12-12T16:45:41.308Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Windows Versions Can Run the sudo Command?
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -78,7 +74,11 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
@@ -102,27 +102,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos-for-2024/"><u>[New] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-elements-to-construct-a-magnetic-vlog-storyline-for-2024/"><u>[Updated] Elements to Construct a Magnetic Vlog Storyline for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-seamless-facial-smoothing-motion-blur-techniques-in-picsart/"><u>[Updated] In 2024, Seamless Facial Smoothing Motion Blur Techniques in Picsart</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[Updated] The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-desktop-computers-for-2024/"><u>Best Desktop Computers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bridging-the-gap-a-tutorial-for-executing-android-programs-in-a-windows-10-environment/"><u>Bridging the Gap: A Tutorial for Executing Android Programs in a Windows 10 Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-w1111-interfaces-with-psoft-tools/"><u>Enriching W11/11 Interfaces with PSoft Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issues-winerror-x80072f17-remedy/"><u>Fixing Microsoft Store Issues: WinError X80072F17 Remedy</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-and-repair-speech-recognition-in-ms-word/"><u>How to Reset and Repair Speech Recognition in MS Word</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-tips-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-battle-of-the-editors-final-cut-pro-vs-lumafusion-features-pricing-and-more/"><u>New In 2024, Battle of the Editors Final Cut Pro vs LumaFusion - Features, Pricing, and More</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-non-responder-service-error-on-windows/"><u>Remedying the Non-Responder Service Error on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-high-dpi-screen-issues-in-windows-os/"><u>Resolving High DPI Screen Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/staying-cool-under-pressure-solutions-for-gamers-overheating-woes/"><u>Staying Cool Under Pressure: Solutions For Gamers' Overheating Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-hardware-interaction-with-windows-disks/"><u>Streamlining Hardware Interaction with Windows Disks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-windows-images-for-peak-quality/"><u>Tailoring Windows Images for Peak Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-windows-security-errors-managed-by-admins/"><u>Workaround for Windows Security Errors Managed by Admins</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,3 +109,19 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>[Updated] The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deep-dives-closer-scans-and-enhanced-gameplay-on-roblox/"><u>Deep Dives Closer Scans and Enhanced Gameplay on Roblox</u></a></li>
+<li><a href="https://win11.techidaily.com/experts-tips-investigating-and-clearing-window-history/"><u>Expert's Tips: Investigating & Clearing Window History</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/gamers-guide-to-high-quality-in-game-broadcasts/"><u>Gamers' Guide to High-Quality In-Game Broadcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ice-artistry-at-the-2022-winter-games-for-2024/"><u>Ice Artistry at the 2022 Winter Games for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-wins-best-performance-analyzers-of-choice/"><u>Identifying Win's Best Performance Analyzers of Choice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-6-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 6 Pro Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ais-influence-in-crafting-original-works/"><u>Navigating AI's Influence in Crafting Original Works</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstallation-guide-for-windows-feature-absence/"><u>Reinstallation Guide for Windows Feature Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-scrolling-issue-on-synaptics-touchpad-under-windows-ten/"><u>Step-by-Step Guide to Fix Scrolling Issue on Synaptics Touchpad Under Windows # Ten</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-overcoming-unreachable-wi-fi-connection-on-windows-11/"><u>Winfixer: Overcoming Unreachable Wi-Fi Connection on Windows 11</u></a></li>
+</ul></div>
+

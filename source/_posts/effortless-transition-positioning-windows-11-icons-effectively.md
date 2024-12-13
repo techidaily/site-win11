@@ -1,7 +1,7 @@
 ---
 title: "Effortless Transition: Positioning Windows 11 Icons Effectively"
-date: 2024-12-01T23:47:43.045Z
-updated: 2024-12-07T01:34:15.373Z
+date: 2024-12-12T10:03:59.811Z
+updated: 2024-12-12T20:12:43.422Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 ![The Key context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-key-option.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Input **Edge** as the new registry key’s title.
@@ -51,20 +51,29 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 1. Right-click msedge.exe there to select the **Copy as** **path** option shown directly below.  
 ![The Copy as path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/copy-as-path-option.png)
 2. Then return to the Registry Editor, and select the new **command** key you added.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Double-click **(Default)** for the **command** key on the right side of the window.
 4. Press the **Ctrl** \+ **V** hotkey to paste the copied Edge path within the Value data box.  
 ![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-edit-string-window.png)
 5. Click **OK** to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can try out your new Edge context menu shortcut. Right-click the desktop and select **Show more options** to view the classic menu. Then select **Edge** there to open that browser.
 
 ![A Microsoft Edge context menu shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/edge-context-menu-shortcut.png)
 
- If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you prefer, you can bring up the classic context menu in Windows 11 with a handy keyboard shortcut. Press the **Shift + F10** hotkey to open the menu instead. Then select your software shortcuts from there.
 
 ## How to Add Your Own Shortcuts to the Windows 11 Context Menu
 
@@ -91,14 +100,15 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 2. Next, select **Desktop Context Menu** on the **Target Context Menu** drop-down menu for the shortcut.  
 ![The Target Context Menu drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/target-context-menu-drop-down-menu.jpg)
 3. Click the **Show at bottom of the menu** radio button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press the **Save changes** button.
 5. Select the checkbox for the program shortcut in the Easy Context Menu window.
 6. Click the **Apply Changes** button on the Easy Context Menu window.  
 ![The Apply Changes button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/apply-changes-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ve added a new program shortcut to the classic context menu in Windows 11\. Bring up the classic context menu by right-clicking anywhere on the desktop and selecting **Show more options**. Then select the new software shortcut, which will be somewhere near the bottom of the classic menu.
 
@@ -106,42 +116,13 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 
 ![The ContextMenu Cleaner window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/contextmenu-cleaner-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There’s also much more you can add to the desktop’s right-click menu with Easy Context Menu than software shortcuts. Easy Context Menu includes many other checkboxes for adding various tools and turn-off options to the right-click menu. Select some of the checkboxes for system tools and turn-off options, and click **Apply Changes** to add handy shortcuts for accessing utilities and shutting down Windows to the context menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Most Out of Windows 11’s Context Menu
 
  Now you can add program shortcuts to the context menu instead of flooding your desktop wallpaper or taskbar with them. That’s a great alternative place to add shortcuts because they don’t clutter your desktop. Keep your Windows 11 desktop clean and tidy by adding more shortcuts to the context menu instead.
 
  Nevertheless, you can still add program shortcuts to the desktop context menu in Windows 11 by editing the registry. By doing so, you can replace desktop shortcut icons with context menu ones.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-facebook-live-sharing-your-desktop-display-for-2024/"><u>[New] Mastering Facebook Live Sharing Your Desktop Display for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-front-runners-in-4k-gaming-graphics/"><u>[Updated] Front-Runners in 4K Gaming Graphics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-screen-recorders-for-pc-mac-top-10-list/"><u>[Updated] In 2024, Best Screen Recorders for PC, Mac - Top 10 List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mc-homestead-plans-the-top-6/"><u>2024 Approved MC Homestead Plans The Top 6</u></a></li>
-<li><a href="https://blog-min.techidaily.com/downsize-video-sizes-by-90-keep-quality-intact-expert-tips-and-tricks/"><u>Downsize Video Sizes by 90%, Keep Quality Intact - Expert Tips and Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-ultimate-selection-of-smartwatches-for-2-groovy-2024/"><u>Exploring the Ultimate Selection of Smartwatches for 2 Groovy 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-solutions-for-stubborn-windows-application-errors/"><u>Immediate Solutions for Stubborn Windows Application Errors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-social-medias-shadowy-side-spotting-fake-likes-for-2024/"><u>Navigating Social Media's Shadowy Side Spotting Fake Likes for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-challenges-successfully-starting-razer-synapse-after-glitches/"><u>Overcoming Challenges: Successfully Starting Razer Synapse After Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-sign-in-snag-onedrive-0x8004dec5-fix-guide-for-windows/"><u>Overcoming the Sign-In Snag: ONEDRIVE 0X8004DEC5 Fix Guide for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-disabled-timed-lock-screen-delay/"><u>Remedy for Disabled Timed Lock Screen Delay</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-rectifying-something-went-wrong-in-outlook/"><u>Step-by-Step: Rectifying 'Something Went Wrong' In Outlook</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-free-top-mpeg-video-splitter-programs/"><u>The Best of Free Top MPEG Video Splitter Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/timeliness-triumphant-fixing-chromes-time-on-windows/"><u>Timeliness Triumphant: Fixing Chrome's Time on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-failed-package-registrations-in-windows-os/"><u>Troubleshooting Failed Package Registrations in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-list-of-video-cutting-apps-on-windows-11/"><u>Ultimate List of Video Cutting Apps on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-store-troubleshooting-tips-for-error-x800704cf/"><u>Windows Store Troubleshooting Tips for Error X800704CF</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-youtubers-playbook-achieving-content-stardom/"><u>[Updated] 2024 Approved The YouTuber's Playbook Achieving Content Stardom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-free-photo-footage-via-essential-4-youtube-picks-for-2024/"><u>[Updated] Gain Free Photo Footage via Essential 4 YouTube Picks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-picture-perfection-top-10-screens/"><u>[Updated] Pinnacle of Picture Perfection Top 10 Screens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-strategic-blending-elevating-video-sequence-harmony-for-2024/"><u>[Updated] Strategic Blending Elevating Video Sequence Harmony for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-windows-terminal-and-powershell-key-contrasts-explored/"><u>Comparing Windows Terminal and PowerShell: Key Contrasts Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-capture-experience-recording-sound-with-snipping-tools-screen-feature-max-156/"><u>Enhance Your Capture Experience: Recording Sound with Snipping Tool's Screen Feature (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/escalate-your-win11-wi-fi-reach-using-these-9-tricks/"><u>Escalate Your Win11 Wi-Fi Reach Using These 9 Tricks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-g42-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia G42 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-motion-an-in-depth-look-at-polarrs-toolset/"><u>In 2024, Mastery in Motion An In-Depth Look at Polarr’s Toolset</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-pip-views-on-chrome-across-devices-for-2024/"><u>Mastering PIP Views on Chrome Across Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-shortcut-expansion-in-modern-windows-operating-systems/"><u>Mastering Shortcut Expansion in Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-wsl-2-enhancing-the-power-of-docker-tools/"><u>Mastery in WSL 2: Enhancing the Power of Docker Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/narrowing-the-net-speed-divide-between-windows-and-android/"><u>Narrowing the Net Speed Divide Between Windows & Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-subtitle-edit-alternatives-for-mac-users-for-2024/"><u>New The Ultimate List of Subtitle Edit Alternatives for Mac Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-activities-from-run-commands/"><u>Restoring Lost Activities From Run Commands</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-creating-a-safelist-in-gmail/"><u>Step-by-Step Instructions for Creating a Safelist in Gmail</u></a></li>
+<li><a href="https://win11.techidaily.com/top-picks-and-detailed-examination-of-microsoft-surface-keyboards-the-epitome-of-quality/"><u>Top Picks & Detailed Examination of Microsoft Surface Keyboards – The Epitome of Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-voice-call-problems-in-apex-legends/"><u>Troubleshooting and Repairing Voice Call Problems in Apex Legends</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-onedrive-server-problems/"><u>Unraveling the Mystery of OneDrive Server Problems</u></a></li>
+</ul></div>
+

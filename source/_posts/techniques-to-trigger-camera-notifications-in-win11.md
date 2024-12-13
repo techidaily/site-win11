@@ -1,7 +1,7 @@
 ---
 title: Techniques to Trigger Camera Notifications in Win11
-date: 2024-12-02T07:08:58.416Z
-updated: 2024-12-07T08:32:25.841Z
+date: 2024-12-06T01:04:24.698Z
+updated: 2024-12-12T23:09:28.665Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On Camera On and Off Notifications
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 ![Enable camera notifications in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/notify-camera-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NoPhysicalCameraLED** value is missing, you can create it. Right-click on the empty space in the right pane, and click**New > Dword(32-bit) value** . Set its name and**Value data** to**1** . Then, save the new changes and restart your computer for the changes to take place.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check Camera History
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
@@ -87,17 +87,16 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] 2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/omprehensive-guide-to-downloading-standardized-youtube-images/"><u>[New] Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-basic-to-exceptional-gopro-filming-techniques/"><u>[New] From Basic to Exceptional Gopro Filming Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-top-ios-psp-games-and-emulators-revealed/"><u>2024 Approved Top iOS PSP Games & Emulators Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-tips-for-resetting-your-ipod-device-solutions-included/"><u>Comprehensive Troubleshooting Tips for Resetting Your iPod Device - Solutions Included</u></a></li>
-<li><a href="https://win11.techidaily.com/flat-faces-for-windows-cutting-corners-off/"><u>Flat Faces for Windows: Cutting Corners Off</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-rufus-for-bypassing-tpmsecure-boot-in-windows-11/"><u>Navigating Rufus for Bypassing TPM/Secure Boot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-os-limits-with-win11-upgrade-guide/"><u>Overcoming OS Limits with Win11 Upgrade Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/teamwork-enhanced-agile-communication-tech/"><u>Teamwork Enhanced: Agile Communication Tech</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unveiling-solutions-fixes-for-a-hidden-steam-vr-headset-in-6-easy-steps/"><u>Unveiling Solutions: Fixes for a Hidden Steam VR Headset in 6 Easy Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-windows-audio-device-graph-isolation-and-is-it-a-problem/"><u>What Is Windows Audio Device Graph Isolation and Is It a Problem?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-optimize-your-films-a-mac-approach-to-instagram-shortening/"><u>[Updated] 2024 Approved Optimize Your Films A Mac Approach to Instagram Shortening</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android-for-2024/"><u>[Updated] Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>2024 Approved Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-uninitialized-messages-on-windows-disks/"><u>Decoding 'Uninitialized' Messages on Windows Disks</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-online-and-offline-file-transfer-google-and-windows-compared/"><u>Evaluating Online and Offline File Transfer: Google & Windows Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-and-open-an-inactive-nvidia-cp-on-w11/"><u>How to Unlock and Open an Inactive Nvidia CP on W11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-foremost-directors-of-cinematic-harmony/"><u>In 2024, Foremost Directors of Cinematic Harmony</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-lenovo-bluetooth-glitches-on-windows-10/"><u>Overcoming Lenovo Bluetooth Glitches on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-missing-wi-fi-a-fix-guide-for-windows-11-users/"><u>Remedying Missing Wi-Fi: A Fix Guide for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-recommended-iphones-email-applications/"><u>Top Recommended iPhones Email Applications</u></a></li>
 </ul></div>
 

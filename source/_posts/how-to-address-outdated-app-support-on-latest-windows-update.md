@@ -1,7 +1,7 @@
 ---
 title: How To Address Outdated App Support on Latest Windows Update
-date: 2024-11-30T07:29:49.288Z
-updated: 2024-12-06T20:59:52.738Z
+date: 2024-12-09T11:22:32.119Z
+updated: 2024-12-13T06:56:22.747Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes the "App Package Is Not Support for Installation by Installer" Error?
 
  The error often occurs if the Msixbundle installer is not Microsoft Store signed. In such a case, you may not be able to use the built-in app installer to sideload the app and end up with an error. Other times, the error may occur even with Store signed mxis installers with restrictive capabilities.
@@ -38,7 +42,7 @@ To enable Developer Mode on Windows 11:
 ![enable developer mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-developer-mode-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
@@ -49,12 +53,16 @@ To enable Developer Mode on Windows 11:
  Once the developer is enabled, you can use PowerShell to sideload a Msixbundle or AppxPackage on your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Msixbundle App Files Using PowerShell
 
 ![install msixbundle sideload powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-msixbundle-sideload-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) to sideload and install msix files on your Windows computer. This should also work if you are trying to sideload an app that is not Store signed.
 
@@ -72,17 +80,9 @@ Follow these steps to sideload msix files using PowerShell.
 6. Next, press**Enter** and wait as PowerShell installs the app.
 7. Once installed, type exit and press Enter to close Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Install Msixbundle Apps Using the App Installer
 
 ![install files app msixbundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-files-app-msixbundle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  App Installer is an official app package installer for Windows 10\. It lets you install msixbundle and appxpackage with a double click. Useful if you don't want to deal with Windows PowerShell and associated commands.
 
@@ -97,7 +97,7 @@ Follow these steps to sideload msix files using PowerShell.
 5. Once done, your newly installed app will auto-launch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Msixbundle, Appx, and AppxPackage on Windows 10 and 11
@@ -119,24 +119,17 @@ Follow these steps to sideload msix files using PowerShell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-create-an-individualistic-meme-masterpiece/"><u>[New] In 2024, Create an Individualistic Meme Masterpiece</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-embrace-authenticity-your-style-journey-begins-here/"><u>[New] In 2024, Embrace Authenticity Your Style Journey Begins Here</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-essential-android-photography-tools/"><u>[New] In 2024, Essential Android Photography Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-key-sites-for-enhancing-youtube-video-popularity/"><u>[New] Key Sites for Enhancing YouTube Video Popularity</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-fisheye-photography-for-full-spheres/"><u>[Updated] 2024 Approved Mastering Fisheye Photography for Full Spheres</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-a-closer-look-at-youtubes-payment-system-and-its-potential-for-2024/"><u>[Updated] A Closer Look at YouTube's Payment System and Its Potential for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-capturing-tiktok-videos-saving-on-modern-smartphones/"><u>2024 Approved Capturing TikTok Videos Saving on Modern Smartphones</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-installation-of-legacy-software-on-modern-windows/"><u>Enabling Installation of Legacy Software on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-override-windows-automatic-regional-adjustment/"><u>How to Override Windows' Automatic Regional Adjustment</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-sidestep-windows-11s-default-usb-suspend/"><u>How to Sidestep Windows 11'S Default USB Suspend</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-huawei-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Huawei Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keeping-your-logitech-m510-on-track-with-the-latest-software-updates/"><u>Keeping Your Logitech M510 on Track with the Latest Software Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-wins-alerts-in-windows-11/"><u>Mastering Wins Alerts in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/peak-your-gpus-performance-the-leading-stress-test-software-ranked/"><u>Peak Your GPU's Performance: The Leading Stress Test Software Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-unspecified-obs-studio-error-on-new-windows/"><u>Solving Unspecified OBS Studio Error on New Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/systematic-approach-to-heic-to-jpeg-image-change-in-w11/"><u>Systematic Approach to Heic to JPEG Image Change in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/three-techniques-for-removing-microsoft-from-win11/"><u>Three Techniques for Removing Microsoft From Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-error-quick-fix-for-0x80072af9/"><u>Unlocking Windows Error: Quick Fix for 0X80072AF9</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95608385-9781449450144-you-are-irreplaceable/"><u>You Are Irreplaceable | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mend-facebook-story-playback-pauses/"><u>[New] Mend Facebook Story Playback Pauses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>[Updated] In 2024, Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-text-generator-for-videos/"><u>2024 Approved Digital Text Generator for Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-a59-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo A59 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-edge-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Edge 2023 FRP Bypass</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-video-anonymization-strategies/"><u>In 2024, Video Anonymization Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-old-windows-laptop-or-desktop-years/"><u>Pinpointing Old Windows Laptop or Desktop Years</u></a></li>
+<li><a href="https://win11.techidaily.com/the-modernized-microsoft-app-you-cant-ignore-here-are-9-reasons/"><u>The Modernized Microsoft App You Can’t Ignore - Here Are 9 Reasons</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ultimate-iphone-backup-strategy-secure-your-data-on-devices-from-iphone-x-to-iphone-6/"><u>Ultimate iPhone Backup Strategy: Secure Your Data on Devices From iPhone X to iPhone 6!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-system-recovery-options-with-windows-11s-restore-command/"><u>Unlocking System Recovery Options with Windows 11'S Restore Command</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-optimizing-valorant-downloads/"><u>Winning Strategies for Optimizing Valorant Downloads</u></a></li>
 </ul></div>
 

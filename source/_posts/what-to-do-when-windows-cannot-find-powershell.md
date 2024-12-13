@@ -1,7 +1,7 @@
 ---
 title: What to Do When Windows Cannot Find PowerShell
-date: 2024-11-30T09:14:42.744Z
-updated: 2024-12-07T03:30:47.286Z
+date: 2024-12-09T02:46:15.865Z
+updated: 2024-12-13T07:30:26.824Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure Windows PowerShell Is Enabled
 
  On Windows, you can enable or disable optional features and programs from the Control Panel. To start, you need to ensure that PowerShell isn’t disabled on your computer. Here’s how to check.
@@ -39,15 +43,7 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 8. Click**OK** to save the changes.  
 ![Enable PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-PowerShell-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
@@ -55,11 +51,11 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
- You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
 
 ## 3\. Create a Desktop Shortcut for PowerShell
 
@@ -95,10 +91,6 @@ To run the SFC scan on Windows:
 
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 ## 5\. Update Windows PowerShell
@@ -114,12 +106,16 @@ To update PowerShell on Windows:
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
  Using Command Prompt isn't the only way to update PowerShell on Windows. If you want to learn other methods, check our guide on[how to install or update PowerShell on Windows](https://www.makeuseof.com/windows-11-powershell-install-update/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
@@ -134,6 +130,10 @@ To create a new user account on Windows, use these steps.
 4. Click the**Add account** button.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
@@ -158,14 +158,21 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-indoor-games-galore-top-9-screen-less-titles-for-android-gamers/"><u>[New] 2024 Approved Indoor Games Galore Top 9 Screen-Less Titles for Android Gamers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-essential-date-counting-tools-for-android-and-ios-users-for-2024/"><u>[New] Essential Date-Counting Tools for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-live-stream-perfection-an-experts-take-on-webcams/"><u>[New] In 2024, Live Stream Perfection An Expert's Take on WebCams</u></a></li>
-<li><a href="https://win11.techidaily.com/dynamic-workspace-transformation-go-fancywm/"><u>Dynamic Workspace Transformation: Go FancyWM</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-hyper-v-for-flawless-linux-vm-development-on-windows/"><u>Harnessing Hyper-V for Flawless Linux VM Development on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-screen-flashing-on-windows-11-pcs/"><u>How to Stop Screen Flashing on Windows 11 PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-encompassing-insight-a-look-inside-the-google-podcasts-app/"><u>In 2024, Encompassing Insight A Look Inside the Google Podcasts App</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>In 2024, Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/revealing-hidden-windows-startup-details/"><u>Revealing Hidden Windows Startup Details</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-broadcasting-duels-is-wirecast-superior-to-obs-in-2024/"><u>[New] Broadcasting Duels Is Wirecast Superior to OBS, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>[Updated] Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-cpu-excess-strategies-to-tame-vanguards-sleep-mode-consumption/"><u>Controlling CPU Excess: Strategies to Tame Vanguard's Sleep Mode Consumption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-gaming-strategies-leveraging-chatgpt-for-unforgettable-dandd-campaigns/"><u>Creative Gaming Strategies: Leveraging ChatGPT for Unforgettable D&D Campaigns</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiency-tips-starting-windows-and-immediately-unlocking-notebooks/"><u>Efficiency Tips: Starting Windows and Immediately Unlocking Notebooks</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-home-interface-in-windows-11/"><u>Enable Home Interface in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/frameinspector-appraisal-suite-for-2024/"><u>FrameInspector Appraisal Suite for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-irq-settings-for-pure-audio/"><u>Harmonizing IRQ Settings for Pure Audio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-premium-iphone-data-restore-tool-purchase-today/"><u>Immediate Access: Premium iPhone Data Restore Tool – Purchase Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-video-restoration-with-these-leading-repair-applications-on-windows-and-mac-systems/"><u>Master Video Restoration with These Leading Repair Applications on Windows and Mac Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-the-denied-login-error-top-8-fixes-for-windows/"><u>Sidestep The Denied Login Error: Top 8 Fixes for Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-financial-breakdown-of-youtube-shorts-royalties-for-2024/"><u>The Financial Breakdown of YouTube Shorts Royalties for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-steps-to-tackle-windows-xp-program-problems/"><u>Uncomplicated Steps to Tackle Windows XP Program Problems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262406386-wds-ultrastar-transporter-a-game-changer-in-data-mobility-with-368tb-nvme-storage-capacity-and-high-end-specs/"><u>WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-leap-forward-navigating-an-ai-driven-world/"><u>Windows 11'S Leap Forward: Navigating an AI-Driven World</u></a></li>
 </ul></div>
 

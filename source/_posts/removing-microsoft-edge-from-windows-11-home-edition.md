@@ -1,7 +1,7 @@
 ---
 title: Removing Microsoft Edge From Windows 11 Home Edition
-date: 2024-12-06T05:42:57.787Z
-updated: 2024-12-07T03:51:18.727Z
+date: 2024-12-10T20:01:40.468Z
+updated: 2024-12-12T19:56:55.445Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Uninstall Microsoft Edge Using the Command Prompt
@@ -53,10 +53,6 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
  If you'd like to get more out of this tool, be sure to check out[the Windows Command Prompt commands you must know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Uninstall Microsoft Edge Using Windows PowerShell
 
  Like Command Prompt, you can also use Windows PowerShell to uninstall Microsoft Edge from your Windows 11 PC. Unlike the previous method, this one does not require you to know Microsoft Edge's version number. Here's how it works.
@@ -69,7 +65,7 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the following command to uninstall Microsoft Edge.  
@@ -90,7 +86,7 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
@@ -108,10 +104,14 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 7. Double-click on the newly created DWORD and change its value data to**1** . Then, hit**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-in-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you complete the above steps, Windows will not reinstall Microsoft Edge with future updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Microsoft Edge
@@ -135,20 +135,24 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-boosting-user-interaction-mastering-hashtag-use-on-instagram/"><u>[New] Boosting User Interaction Mastering Hashtag Use on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-lore-of-roguelites-amidst-classic-rpgs/"><u>[New] In 2024, The Lore of Roguelites Amidst Classic RPGs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-direct-route-uploading-from-youtube-to-dailymotion/"><u>[Updated] In 2024, Direct Route Uploading From YouTube to Dailymotion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unboxing-the-market-strategic-essentials-for-2024/"><u>[Updated] Unboxing the Market Strategic Essentials for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bypass-spotifys-predicted-podcast-selections/"><u>Bypass Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-win11-launch-speed-with-these-simple-tweaks/"><u>Enhance Win11 Launch Speed with These Simple Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-hyber-v-with-win11-tools/"><u>How to Stop Hyber-V with Win11 Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/nostalgic-keys-to-contemporary-computing-windows-7-and-11/"><u>Nostalgic Keys to Contemporary Computing: Windows 7 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-update-failure-x80246007-issue-solution/"><u>Overcoming Windows Update Failure: X80246007 Issue Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-win10-bsod-troubleshooting/"><u>Quick-Fix Guide to Win10 BSOD Troubleshooting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-getting-your-airplay-back-in-action-after-malfunctions/"><u>Step-by-Step Guide: Getting Your AirPlay Back in Action After Malfunctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-fix-an-expanded-pagefilesys-file-size-problem/"><u>Strategies to Fix an Expanded Pagefile.sys File Size Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-tasks-experience-microsofts-ai-copilot-on-the-windows-11-taskbar/"><u>Streamline Your Tasks: Experience Microsoft's AI Copilot on the Windows 11 Taskbar</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-server-upgrade-successfully-transitioning-from-2012-r2-to-2016-without-issues/"><u>Windows Server Upgrade: Successfully Transitioning From 2012 R2 to 2016 without Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-uncomplicated-techniques-for-adding-igtv-to-your-story-for-2024/"><u>[New] Uncomplicated Techniques for Adding IGTV to Your Story for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] In 2024, Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-art-of-live-recording-sporting-events-on-screen/"><u>2024 Approved The Art of Live Recording Sporting Events on Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/creating-captivating-narratives-for-video-blogs/"><u>Creating Captivating Narratives for Video Blogs</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-integration-websites-as-windows-friendly-software/"><u>Digital Integration: Websites as Windows-Friendly Software</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-audio-dimension-with-windows-11-configurations/"><u>Enriching Audio Dimension with Windows 11 Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-win-pcs-discord-errors/"><u>Essential Tips to Overcome Win PC's Discord Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-resolving-blocked-program-notice-on-pc/"><u>Guide: Resolving Blocked Program Notice on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/handling-page-not-found-error-404-messages-on-your-website-effectively/"><u>Handling Page Not Found (Error 404) Messages on Your Website Effectively</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a14-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A14 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-ms-store-hiccups-overcoming-error-0x80072f17/"><u>Mending MS Store Hiccups: Overcoming Error 0X80072f17</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222831514-movavi-gif-mp4/"><u>Movavi의 무료 가이드: 인터넷 상호 작용을 통한 GIF에서 MP4로의 강력한 영상 변환</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-steam-glitches-in-your-gaming-environment-win-11-style/"><u>Navigate Through Steam Glitches in Your Gaming Environment, Win 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-cannot-determine-value-issue-on-windows-systems/"><u>Overcoming 'Cannot Determine' Value Issue on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-discord-errors-during-windows-11-installation-process/"><u>Solving Discord Errors During Windows 11 Installation Process</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11-updates-eliminate-error-0x800f0922/"><u>Tackling Windows 11 Updates: Eliminate Error 0X800f0922</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y200e-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y200e 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ipad-productivity-apps-streamline-your-tasks-and-enhance-efficiency-insights-from-zdnet/"><u>Top iPad Productivity Apps: Streamline Your Tasks & Enhance Efficiency - Insights From ZDNet</u></a></li>
 </ul></div>
 

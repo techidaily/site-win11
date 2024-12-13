@@ -1,7 +1,7 @@
 ---
 title: "Sniping in Windows 10: PrtSc Vs. Snip & Sketch Showdown"
-date: 2024-11-30T17:33:51.810Z
-updated: 2024-12-06T19:32:23.830Z
+date: 2024-12-07T02:50:37.792Z
+updated: 2024-12-13T13:43:12.773Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does the PrintScreen Key Open the Snipping Tool?
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 ![Snipping tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snipping-tool-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A recent Windows update configures the PrintScreen key to open Snipping Tool’s image capture window. The update introduces a new option in the **Accessibility** section of the Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Snipping Tool vs. Windows PrintScreen: What's the Difference?
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
  Either way, be sure to check out [why you should use the Snipping Tool](https://www.makeuseof.com/use-snipping-tool-windows/) and [how to record your screen with the Snipping Tool](https://www.makeuseof.com/how-to-screen-record-with-windows-11-snipping-tool/) before making a decision.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Stop the PrintScreen Key From Opening the Snipping Tool
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
  If you've decided that the Snipping Tool isn't for you, don't worry. Check out our guide on [how to stop the PrintScreen key from opening the Snipping Tool](https://www.makeuseof.com/print-screen-opens-snipping-tool-windows-11/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restore the PrintScreen Key Functionality
@@ -75,23 +75,6 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
 
  You can just use the PrintScreen key to capture a full-screen window. But if the Snipping Tool pops up by pressing the key, don’t worry. We will discuss the advantages of both and how to disable the Snipping Tool if you don't like it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>[New] In 2024, Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] In 2024, The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>[Updated] 2024 Approved Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discovering-triller-a-platform-beyond-traditional-tiktok/"><u>Discovering Triller A Platform Beyond Traditional TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-paste-and-move-powertoys-explained/"><u>Essential Tips for Paste & Move: PowerToys Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/future-proof-windows-notebooks-the-ultimate-guide-to-2024/"><u>Future-Proof Windows Notebooks: The Ultimate Guide to 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/your-shorts-viewer-friendly-fixing-image-absence-for-2024/"><u>Keep Your Shorts Viewer-Friendly Fixing Image Absence for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-cross-border-mouse-navigation-and-glance-with-powertoys/"><u>Mastering Cross-Border Mouse Navigation & Glance with PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-start-problems-when-playing-csgo-w11/"><u>Navigating Start Problems When Playing CS:GO W11</u></a></li>
-<li><a href="https://win11.techidaily.com/reinventing-screens-post-11-windows-dreamscape/"><u>Reinventing Screens: Post-11 Windows Dreamscape</u></a></li>
-<li><a href="https://fox-place.techidaily.com/trucchi-per-ripristinare-le-unita-dati-su-windows-11-metodi-facili-che-funzionano/"><u>Trucchi per Ripristinare Le Unità Dati Su Windows 11: Metodi Facili Che Funzionano!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -99,3 +82,24 @@ thumbnail: https://thmb.techidaily.com/60a777af346560d9b3330b89f1a2cdfdf0449c805
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-key-applications-for-superior-vtuber-audible-identity/"><u>[New] Key Applications for Superior Vtuber Audible Identity</u></a></li>
+<li><a href="https://common-error.techidaily.com/tech-tips-fixed-kernel32-errors/"><u>[Tech Tips] Fixed Kernel32 Errors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[Updated] 2024 Approved Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>[Updated] 2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-quickfacebookvidextractor-pro/"><u>[Updated] 2024 Approved QuickFacebookVidExtractor Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-power-of-high-quality-gaming-screenshots/"><u>2024 Approved Unveiling the Power of High-Quality Gaming Screenshots</u></a></li>
+<li><a href="https://win11.techidaily.com/edges-hidden-workers-a-tasker-question/"><u>Edge's Hidden Workers: A Tasker Question</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tless-webm-creation-10-best-youtube-video-transformers-for-2024/"><u>Effortless WebM Creation 10 Best YouTube Video Transformers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rebuild-the-icon-cache-in-windows/"><u>How to Rebuild the Icon Cache in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>In 2024, From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-c50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco C50 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-sync-process-in-windows-os/"><u>Mastering the Sync Process in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-efficiency-navigating-windows-files-without-ls-command/"><u>Maximizing Efficiency: Navigating Windows Files without LS Command</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-to-mend-a-stuck-windows-11-search-bar-on-settings-page/"><u>Quick Steps to Mend a Stuck Windows 11 Search Bar on Settings Page</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-entry-to-windows-shared-directories/"><u>Regain Entry to Windows Shared Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/winerror-hackers-the-essential-10-tool-list/"><u>WinError Hackers: The Essential 10-Tool List</u></a></li>
+</ul></div>
+

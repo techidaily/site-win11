@@ -1,7 +1,7 @@
 ---
 title: Correcting Issues with Elevated User Roles and Privileges
-date: 2024-12-06T01:50:02.305Z
-updated: 2024-12-07T03:54:23.553Z
+date: 2024-12-07T08:09:33.677Z
+updated: 2024-12-13T04:11:58.317Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Run as Administrator Not Working?
 
  Before you start fixing things, you must understand what causes this issue. In general, you may experience Run as administrator not working due to the following reasons:
@@ -36,17 +40,21 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check User Account Control Settings
 
@@ -62,15 +70,7 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 ![User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/user-account-control-settings.jpg)
 6. Drag the slider to **Default**, then click **OK**. It will set your UAC to the default level and enable you to run applications with elevated privileges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, close the window and restart your PC. After that, try running the application with the Run as administrator feature and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Group Policy Settings
 
@@ -85,14 +85,19 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 4. In the right pane, you'll see a list of different security options. Scroll to the bottom and double-click on the **User Account Control: Run all administrators in Admin Approval Mode** policy.  
 ![Run all administrators in admin approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-all-administrators-in-admin-approved.jpg)
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clean up the Context Menu
 
@@ -113,10 +118,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Try Some Generic Fixes
 
  Besides the fixes mentioned above, some generic solutions work in any situation. Try these out if you’re still having issues running applications with elevated privileges:
@@ -133,22 +134,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-a-deep-dive-into-previewed-fb-interactions-necessity-or-risk-in-2024/"><u>[New] A Deep Dive Into Previewed FB Interactions Necessity or Risk, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-state-of-the-vr-industry/"><u>[New] State of the VR Industry</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[Updated] A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-pewdiepies-financial-growth-and-revenue/"><u>[Updated] Analyzing PewDiePie’s Financial Growth and Revenue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-23-in-apex-legends-demystified-the-ultimate-fix-guide/"><u>Error Code 23 in Apex Legends Demystified: The Ultimate Fix Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-cone-view-mounts-vr/"><u>In 2024, Perfect Cone View Mounts VR</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-your-glitch-on-the-best-free-online-generators-and-tools/"><u>New 2024 Approved Get Your Glitch On The Best Free Online Generators and Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-wows-catastrophic-breakdown-132/"><u>Overcoming WoW's Catastrophic Breakdown #132</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-device-not-reachable-error-in-windows-steps-and-tips/"><u>Solving Device Not Reachable Error in Windows: Steps & Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-webp-savings-a-step-by-step-chrome-tutorial/"><u>Stop WebP Savings - A Step-by-Step Chrome Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-strategies-for-resolving-windows-defenders-protection-failure/"><u>Top 5 Strategies for Resolving Windows Defender's Protection Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/win-xpvista-control-deletion-prompts-ease/"><u>Win XP/Vista: Control Deletion Prompts Ease</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -156,3 +141,21 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exquisite-home-designs-unlocked-in-blocky-landscapes/"><u>[New] 2024 Approved Exquisite Home Designs Unlocked in Blocky Landscapes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-youtube-video-capture-techniques/"><u>[New] Mastering YouTube Video Capture Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-a-great-educational-video-for-youtube/"><u>[Updated] In 2024, How to Make a Great Educational Video for YouTube?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x8c-feature-analysis/"><u>[Updated] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-writing-across-the-spectrum-8-film-categories-for-2024/"><u>Best Writing Across the Spectrum 8 Film Categories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decrease-resource-strain-managing-heavy-media-use-on-windows-os/"><u>Decrease Resource Strain: Managing Heavy Media Use on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-dims-techniques-for-win11-fixes/"><u>Essential DIMS Techniques for Win11 Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-saving-and-exchanging-nintendo-switch-scenes-online/"><u>Master the Art of Saving and Exchanging Nintendo Switch Scenes Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-v30-lite-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-usb-hibernate-prevention-in-win-11/"><u>Quick Fixes for USB Hibernate Prevention in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tip-bid-farewell-to-ms-edge-in-w11/"><u>Tech Tip: Bid Farewell to MS Edge in W11</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-sun-yat-sens-pivotal-contributions-to-the-founding-of-the-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>Understanding Sun Yat-Sen's Pivotal Contributions to the Founding of the Republic of China - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-two-worlds-adding-gmail-accounts-into-outlook-windows-app/"><u>Uniting Two Worlds: Adding Gmail Accounts Into Outlook Windows App</u></a></li>
+</ul></div>
+

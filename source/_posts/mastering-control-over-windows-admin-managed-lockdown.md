@@ -1,7 +1,7 @@
 ---
 title: Mastering Control Over Windows Admin-Managed Lockdown
-date: 2024-11-30T20:43:21.201Z
-updated: 2024-12-06T21:32:51.730Z
+date: 2024-12-11T16:03:06.143Z
+updated: 2024-12-12T22:27:45.436Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for and Install Available Windows 11 Updates
 
  Although not the most likely potential solution, some users have said installing available Windows 11 updates helped them resolve this error. Patchers for Windows 11 usually address Windows bugs reported by users.
@@ -37,14 +41,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To reset Settings, you must open the Start menu and right-click the app’s shortcut. Select**App settings** to bring up some troubleshooting options for it. Then select the**Reset** troubleshooting option for the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall Third-Party Antivirus Software
@@ -67,16 +67,12 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 ![The HypervisorEnforced registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hypervisor-key.jpg)
 5. Clear the**Data value** box, and then input**0** there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 8. Click**Apply** \>**OK** in the window to set the change.
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall Windows Security
 
  You can’t reinstall Windows Security by uninstalling that app via Settings and downloading it from Microsoft Store. However, you can run a more general PowerShell command that reinstalls all apps pre-installed with Windows 11\. Try reinstalling Windows Security with that command as follows:
@@ -106,14 +106,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 3. Press**Enter** and wait for the command to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your laptop or desktop from the Start menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
@@ -124,6 +120,11 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 3. Click**setup.exe** to open the Windows 11 installer.  
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-setup-window.jpg)
 4. Select**Next** to initiate a system check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
@@ -149,16 +150,24 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows-for-2024/"><u>[New] Harness the Full Potential of Your Videos with Simple Cuts on Windows for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-clear-sight-steady-shot-fighting-the-mist-in-your-footage/"><u>2024 Approved Clear Sight, Steady Shot Fighting the Mist in Your Footage</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/free-and-unlimited-a-complete-guide-to-saving-video-clips-from-yahoo-messenger-chats-effortlessly/"><u>Free & Unlimited: A Complete Guide to Saving Video Clips From Yahoo Messenger Chats Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-and-fix-a-frozen-spotify-on-windows-11/"><u>How to Stop and Fix a Frozen Spotify on Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-ultimate-video-journey-choosing-the-seven-best/"><u>In 2024, The Ultimate Video Journey Choosing the Seven Best</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/losungswege-fur-inakzeptable-festplatten-bei-der-startbereitschaft-von-windows-zu-gelegenheiten/"><u>Lösungswege Für Inakzeptable Festplatten Bei Der Startbereitschaft Von Windows Zu Gelegenheiten</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-black-screens-in-windows-based-gameplay/"><u>Overcoming Black Screens in Windows-Based Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-crash-problems-successful-troubleshooting-steps-for-crusader-kings-3-on-personal-computers/"><u>Overcoming Crash Problems: Successful Troubleshooting Steps for Crusader Kings 3 on Personal Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-win-keybinds-guide-for-enhanced-productivity/"><u>Quick Win Keybinds Guide for Enhanced Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-disabling-fake-security-warnings-from-chrome/"><u>Steps for Disabling Fake Security Warnings From Chrome</u></a></li>
-<li><a href="https://win11.techidaily.com/win-free-up-space-expert-guide-to-erase-temp-files/"><u>Win-Free Up Space: Expert Guide to Erase Temp Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-superior-gopro-film-production-options/"><u>[New] 2024 Approved Superior GoPro Film Production Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-strategies-for-high-def-facebook-video/"><u>[New] 2024 Approved Top Strategies for High-Def Facebook Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bargain-aerial-instruments-top-500-drones-under-price/"><u>[Updated] Bargain Aerial Instruments Top $500 Drones Under Price</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>[Updated] In 2024, Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-which-is-more-fitting-for-you-tiktok-or-youtubes-micro-video-channels-for-2024/"><u>[Updated] Which Is More Fitting for You TikTok or YouTube's Micro-Video Channels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>2024 Approved Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-individual-user-policies-with-group-policy-objects-in-windows-11/"><u>Delving Into Individual User Policies with Group Policy Objects in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/design-your-own-windows-text-conversion-software-whisper-plus-ahk-methods/"><u>Design Your Own Windows Text Conversion Software: Whisper + AHK Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-preserve-your-gameplay-for-future-replays-for-2024/"><u>How to Preserve Your Gameplay for Future Replays for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A34 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ifa-2023-latest-innovations-in-laptops/"><u>IFA 2023: Latest Innovations in Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/integrate-github-desktop-efficiently-in-windows-oses/"><u>Integrate GitHub Desktop Efficiently in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-11-search/"><u>Mastering the Art of Windows 11 Search</u></a></li>
+<li><a href="https://win11.techidaily.com/note-without-writing-best-window-based-digital-notepad-substitutes/"><u>Note Without Writing: Best Window-Based Digital Notepad Substitutes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-unfreeze-and-restore-ctrl-functionality-on-windows-11/"><u>Strategies to Unfreeze and Restore CTRL Functionality on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/stream-with-clarity-ranking-the-best-6-microphones-today/"><u>Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-fixing-0x800713f-in-windows-mail-service/"><u>Techniques for Fixing 0X800713f in Windows Mail Service</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-plus-hyper-v-seamless-linux-virtual-machine-creation/"><u>Windows + Hyper-V = Seamless Linux Virtual Machine Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-mp490/"><u>Windows 11 対応: MP4などを90°折りたたむときにおすすめする最高の手法</u></a></li>
 </ul></div>
 

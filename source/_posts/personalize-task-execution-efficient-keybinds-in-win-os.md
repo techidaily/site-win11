@@ -1,7 +1,7 @@
 ---
 title: "Personalize Task Execution: Efficient Keybinds in WIN OS"
-date: 2024-12-01T10:05:59.905Z
-updated: 2024-12-06T18:18:35.127Z
+date: 2024-12-06T10:25:42.677Z
+updated: 2024-12-13T03:14:03.711Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up NirCmd Command Desktop Shortcuts
 
  You can set up NirCmd command shortcuts by creating Windows desktop shortcuts for them. Then you can assign hotkeys for activating the NirCmd commands to their Windows desktop shortcuts. However, first, you must download and extract the NirCmd command-line utility as follows:
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 2. Then scroll right to the bottom of that page and click the **Download\_NirCmd\_64-bit** link there.  
 ![The Download_NirCmd 64-bit link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-nircmd-link.jpg)
 3. Next, [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and go to the directory where the NirCmd ZIP archive has been downloaded.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Follow the instructions in our [how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the nircmd.zip archive. Extract the NirCmd folder to this user directory path:  
 `C:\Users\nircmd-x64`
@@ -60,10 +60,14 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 ![A NirCmd file path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/path-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve created desktop shortcuts for the commands below, go ahead and try them out. Double-clicking the desktop shortcuts will execute the NirCmd commands they’re based on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up NirCmd Command Keyboard Shortcuts
 
@@ -78,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
 
  If you prefer not to clutter your desktop with shortcuts, you can move them into a subfolder. To do so, right-click the desktop to select **New** \> **Folder** and input a directory title. Drag and drop the shortcuts into the folder on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Examples of Handy Commands You Can Create With NirCmd
 
@@ -94,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
 
@@ -125,10 +129,6 @@ keywords: Win OS Custom Keys,Task Optimization Windows,Efficiency Keybinding,Per
 thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 `nircmd.exe win close class CabinetWClass`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
@@ -148,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 `nircmd.exe win settopmost title "Calculator" 1`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Set the Brightness Level
@@ -157,31 +161,11 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
 
 `nircmd.exe setbrightness 60 3`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create Handy Windows Task Shortcuts With NirCmd
 
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-visual-wonders-the-10-list-of-exceptional-4k-for-macs/"><u>[New] 2024 Approved Visual Wonders The #10 List of Exceptional 4K for Macs</u></a></li>
-<li><a href="https://win-able.techidaily.com/ace-your-audio-file-conversion-expert-strategies-for-turning-mpeg-into-high-quality-aac-on-pcs/"><u>Ace Your Audio File Conversion: Expert Strategies for Turning MPEG Into High-Quality AAC on PCs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/bluetooth-capability-in-yamaha-mcr-b020bl-stereo/"><u>Bluetooth Capability in Yamaha MCR-B020BL Stereo</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-the-core-plot/"><u>Crafting the Core Plot</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-data-boost-disk-space-non-destructive-tips-for-windows-11-users-max-156-chars/"><u>Keep Data, Boost Disk Space: Non-Destructive Tips for Windows 11 Users (Max 156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-your-windows-11-ui-with-bigger-icons/"><u>Redefining Your Windows 11 UI with Bigger Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-make-your-mouse-cursor-pop-on-win1011-pcs/"><u>Strategies to Make Your Mouse Cursor Pop on Win10/11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solutions-for-addressing-fatal-office-issues-on-windows/"><u>Swift Solutions for Addressing Fatal Office Issues on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/taking-a-deep-dive-into-innovative-landscaping-how-i-found-the-robot-mowers-tesla-cybertruck-exceeded-my-anticipations-cutting-edge-reviews-at-zdnet/"><u>Taking a Deep Dive Into Innovative Landscaping: How I Found the Robot Mowers' Tesla Cybertruck Exceeded My Anticipations | Cutting-Edge Reviews at ZDNET</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification-for-2024/"><u>The Ultimate iPad Slow Motion Techniques for Filming and Video Modification for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-insights-on-computer-components/"><u>Tom's Tech Review: In-Depth Insights on Computer Components</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-strategies-for-instantaneous-success-on-onedrives-folder-addition/"><u>Unveiling Strategies for Instantaneous Success on OneDrive's Folder Addition</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -190,3 +174,24 @@ thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-detailed-guide-to-minecraft-live-broadcasting/"><u>[New] Detailed Guide to Minecraft Live Broadcasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-facebook-insights-a-novices-guide-for-2024/"><u>[New] Mastering Facebook Insights A Novice's Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimizing-posts-secrets-to-higher-page-rank-for-2024/"><u>[New] Optimizing Posts Secrets to Higher Page Rank for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-your-video-content-for-a-fanbase-boom/"><u>[Updated] In 2024, Elevating Your Video Content for a Fanbase Boom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-sharpening-scenes-the-power-of-film-zoom/"><u>2024 Approved Sharpening Scenes The Power of Film Zoom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-meets-mobile-step-by-step-guide-to-optimizing-microsoft-bing-app-on-android-phones/"><u>AI Meets Mobile: Step-by-Step Guide to Optimizing Microsoft Bing App on Android Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-operate-and-access-windows-component-services-console/"><u>How to Operate and Access Windows’ Component Services Console</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-missing-data-in-the-windows-1011-search-feature/"><u>Methods to Rectify Missing Data in the Windows 10/11 Search Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/seamless-integration-combining-b-roll-and-main-scenes-for-2024/"><u>Seamless Integration Combining B-Roll and Main Scenes for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-editing-mastering-windows-photo-keys/"><u>Speedy Editing: Mastering Windows Photo Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-window-blunders-what-every-novice-should-dodge/"><u>Top 8 Window Blunders: What Every Novice Should Dodge</u></a></li>
+<li><a href="https://win11.techidaily.com/unjamming-the-amd-195-pipeline-on-windows-systems/"><u>Unjamming the AMD 195 Pipeline on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-network-issues-windows-error-code-0x800704b3/"><u>Unlocking Network Issues: Windows Error Code 0X800704B3</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-audio-isolation-techniques-in-adobe-premiere-pro-explained/"><u>Updated In 2024, Audio Isolation Techniques in Adobe Premiere Pro Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tactics-for-disguising-language-line-feature/"><u>Windows 11: Tactics for Disguising Language Line Feature</u></a></li>
+</ul></div>
+

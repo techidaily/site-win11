@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Rectify Windows Defender Engine Outage
-date: 2024-12-01T00:17:01.765Z
-updated: 2024-12-07T08:02:23.637Z
+date: 2024-12-10T00:59:22.903Z
+updated: 2024-12-13T02:57:05.047Z
 tags:
   - windows10
   - windows11
@@ -50,10 +50,19 @@ Here is how you can restart the Security Center Service:
 4. Choose**Properties** from the context menu.  
 ![Launch the properties of Security Center service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-center-properties.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and click**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Expand the dropdown for Startup type and choose**Automatic** .
 7. Click**Apply** \>**OK** to save the changes and then close the Services utility.
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
 
@@ -75,7 +84,7 @@ Once that is done, proceed with the steps below:
 2. Do the same with the**DisableAntiVirus** value in the same window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. After this, navigate to the following location in the Registry Editor:  
@@ -85,7 +94,7 @@ Once that is done, proceed with the steps below:
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Manually Install the Update
@@ -95,6 +104,10 @@ Once that is done, proceed with the steps below:
  This can be done by heading over to the[Microsoft security updates](https://www.microsoft.com/en-us/wdsi/defenderupdates) page and finding the required update in the "manually download the update" section. You can then select the appropriate version based on your system and install it.
 
  You can also use the Powershell utility to install the update manually. We have discussed the[different methods of manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/) , so be sure to check it out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Security
 
@@ -109,14 +122,6 @@ Here is how you can reset the Windows Security app:
 ![Command to Reset Windows Security in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Command-to-Reset-Windows-Security-.jpg)
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Remove Any Conflicting Software
 
  In case you have a third party installed on the system, it might be interfering with the processes of Windows Defender, preventing it from updating or functioning properly.
@@ -124,10 +129,6 @@ Here is how you can reset the Windows Security app:
  If this applies to you, we recommend temporarily disabling the security program or uninstalling it. You can do this using the Control Panel or the Settings app. We have a detailed guide that discusses[how to remove programs in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) that you can refer to if you need help.
 
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Windows Defender Up and Running Again
 
@@ -148,19 +149,18 @@ Here is how you can reset the Windows Security app:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-looking-back-unveiling-reversed-images-on-social-media/"><u>[New] 2024 Approved The Art of Looking Back Unveiling Reversed Images on Social Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-delving-into-the-drawbacks-of-vr-experiences/"><u>[Updated] Delving Into the Drawbacks of VR Experiences</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-visual-harmony-a-color-grading-journey/"><u>Crafting Visual Harmony A Color Grading Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-driver-update-pack-for-windows-8s-amd-radeon-hd-graphics-card/"><u>Free Driver Update Pack for Windows 8'S AMD Radeon HD Graphics Card</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/redressing-taskbar-icon-anomalies/"><u>Redressing Taskbar Icon Anomalies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seeking-clearance-can-you-upload-media-on-fb-in-2024/"><u>Seeking Clearance Can You Upload Media on FB, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-data-organization-quickly-open-disk-management-in-win11/"><u>Simplify Data Organization: Quickly Open Disk Management in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/stepping-around-windows-11s-tpm-and-secure-boot-rufus-guide/"><u>Stepping Around Windows 11'S TPM & Secure Boot: Rufus Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-disabled-mute-button/"><u>Steps to Rectify Disabled Mute Button</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-note-30-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Note 30 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-windows-canary-signal-system/"><u>Understanding the Windows Canary Signal System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-switch-linking-instagram-with-facebook/"><u>[New] In 2024, Master the Switch Linking Instagram with Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-techniques-for-safe-youtube-audio-extraction-at-no-cost-for-2024/"><u>[Updated] Techniques for Safe YouTube Audio Extraction at No Cost for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>2024 Approved The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/authentic-australian-english-the-definitive-list/"><u>Authentic Australian English: The Definitive List</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-game-installation-issues-in-microsoft-store/"><u>Correcting Game Installation Issues in Microsoft Store</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F54 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/highlighting-excellence-in-8-3d-websites-with-gold-effects/"><u>Highlighting Excellence in 8 3D Websites with Gold Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-print-settings-in-microsofts-edge-shield/"><u>Implementing Print Settings in Microsoft's Edge Shield</u></a></li>
+<li><a href="https://win11.techidaily.com/navigational-guide-to-system32-in-win11-os/"><u>Navigational Guide to System32 in Win11 OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/phoenix-point-bug-fix-a-detailed-walkthrough-for-uninterrupted-gaming/"><u>Phoenix Point Bug Fix: A Detailed Walkthrough for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-reawaken-hibernating-computers-in-win/"><u>Quick Fixes: Reawaken Hibernating Computers in Win</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-restore-your-voice-chat-in-destiny-2-now/"><u>Unstuck From Silence: Restore Your Voice Chat in Destiny 2 Now</u></a></li>
 </ul></div>
 

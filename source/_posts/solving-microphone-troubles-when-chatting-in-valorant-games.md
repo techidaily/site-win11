@@ -1,7 +1,7 @@
 ---
 title: Solving Microphone Troubles When Chatting in Valorant Games
-date: 2024-11-29T19:48:36.758Z
-updated: 2024-12-06T18:10:25.318Z
+date: 2024-12-08T03:54:44.287Z
+updated: 2024-12-13T13:23:00.538Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Preliminary Checks and Fixes
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 * Whitelist Valorant from Windows Defender firewall (see [how to whitelist apps in the firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/)) and turn off third-party antivirus software. This will ensure your security suites do not restrict Valorant's voice chat capability.
 
  If none of the above preliminary checks and fixes resolve the issue, move on to the main troubleshooting steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Ensure Your Microphone Isn't Faulty
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Set the Mic Volume to High in the Voice Chat Tab in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-mic-volume-to-high-in-the-voice-chat-tab-in-valorant.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't hear other gamers' voice chat, ensure the proper audio output device is selected and its incoming volume isn't too low.
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Set Your Main Audio Output Device As Default in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-set-your-main-audio-output-device-as-default-in-the-playback-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check Valorant's Microphone Permissions
@@ -123,20 +119,24 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Go to Recording Tab of Properties Window in More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/13-go-to-recording-tab-of-properties-window-in-more-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, go to the **Advanced** tab and uncheck the box beside **Allow applications to take exclusive control of this device**. Also, uncheck the box beside **Enable audio enhancements**.
 
 ![Disable Exclusive Control of Device and Audio Enhancements in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/14-disable-exclusive-control-of-device-and-audio-enhancements-in-the-recording-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Afterward, go to the **Playback** tab, right-click your primary audio output device, and select **Properties**. Then, go to the **Advanced** tab, uncheck the exclusive control box, and turn off audio enhancements.
 
 ![Disable Exclusive Control and Audio Enhancements in the Playback Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/15-disable-exclusive-control-and-audio-enhancements-in-the-playback-tab-of-more-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Change the Voice Activation Mode
@@ -152,11 +152,11 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Select the Push to Talk Option Next to Party Voice Activation Mode in Voice Chat Tab of Valorants Audio Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-select-the-push-to-talk-option-next-to-party-voice-activation-mode-in-voice-chat-tab-of-valorants-audio-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Voice Communication Super Smooth on Valorant
@@ -165,22 +165,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  If you want to make voice chat work again and communicate with your friends, here are the fixes you should try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-guide-to-macro-videography-techniques/"><u>[New] 2024 Approved Ultimate Guide to Macro Videography Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-amplify-your-footage-the-power-of-enhancer-22/"><u>[New] Amplify Your Footage The Power of Enhancer 2.2</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-revenue-harnessing-video-ad-dollars-on-youtube/"><u>[Updated] 2024 Approved Unlocking Revenue Harnessing Video Ad Dollars on YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-visual-ventures-free-themes-to-elevate-your-channel/"><u>[Updated] Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
-<li><a href="https://win-dash.techidaily.com/3-effective-methods-to-view-flv-videos-on-windows-10/"><u>3 Effective Methods to View FLV Videos on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-anydesk-fixes-for-frequent-windows-glitches/"><u>Fast-Tracking AnyDesk Fixes for Frequent Windows Glitches</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-m6-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco M6 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-installing-msixbundle-and-msix-packages-via-microsoft-store/"><u>Quick Guide: Installing MSixBundle & MSIX Packages via Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-methods-to-temporarily-halt-windows-security-in-windows-11/"><u>Quick Methods to Temporarily Halt Windows Security in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-speaker-configuration-after-discrepancies/"><u>Resetting Speaker Configuration After Discrepancies</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-error-0x800700e1-in-windows-11/"><u>Strategies for Correcting Error 0X800700E1 in Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -188,3 +172,22 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gamings-finest-bike-battles-compiled/"><u>[New] Gaming's Finest Bike Battles Compiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-zoom-audio-capture-techniques/"><u>[Updated] 2024 Approved Ultimate ZOOM Audio Capture Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-blending-of-win-product-key-and-microsoft-account/"><u>Effortless Blending of WIN Product Key & MICROSOFT ACCOUNT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-views-prime-seo-equipment-for-videos-for-2024/"><u>Elevate Views Prime SEO Equipment for Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-digital-dialogue-the-leading-web-based-text-to-speech-apps-for-2024/"><u>Enhance Your Digital Dialogue The Leading Web-Based Text-to-Speech Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-installing-kali-linux-on-pc/"><u>Essential Tips for Installing Kali Linux on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-frozen-state-of-essential-wsreset/"><u>Guide to Overcoming Frozen State of Essential WSReset</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-twist-magic-secrets-to-spinning-video-content-for-platform-perfection-for-2024/"><u>Insta-Twist Magic Secrets to Spinning Video Content for Platform Perfection for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-bypass-difficulty-in-installing-version-22h2-of-win11-updater/"><u>Techniques to Bypass Difficulty in Installing Version 22H2 of Win11 Updater</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-top-security-programs-for-privacy-150-chars/"><u>Unveiling Window's Top Security Programs for Privacy (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-dxgi-correction-for-removed-devices/"><u>Windows 11 DXGI Correction for Removed Devices</u></a></li>
+</ul></div>
+

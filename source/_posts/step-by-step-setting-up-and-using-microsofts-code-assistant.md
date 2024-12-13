@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Setting Up and Using Microsoft's Code Assistant"
-date: 2024-09-05T08:27:51.002Z
-updated: 2024-09-06T08:27:51.002Z
+date: 2024-12-07T10:19:47.062Z
+updated: 2024-12-13T03:27:28.539Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: CodeAssistantSetup,MSCodeGuide,AssistantInstall,TechMicrosoftHelp,DevT
 thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1ee9fa4b40235e3cbfd62f11.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step: Setting Up and Using Microsoft's Code Assistant
 
 ### Quick Links
@@ -29,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 * [What Are the Copilot Conversation Styles?](#what-are-the-copilot-conversation-styles)
 * [How to Use Microsoft Copilot](#how-to-use-microsoft-copilot)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Copilot is an AI assistant available on Windows 11, Microsoft Office, and Microsoft Edge, offering various functionalities across these.
@@ -43,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  A lot of big tech companies have their own AI model, and Microsoft is no different. Its AI model is called "Copilot," and you might have already seen it on Windows 11 or in Microsoft Office. But what is Copilot, and what can you do with it?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Microsoft Copilot?
 
  Microsoft Copilot is an AI-based assistant that Microsoft is rolling out across its operating systems and apps. Copilot will act differently and do different tasks depending on the app that you invoked it in.
@@ -70,33 +52,21 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![The Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-icon.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don't see it, right-click the taskbar, click **Taskbar Settings**, then enable Copilot.
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on Edge
 
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
@@ -109,11 +79,19 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
 
  Opening Copilot in Microsoft 365 depends on which app you open. However, you do need an active Microsoft 365 subscription for Copilot to work.
 
  Some apps will have Copilot open the instant you boot it up. For example, if you open a new document on Word, Copilot will pop up and ask you if you want to generate a draft. In other apps, you need to poke it out of hiding from the ribbon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Copilot Conversation Styles?
 
@@ -133,12 +111,6 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ![An example of Copilot citing sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-source-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Something I love about Copilot over other AI models is how it cites its sources. It's always good to see an AI chatbot demonstrate where it's getting its knowledge from, but it also allows you to follow those citations when performing research.
 
  If you want to read about a specific topic, ask Copilot about it. While it discusses the given topic, it will begin underlining some of its statements and adding a source for that info at the bottom. You can then follow these links and use these same sources in your own research.
@@ -148,37 +120,21 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![An image of a corgi generated by Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-dalle-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to generate images for free, Copilot is a great choice. Copilot supports the powerful DALL-E 3 image generator; just ask it to draw something for you. If you're not pleased with the result, you can guide Copilot through further prompts to get the best possible picture.
 
  Check out [how to use DALL-E 3 on Copilot (formerly Bing)](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ask Copilot to Write Code for You
 
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
 ### Use Copilot's Integration With Microsoft Office
@@ -198,11 +154,27 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  If you use any of these apps in your work, give Copilot a try and see what it can do for you.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-editing-workflows-windows-photos-and-story-remix-combo/"><u>[New] Advanced Editing Workflows Windows Photos & Story Remix Combo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>2024 Approved The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-efficiency-of-aukeys-minimalist-stylish-usb-3erhub-a-detailed-appraisal/"><u>Discovering the Efficiency of Aukey's Minimalist, Stylish USB 3.erhub: A Detailed Appraisal</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-capture-experience-recording-sound-with-snipping-tools-screen-feature-max-156/"><u>Enhance Your Capture Experience: Recording Sound with Snipping Tool's Screen Feature (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/escalate-your-win11-wi-fi-reach-using-these-9-tricks/"><u>Escalate Your Win11 Wi-Fi Reach Using These 9 Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-the-function-of-your-malfunctioning-sennheiser-game-one-mic/"><u>Expert Advice: Restoring the Function of Your Malfunctioning Sennheiser Game One Mic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>In 2024, Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-spacebar-turning-down-the-volume-on-your-windows-pc-try-these-fixes-to-stop-the-issue/"><u>Is Your Spacebar Turning Down the Volume on Your Windows PC? Try These Fixes to Stop the Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/narrowing-the-net-speed-divide-between-windows-and-android/"><u>Narrowing the Net Speed Divide Between Windows & Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-snapping-photos-from-your-xbox-one-screen/"><u>Step-by-Step Tutorial: Snapping Photos From Your Xbox One Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-code-0x800704cf-in-microsofts-shop/"><u>Unraveling Code 0X800704CF in Microsoft's Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-onedrive-server-problems/"><u>Unraveling the Mystery of OneDrive Server Problems</u></a></li>
+</ul></div>
+

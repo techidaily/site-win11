@@ -1,7 +1,7 @@
 ---
 title: "The Do's and Don'ts of Windows 11: Eight Must-Skip Mistakes"
-date: 2024-12-01T23:57:21.871Z
-updated: 2024-12-06T21:24:45.934Z
+date: 2024-12-10T04:27:42.733Z
+updated: 2024-12-13T11:22:57.504Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 ![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Defender, formerly known as Windows Defender, is your default antivirus app that protects your PCs from various threats, including viruses, malware, spyware, and phishing. It protects you from falling prey to threats emanating from both online and offline.
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  While Microsoft Defender is not as good as paid antivirus software, it checks all the boxes to provide you with decent protection. Unless you plan on installing paid antivirus software, you should never turn off the Microsoft Defender application.
 
  However, if you're confused about whether you should purchase antivirus software, [check out if Microsoft Defender is good enough for you](https://www.makeuseof.com/is-microsoft-defender-the-best-antivirus-for-your-pc-in-2021/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. You Should Not Download Software From Untrusted Sources
 
@@ -59,19 +55,23 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ![Checking for Available Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-1-Checking-for-Available-Windows-Updates-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After releasing a major Windows update, Microsoft continues to push security updates to keep your PC safe from the latest malware. Avoiding or delaying installing those monthly security updates will put your PC at severe risk.
 
  Besides security updates, the company also pushes quality updates and small feature updates, giving you access to the latest new features and improvements.
 
  Granted, Windows updates can cause annoyance sometimes and impact your workflow. But most of the time, only a small set of users with specific pieces of hardware are affected. And even if you're part of that small set of users, Microsoft is quick enough to issue a fix via a software update. In short, the rewards are bigger than the risks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. You Should Not Choose Weak Passwords
 
 ![Password and lock symbol on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-passwords-browser.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While being able to log in to our online accounts and services without having to type a password sounds like a great idea, we're not quite there yet. We use passwords everywhere to keep our online and offline accounts safe.
 
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 * It should be easy to remember for you.
 
  If you're not a pro at generating a strong password by yourself, check our list of the [best password generators for Windows](https://www.makeuseof.com/desktop-password-generators-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Never Use Public Wi-Fi Without VPN
 
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
  A VPN service will not expose your true identity to hackers, thus helping you stay protected and protect your privacy. We have a guide to help you choose between the [fastest VPN services](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Outdated Software Can Give You Trouble, Try to Avoid Them
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  Moreover, you should always keep an eye on the number of apps running in the background. And if too many of them are in the background, the app currently in use may not be as responsive as you'd want it to be. Installing too many apps on your PC makes your system more cluttered and makes it difficult to find them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Now You're Aware of What You Shouldn't Do in Windows 11
 
  All the features you find in Windows 11 are meant to achieve something, but they're not for everyone. Just because you're allowed to do something doesn't mean the OS encourages you to do that.
@@ -133,27 +133,6 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-dual-display-dominance-top-videographer-verdict/"><u>[New] In 2024, Dual Display Dominance Top Videographer Verdict</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-flip-the-script-on-classic-films-7-list/"><u>[New] In 2024, Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-18-quick-and-inspiring-ideas-to-try-in-your-vlog/"><u>[Updated] 18 Quick and Inspiring Ideas to Try in Your Vlog</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premiere-vr-developers-shaping-the-future/"><u>[Updated] In 2024, Premiere VR Developers Shaping the Future</u></a></li>
-<li><a href="https://win11.techidaily.com/cool-down-guide-to-your-windows-system/"><u>Cool Down Guide to Your Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-windows-key-problems-under-windows-11-practical-advice-for-users/"><u>Diagnosing and Solving Windows Key Problems Under Windows 11 - Practical Advice for Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a1x-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A1x 5G</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>In 2024, The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-xcover-6-pro-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy XCover 6 Pro Tactical Edition FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-high-dpi-display-scaling-issues-in-windows/"><u>Overcoming High DPI Display Scaling Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-stalled-utorrent-transfers-a-guide-for-windows-devices/"><u>Remedying Stalled uTorrent Transfers: A Guide for Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-update-error-code-0x80246007/"><u>Resolving Windows 11 Update Error Code: 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/revival-of-a-non-responsive-search-restoring-functionality-on-windows-11-ui/"><u>Revival of a Non-Responsive Search: Restoring Functionality on Windows 11 UI</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728467699594-sd3/"><u>SDカードデータ復旧方法：王都市で最も人気の3手法</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-invisible-monitor-issue-on-w11/"><u>Tackle Invisible Monitor Issue on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-unlock-windows-non-openable-folders-with-a-click-twice/"><u>Tactics to Unlock Windows' Non-Openable Folders with a Click Twice</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-server-stumbled-on-windows-store-app/"><u>Troubleshooting Steps for Server Stumbled on Windows Store App</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,3 +140,25 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortlessly-spread-youtube-videos-on-fb/"><u>[New] 2024 Approved Effortlessly Spread YouTube Videos on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-seconds-spent-watching-a-20mb-video/"><u>[New] 2024 Approved Seconds Spent Watching a 20MB Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-introductory-insights-crafting-listener-love/"><u>[New] Introductory Insights Crafting Listener-Love</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use/"><u>[Updated] Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>[Updated] In 2024, The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-gpresult-to-generate-gpo-data/"><u>Harnessing GPResult to Generate GPO Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi 14 Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-viral-potential-the-key-to-popularizing-your-videos/"><u>In 2024, Mastering Viral Potential The Key to Popularizing Your Videos</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-hardware-analysis-using-windows-widgets/"><u>Insightful Hardware Analysis Using Windows Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-windows-steam-efficiency-eliminating-zero-rate-incidents/"><u>Maximize Windows Steam Efficiency: Eliminating Zero-Rate Incidents</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-how-to-fix-multiple-unresponsive-audio-services/"><u>Resolved: How to Fix Multiple Unresponsive Audio Services</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-missing-panes-win11s-top-6-fixes/"><u>Restoring Missing Panes: Win11's Top 6 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-login-success-in-epic-launcher-issues/"><u>Securing Login Success in Epic Launcher Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-the-persistent-0xf0831-issue/"><u>Strategies for Fixing the Persistent 0XF0831 Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-battle-between-windows-print-screen-and-snipping-tool/"><u>The Battle Between Window's Print Screen & Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/the-dramatic-impact-of-discontinued-windows-7-and-81-supports/"><u>The Dramatic Impact of Discontinued Windows 7 & 8.1 Supports</u></a></li>
+</ul></div>
+

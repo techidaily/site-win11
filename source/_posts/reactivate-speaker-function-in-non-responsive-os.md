@@ -1,7 +1,7 @@
 ---
 title: Reactivate Speaker Function in Non-Responsive OS
-date: 2024-12-01T04:33:56.265Z
-updated: 2024-12-07T07:03:22.300Z
+date: 2024-12-12T13:17:19.591Z
+updated: 2024-12-12T20:30:45.220Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  If the test tone isn't playing, restart your computer first. This often refreshes the system and solves small glitches that may have developed. It's a simple workaround but sometimes effective.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
 
  To restart your computer, close any running applications. After that, press **Alt + F4**, or right-click the **Start** menu and select **Shut down or sign out** \> **Shut down**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Audio Troubleshooter
 
@@ -48,14 +48,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![Run the Audio Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-audio-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for a while until Windows scans and fixes the issue. After this, see if the test tone is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Restart the Windows Audio Service
 
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![Disable Audo Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-audo-enhancements.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Audio enhancements should now be disabled, and you may find your sound issues resolved. If you have multiple audio devices, repeat the process for each device. Once you have completed these steps, restart your computer and check if your audio issues have been resolved.
 
 ## 5\. Update the Audio Driver
@@ -107,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![Update Audio driver Via Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-audio-driver-via-device-manager.jpg)
 4. Find your audio device. Note the manufacturer and model name.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Search online for drivers for your device. Usually, these will be on the manufacturer's website.
 
  These drivers usually install with a double-click, but if it doesn't, go back to Device Manager and do this:
@@ -120,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
  Wait until Windows downloads and installs the latest driver version. Once done, restart your device and check if the test tone is now playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Audio Drivers
 
@@ -132,6 +124,11 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 3. Right-click your audio device and select **Uninstall device**.  
 ![Uninstall Audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-audio-driver.jpg)
 4. If a warning pops up, click **Uninstall** to continue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now follow the on-screen instructions to uninstall the audio driver.
 
  After this, close the window and restart your computer. Once your system is up, Windows will automatically detect the audio device and install its driver. This will fix the issue if the driver was corrupted.
@@ -150,11 +147,11 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 ![Try Different Audio Formats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/try-different-audio-formats.jpg)
 6. Now try playing a test tone and see if it works.
 
- If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
 
 ## 8\. Perform a Few General Fixes
 
@@ -165,29 +162,15 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 * You can also [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It disables unnecessary third-party software running in the background, which may cause the issue. I
 * If the problem persists, [use the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/). This utility scans all protected system files and replaces them if they are corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Playing the Test Tone Again on Windows
 
  It appears that you are having problems with your sound card and the Windows test tone is not playing. Hopefully, one of these tips worked for you, and your speakers are now working.
 
  Dealing with audio problems on Windows is sometimes frustrating, but there are simple solutions available. This guide shows you how to troubleshoot the issue and get your speakers working again.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ssential-video-gear-the-ultimate-12-camera-guide/"><u>[New] Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facilitating-tiktok-videos-transmission-to-facebook-friends/"><u>[New] Facilitating TikTok Videos' Transmission to Facebook Friends</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-are-feedbacks-on-items-monetized-in-videos/"><u>[New] In 2024, Are Feedbacks on Items Monetized in Videos?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rapid-review-windows-files-made-simple/"><u>[Updated] Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-a-blue-icons-role-facebooks-communication-tool/"><u>2024 Approved Understanding a Blue Icon’s Role Facebook's Communication Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-next-level-gaming-with-asuss-rog-swift-pg34wcdm-a-thorough-review-of-its-exquisite-240hz-oled-visual-experience-and-top-tier-gameplay-dynamics/"><u>Discover Next-Level Gaming with ASUS's ROG Swift PG34WCDM: A Thorough Review of Its Exquisite 240Hz OLED Visual Experience & Top-Tier Gameplay Dynamics</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/effortless-avi-file-trimming-learn-the-best-techniques-and-tools-2023-update-for-2024/"><u>Effortless AVI File Trimming Learn the Best Techniques and Tools (2023 Update) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-with-these-8-windows-timers/"><u>Elevate Your Workflow with These 8 Windows Timers</u></a></li>
-<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-broken-or-dead-laptop-trackpad-step-by-step-instructions/"><u>How to Resolve a Broken or Dead Laptop Trackpad - Step by Step Instructions</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-guide-to-disable-disk-read-error/"><u>Quick Fix Guide to Disable “Disk Read” Error</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-control-windows-setup-service-status/"><u>Steps to Control Windows Setup Service Status</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-behindahead-time-error-in-chrome-windows/"><u>Tackling Behind/Ahead Time Error in Chrome-Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-to-fixing-microsoft-outlook-failures/"><u>Windows Guide to Fixing Microsoft Outlook Failures</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +179,21 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/he-branding-edge-design-strategies-for-game-changing-banners/"><u>[New] The Branding Edge Design Strategies for Game-Changing Banners</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0xca00a009-in-windows-update/"><u>Eliminating Error Code: 0XCA00A009 in Windows Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-the-blue-screen-error-stop-code-0x0000005c-hal-initialization-problems/"><u>Expert Advice on Correcting the Blue Screen Error STOP Code 0X0000005C - HAL Initialization Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-error-0x80073d26-from-your-microsoft-store/"><u>How to Eliminate Error 0X80073D26 From Your Microsoft Store</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-xs-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone XS to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-c210-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia C210 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-blade-a73-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Blade A73 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/real-time-speech-to-text-unlocking-with-whisper/"><u>Real Time Speech to Text: Unlocking with Whisper</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-error-0x80242016-in-windows-update/"><u>Sidestep Error 0X80242016 in Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-alternatives-to-the-windows-snipping-tool/"><u>The 5 Best Alternatives to the Windows Snipping Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-embedding-time-stamps-in-youtube-clips/"><u>Tips for Embedding Time Stamps in YouTube Clips</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-summation-accuracy-methods-to-rectify-errors-effectively/"><u>WinRAR Summation Accuracy: Methods to Rectify Errors Effectively</u></a></li>
+</ul></div>
+

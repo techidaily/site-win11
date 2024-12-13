@@ -1,7 +1,7 @@
 ---
 title: Restoring Lost Activities From Run Commands
-date: 2024-12-03T11:51:29.234Z
-updated: 2024-12-07T00:49:33.201Z
+date: 2024-12-10T17:13:24.169Z
+updated: 2024-12-12T18:40:29.879Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Privacy Settings
@@ -39,14 +39,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 4. Enable the toggle next to **Let Windows improve Start and search results by tracking app launches**.  
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
@@ -64,10 +60,14 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 7. Click **OK**.  
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -90,25 +90,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-the-blueprint-best-practices-for-social-media-video-publishing/"><u>[New] 2024 Approved Unveiling the Blueprint Best Practices for Social Media Video Publishing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rom-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing-for-2024/"><u>[New] From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-immersive-escapades-top-5-playstation-vr-titles-to-excite-gamers/"><u>[New] Immersive Escapades Top 5 PlayStation VR Titles to Excite Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-directory-of-video-capturing-technologies-by-type-for-2024/"><u>[Updated] Directory of Video Capturing Technologies by Type for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-gratis-editing-guide-enhance-videos-on-budget/"><u>[Updated] Vimeo's Gratis Editing Guide Enhance Videos on Budget</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-motorola-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Motorola G24 Power</u></a></li>
-<li><a href="https://win11.techidaily.com/how-application-instance-names-facilitate-development/"><u>How Application Instance Names Facilitate Development</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-excess-power-draw-control-your-pcs-cpu-consumption-by-vanguard/"><u>Mastery Over Excess Power Draw: Control Your PC's CPU Consumption by Vanguard</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-device-recognition-hiccups-in-windows-11/"><u>Resolving Device Recognition Hiccups in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-resolving-bios-secure-boot-grayout-issues-in-windows/"><u>Tips for Resolving BIOS Secure Boot Grayout Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-secrets-using-or-stopping-windows-spotlight-feature/"><u>Unlock Secrets: Using or Stopping Windows Spotlight Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-joy-con-control-swapping-old-joysticks-in-the-switch/"><u>Upgrade Your Joy-Con Control: Swapping Old Joysticks in the Switch</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-stop-frustrated-dragging-start-fixing/"><u>Win11: Stop Frustrated Dragging, Start Fixing</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -116,3 +97,25 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cut-the-red-tape-easy-memes-via-kinemaster/"><u>[New] 2024 Approved Cut the Red Tape Easy Memes via KineMaster</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-visionary-film-titles-that-inspire-and-invigorate/"><u>[New] 2024 Approved Visionary Film Titles That Inspire and Invigorate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-seven-finest-stardew-valley-customizations-unveiled/"><u>[Updated] In 2024, The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acemagic-reports-first-shipment-of-mini-pcs-infected-with-preinstalled-spyware-urgent-recall-underway/"><u>AceMagic Reports First Shipment of Mini PCs Infected with Preinstalled Spyware - Urgent Recall Underway</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-why-the-google-pixelbook-go-stands-out-despite-pricey-tag/"><u>Comprehensive Review: Why the Google Pixelbook Go Stands Out Despite Pricey Tag</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cost-efficient-4k-camera-options-(1k-for-2024/"><u>Cost-Efficient 4K Camera Options <$1K for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-microsofts-assistant-service-on-pc/"><u>Disable Microsoft's Assistant Service on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-the-capabilities-of-the-original-prusa-xl-with-its-large-build-plate-and-five-simultaneous-toolheads/"><u>In-Depth Analysis: The Capabilities of the Original Prusa XL with Its Large Build Plate and Five Simultaneous Toolheads</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-resource-monitoring-ram-cpu-and-gpu-data-in-windows-11/"><u>Mastering Resource Monitoring: RAM, CPU & GPU Data in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-sound-dynamics-fixing-low-volume-woes/"><u>Maximizing Sound Dynamics: Fixing Low-Volume Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/pocket-sized-windows-patches-offline-methods/"><u>Pocket-Sized Windows Patches: Offline Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-blue-screen-overcoming-wins-exception-issue/"><u>Remedying the Blue Screen: Overcoming Win's Exception Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-your-windows-11-account-lost-pin-recovery/"><u>Steps to Regain Your Windows 11 Account: Lost PIN Recovery</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-troubleshooting-for-rdp-internal-error-on-windows-11/"><u>Streamlining Troubleshooting for RDP Internal Error on Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-troubleshooting-the-legacy-usb-composite-device/"><u>Understanding and Troubleshooting the Legacy USB Composite Device</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-new-directions-for-improved-past-content-retrieval/"><u>Windows 11: New Directions for Improved Past Content Retrieval</u></a></li>
+</ul></div>
+

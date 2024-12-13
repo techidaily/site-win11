@@ -1,7 +1,7 @@
 ---
 title: "The Watchful Reboot: Steps to Fix Windows Time Service Failures"
-date: 2024-11-30T07:51:29.953Z
-updated: 2024-12-07T05:19:27.867Z
+date: 2024-12-07T12:05:41.202Z
+updated: 2024-12-13T02:10:38.598Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1e30b9de50d4ae50235fbe2427c86509d2c0711d9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reboot Your PC
 
  Restart your computer before attempting any major troubleshooting. While it may sound simple, restarting the computer resolves minor errors and glitches that prevent the service from running. It flushes out temporary files and refreshes the operating system to ensure everything works correctly.
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/1e30b9de50d4ae50235fbe2427c86509d2c0711d9
  Once the computer restarts, check if Windows Time Service is available. If it's still missing, move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change the Time Server
@@ -73,10 +77,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DateTime\Servers
 ![Add More Time Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-more-time-servers.jpg)
 6. Name the new value **Server N**, and replace **N** with a number starting from 1.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can't have the same number twice. That means if there are already 3 values named _Server 1_, _Server 2_, and _Server 3_, you must call the new one as **Server 4**.
 7. Double-click the newly created value and add a time server address in the Value data field.
 8. Here are some time server addresses:  
@@ -91,6 +91,10 @@ time-c-wwv.nist.gov
 ntp-wwv.nist.gov`
 
  After adding the time server, click **OK** and close the Registry Editor window. Now restart your computer to apply the changes and check if Windows Time Service is available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Re-register the Windows Time Service
 
@@ -112,10 +116,6 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
@@ -126,6 +126,10 @@ net start w32time
 
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Scan for Malware
 
  Sometimes, malware is to blame for Windows services acting a little odd. As such, it's worth [running a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and removing all detected threats.
@@ -133,39 +137,18 @@ net start w32time
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
  For those who prefer a command-line approach, you can [use Windows PowerShell to scan Windows for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restore the Missing Windows Time Service
 
  Hopefully, one or more of these tips worked for you. Missing Windows services can be a huge pain, but hopefully, one of these methods has brought back the Windows Time Service back to working order.
 
  Fortunately, restoring the Windows Time Service is not complicated. This guide will discuss quickly restoring the missing Windows Time Service and setting the correct time on your computer.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-capturing-facebook-hd-videos-for-later-use/"><u>[New] 2024 Approved Capturing Facebook HD Videos for Later Use</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-a-quick-guide-to-chroma-key-background/"><u>[New] A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[New] Best Hashtags for YouTube to Get Your Views to 6 Figures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastery-of-microscopic-minecraft-mapping/"><u>[New] Mastery of Microscopic Minecraft Mapping</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-tips-for-premiere-pros-full-screen-mode/"><u>[Updated] 2024 Approved Essential Tips for Premiere Pro's Full Screen Mode</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-whats-new-on-facebook-an-updated-look/"><u>[Updated] In 2024, What's New on Facebook - An Updated Look</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-a70-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel A70 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-automatic-playback-for-spotify/"><u>How to Disable Automatic Playback for Spotify</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-share-failures-in-nvidias-windows-application/"><u>Overcoming Share Failures in NVIDIA’s Windows Application</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-pushbuttons-managing-apps-on-taskbar-and-tray/"><u>The Power of Pushbuttons: Managing Apps on Taskbar & Tray</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-reviews-and-advice/"><u>Tom's Tech Insights: In-Depth Reviews & Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-tips-resolving-windows-11-low-signal-issues/"><u>Top 7 Tips: Resolving Windows 11 Low Signal Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-admin-access-in-cmd-steps-for-resolution/"><u>Troubleshooting Admin Access in CMD: Steps for Resolution</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,3 +157,27 @@ net start w32time
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram-for-2024/"><u>[New][Desktop & Mobile Solutions] How to Rotate Videos for Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[Updated] Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-perfected-video-covers-update-guide-and-tips/"><u>[Updated] In 2024, The Path to Perfected Video Covers Update Guide & Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-your-slides-come-alive-with-youtube-in-ppt/"><u>[Updated] Making Your Slides Come Alive with YouTube in PPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/70-fte-as-of-2015-16/"><u>70 (FTE) (as of 2015-16)</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-issues-with-elevated-user-roles-and-privileges/"><u>Correcting Issues with Elevated User Roles and Privileges</u></a></li>
+<li><a href="https://fox-search.techidaily.com/das-umfassende-leitfaden-fur-die-wiedergewinnung-von-after-effects-projektdateien-finden-sie-ihre-verlorenen-projekte-mit-diesen-tipps-und-tricks/"><u>Das Umfassende Leitfaden Für Die Wiedergewinnung Von After Effects-Projektdateien: Finden Sie Ihre Verlorenen Projekte Mit Diesen Tipps Und Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tools-to-convert-videos-on-your-pc-windows/"><u>Essential Tools to Convert Videos on Your PC, Windows</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exploring-the-reasons-behind-chinas-division-in-the-era-of-ming-insights-by-yl-computing-and-yl-software/"><u>Exploring the Reasons Behind China's Division in the Era of Ming - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-code-xc0000142-errors-in-windows/"><u>Fixing Code XC0000142 Errors in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-s23-fe-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy S23 FE Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-context-menu-customization-for-firewall-control-in-windows-11/"><u>Mastering Context Menu Customization for Firewall Control in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-0xc0351000-issue-finding-hyprocvisor-in-sandbox/"><u>Mitigating 0xC0351000 Issue: Finding Hyprocvisor in Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-gameplay-smart-adjustments-for-amd-gpu-performance-on-pc/"><u>Optimize Gameplay: Smart Adjustments for AMD GPU Performance on PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/qualcomm-x-series-processors-set-to-triple-dell-xps-13plus-laptop-lifespans-at-half-the-price-of-intel-counterparts/"><u>Qualcomm X Series Processors Set to Triple Dell XPS 13+ Laptop Lifespans at Half the Price of Intel Counterparts</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-how-to-resize-apps-using-just-your-pc-keys-on-windows-11/"><u>Quick Fixes: How to Resize Apps Using Just Your PC Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-typing-on-win-11-combat-keyboard-lag-effectively/"><u>Speed Up Typing on Win 11: Combat Keyboard Lag Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-chromes-loading-problems-tips-and-tricks-for-optimal-performance/"><u>Troubleshooting Chrome's Loading Problems: Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/unmatched-comfort-and-efficiency-leading-windows-laptops/"><u>Unmatched Comfort & Efficiency - Leading Windows Laptops</u></a></li>
+</ul></div>
+

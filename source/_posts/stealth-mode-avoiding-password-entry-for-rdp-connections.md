@@ -1,7 +1,7 @@
 ---
 title: "Stealth Mode: Avoiding Password Entry for RDP Connections"
-date: 2024-09-05T08:29:56.293Z
-updated: 2024-09-06T08:29:56.293Z
+date: 2024-12-10T06:30:09.324Z
+updated: 2024-12-13T13:38:45.133Z
 tags:
   - windows10
   - windows11
@@ -14,34 +14,14 @@ keywords: RDP Security Passwords,Stealth Remote Access,Hide RDP Credentials,No-P
 thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb30cdb412a437151bb1d88f5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stealth Mode: Avoiding Password Entry for RDP Connections
 
  Remote Desktop connections let two computers share data and applications online. It's handy for accessing files and programs from afar. Although security measures often require passwords. But what if you could connect to your remote desktop without it? This article explains how to connect to a remote desktop without a password in Windows 11\.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Using Group Policy
 
  A group policy editor is a tool administrators use to set user access control policies. You can use this feature to disable passwords. Make sure you are running Windows Pro, Enterprise, or Education Edition.
@@ -58,13 +38,16 @@ Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
 
@@ -88,17 +71,9 @@ Security Settings > Local Policies > Security Options
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Using Registry Editor
 
  When running Windows Home, use the registry editor instead of the group policy editor. The registry editor is a hierarchical database that stores system configuration and settings.
@@ -131,18 +106,11 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 3. If the UAC dialog box pops up, click **Yes** to grant permission. This will open the Command Prompt with administrative privileges.  
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
+
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
 
  Running this command will change the value data field to **0** and disable the remote password prompt.
@@ -151,12 +119,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using a Reg File
 
  If you're not good at editing with the registry editor, create a .reg file instead. The .reg files are basically text files with predefined instructions. When executed, they change the registry and apply settings automatically.
@@ -187,11 +149,25 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-archive-video-discussions-with-ease-and-security/"><u>[New] 2024 Approved How to Archive Video Discussions with Ease & Security</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigate-the-transfer-of-social-media-photos-to-hard-drive/"><u>[Updated] 2024 Approved Navigate the Transfer of Social Media Photos to Hard Drive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simplify-your-macs-sound-recording-journey-with-audacity/"><u>[Updated] 2024 Approved Simplify Your Mac's Sound Recording Journey with Audacity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-playbook-to-youtube-hub-mastery/"><u>2024 Approved The Ultimate Playbook to YouTube Hub Mastery</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-access-20-premier-blu-ray-movie-titles-from-2021-you-can-download-now/"><u>Free Access: 20 Premier Blu-Ray Movie Titles From 2021 You Can Download Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-life-into-windows-11-display-with-dynamic-walls-technique/"><u>Infuse Life Into Windows 11 Display With Dynamic Walls Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/shortcut-secrets-to-enhance-windows-photos/"><u>Shortcut Secrets to Enhance Windows Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-gaming-hide-xbox-series-s-vibrations/"><u>Stealthy Gaming: Hide Xbox Series S Vibrations</u></a></li>
+<li><a href="https://win11.techidaily.com/the-winning-strategy-configuring-active-hours-for-a-smooth-windows-experience/"><u>The Winning Strategy: Configuring Active Hours for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-of-switching-windows-terminals-attentive-state/"><u>Unveiling the Process of Switching Windows Terminal's Attentive State</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-storage-cleanup-removing-microsoft-app/"><u>Win11 Storage Cleanup: Removing Microsoft App</u></a></li>
+</ul></div>
+

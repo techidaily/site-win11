@@ -1,7 +1,7 @@
 ---
 title: "How to Dodge World of Warcraft Crash: Tackle Fatal #132"
-date: 2024-12-03T21:32:49.457Z
-updated: 2024-12-06T17:27:42.096Z
+date: 2024-12-06T17:11:45.725Z
+updated: 2024-12-12T18:10:23.696Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Game DVR for Recording Clips
 
  This somewhat unusual potential solution is also among the most widely confirmed to work. Many WoW players have been able to fix error 132 simply by disabling Game DVR background recording. So, maybe that potential fix could work for you as well. Try disabling Game DVR as follows:
@@ -39,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
@@ -59,8 +51,17 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
@@ -69,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -85,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
@@ -107,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 
  As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-opening-and-playing-srt-files-in-different-oses/"><u>[Updated] 2024 Approved Opening and Playing SRT Files in Different OSes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[Updated] Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-structuring-a-significant-tiktok-close-up/"><u>[Updated] In 2024, Structuring a Significant TikTok Close-Up</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>2024 Approved From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effortless-server-protection-mastering-quick-backups-on-windows-server-2012-three-simple-strategies/"><u>Effortless Server Protection: Mastering Quick Backups on Windows Server 2012 - Three Simple Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-remedying-windows-errors-version-22h2/"><u>Expert Guide to Remedying Windows Errors, Version 22H2</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g24-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G24 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-tpm-and-secure-boot-before-upgrading-to-windows-11/"><u>How to Enable TPM and Secure Boot Before Upgrading to Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-law-filters-in-windows-a-step-by-step-guide/"><u>Mastering LAW Filters in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-the-elusive-ubisoft-launcher-connection/"><u>Re-Establishing the Elusive Ubisoft Launcher Connection</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-timekeeping-on-windows-platforms/"><u>Revitalizing Timekeeping on Windows Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-power-of-irecorder-in-action-for-2024/"><u>The Power of iRecorder in Action for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-reviews-by-tech-experts-on-zdnet/"><u>Top-Ranking OLED Laptop Picks : Comprehensive Reviews by Tech Experts on ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-potential-with-easy-integration-of-msix-packages/"><u>Unlock Potential with Easy Integration of MSIX Packages</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -132,3 +115,25 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-vivid-visions-elevating-your-photographic-skills/"><u>[New] In 2024, Vivid Visions Elevating Your Photographic Skills</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-comprehensive-guide-to-oculus-rift-setup/"><u>[Updated] 2024 Approved Comprehensive Guide to Oculus Rift Setup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-process-of-adding-subtitles-to-your-youtube-content/"><u>[Updated] 2024 Approved Step by Step Process of Adding Subtitles to Your YouTube Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-blueprint-crafting-content-for-a-thousand-strong-audience-for-2024/"><u>[Updated] The Instagram Blueprint Crafting Content for a Thousand-Strong Audience for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726226856375-6/"><u>無料の動画圧縮ソフト6選！高速・軽量圧縮アプリ満載</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-or-disabling-tpm-support-a-complete-vbox-70-guide/"><u>Enabling or Disabling TPM Support - A Complete VBox 7.0 Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcast-with-manycam-top-tier-software-for-virtual-webcams-and-online-recording/"><u>Enhance Your Broadcast with ManyCam: Top-Tier Software for Virtual Webcams and Online Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-scheduled-batch-processes/"><u>Enhance Your Workflow: Scheduled Batch Processes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-weather-icon-to-your-system-tray-in-windows-11/"><u>How to Add a Weather Icon to Your System Tray in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-start-wordpad-in-a-windows-desktop/"><u>How to Start WordPad in a Windows Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-leverage-windows-11s-pcm-bar-tools-quickly-and-effectively/"><u>Learn to Leverage Windows 11'S PCM Bar Tools Quickly & Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-frequent-win-printer-changes/"><u>Solutions to Frequent Win Printer Changes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-trimming-wmis-cpu-footprint/"><u>Strategies for Trimming WMI's CPU Footprint</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-utorrent-downloads-a-guide-for-windows-users/"><u>Tackling uTorrent Downloads: A Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-the-dx11-feature-level-100-glitch-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps for Correcting the DX11 Feature Level 10.0 Glitch in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-selectable-text-windows-pdf-edition/"><u>Unlock Selectable Text: Windows PDF Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v30-lite-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V30 Lite 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
+

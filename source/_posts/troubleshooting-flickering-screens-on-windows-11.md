@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Flickering Screens on Windows 11
-date: 2024-09-05T08:30:47.305Z
-updated: 2024-09-06T08:30:47.305Z
+date: 2024-12-11T13:16:19.432Z
+updated: 2024-12-13T11:33:14.156Z
 tags:
   - windows10
   - windows11
@@ -14,23 +14,15 @@ keywords: Fix Flicker Win11,Screen Glitch Windows,Resolve Win11 Display,Stop Scr
 thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334ac0cfef5ca5e3619fdd13ef.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Flickering Screens on Windows 11
 
  If your Windows 10 or Windows 11 screen is constantly flickering, it's likely because you have a troublesome application installed or an unsuitable display driver. It's time for you to resolve that annoying screen flash.
 
  The problem often begins when upgrading to Windows 10/11 from a previous version of the operating system, but it can occur at any time. We're going to show you various methods to fix a Windows 10 or Windows 11 flashing screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Perform This Screen Flickering Test First
 
@@ -40,21 +32,13 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
 ![windows 11 desktop with task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-desktop-with-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, watch your screen to see if Task Manager flickers. If it does, along with everything else on the screen, the problem is likely caused by your hardware or a faulty display driver. On the other hand, if everything except Task Manager flickers, the issue is likely due to an application.
 
  If it's the former, follow the instructions below in order. If it's the latter, skip to step five. That said, if the advice there doesn't work, check the advice in the other sections too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Monitor and Cables
 
@@ -64,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
  If you can, try a different monitor. If this resolves the problem, you know it's your monitor that's the issue. At that point, contact the manufacturer for support or to raise a warranty claim.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Set the Correct Refresh Rate
 
  A monitor's refresh rate is the speed at which the screen updates the image per second, measured in hertz (Hz). Basic monitors can usually only handle a 60Hz refresh rate, while more advanced ones—typically aimed at gamers—can go to 360Hz and beyond.
@@ -80,29 +58,15 @@ To adjust your refresh rate:
 
 ![windows 11 advanced display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-advanced-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press**Windows key + I** to open Settings.
 2. Click**System** \>**Display** .
 3. Click**Advanced display settings** (Windows 10) or**Advanced display** (Windows 11).
 4. Use the**Refresh rate** dropdown and incrementally select lower rates until the screen flashing stops. If the flashing continues, revert to your monitor's recommended refresh rate.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reset Your Display Driver
 
  The screen flashing could be caused by your display driver. You might have an old driver or a faulty new one. Let's make sure you are running the right version for your system.
@@ -123,18 +87,6 @@ Next, use Device Manager to uninstall the display driver:
 
 ![uninstall display device drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/uninstall-display-device-drivers.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press**Windows key + X** and click**Device Manager** .
 2. **Double-click** on**Display adapters** to expand the category.
 3. **Right-click** your graphics card, click**Uninstall device** , check**Delete the driver software for this device** and then click**OK** .
@@ -142,12 +94,6 @@ Next, use Device Manager to uninstall the display driver:
 
  Alternatively, you can use third-party software[Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) , which will completely wipe any traces of the driver from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Install a New Driver
 
  You now want to[install the latest driver](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) for your system. Windows Update will provide the driver it thinks is compatible with your system. To do this:
@@ -167,11 +113,9 @@ Next, use Device Manager to uninstall the display driver:
  Follow the steps above to uninstall the driver, then head to the old driver page for either[AMD](https://www.amd.com/en/support) ,[NVIDIA](https://www.nvidia.com/Download/Find.aspx) , or[Intel](https://downloadcenter.intel.com/product/80939/Graphics) . This might be a bit of trial and error, but try selecting one released when your screen wasn't flickering.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reseat Your Graphics Card
 
  If the problem isn't with your display driver, it doesn't mean your graphics card isn't to blame. If your graphics card isn't seated correctly in your motherboard, it can cause your monitor display to flicker on and off.
@@ -181,6 +125,10 @@ Next, use Device Manager to uninstall the display driver:
 [Power off your PC](https://www.makeuseof.com/windows-11-how-to-shut-down/) , unplug everything, open the case, and remove your graphics card from the motherboard. Then carefully reseat it, ensuring the card firmly clips into the motherboard. Of course, don't do this if you're not comfortable working inside a computer because you might make things worse.
 
  If this doesn't fix it,[your graphics card might be faulty or dying](https://www.makeuseof.com/signs-graphics-card-is-dying/) . Contact the manufacturer for support or to claim on the warranty.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Problematic Applications
 
@@ -204,11 +152,9 @@ If this doesn't work, uninstall the program. To do so:
 ![windows 11 family and other users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/windows-11-family-and-other-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 To create a new account:
 
 1. Press**Windows Key + I** to open Settings.
@@ -221,14 +167,11 @@ To create a new account:
 
  If it is time for a new monitor, there are plenty of productive and fun things you can do with the old one. Otherwise, take it off for recycling so it can rest in monitor heaven.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +180,23 @@ To create a new account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-live-recording-mastery-with-innovative-webcams-explored/"><u>[New] In 2024, Live Recording Mastery with Innovative WebCams Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-windows-11-tackling-issues-head-on/"><u>Combatting Windows 11: Tackling Issues Head-On</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-event-log-issues-in-win-11/"><u>Correcting Event Log Issues in Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-copilot-functions-and-capabilities-explained/"><u>Exploring ChatGPT Copilot: Functions & Capabilities Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-priority-tools-critical-6-fb-lite-downloads/"><u>In 2024, Priority Tools Critical 6 FB Lite Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-crash-0x800f0831-explained/"><u>Navigating Through Windows Crash: 0X800F0831 Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-level-entertainment-exclusive-windows-10-gaming-and-apps-for-2024/"><u>Next-Level Entertainment Exclusive Windows 10 Gaming & Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-11s-opengl-glitch-no-3/"><u>Rectifying Windows 11'S OpenGL Glitch No. 3</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-non-responsive-xbox-mic-for-windows-11-users/"><u>Solving Non-Responsive Xbox Mic for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-notes-mastery-entering-the-world-of-win11/"><u>Sticky Notes Mastery: Entering the World of Win11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-impact-and-outcomes-of-the-boxer-uprising-as-explained-by-yl-solutions/"><u>The Impact and Outcomes of the Boxer Uprising as Explained by YL Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-android-3d-playback-software/"><u>Ultimate Android 3D Playback Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-ps4-controller-with-ease/"><u>Ultimate Guide: Connecting Your PS4 Controller with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-correcting-system-calls-in-windows-1111/"><u>Unraveling and Correcting System Calls in Windows 11/11</u></a></li>
+</ul></div>
 

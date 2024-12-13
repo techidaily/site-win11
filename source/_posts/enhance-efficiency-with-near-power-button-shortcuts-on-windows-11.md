@@ -1,7 +1,7 @@
 ---
 title: Enhance Efficiency with Near-Power Button Shortcuts on Windows 11
-date: 2024-09-05T08:31:07.585Z
-updated: 2024-09-06T08:31:07.585Z
+date: 2024-12-07T04:49:08.484Z
+updated: 2024-12-13T13:37:07.126Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Efficient Windows 11,Power Button Triggers,Quick Access Windows,Window
 thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58d6731fdc6da8a1b96d39a6c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhance Efficiency with Near-Power Button Shortcuts on Windows 11
 
  Are you tired of digging through your folders in the File Explorer? Did you know you can add shortcuts next to the Power Button in the Start Menu on Windows 11 to keep things quick and straightforward?
@@ -29,11 +23,9 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
  So, let's look at how to add these quick shortcuts to your Windows menu. Let's get started!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -45,11 +37,9 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
 
  Now that we've peeked into the benefits of adding shortcuts next to Power Buttons on Windows 11, let's look at how you can do it as well.
@@ -66,11 +56,9 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
 
  For instance, in this example, we'll toggle on the switches for**File Explorer** ,**Documents** , and**Music** folder. This is how your customized Windows 11 Start menu will look like:
@@ -78,35 +66,22 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons on Windows 11
 
  And that's how you can easily tweak your Start menu and drop in shortcuts next to the Power button on your Windows. After you've made the changes, make sure you verify it by clicking on the Start menu.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,4 +90,19 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-best-in-class-facebook-media-firefox-edition-for-2024/"><u>[New] Best-in-Class Facebook Media FireFox Edition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-converting-video-content-from-twitter-to-an-audiophile-written-mp3-format/"><u>[New] Converting Video Content From Twitter to an Audiophile' Written MP3 Format</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fixing-the-full-screen-freeze-in-obs-for-2024/"><u>[Updated] Fixing the Full-Screen Freeze in OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-path-to-perfected-video-covers-update-guide-and-tips/"><u>[Updated] The Path to Perfected Video Covers Update Guide & Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oneplus-ace-2v-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on OnePlus Ace 2V Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chuckle-cache-timed-humor-categorized-by-occasion/"><u>In 2024, Chuckle Cache Timed Humor Categorized by Occasion</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-email-app-chaos-solving-the-mystery-of-zero-x-eight-oh-three-one-f/"><u>Navigating Through Email App Chaos: Solving the Mystery of Zero X Eight Oh Three One F</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-organization-utilizing-windows-11s-minimalist-design/"><u>Optimal Organization: Utilizing Windows 11'S Minimalist Design</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-engaging-windows-repair-feature/"><u>Quick Fixes: Engaging Windows' Repair Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-solution-to-windows-error-0xc0000001/"><u>The Ultimate Solution to Windows Error 0xC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-access-denied-on-windows-devices/"><u>Troubleshooting 'Access Denied' On Windows Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-online-movie-creation-made-easy-top-9-free-tools-for-2024/"><u>Updated Online Movie Creation Made Easy Top 9 Free Tools for 2024</u></a></li>
+</ul></div>
 

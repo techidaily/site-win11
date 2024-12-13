@@ -1,7 +1,7 @@
 ---
 title: Regain Your Account in Microsoft Store, Now
-date: 2024-12-03T10:07:16.173Z
-updated: 2024-12-07T07:20:41.629Z
+date: 2024-12-12T10:24:03.966Z
+updated: 2024-12-13T11:12:03.114Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,6 @@ To run the Windows Store apps troubleshooter, use these steps:
 3. Click the**Run** button next to**Windows Store Apps** .  
 ![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-store-apps-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After running the troubleshooter, try signing into the Microsoft Store again.
 
 ## 3\. Clear Microsoft Store Cache
@@ -81,11 +77,7 @@ To repair the Microsoft Store app on Windows:
 ![Enable Automatic Date and Time on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-automatic-date-and-time-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Make Sure Microsoft Store Install Service Is Running
@@ -102,24 +94,32 @@ To configure the Microsoft Store Install Service on Windows:
 6. Hit**Apply** followed by**OK** to save the changes.  
 ![Configure Microsoft Store Install Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/configure-microsoft-store-install-service-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Temporarily Disable Your VPN
 
  Although a VPN connection protects your privacy, issues with your VPN servers can sometimes prevent apps like Microsoft Store from working correctly. When this happens, you will likely encounter sign-in errors in the Microsoft Store. You can temporarily disable your VPN connection to see if that helps.
 
 ![Someone typing on a laptop sitting on a coffee table. The laptop is connecting to a VPN.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-connecting-to-a-vpn.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have successfully signed into Microsoft Store, you can choose to re-enable your VPN connection if you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Re-Register Microsoft Store via PowerShell
 
  Another thing you can do to resolve this particular issue is re-register the Microsoft Store on your system. This will help you eliminate corrupt app data and restore Microsoft Store to its working state. You can refer to our guide to find detailed instructions on[how to re-register Microsoft Store apps on Windows](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall Microsoft Store
@@ -127,7 +127,7 @@ To configure the Microsoft Store Install Service on Windows:
  If re-registering Microsoft Store does not help, you can consider uninstalling it from your system and installing it again. This should give the app a clean start and resolve any issues that may have been preventing you from signing in. If you need help with this, check our guide on[how to remove and reinstall Microsoft Store on Windows](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Install Windows Updates
@@ -157,24 +157,20 @@ To configure the Microsoft Store Install Service on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-must-play-openworld-experiences-for-2024/"><u>[New] Must-Play Openworld Experiences for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ipv-file-transformation-instagram-videos-in-mp4/"><u>[Updated] 2024 Approved The Ultimate Guide to IPV File Transformation Instagram Videos in MP4</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-optimal-placement-boosting-youtube-video-visibility-for-2024/"><u>[Updated] Optimal Placement Boosting YouTube Video Visibility for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-smoothly-add-apods-episodes-on-devices/"><u>2024 Approved How to Smoothly Add APods Episodes on Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-audacitys-volume-dissipation-features/"><u>2024 Approved Navigating Audacity's Volume Dissipation Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-methods-to-fire-up-win-11-rdc/"><u>Cutting-Edge Methods to Fire Up Win 11 RDC</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-memory-test-failed-errors-in-windows/"><u>Fixing 'Memory Test Failed' Errors in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-meizu-21-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Meizu 21 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-steganography-hiding-zip-in-photos-windows-11/"><u>Mastering Steganography: Hiding ZIP in Photos (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-cant-access-the-source-problem-in-windows-os/"><u>Overcoming Can't Access the Source Problem in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/ready-set-go-virtualbox-on-win-starts-with-deps-checks/"><u>Ready, Set, Go! VirtualBox on Win Starts With Deps Checks</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-runtime-errors-in-malwarebytes-on-windows-os/"><u>Resolving Runtime Errors in Malwarebytes on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-unreachable-status-from-nvidia-on-win-pcs/"><u>Resolving Unreachable Status From NVIDIA on Win PCs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/er-selection-affordable-site-purchases-for-beginners/"><u>Starter Selection Affordable Site Purchases for Beginners</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-the-process-setting-up-msoffice-on-windows-11/"><u>Streamlining the Process: Setting Up MSOffice on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-m34-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy M34</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-cab-file-mystique-its-structure-and-implementation-methods/"><u>Unraveling Windows Cab File Mystique: Its Structure & Implementation Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-allure-of-apples-latest-creation-the-high-end-ipad-pro-m4/"><u>Unveiling the Allure of Apple's Latest Creation: The High-End iPad Pro (M4)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-bite-size-beats-characters-in-soundscape/"><u>[New] 2024 Approved Bite-Size Beats Characters in Soundscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tools-and-gear-for-crafting-vlogs/"><u>[Updated] Tools & Gear for Crafting Vlogs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/changing-user-passwords-for-others-in-microsoft-windows-a-comprehensive-tutorial/"><u>Changing User Passwords for Others in Microsoft Windows - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/chromium-device-live-screen-recorder/"><u>Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-managing-gpt-conversations-via-structured-directories/"><u>Efficiently Managing GPT Conversations via Structured Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-your-way-through-windows-11-refresh/"><u>Guiding Your Way Through Windows 11 Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-sound-device-errors-with-audacity-windows/"><u>How to Resolve Sound Device Errors with Audacity (Windows)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oneplus-ace-2-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on OnePlus Ace 2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/post-bsod-the-quest-for-system-logs-on-windows/"><u>Post-BSOD: The Quest for System Logs on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-old-images-with-ease-stellar-repair-for-photos-version-8-windows-edition/"><u>Revive Your Old Images with Ease - Stellar Repair for Photos, Version 8 Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-success-with-these-powerhouses-of-win-11-productivity/"><u>Skyrocketing Success with These Powerhouses of Win 11 Productivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-an-inoperative-lone-airpod/"><u>Solving the Mystery of an Inoperative Lone AirPod</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-unwritable-file-problems-on-windows-11-platform/"><u>Steps to Fix Unwritable File Problems on Windows 11 Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-winmedia-errors/"><u>Strategies for Addressing WinMedia Errors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-go-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark Go (2023) Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

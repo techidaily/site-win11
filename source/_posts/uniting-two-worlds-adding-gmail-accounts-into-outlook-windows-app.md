@@ -1,7 +1,7 @@
 ---
 title: "Uniting Two Worlds: Adding Gmail Accounts Into Outlook Windows App"
-date: 2024-12-04T02:45:01.357Z
-updated: 2024-12-07T12:15:48.548Z
+date: 2024-12-09T05:34:47.028Z
+updated: 2024-12-12T22:43:58.972Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Outlook for Windows Preview App
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Gmail Account to Outlook
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
@@ -67,17 +67,18 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
 ![outlook prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-prompt.jpg)
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -99,24 +100,22 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-cutting-edge-essential-editing-tips-for-youtube-experts/"><u>[New] In 2024, The Cutting Edge Essential Editing Tips for YouTube Experts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-cracking-the-code-of-true-instagram-photos/"><u>[Updated] In 2024, Cracking the Code of True Instagram Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-best-cams-for-professional-streaming/"><u>[Updated] In 2024, The Ultimate Guide Best Cams for Professional Streaming</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-yi-drone-in-4k-a-filmmakers-dream/"><u>[Updated] In 2024, Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-insights-into-snipping-those-facebook-live-moments/"><u>2024 Approved 2023 Insights Into Snipping Those Facebook Live Moments</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211309840-9781990872891-6k665lit5yy755qe56er5a2m5pys5rqq/"><u>论中医的科学本源 | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/contrasting-methods-for-downloading-windows-from-cloud-vs-local-media/"><u>Contrasting Methods for Downloading Windows From Cloud Vs. Local Media</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-to-restore-usb-port-functionality-on-hp-computers/"><u>Effective Strategies to Restore USB Port Functionality on HP Computers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-ace-2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On OnePlus Ace 2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-0x0000011b-windows-crash-issue/"><u>Resolving 0X0000011B Windows Crash Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-vintage-tech-why-not-a-non-windows-route/"><u>Reviving Vintage Tech? Why Not a Non-Windows Route</u></a></li>
-<li><a href="https://win11.techidaily.com/secrets-unveiled-6-ways-to-extract-and-duplicate-windows-11-paths/"><u>Secrets Unveiled: 6 Ways to Extract & Duplicate Windows 11 Paths</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-spotify-from-launching-without-command/"><u>Stopping Spotify From Launching without Command</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-pop-7-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Pop 7 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-network-available-in-windows/"><u>Troubleshooting: No Network Available in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-procedure-for-installing-new-os-windows-11-and-vmware/"><u>Unveiling the Procedure for Installing New OS - Windows 11 & VMware</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-process-of-running-sfc-in-windows/"><u>Unveiling the Process of Running SFC in Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-diving-deep-into-the-world-of-igtv-a-comprehensive-guide-for-2024/"><u>[New] Diving Deep Into the World of IGTV A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-eco-conscious-cinematography-setups-guide/"><u>[New] Ultimate Eco-Conscious Cinematography Setups Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-big-sur-essentials-system-and-hardware-upgrade-for-2024/"><u>[Updated] Big Sur Essentials System and Hardware Upgrade for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-out-unwanted-gaming-suggestions-in-win11/"><u>Cut Out Unwanted Gaming Suggestions in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-blending-of-win-product-key-and-microsoft-account/"><u>Effortless Blending of WIN Product Key & MICROSOFT ACCOUNT</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-renew-online-subscriptions-on-ps5/"><u>How to Renew Online Subscriptions on PS5</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-component-services-configuration-tools/"><u>Introduction to Component Services Configuration Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-voice-modifying-apps-magical-calls-and-more-for-2024/"><u>Leading Voice-Modifying Apps Magical Calls & More for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-proficiency-beyond-grammar/"><u>Linguistic Proficiency Beyond Grammar</u></a></li>
+<li><a href="https://win11.techidaily.com/merry-merriment-gifting-windows-store-items-on-xmas/"><u>Merry Merriment: Gifting Windows Store Items on Xmas</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-single-board-computers-for-windows-lovers/"><u>Prime Single-Board Computers for Windows Lovers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-vivo-s17-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Vivo S17 Pro has been deleted.</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-your-account-in-microsoft-store-now/"><u>Regain Your Account in Microsoft Store, Now</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-winstall-and-application-groups-in-windows-11/"><u>The Insider’s Guide to Winstall and Application Groups in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-jp2-photos-to-jpeg-without-costs-using-our-simple-web-tool/"><u>Transform Your JP2 Photos to JPEG Without Costs Using Our Simple Web Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-top-security-programs-for-privacy-150-chars/"><u>Unveiling Window's Top Security Programs for Privacy (150 Chars)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pcs-wireless-adapter-realtek-rtl8188cu-driver-for-windows-versions/"><u>Update Your PC's Wireless Adapter: Realtek RTL8188CU Driver for Windows Versions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overhauling Setup Glitches: A Guide to Finding Lost Configs"
-date: 2024-12-05T17:55:13.145Z
-updated: 2024-12-06T18:16:22.023Z
+date: 2024-12-12T08:06:03.198Z
+updated: 2024-12-13T03:31:24.238Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run GeForce Experience With Administrative Rights
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-as-administrator-option4.jpg)
 
  If that works, set GeForce Experience to always run with elevated user rights. Then you won’t need to select the **Run as administrator** option all the time. Our guide for [always running apps as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set software packages to start with elevated permissions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove Scan Locations
 
@@ -62,13 +58,14 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 `C:\Users\<user folder>\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience`  
 ![The CefCache folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/cefcache-folder.jpg)
 3. Right-click the **CefCache** folder to select **Delete**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-button.jpg)
 4. Then launch the GeForce Experience software.
 5. Input your GeForce Experience account details again and click **Log In**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restore Default NVIDIA 3D Settings
 
@@ -79,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 3. Click **Restore** on the **Global Settings** tab.  
 ![The Restore button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restore-button.jpg)
 4. Select **Yes** to reset the settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam User Data
 
@@ -91,19 +92,23 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 3. Right-click a subfolder that doesn’t have any numbers in its name within the userdata folder and select **Delete**.
 4. Repeat the previous step to delete all subfolders in userdata with non-numeric titles like anonymous, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Perform Some Generic Windows Fixes
 
  There are a few Windows-based fixes you can try to get rid of this error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Erase Temporary Windows Data
 
  The Temp folder stores temporary files. GeForce Experience users confirm deleting data in that Temp folder can fix the “Unable to retrieve settings” issue. So, try eradicating data in that folder with one of the methods in our guide to [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/)[in Windows 11](http://www.makeuseof.com/windows-11-delete-temporary-files/).
 
 ![disk-cleanup-tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disk-cleanup-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Latest NVIDIA Driver for Your GPU
 
@@ -113,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-driver-downloads.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disable Third-Party Antivirus Tools
 
  If you’ve got third-party antivirus software installed on your Windows PC, that might be blocking GeForce Experience from accessing certain folders and optimizing settings. BitDefender Total Security is one antivirus utility widely confirmed to cause this issue. Those users who've confirmed that needed to disable BitDefender to resolve the issue.
@@ -120,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
  So, try disabling BitDefender or any other third-party antivirus software to see if that makes a difference. You can disable real-time scanning by right-clicking an antivirus tool in the Windows system tray and selecting to disable or turn it off from the context menu. Select to temporarily disable the antivirus scanning for about an hour or so and then open GeForce Experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall GeForce Experience
@@ -129,15 +138,7 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart the PC before reinstalling GeForce Experience. Then head over to this [GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/download/) webpage and click **Download Now**. Open the folder your browser usually downloads files to and double-click the GeForce Experience setup wizard. Go through the installer’s steps to reinstall the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize Your Games With GeForce Experience
 
@@ -147,19 +148,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
  Consequently, users can’t select the Optimize option for games that show the “unable to retrieve settings” error. That’s a bit annoying for players seeking optimal gaming performance. This is how you can fix GeForce Experience’s “unable to retrieve settings” error within Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-explore-the-hd-landscape-youtube-twitters-and-more-for-2024/"><u>[New] Explore the HD Landscape YouTube, Twitters, and More for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-apple-watch-series-se-expected-update-discover-the-latest-features-and-enhancements-coming-your-way/"><u>Affordable Apple Watch Series SE Expected Update: Discover the Latest Features & Enhancements Coming Your Way</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-no-driver-detected-error-during-system-update/"><u>Correcting No Driver Detected Error During System Update</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-loadlibrary-failure-code-87/"><u>How to Rectify LoadLibrary Failure Code 87</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-efficiently-using-windows-11s-taskbar-search-feature/"><u>Navigate Efficiently: Using Windows 11'S Taskbar Search Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-windows-experience-key-cmd-commands-for-efficiency/"><u>Optimize Windows Experience: Key CMD Commands for Efficiency</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-seamless-msi-graphics-driver-update-on-windows-117/"><u>Step-by-Step Tutorial for Seamless MSI Graphics Driver Update on Windows 11/7</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-product-analysis-into-income-via-video-platforms-for-2024/"><u>Turning Product Analysis Into Income via Video Platforms for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -167,3 +155,24 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-breakdown-for-wm6-setup-for-2024/"><u>[Updated] Essential Breakdown for WM6 Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2023-play-facebook-videos-on-tv-for-2024/"><u>2023 | Play Facebook Videos on TV for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-state-of-the-vr-industry/"><u>2024 Approved State of the VR Industry</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-trigger-windows-update-refresh/"><u>Effective Techniques to Trigger Windows Update Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-dodge-xbox-game-pass-fatal-error-code-0/"><u>Expert Tips to Dodge Xbox Game Pass Fatal Error Code 0</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175652746-heavenly-computer-components-await-embrace-the-pleasant-surprise-of-flower-scented-thermal-paste/"><u>Heavenly Computer Components Await: Embrace the Pleasant Surprise of Flower-Scented Thermal Paste</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/innovations-in-connectivity-the-ultimate-guide-to-w11-rdc/"><u>Innovations in Connectivity: The Ultimate Guide to W11 RDC</u></a></li>
+<li><a href="https://win11.techidaily.com/lower-heat-output-in-overheating-w11-computers/"><u>Lower Heat Output in Overheating W11 Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-res-display-scale-glitches-in-windows/"><u>Overcoming High-Res Display Scale Glitches in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-13-strategies-for-system-recovery/"><u>Reviving Windows: 13 Strategies for System Recovery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-blocking-intrusive-prompts-and-endorsements-in-windows-11-environment/"><u>Step-by-Step Tutorial: Blocking Intrusive Prompts and Endorsements in Windows 11 Environment</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-best-way-to-learn-a-foreign-language-in-the-21st-century/"><u>The Best Way to Learn a Foreign Language in the 21St Century</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-void-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair Void Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-6-pros-that-make-win11-excel/"><u>Unveiling the 6 Pros That Make Win11 Excel</u></a></li>
+</ul></div>
+

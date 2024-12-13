@@ -1,7 +1,7 @@
 ---
 title: Tricks to Tackle Frozen Power Settings on Windows 11
-date: 2024-12-04T17:53:05.449Z
-updated: 2024-12-07T12:32:12.836Z
+date: 2024-12-07T08:18:58.077Z
+updated: 2024-12-13T06:18:53.063Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 * A corruption issue within the system is causing the problem. The best way to rule out such problems is by running the Power troubleshooter built into Windows.
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
 
@@ -47,26 +55,19 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
-![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
-6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
+6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -81,12 +82,13 @@ Here is how you can run the troubleshooter:
 3. Click on**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
-![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
-5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
+5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 ## 3\. Reset the Power Settings
 
@@ -102,10 +104,6 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -119,6 +117,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -149,22 +151,20 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-taking-charge-stop-instagram-suggested-posts/"><u>[New] 2024 Approved Taking Charge Stop Instagram Suggested Posts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-duel-of-apps-comparative-analysis-of-tiktok-and-snapchat-for-2024/"><u>[New] The Duel of Apps Comparative Analysis of TikTok and Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-audience-favorites-3-powerful-tales/"><u>[Updated] 2024 Approved Unlock Audience Favorites 3 Powerful Tales</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-breakthrough-tactics-for-optimal-iptv-screening-for-2024/"><u>[Updated] Breakthrough Tactics for Optimal IPTV Screening for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-elevating-media-output-xml-to-text-to-speech-srt-format/"><u>[Updated] In 2024, Elevating Media Output XML to Text-To-Speech (SRT) Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-hardware-picks-curated-by-tomn-tech-wisdom/"><u>Discover Top Hardware Picks Curated by Tom'n Tech Wisdom</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-win-software-alternatives-to-procreate/"><u>Excellent Win Software Alternatives To Procreate</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-compatibility-issues-tool-accessible-via-clipboard-menu/"><u>Fix Compatibility Issues: Tool Accessible Via Clipboard Menu</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y77t Phone without PIN</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-art-of-glamour-videos/"><u>In 2024, The Art of Glamour Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-double-click-opener-techniques-for-w11w10-folders/"><u>Mastering Double-Click Opener Techniques for W11/W10 Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-menus-eliminate-show-more-from-win-11/"><u>Mastering Menus: Eliminate Show More From Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/removed-in-the-new-wave-windows-characteristics/"><u>Removed in the New Wave: Windows Characteristics</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-to-a-fresh-start-new-username-on-windows-11/"><u>Step-by-Step to a Fresh Start: New UserName on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-shades-a-guide-to-paints-dark-mode/"><u>Switching Shades: A Guide to Paint's Dark Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/track-down-windows-shot-files-home/"><u>Track Down Windows Shot Files' Home</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-effortless-video-segmentation-techniques/"><u>[New] 2024 Approved Effortless Video Segmentation Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-picture-perfect-displays-choosing-the-best-photo-editing-screens-2024/"><u>[Updated] Picture Perfect Displays Choosing the Best Photo Editing Screens, 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-prompting-tricks-for-superior-results-from-chatgpt/"><u>Advanced Prompting Tricks for Superior Results From ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-unique-features-in-windows-11-god-mode/"><u>Explore: Unique Features in Windows 11 God Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-muted-speaker-issue-with-windows-10/"><u>Fixing Muted Speaker Issue with Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grounded-gaming-woes-master-the-art-of-troubleshooting-and-enjoy-a-seamless-pc-playtime/"><u>Grounded Gaming Woes? Master the Art of Troubleshooting and Enjoy a Seamless PC Playtime</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-rectifying-resource-allocation-problems-on-windoes-153-chars/"><u>Guidelines for Rectifying Resource Allocation Problems on Windoes (153 Chars)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-stuttering-issues-in-valheim-for-a-smooth-gaming-experience/"><u>How to Resolve Stuttering Issues in Valheim for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-youtubes-latest-revenue-guidelines/"><u>In 2024, Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-figma-erase-background-elements-seamlessly/"><u>In 2024, Navigating Figma Erase Background Elements Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-qbittorrent-status-quo-fixes-for-windows-users/"><u>Mastering qBittorrent Status Quo Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/powerpoint-print-predicaments-and-how-to-fix-them-in-windows/"><u>PowerPoint Print Predicaments and How to Fix Them in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-rescue-of-powerpoint-problems-6-instantaneous-cures-win11/"><u>Rapid Rescue of PowerPoint Problems: 6 Instantaneous Cures Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-for-missing-d3dx9aberrationdll-error-fixes/"><u>The Ultimate Solution for Missing d3dx9_aberration.dll Error Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-tasks-unleash-potential-with-flow-launcher/"><u>Transform Your Tasks: Unleash Potential with Flow Launcher</u></a></li>
 </ul></div>
 

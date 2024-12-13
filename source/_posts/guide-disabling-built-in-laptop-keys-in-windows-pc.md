@@ -1,7 +1,7 @@
 ---
 title: "Guide: Disabling Built-In Laptop Keys in Windows PC"
-date: 2024-12-03T21:08:29.929Z
-updated: 2024-12-07T02:43:24.621Z
+date: 2024-12-12T02:07:43.063Z
+updated: 2024-12-13T11:03:45.071Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find Your Laptop Keyboard in Device Manager
 
@@ -56,16 +60,12 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
  That said, this is a temporary solution. As soon as you restart your system, Windows will look for the connected but unrecognized devices and install the necessary drivers to make them functional.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Your Laptop Keyboard Permanently
 
 ![disable ps 2 port 18042prt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-ps-2-port-18042prt-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to disable your laptop keyboard permanently, you can disable your laptop’s built-in keyboard driver PS/2 i8042prt service using the Command Prompt. We'll use the sc command-line utility to configure the service and set its start parameter to disabled.
 
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  Once you see the success message, restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable the Built-in Keyboard Using an Incompatible Driver
 
  Another quirky solution to disable a built-in keyboard is to install an incompatible driver for the input device. Here's how to do it.
@@ -94,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 ![Update the Relevant Keyboard Driver in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-update-the-relevant-keyboard-driver-in-windows-device-manager.jpg)
 3. Select **Browse my computer for drivers**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 4. Next, select **Let me pick from a list of available drivers on my computer**.  
 ![update driver keyboard pick from list of available drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-keyboard-pick-from-list-of-available-drivers-device-manager.jpg)
@@ -105,6 +105,11 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 6. Select a random manufacturer under the **Manufacturer** column.  
 ![install incompatible keyboard driver windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-incompatible-keyboard-driver0windows.jpg)
 7. Click **Next**. Click **Yes** if an **Update Driver Warning** dialog appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Once installed, close Device Manager and reboot your computer.
 
  After the restart, your laptop keyboard will stop working. If you need to install the correct driver again to enable the keyboard, right-click on the keyboard device and select **Update driver**. Next, select **Search automatically for drivers**. Windows will look for a compatible driver and install it.
@@ -112,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, select **Browse my computer for drivers** in the Update Drivers dialogue. Next, select **Let me pick from a list of available drivers on my computer**. Make sure the **Show compatible hardware** option is enabled. Select an **HID Keyboard Device** driver from the list and click **Next**.
@@ -120,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 ![install compatible hardware driver keyboard device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-compatible-hardware-driver-keyboard-device-manager.jpg)
 
  Wait for the driver to install. Once done, reboot your computer, and the keyboard will start working again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable Your Laptop Keyboard Permanently on Windows
 
@@ -135,27 +136,6 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
 
  However, since the keyboard is an integral part of your portable computer, disabling its primary input method is a little tricky. Here, we show you how to temporarily and permanently disable the laptop keyboard on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unmatched-download-experience-with-our-top-tools-list/"><u>[Updated] 2024 Approved Unmatched Download Experience with Our Top Tools List</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>2024 Approved Avoiding Pitfalls Common Mistakes in Instagram Filmmaking</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>2024 Approved Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-azure-speech-to-text-implementation/"><u>A Comprehensive Guide to Azure Speech-to-Text Implementation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play/"><u>Become an Audio Concealer Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-win-11s-context-menu-exclude-more-options/"><u>Customizing Win 11'S Context Menu: Exclude More Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/growth-excellence-in-valheim-optimal-seeds-unveiled-for-2024/"><u>Growth Excellence in Valheim Optimal Seeds Unveiled for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-logitech-c920-webcam-software-on-windows-1011/"><u>Installation Guide: Logitech C920 Webcam Software on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/interpreting-ram-failure-signals-in-windows-crashes/"><u>Interpreting RAM Failure Signals in Windows Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-vision-support-how-ai-bots-are-revolutionizing-mobility-for-the-blind-according-to-zdnet/"><u>Next-Gen Vision Support: How AI Bots Are Revolutionizing Mobility for the Blind, According to ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/organized-notekeeping-raising-sticky-notes-for-optimal-os-use/"><u>Organized Notekeeping: Raising Sticky Notes for Optimal OS Use</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/premier-apps-fueling-fluency-journey/"><u>Premier Apps Fueling Fluency Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/quickly-infuse-your-desktop-menu-with-portables/"><u>Quickly Infuse Your Desktop Menu with Portables</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-windows-default-battery-usage-protocol/"><u>Restoring Window's Default Battery Usage Protocol</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-heic-to-jpeg-conversion-for-windows-users/"><u>Simplified Heic to JPEG Conversion for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-automating-your-windows-11-app-setup-with-winstall/"><u>The Ultimate Guide to Automating Your Windows 11 App Setup with Winstall</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-iscsi-the-basics-explained/"><u>Understanding Windows iSCSI: The Basics Explained</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +143,25 @@ thumbnail: https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-effective-youtube-banners/"><u>[New] 2024 Approved The Ultimate Guide to Effective YouTube Banners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-sound-capture-on-windows-10/"><u>[New] Unlocking Sound Capture on Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cutting-edge-tech-mastering-dslr-macpc-for-social-media-broadcasts/"><u>[Updated] In 2024, Cutting Edge Tech Mastering DSLR, Mac/PC for Social Media Broadcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>2024 Approved LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-both-contenders-a-detailed-look-at-apple-watch-s9-vs-fitbit-charge-6/"><u>Analyzing Both Contenders: A Detailed Look at Apple Watch S9 vs Fitbit Charge 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-gt-neo-5-se-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme GT Neo 5 SE to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-dell-dell-d3100-printer-drivers-with-one-click/"><u>Download and Update DELL Dell D3100 Printer Drivers with One Click</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-into-the-future-audio-system-rejuvenation-for-windows-users/"><u>Drive Into the Future: Audio System Rejuvenation for Windows Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>In 2024, Essential Insights for Crafting YouTube Intros A+B Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nubia-red-magic-9-proplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nubia Red Magic 9 Pro+ Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-exit-code-solutions-for-minecraft-players/"><u>Mastering Exit Code Solutions for Minecraft Players</u></a></li>
+<li><a href="https://win11.techidaily.com/minimizing-made-simple-using-hotkeys-for-taskbar-efficiency/"><u>Minimizing Made Simple: Using Hotkeys for Taskbar Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/secrets-of-affordable-windows-11-licenses/"><u>Secrets of Affordable Windows 11 Licenses</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-tasks-optimization-tips-for-winters/"><u>Streamline Windows Tasks: Optimization Tips for Winters</u></a></li>
+<li><a href="https://win11.techidaily.com/tactical-steps-for-efficiently-converting-docx-files-to-pdfs-in-windows/"><u>Tactical Steps for Efficiently Converting DOCX Files to PDFs in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-of-multitasking-understanding-the-need-for-16gb-windows-memory/"><u>The Power of Multitasking: Understanding the Need for 16GB Windows Memory</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-apps-to-transform-windows-clock-displays-into-interactive-screensavers/"><u>Top 5 Apps to Transform Windows Clock Displays Into Interactive Screensavers</u></a></li>
+</ul></div>
+

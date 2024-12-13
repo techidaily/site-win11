@@ -1,7 +1,7 @@
 ---
 title: Revive Sluggish Excel Operations in a Windows Environment
-date: 2024-11-30T04:06:55.836Z
-updated: 2024-12-06T17:47:16.836Z
+date: 2024-12-07T12:36:54.635Z
+updated: 2024-12-13T11:39:53.292Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Excel in Safe Mode
 
  One of the most common reasons why Excel may run slowly on your Windows computer is if one of the add-ins is disrupting app processes. To investigate this possibility, you can run Excel in safe mode.
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 6. Uncheck all the boxes to disable add-ins and click **OK**.  
 ![Disable Excel Add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-excel-add-ins.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
 ## 2\. Optimize Excel for Compatibility
@@ -57,14 +57,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 4. Click **OK** to save the changes.  
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Graphics Acceleration
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 3. Under the **Display** section, tick the **Disable hardware graphics acceleration** checkbox.
 4. Click **OK** and restart Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable Manual Calculation
 
  When you make changes to a cell, Excel recalculates all formulas and functions. This process can be resource-intensive and result in the app lagging when you input or edit data.
@@ -87,11 +87,7 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reduce the Size of Your Excel File
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Microsoft Excel
 
  Are you using an outdated version of Excel? If so, you may be missing out on new features and performance enhancements. Try updating Excel on your PC and see if that improves its performance on your Windows computer.
@@ -112,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -133,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the above tips help, you can try some generic fixes to speed up Excel’s performance on Windows.
@@ -147,23 +147,6 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-oculus-illness-prevention-guide/"><u>[Updated] 2024 Approved Oculus Illness Prevention Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-secrets-attracting-youtube-affiliates-with-minimal-channel-size/"><u>[Updated] Secrets Attracting YouTube Affiliates with Minimal Channel Size</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-why-switching-to-new-windows-outlook-is-wise/"><u>Discover Why Switching to New Windows' Outlook Is Wise</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-overcoming-the-driverpowerstatefailure-problem/"><u>Effective Remedies for Overcoming the DRIVER_POWER_STATE_FAILURE Problem</u></a></li>
-<li><a href="https://facebook.techidaily.com/global-spots-off-limits-no-facebook-access-here/"><u>Global Spots Off-Limits: No Facebook Access Here</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-audio-service-requiring-a-restart-on-boot/"><u>How to Fix the Windows Audio Service Requiring a Restart on Boot</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-these-7-zero-price-volume-expansion-tools-on-windows/"><u>Leverage These 7 Zero-Price Volume Expansion Tools on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-hard-drive-capacities-leveraging-windows-diskusage-command-skills/"><u>Navigating Hard Drive Capacities: Leveraging Windows' DiskUsage Command Skills</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-best-practices-for-eradicating-sound-from-windows-based-video-projects/"><u>New Best Practices for Eradicating Sound From Windows-Based Video Projects</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-chromes-responsiveness-on-desktop/"><u>Restoring Chrome's Responsiveness on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-bluetooth-links-in-win-11-using-these-9-tricks/"><u>Revive Bluetooth Links in Win 11 Using These 9 Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transforma-tu-archivo-avi-gratuito-a-mp4-facilmente-usando-el-servicio-en-linea-movavi-una-solucion-perfecta/"><u>Transforma Tu Archivo AVI Gratuito a MP4 Fácilmente Usando El Servicio en Línea Movavi: Una Solución Perfecta</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,3 +154,24 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-best-practices-in-winning-tv-recording-with-software-for-2024/"><u>[New] Best Practices in Winning TV Recording with Software for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ephemeral-insights-into-fb-episodes/"><u>[Updated] 2024 Approved Ephemeral Insights Into FB Episodes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photographys-top-10-digital-notebooks-for-smartphones/"><u>[Updated] In 2024, Photography's Top 10 Digital Notebooks for Smartphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-video-editing-made-simple-flip-and-rotate-footage-using-handbrake/"><u>Effortless Video Editing Made Simple: Flip and Rotate Footage Using Handbrake</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-impact-in-snapchat-spotlight/"><u>In 2024, Maximizing Impact in Snapchat Spotlight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>In 2024, Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-scoop-from-toms-hardware-experts/"><u>Mastering Technology: Inside Scoop From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-logins-with-hidden-screens/"><u>Mastering Windows 11 Logins with Hidden Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-6-premier-performance-trackers-for-pcs/"><u>Navigate Through 6 Premier Performance Trackers for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-the-common-windows-update-failures/"><u>Rectifying the Common Windows Update Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-driver-not-starting-issue-on-windows-11-os/"><u>Resolving Driver Not Starting Issue on Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-windows-11-cleanup-say-goodbye-to-junk-software/"><u>Tailored Windows 11 Cleanup: Say Goodbye to Junk Software</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-immutable-windows-energy-modes/"><u>Tips for Dealing with Immutable Windows Energy Modes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/toutes-les-techniques-pour-creer-une-copie-exacte-du-disque-dur-sous-windows-11-guide-complet/"><u>Toutes Les Techniques Pour Créer Une Copie Exacte Du Disque Dur Sous Windows 11: Guide Complet</u></a></li>
+<li><a href="https://win11.techidaily.com/uncompromised-sound-quality-best-free-windows-editors/"><u>Uncompromised Sound Quality: Best Free Windows Editors</u></a></li>
+</ul></div>
+

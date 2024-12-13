@@ -1,7 +1,7 @@
 ---
 title: "Mastery in WSL 2: Enhancing the Power of Docker Tools"
-date: 2024-12-01T07:44:15.872Z
-updated: 2024-12-07T06:54:33.116Z
+date: 2024-12-11T16:39:08.210Z
+updated: 2024-12-13T07:10:16.088Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![newly built image on docker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/newly-built-image-on-docker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Subsystem for Linux (WSL) is a valuable feature that allows Windows users to run Linux distributions like Ubuntu and Kali without setting up a virtual machine or dual-boot.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ![wsl extension in VS Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you integrate VS Code into the Windows Subsystem for Linux, you can take advantage of its specialized Linux kernel to enhance cross-platform compatibility. You can further streamline your workflow by utilizing the integrated terminal within VS Code with WSL 2.
@@ -72,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  To[set up VS Code with WSL 2 on Windows](https://www.makeuseof.com/how-to-set-up-vs-code-with-wsl-2-windows-10-11/) , you can configure the**WSL** extension from the VS Code Marketplace and get things going.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the WSL 2 File System
 
  To properly run your Docker containers, it's vital that you rely on the file system of your WSL 2 distro and not heavily depend on the native Windows file system. Throughout my experience of working with Docker containers on WSL 2, I’ve discovered it’s better to store your project files within WSL.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use Native Linux Scripts
 
@@ -99,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
 `export DOCKER_BUILDKIT=1.`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Set Up Resource Limits
 
  When you integrate the WSL 2 backend with Docker Desktop, you give Docker access to all your CPU resources. Doing so helps improve performance for containers that are resource heavy.
@@ -111,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  Fortunately, you can configure Docker containers to limit the system memory and CPU usage. You should always be careful while configuring the system memory, even a minor mistake can have significant consequences. You can refer to the[official Docker documentation](https://docs.docker.com/config/containers/resource%5Fconstraints/) for a more detailed guide on limiting the memory and CPU resources consumed by a Docker container.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Recover Cached Memory
 
  If you’re running a Docker container in WSL 2, its memory should be freed once the container terminates. Unfortunately, the operating system kernel tends to maintain data in the cache; this means that the effective memory reclaimed by the WSL 2 won’t be sufficient.
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  You can recover all of the memory that is unnecessarily being utilized as a cache by running the following command via root in WSL 2:
 
 `echo 1 > /proc/sys/vm/drop_caches`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Smarter With WSL 2
 
@@ -138,17 +138,16 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[New] 2024 Approved Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-screen-captures-on-mi-11-lite/"><u>[New] In 2024, Streamlining Screen Captures on Mi 11 Lite</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unlocking-potential-through-virtualization/"><u>[New] Unlocking Potential Through Virtualization</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-15-high-performing-instagram-content-extractors/"><u>2024 Approved 15 High-Performing Instagram Content Extractors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-on-pandora-tips-to-resolve-avatars-fps-and-stuttering-problems/"><u>Boost Your Gameplay on 'Pandora': Tips to Resolve Avatar's FPS and Stuttering Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-deep-into-fcs-world-with-zero-cost-ocm/"><u>Dive Deep Into FC's World with Zero-Cost OCM</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-on-recalibrating-windows-energy-schemes/"><u>Guide on Recalibrating WIndows Energy Schemes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-text-enhancers-for-after-effects/"><u>In 2024, Top-Ranked Text Enhancers for After Effects</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-audio-device-irq-balancing/"><u>Mastering Audio Device IRQ Balancing</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-effective-techniques-to-secure-your-favorite-audios-from-youtube/"><u>Quick & Effective Techniques to Secure Your Favorite Audios From YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fix-in-game-voice-chat-issues-in-valorant/"><u>Quick Guide to Fix In-Game Voice Chat Issues in Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-11-amd-graphics-driver-freshness/"><u>Streamlining Windows 11 AMD Graphics Driver Freshness</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhancing-imagery-add-filters-to-videos-on-devices/"><u>[New] Enhancing Imagery Add Filters to Videos on Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-live-stream-tech-showdown-assessing-xsplit-and-obs-features/"><u>[Updated] In 2024, Live Stream Tech Showdown Assessing XSplit and OBS Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/behind-the-scenes-with-viral-image-memes-and-stories/"><u>Behind the Scenes with Viral Image Memes & Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/facetune-photos-app-complete-review-and-guide/"><u>Facetune Photos App Complete Review and Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-in-using-langchain-large-language-models-a-novices-handbook/"><u>First Steps in Using LangChain Large Language Models: A Novice’s Handbook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/master-class-adding-podcasts-to-instagram-features-for-2024/"><u>Master Class Adding Podcasts to Instagram Features for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-failed-geforce-scans-with-simple-steps-on-pc/"><u>Rectify Failed GeForce Scans with Simple Steps on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-windows-ssd-performance-embrace-ssd-fresh/"><u>Swift Windows SSD Performance - Embrace SSD Fresh</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ideo-sharing-triad-vimeo-vs-youtube-and-dailymotion-showdown/"><u>The Video Sharing Triad Vimeo vs YouTube & Dailymotion Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-installed-hard-drive-errors-in-windows-11/"><u>Troubleshooting Non-Installed Hard Drive Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-photoshop-on-ws11-and-11-systems/"><u>Troubleshooting Unresponsive Photoshop on WS11 & 11 Systems</u></a></li>
 </ul></div>
 

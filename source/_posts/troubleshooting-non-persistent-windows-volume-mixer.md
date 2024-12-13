@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Persistent Windows Volume Mixer
-date: 2024-09-05T08:27:40.031Z
-updated: 2024-09-06T08:27:40.031Z
+date: 2024-12-09T00:08:20.905Z
+updated: 2024-12-13T12:20:45.999Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: WinVolumeMixerIssue,FixVolumeControlError,DisableWindowsAudio,Persiste
 thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c041837cad5f3c0f9163df97.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Non-Persistent Windows Volume Mixer
 
  Whenever you make changes to the volume settings in Windows Volume Mixer, it might not always save the settings. This implies that no matter how many adjustments you make, you have to do them again.
 
  In this article, we will discuss how to troubleshoot the problem and get your Windows Volume Mixer back to saving settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run the Windows Audio Troubleshooter
 
  Windows comes with a built-in troubleshooter that identifies and solves various audio issues. To use this tool, follow these steps.
@@ -40,15 +28,18 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 2. In the Settings menu, click**System > Troubleshoot > Other troubleshooters** .  
 ![Other trouble-shooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-trouble-shooters.jpg)
 3. Next to the**Playing Audio** troubleshooter, click the**Run** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Run the Audio Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-the-audio-troubleshooter.jpg)
 
  This will launch the troubleshooter and start scanning for any issues. Follow the on-screen instructions to fix any problems it finds. Once it's done, restart your computer and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update or Reinstall Your Audio Driver
 
@@ -58,6 +49,11 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 2. In the Device Manager window, expand the**Sound, video and game controllers** category.  
 ![Update Audio driver Via Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-audio-driver-via-device-manager.jpg)
 3. Right-click on your audio device and select**Update driver** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When Windows asks how you want to search for drivers, select**Search automatically for drivers** .
 
  Windows will then start searching for updated drivers and install them automatically. Follow any onscreen instructions if needed. Once the installation process is finished, restart your computer and see if this solved your problem.
@@ -66,32 +62,8 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 ![Uninstall Audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After uninstalling it, restart your computer. Windows will automatically detect your audio device and install the necessary drivers.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow Applications to Take Exclusive Control
 
  If updating or reinstalling the driver didn't solve the issue, you may need to allow certain applications to take exclusive control of the audio device. Here's how to do it:
@@ -102,9 +74,17 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 ![Allow Applications to Take Exclusive Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-applications-to-take-exclusive-control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check both boxes next to **Allow applications to take exclusive control of this device** and**Give exclusive mode applications priority** .
 
  Click**Apply** \>**OK** to save the changes. Now try adjusting the volume again and check if this fixes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Create a New User Account
 
@@ -117,30 +97,15 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 * [Repair corrupt system files](https://www.makeuseof.com/windows-built-in-repair-tools/) \- Corrupted system files can cause various errors, such as this one. You must run the System File Checker (SFC) tool in order to fix it. This built-in Windows utility scans your system and replaces corrupted files with cached copies.
 * [Perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) \- A clean boot is a troubleshooting technique that reduces conflicts related to software that can cause the issue. It stops all non-Microsoft services and programs from running during startup, making it easier to identify the problem.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Your Volume Mixer Settings Now
 
  Whether you use the Volume Mixer to reduce system sounds or mute certain sound applications, losing your settings can be frustrating. You may encounter this issue with music, games, or notifications. This guide provides solutions to troubleshoot and fix the issue so that the settings are saved properly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +114,26 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-action-cameras-feature-front-display/"><u>[New] Best Action Cameras Feature Front Display</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[New] In 2024, Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography/"><u>[Updated] Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-youtube-content-onto-insta-feed/"><u>[Updated] Streamlining YouTube Content Onto Insta Feed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-keyboard-utilities-for-enhanced-accessibility-on-windows-pcs/"><u>Essential Keyboard Utilities for Enhanced Accessibility on Windows PCs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/explore-custom-dex3-user-submitted-graphics-based-on-denons-dn-hc4500-unleash-your-mixing-potential/"><u>Explore Custom DEX3 User-Submitted Graphics Based on Denon's DN-HC4500 - Unleash Your Mixing Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/family-shield-repaired-5-fixes-for-non-operational-features/"><u>Family Shield Repaired: 5 Fixes for Non-Operational Features</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-microsoft-teams-crashes-on-windows-11-10-pcs/"><u>How to Stop Microsoft Teams Crashes on Windows 11, 10 PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-stylish-shots-top-trending-instagram-filters/"><u>In 2024, Stylish Shots Top Trending Instagram Filters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-telegram-strategies-for-enhanced-promotions-for-2024/"><u>Mastering Telegram Strategies for Enhanced Promotions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-network-activity-monitoring-with-netstat-usage/"><u>Mastering Windows 11 Network Activity Monitoring with Netstat Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-file-names-in-windows-settings-max-156/"><u>Optimizing File Names in Windows Settings (Max 156)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-gadgets-uncover-the-risks-of-a-common-battery-safety-mechanism-in-airtags-and-more-solutions-inside/"><u>Protecting Your Gadgets: Uncover the Risks of a Common Battery Safety Mechanism in AirTags and More – Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/score-your-youtube-content-with-these-free-sounds-for-2024/"><u>Score Your YouTube Content With These Free Sounds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-win-reestablishing-google-drive-syncs/"><u>Solutions for Win: Reestablishing Google Drive Syncs</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-0x800f0845-from-windows-update/"><u>Unblocking 0X800F0845 From Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windows-from-thx-spatial-delays/"><u>Unblocking Windows From THX Spatial Delays</u></a></li>
+<li><a href="https://win11.techidaily.com/w11-start-unspoiled-by-commercial-interruits/"><u>W11 Start - Unspoiled by Commercial Interruits</u></a></li>
+</ul></div>
 

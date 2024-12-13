@@ -1,7 +1,7 @@
 ---
 title: Crafting a Personalized Window 11 Notepad Environment
-date: 2024-12-02T07:46:46.954Z
-updated: 2024-12-06T17:48:18.570Z
+date: 2024-12-09T09:01:19.963Z
+updated: 2024-12-12T22:30:38.177Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Your Preferred Theme for Notepad
@@ -40,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 4. You'll see the**Light** ,**Dark** , or**Use system setting** options to set as the Notepad**App theme** . Choose and select the one you like.  
 ![App Theme Settings in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notepad-app-theme-settings-1.jpg)
 5. If you choose the**Use system setting** , the theme you have set for Windows will reflect in the Notepad. You'll see the theme's colors across the various areas of the Notepad.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad With Colors of a System Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-theme-in-notepad.jpg)  
  So you can enjoy the colors of a Windows 11 theme or even a favorite movie theme you download while you work on the Notepad. Also, if the system theme you have chosen is in Dark Mode, you can change the Notepad theme to Light mode while enjoying the system theme colors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Choose Your Preferred Font for Notepad
@@ -59,19 +60,19 @@ thumbnail: https://thmb.techidaily.com/a0a9154950aed42e7733b765877eaeb4a66b52b52
 ![Use Edit Menu or Settings Icon for Font Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-edit-or-settings-icons.jpg)
 2. Select a font by clicking on**Family** . The available fonts will appear in a dropdown list. Choose any font you prefer, like**Candara** , as in the screenshot below. At the bottom of the page, the font of the sentence:**The sound of the ocean waves calms my soul.** will change to your chosen font—you can preview a font before selecting it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
 3. Then select the font**Style** , whether light, dark, or italicized, and set the font**Size** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once set, enjoy using Notepad with your preferred font.
 
  If you ever have problems opening Notepad, check out[how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy the Windows 11 Notepad With New Themes
@@ -93,24 +94,21 @@ Once set, enjoy using Notepad with your preferred font.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>2024 Approved Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-voiceover-dynamics-for-stellar-ppt-presentations/"><u>2024 Approved Voiceover Dynamics for Stellar PPT Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-eye-catching-graphic-principles-for-podcast-titles/"><u>In 2024, Eye-Catching Graphic Principles for Podcast Titles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>In 2024, Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimized-charging-and-cooling-the-ultimate-3-in-1-magsafe-station-for-all-your-apple-gadgets-zdnet-review/"><u>Optimized Charging and Cooling: The Ultimate 3-in-1 MagSafe Station for All Your Apple Gadgets – ZDNet Review</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-microsoft-teams-instability-in-win11-win10/"><u>Overcoming Microsoft Teams Instability in Win11, Win10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/petcube-economical-high-definition-pet-monitoring-system/"><u>Petcube Economical High Definition Pet Monitoring System</u></a></li>
-<li><a href="https://win11.techidaily.com/precise-control-over-time-in-windows-without-auto-adjustments/"><u>Precise Control Over Time in Windows without Auto-Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-virtual-configurations-matching-windows-11-os-specs/"><u>Prime Virtual Configurations Matching Windows 11 OS Specs</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-strategies-to-advance-your-wsl-2-docker-use/"><u>Proven Strategies to Advance Your WSL 2 Docker Use</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-techniques-to-activate-wordpad-in-computer-os/"><u>Proven Techniques to Activate WordPad in Computer OS</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-os-transition-windows-on-your-steam-deck/"><u>Seamless OS Transition: Windows on Your Steam Deck</u></a></li>
-<li><a href="https://win11.techidaily.com/security-concern-hacked-biometrics-in-windows-hello/"><u>Security Concern: Hacked Biometrics in Windows Hello</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-apple-m3-macbook-air-an-in-depth-review-of-the-cutting-edge-ai-computer-for-everyday-use-tech-analysis-by-zdnet/"><u>The New Apple M3 MacBook Air: An In-Depth Review of the Cutting-Edge AI Computer for Everyday Use | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-list-of-online-cartoon-destinations-a-guide-to-the-best-websites/"><u>Ultimate List of Online Cartoon Destinations: A Guide to the Best Websites</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamefi-struggles-to-convert-gamer-audiences/"><u>Why GameFi Struggles to Convert Gamer Audiences</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-ui-mismatches-a-quick-listicle/"><u>Windows 11 UI Mismatches: A Quick Listicle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamlined-steps-to-record-on-your-ipad-screen/"><u>[New] 2024 Approved Streamlined Steps to Record on Your iPad Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-5-best-snipping-tool-for-chromebook/"><u>[New] In 2024, 5 Best Snipping Tool For Chromebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mediamerge-creating-slideshows-on-macsierra/"><u>[New] MediaMerge Creating Slideshows on MacSierra</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-socialites-secret-accelerate-your-fame-on-insta-with-our-top-15-hacks/"><u>[New] Socialite's Secret Accelerate Your Fame on Insta with Our Top 15 Hacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nleashing-viewer-engagement-explore-12-successful-youtube-strategies/"><u>[New] Unleashing Viewer Engagement - Explore 12 Successful YouTube Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-charting-your-way-to-frequent-payments-from-youtube/"><u>2024 Approved Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-systems-really-an-upgrade-or-just-hype/"><u>Are Wi-Fi Mesh Systems Really an Upgrade, or Just Hype?</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-navigating-and-adjusting-windows-flawlessly/"><u>Expert Strategies: Navigating and Adjusting Windows Flawlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-tutorial-embedding-srt-into-mp4-content/"><u>In 2024, Advanced Tutorial Embedding SRT Into MP4 Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-20-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 20 Pro FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-manual-for-google-play-on-w11/"><u>Installation Manual for Google Play on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-frozen-grammarly-feature/"><u>Methods to Rectify Frozen Grammarly Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-secure-boot-disappearance-on-a-windows-machines-bios/"><u>Overcoming Secure Boot Disappearance on a Windows Machine's BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-sign-in-roadblocks/"><u>Overcoming Windows 11 Sign-In Roadblocks</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-non-functional-window-preview-issues/"><u>Remedy Non-Functional Window Preview Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tidying-up-exclude-additional-items-from-win-11s-list/"><u>Tidying Up: Exclude Additional Items From Win 11'S List</u></a></li>
 </ul></div>
 

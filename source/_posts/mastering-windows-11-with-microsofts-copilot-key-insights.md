@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11 with Microsoft's Copilot Key Insights
-date: 2024-09-05T08:28:38.209Z
-updated: 2024-09-06T08:28:38.209Z
+date: 2024-12-10T07:47:29.749Z
+updated: 2024-12-13T09:17:23.253Z
 tags:
   - windows10
   - windows11
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 * [Why Is Microsoft Adding a Copilot Key?](#why-is-microsoft-adding-a-copilot-key)
 * [Will There Be a Copilot Key on Every Keyboard?](#will-there-be-a-copilot-key-on-every-keyboard)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft wants Copilot to be the next Start button, making it an influential AI assistant.
@@ -40,33 +34,27 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
  Microsoft has gone on record saying that it wants Copilot to be "the next Start button," but what is the Copilot key, and what does it do?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Copilot?
 
 ![microsoft copilot in edge browser feb 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-in-edge-browser-feb-2024.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're probably wondering [what Microsoft Copolit is](http://www.makeuseof.com/what-is-microsoft-365-copilot/). Well, it's Microsoft's AI assistant designed to help you with your tasks. It started life as a GitHub project but has now spread across Microsoft's ecosystem, from Office 365 to Microsoft Edge to the Windows 11 Start menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a Copilot Key?
 
 ![microsoft copilot logo on keyboard instead of windows key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-logo-on-keyboard-instead-of-windows-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 hodim/[Shutterstock](https://www.shutterstock.com/image-photo/colored-copilot-ai-key-on-white-2413637379)
 
  Microsoft Copilot is available on Windows 10 and 11, though you can also [install Copilot on Android and iOS](https://www.makeuseof.com/how-to-install-use-microsoft-copilot-on-android/), and there is [a version of Copilot for macOS](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/), too. At the time of writing, Copilot isn't very feature-rich; it can perform chatbot-related tasks, draw AI-generated art, and perform a few system-related tasks.
@@ -74,11 +62,9 @@ hodim/[Shutterstock](https://www.shutterstock.com/image-photo/colored-copilot-ai
  To help users bring up Copilot faster, Microsoft is adding a Copilot key to the keyboard. When you press the key, it calls up Copilot, so you can use it for queries on both your local machine and the internet. Microsoft is using the Copilot key to replace the Windows key, and it will perform a specific system-based action to streamline the process of opening it and accessing its AI features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Microsoft Adding a Copilot Key?
 
  For quite a while now, Microsoft has left the keyboard relatively as-is. Microsoft has added the odd key to the keyboard here and there, such as an emoji key and a Microsoft Office key.
@@ -92,11 +78,9 @@ hodim/[Shutterstock](https://www.shutterstock.com/image-photo/colored-copilot-ai
  On top of this, there's a very good chance future versions of Windows will depend heavily on Copilot. The proposed "Windows 12" operating system has been hinted at being much more AI-driven than Windows 11, and with Copilot acting as Microsoft's de facto AI assistant, there's a very good chance it'll take center stage on Windows 12\. [Microsoft has even bumped the minimum RAM standard to 16GB](https://www.makeuseof.com/16gb-ram-new-standard-windows/) to support these new AI processes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will There Be a Copilot Key on Every Keyboard?
 
  Fortunately, [Microsoft won't demand every keyboard manufacturer add the key](https://www.xda-developers.com/microsoft-wont-force-copilot-key/). However, if Microsoft is going to go full steam ahead with Copilot in Windows 12, there's a good chance that keyboard designers will feel they "have" to include it.
@@ -105,11 +89,26 @@ hodim/[Shutterstock](https://www.shutterstock.com/image-photo/colored-copilot-ai
 
  With Microsoft wanting Copilot to be as influential as the next Start button, it's only natural to see a dedicated key. However, Microsoft is no stranger to adding keys to a keyboard in the past, and not all of them panned out. We'll have to see if the Copilot key will be a staple or become a relic Microsoft wants us to forget.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[New] In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-the-world-with-words-15-task-filled-podcast-sessions-for-2024/"><u>[New] Navigating the World with Words 15 Task-Filled Podcast Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>[Updated] The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-pros-guide-to-exceptional-cameras-and-lenses-in-4k/"><u>2024 Approved The Pro's Guide to Exceptional Cameras and Lenses in 4K</u></a></li>
+<li><a href="https://win11.techidaily.com/go-green-with-pc-updates-ditch-windows/"><u>Go Green with PC Updates: Ditch Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-como-subir-un-dvd-al-cloud-con-servicios-como-google-drive-e-icloud/"><u>Guía Paso a Paso: Cómo Subir Un DVD Al Cloud Con Servicios Como Google Drive E iCloud</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/innovative-vertical-video-editing-for-instagrams-igtv-for-2024/"><u>Innovative Vertical Video Editing for Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210292601-9781645693642-open-your-heart-and-write-your-vision/"><u>Open Your Heart And Write Your Vision | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-system-icons-in-a-quick-windows-fix/"><u>Revamping System Icons in a Quick Windows Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-up-game-resolving-steam-write-problems/"><u>Stepping Up Game: Resolving Steam Write Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-grayed-recycle-icon-issue-in-win11/"><u>Tackling Grayed Recycle Icon Issue in Win11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-selecting-the-ideal-portable-gaming-controls-for-a-superior-experience/"><u>Ultimate Guide: Selecting the Ideal Portable Gaming Controls for a Superior Experience</u></a></li>
+</ul></div>
+

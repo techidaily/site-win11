@@ -1,7 +1,7 @@
 ---
 title: Essential Keyboard Utilities for Enhanced Accessibility on Windows PCs
-date: 2024-12-05T09:24:08.208Z
-updated: 2024-12-07T09:32:12.653Z
+date: 2024-12-05T23:57:44.973Z
+updated: 2024-12-13T09:54:02.257Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Switch Between Legacy and Standard Keyboard Layouts?
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ![Change Narrator Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-narrator-keyboard-layout.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This way, you can switch between the Legacy and Standard layouts.
@@ -49,7 +49,7 @@ This way, you can switch between the Legacy and Standard layouts.
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
@@ -176,7 +176,7 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get More Out of Windows Narrator
@@ -198,22 +198,20 @@ This way, you can switch between the Legacy and Standard layouts.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[New] Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-definitive-list-high-quality-costless-lut-options-explored-for-2024/"><u>[Updated] The Definitive List High-Quality, Costless LUT Options Explored for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>[Updated] Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-transformer-vos-videos-asf-en-format-lineaire-gratuit-grace-aux-outils-movavi/"><u>Comment Transformer Vos Vidéos ASF en Format Linéaire Gratuit Grâce Aux Outils Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/diving-into-change-key-modifications-of-windows-11s-explore/"><u>Diving Into Change: Key Modifications of Windows 11'S Explore</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-turn-off-tips-and-suggestions-notifications-on-windows-11/"><u>How to Turn Off Tips and Suggestions Notifications on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-effective-spotify-promotions/"><u>In 2024, The Science of Effective Spotify Promotions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/journey-to-storytelling-gear-selection-guide/"><u>Journey to Storytelling Gear Selection Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-resetting-request-limits-in-win-based-programming/"><u>Mastering the Art of Resetting Request Limits in Win-Based Programming</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-space-for-pin-listings-in-windows-11/"><u>Maximizing Space for Pin Listings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-simple-android-setup-via-double-click-in-windows-11/"><u>Quick & Simple Android Setup via Double-Click in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-install-geforce-gtx-460-drivers-on-windows/"><u>Quick and Easy Guide: Install GeForce GTX 460 Drivers on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-corrupted-access-control-in-windows/"><u>Rectifying Corrupted Access Control in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/select-the-very-best-torrent-tools-for-windows-pc/"><u>Select the Very Best Torrent Tools for Windows PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/"><u>Tailored Titling for Stellar Online Video Content for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review/"><u>Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-8-striking-ui-mismatches/"><u>Windows 11: 8 Striking UI Mismatches</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-recording-facebook-video-calls-4-methods/"><u>[Updated] In 2024, Recording Facebook Video Calls [4 Methods]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-ai-based-tools-and-platforms-for-enhanced-online-search-capabilities/"><u>Advanced AI Based Tools and Platforms for Enhanced Online Search Capabilities</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/banishing-facebook-broadcasts-from-laptoptablet-for-2024/"><u>Banishing Facebook Broadcasts From Laptop/Tablet for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-dism-issue-0x800f082f/"><u>Comprehensive Guide to Fixing DISM Issue 0X800F082F</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-display-decor-curating-personalized-wallpapers-per-windows-system-screen/"><u>Dual Display Decor: Curating Personalized Wallpapers per Windows System Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-digital-art-with-layered-imagery/"><u>Enhancing Digital Art with Layered Imagery</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-hyper-v-in-windows-11-pro/"><u>Guide to Turn Off Hyper-V in Windows 11 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-business-with-azure-speech-services/"><u>In 2024, Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>In 2024, Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All.</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-screens-shine-on-windows-with-best-brightness-apps/"><u>Streamline Your Screens' Shine on Windows With Best Brightness Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-threats-a-user-guide-to-pc-security/"><u>Unveiling Hidden Threats: A User Guide to PC Security</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/why-steer-clear-of-bots-in-your-window-11-security-measures/"><u>Why Steer Clear of Bots in Your Window 11 Security Measures?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726026676944-windowsmac/"><u>WindowsとMacのノートパソコンで簡単に音声を記録するテクニック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset and Adjust Touch Layout in Microsoft's Latest OS, Win 11
-date: 2024-12-06T04:23:45.898Z
-updated: 2024-12-06T17:55:53.301Z
+date: 2024-12-07T03:57:53.178Z
+updated: 2024-12-12T22:16:19.029Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ Let's explore each one.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Tweak Registry Editor to Reset Touch Keyboard Default Open Position
@@ -48,7 +48,7 @@ Let's explore each one.
 6. Then go to its corresponding right pane, where you will find the**OptimizedKeyboardRelativeXPositionOnScreen** REG\_DOWRD value. Right-click on the key and delete it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Similarly, delete the**OptimizedKeyboardRelativeYPositionOnScreen** key value in the same folder.
@@ -56,7 +56,7 @@ Let's explore each one.
  After deleting both values, close the Registry Editor and restart your PC to apply the changes. Now, when you open the touch keyboard, it will start showing up at the default opening position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run a Batch File to Reset the Touch Keyboard's Default Open Position
@@ -78,7 +78,7 @@ start explorer.exe`
 ![Run Batch File to Reset Touch Keyboard Default Open Position](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-batch-file-to-reset-touch-keyboard-default-open-position.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the File name field, type "ResetTouch.bat", and choose**All Files** from the Save as type. After that, select Desktop from the left-hand side and click**Save** .
@@ -86,7 +86,7 @@ start explorer.exe`
  Once the batch file is saved, close the Notepad window. Next, double-click**ResetTouch.bat** on your Desktop to run it. This should reset your touch keyboard's default open position.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Resetting the Default Position of the Touch Keyboard
@@ -110,14 +110,19 @@ start explorer.exe`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/10-essential-tactics-for-control-panel-entry/"><u>10 Essential Tactics for Control Panel Entry</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289717112-winxdvd-dvd/"><u>搭配 WinXDVD 協力破解 DVD 密碼</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-ram-analysis-ranking-7-efficient-browsers/"><u>Comprehensive Ram Analysis: Ranking 7 Efficient Browsers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723011297941-how-to-fix-persistent-screen-flickering-in-call-of-duty-warzone/"><u>How to Fix Persistent Screen Flickering in Call of Duty: Warzone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-error-code-0x80072f8f-0x20000-on-windows/"><u>How to Fix the Error Code 0X80072f8f - 0X20000 on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 13 Pro Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-world-of-windows-11-multi-tasking-like-a-pro/"><u>Navigating the World of Window's 11 Multi-Tasking Like a Pro</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-step-by-step-guide-to-mastering-voice-change-with-voice-changer-plus-on-your-iphone/"><u>New In 2024, The Step-by-Step Guide to Mastering Voice Change with Voice Changer Plus on Your iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/preventive-measures-for-microsoft-teams-freeze-in-wins-11-and-10/"><u>Preventive Measures for Microsoft Teams Freeze in Wins 11 & 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>[Updated] 2024 Approved Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-stories-insights-into-the-vida-app/"><u>Crafting Visual Stories Insights Into the Vida App</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hobbyist-to-pro-optimal-cameras-for-youtubing-for-2024/"><u>From Hobbyist to Pro Optimal Cameras For YouTubing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/hotkey-hacking-customizing-windows-10-and-11-quickly/"><u>Hotkey Hacking: Customizing Windows 10 & 11 Quickly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-funimate-unlocked-a-complete-experience/"><u>In 2024, Funimate Unlocked A Complete Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-muting-problem-solutions-for-obs-sound-capture/"><u>In 2024, Muting Problem Solutions for OBS Sound Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/invest-wisely-why-cheap-windows-activation-key-might-not-pay-off/"><u>Invest Wisely: Why Cheap Windows Activation Key Might Not Pay Off</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-it-simple-why-just-one-antivirus-is-best-for-windows-users/"><u>Keep It Simple: Why Just One Antivirus Is Best for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-prime-deals-exclusive-offers-on-macbook-air-and-airpods-pro-zdnets-tech-guide/"><u>Last Chance Prime Deals - Exclusive Offers on MacBook Air and AirPods Pro | ZDNET's Tech Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-lumafusion-vs-final-cut-pro-x-which-do-you-need-for-2024/"><u>New LumaFusion vs Final Cut Pro X Which Do You Need for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-the-ability-to-delete-characters-in-windows-pcs/"><u>Reclaiming the Ability to Delete Characters in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-approach-to-fixing-isdonedll-in-windows-11/"><u>Stepwise Approach to Fixing ISDone.dll in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/sudo-in-windows-essential-usage-tips/"><u>Sudo in Windows: Essential Usage Tips</u></a></li>
 </ul></div>
 

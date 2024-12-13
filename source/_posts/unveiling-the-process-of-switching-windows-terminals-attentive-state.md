@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Process of Switching Windows Terminal's Attentive State
-date: 2024-11-29T20:32:27.755Z
-updated: 2024-12-07T01:06:54.098Z
+date: 2024-12-10T23:48:47.469Z
+updated: 2024-12-13T08:51:29.834Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Windows Terminal Settings
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Run Command
 
  You can also enter Focus Mode in Windows Terminal using the Run command. This is a great way to quickly switch between modes without adjusting the settings. Here's how to do it:
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 2. In the Run dialog box, type**wt.exe /focus** , and hit Enter.
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Command Palette
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/1285640821abadae64475db5187a42bfa0d643a29
  Once you create the shortcut key, you can press it to switch between Focus Mode and normal mode in Windows Terminal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use Windows File Explorer
@@ -122,15 +122,19 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-apple-music-integration-for-high-fidelity-videos/"><u>[New] Apple Music Integration for High-Fidelity Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discover-the-ease-of-sound-liberation-with-pazeras-tools-for-2024/"><u>Discover the Ease of Sound Liberation with Pazera's Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pc-skills-with-these-5-cmd-tricks/"><u>Elevate Your PC Skills with These 5 Cmd Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-steam-faster-pace-preventing-sudden-drops-in-speed/"><u>Enhancing Steam Faster Pace: Preventing Sudden Drops in Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-initiate-wordpad-functionality-in-windows/"><u>Guide to Initiate WordPad Functionality in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-erase-the-imprint-of-epic-games-hub-on-w11/"><u>How to Erase the Imprint of Epic Games Hub on W11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 15?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pc-musik-auf-ihr-iphone-ubertragen-alternative-methoden-ohne-itunes-fur-windows-and-mac/"><u>PC Musik Auf Ihr iPhone Übertragen - Alternative Methoden Ohne iTunes Für Windows & Mac</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476294938-stuck-with-non-downloading-iphone-apps-try-these-10-fixes/"><u>Stuck with Non-Downloading iPhone Apps? Try These 10 Fixes!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-matching-tunes-to-themes-in-film-clips/"><u>[Updated] 2024 Approved Matching Tunes to Themes in Film Clips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[Updated] In 2024, Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-live-action-top-9-gaming-portals-for-2024/"><u>[Updated] Live Action Top 9 Gaming Portals for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-viral-potential-hashtags-for-gamers-vlogs/"><u>[Updated] Unlocking Viral Potential Hashtags for Gamers' Vlogs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-lightninglash-delaytape-playback/"><u>2024 Approved LightningLash DelayTape Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/drag-and-drop-not-working-in-windows-11-try-these-fixes/"><u>Drag and Drop Not Working in Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-compressed-to-captioned-zip-to-srt-effortlessly-for-2024/"><u>From Compressed To Captioned Zip to .Srt Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-methods-for-mixed-up-youtube-playback-sequence/"><u>Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 11 5G Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-to-acquiring-adobe-reader-through-ms-store/"><u>Instant Guide to Acquiring Adobe Reader Through MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-restart-speed-with-windows-11-fast-startup/"><u>Maximizing Restart Speed with Window's 11 Fast Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-application-start-failed-no-qt-found-situations/"><u>Remedying 'Application Start Failed: No Qt Found' Situations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-5-compelling-benefits-of-investing-in-a-laser-engraving-machine/"><u>Top 5 Compelling Benefits of Investing in a Laser Engraving Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-storage-cleanup-removing-microsoft-app/"><u>Win11 Storage Cleanup: Removing Microsoft App</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trim Your Win11 Startup List for Optimal Performance
-date: 2024-12-03T00:41:58.922Z
-updated: 2024-12-07T09:07:56.460Z
+date: 2024-12-11T21:44:51.059Z
+updated: 2024-12-13T11:19:48.675Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Clean the Startup Folder
 
  To get started, the first thing that we recommend doing is cleaning the start-up folder in File Explorer. You can remove the shortcuts of the programs that you do not want to start at startup as well as remove the junk files that you may no longer need.
@@ -39,7 +35,15 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
 ![Access the File Explorer location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-menu-programs-startup.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have made the changes in the folder, restart your computer and check if you notice any difference in the boot time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delay Item Start
 
@@ -58,7 +62,7 @@ Here is all that you need to do:
 4. Go to the**Startup** tab in the following window and click on the targeted program.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click on the**Disable** button as shown below.  
@@ -72,10 +76,6 @@ Here is all that you need to do:
 ![Click on the New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-triggers-new.jpg)
 3. Expand the dropdown for**Begin the task** and choose**At log on** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Checkmark the box associated with**Delay task for** .  
 ![Delay the task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/new-trigger-delay-task-time.jpg)
 5. Expand the dropdown and choose your preferred time.
@@ -85,19 +85,16 @@ Here is all that you need to do:
 ![task-scheduler-create-task-actions-new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-actions-new.jpg)
 3. In the dropdown for**Action** , choose**Start a program** \>**Browse** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on the Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-a-program-browse.jpg)
 4. Next, navigate to the EXE file of the application and click**Open** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Go to the**Conditions** tab and uncheck the box associated with**Start the task only if the computer is on AC power** .  
 ![Change the startup settings of the computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/conditions-start-the-task-only-if-the-computer-is-on-ac-power.jpg)
 6. Finally, click**OK** and close the Task Scheduler.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.2 Use a Third-Party App
 
@@ -110,10 +107,6 @@ Here is how you can proceed:
 ![Extract the downloaded file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-extract-all.jpg)
 3. Then, double-click on the file and follow the on-screen instructions to complete the installation process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. After the program is installed, launch it.
 5. Enter your preferred delay time under**Delay time** .  
 ![Set a delay time in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-delay-time.jpg)
@@ -125,6 +118,10 @@ Here is how you can proceed:
 ![Click on the Start button in the Startup Helper utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-start.jpg)
 
  The targeted app will now launch after the time you selected on the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run a Startup Cleaner Utility
 
@@ -141,13 +138,23 @@ Follow these steps to proceed:
 3. Click on the Tool icon in the left pane.  
 ![Click on the Tools option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools.jpg)
 4. Choose**Startup** in the following window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ccleaner-tools-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup.jpg)
 5. In the following four sections, you will be able to see all the components that run when you boot into Windows. Locate the unnecessary ones, click on them, and choose**Disable** or**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable or delete the uneeded apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup-disable-delete.jpg)
 6. Once done, restart your computer and check if you notice any difference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Uninstall Any Unnecessary Programs
@@ -158,10 +165,6 @@ Follow these steps to proceed:
 
  See our guide on[ways to uninstall software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Keep Your Windows Updated
 
  This may seem trivial, but keeping your Windows up-to-date at all times can help prevent a number of issues such as frequent lagging and sudden crashes.
@@ -169,7 +172,7 @@ Follow these steps to proceed:
  We highly recommend[installing the Windows updates](https://www.makeuseof.com/windows-11-install-updates/) as soon as they are released. You can view all the pending system updates in the Windows Updates section of the Settings app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manage Your Windows Startup Apps to Improve Your System's Performance
@@ -193,17 +196,19 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-essential-guide-broadcast-360-videos-on-facebook-for-2024/"><u>[New] Essential Guide Broadcast 360 Videos on Facebook for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-storage-solutions-ps5s-top-10-external-units/"><u>[New] Storage Solutions PS5's Top 10 External Units</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-drive-labeling-c-vs-d-specifics/"><u>Exploring Drive Labeling: C: Vs D: Specifics</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-and-managing-taskbar-size-wins11/"><u>Fine-Tuning and Managing Taskbar Size Wins11</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-internal-keyboard-via-control-panel-in-windows-1011/"><u>Halt Internal Keyboard via Control Panel in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-this-pc-icon-to-the-desktop-in-windows/"><u>How to Add a This PC Icon to the Desktop in Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/orth-of-kids-celebrity-reaches-new-heights/"><u>Net Worth of Kids Celebrity Reaches New Heights</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-pathway-entering-windows-11-safe-mode/"><u>The Ultimate Pathway: Entering Windows 11 Safe Mode</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-your-creative-vision-a-guide-to-android-editors-for-2024/"><u>Unleash Your Creative Vision A Guide to Android Editors for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-mysteries-a-deep-dive-into-whos-listening-when-you-speak-online/"><u>Unveiling the Mysteries: A Deep Dive Into Who's Listening When You Speak Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-make-the-change-discover-5-compelling-reasons-to-go-for-a-google-phone-and-android/"><u>Why Make the Change? Discover 5 Compelling Reasons to Go for a Google Phone and Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-quick-clip-quandary-youtube-shorts-advantage-over-tiktok/"><u>[New] The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-increase-video-engagement-with-customizable-youtube-thumbnails-for-2024/"><u>[Updated] How to Increase Video Engagement with Customizable YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-melodic-migration-6-preferred-free-apps-for-moving-youtube-audio-on-android-for-2024/"><u>[Updated] Melodic Migration 6 Preferred Free Apps for Moving YouTube Audio on Android for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choose-the-ultimate-laptop-stand-expert-reviews-and-picks/"><u>Choose the Ultimate Laptop Stand : Expert Reviews & Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-access-fault-obstacles/"><u>Disabling Windows Access Fault Obstacles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/extracting-visuals-in-windows-11-photos/"><u>Extracting Visuals in Windows 11 Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-hardware-not-found-error-on-w11w10-system/"><u>Fixing 'Hardware Not Found' Error on W11/W10 System</u></a></li>
+<li><a href="https://win11.techidaily.com/guaranteeing-corrected-status-for-windows-monitor/"><u>Guaranteeing Corrected Status for Windows Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-disabling-built-in-laptop-keys-in-windows-pc/"><u>Guide: Disabling Built-In Laptop Keys in Windows PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a05s-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A05s for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-samsung-phone-connections-how-to-update-your-usb-driver-seamlessly/"><u>Mastering Samsung Phone Connections: How to Update Your USB Driver Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-shared-printer-errors-in-windows/"><u>Overcoming Shared Printer Errors in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210084402-9781913768089-the-zodiac-experience/"><u>The Zodiac Experience | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Stepwise Guide to Managing User Groups on WIN11/10 Home Editions
-date: 2024-12-05T08:16:21.120Z
-updated: 2024-12-07T11:31:14.692Z
+date: 2024-12-11T00:46:09.707Z
+updated: 2024-12-12T23:10:06.010Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 * The Command Prompt can also be used to manage users and groups without a third-party utility.
 
  Local Users and Groups Management is a shell application to manage local and remote computers and access system administrator tools. However, Local Users and Groups Management is unavailable in the Windows 11/10 Home editions, so you must rely on a third-party program to use it there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Local Users and Groups Management Console in Windows 11/10 Home
 
@@ -54,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![lusrmgr program home screen running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-program.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will notice the lusrmgr application looks similar to [opening the native Local Users and Groups Management console](http://www.makeuseof.com/windows-open-local-users-and-groups/). However, the difference lies in the usability of the tool. Below are side-by-side images for the built-in lusrmgr console (left) and the third-party application (right) for reference.
 
 ![Lucal User and Groups app and lusrmgr app side by side comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/lucal-user-and-gropups-app-and-lusrmgr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To create a new user account with this Local User and Group Management tool:
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![lusrmgr define account access time screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/lusrmgr-define-access-time.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, the user accounts have no limit on access time. But you can define this by selecting a time block for different days.
 
  Since lusrmgr is a portable app, you can’t open it with the **lusrmgr.msc** command like the built-in app. To launch the program, double-click the executable file you downloaded and make the necessary changes to the user account or groups.
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 ![How to Run the Command Prompt as an Administrator in Windows Thumbnail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/how-to-run-the-command-prompt-as-an-administrator-in-windows-thumbnail.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
   First, open a Command Prompt window with administrative privilege. To do this, press the **Windows** key, type **cmd**, right-click on **Command Prompt**, and select **Run as administrator**.
@@ -128,23 +128,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-5-internet-viewing-units/"><u>[Updated] 2024 Approved Advanced 5 Internet Viewing Units</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-excellent-voice-capture-gadgets-top-7-list-2023-for-2024/"><u>[Updated] Excellent Voice Capture Gadgets, Top 7 List 2023 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-guide-shifting-nat-settings-on-windows-11-and-10-devices/"><u>In-Depth Guide: Shifting NAT Settings on Windows 11 & 10 Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/infinite-professional-slideshow-resource-for-businesses-for-2024/"><u>Infinite Professional Slideshow Resource for Businesses for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/learn-how-to-rewind-video-ordering-on-android-for-2024/"><u>Learn How to Rewind Video Ordering on Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-and-fix-frozen-epic-games-launcher-error/"><u>Stop and Fix Frozen Epic Games Launcher Error</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-reactivate-print-services-post-disconnect/"><u>Techniques to Reactivate Print Services Post Disconnect</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-tips-on-increasing-video-brightness-effortlessly/"><u>Ultimate Tips on Increasing Video Brightness Effortlessly</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -153,3 +140,23 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/nlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags-for-2024/"><u>[New] Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-beginners-guide-adding-text-overlays-on-youtube/"><u>[Updated] Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-tactics-for-youtube-video-logging-for-2024/"><u>[Updated] Professional Tactics for YouTube Video Logging for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-let-file-explorer-crashes-hamper-win11-productivity/"><u>Don't Let File Explorer Crashes Hamper Win11 Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-rectify-windows-defender-engine-outage/"><u>Effective Strategies to Rectify Windows Defender Engine Outage</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-to-overcome-directdraw-errors-on-win1011/"><u>Efficient Techniques to Overcome DirectDraw Errors on WIN10/11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/latest-instagram-photo-and-video-size-checklist/"><u>Latest Instagram Photo and Video Size Checklist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-installation-of-movie-maker-6/"><u>Mastering the Installation of Movie Maker 6</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-a-non-responsive-windows-monitor-app/"><u>Reviving a Non-Responsive Windows Monitor App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/savory-storytelling-in-video-cooking-top-7-insights-for-2024/"><u>Savory Storytelling in Video Cooking - Top 7 Insights for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-unresponsive-messaging-apps-on-your-android-device/"><u>Solving the Issue: Unresponsive Messaging Apps on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-exception-reached-error-on-pc/"><u>Strategies for Fixing 'Exception Reached' Error on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-solve-chromes-profile-problems-on-desktops/"><u>Strategies to Solve Chrome's Profile Problems on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-star-wars-jedi-fallen-order-crashing-problem-on-pc/"><u>Troubleshooting Tips: Solving Star Wars Jedi: Fallen Order Crashing Problem on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-woes-slow-browser-speed-phones-unaffected/"><u>Windows Woes: Slow Browser Speed - Phones Unaffected?</u></a></li>
+</ul></div>
+

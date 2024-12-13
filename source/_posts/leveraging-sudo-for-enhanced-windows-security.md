@@ -1,7 +1,7 @@
 ---
 title: Leveraging Sudo for Enhanced Windows Security
-date: 2024-12-01T16:38:56.623Z
-updated: 2024-12-06T23:46:56.051Z
+date: 2024-12-07T02:30:53.597Z
+updated: 2024-12-12T23:31:01.273Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Windows Versions Can Run the sudo Command?
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -68,11 +64,7 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -85,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the sudo Command on Windows
 
  After you've enabled the sudo command on Windows, it's simple to use. Simply prepend the `sudo` command to any command you'd typically need to run as an administrator, then accept the prompts that follow.
@@ -96,30 +92,15 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
  Microsoft seems committed to its implementation of sudo, even going so far as to release [sudo on GitHub](http://github.com/microsoft/sudo) as open source. If reading this entices you to learn more about what goes on under the hood in Windows, make sure to take a look at our list of [commands every Windows user should know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/).
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-skyeconomys-haven-budget-friendly-large-data-space/"><u>[New] 2024 Approved SkyEconomy's Haven Budget-Friendly Large Data Space</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-shorts-mastery-tackling-common-issues/"><u>[Updated] YouTube Shorts Mastery Tackling Common Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/compelling-iphone-photo-and-video-applications-87x/"><u>Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-disrupted-big-sun3d-files/"><u>Fix Disrupted BIG, SUN3D Files</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bring-back-missing-steam-icons-efficiently/"><u>How to Bring Back Missing Steam Icons Efficiently</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-non-loading-messages-on-discord-client/"><u>How To Fix Non-Loading Messages on Discord Client</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/milestones-in-a-decade-mondlybacks-button-innovations/"><u>Milestones in a Decade: MondlyBack’s Button Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-language-settings-for-keyboards/"><u>Navigating Windows 11'S Language Settings for Keyboards</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-non-functional-deskanywhere-on-win11/"><u>Steps to Rectify Non-Functional DeskAnywhere on Win11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1723034219081-travel-gears-new-power-bank-unicharger-pro-review-a-game-changer-in-travel-batteries/"><u>Travel Gear’s New Power Bank: UniCharger Pro Review - A Game Changer in Travel Batteries!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-features-managed-by-organization-errors-on-windows-11/"><u>Troubleshooting Features Managed by Organization, Errors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-invalid-temp-folder-issue-in-w11/"><u>Troubleshooting Invalid Temp Folder Issue in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-error-code-0xc0000001/"><u>Troubleshooting Windows Error Code 0XC0000001</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-performance-in-depth-look-at-samsung-qn55q60rafxza-smart-tv-with-4k-hdr10plus/"><u>Unveiling the Performance: In-Depth Look at Samsung QN55Q60RAFXZA Smart TV with 4K HDR10+</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +109,23 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-your-personalized-music-compilation/"><u>[New] Your Personalized Music Compilation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-boost-your-channels-popularity-optimal-post-dates/"><u>[Updated] In 2024, Boost Your Channel's Popularity - Optimal Post Dates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-reactivate-your-mic-in-zoom-a-tutorial-for-windows-1110-users/"><u>Effective Solutions to Reactivate Your Mic in Zoom: A Tutorial for Windows 11/10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/ejecting-the-onedrive-microsoft-identity-connection-on-pcs/"><u>Ejecting the OneDrive-Microsoft Identity Connection on PCs</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/ejecucion-sencilla-ajuste-del-idioma-en-la-herramienta-de-fonetool/"><u>Ejecución Sencilla: Ajuste Del Idioma en La Herramienta De FoneTool</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-resolve-windows-network-adapter-error-31/"><u>Essential Steps to Resolve Windows Network Adapter Error 31</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-best-tools-to-enhance-your-pdf-analysis/"><u>Explore the Best Tools to Enhance Your PDF Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-windows-with-smart-intelligence-systems/"><u>Innovating Windows with Smart Intelligence Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launch-budget-friendly-home-based-chatgpt-alternative/"><u>Launch Budget-Friendly, Home-Based ChatGPT Alternative</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-download-problems-from-microsoft-store/"><u>Mitigating Download Problems From Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-new-norms-of-installing-windows-11/"><u>Navigating the New Norms of Installing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-pc-with-the-right-win11-edition-home-or-pro/"><u>Personalize Your PC with the Right Win11 Edition: Home or Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012172491-resolving-dota-2-stability-issues-step-by-step-solutions/"><u>Resolving Dota 2 Stability Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-full-scale-development-with-wsl-in-windows-10/"><u>Unleashing Full-Scale Development with WSL in Windows 10</u></a></li>
+</ul></div>
+

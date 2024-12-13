@@ -1,7 +1,7 @@
 ---
 title: "Lost Connection: Fixing Discord Update Issues on Windows"
-date: 2024-12-03T16:25:49.592Z
-updated: 2024-12-07T05:04:43.488Z
+date: 2024-12-10T19:53:00.612Z
+updated: 2024-12-13T06:54:47.760Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Rule Out Any Internet Issues
 
  One of the most common causes for a failed Discord update is a sluggish or inconsistent internet connection. Hence, before trying any advanced troubleshooting tips, you should rule out any issues with your internet connection.
 
  Test your internet connection by loading a few websites or visiting one of the[best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Give Discord a Fresh Start
 
@@ -44,7 +52,7 @@ To force-stop the Discord app:
 ![End Discord Process on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/End-Discord-Process-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Discord Server Status
@@ -58,6 +66,10 @@ To force-stop the Discord app:
  Another reason why Discord may not work or display the Update Failed error is a lack of certain permissions. To remedy this, you can try running Discord as an administrator. Simply right-click on the**Discord app icon** and select**Run as administrator** .
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
@@ -82,10 +94,6 @@ To force-stop the Discord app:
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Adjust the Date and Time Settings
 
  Discord may have trouble connecting to its server[if your PC is set to an incorrect date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) . You can avoid such problems by configuring Windows to use network-provided time. Here’s how.
@@ -96,17 +104,9 @@ To force-stop the Discord app:
 4. Enable the toggles next to**Set time automatically** and**Set time zone automatically** .  
 ![Set Date & Time Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date--Time-Automatically-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Rename the Discord Update Executable File
 
@@ -117,6 +117,10 @@ Restart the Discord app after this and allow it to finish updates.
 3. In the File Explorer window that opens, double-click the**Discord** folder.
 4. Change the name of the**Update.exe** file to something else, such as**OldUpdate.exe** .  
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Uninstall and Reinstall Discord
 
@@ -131,10 +135,6 @@ To uninstall Discord from your PC:
 5. Select**Uninstall** again to confirm.  
 ![Uninstall Discord From Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-Discord-From-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling the Discord app, you should get rid of any leftover app files by following the steps below.
 
 1. Press**Win + R** to open Run.
@@ -144,7 +144,7 @@ To uninstall Discord from your PC:
  Once you've done that, head over to Discrod’s website or open the Microsoft Store to install the Discord app on your PC. And while you're at it, check out[how to eradicate leftovers from programs on Windows](https://www.makeuseof.com/windows-remove-leftovers-uninstalled-software/) to keep your PC squeaky clean.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Discord Updated on Windows
@@ -166,19 +166,24 @@ To uninstall Discord from your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-play-mastering-kinemaster-and-the-top-10-alternative-games-for-2024/"><u>[New] Enhance Your Play Mastering KineMaster & The Top 10 Alternative Games for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-snapshot-shows/"><u>[Updated] In 2024, FB Snapshot Shows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/express-faster-window-photo-sorter/"><u>Express Faster Window Photo Sorter</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-app-settings-for-optimal-gaming/"><u>Mastering Xbox App Settings for Optimal Gaming</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-divx-video-cutting-solutions-expert-recommendations/"><u>New In 2024, Free Divx Video Cutting Solutions Expert Recommendations</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-offline-errors-how-to-fix-steam-in-windows/"><u>Overcoming Offline Errors: How to Fix Steam in Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/secrets-for-transcribing-twitter-videos-into-mp3-format-for-2024/"><u>Secrets for Transcribing Twitter Videos Into MP3 Format for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-instructions-for-efficiently-deleting-stickers-in-snapchat-applications/"><u>Step-by-Step Instructions for Efficiently Deleting Stickers in Snapchat Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-win-11s-wi-fi-settings/"><u>Streamlining Win 11'S Wi-Fi Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-blend-taskview-into-win-11-ui/"><u>Techniques to Blend TaskView Into Win 11 UI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-dts-play-fi-for-home-audio-enthusiasts/"><u>The Essentials of DTS Play-Fi for Home Audio Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/the-transformative-power-of-microsofts-copilot-key-for-windows-11-users/"><u>The Transformative Power of Microsoft's Copilot Key for Windows 11 Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-video-snip-for-win10-users-for-2024/"><u>Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-imovies-automated-size-control/"><u>[New] Exploring iMovie's Automated Size Control</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-strategic-mastery-pinpointing-top-7-total-war-battles/"><u>[New] Strategic Mastery Pinpointing Top 7 Total War Battles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bebop-2s-aviary-artistry-reviewed-for-2024/"><u>Bebop 2’S Aviary Artistry Reviewed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dvdmp4-movavi/"><u>DVD至MP4格式轉換完全指南 | Movavi節省時間的工具列表</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-system-solutions-access-via-custom-keyboard-triggers/"><u>Enhancing System Solutions Access via Custom Keyboard Triggers</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-uac-prompt-snaps/"><u>Essential Techniques for UAC Prompt Snaps</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-windows-task-scheduler-for-batches/"><u>Harnessing Power: Windows Task Scheduler for Batches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-keep-up-the-snapstreak-game/"><u>In 2024, How To Keep Up the Snapstreak Game</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-ios-mapping-within-a-windows-framework/"><u>Integrating iOS Mapping Within a Windows Framework</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-setting-default-size-for-apps-on-win11/"><u>Maximizing Windows: Setting Default Size for Apps on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-labyrinth-with-tomntech-wisdom-hardware-edition/"><u>Navigating the Digital Labyrinth with Tom'n'Tech Wisdom - Hardware Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-denied-and-hidden-folder-issues-in-outlook-20192022/"><u>Overcoming 'Access Denied' And Hidden Folder Issues in Outlook 2019/2022</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-flaws-in-the-windows-snipping-tool-keys/"><u>Overcoming Flaws in the Windows Snipping Tool Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/priced-too-low-the-reality-behind-cheap-windows-licenses/"><u>Priced Too Low: The Reality Behind Cheap Windows Licenses</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-affordable-apple-eyewear-unveiling-the-truth-behind-the-budget-vision-pro-speculations/"><u>The Future of Affordable Apple Eyewear: Unveiling the Truth Behind the Budget Vision Pro Speculations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316939-9781401936938-the-storm-before-the-calm/"><u>The Storm Before the Calm | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-windows-issues-with-non-opening-notepad/"><u>Troubleshooting: Resolving Windows' Issues with Non-Opening Notepad</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>Updated 2024 Approved No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024/"><u>おせち以外で楽しむ2024年新春の味わい〜舌上驚かすお得情報</u></a></li>
 </ul></div>
 

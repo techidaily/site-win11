@@ -1,7 +1,7 @@
 ---
 title: "Error X Demystified: Correcting the 0X80072746 Mail Flaw"
-date: 2024-09-05T08:30:52.387Z
-updated: 2024-09-06T08:30:52.387Z
+date: 2024-12-07T09:59:20.793Z
+updated: 2024-12-13T08:13:27.772Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Allow svchost.exe in the Firewall
 
  The 0x80072746 error in the Mail app commonly occurs when a third-party firewall interferes with a critical Windows program called svchost.exe.
@@ -32,20 +36,8 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's worth noting that the exact steps of performing this action can vary depending on the specific program you are using. Typically, this information is available in the application settings of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Modify VPN Settings
 
  Active VPNs can also interfere with the Mail app's ability to establish network connections, leading to the problem at hand.
@@ -62,20 +54,8 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 2. Choose **Network & Internet** \> **VPN**.  
 ![VPN settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-settings-windows.jpg)
 3. Enable the **Allow VPN over metered network** option.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allow VPN over metered network in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/vpn-over-metered-network.jpg)
 4. Now, head over to the "Related settings" section and choose **Change adapter options**.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click on your LAN (Wi-Fi) connectivity and choose **Properties** from the context menu.
 6. Select **Internet Protocol Version 6 (TCP/PV6)** and click **OK** to save the changes.
 
@@ -103,23 +83,24 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 2. Head over to the Manage Account section and choose **Add account**.  
 ![Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-account.jpg)
 3. Scroll down and choose **Advanced Setup**.  
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choose Advanced setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-setup-option.jpg)
 4. Click on **Internet email** and enter the manual settings you copied earlier.  
 ![Click Internet email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/internet-email-option.jpg)
 5. Finally, click on **Sign in** and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update the Mail App
 
  Your Mail app might also be outdated, which is preventing it from being fully compatible with the latest email server configurations and security protocols, leading to the error at hand.
@@ -133,12 +114,6 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 3. In the following window, click on the **Get updates** button. This should display all the available updates for the installed apps. MS Store will begin to download them automatically.  
 ![The Get updates button in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-updates-button.jpg)
 4. Wait for the updates to download and check if the problem is resolved.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While you are at it, we also recommend installing any system updates that might be available in the Settings app.
 
@@ -149,11 +124,9 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
  The Repair option attempts to fix any damaged or missing files that might be contributing to the error, while the Reset option will restore the default, error-free state of the application. It is important to note, however, that while these solutions are effective at fixing the underlying problem, you are likely to lose your settings and preferences within the Mail app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Multiple Ways to Fix the Windows Mail App
 
  Encountering issues with the Mail app can be incredibly frustrating, especially if you rely on it for your important work. Hopefully, the solutions listed above will help you fix the 0x80072746 error once and for all.
@@ -162,11 +135,33 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  Below, we take a look at the different troubleshooting methods that can help fix this issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bring-your-vision-to-life-incorporating-free-lut-filters-into-obs-projects/"><u>[New] Bring Your Vision to Life Incorporating Free LUT Filters Into OBS Projects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-dissecting-instagrams-maximum-video-duration-rule/"><u>[New] In 2024, Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-intense-moment-capture-iphone-burst-mode-for-2024/"><u>[Updated] Intense Moment Capture IPhone Burst Mode for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-spice-up-stories-tailored-creative-qandas-for-users/"><u>[Updated] Spice Up Stories Tailored Creative Q&As for Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-effortless-techniques-for-iphone-screen-recordings/"><u>2024 Approved Effortless Techniques for Iphone Screen Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-operation-failure-error-in-win-1011/"><u>Eradicating Operation Failure Error in Win 10/11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-8-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 8 Plus and iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-out-of-arrow-chaos-in-windows-pcs/"><u>Navigate Out of Arrow Chaos in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-issue-a-step-by-step-guide/"><u>Overcoming 'lsass.exe' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-app-camera-access-disputes-error-a00f4243/"><u>Overcoming Windows App Camera Access Disputes (Error A00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-windows-11-to-classic-folder-visibility/"><u>Resetting Windows 11 to Classic Folder Visibility</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-virtual-setup-installing-win11-on-workstation-17/"><u>Streamlining Virtual Setup: Installing Win11 on Workstation 17</u></a></li>
+<li><a href="https://win11.techidaily.com/the-enigmatic-personal-space-in-win-how-to-engage-with-private-character-viewer/"><u>The Enigmatic Personal Space in Win: How to Engage with Private Character Viewer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-to-freeing-up-your-iphone-top-3-effective-strategies/"><u>The Ultimate Guide to Freeing Up Your iPhone: Top 3 Effective Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-onoff-windows-automatic-images-on-screen-lock/"><u>Turning On/Off Windows' Automatic Images on Screen Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creative-potential-the-ultimate-hdr-guide/"><u>Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-solidity-of-large-studiolight-box/"><u>Unveiling the Solidity of Large StudioLight Box</u></a></li>
+<li><a href="https://win11.techidaily.com/updating-your-spotlight-theme-a-users-guide-in-windows/"><u>Updating Your Spotlight Theme: A User's Guide in Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-5-effektivnyh-agentstv-po-optimizacii-dlya-onlajn-rosta-v-ssha-optimizeboost-elite/"><u>Топ-5 Эффективных Агентств По Оптимизации Для Онлайн Роста В США | OptimizeBoost Elite</u></a></li>
+</ul></div>
+

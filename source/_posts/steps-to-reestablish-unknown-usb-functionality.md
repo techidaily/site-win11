@@ -1,7 +1,7 @@
 ---
 title: Steps to Reestablish Unknown USB Functionality
-date: 2024-09-05T08:31:36.212Z
-updated: 2024-09-06T08:31:36.212Z
+date: 2024-12-06T18:28:01.280Z
+updated: 2024-12-13T06:13:47.298Z
 tags:
   - windows10
   - windows11
@@ -39,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Look for Hardware Changes
 
  The Device Manager comes with a Scan for hardware changes option, which you can use whenever a connected USB device is not responding or throwing an error message. You can use this option by following the below instructions:
@@ -56,16 +50,18 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
 Here's how to use the Hardware and Devices troubleshooter:
@@ -77,18 +73,6 @@ Here's how to use the Hardware and Devices troubleshooter:
 
  The Hardware and Devices troubleshooter will now look for and automatically fix any available hardware issues on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Fast Startup
 
  Windows has a[fast startup feature](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) that you can enable to fasten your computer's boot speed. But on the negative side, enabling this feature can also result in different system issues, including the Unknown USB Device, Port Reset Failed error.
@@ -104,14 +88,12 @@ Here's how to use the Hardware and Devices troubleshooter:
 ![Disable Fast Startup in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Disable-Fast-Starup.jpg)
 7. Click the**Save changes** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, restart your computer and check for the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Download the Latest Driver Update
 
  The best way to eliminate hardware issues is to download its driver update. Here are the steps to do it:
@@ -121,21 +103,13 @@ Next, restart your computer and check for the problem.
 3. Right-click on the problematic device, and choose**Update driver** from the context menu.  
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall All the USB Controllers
 
  If updating the driver was not helpful, you can try reinstalling all the devices under the Universal Serial Bus controllers. To do this, follow the below steps:
@@ -155,19 +129,11 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Update Your BIOS
 
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
@@ -180,14 +146,11 @@ Next, restart your computer and check for the problem.
 
  If you see the Unknown USB Device, Port Reset Failed error in the Device Manager; you now know what's causing the problem and how to fix it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,4 +159,18 @@ Next, restart your computer and check for the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-14-pro-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/5pya5paw44gu44ov44oq44o844km44kn44ki44gn44cb5yq55p6c55qe44gr5yuv55s744ov44kh44kk44or44ks5zyn57iu44gz44kl5pa55rov77yw44gk/"><u>最新のフリーウェアで、効果的に動画ファイルを圧縮する方法６つ</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-hacer-una-copia-de-seguridad-en-windows-11-hacia-un-dispositivo-nas-qnap-guia-paso-a-paso/"><u>Cómo Hacer Una Copia De Seguridad en Windows 11 Hacia Un Dispositivo NAS QNAP - Guía Paso a Paso</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-galaxy-ford-f-150-remote-controlled-truck-assessment/"><u>Comprehensive Galaxy Ford F-150 Remote-Controlled Truck Assessment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nokia-xr21-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nokia XR21 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-find-x7-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Find X7 Phone?</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-have-5-reasons-retro-handheld-games-explained/"><u>Must-Have 5 Reasons: Retro Handheld Games Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-w11s-screensaver-and-crash-dilemmas/"><u>Overcoming W11's Screensaver and Crash Dilemmas</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-up-game-resolving-steam-write-problems/"><u>Stepping Up Game: Resolving Steam Write Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-respond-and-recover-windows-download-issues/"><u>Strategies to Respond and Recover Windows Download Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-potential-7-efficient-practices-for-windows-11-users-42/"><u>Unleash Peak Potential: 7 Efficient Practices for Windows 11 Users (42)</u></a></li>
+</ul></div>
 

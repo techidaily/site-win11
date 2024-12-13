@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate Error 0X80073D26 From Your Microsoft Store
-date: 2024-11-30T17:49:52.868Z
-updated: 2024-12-07T05:14:06.201Z
+date: 2024-12-09T08:44:03.563Z
+updated: 2024-12-13T13:35:42.948Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store App Troubleshooting Tool
 
  This isn’t the most likely solution for error 0x80073D26, but it’s worth trying since Microsoft Store is a UWP app. Running the Windows Store App troubleshooter might detect a Microsoft Store issue and provide a fix. These are the steps for running the Windows Store App troubleshooting utility:
@@ -36,23 +40,23 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 ![The Run button for the Windows App Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-app-store-troubleshooter.jpg)
 5. Apply all troubleshooting suggestions provided within Windows Store Apps window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-app-troubleshooter.jpg)
 
- You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can run the same troubleshooter tool in Windows 10, but the steps for accessing it are a bit different. Click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters** in Windows 10’s Settings app. Then select **Windows Store Apps** \> **Run the troubleshooter** to get troubleshooting.
 
 ## 2\. Repair and Reset the Microsoft Store App
 
  Accumulated and corrupted Microsoft Store cache data is a potential cause for error 0x80073D26\. Resetting the Microsoft Store app via Settings or the Command Prompt will clear the app’s data. Try applying both methods in this guide to resetting Microsoft Store. Also, select the **Repair** option for the Microsoft Store just above its **Reset** button in Settings to see if that resolves the issue.
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 4. Right-click the **GamingServices** subkey within the Services key to select **Delete** \> **Yes**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Exit Registry Editor and restart your PC.
 
@@ -83,31 +83,28 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
 `Get-AppxPackage *gaming services* -allusers | remove-appxpackage -allusers`  
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 6. Close out of PowerShell to restart Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Repair System Files
 
@@ -123,6 +120,10 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
@@ -130,6 +131,10 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -141,10 +146,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
@@ -153,29 +154,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Players can’t enjoy their Xbox Game Pass titles because of error 0x80073D26, which makes this an annoying issue for Xbox Game Pass users. This is how you can fix the Microsoft Store error 0x80073D26 in Windows
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>[New] 2024 Approved Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>[New] 2024 Approved Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-depth-assessment-comprehensive-camstudio-toolkit/"><u>[New] In 2024, In-Depth Assessment Comprehensive CamStudio Toolkit</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/are-camera-shakes-less-troublesome-after-photostable-effects-for-2024/"><u>Are Camera Shakes Less Troublesome After PhotoStable Effects for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-restarts-for-distro-and-catroot2-in-latest-ws11-os/"><u>Efficient Restarts for Distro & Catroot2 in Latest WS11 OS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-decoding-second-count-in-20mb-video-files/"><u>In 2024, Decoding Second Count in 20MB Video Files</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-discover-the-world-in-360-watching-vr-videos-on-iphone/"><u>In 2024, Discover the World in 360 Watching VR Videos on iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-malfunctioning-asana-applications-on-your-computer/"><u>Mastery Over Malfunctioning Asana Applications on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/nostalgic-gaming-revived-techniques-for-using-retroarchs-shaders/"><u>Nostalgic Gaming Revived: Techniques for Using RetroArch’s Shaders</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-pubgs-save-functionality-windows/"><u>Regaining Control Over PUBG's Save Functionality (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-windows-11s-calculator-opening-process/"><u>Simplifying Windows 11'S Calculator Opening Process</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-returning-windows-11-to-original-search-layout/"><u>Step-by-Step: Returning Windows 11 to Original Search Layout</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-overheating-pcs-with-windows-resource-monitor-insights/"><u>Tackling Overheating PCs with Windows Resource Monitor Insights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-strategy-for-top-tier-youtube-titles-and-tags-for-2024/"><u>The Ultimate Strategy for Top-Tier Youtube Titles & Tags for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-audio-hardware-in-windows/"><u>Troubleshooting Unresponsive Audio Hardware in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-virtual-capacity-with-these-6-windows-tricks/"><u>Unlock Full Virtual Capacity with These 6 Windows Tricks</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -183,3 +161,21 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-video-separation-standards-recorders-rating-review-for-2024/"><u>[New] Video Separation Standards Recorder's Rating Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-champion-of-chiseled-cheeks-starting-your-youtube-aesthetic-venture/"><u>[Updated] 2024 Approved Champion of Chiseled Cheeks Starting Your YouTube Aesthetic Venture</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-overscan-perfecting-window-sizing-on-windows/"><u>Eliminate Overscan: Perfecting Window Sizing on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-windows-file-navigation-a-guide-excluding-ls/"><u>Enhanced Windows File Navigation: A Guide Excluding LS</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-installing-windows-patches-when-facing-error-0x80070002/"><u>Expert Tips for Successfully Installing Windows Patches When Facing Error 0X80070002</u></a></li>
+<li><a href="https://discover-great.techidaily.com/expert-tips-for-upscaling-mp4-files-to-ultra-hd-learn-the-technique-for-perfect-1080p-conversion/"><u>Expert Tips for Upscaling MP4 Files to Ultra HD - Learn the Technique for Perfect 1080P Conversion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-z-fold-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy Z Fold 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-teams-performance-leap-forward/"><u>Microsoft Teams' Performance Leap Forward</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211383101-9781957811147-notes-to-sadhakas/"><u>Notes to Sadhakas | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-your-pcs-missing-windows-update-service/"><u>Restoring Your PC's Missing Windows Update Service</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-repository-adding-meaning-through-labels/"><u>Revolutionize Your Repository: Adding Meaning Through Labels</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/video-editing-mastery-top-3-4k8k-software-solutions-for-2024/"><u>Video Editing Mastery Top 3 4K/8K Software Solutions for 2024</u></a></li>
+</ul></div>
+

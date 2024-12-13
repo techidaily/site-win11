@@ -1,7 +1,7 @@
 ---
 title: "Hotkey Hacking: Customizing Windows 10 & 11 Quickly"
-date: 2024-12-03T06:13:59.786Z
-updated: 2024-12-07T04:10:31.047Z
+date: 2024-12-06T07:46:08.260Z
+updated: 2024-12-12T16:33:25.367Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 4. Follow the steps in this guide about[unzipping files within Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the QuickTextPaste archive.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-compressed-window.jpg)
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
@@ -45,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
  To set up some program hotkeys, input**run: <application file name>** within the**Add** text box. For example, input**run: msedge.exe** to set up an Edge hotkey. Select the key combination for running the software in the drop-down menus.
 
 ![A run Edge hotkey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-edge-hotkey.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  QuickTextPaste has a 4,000-character limit for text snippets. However, that’s not an especially big restriction. You can probably fit up to 600 words within a 4,000-character limit.
 
@@ -70,18 +71,23 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
 7. Input a letter key within the text box to set the hotkey.
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -92,11 +98,7 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -105,13 +107,13 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
 
@@ -132,18 +134,16 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-streams-best-recording-programs/"><u>[New] In 2024, Gaming Streams Best Recording Programs</u></a></li>
-<li><a href="https://win-premium.techidaily.com/direktkopieren-von-festplatteninhalten-auf-windows-t-ohne-umwandlung/"><u>Direktkopieren Von Festplatteninhalten Auf Windows T Ohne Umwandlung</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-for-converting-mkv-to-mp4-on-windows/"><u>Effective Methods for Converting MKV to MP4 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-fixes-for-isdonedll-isarcextract-on-w10w11/"><u>Efficient Fixes for ISDone.dll (ISArcExtract) on W10/W11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-backup-and-export-your-data-from-chatgpt-efficiently/"><u>How to Backup & Export Your Data From ChatGPT Efficiently</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-compelling-compositions-with-magix-fruity-loops/"><u>In 2024, Crafting Compelling Compositions with Magix Fruity Loops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-following-review-creative-options/"><u>In 2024, Following Review Creative Options</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-command-execution-installation-guide-for-advanced-run-feature/"><u>Maximize Command Execution: Installation Guide for Advanced Run Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-galaxy-f14-5g-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Galaxy F14 5G and stops randomly</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-wi-fi-woes-fixing-windows-lol-connection/"><u>Overcoming Wi-Fi Woes: Fixing Windows LoL Connection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-capabilities-for-a-silent-windows-7-system/"><u>Restoring Audio Capabilities for a Silent Windows 7 System</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-transition-leading-8-tools-for-sub-to-srt-changeover-for-2024/"><u>Seamless Transition Leading 8 Tools for Sub to SRT Changeover for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-storage-onedrive-with-microsoft-id/"><u>Streamline Your Storage: OneDrive with Microsoft ID</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-deep-dive-into-using-googles-speech-technology-for-document-editing/"><u>[New] Deep Dive Into Using Google's Speech Technology for Document Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/riters-guide-embedding-images-in-articles-without-spending-for-2024/"><u>[New] Writers' Guide Embedding Images in Articles Without Spending for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>[Updated] High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-tech-tussle-2022-gopro-hero5-clash-with-garmin-virb/"><u>[Updated] In 2024, Tech Tussle 2022 GoPro Hero5 Clash with Garmin VIRB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-art-of-saving-just-a-bit-from-youtube-videos/"><u>[Updated] In 2024, The Art of Saving Just a Bit From YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-saving-youtube-content-with-simple-steps/"><u>2024 Approved Saving YouTube Content with Simple Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/from-apple-to-windows-effortless-integration-with-parallels-guide/"><u>From Apple to Windows: Effortless Integration with Parallels Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-batch-files-not-working-on-windows/"><u>How to Fix Batch Files Not Working on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-usb-flash-drive-picks/"><u>Leading USB Flash Drive Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-windows-mastering-the-top-8-reboot-paths/"><u>Refreshing Windows: Mastering the Top 8 Reboot Paths</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-managing-windows-11-registry-access/"><u>Securely Managing Windows 11 Registry Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resurrect Your Keys: Troubleshoot WIN10 Keyboard Problems"
-date: 2024-09-05T08:31:46.553Z
-updated: 2024-09-06T08:31:46.553Z
+date: 2024-12-07T00:10:14.600Z
+updated: 2024-12-12T19:48:02.045Z
 tags:
   - windows10
   - windows11
@@ -28,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  Then, try to use one of the Function keys.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -55,17 +49,13 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -77,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Filter Keys
 
  In Windows, the Filter Keys feature is designed to stop repeated keystrokes. However, disabling it might have a positive impact on the Fn keys' functionality.
@@ -90,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Keyboards Drivers
 
  There is a chance the Fn keys stopped working because of an outdated, damaged, or corrupted driver. In this case, updating the keyboard driver should fix the problem.
@@ -111,11 +93,9 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Check the Human Interface Device Service
 
  The Human Interface Device service activates and monitors the usage of hot buttons, remote controls, and multimedia devices. So if the Function keys have stopped working, chances are a third-party app has disabled this service. Fortunately, you can make it run again with just a few clicks.
@@ -126,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  Then, restart your computer and check if the problem is now fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bring Back the Convenience of Fn Keys
 
  There you have it—a list of quick and easy solutions to fix your computer Fn keys. However, there's a chance the default Fn keys functionality doesn't work for you. In this case, you should know that you can change what the Fn keys do on your Windows computer.
@@ -134,11 +118,33 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-screen-spectaculum-hitting-720p-with-twitter-vids/"><u>[New] Screen Spectaculum Hitting 720P with Twitter Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elegant-volume-attenuation-using-lumafusion/"><u>[Updated] 2024 Approved Elegant Volume Attenuation Using Lumafusion</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone XS Max Without iTunes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-up-to-date-amd-smbus-drivers-for-your-system/"><u>Easy Access to Up-to-Date AMD SMBus Drivers for Your System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-hardware-duplication-no-software-needed/"><u>Easy Hardware Duplication - No Software Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-setting-up-your-computers-startup-routines-in-win11/"><u>Efficiently Setting Up Your Computer's Startup Routines in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-routines-for-elevating-virtual-memory-settings-on-windows-11/"><u>Essential Routines for Elevating Virtual Memory Settings on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-bring-back-photo-viewer-in-modern-windows-1111/"><u>How to Bring Back Photo Viewer in Modern Windows 11/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-9a-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 9A</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-new-era-accelerated-team-collaboration/"><u>Microsoft's New Era: Accelerated Team Collaboration</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-iphone-and-ipad-video-editing-top-collage-apps-this-year/"><u>New 2024 Approved IPhone and iPad Video Editing Top Collage Apps This Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-new-dates-for-mafia-definitive-edition-launch-update-or-cancellation/"><u>No New Dates for Mafia: Definitive Edition Launch - Update or Cancellation?</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-fixes-for-common-windows-bsod/"><u>Quick & Effective Fixes for Common Windows BSOD</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-lockout-limit-after-incorrect-login-efforts-in-windows-1011/"><u>Reconfiguring Lockout Limit After Incorrect Login Efforts in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-directory-not-empty-issue-with-error-code-0x80070091-in-windows-11/"><u>Rectifying Directory Not Empty Issue with Error Code: 0X80070091 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-notation-in-windows-11s-explorer/"><u>Unveiling the Power of Notation in Windows 11'S Explorer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-edit-like-a-pro-top-free-vob-video-editors/"><u>Updated 2024 Approved Edit Like a Pro Top Free VOB Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/winsec-fix-overcoming-limited-admin-access-alert/"><u>WinSec Fix: Overcoming 'Limited Admin Access' Alert</u></a></li>
+</ul></div>
+

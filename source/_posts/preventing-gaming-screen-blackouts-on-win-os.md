@@ -1,7 +1,7 @@
 ---
 title: Preventing Gaming Screen Blackouts on Win OS
-date: 2024-09-05T08:29:05.079Z
-updated: 2024-09-06T08:29:05.079Z
+date: 2024-12-10T20:00:17.946Z
+updated: 2024-12-13T07:11:08.026Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Win OS Blackout Prevention,Avoiding OS Xscreen Loss,Stable PC Games Di
 thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339daebaab90b2926193e2ffe8d4.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preventing Gaming Screen Blackouts on Win OS
 
  Does your device's screen go black in the middle of your gaming session? Most of the time, the problem occurs because of outdated graphics drivers, a problem with the monitor connection, improper power-saving settings, prolonged hardware stress, excessive heat generation, or misconfigured game settings.
@@ -37,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  If none of the above fixes help resolve the problem on a PC, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Perform Preliminary Checks
 
  Start the troubleshooting process by applying the fixes listed below:
@@ -58,28 +50,20 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
  If these changes fail to resolve the issue, or if the problem persists with more than one game, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Monitor the Resource Usage During Gameplay
 
  Does the screen turning black issue only occur when playing resource-intensive games? If that's the case, one of your device's hardware components, especially the CPU or GPU, could be under high strain. To test this hypothesis, minimize the game right after launch, open Task Manager, and monitor CPU, GPU, and RAM resource consumption.
 
 ![Sort Processes by the CPU Resource Consumption in CPU Column of Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-sort-processes-by-the-cpu-resource-consumption-in-cpu-column-of-windows-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the components' resource usage remains within normal limits, they are not under extreme stress. However, if you see the screen go black right when one of the components's usage spikes to 100 percent, the increase in stress is likely the cause.
 
  For such a situation, refer to our guides on [how to fix high CPU](https://www.makeuseof.com/tag/fix-high-cpu-usage-windows/), [GPU](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/), and [RAM resource usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) and apply the relevant solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Monitor the Temperature of the System Components
 
  In extreme cases, excessive heat can prevent your device's components from functioning correctly, leading to a complete blackout. It's more likely to happen on laptops since they are generally more compact and feature narrow ventilation that struggles to dissipate excess heat effectively. If your laptop frequently overheats, ensure it's not the cause of the problem.
@@ -101,21 +85,13 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 ![Disable App Readiness Service in the Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-disable-app-readiness-service-in-the-windows-services-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the issue ceases to occur after the service is disabled, it could be the culprit. While keeping the service disabled is one way to avoid facing this issue again, disabling the service permanently can have unforeseen consequences.
 
  So, instead of permanently disabling the service, we recommend disabling it before your gaming session and enabling it when you're finished playing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Turn Off the Link State Power Management Setting
 
  Link State Power Management enables users to save power and prolong battery life. In some cases, enabling this setting can limit your device's power consumption, causing your screen to go black when you least expect it. To make sure that power saving is not the problem, follow the below steps:
@@ -124,15 +100,17 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 2. Click on **Change advanced power settings**.  
 ![Go to Change Advanced Power Settings in Windows Power Plan Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-go-to-change-advanced-power-settings-in-windows-power-plan-settings.jpg)
 3. Expand the **PCI Express** and L**ink State Power Manageme**nt categories.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select **Off** from the dropdown menus next to **On battery** and **Plugged in**.
 5. Then, click **Apply** and hit **OK**.  
 ![Turn Off the On Battery and Plugged In Modes in Link State Power Management Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-turn-off-the-on-battery-and-plugged-in-modes-in-link-state-power-management-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't Let a Black Screen Ruin Your Winning Streak
 
@@ -142,11 +120,27 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
  If your screen keeps going black while gaming and takes you back to the desktop, here are a few solutions you can try to fix the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>[New] In 2024, Concealed Identities Quick Tips for Face-Obscuration in Images</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-maximum-fps-impacting-low-motion-sequences/"><u>[New] Maximum FPS Impacting Low-Motion Sequences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-live-action-to-youtube-recording-your-device-display/"><u>[Updated] In 2024, From Live Action to YouTube Recording Your Device Display</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hevch265-windows-10-11/"><u>動画再生エラー HEVC/H.265の原因と解決策: Windows 10, 11用無料ソリューションガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/control-chatgpt-using-speech-discover-these-five-essential-techniques/"><u>Control ChatGPT Using Speech: Discover These Five Essential Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-sticknotes-setup-for-optimal-note-taking-in-win11win10/"><u>Easy StickNotes Setup for Optimal Note-Taking in Win11/Win10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-g2-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo G2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-terminal-resurfacing-techniques/"><u>Mastering Windows Terminal Resurfacing Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-precise-assessment-of-cpu-utilization-in-windows/"><u>Methods for Precise Assessment of CPU Utilization in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-steam-interface-failure-issue/"><u>Remedying Steam Interface Failure Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reset-and-stabilize-windows-post-restart/"><u>Steps to Reset and Stabilize Windows Post-Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failures-repairing-windows-11s-cloud-functionality/"><u>Tackling Failures: Repairing Windows 11'S Cloud Functionality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-analysis-amazfit-bip-the-ideal-beginners-smartwatch/"><u>Ultimate Analysis: Amazfit Bip - The Ideal Beginner's Smartwatch</u></a></li>
+</ul></div>
+

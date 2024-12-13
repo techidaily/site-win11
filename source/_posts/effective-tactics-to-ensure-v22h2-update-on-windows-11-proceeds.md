@@ -1,7 +1,7 @@
 ---
 title: Effective Tactics to Ensure V22H2 Update on Windows 11 Proceeds
-date: 2024-09-05T08:27:08.181Z
-updated: 2024-09-06T08:27:08.181Z
+date: 2024-12-06T05:10:04.801Z
+updated: 2024-12-12T23:51:19.225Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  However, some users have reported in forums that they can’t upgrade Windows 11 to the 22H2 version. Those users have said that updates get stuck at percentage marks when they try to download and install them from Settings. Some users see error codes like 0x800f0806 for that update. This is how you can fix the Windows 11 22H2 update not installing.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Run Windows 11’s Troubleshooter for Updates
 
  The Windows Update troubleshooter is there to check for and resolve issues with the update process. That troubleshooter isn’t guaranteed to fix all update errors, but it might fix Windows 11’s 22H2 update not installing for some users at least. You can run the Windows Update troubleshooter in the following steps:
@@ -38,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 5. Wait for the troubleshooter to detect issues and display an outcome. It will usually automatically apply fixes for detected issues.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Disconnect Non-Essential External Hardware and Peripherals From PC
 
  It's recommended that users unplug non-essential hardware from PCs before attempting to upgrade to a new Windows 11 version. Doing so will ensure that there aren't any non-essential hardware devices that can potentially interrupt or conflict with the upgrade process. You'll still need your mouse and keyboard of course, but disconnect all the following non-essential peripherals:
@@ -65,11 +51,9 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 * Secondary monitors (you only need one)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run a System File and Deployment Image Scan
 
  System file corruption can cause Windows update errors to arise. You can check for and remedy corrupted files by running a System File Checker scan in the Command Prompt. It’s also recommended to run a Deployment Image Servicing and Management scan to check the system image before that. This is how to run both scanning tools in Windows 11.
@@ -83,18 +67,6 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 `sfc /scannow`
 6. Wait for the SFC scan to show an outcome message in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Free Up Some Drive Storage Space
 
  You’ll need at least 64 gigabytes of drive storage space available for the Windows 11 22H2 update. So, check your hard drive has enough space for the 22H2 update before installing it.
@@ -102,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  If it doesn’t, free up the required drive storage space for the update by erasing superfluous files and uninstalling Windows software. Check out our[Cleanup recommendations guide](https://www.makeuseof.com/free-storage-space-with-cleanup-recommendations/) for further details about how to create storage space via Settings.
 
 ![Cleanup recommendations in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/cleanup-recommendations-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check If the Dependency Services for Windows Update are Enabled
 
@@ -114,20 +90,8 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 4. Click**Start** on the properties window if the service isn’t running.  
 ![The Windows Modules Installer service properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/a-service-properties-window-1.jpg)
 5. Select**Apply** \>**OK** to set the service’s settings.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Repeat the previous four steps for the Background Intelligent Transfer Service, Cryptographic Service, and Windows Update services.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Make Sure .NET Framework 3.5 is Enabled
 
  The .NET Framework 3.5 feature also needs to be enabled for the Windows Update service to work. That should be enabled by default in Windows 11, but some users may still need to turn on .NET Framework 3.5\. This is how you can make sure .NET Framework 3.5 is enabled in Windows 11:
@@ -143,11 +107,9 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 8. Restart Windows 11 after installing the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset the Components for Windows Update
 
  Windows 11 22H2 update issues can also arise because of corrupted update components. You can repair the update components by resetting them. This troubleshooting method involves restarting update services and refreshing the catroot2 and SoftwareDistribution folders by renaming them. You can reset components for Windows updates with the Command Prompt like this:
@@ -162,6 +124,11 @@ net stop msiserver`
 `ren C:\Windows\SoftwareDistribution SoftwareDistribution.old`  
 ![The ren SoftwareDistribution command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-softwaredistribution-command-1.jpg)
 4. Input this rename catroot2 command and press**Return** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `ren C:\Windows\System32\catroot2 Catroot2.old`  
 ![The ren catroot2 folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/the-ren-catroot2-folder-1.jpg)
 5. Then restart the services with these commands:  
@@ -180,17 +147,9 @@ net start msiserver`
  AVG and Avast are two antivirus software packages that often generate Windows update errors. Those antivirus tools have also been incompatible with some Windows 10 builds. If you have either of those two installed, consider uninstalling them instead of merely disabling their shields.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Disable Kernel DMA Protection
 
  Some users have said the Kernel DMA Protection security feature in Windows 11 causes the 22H2 update to fail when enabled. If that feature is enabled on your desktop or laptop, disabling it could fix the Windows 11 22H2 not installing. To check if Kernel DMA Protection is enabled,[open the System Information app](https://www.makeuseof.com/windows-11-check-system-information/) and look for that feature in the**System Summary** section.
@@ -200,11 +159,9 @@ net start msiserver`
  The only way to turn off Kernel DMA Protection is to disable a setting for it in the BIOS (Basic Input Output System). You can access Basic Input Output System settings on Windows 11/10 PCs as outlined within our guide on[how to enter the BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) . Look for and disable a Kernel DMA Protection setting on a**Security** tab within the BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Update Your PC's Drivers
 
  Outdated device drivers can cause Windows upgrade issues. So, we recommend that you generally update device drivers on your PC. The quickest way to do that is to utilize a driver updater tool like Driver Booster.
@@ -214,11 +171,9 @@ net start msiserver`
 ![Driver Booster 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/driver-booster2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, you may be able to install some new drivers with optional Windows updates. This is how you can check available optional updates in Windows 11:
 
 1. [Open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and its**Windows Update** tab.
@@ -227,12 +182,6 @@ net start msiserver`
 4. Select the checkboxes for driver updates there.
 5. Click the**Download and install** option for selected driver updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Install the 22H2 Update via the Installation Assistant
 
  This final resolution is more of a workaround than a fix for the 22H2 update not installing via Settings. Instead of using Settings, try upgrading with the Windows 11 Installation Assistant. We have a full guide that tells you[how to use the Installation Assistant](https://www.makeuseof.com/windows-11-installation-assistant-guide/) for updating Windows 11.
@@ -249,8 +198,6 @@ net start msiserver`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +205,26 @@ net start msiserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-discovering-social-medias-top-5-innovations-in-fb/"><u>[New] Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-3d-text-a-photoshop-technique/"><u>[New] Unleashing 3D Text A Photoshop Technique</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-navigating-mobile-recorders-to-capture-snapchat-moments/"><u>[Updated] 2024 Approved Navigating Mobile Recorders to Capture Snapchat Moments</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-beat-fiends-exploring-the-most-popular-rap-songs-on-tiktok/"><u>[Updated] In 2024, Beat Fiends Exploring the Most Popular Rap Songs on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-upload-video-to-facebook-from-pc-and-android/"><u>[Updated] In 2024, How to Upload Video to Facebook From PC and Android</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tools-to-convert-videos-on-your-pc-windows/"><u>Essential Tools to Convert Videos on Your PC, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-code-xc0000142-errors-in-windows/"><u>Fixing Code XC0000142 Errors in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-p40-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel P40 Phone Forgot Password</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-innovate-personalized-digital-chuckle-comedy/"><u>In 2024, Innovate Personalized Digital Chuckle Comedy</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-overclocking-for-enjoyable-power-efficient-gaming/"><u>Managing Overclocking for Enjoyable, Power-Efficient Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-context-menu-customization-for-firewall-control-in-windows-11/"><u>Mastering Context Menu Customization for Firewall Control in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-data-exchange-the-5-best-windows-programs/"><u>Mastering Secure Data Exchange: The 5 Best Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-0xc0351000-issue-finding-hyprocvisor-in-sandbox/"><u>Mitigating 0xC0351000 Issue: Finding Hyprocvisor in Sandbox</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-print-problem-fixes-on-your-windows-11-pc/"><u>Navigate Through Print Problem Fixes on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-how-to-resize-apps-using-just-your-pc-keys-on-windows-11/"><u>Quick Fixes: How to Resize Apps Using Just Your PC Keys on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175689342-revamp-your-rig-the-perfect-match-between-arctics-latest-36-cooler-and-intel-socket-lga1-groove/"><u>Revamp Your Rig: The Perfect Match Between Arctic's Latest 36 Cooler and Intel Socket LGA1 Groove</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revitalize-your-aging-android-device-top-5-fresh-tricks/"><u>Revitalize Your Aging Android Device: Top 5 Fresh Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-in-the-world-of-microcomputers/"><u>Windows in the World of Microcomputers</u></a></li>
+</ul></div>
 

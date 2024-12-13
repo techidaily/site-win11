@@ -1,7 +1,7 @@
 ---
 title: Tackling the Error When Importing iPhones to Windows PC/Laptop
-date: 2024-11-30T04:51:29.531Z
-updated: 2024-12-07T08:56:44.945Z
+date: 2024-12-08T06:25:27.960Z
+updated: 2024-12-13T04:02:20.118Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  So, don’t try to import all images on your iPhone. Try selecting to transfer a smaller number of photos you most want to view on your Windows PC. Then you can more easily identify problematic image files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Select the Import Pictures Context Menu Option
@@ -45,17 +45,17 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
 4. Click the**Review** radio button in the Import Pictures window that opens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
 6. Choose some images to transfer and click the**Import** option.  
 ![The Import option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Restart the Apple Mobile Device Service
@@ -70,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![The Apple Mobile Device Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-mobile-device-properties-window.jpg)
 5. Select**Apply** to save settings and**OK** to exit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Hardware Acceleration in Photos
 
@@ -86,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
 
@@ -99,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair and/or Reset the Photos App
@@ -108,15 +116,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Close the OneDrive App
 
@@ -163,18 +163,24 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-lightrooms-favorite-color-grads-and-luts-compilation/"><u>[New] LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screencaptureapps-recording-your-next-google-meet/"><u>[New] ScreenCaptureApps Recording Your Next Google Meet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-visual-content-strategies-for-instagram-photos/"><u>[New] Visual Content Strategies for Instagram Photos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-the-financial-aspects-of-youtube-success/"><u>[Updated] 2024 Approved Navigating the Financial Aspects of YouTube Success</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-pc-temperature-limits-in-windows/"><u>Configuring PC Temperature Limits in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-5-free-windows-podcast-polish-tools/"><u>Discovering 5 Free Windows Podcast Polish Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-asus-rt-ac68u-a-perfect-blend-of-speed-and-security-in-modern-5g-wi-fi-technology/"><u>Evaluating the Asus RT-AC68U: A Perfect Blend of Speed and Security in Modern 5G Wi-Fi Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/has-windows-security-stopped-working-on-your-windows-11-heres-how-you-can-fix-it/"><u>Has Windows Security Stopped Working on Your Windows 11? Here's How You Can Fix It</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-use-gopro-time-lapse-for-2024/"><u>How to Use GoPro Time Lapse for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-taskbar-button-image-glitches/"><u>Solutions for Taskbar Button Image Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-connectivity-issues-in-dysfunctional-samsung-soundbars-effective-solutions-and-techniques/"><u>Solving Common Connectivity Issues in Dysfunctional Samsung Soundbars - Effective Solutions & Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-geforce-experience-cant-update-configurations/"><u>Troubleshooting Steps When 'GeForce Experience' Can't Update Configurations</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-meaning-of-meta-in-video-games/"><u>Unraveling the Meaning of 'Meta' In Video Games</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-game-expert-mac-video-editing-guide/"><u>[New] 2024 Approved Elevate Your TikTok Game Expert Mac Video Editing Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-dramatic-audio-experiences/"><u>[New] Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-delving-deeply-into-obs-studios-capture-capabilities/"><u>[Updated] In 2024, Delving Deeply Into OBS Studio's Capture Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-instavid-secrets-plotting-a-successful-marketing-scheme/"><u>[Updated] In 2024, Unveiling InstaVid Secrets Plotting a Successful Marketing Scheme</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-about-bing-discover-the-ins-and-outs-of-microsofts-alternative-to-google/"><u>All About Bing: Discover the Ins and Outs of Microsoft's Alternative to Google</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/comment-retrouver-des-fichiers-perdus-sur-un-disque-dur-externe-seagate-solutions-et-tutoriels/"><u>Comment Retrouver Des Fichiers Perdus Sur Un Disque Dur Externe Seagate : Solutions Et Tutoriels</u></a></li>
+<li><a href="https://win11.techidaily.com/drag-and-drop-not-working-in-windows-11-try-these-fixes/"><u>Drag and Drop Not Working in Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://solve-help.techidaily.com/el-software-libre-perfecto-para-realizar-backups-en-wd-protege-tu-informacion-con-la-mejor-herramienta-sin-coste-alguno/"><u>El Software Libre Perfecto Para Realizar Backups en WD - Protege Tu Información Con La Mejor Herramienta Sin Coste Alguno</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-stutter-9-crucial-fixes-to-keep-your-ark-game-running-smoothly-on-windows/"><u>Fix the Stutter: 9 Crucial Fixes to Keep Your ARK Game Running Smoothly on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-potential-image-curve-magic-in-ps/"><u>In 2024, Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-to-acquiring-adobe-reader-through-ms-store/"><u>Instant Guide to Acquiring Adobe Reader Through MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-restart-speed-with-windows-11-fast-startup/"><u>Maximizing Restart Speed with Window's 11 Fast Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-speaker-function-in-non-responsive-os/"><u>Reactivate Speaker Function in Non-Responsive OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-application-start-failed-no-qt-found-situations/"><u>Remedying 'Application Start Failed: No Qt Found' Situations</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-microsoft-store-error-on-xbox-app/"><u>Steps to Tackle Microsoft Store Error on Xbox App</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ragnarok-winning-against-x-script-issues/"><u>Unlocking Ragnarok: Winning Against X-Script Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-biggest-upgrades-from-february-2023/"><u>Win11's Biggest Upgrades From February 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/workaround-for-windows-systems-with-missing-msvcr120dll/"><u>Workaround for Windows Systems with Missing Msvcr120.dll</u></a></li>
 </ul></div>
 

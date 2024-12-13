@@ -1,7 +1,7 @@
 ---
 title: "Win 11 Hack: Quashing the Requires Elevation Complication"
-date: 2024-12-04T16:47:37.392Z
-updated: 2024-12-06T22:09:35.012Z
+date: 2024-12-10T07:48:06.219Z
+updated: 2024-12-12T22:05:48.384Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
@@ -52,7 +52,11 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Admin Approval Mode
 
  Admin Approval Mode prompts administrative users for task permissions when enabled. It’s a strict Group Policy Editor security policy that can potentially cause elevation issues. Follow these steps to turn off Admin Approval Mode.
@@ -105,16 +105,17 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 3. Click the **Disabled** radio button if this policy is enabled.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
 4. Select **Apply** to turn off Admin Approval Mode.
-5. To close the policy window, select the **OK** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. To close the policy window, select the **OK** option.
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -123,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
  The potential solution, in this case, is to temporarily disable third-party antivirus software before trying to run affected programs. Look for and select an option that turns off the antivirus shield by right-clicking on the antivirus software’s system tray icon. If there are time options available, select to turn the real-time protection off for about an hour or so.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
 
@@ -133,40 +138,16 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-high-quality-live-streaming-games-via-obs-for-2024/"><u>[New] High-Quality Live Streaming Games via OBS for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-summit-elite-25-testing-analysis/"><u>[New] In 2024, Summit Elite 25 Testing Analysis</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-resolve-the-semaphore-timeout-expiration-issue-error-code-0x80070079/"><u>Complete Guide to Resolve the Semaphore Timeout Expiration Issue - Error Code 0X80070079</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-windows-spooler-revival/"><u>Effective Windows Spooler Revival</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-procuring-mac-address-on-windows-11-devices/"><u>Essential Guide: Procuring MAC Address on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-an-unstable-cursor-on-windows-systems/"><u>Fixing an Unstable Cursor on Windows Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-why-kooteks-laptop-stabilizer-is-an-outstanding-general-option/"><u>In-Depth Analysis: Why Kootek's Laptop Stabilizer Is an Outstanding General Option</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-voice-enhancement-programs-for-virtual-stars-for-2024/"><u>Leading Voice Enhancement Programs for Virtual Stars for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-method-to-install-windows-11-on-elderly-pcs-with-to-go-and-rufus/"><u>Masterful Method to Install Windows 11 on Elderly PCs with To Go and Rufus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-graphics-hurdles-in-overwatch-the-successful-driver-patch-explanation/"><u>Overcome Graphics Hurdles in Overwatch – The Successful Driver Patch Explanation</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-methods-for-windows-11-drive-clearance-no-file-erasure-max-156-chars/"><u>Secure Methods for Windows 11 Drive Clearance (No File Erasure, Max 156 Chars)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/streamline-your-workflow-expert-advice-on-managing-fcpx-storage-for-2024/"><u>Streamline Your Workflow Expert Advice on Managing FCPX Storage for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-graphics-ram-on-modern-windows-devices/"><u>Upgrading Graphics RAM on Modern Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-subsystem-discontinued-adapting-to-new-android-setup/"><u>Windows Subsystem Discontinued: Adapting to New Android Setup</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -175,3 +156,24 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchats-money-making-opportunities-exposed/"><u>[New] 2024 Approved Snapchat's Money-Making Opportunities Exposed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revamp-chrome-browsing-sharper-social-media-videos/"><u>[Updated] 2024 Approved Revamp Chrome Browsing Sharper Social Media Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-grasp-the-typical-earning-curve-for-podcasters/"><u>[Updated] Grasp the Typical Earning Curve for Podcasters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-critical-asmr-video-elements-to-note/"><u>[Updated] In 2024, Critical ASMR Video Elements to Note</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-hidden-details-uncovering-story-viewer-truths/"><u>[Updated] Instagram's Hidden Details Uncovering Story Viewer Truths</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-key-iphone-shot-design-guidelines-unveiled/"><u>2024 Approved Key iPhone Shot Design Guidelines Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-the-windows-11-bar-a-comprehensive-approach/"><u>Conquer the Windows 11 Bar: A Comprehensive Approach</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-your-android-phone-as-a-webcam-on-windows-11/"><u>How to Use Your Android Phone as a Webcam on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-solutions-for-storing-mov-files-in-windows-10/"><u>Innovative Solutions for Storing Mov Files in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-9-ways-to-navigate-through-windows-audio-settings-panel/"><u>Learn 9 Ways to Navigate Through Windows Audio Settings Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-noninteractive-elements-on-windows-11/"><u>Overcoming Noninteractive Elements on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-to-your-gaming-hardware-information-in-win11/"><u>Quick Access to Your Gaming Hardware Information in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-task-managers-empty-startup-section/"><u>Resolving Task Manager's Empty Startup Section</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-server-unavailable-for-ea-on-windows/"><u>Tackling Server Unavailable for EA on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-corsair-hs70-resolving-nonfunctional-microphone-issues/"><u>Troubleshooting Your Corsair HS70: Resolving Nonfunctional Microphone Issues</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Controlling Data Size & Space Usage with Win11's NTFS Features
-date: 2024-11-30T23:06:26.872Z
-updated: 2024-12-06T23:54:18.930Z
+date: 2024-12-09T05:15:24.433Z
+updated: 2024-12-13T08:56:27.979Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Enable NTFS File Compression Through the File Explorer
 
@@ -63,19 +67,11 @@ Similarly, you can compress an entire drive. Here's how:
 
 ![File compression command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/file-compression-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see the "**A reboot is required for this change to take effect** " message on the console. So, restart your computer to apply the changes.
 
  If you want to disable File Compression, execute the following command in the elevated Command Prompt window, followed by a system restart.
 
 `fsutil behavior set disablecompression 1`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
@@ -95,13 +91,13 @@ Similarly, you can compress an entire drive. Here's how:
 9. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enable NTFS File Compression Using the Local Group Policy Editor
@@ -117,10 +113,14 @@ Similarly, you can compress an entire drive. Here's how:
 5. Click**Apply** \>**OK** to enable file compression.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
 
@@ -143,14 +143,16 @@ Similarly, you can compress an entire drive. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-free-templates-for-bespoke-video-epilogues/"><u>[New] Free Templates for Bespoke Video Epilogues</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[Updated] 2024 Approved Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-win10s-top-7-pencil-to-pixels-apps/"><u>Explore: Win10's Top 7 Pencil-to-Pixels Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-hide-or-show-the-firewall-and-network-protection-area-in-windows-security/"><u>How to Hide or Show the Firewall and Network Protection Area in Windows Security</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-tactics-restoring-functionality-to-outlook-on-pc/"><u>Quick-Fix Tactics: Restoring Functionality to Outlook on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-missing-rockalldlldll-errors-on-pcs/"><u>Resolving Missing Rockalldll.dll Errors on PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[Updated] 2024 Approved From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prime-7-video-software-for-mac/"><u>[Updated] 2024 Approved Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>2024 Approved Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-document-creation-chatgpt-word-partnership-for-efficiency/"><u>Conquer Document Creation: ChatGPT-Word Partnership for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-browsing-on-new-systems/"><u>Essential Steps for Browsing on New Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-laptops-for-tech-enthusiasts/"><u>Essential Windows Laptops for Tech Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f34-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F34 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introduction-to-generative-ai-the-revolution-in-machine-learning-explained/"><u>Introduction to Generative AI: The Revolution in Machine Learning Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-correction-guide-for-windows-error-x800704cf/"><u>Microsoft Store Correction Guide for Windows Error X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-muted-sound-despite-settings-to-full-volume/"><u>Remedy Muted Sound Despite Settings to Full Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-resolving-windows-charmap-dysfunction/"><u>Restoring Order: Resolving Windows CharMap Dysfunction</u></a></li>
 </ul></div>
 

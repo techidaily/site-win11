@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 10/11'S Error Code: 0X8007045D"
-date: 2024-12-01T18:07:16.502Z
-updated: 2024-12-06T22:38:19.063Z
+date: 2024-12-10T11:08:31.478Z
+updated: 2024-12-13T01:42:03.015Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  The error mostly occurs when your computer fails to find or read your files. It can be caused by a host of other reasons as well, be it software or hardware; however, more often than not, the underlying issue is an inability to read files or some error in copying them. So let's look at all the methods you can try to fix the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Perform a Windows Update
@@ -49,14 +49,10 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
 ![windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're done, check and see if the 0x8007045d error persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart Your PC
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use an Alternate USB Slot
@@ -115,10 +111,14 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 ![device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The update wizard will launch. If the drivers were the problem, this should fix your error. Alternatively, you can search for the driver manufacturer and manually download the drivers from its website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the 0x8007045d Error on Your Windows PC
 
@@ -141,17 +141,20 @@ thumbnail: https://thmb.techidaily.com/94567bf4df3b715033d93123bd31d8eb4bb0ab79d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-conversation-resurrection-tips-for-retrieving-erased-dialogue-records/"><u>ChatGPT Conversation Resurrection: Tips for Retrieving Erased Dialogue Records</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-pagefilesys-purpose-and-safety-of-deletion/"><u>Deciphering Pagefile.sys: Purpose & Safety of Deletion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-tailored-results-through-cookiebot-integration/"><u>Experience Tailored Results Through Cookiebot Integration</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-defender-fixing-unexpected-issues/"><u>Mastering Windows Defender: Fixing Unexpected Issues</u></a></li>
-<li><a href="https://fox-http.techidaily.com/optimizing-your-project-b-roll-utilization-tips-for-2024/"><u>Optimizing Your Project B-Roll Utilization Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/professionals-guide-to-project-prowess-keyboard-tips/"><u>Professional's Guide to Project Prowess: Keyboard Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-insider-info-fresh-news-on-price-points-release-schedule-and-detailed-hardware-specs/"><u>PSVR 2 Insider Info: Fresh News on Price Points, Release Schedule & Detailed Hardware Specs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-tips-for-launching-websites-directly-from-windows-start-menutaskbar/"><u>Quick Tips for Launching Websites Directly From Windows ˈStart Menu/Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-xbox-account-with-code-0x00000001-fix/"><u>Unlocking Your Xbox Account with Code 0X00000001 Fix</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-must-have-programs-for-youtube-video-downloads/"><u>[Updated] 2024 Approved Must-Have Programs for YouTube Video Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-desktop-broadcasting-tools-face-off-obs-vs-shadowplay/"><u>2024 Approved Desktop Broadcasting Tools Face-Off OBS vs ShadowPlay</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-run-windows-and-mac-os-video-editing-apps-on-your-chromebook/"><u>2024 Approved How to Run Windows and Mac OS Video Editing Apps on Your Chromebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-ai-capabilities-with-these-7-insights/"><u>Boost Your AI Capabilities with These 7 Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-xp-420-printer-driver-installation-and-updates-guide/"><u>Download the Latest Epson XP-420 Printer Driver: Installation and Updates Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-photo-editing-flow-on-your-os/"><u>Elevating Photo Editing Flow on Your OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-nat-type-in-windows-10-and-11-for-optimal-performance/"><u>How To Change NAT Type in Windows 10 & 11 for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/indispensable-android-programs-for-windows-pc-fans/"><u>Indispensable Android Programs for Windows PC Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-update-defeating-error-code-0x800736cc/"><u>Mastering Windows Update: Defeating Error Code 0X800736CC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-bugs-successful-solutions-to-stop-dirt-5-from-freezing-on-pcs/"><u>Overcoming Bugs: Successful Solutions to Stop Dirt 5 From Freezing on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/quell-windows-update-activations/"><u>Quell Windows Update Activations</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-common-store-crash-error-0x80073cf3/"><u>Remedying the Common Store Crash: Error 0X80073CF3</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-plex-for-mkv-files-quick-fixes-and-tips/"><u>Troubleshooting Plex for MKV Files - Quick Fixes and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-preservation-with-the-wayback-machine-tutorial/"><u>Unlock the Secrets of Digital Preservation with the Wayback Machine Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-youre-unable-to-download-any-files-on-a-windows-11-and-11/"><u>What to Do When You’re Unable to Download Any Files on a Windows 11 & 11</u></a></li>
 </ul></div>
 

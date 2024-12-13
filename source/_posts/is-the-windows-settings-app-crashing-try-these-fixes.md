@@ -1,7 +1,7 @@
 ---
 title: Is the Windows Settings App Crashing? Try These Fixes
-date: 2024-09-05T08:27:34.887Z
-updated: 2024-09-06T08:27:34.887Z
+date: 2024-12-08T03:56:49.919Z
+updated: 2024-12-12T22:12:13.250Z
 tags:
   - windows10
   - windows11
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
  App crashes can be caused by a number of things, such as a faulty background process, an outdated system, or corruption in the system. In this guide, we will discuss the troubleshooting methods you can try if the Settings app keeps crashing on your Windows system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is the Settings App Crashing on Windows?
 
  If the Settings app is crashing on Windows, it may be because of one of the following reasons:
@@ -45,12 +43,6 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 If the issue persists, move to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Windows
 
  The next thing that you should do is update the operating system to the latest build available. A compatibility issue caused by an outdated system may be causing the problem, which can be fixed by installing the pending updates.
@@ -63,14 +55,16 @@ Here is all that you need to do:
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Your Drivers
 
  As we mentioned earlier, the issue can also be caused if the graphics driver installed on your computer has become outdated or corrupt. The easiest solution, in this case, is updating the driver.
@@ -85,22 +79,15 @@ Follow these steps to proceed:
 4. Choose**Update driver** \>**Search automatically for drivers** . The Device Manager utility will now begin scanning the system for an updated driver version.  
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
 5. Once found, follow the on-screen instructions to install it.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Finally, restart your computer to implement the changes.
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset or Re-Register the Settings App
 
  Another easy way to get rid of the corruption issues within the apps is by resetting them to their default state or by re-registering them.
@@ -113,6 +100,11 @@ Here is all that you need to do:
 2. Choose**App settings** from the context menu.  
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
@@ -128,12 +120,6 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 
 Hopefully, this should fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Windows Settings App Crash Issue, Now Resolved
 
  System apps like the Settings app can crash unexpectedly, which is annoying. It's generally a temporary corruption issue that causes them, so fortunately fixing them is quite simple. The solution mentioned above should help you fix the Settings app crashing issue for good. If the error appears again, you can consider reporting the issue to the Microsoft support team. They will help you identify the real cause of the problem and suggest a relevant fix.
@@ -144,8 +130,6 @@ Hopefully, this should fix the problem once and for all.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +137,24 @@ Hopefully, this should fix the problem once and for all.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-subtitled-out-of-a-zip-how-to-convert-files/"><u>[New] 2024 Approved Subtitled Out of a Zip! How To Convert Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-silent-scripting-the-leading-list-of-offline-transcription-software/"><u>[New] Silent Scripting The Leading List of Offline Transcription Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-streamline-your-day-multitask-mastery-for-the-podcast-aficionado-for-2024/"><u>[New] Streamline Your Day Multitask Mastery for the Podcast Aficionado for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>2024 Approved Conquer the Clutter Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-download-instagram-videos-on-pc-and-mac-for-2024/"><u>How to Download Instagram Videos on PC and Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vmm-selection-to-maximize-windows-11-capabilities/"><u>Ideal VMM Selection to Maximize Windows 11 Capabilities</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/imovie-alternative-for-mac-advanced-video-editor-for-2024/"><u>IMovie Alternative for Mac Advanced Video Editor for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-c12-plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia C12 Plus to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/input-latency-problem-solved-optimizing-performance-for-cyberpunk-2077/"><u>Input Latency Problem Solved: Optimizing Performance for Cyberpunk 2077</u></a></li>
+<li><a href="https://win11.techidaily.com/rehabilitate-your-systems-windows-control-center/"><u>Rehabilitate Your System's Windows Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-past-integrating-awards-in-vintage-titles-through-retroarch/"><u>Reviving the Past: Integrating Awards in Vintage Titles Through Retroarch</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-through-hidden-menu-in-windows-11/"><u>Steering Through Hidden Menu in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-restoring-loaded-pages-in-microsoft-app/"><u>Techniques for Restoring Loaded Pages in Microsoft App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-verse-integrating-chatgpt-in-book-writing/"><u>The Art of Verse: Integrating ChatGPT in Book Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-maximize-full-screen-window-space-in-windows/"><u>Tips to Maximize Full-Screen Window Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-high-ram-consumption-in-device-linking-systems/"><u>Troubleshooting High RAM Consumption in Device Linking Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-strategies-for-tpm-clearance/"><u>Unlocking Windows: Strategies for TPM Clearance</u></a></li>
+</ul></div>
 

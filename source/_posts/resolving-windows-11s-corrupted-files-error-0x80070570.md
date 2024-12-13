@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11'S Corrupted Files Error 0X80070570
-date: 2024-12-04T22:15:31.329Z
-updated: 2024-12-06T16:21:47.631Z
+date: 2024-12-12T11:26:35.028Z
+updated: 2024-12-12T20:58:50.361Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Repair System Files With an SFC Scan
 
  Some users have confirmed repairing system files resolved error 0x80070570 on their PCs. System File Checker is a command-line tool with which you can check for and repair corrupted system files that might be causing file operation issues. Check out our guide to [utilizing System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) for details about how to run an SFC scan within the Command Prompt.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scannow-command2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Utilize the Check Disk Tool
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chkdsk-scan-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our [guide to running CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,let%20it%20do%20its%20work.) tells you how to initiate a Check Disk scan. You’ll need to run the Check Disk scan for the drive that includes the files you can’t delete or copy to. If that’s an external drive, you’ll need to connect the storage device to the PC and specify its letter within the command. For example, a CHKDSK command for scanning an external E: drive would be:
 
 `chkdsk /r E:`
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 ## 3\. Try Moving Files to a Different Location
 
  If error 0x80070570 when you’re trying to transfer a file, try moving (or copying) the file into a different folder location on the target drive. You can do that by right-clicking an affected file and selecting either **Cut** or **Copy**. Then right-click inside a different folder location and select **Paste** to see if the error occurs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off Real-Time Antivirus Shields
 
@@ -70,7 +66,11 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Perform a Startup Repair
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 2. Select **Startup Repair** within the Advanced options menu.  
 ![The Start-up Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/start-up-repair.jpg)
 3. Next, select your Windows user account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Input your user account password.
 5. Select **Continue** to initiate the repair.
@@ -97,31 +93,15 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  You can format an external drive with the Windows Disk Management utility or in File Explorer. Connect the drive to your PC, and then follow the steps in this guide on [how to format a USB drive](https://www.makeuseof.com/tag/format-usb-drive/) to do this within File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform the Required File Operations Again on Windows
 
  The potential error 0x80070570 solutions covered here have worked for many Windows 11/10 users. Repairing drive errors with the CHKDSK tool usually does the trick. You could also utilize a third-party utility like Hard Disk Sentinel and HDDScan to check for and repair drive issues. With error 0x80070570 fixed, you can copy or delete files as required again.
 
  Consequently, you can’t delete or copy files on drives affected by error 0x80070570\. It is an error code that predates Windows 8, but many users still encounter this issue on the latest Windows desktop platforms. As such, here is how you can fix error 0x80070570 on Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elevating-visuals-with-hdr-excellence-in-photoshop/"><u>[New] 2024 Approved Elevating Visuals with HDR Excellence in Photoshop</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-efficient-thumbnail-generation-with-your-phone-for-video-content/"><u>[Updated] In 2024, Efficient Thumbnail Generation with Your Phone for Video Content</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-ac68-usb-wireless-router-driver-secure-download-links/"><u>ASUS AC68 USB Wireless Router Driver - Secure Download Links!</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-max-and-min-cpu-in-power-settings-labyrinth/"><u>Exploring Max & Min CPU in Power Settings Labyrinth</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-service-not-started-for-virtual-disks-on-pc/"><u>Fixing Service Not Started for Virtual Disks on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-ahead-of-the-pack-with-these-7-free-ai-driven-trip-planning-tools-no-booking-hassle/"><u>Get Ahead of the Pack with These 7 Free AI-Driven Trip Planning Tools - No Booking Hassle</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/key-uses-for-visual-cplusplus-redistribution/"><u>Key Uses for Visual C++ Redistribution</u></a></li>
-<li><a href="https://fox-access.techidaily.com/masterclass-in-merging-movies-with-modern-education/"><u>Masterclass in Merging Movies with Modern Education</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-input-methods-and-keyboard-setups-for-win-11-users/"><u>Optimize Input Methods and Keyboard Setups for Win 11 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-missing-winhttpdll-errors-essential-troubleshooting-techniques/"><u>Overcoming Missing Winhttp.dll Errors: Essential Troubleshooting Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-no-such-file-or-directory-errors/"><u>Strategies for Addressing 'No Such File or Directory' Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-update-windows-11-admin-identity-and-role/"><u>Strategies to Update Windows 11 Admin Identity and Role</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailoring-medical-messages-in-social-media-ads/"><u>Tailoring Medical Messages in Social Media Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-12t-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12T Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-aw-snap-error-in-google-chrome-on-winos/"><u>Troubleshooting “Aw, Snap!” Error in Google Chrome on WinOS</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +110,24 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-peek-at-sonys-high-end-smartphone-the-xperia-xz-4k-reveal/"><u>[Updated] 2024 Approved Peek at Sony's High-End Smartphone - The Xperia XZ 4K Reveal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fiscal-flyers-top-5-low-cost-aerial-vehicles/"><u>2024 Approved Fiscal Flyers Top 5 Low-Cost Aerial Vehicles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859590309-2024-approved-premier-12-video-capture-goes-on-forever/"><u>2024 Approved Premier 12 Video Capture - Goes On Forever!</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-os-fixing-chkdsk-sfc-dism-explained/"><u>Demystifying OS Fixing: CHKDSK, SFC, DISM Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-vanishing-windows-1011-search-results/"><u>Eliminating Vanishing Windows 10/11 Search Results</u></a></li>
+<li><a href="https://fox-place.techidaily.com/exploring-windows-security-features-a-guide-to-control-panel-settings-by-yl-computing/"><u>Exploring Windows Security Features: A Guide to Control Panel Settings by YL Computing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/guide-to-consolidating-your-youtube-video-collection/"><u>Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-ccleaner-not-working-on-windows-11-and-11/"><u>How to Fix CCleaner Not Working on Windows 11 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-htc-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from HTC .</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-your-dotnet-secure-your-system-max-156/"><u>Mend Your DotNet, Secure Your System (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-systems-a-detailed-look-at-13-recovery-steps/"><u>Reviving Systems: A Detailed Look at 13 Recovery Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/save-youtube-content-instantly-use-clickdownloader-for-a-hassle-free-experience-on-mac-computers/"><u>Save YouTube Content Instantly: Use ClickDownloader for a Hassle-Free Experience on Mac Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-guide-to-stop-win-11s-mobility-hub/"><u>Simplified Guide to Stop Win 11'S Mobility Hub</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-z50s-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Z50S Pro FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-imaginary-hardware-name-error-in-windows-11/"><u>Tackling Imaginary Hardware Name Error in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-essentials-how-to-efficiently-renew-your-hyperx-headsets-drivers/"><u>Update Essentials: How to Efficiently Renew Your HyperX Headset's Drivers</u></a></li>
+</ul></div>
+

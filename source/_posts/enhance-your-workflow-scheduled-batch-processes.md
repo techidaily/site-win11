@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Workflow: Scheduled Batch Processes"
-date: 2024-12-03T08:43:13.421Z
-updated: 2024-12-07T10:33:54.583Z
+date: 2024-12-09T18:55:51.911Z
+updated: 2024-12-13T03:17:37.821Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
  It is an efficient way to ensure that you don't forget to run the batch file at specific times or when certain events happen. Not to mention that it also saves you time and effort, especially if you have a lot of batch files to run, allowing you to be more productive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scheduling a Batch File to Run Automatically on Windows
 
  To start the batch file automation process, you'll have to [open Task Scheduler](https://www.makeuseof.com/windows-11-open-task-scheduler/). To do that, click on **Search** in the Taskbar and enter **task scheduler** in the search box. In the results, click **Task Scheduler** to open the app.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 ![the Task Scheduler in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/task-scheduler-in-windows-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the right panel, under **Actions**, click on **Create Basic Task**.
@@ -53,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
 ![creating a basic task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/creating-a-basic-task-in-task-scheduler-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pick a trigger, which is when you want the task to run, by clicking on the appropriate radio button, and then click on **Next**. In our example, we picked **Daily**, meaning we want to run the task every day.
 
 ![choosing a trigger in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-trigger-in-task-scheduler.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Each trigger has its own parameters that you need to set. For the **Daily** trigger, you have to pick the day and time it starts, as well as how many days the task will recur. Once you set those, click **Next**.
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
 ![choosing an action in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-an-action-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Under **Program/Script** click on **Browse**, select the batch file you want to automate, and then click on **Next**.
 
 ![choosing a program or script to automate in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/choosing-a-program-or-script-to-automate-in-task-scheduler.jpg)
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
  Finally, click **Finish**. Now, Task Scheduler will run that batch depending on the trigger you set, which is **Daily** in our case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Removing the Batch File From the Task Scheduler
@@ -87,39 +87,19 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
 ![a scheduled Task in Task Scheduler on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/a-scheduled-task-in-task-scheduler.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you clicked on **Delete**, confirm your action by clicking **Yes** in the popup. That means if you want to automate the batch file again, you'll have to do the scheduling process all over (as shown in the previous section).
 
  If you clicked on **Disable** instead, you can enable it again by selecting the task in Task Scheduler and clicking on **Enable** (where the **Delete** button used to be). This will resume running the batch file at the times you scheduled or after the event you told it to look out for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run Your Batch Files Automatically on Windows
 
  If you're getting tired of running the same batch files over and over or know you're prone to forgetting to run them, then you should consider automating them. You don't need special knowledge to do so either, as Windows makes it easy to do with the Task Scheduler. You can also stop the automation process at any time by disabling or deleting the task.
 
  In this guide, we're going to show you how to automate a batch file using Task Scheduler.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-selective-slideshow-software-for-xrxsx-models/"><u>[New] Selective Slideshow Software for Xr/XS/X Models</u></a></li>
-<li><a href="https://win-help.techidaily.com/windows-pchotmail-secure-hotmail-backup-for-windows/"><u>安心してバックアップ：Windows PC向け最適なHotmailデータ保護ツール - Secure Hotmail Backup for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-problematic-error-0x80300024-in-winxp/"><u>Disabling Problematic Error: 0X80300024 in WinXP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-alternatives-our-selection-of-8-second-phone-numbers-apps/"><u>Discover the Best Alternatives: Our Selection of 8 Second Phone Numbers Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-remedy-dxgierrordevicehunk-in-win1011/"><u>Guide to Remedy DXGI_ERROR_DEVICE_HUNK in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-windows-users-through-gif-resizing-woes-in-discord/"><u>Guiding Windows Users Through GIF Resizing Woes in Discord</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-a-missing-network-adapter-driver-issue-on-your-windows-11-pc-step-by-step-guide/"><u>How to Fix a 'Missing Network Adapter Driver' Issue on Your Windows 11 PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-x8b-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor X8b Quickly? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-complete-breakdown-of-googles-podcast-system/"><u>In 2024, A Complete Breakdown of Google's Podcast System</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-for-mac-is-the-most-popular-professional-video-editor-if-youre-planning-to-try-it-out-for-your-mac-heres-all-you-need-to-know-about-i/"><u>New Adobe Premiere Pro for Mac Is the Most Popular Professional Video Editor. If Youre Planning to Try It Out for Your Mac, Heres All You Need to Know About It</u></a></li>
-<li><a href="https://win11.techidaily.com/pagefilesys-in-windows-functions-and-frequent-questions-answered/"><u>Pagefile.sys in Windows: Functions & Frequent Questions Answered</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-classics-polishing-your-archive-with-windows-madvr/"><u>Reviving Classics: Polishing Your Archive With Windows MadVR</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/setting-winterminals-bg-pic/"><u>Setting WinTerminal's Bg Pic</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-capture-mastering-windows-11s-microphone-shortcuts/"><u>Speedy Capture: Mastering Windows 11'S Microphone Shortcuts</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-require-promotion-windows-error-how-to-guide/"><u>Unraveling 'Require Promotion' Windows Error: How-To Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +108,21 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[New] In 2024, A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-free-video-players-vlc-or-mpc-winner/"><u>[Updated] Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-the-oculus-quest-to-work-with-windows-pc-vr/"><u>Customizing the Oculus Quest to Work with Windows PC VR</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-windows-11-menus-remove-unwanted-show-more/"><u>Efficient Windows 11 Menus: Remove Unwanted Show More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevate-your-online-presence-advanced-features-of-manycam-for-enhanced-virtual-broadcasts/"><u>Elevate Your Online Presence: Advanced Features of ManyCam for Enhanced Virtual Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-elevate-task-managers-privileges-on-windows-11/"><u>How To Elevate Task Manager's Privileges on Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/kitty-kingdom-interactive-games/"><u>Kitty Kingdom: Interactive Games</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-offline-windows-updates-the-portable-guide/"><u>Mastering Offline Windows Updates: The Portable Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/money-making-moves-now-with-over-500-subscribers-for-2024/"><u>Money-Making Moves Now With Over 500 Subscribers for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-solutions-for-resolving-boot-issues-on-your-pc-a-complete-guide/"><u>Step-by-Step Solutions for Resolving Boot Issues on Your PC: A Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-missing-key-erasure-functionality/"><u>Steps to Resolve Missing Key Erasure Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-smooth-internet-access-in-your-windows-applications/"><u>Unlock Smooth Internet Access in Your Window's Applications</u></a></li>
+</ul></div>
+

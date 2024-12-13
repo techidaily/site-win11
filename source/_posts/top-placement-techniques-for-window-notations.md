@@ -1,7 +1,7 @@
 ---
 title: Top-Placement Techniques for Window Notations
-date: 2024-12-06T09:31:58.338Z
-updated: 2024-12-07T11:28:05.701Z
+date: 2024-12-10T09:33:43.141Z
+updated: 2024-12-12T23:25:32.984Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -81,17 +77,22 @@ To pin Sticky Notes using DeskPins:
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
- You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -112,20 +113,24 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-conversion-unlocking-the-mp3-potential-for-2024/"><u>[New] Instagram Video Conversion - Unlocking the MP3 Potential for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-windows-11-camcorders-and-webcams-guide-for-2024/"><u>[Updated] Essential Windows 11 Camcorders & Webcams Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-best-freebies-winning-windowsmac-video-tools/"><u>[Updated] In 2024, Best Freebies Winning Windows/Mac Video Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-utilizing-azure-speech-to-text-api-for-2024/"><u>[Updated] Utilizing Azure Speech-to-Text API for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/end-the-eclipse-restoring-lenovos-color/"><u>End the Eclipse: Restoring Lenovo's Color</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-enhanced-productivity-through-a-90-degree-display-reorientation/"><u>Harnessing Enhanced Productivity Through a 90-Degree Display Reorientation</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-app-induced-power-control-failures-in-windows/"><u>How To Overcome App-Induced Power Control Failures in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-public-assessment-of-vllo-functionality/"><u>In 2024, Public Assessment of VLLO Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-media-editing-experience-top-8-apps-for-windows-pcs/"><u>Optimize Your Media Editing Experience – Top 8 Apps for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reset-the-frozen-netflix-app-in-windows/"><u>Steps to Reset the Frozen Netflix App in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/the-offline-path-to-windows-11-success/"><u>The Offline Path to Windows 11 Success</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-terminal-picture-background/"><u>Transform Terminal Picture Background</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-onedrive-in-windows-step-by-step-guide/"><u>Unlocking OneDrive in Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-video-collage-app-how-to-make-split-screen-videos/"><u>[Updated] 2024 Approved Instagram Video Collage App How to Make Split Screen Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-your-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery/"><u>[Updated] In 2024, Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels-for-2024/"><u>[Updated] Navigating YouTube's Tagging System Tips for Finding Prime Video Labels for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneer-productions-leading-free-editors-on-android-for-2024/"><u>[Updated] Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlock-artistic-methods-in-fb-video-ad-production/"><u>2024 Approved Unlock Artistic Methods in FB Video Ad Production</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-bose-sportwireless-hp-reliability/"><u>Comprehensive Analysis of Bose SportWireless HP Reliability</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-windows-11s-missing-search-items/"><u>How to Address Windows 11'S Missing Search Items</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-poco-x6-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco X6 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-analyzing-pewdiepies-financial-growth-and-revenue/"><u>In 2024, Analyzing PewDiePie’s Financial Growth and Revenue</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wsl-removal-in-win-1011/"><u>Mastering WSL Removal in Win 10/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-your-green-screen-potential-with-these-top-8-download-sites/"><u>Maximize Your Green Screen Potential with These Top 8 Download Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-watch-time-free-windows-media-center-list/"><u>Maximize Your Watch Time: Free Windows Media Center List</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-wp-app-showdown-introducing-unison-and-phone-link/"><u>Microsoft WP App Showdown: Introducing Unison & Phone Link</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/obs-audio-fix-strategies-quickly-for-2024/"><u>OBS Audio Fix Strategies Quickly for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-pc-download-rates-on-battlenet/"><u>Skyrocket PC Download Rates on Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-upgrade-for-sluggish-microsoft-edge-on-win10plus11/"><u>Speedy Upgrade for Sluggish Microsoft Edge on Win10+11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-library-loading-problem-87-in-windows/"><u>Steps to Resolve Library Loading Problem 87 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/stutter-free-screenplay-essential-steps-for-a-seamless-windows-media/"><u>Stutter-Free Screenplay: Essential Steps for a Seamless Windows Media</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-unwaking-from-sleep-with-input-devices/"><u>Win11: Unwaking From Sleep with Input Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through a Precise Methodology to Setup Win11 in VMWare
-date: 2024-12-03T19:29:58.891Z
-updated: 2024-12-07T08:21:10.101Z
+date: 2024-12-06T09:15:10.869Z
+updated: 2024-12-13T05:50:35.586Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Prerequisites for Installing Windows 11 on VMware
 
@@ -49,18 +53,10 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 ![Creating a Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/creating-a-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
 3. Keep the**Guest Operating System** option as**Windows** and then click on the drop-down menu. Pick the**Windows 11 x64** option and click on the**Next** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Enter an appropriate name for the new Windows 11 virtual machine. Then, click on the**Browse** button to pick a location on the disk drive for virtual disk creation. Click on**Next** .
 5. On the Encryption information page, Choose the encryption type as**Only the files needed to support a TPM are encrypted** .  
 ![Enabling Encryption in Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-encryption-in-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
 6. You need to create an 8-character password to encrypt the virtual machine. Keep the **Remember the password on this machine in Credential Manager** checkbox enabled. Click on the**Next** button to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Now, specify the disk capacity and set the maximum disk size to**64 GB** . Increase the space if you want to install multiple programs in the virtual machine.
 8. Select the**Split virtual disk into multiple files** option and click on**Next** .  
@@ -70,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
 ![Configuring resources of Windows 11 Virtual Machine In VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/configuring-resources-of-windows-11-virtual-machine-in-vmware-workstation-17-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Click on the**Customize Hardware** button. Under the memory tab, increase the**RAM** allocation to**6 GB** or more to avoid a sluggish Windows 11 experience.
 2. Switch to the**Processors** tab and allocate**4 or more cores** to the Windows virtual machine.
 3. Next, move to the**New CD/DVD (SATA)** tab, and click on the**Use ISO image file** option located under the**Connection** section.
 4. Click on the**Browse** button and select the Windows 11 ISO image file you previously downloaded. Click on the**Open** button.
 5. Now, close the Hardware window and click on the**Finish** button to create the new virtual machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Install Windows 11 on the Virtual Machine
 
@@ -90,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 3. In the Windows setup window, click on the**I don’t have a product key** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Pick the Windows 11 version (Home, Pro, or Education) and click on the**Next** button.
@@ -106,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 ![Setting Up Windows 11 Virtual Machine In VMware Workstation 17 Player 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setting-up-windows-11-virtual-machine-in-vmware-workstation-17-player-2.jpg)
 6. **Uncheck** all the tracking options on the Privacy settings page and click on the**Accept** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Wait for the setup to finalize changes and boot to the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Install the VMware Tools
 
@@ -121,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 ![Installing VMware Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-vmware-tools.jpg)
 3. Press**Win + E** to[launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and open the mounted ISO file drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Locate and select the**setup64.exe** file. Press**Ctrl + Shift + Enter** to launch the setup with admin privileges.
 5. In the VMware tools installation window, click on the**Next** button and select the**Complete** installation option.  
 ![Installing VMware Tools 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-vmware-tools-2.jpg)
@@ -132,7 +124,15 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 7. Lastly, click on the**Yes** button to restart the virtual machine to apply changes.  
 ![Windows 11 VM in VMware Workstation 17 Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-vm-in-vmware-workstation-17-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows 11 virtual machine is ready to use. You can even run Windows features like Hyper V and Windows MDAG and Sandbox inside this machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run Windows 11 on VMware Without Any Registry Hacks
 
@@ -153,16 +153,16 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-illustration-elevation-incorporating-text-into-3d-artwork/"><u>[New] In 2024, Illustration Elevation Incorporating Text Into 3D Artwork</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-secrets-of-thriving-in-the-top-10-business-channel-space/"><u>[New] In 2024, Secrets of Thriving in the Top 10 Business Channel Space</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-rapid-capture-technique-timelapse-toptech/"><u>2024 Approved Rapid Capture Technique Timelapse #TopTech</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-psoft-tools-in-win11/"><u>Enhance Your Workflow with PSoft Tools in Win11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Huawei Nova Y91</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oppo-a1x-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Oppo A1x 5G</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-mastering-mp4-sound-retrieval-top-5-simplified-strategies/"><u>New 2024 Approved Mastering MP4 Sound Retrieval Top 5 Simplified Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-snip-and-sketchs-screen-shot-limitations-4-essential-fixes/"><u>Overcoming Snip & Sketch's Screen Shot Limitations: 4 Essential Fixes.</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-w11s-erroneous-temporary-files/"><u>Reviving Your W11's Erroneous Temporary Files</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-20-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 20 Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-on-calculators-night-mode/"><u>Turn On Calculator's Night Mode</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[New] In 2024, Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/"><u>[New] No Cash, All Fun Turning Twitter Vids Into GIFs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-eight-free-android-recorders-top-selection-list/"><u>[Updated] In 2024, Eight Free Android Recorders – Top Selection List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-video-editing-does-m1-macbook-air-hold-up/"><u>[Updated] Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-cannot-read-from-the-source-file-or-disk-error-in-windows-1110/"><u>How to Fix the “Cannot Read From the Source File or Disk” Error in Windows 11/10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-voice-overs-for-videos-step-by-step-guide-for-2024/"><u>Mastering Voice-Overs for Videos Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-in-ios-18-hands-free-call-recording-now-possible-without-external-apps-insights/"><u>New in iOS 18: Hands-Free Call Recording Now Possible Without External Apps - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-boot-savior-top-5-methods-for-fixed-error-states/"><u>Secure Boot Savior: Top 5 Methods for Fixed Error States</u></a></li>
+<li><a href="https://win11.techidaily.com/slip-by-non-met-system-demand-sticker-in-win11/"><u>Slip by Non-Met System Demand Sticker in Win11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/speedy-methods-for-changing-tod-documents-to-mp4-videos-on-mac-computers/"><u>Speedy Methods for Changing TOD Documents to MP4 Videos on Mac Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-pomodoro-timekeeping-solutions-on-windows/"><u>Unveiling the Best Pomodoro Timekeeping Solutions on Windows</u></a></li>
 </ul></div>
 

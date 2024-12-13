@@ -1,7 +1,7 @@
 ---
 title: Solving Windows Camera App Issues Quickly
-date: 2024-12-01T07:33:59.617Z
-updated: 2024-12-07T00:10:41.559Z
+date: 2024-12-10T19:12:58.339Z
+updated: 2024-12-13T01:37:08.333Z
 tags:
   - windows10
   - windows11
@@ -37,17 +37,21 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 ![The Let apps access your camera setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/let-apps-access-your-camera.jpg)
 5. Turn on the switch for the **Camera** app setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Windows Camera
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create a New Camera Roll Folder
 
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 3. If you can’t find Camera Roll in the Pictures folder or any subfolder there (such as Screenshots), you’ll need to recreate that folder. Right-click inside the Pictures directory and select **New** \> **Folder**.  
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
 
@@ -74,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 4. Click **Add** on the **Library** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, select a folder location such as **Downloads**.
@@ -84,21 +92,18 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 3. Click the **Include folder** button.  
 ![The Include folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/include-folder-button.jpg)
 4. Select the Photo folder in the **Library locations** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
 
@@ -110,6 +115,11 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
@@ -119,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
 
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Windows Camera
 
@@ -140,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 2. Then copy the app’s PackageFullName ID by selecting its text and pressing **Ctrl** \+ **C**. The PackageFullName will be something like Microsoft.WindowsCamera\_2023.2305.4.0\_x64\_\_8wekyb3d8bbwe, but it can vary depending on the app version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Input and execute this command with the PackageFullName included:  
@@ -150,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 5. Click **Get in Store app** and **Open in Microsoft Store** app to access an installation option.  
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You will need to replace **PackageFullName** in the command specified above with the actual package name. So, the PowerShell command should look more like this:
 
@@ -165,29 +167,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-5-audio-to-video-makers-online/"><u>[New] In 2024, Top 5 Audio to Video Makers Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-rx-memory-treasure/"><u>[New] RX Memory Treasure</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-content-game-studio-aptitude-essentials/"><u>[Updated] 2024 Approved Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>2024 Approved The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-phantom-v-flip-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Phantom V Flip FRP Bypass Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-win10win11-system-alert-mishaps/"><u>Correcting Win10/Win11 System Alert Mishaps</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-1011-recycle-bin-failures-and-solutions/"><u>Decoding Windows 10/11 Recycle Bin Failures and Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/ensure-smooth-sleep-automated-power-management-on-w11/"><u>Ensure Smooth Sleep: Automated Power Management on W11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-the-best-price-for-apples-airtag-bundle-24-discounted-at-walmart-during-labor-day-insights/"><u>Experience the Best Price for Apple's AirTag Bundle – $24 Discounted at Walmart During Labor Day | Insights</u></a></li>
-<li><a href="https://discover-great.techidaily.com/festplatten-formatieren-auf-windows-ebenso-einfach-wie-mit-einer-cd-zwei-wege-zum-loschen-des-inhalts/"><u>Festplatten Formatieren Auf Windows Ebenso Einfach Wie Mit Einer CD: Zwei Wege Zum Löschen Des Inhalts</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-prevent-backward-typing-in-windows/"><u>Guidelines to Prevent Backward Typing in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-get-more-video-views-on-youtube/"><u>How To Get More Video Views on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x100-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X100 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-terminal-quake-configuration/"><u>Initiating Terminal Quake Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-regenerate-the-explorer-ui-on-win-11/"><u>Methods to Regenerate the Explorer UI on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/power-uninstaller-forcibly-remove-printers-in-windows-11/"><u>Power Uninstaller: Forcibly Remove Printers in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrims-sse-struggles-a-guide-to-repair-windows-errors/"><u>Skyrim's SSE Struggles: A Guide to Repair Windows Errors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nique-characteristics-of-youtube-and-dailymention/"><u>The Unique Characteristics of YouTube & DailyMention</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-more-space-with-these-top-7-economical-volume-boosters-for-windows/"><u>Unleash More Space with These Top 7 Economical Volume Boosters for Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -195,3 +174,21 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unlock-your-screen-recording-potential-top-8-apps-for-windows-10/"><u>[New] In 2024, Unlock Your Screen Recording Potential Top 8 Apps for Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-camstudios-updated-screen-recorder-techniques/"><u>[Updated] Inside CamStudio's Updated Screen Recorder Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-steps-to-record-and-share-your-skyrim-quests/"><u>[Updated] Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-crystal-clear-photos-without-spending-for-2024/"><u>Capturing Crystal Clear Photos Without Spending for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-doodling-on-windows-11-bring-your-desktop-to-life/"><u>Digital Doodling on Windows 11: Bring Your Desktop to Life</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unresponsive-notifications-from-phone-link-app-on-windows/"><u>Fixing Unresponsive Notifications From Phone Link App on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/got-a-windows-problem-heres-how-to-get-help/"><u>Got a Windows Problem? Here's How to Get Help</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-huawei-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Huawei Phone Now with These Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-xboxs-video-conferencing-feature/"><u>In 2024, The Ultimate Guide to Xbox's Video Conferencing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tricks-for-bypassing-wrong-password-in-win-11/"><u>Quick Tricks for Bypassing ‘Wrong Password’ in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-linking-win-key-and-microsoft-identity/"><u>Securely Linking Win Key and Microsoft Identity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/total-uninstallation-of-wsl-on-windows/"><u>Total Uninstallation of WSL on Windows</u></a></li>
+</ul></div>
+

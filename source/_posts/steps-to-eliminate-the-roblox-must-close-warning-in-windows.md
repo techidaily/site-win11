@@ -1,7 +1,7 @@
 ---
 title: Steps to Eliminate the 'Roblox Must Close' Warning in Windows
-date: 2024-09-05T08:27:19.352Z
-updated: 2024-09-06T08:27:19.352Z
+date: 2024-12-12T06:01:38.300Z
+updated: 2024-12-13T05:13:00.129Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Roblox Crash Fix,Close Warning Remedy,Resolve Roblox Shutdown,Windows 
 thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed58531552359326ac17834a5d8d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steps to Eliminate the 'Roblox Must Close' Warning in Windows
 
  Has Roblox crashed in the middle of gameplay and displayed an error message that reads, "An unexpected error occurred, and Roblox needs to quit. We're sorry"? Unfortunately, this means Roblox has failed to identify the cause of the game's crash.
@@ -29,17 +23,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Perform Basic Checks and Fixes
 
  First, perform the following basic checks and fixes, as they may resolve the problem instantly:
@@ -47,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 * Close the error window and restart your device to see whether any temporary problem has caused the issue.
 * Close any cheat software that you might be using and other resource-intensive apps and programs running alongside Roblox.
 * Whitelist the Roblox client from Windows Defender to ensure that interference from the security suite didn't cause the crash. Refer to our guide on [how to allow apps through the firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) if you are unfamiliar with the process. Also, if you are using third-party antivirus software, temporarily disable it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Monitor Resource Usage While Roblox Is Running
 
@@ -61,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 3. Move the cursor to the **maximize button** of the Roblox window and select the first set of layouts from Snap Layouts. This way, the screen will be split into two halves, with Roblox appearing on the right half.  
 ![Split the Screen Using Snap Layouts to Put Roblox on the Right Half](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-split-the-screen-using-snap-layouts-to-put-roblox-on-the-right-half.jpg)
 4. Select Task Manager from the left half of the window, and it will open on the left.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select Task Manager From the Left Half of the Snap Layouts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-select-task-manager-from-the-left-half-of-the-snap-layouts.jpg)
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
@@ -90,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
  To clear cookies for Roblox on Chrome, Firefox, or Edge, follow our guide on [how to clear cookies for a specific website](https://www.makeuseof.com/clear-chrome-firefox-edge-cookies-specific-site/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Remove Interfering Browser Extensions
 
  If the error occurs when running experiences from the Roblox website, especially right after launch, the browser extensions could be to blame. To ensure that isn't the case, disable any Roblox extensions you use to enhance Roblox's user interface, disable security extensions, or any other extension you think could interfere with Roblox.
@@ -108,17 +90,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
  Based on the possibility of this switch resolving the problem, install the [Roblox Microsoft Store app](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and use that for some time to check if it fixes the crashing issue.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Run Roblox in the Compatibility Mode
 
  Running Roblox in compatibility mode has resolved the crashing issue for some users. Therefore, you should configure the game to run in compatibility mode and see whether that fixes the problem. Follow these steps to do this:
@@ -130,23 +104,11 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
 ![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
 5. Then, click **Apply**.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. After that, click on the **Run compatibility troubleshooter** button.  
 ![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
 7. Click on **Try recommended settings** \> **Test the program…**  
 ![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
 8. Then, save the changes by following the on-screen instructions.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Roblox Client
 
@@ -157,19 +119,15 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![Delete Roblox Folder From Its Installation Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-delete-roblox-folder-from-its-installation-directory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Roblox From Crashing Frequently
 
  Seeing Roblox crash repeatedly without apparent reason can make us lose our cool. Hopefully, the above fixes will help you find the root cause behind the error and fix it. In turn, Roblox will run smoothly and will not crash. Not only will the above fixes help resolve the issue, but they will also improve Roblox's performance.
@@ -180,11 +138,25 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sculpting-visual-stories-editing-vertical-videos-for-ig-in-fcpx/"><u>[Updated] 2024 Approved Sculpting Visual Stories Editing Vertical Videos for IG in FCPX</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>[Updated] Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augmenting-realities-for-better-outcomes/"><u>2024 Approved Augmenting Realities for Better Outcomes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-resolving-blocked-program-notice-on-pc/"><u>Guide: Resolving Blocked Program Notice on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-response-time-for-gesture-inputs-in-windows-devices/"><u>Improving Response Time for Gesture Inputs in Windows Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/luts-explained-enhancing-images-through-color-grading-for-2024/"><u>LUTs Explained Enhancing Images Through Color Grading for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-windows-update-with-error-0x8024800c/"><u>Rectifying Windows Update with Error 0X8024800C</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-steam-downloads-on-windows-pcs/"><u>Speeding Up Steam Downloads on Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-free-mp4-converters-seamlessly-switch-between-formats/"><u>Ultimate Guide to Free MP4 Converters: Seamlessly Switch Between Formats</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-novelty-of-windows-11-bar-functions/"><u>Unlocking Novelty of Windows 11 Bar Functions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-mobility-unleashed-a-deep-dive-into-the-gotrax-gxl-v2-electric-commuter/"><u>Urban Mobility Unleashed: A Deep Dive Into the Gotrax GXL V2 Electric Commuter</u></a></li>
+</ul></div>
+

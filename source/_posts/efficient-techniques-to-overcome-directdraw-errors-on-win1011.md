@@ -1,7 +1,7 @@
 ---
 title: Efficient Techniques to Overcome DirectDraw Errors on WIN10/11
-date: 2024-12-05T03:18:23.909Z
-updated: 2024-12-07T04:23:45.479Z
+date: 2024-12-09T07:08:26.521Z
+updated: 2024-12-12T23:05:12.317Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
 
  Running games and software in compatibility mode is a resolution that’s fixed the DirectDraw error for many users. As the DirectDraw error usually arises for older games and software, it makes sense to do so. You can set games to run in compatibility mode like this:
@@ -36,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![The Run the program in compatibility mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-in-compatibility-mode-for.jpg)
 5. Then select the latest Windows platform that was available in the game’s release year. If you’re not sure, choose a **Windows 8** or 7 option on the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select **Apply** to set the new compatibility option.
 7. Click **OK** to close out of the properties window.
 
  There’s also a Program Compatibility Troubleshooter that might be useful for troubleshooting the DirectDraw error. That troubleshooter includes an option that sets recommended compatibility settings for a selected program. It enables you to test programs with compatibility settings.
 
  If selecting the compatibility mode setting doesn’t work, consider utilizing the Program Compatibility Troubleshooter. This [Program Compatibility Troubleshooter guide](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/) provides guidelines for accessing and utilizing that troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set a 640 x 480 Resolution for the Game
 
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 5. Select a lower-resolution option on the menu.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
@@ -81,12 +85,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 4. Then select the **DirectPlay** checkbox.  
 ![The DirectPlay option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directplay-option.jpg)
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
-![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
-6. Press **OK** to install the features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
+6. Press **OK** to install the features.
 
 7. Restart Windows after installing the features.
 
@@ -107,15 +112,15 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  If nothing has worked yet, there are some simple Windows tricks that usually fix display issues with software and games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update Your Video Card’s Driver
 
  This error can also feasibly occur because an outdated or corrupted graphics driver is causing DirectDraw display component issues. Installing the latest graphics driver available for your PC’s GPU could remedy such issues. Our guide to [updating GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) includes instructions for installing new graphics drivers in five different ways.
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Run the Affected App in Windowed Mode
 
@@ -124,11 +129,7 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reinstall the Affected Game or Software
@@ -137,38 +138,17 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
 
  Those are the best and most likely potential resolutions to work for fixing the DirectDraw error on Windows 11/10 PCs. One of the possible solutions in this guide will likely get the DirectDraw error sorted on your PC since many users have fixed that issue by applying them. Then you can return to playing the games that didn’t start because of that error.
 
  Consequently, players can’t play older games like Age of Empires, Might and Magic 7, and Diablo because of the DirectDraw error. The same error can also occur for art and design software. This is how you can fix the DirectDraw error on a Windows 11/10 PC.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-free-countdown-timer/"><u>[New] How to Use Free Countdown Timer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit/"><u>[Updated] Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-zooming-out-your-guide-to-flawless-borders/"><u>[Updated] Zooming Out Your Guide to Flawless Borders</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-spark-20c-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Spark 20C PC | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/easypathtodarkviewinwinnotepadapp/"><u>EasyPathToDarkViewInWinNotepadApp</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-nonstop-window-upgrades/"><u>Eliminating Nonstop Window Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-0x800f0922-on-windows-11-updates-step-by-step/"><u>Fixing Error 0X800F0922 on Windows 11 Updates: Step-by-Step</u></a></li>
-<li><a href="https://solve-info.techidaily.com/guia-facil-para-recuperar-archivos-de-tu-iphone-acceso-directo-al-pc-incluso-sin-necesidad-de-itunes/"><u>Guía Fácil Para Recuperar Archivos De Tu iPhone: Acceso Directo Al PC, Incluso Sin Necesidad De iTunes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-speedy-fortnite-cover-art-creation/"><u>In 2024, Speedy Fortnite Cover Art Creation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-ultimate-selection-top-hdr-camera-picks/"><u>In 2024, Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-resolving-windows-error-1053-unresponsive-service/"><u>Quick Tips: Resolving Windows Error 1053 - Unresponsive Service</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-resourceerror-appnametext-in-w11/"><u>Remedying ResourceError: AppName/Text in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-integration-of-microsofts-powertoys-on-win11/"><u>Seamless Integration of Microsoft's PowerToys on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-drawing-game-a-compilation-of-top-7-windows-11-artists/"><u>Step Up Your Drawing Game: A Compilation of Top 7 Windows 11 Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-teamsters-freeze-in-w11-and-w10/"><u>Troubleshooting Teamsters Freeze in W11 & W10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-samsung-un65ru8000fxza-a-masterpiece-of-design-and-intelligence-reviewed/"><u>Unveiling the Samsung UN65RU8000FXZA: A Masterpiece of Design & Intelligence Reviewed</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +157,25 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-of-profitability-on-vimeo-platform/"><u>[New] Unlocking the Secrets of Profitability on Vimeo Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-imagesplitter-pro/"><u>[Updated] ImageSplitter Pro</u></a></li>
+<li><a href="https://discover-best.techidaily.com/celebrating-the-international-family-day-achieving-harmony-between-career-and-personal-time-with-abbyy/"><u>Celebrating the International Family Day: Achieving Harmony Between Career and Personal Time with ABBYY</u></a></li>
+<li><a href="https://win11.techidaily.com/combining-adjacent-and-disjoint-windows-partitions/"><u>Combining Adjacent and Disjoint Windows Partitions</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-data-compression-a-cli-command-guidebook/"><u>Conquering Data Compression: A CLI Command Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-free-converter-convert-m4a-to-webm-online-with-movavi/"><u>Download Free Converter: Convert M4A to WebM Online with Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-integrate-portables-into-win11/"><u>Efficient Methods to Integrate Portables Into Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>In 2024, PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>In 2024, Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/playful-portraits-how-to-apply-a-cartoon-face-on-snapchat/"><u>Playful Portraits How to Apply a Cartoon Face on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/pure-performance-ditch-bloatware-in-win11/"><u>Pure Performance: Ditch Bloatware in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/rehabilitating-a-crash-prone-windows-11-bin/"><u>Rehabilitating a Crash-Prone Windows 11 Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-unsupported-fingerprint-errors-in-windows-os/"><u>Solving Unsupported Fingerprint Errors in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-write-access-denial-on-windows-11/"><u>Strategies to Address Write Access Denial on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-does-a-red-x-sign-on-your-windows-folders-mean/"><u>What Does a Red “X” Sign on Your Windows Folders Mean?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+</ul></div>
+

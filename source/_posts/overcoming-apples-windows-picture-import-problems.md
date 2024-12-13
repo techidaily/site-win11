@@ -1,7 +1,7 @@
 ---
 title: Overcoming Apple's Windows Picture Import Problems
-date: 2024-12-02T05:07:09.868Z
-updated: 2024-12-07T07:44:46.207Z
+date: 2024-12-09T20:18:18.624Z
+updated: 2024-12-12T19:32:00.181Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 ![The Import pictures and videos option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/import-pictures-and-videos-option.jpg)
 4. Click the**Review** radio button in the Import Pictures window that opens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Next** to review images.  
 ![The Review option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/review-option.jpg)
 6. Choose some images to transfer and click the**Import** option.  
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 5. Select**Apply** to save settings and**OK** to exit.
 6. Click**Apple Mobile Device Service** with your right mouse button and select**Start** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable Hardware Acceleration in Photos
 
  The Windows 10 Photos app’s hardware acceleration feature can generate issues with importing images from an iPhone. This is how you can disable hardware acceleration in Windows 10’s legacy Photos app:
@@ -76,10 +68,15 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 3. Select the**Settings** menu option.  
 ![The Settings menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/settings-option.jpg)
 4. Scroll down to and turn off the**Use hardware acceleration video encoding** when available setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Use hardware-accelerated video encoding option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/use-hardware-acceleration-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Select the "Keep Originals" Option on Your iPhone
@@ -94,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
  If this resolution works, images will be imported in an original HEIC format, which isn’t universally compatible with Windows software. So, it’s recommended to convert the imported pictures to PNG or JPG. You can do so with the web apps included in our[how to convert HEIC files with online tools](https://www.makeuseof.com/convert-heic-files-tools/) guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair and/or Reset the Photos App
@@ -103,11 +100,11 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 ![The Reset and Repair options for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access both those Photos troubleshooting options as outlined in our[guide to resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) . The**Repair** button is directly above the**Reset** option. First, select**Repair** to see if that makes a difference. Click**Reset** to eradicate the app’s data if the**Repair** option doesn’t resolve the “Something went wrong” image import error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Close the OneDrive App
 
@@ -118,12 +115,17 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 3. Select**Quit OneDrive** to close the app.  
 ![The Quit OneDrive option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/quit-onedrive-option.jpg)
 4. Open the Photos app and click the user account picture in it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Sign out** option.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sign-out-option.jpg)
 6. Click**Sign out** again to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Try importing images with Photos again.
@@ -137,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have installed third-party security software, disable its antivirus shield. Avast, Kaspersky, Bit Defender, McAfee, Norton, and Avira all have system tray icons you can right-click to select settings that disable their shields. So, look for and select an option that disables your antivirus software on its context menu.
@@ -163,24 +165,19 @@ thumbnail: https://thmb.techidaily.com/2578f1a24857f9a6eb6b2a128a6ad654566c55aa5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-8-honestly-endorsed-promotional-strategies/"><u>[New] 2024 Approved Discovering 8 Honestly-Endorsed Promotional Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-best-practices-for-shooting-nighttime-selfies-and-portraits-for-2024/"><u>[New] Best Practices for Shooting Nighttime Selfies & Portraits for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-effortless-editing-secrets-for-fresh-filmmakers/"><u>[Updated] 2024 Approved Effortless Editing Secrets for Fresh Filmmakers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069846792-updated-in-2024-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010/"><u>[Updated] In 2024, Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10).</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlocking-lenovos-full-potential-with-screen-recordings/"><u>[Updated] In 2024, Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/assessing-the-impact-of-chatgpt-on-employment-contracts-10-scenarios/"><u>Assessing the Impact of ChatGPT on Employment Contracts - 10 Scenarios</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-offline-tools-for-windows-updates/"><u>Essential Offline Tools for Windows Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-mfc71u-dll-loss-in-windows-system/"><u>Fixing Mfc71u DLL Loss in Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/fond-memories-fresh-look-windows-1198-makeover/"><u>Fond Memories, Fresh Look: Windows 11/98 Makeover</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guide-to-streaming-music-from-spotify-on-your-ios-device/"><u>Guide to Streaming Music From Spotify on Your iOS Device</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-required-privilege-is-not-held-by-client-error-0x80070522-in-windows-1110/"><u>How to Fix the “Required Privilege Is Not Held by Client” Error 0X80070522 in Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/maintain-your-mixers-audio-preferences-in-windows-10/"><u>Maintain Your Mixer's Audio Preferences in Windows 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-16-top-rated-free-avi-video-rotation-tools-for-all-devices-for-2024/"><u>New 16 Top-Rated Free AVI Video Rotation Tools for All Devices for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-outlook-access-issue-opening-restricted-folders-in-windows/"><u>Resolving Outlook Access Issue: Opening Restricted Folders in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steams-hidden-feature-easily-switching-to-offline-gameplay-on-any-device/"><u>Steam's Hidden Feature: Easily Switching to Offline Gameplay on Any Device</u></a></li>
-<li><a href="https://win11.techidaily.com/studio-2-analysis-microsofts-near-perfect-device-for-designers/"><u>Studio 2 Analysis: Microsoft's Near-Perfect Device for Designers</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-firewall-settings-through-the-context-menu/"><u>Tailoring Windows 11 Firewall Settings Through the Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-hack-for-backdrop-blur-in-w11s-advanced-photo-editing-tools/"><u>The Ultimate Hack for Backdrop Blur in W11's Advanced Photo Editing Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-online-interactions-master-microsoft-teams-snap/"><u>[New] 2024 Approved Elevate Your Online Interactions Master Microsoft Teams Snap</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ffortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>[New] Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-take-your-youtube-clips-to-the-next-level-ultimate-editing-tips/"><u>[Updated] 2024 Approved Take Your YouTube Clips to the Next Level Ultimate Editing Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-budget-friendly-mmorpg-experiences/"><u>[Updated] In 2024, Top 10 Budget-Friendly MMORPG Experiences</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-copyright-challenges-on-youtube-shorts/"><u>In 2024, Navigating Copyright Challenges on YouTube Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-logitech-blue-sona-mic-blending-design-with-performance-zdnets-expert-take/"><u>In-Depth Analysis of Logitech Blue Sona Mic: Blending Design with Performance - ZDNet's Expert Take</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-unverified-drivers-amidst-signature-enforcement/"><u>Installing Unverified Drivers Amidst Signature Enforcement</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-hang-solution-to-error-0x887a0006/"><u>Overcoming Device Hang: Solution to Error 0X887A0006</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-freeze-in-the-epic-launcher-on-windows-pcs/"><u>Overcoming Freeze in the Epic Launcher on Windows PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pushing-boundaries-with-photomosaic-artistry-for-2024/"><u>Pushing Boundaries with PhotoMosaic Artistry for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/scheme-for-activatingdeactivating-setup-service-on-pcs/"><u>Scheme for Activating/Deactivating Setup Service on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-window-to-your-digital-past-file-history-guide/"><u>The Window to Your Digital Past: File History Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unveiling-the-security-of-googles-find-my-device-feature/"><u>Unveiling the Security of Google's Find My Device Feature</u></a></li>
 </ul></div>
 

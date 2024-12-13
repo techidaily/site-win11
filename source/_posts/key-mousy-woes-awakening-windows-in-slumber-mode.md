@@ -1,7 +1,7 @@
 ---
 title: "Key-Mousy Woes: Awakening Windows in Slumber Mode"
-date: 2024-12-04T17:28:47.607Z
-updated: 2024-12-07T01:40:55.544Z
+date: 2024-12-06T00:38:25.561Z
+updated: 2024-12-13T13:24:27.834Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Wake Your Computer With a Keyboard or Mouse on Windows
 
  If your mouse or keyboard won't wake up your PC from sleep, you need to check an option to confirm they're allowed to do so. Follow these steps:
@@ -39,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
 ![Windows Allow Device Wake Computer Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-Allow-Device-Wake-Computer-Sleep.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Be careful when using these options with a laptop. If you have a wireless mouse connected and forget to turn it off, you could accidentally wake your laptop from sleep when it's in a bag.[You can destroy your laptop](https://www.makeuseof.com/tag/5-ways-utterly-destroy-laptop-slowly-surely/) by leaving it in a bag while running, as this generates a lot of heat.
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -76,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -110,18 +110,24 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ccelerated-steps-to-rearrange-youtube-music-ordering/"><u>[New] Accelerated Steps to Rearrange YouTube Music Ordering</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nderstanding-the-key-of-youtube-aspect-ratios-for-success-for-2024/"><u>[New] Understanding the Key of YouTube Aspect Ratios for Success for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-reinstatement-protocols-for-snaps/"><u>[Updated] Quick Reinstatement Protocols for Snaps</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-list-of-narrator-commands-and-keys/"><u>Comprehensive List of Narrator Commands and Keys</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/gratuit-online-omzetten-van-aac-bestandjes-movavi/"><u>Gratuit Online Omzetten Van AAC-Bestandjes - Movavi</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-playback-error-in-media-player/"><u>How to Resolve Playback Error in Media Player</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>In 2024, Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi 13T Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/lifetime-dormancy-protocols-for-ms-security-software/"><u>Lifetime Dormancy Protocols for MS Security Software</u></a></li>
-<li><a href="https://win11.techidaily.com/pointer-customization-a-complete-look-at-windows-11-controls/"><u>Pointer Customization: A Complete Look at Windows 11 Controls</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-on-how-to-fix-error-code-0x80071a90/"><u>Quick Guide on How To Fix Error Code: 0X80071A90</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-revamped-design-tools-after-acid-pro-era/"><u>[New] 2024 Approved Revamped Design Tools After ACID Pro Era</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>[New] Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-selection-ultimate-cloud-storage-picks/"><u>[New] Superior Selection Ultimate Cloud Storage Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>[New] The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-to-rearranging-your-youtube-collection/"><u>[Updated] Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sleepy-screenplays-for-nights-end-for-2024/"><u>[Updated] Sleepy Screenplays for Night's End for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027759178-iphone/"><u>「一流のiPhone動画編集テクニック：簡単な切り取り・トリミング方法の究極マニュアル」</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-win11-writings-using-ai-master/"><u>Elevate Win11' Writings Using AI Master</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-operate-and-access-windows-component-services-console/"><u>How to Operate and Access Windows’ Component Services Console</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-guide-to-recording-games-in-windows-11/"><u>In 2024, The Insider's Guide to Recording Games in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-missing-data-in-the-windows-1011-search-feature/"><u>Methods to Rectify Missing Data in the Windows 10/11 Search Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-troubleshooting-the-case-of-the-gone-print-management/"><u>Navigating Troubleshooting: The Case of the Gone Print Management</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-system-icons-in-a-quick-windows-fix/"><u>Revamping System Icons in a Quick Windows Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-audio-not-detected-issue-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Solving the 'Audio Not Detected' Issue: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-editing-mastering-windows-photo-keys/"><u>Speedy Editing: Mastering Windows Photo Keys</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-window-blunders-what-every-novice-should-dodge/"><u>Top 8 Window Blunders: What Every Novice Should Dodge</u></a></li>
+<li><a href="https://win11.techidaily.com/unjamming-the-amd-195-pipeline-on-windows-systems/"><u>Unjamming the AMD 195 Pipeline on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-tactics-for-disguising-language-line-feature/"><u>Windows 11: Tactics for Disguising Language Line Feature</u></a></li>
 </ul></div>
 

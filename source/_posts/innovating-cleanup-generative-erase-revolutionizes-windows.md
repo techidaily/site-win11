@@ -1,7 +1,7 @@
 ---
 title: "Innovating Cleanup: Generative Erase Revolutionizes Windows"
-date: 2024-09-05T08:28:22.166Z
-updated: 2024-09-06T08:28:22.166Z
+date: 2024-12-07T07:08:36.582Z
+updated: 2024-12-13T02:36:26.925Z
 tags:
   - windows10
   - windows11
@@ -14,35 +14,26 @@ keywords: CleanUp Innovation,WinErase Technology,Genetic Erase Method,Erase Tech
 thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovating Cleanup: Generative Erase Revolutionizes Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
 * ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)  
  Windows Photos' Generative Erase easily removes objects from images for free on Windows PCs.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * The Erase tool is available on the Windows Photos app in version 2024.11020.21001.0 or higher.
 * While Google's Magic Eraser is more lenient with object selection, Windows Photos did better at replicating and adjusting the background.
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
@@ -56,38 +47,26 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
 
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
 
 ![Using the Erase tool on Windows Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/using-the-erase-tool-on-windows-photos.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
 
@@ -110,11 +89,31 @@ Close
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-ultimate-zoom-tricks-for-chromebook-users-for-2024/"><u>[New] Ultimate Zoom Tricks for Chromebook Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-no-cost-recording-solutions-windows-tech-hacks/"><u>[Updated] 2024 Approved No-Cost Recording Solutions Windows Tech Hacks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-in-pacing-time-lapse-on-ipad/"><u>[Updated] Precision in Pacing Time-Lapse on iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/7-steps-to-sensational-surprise-revelation-for-2024/"><u>7 Steps to Sensational Surprise Revelation for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-instructions-for-installing-the-latest-ati-radeon-drivers-in-windows-os/"><u>Easy Instructions for Installing the Latest ATI Radeon Drivers in Windows OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-to-overcome-apps-not-running-error-in-pc/"><u>Effective Solutions to Overcome Apps Not Running Error in PC</u></a></li>
+<li><a href="https://win11.techidaily.com/from-disappearing-acts-to-full-display-revive-off-screen-apps-with-these-quick-fixes-6-essentials/"><u>From Disappearing Acts to Full Display: Revive Off-Screen Apps with These Quick Fixes (6 Essentials)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-cannot-read-from-the-source-file-or-disk-error-in-windows-1110/"><u>How to Fix the “Cannot Read From the Source File or Disk” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/key-hardware-diagnostic-tools/"><u>Key Hardware Diagnostic Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resetting-windows-pins/"><u>Mastering the Art of Resetting Windows PINs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-email-app-chaos-solving-the-mystery-of-zero-x-eight-oh-three-one-f/"><u>Navigating Through Email App Chaos: Solving the Mystery of Zero X Eight Oh Three One F</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/paper-playground-fun-and-effective-collage-making/"><u>Paper Playground Fun & Effective Collage Making</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-boot-savior-top-5-methods-for-fixed-error-states/"><u>Secure Boot Savior: Top 5 Methods for Fixed Error States</u></a></li>
+<li><a href="https://win11.techidaily.com/slip-by-non-met-system-demand-sticker-in-win11/"><u>Slip by Non-Met System Demand Sticker in Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-compelling-vlog-dialogue-crafting/"><u>The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-ssds-comprehensive-testing-and-reviews-by-tech-experts-gizmochampion/"><u>Top-Rated M.2 SSDs - Comprehensive Testing & Reviews by Tech Experts | GizmoChampion</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-file-expertise-tab-management-made-simple/"><u>Windows 11 File Expertise: Tab Management Made Simple</u></a></li>
+</ul></div>
+

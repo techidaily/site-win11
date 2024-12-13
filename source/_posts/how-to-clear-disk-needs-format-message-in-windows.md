@@ -1,7 +1,7 @@
 ---
 title: How to Clear Disk Needs Format Message in Windows
-date: 2024-12-04T16:48:53.919Z
-updated: 2024-12-07T09:15:29.828Z
+date: 2024-12-07T10:40:49.186Z
+updated: 2024-12-13T05:12:06.426Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 4. Core system files have gone missing or corrupt.
 5. A third-party app is conflicting with system apps and services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Methods to Fix the “You Need to Format the Disk in Drive Before You Can Use It” Error
 
  Try out the following methods to fix the disk error message and save your data stored on it:
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
  If connecting the USB drive to any USB port on your system produces the same error, then unplug it. Connect it to another computer and check if it shows up in Device Manager and you can access the file contents without any issues. If it works, create a copy of all your data on that system for backup purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Perform a Complete Shutdown
@@ -67,19 +63,19 @@ Repeat the following steps:
 ![Perform a Complete Shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/perform-a-complete-shutdown.jpg)
 4. It will take longer than usual for your system to shut down. Power it on again and open File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the USB disk and check if you are able to access the files on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Do a Clean Boot
 
  Third-party applications and services can interfere with system apps and impede their normal functioning. So,[perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) of your system. It will disable all the third-party services and programs from running at startup. If you are able to access the disk now, repeat the clean boot process while enabling third-party services one by one to isolate the culprit program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Change the USB Drive Letter Using Disk Management
 
@@ -91,6 +87,11 @@ Repeat the following steps:
 4. Click on the**Change** button. Then, click on the**arrow** button to expand the drop-down list and select a drive letter from it.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Lastly, click on the**OK** button. Reconfirm your decision and click on the**Yes** button to change the Drive letter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. You will see a system notification informing you about the Drive letter change and mounting the drive.
 7. Press**Win + E** to open the File Explorer and check whether the USB drive is accessible or not.
 
@@ -117,7 +118,7 @@ Repeat the following steps:
 6. After you finish copying the contents of the USB disk, click on the power icon and choose the Power off option to close the Try Ubuntu mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Try Generic Fixes for Drive Formatting Issues
@@ -153,24 +154,20 @@ Repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-brief-guide-to-download-install-and-use-ez-grabber/"><u>[New] 2024 Approved A Brief Guide to Download, Install, and Use EZ Grabber</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-spectrum-of-style-the-finest-photo-frame-software/"><u>[New] 2024 Approved A Spectrum of Style The Finest Photo Frame Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun/"><u>[New] In 2024, Best Waterproof Cameras For Kids' Filmmaking and Splash Fun</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-significance-of-analytics-in-youtube-rank-enhancement-for-2024/"><u>[New] The Significance of Analytics in YouTube Rank Enhancement for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-live-streaming-services-a-detailed-comparison/"><u>2024 Approved Leading Live Streaming Services A Detailed Comparison</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/al-video-conquerors-ultimate-toolkit-list-for-2024/"><u>Digital Video Conquerors' Ultimate Toolkit List for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210705153-9780760376393-dreams/"><u>Dreams | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-enter-key-not-working-on-windows/"><u>How to Fix the Enter Key Not Working on Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improving-display-synchronization-between-your-device-and-monitor/"><u>Improving Display Synchronization Between Your Device and Monitor</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-file-access-denial-with-steam-and-win11/"><u>Overcoming File Access Denial with Steam and Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-pixel-patterns-for-each-monitor-in-windows-11/"><u>Perfect Pixel Patterns for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-disabled-recycle-icon-on-windows-11/"><u>Reviving Disabled Recycle Icon on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/safeguarding-windows-daily-data-backup-necessity/"><u>Safeguarding Windows: Daily Data Backup Necessity</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-non-display-of-cameras-in-device-manager/"><u>Solve Non-Display of Cameras in Device Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-system-enhancements-for-surface-pcs/"><u>Streamlining System Enhancements for Surface PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-admin-access-denied-message-in-windows-security/"><u>Tackling Admin Access Denied Message in Windows Security</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-streaming-services-offering-stunning-4k-uhd-video-netflix-amazon-prime-directv-now-and-beyond/"><u>Top Streaming Services Offering Stunning 4K UHD Video: Netflix, Amazon Prime, DIRECTV NOW & Beyond</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-microsoft-store-access-effective-workarounds/"><u>Unlock Microsoft Store Access: Effective Workarounds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimizing-your-experience-viewing-facebook-live-effectively/"><u>[New] 2024 Approved Optimizing Your Experience Viewing Facebook Live Effectively</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamline-your-media-save-vimeo-to-mp4/"><u>[New] In 2024, Streamline Your Media Save Vimeo to MP4</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-10-volume-upgrade-tools-for-pc-ios-and-android-for-2024/"><u>[New] Ultimate 10 Volume Upgrade Tools for PC, iOS & Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pros-picks-8-superior-tripods-for-4k-videos/"><u>[Updated] 2024 Approved Pro's Picks 8 Superior Tripods for 4K Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>[Updated] In 2024, PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-correcting-package-errors-in-windows-11/"><u>Expert Tips on Correcting Package Errors in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-your-smartphone-as-a-window-microphone/"><u>Making the Most of Your Smartphone as a Window Microphone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-360-degree-videos-secure-youtube-uploads-for-2024/"><u>Mastering 360-Degree Videos Secure YouTube Uploads for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-updater-error-0xca00a009/"><u>Solving Windows Updater Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-resolving-roblox-system-failures/"><u>Techniques for Resolving Roblox System Failures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unleash-creativity-10-must-know-tips-for-cover-art/"><u>Unleash Creativity 10 Must-Know Tips for Cover Art</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-system-peak-potential-utilizing-essential-wintoy-tech/"><u>Unlock System Peak Potential: Utilizing Essential WinToy Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/unstick-your-gaming-xbox-stranded-fix-guide-in-windows-11/"><u>Unstick Your Gaming: Xbox Stranded Fix Guide in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-in-it-for-a-million-youtube-viewers-for-2024/"><u>What’s in It for a Million YouTube Viewers for 2024</u></a></li>
 </ul></div>
 

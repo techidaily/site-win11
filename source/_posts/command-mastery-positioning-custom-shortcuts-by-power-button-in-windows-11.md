@@ -1,7 +1,7 @@
 ---
 title: "Command Mastery: Positioning Custom Shortcuts by Power Button in Windows 11"
-date: 2024-12-05T02:35:58.337Z
-updated: 2024-12-07T02:39:07.582Z
+date: 2024-12-12T12:45:27.201Z
+updated: 2024-12-12T17:35:01.099Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
@@ -71,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding Shortcuts Next to Power Buttons on Windows 11
@@ -97,19 +97,24 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasping-your-youtube-popularity-with-precision/"><u>[Updated] In 2024, Grasping Your YouTube Popularity with Precision</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivating-content-with-a-click-phones-and-youtube/"><u>2024 Approved Captivating Content with a Click Phones & YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-fantasy-to-feasibility-vrs-milestones/"><u>2024 Approved From Fantasy to Feasibility VR's Milestones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-instant-screen-grabber-plus-easy-guide-soundtrack/"><u>2024 Approved Instant Screen Grabber + Easy Guide Soundtrack</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-to-unblock-system-tools-in-windows-11/"><u>Essential Techniques to Unblock System Tools in Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>In 2024, Expedite Channel Growth Surpass the 10K View Threshold Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a15-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A15 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insider-tips-on-setting-up-a-personal-appointment-at-the-genius-bar/"><u>Insider Tips on Setting Up a Personal Appointment at the Genius Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-tech-interfaces-ai-and-windows-software-blend/"><u>Reimagining Tech Interfaces: AI and Windows Software Blend</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-speak-through-text-quick-fixes-for-input-lag-on-latest-microsoft-os/"><u>Swiftly Speak Through Text: Quick Fixes for Input Lag on Latest Microsoft OS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-art-of-perfect-video-quality-in-zoom-sessions/"><u>The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-enable-chrome-network-access-blocked/"><u>Troubleshooting Windows: Enable Chrome Network Access Blocked</u></a></li>
-<li><a href="https://win11.techidaily.com/win-backup-strategies-for-cortana-information/"><u>Win Backup Strategies for Cortana Information</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-yielding-the-manual-to-merging-media-with-moolah/"><u>[New] YouTube Yielding The Manual to Merging Media with Moolah</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-farewell-your-instagram-presence-permanently/"><u>[Updated] 2024 Approved How to Farewell Your Instagram Presence Permanently</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-art-of-compelling-podcast-summaries-explained/"><u>[Updated] In 2024, The Art of Compelling Podcast Summaries Explained</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/wie-sie-verlorene-dateien-wiederherstellen-konnen-4-ansatze-fur-ihren-hp-laptop-hdd/"><u>[Wie Sie Verlorene Dateien Wiederherstellen Können: 4 Ansätze Für Ihren HP Laptop-HDD]</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-diagnostic-tool-usage-creating-shortcuts-in-windows-1011/"><u>Efficient Diagnostic Tool Usage: Creating Shortcuts in WIndows 10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-speed-and-stability-transitioning-from-windows-8-to-11/"><u>Enhance Speed & Stability: Transitioning From Windows 8 to 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-xiaomi-redmi-a2-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Xiaomi Redmi A2.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 How to Unlock a Disabled iPhone 6?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-phones-speed-up-sound-essential-app-listing/"><u>In 2024, Phones’ Speed Up Sound Essential App Listing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-a2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo A2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mend-the-disconnected-link-top-9-solutions-to-revive-your-bluetooth-in-win-11/"><u>Mend the Disconnected Link: Top 9 Solutions to Revive Your Bluetooth in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-remedy-top-9-tips-for-a-stable-wwe-2k23-on-pc/"><u>Rapid Remedy: Top 9 Tips for a Stable WWE 2K23 on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-to-work-vpn-after-disconnect/"><u>Regaining Access to Work VPN After Disconnect</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-display-harmony-in-win-10/"><u>Restoring Display Harmony in Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/specialized-application-of-local-policies-on-a-lone-users-profile/"><u>Specialized Application of Local Policies on a Lone User's Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-installation-issues-fixing-package-failures/"><u>Tackling Windows Installation Issues: Fixing Package Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-nearby-sharing-across-oses/"><u>The Ultimate Guide to Nearby Sharing Across OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-innovations-in-the-latest-windows-11-updates/"><u>Top 9 Innovations in the Latest Windows 11 Updates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-strategies-for-finding-and-using-a-lost-iphone-x-for-2024/"><u>Top Strategies for Finding & Using a Lost iPhone X for 2024</u></a></li>
 </ul></div>
 

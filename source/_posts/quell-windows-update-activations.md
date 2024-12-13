@@ -1,7 +1,7 @@
 ---
 title: Quell Windows Update Activations
-date: 2024-12-06T02:14:53.604Z
-updated: 2024-12-07T04:09:08.386Z
+date: 2024-12-08T16:01:35.863Z
+updated: 2024-12-13T11:48:59.388Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Restart the Computer From Settings
 
@@ -61,6 +57,11 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Look for **Windows Update** and click **Run** next to it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
  Follow the instructions on the screen to let Windows Update Troubleshooter detect and fix problems. After running the troubleshooter, restart your computer and check if it solves the issue.
@@ -84,7 +85,7 @@ net stop msiserver`
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
@@ -96,6 +97,10 @@ net start msiserver`
  Now exit the Command Prompt window and restart your computer. After running these commands, check if the issue is solved.
 
  ​​​​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Windows Update
 
@@ -110,7 +115,7 @@ net start msiserver`
 4. Now double-click on **Windows Update** to open the Properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
@@ -123,10 +128,6 @@ net start msiserver`
  Here **0** is the time in seconds. If you want to delay the restart, use a higher number. For example, shutdown -s -t 10 will delay the restart by 10 seconds.
 
  ​​​​​After restarting, you should no longer see the “Update and Restart” or “Update and Shut Down” message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Update Components
 
@@ -197,7 +198,7 @@ net start cryptsvc`
 6. Now right-click on the .bat file and select **Run as administrator**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. When the UAC window appears, select **Yes** to continue.
@@ -210,27 +211,6 @@ net start cryptsvc`
 
  However, you may sometimes encounter the same message prompting even after performing these actions. Read this guide to resolve this issue and stop getting such annoying notifications.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-monetizing-your-content-on-youtube/"><u>[Updated] 2024 Approved Monetizing Your Content on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premier-guidance-leading-ringtone-artisans-iphone/"><u>[Updated] Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-video-conferences-with-snap-camera-functions/"><u>[Updated] Streamlining Video Conferences with Snap Camera Functions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-top-5-alternative-editors-beyond-youtubes-limits/"><u>2024 Approved Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-effective-win-11-sandbox-setup/"><u>Essential Tips for Effective Win 11 Sandbox Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-initiating-a-pure-boot-in-windows-11/"><u>Guide to Initiating a Pure Boot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-configure-a-windows-hello-fingerprint-login-on-windows-11/"><u>How to Configure a Windows Hello Fingerprint Login on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-building-youtube-music-playlists/"><u>In 2024, The Essential Guide to Building YouTube Music Playlists</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-ways-to-erase-taskview-on-bar/"><u>Innovative Ways to Erase TaskView on Bar</u></a></li>
-<li><a href="https://fox-links.techidaily.com/optimal-display-choices-the-top-5-for-ps5-games/"><u>Optimal Display Choices The Top 5 For PS5 Games</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-restrictions-for-hidden-software/"><u>Overcoming Windows Restrictions for Hidden Software</u></a></li>
-<li><a href="https://win11.techidaily.com/proper-techniques-for-auditory-and-visual-recordings-using-the-snipping-tool-in-windows-11-max-156/"><u>Proper Techniques for Auditory & Visual Recordings Using the Snipping Tool in Windows 11 (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-onedrive-error-code-x04dec5-on-windows-11-login/"><u>Tackling ONEDRIVE Error Code X04Dec5 on Windows 11 Login</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-quest-for-perfect-balance-top-gimbals-in-dronescapes-for-2024/"><u>The Quest for Perfect Balance Top Gimbals in Dronescapes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-blackout-glitches-in-windows-remote-services/"><u>Unveiling Blackout Glitches in Windows Remote Services</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -238,3 +218,20 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-do-you-pay-for-writing-about-products-online-in-2024/"><u>[New] Do You Pay for Writing About Products Online, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-become-a-successful-smm-in-10-steps/"><u>2024 Approved Become a Successful SMM in 10 Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>2024 Approved The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-windows-sfc-a-step-wise-procedure/"><u>Executing Windows SFC: A Step-Wise Procedure</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cascade-all-open-windows-in-windows-11-and-10/"><u>How to Cascade All Open Windows in Windows 11 and 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-explore-the-best-ai-naming-software-for-podcasters/"><u>In 2024, Explore the Best AI Naming Software for Podcasters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-synchronizing-your-playstation-4-controller/"><u>Quick Fixes for Synchronizing Your PlayStation 4 Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-keystrokes-unlocking-potential-via-powertoys/"><u>Quicken Keystrokes: Unlocking Potential via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-outlook-cant-access-message-on-shared-pc-folders/"><u>Remedy for Outlook Can’t Access Message on Shared PC Folders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/retro-reimagined-unboxing-and-evaluating-the-legendary-super-mario-bros-on-the-classic-handheld-device/"><u>Retro Reimagined: Unboxing and Evaluating the Legendary Super Mario Bros. On the Classic Handheld Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-conceal-taskbars-linguistic-divider/"><u>Windows 11: Conceal Taskbar's Linguistic Divider</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/44kt44oj44ox44ob44oj44oe44o844or44ks5l244gj44gf5yuv55s7lplusmfspluswjsoocueodioodquodvoodnplusodsplusocsommsueuuplusobruawueazlq/"><u>キャプチャツールを使った動画/音声ストリーミング録画の方法</u></a></li>
+</ul></div>
+

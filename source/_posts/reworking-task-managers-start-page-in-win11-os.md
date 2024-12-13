@@ -1,7 +1,7 @@
 ---
 title: Reworking Task Manager's Start Page in Win11 OS
-date: 2024-12-01T10:42:41.373Z
-updated: 2024-12-07T02:20:09.743Z
+date: 2024-12-10T18:13:40.835Z
+updated: 2024-12-13T11:29:46.910Z
 tags:
   - windows10
   - windows11
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Task Manager Settings
 
  If you want to quickly change the Task Manager Start page, you can use its Settings tab. This option requires no modification to the registry editor or additional scripts to run.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 4. You'll see a **Default Start Page** drop-down menu at the top. This is where you can select the page to display when Task Manager opens.  
 ![Use Settings to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-settings-to-change-task-manager-start-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The options available are the following:
 
 1. Processes
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 7. Services ​​​​
 
  Once you make a selection, Task Manager will remember the setting and open the page you chose from now on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 7. Set its **Value data** to one of the following numbers to change the default start page:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `0 = Processes  
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 8. Click **OK** to save the changes and close the Registry Editor window.
 
  Next time you open Task Manager, it will display a page according to your preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use a REG File
 
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 ![Use a REG File to Change Task Manager Start Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-a-reg-file-to-change-task-manager-start-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select **Desktop** from the left pane and click **Save**. Once saved, double-click on this newly created REG file. This adds the required details to the Registry Editor and changes the Task Manager start page.
@@ -133,35 +133,12 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
  If you ever want to revert the changes, delete the REG file and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Task Manager Start Page on Windows
 
  It’s easy to customize Task Manager and change its Start page according to your preference. You can use Task Manager Settings, the Registry Editor, or a REG file to set the desired page. Once you have set the Start page, Task Manager will remember it and open that page when you launch it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-stopping-auto-capture-in-apples-recorder/"><u>[New] 2024 Approved Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>[New] A Step Further Elite Video Editing Hacks for TikTok</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-step-by-step-guide-to-amplify-your-content-through-spotlighting-for-2024/"><u>[New] A Step-by-Step Guide to Amplify Your Content Through Spotlighting for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-quietly-dismiss-youtube-video-teasers/"><u>[New] How to Quietly Dismiss YouTube Video Teasers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>[New] In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-interface-innovations-for-optimal-podcasting/"><u>2024 Approved Audio Interface Innovations for Optimal Podcasting</u></a></li>
-<li><a href="https://win11.techidaily.com/enabledisable-windows-11-written-content-check/"><u>Enable/Disable Windows 11’ Written Content Check</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-forward-the-innovative-approaches-that-may-enable-apple-to-surpass-openai-microsoft-and-google-at-wwdc-2024-zdnet-insight/"><u>Future Forward: The Innovative Approaches That May Enable Apple to Surpass OpenAI, Microsoft and Google at WWDC 2024 - ZDNet Insight</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/lg-24lh4830-the-superior-choice-for-budget-conscious-consumers-seeking-quality-and-style/"><u>LG 24LH4830 - The Superior Choice for Budget-Conscious Consumers Seeking Quality and Style</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-shortcuts-quick-paste-pre-snippets-in-windows-11/"><u>Personalizing Shortcuts: Quick Paste Pre-Snippets in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/propel-your-windows-pc-writings-with-top-6-gpu-load-checking-software/"><u>Propel Your Windows PC' Writings With Top 6 GPU Load Checking Software</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-your-device-post-error-22-in-windows-11/"><u>Regaining Control over Your Device Post-Error 22 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-create-failure-with-code-32-in-windows-error-messages/"><u>Resolving Create Failure with Code 32 in Windows Error Messages</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/runmus-mic-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>RunmuS Mic Not Working? Here's How You Can Get It Up and Running Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/scripting-quantum-leap-cinematography-for-2024/"><u>Scripting Quantum Leap Cinematography for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/skirting-repeated-sign-in-issues-for-microsoft-teams-users/"><u>Skirting Repeated Sign-In Issues for Microsoft Teams Users</u></a></li>
-<li><a href="https://win11.techidaily.com/styling-your-taskbar-positioning-this-pc-on-the-desktop/"><u>Styling Your Taskbar: Positioning 'This PC' On The Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unexpected-tokens-in-system-references-on-win10/"><u>Troubleshooting Unexpected Tokens in System References on Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-fixing-0x80072af9-errors/"><u>Understanding and Fixing 0X80072AF9 Errors</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -170,3 +147,21 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>[New] Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
+<li><a href="https://win11.techidaily.com/diving-into-the-economics-of-windows-11-and-microsoft/"><u>Diving Into the Economics of Windows 11 and Microsoft</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-g-pro-control-software-for-windows-versions-11-10-8-and-7/"><u>Download Logitech G Pro Control Software for Windows Versions: 11, 10, 8 and 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-optimization-get-a-faster-google-chrome-now/"><u>Effortless Optimization: Get a Faster Google Chrome Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-data-protection-powertoys-locksmith-application/"><u>Enhancing Data Protection: PowerToys Locksmith Application</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-failed-directx-file-transfers/"><u>How to Correct Failed DirectX File Transfers</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-display-quality-with-dpi-adjustment/"><u>Improving Display Quality with DPI Adjustment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>In 2024, 2023'S Most Captivating Channel The Ultimate Story Showcase</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-macbook-pro-now-supports-multi-monitor-setups-just-like-the-air-model-discover-how-with-insights/"><u>M3 MacBook Pro Now Supports Multi-Monitor Setups, Just Like the Air Model! Discover How with Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-techniques-to-master-windows-accounting/"><u>Powerful Techniques to Master Windows Accounting</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/professional-virtual-webcam-solutions-discover-the-most-effective-live-video-editors/"><u>Professional Virtual Webcam Solutions: Discover the Most Effective Live Video Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-d3dx930dll-a-comprehensive-guide-to-overcoming-the-missing-file-error/"><u>Solving d3dx9_30.dll: A Comprehensive Guide to Overcoming the 'Missing File' Error</u></a></li>
+</ul></div>
+

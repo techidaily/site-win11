@@ -1,7 +1,7 @@
 ---
 title: "Optimize Windows: Self-Replacing, Updated AMD Graphics Driver"
-date: 2024-12-03T02:03:21.207Z
-updated: 2024-12-06T23:33:46.425Z
+date: 2024-12-07T16:55:29.149Z
+updated: 2024-12-13T08:19:28.270Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 
  AMD has addressed this issue and provided a quick fix. To fix the error, you'll need to stop Windows from automatically installing the AMD graphics drivers. Then, reinstall the AMD graphics driver using AMD software.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Roll Back the AMD Graphics Driver
 
 ![amd radeon display adapter driver roll back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-radeon-display-adapter-driver-roll-back.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An easy way to fix Windows replacing your AMD graphics error is to roll back the AMD graphics driver. A driver rollback removes the current driver and reinstalls the previous version saved on your computer. Fortunately, you can[roll back device drivers using the Windows Device Manager](http://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
  Once the error is resolved, you'll need to stop Windows from automatically downloading AMD drivers. If not, you’ll likely encounter the same error after each Windows update.
 
  You can[stop automatic driver updates on Windows](https://www.makeuseof.com/windows-stop-automatic-driver-updates/) using device installation settings,**Group Policy Editor** , and the**Windows Registry** . With the device installation settings for automatic driver download set to off, Windows won't download and install AMD graphics drivers automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Repair and Reinstall the AMD Software Driver
 
@@ -65,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![run amd setup exe repair graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-amd-setup-exe-repair-graphics-driver.jpg)
 3. In the**AMD Radeon Software Installer** dialog, select the driver version to install.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Install** and wait for the driver to install.
 
  If you encounter an AMD error 195, temporarily[disable Windows Defender Firewall](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and**Real-Time Threat Protection** and try again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall the AMDSoftware Graphics Driver
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/09ef6fd9c7fe28eb77e63bbfa13236b988e850bf9
 ![amd software adrenaline edition uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/amd-software-adrenaline-edition-uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists, try to remove and reinstall the AMD Software graphics driver. Once uninstalled, you can download the latest driver using the AMD Software.
@@ -117,14 +117,14 @@ To undo the recent changes using a restore point:
 ![select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/select-restore-point.jpg)
 3. In the**System Restore** dialog, select the**Recommended** **restore** option. If not, select the**Choose a different restore point** option**.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select a**restore point** and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
 5. Read the description and click**Finish** .
 6. System Restore will restart and restore your PC to the state it was in before the date of the selected restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Windows Update May Have Automatically Replaced Your AMD Driver
 
@@ -145,20 +145,20 @@ To undo the recent changes using a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-top-10-live-streaming-hubs/"><u>[New] Unveiling the Top 10 Live Streaming Hubs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expert-chosen-speeds-modifying-tools-pc-phone/"><u>[Updated] Expert-Chosen Speeds Modifying Tools (PC, Phone)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-vector-graphics-the-ultimate-10-site-list/"><u>[Updated] Premium Vector Graphics The Ultimate 10 Site List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/5-simple-steps-to-record-your-youtube-streams-for-2024/"><u>5 Simple Steps to Record Your YouTube Streams for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-proximity-viewing-in-roblox-for-2024/"><u>Advanced Techniques for Proximity Viewing in Roblox for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-13t-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi 13T Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-scan-qr-codes-on-windows/"><u>How to Scan QR Codes on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-presentation-perfection-9-essential-tips-for-winning-at-powerpoint-prints/"><u>Mastering Presentation Perfection: 9 Essential Tips for Winning at PowerPoint Prints</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-closer-look-approach-to-team-collaboration/"><u>The Closer Look Approach to Team Collaboration</u></a></li>
-<li><a href="https://win11.techidaily.com/win-users-top-6-video-to-flv-editors/"><u>Win Users: Top 6 Video To FLV Editors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>[New] The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-comedy-chorus-satirical-song-selections/"><u>[Updated] 2024 Approved Comedy Chorus Satirical Song Selections</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-aces-cache-the-premier-choice-for-twitterscape-animation-preservation/"><u>[Updated] Ace's Cache The Premier Choice for Twitterscape Animation Preservation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-edge-mp4-transformer-share-to-facebook/"><u>[Updated] Cutting-Edge MP4 Transformer Share to Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-perfecting-skies-top-11-must-have-dji-accessories-for-2024/"><u>[Updated] Perfecting Skies Top 11 Must-Have DJI Accessories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/detecting-hacker-activity-on-a-windows-device/"><u>Detecting Hacker Activity on a Windows Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-a-disabled-printer-service-in-win/"><u>How to Reactivate a Disabled Printer Service in Win</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-network-functionality-on-macos-with-ease/"><u>How to Restore Network Functionality on macOS with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-tecno-camon-20-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Tecno Camon 20 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-casting-in-vlc-reviewed/"><u>In 2024, Screen Casting in VLC Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gaming-potential-on-windows-os/"><u>Maximizing Gaming Potential on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-11-icons-from-getting-smaller/"><u>Prevent Windows 11 Icons From Getting Smaller</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-tasks-in-windows-11-via-enhanced-run-toolset/"><u>Streamlining Tasks in Windows 11 via Enhanced Run Toolset</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-horizon-of-digital-drawing-tools-4-essential-paint-updates/"><u>The New Horizon of Digital Drawing Tools - 4 Essential Paint Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-printer-functionality-on-windows/"><u>Winning Back Printer Functionality on Windows</u></a></li>
 </ul></div>
 

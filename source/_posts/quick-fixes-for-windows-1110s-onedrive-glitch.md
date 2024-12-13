@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Windows 11/10'S OneDrive Glitch
-date: 2024-11-30T20:57:53.257Z
-updated: 2024-12-07T03:36:54.679Z
+date: 2024-12-09T23:56:51.894Z
+updated: 2024-12-13T11:07:40.396Z
 tags:
   - windows10
   - windows11
@@ -34,14 +34,14 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![The Pause syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pause-syncing-option.jpg)
 3. Select**2 hours** on the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Then wait for about five minutes.
 5. Right-click OneDrive's system tray icon again to select**Help & Settings** .  
 ![The Resume syncing option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/resume-syncing-option.jpg)
 6. Click the**Resume Syncing** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Reset OneDrive with Command Prompt Commands
 
@@ -52,12 +52,21 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 `%localappdata%\Microsoft\OneDrive\onedrive.exe /reset`  
 ![The reset OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-command.jpg)
 3. Next, execute the following command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`  
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Files On-Demand
@@ -71,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![The Files On-Demand option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/files-on-demand-option.jpg)
 5. Turn off the**File On-Demand** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Unlink and Relink Your OneDrive Account
 
  As error 0x80070194 is often a syncing issue, relinking your OneDrive account could be a potential solution. Doing so will restart the syncing when you re-establish an account link. These are the steps for relinking a OneDrive account:
@@ -87,16 +92,12 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![The Unlink account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-account-button2.jpg)
 5. Input the email address you utilize for linking OneDrive in the Microsoft OneDrive window that automatically opens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sign-in-button.jpg)
 2. Select**Next** to set the same OneDrive folder location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click**Use this folder** on the dialog box.  
@@ -113,11 +114,11 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
- To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
 
 ## Open and Copy Files in Your OneDrive Folder
 
@@ -138,19 +139,20 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-dive-into-time-lapse-with-advanced-canon-tactics/"><u>[New] Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-to-upload-strikingly-good-content-on-tiktok-via-mac-and-windows-for-2024/"><u>[New] Expert Techniques to Upload Strikingly Good Content on TikTok via Mac and Windows for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-simple-sound-transformation-iphone-friendly-software-for-youtube-to-mp3/"><u>[New] Simple Sound Transformation IPhone-Friendly Software for YouTube-to-MP3</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter/"><u>[New] Taking Flight In-Depth Review of the X4 FPV Quadcopter</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[Updated] In 2024, Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/can-you-broadcast-ontv-the-era-of-fb-videos-begins-for-2024/"><u>Can You Broadcast OnTV The Era of FB Videos Begins for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-browsers-safety-activate-or-deactivate-filters/"><u>Enhance Your Browser's Safety: Activate or Deactivate Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-the-system-call-error-in-win11/"><u>How to Mend the “System Call Error” In Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-pro-video-converter/"><u>MacX Pro Video Converter 使用マニュアル：安全なダウンロード、購入プロセスと高評価レビュー</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-taskmanager-visibility-on-desktop/"><u>Mastering TaskManager Visibility on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-index-configuration/"><u>Mastering Windows Index Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-correction-a-stepwise-guide-for-directdraw-problems-in-win11/"><u>Precision Correction: A Stepwise Guide for DirectDraw Problems in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-your-memories-reinstalling-classic-photo-viewer-in-windows-1111/"><u>Revive Your Memories: Reinstalling Classic Photo Viewer in Windows 11/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012722104-team-fortress-2-wont-start-here-are-solutions-to-get-you-game-on/"><u>Team Fortress 2 Won't Start? Here Are Solutions to Get You Game On</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nubia-z50-ultra-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-change-with-these-9-outlook-upgrade-benefits/"><u>Embracing Change with These 9 Outlook Upgrade Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-chrome-setup-in-windows-11/"><u>Enhance Your Workflow: Chrome Setup in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-one-to-seven-mondlys-global-learning-journey/"><u>From One to Seven: Mondly’s Global Learning Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-fix-resetting-key-software-directories-on-ws11-system/"><u>Instant Fix: Resetting Key Software Directories on WS11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/power-management-tips-for-high-end-gaming-on-windows/"><u>Power Management Tips for High-End Gaming on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sidestep-personalized-podcast-suggestions-in-spotify-for-2024/"><u>Sidestep Personalized Podcast Suggestions in Spotify for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ins-and-outs-of-privacy-friendly-search-engine-duckduckgo/"><u>The Ins and Outs of Privacy-Friendly Search Engine, DuckDuckGo</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-quickly-accessing-pc-control-center/"><u>The Ultimate Guide to Quickly Accessing PC Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/top-10-tips-for-preparedness-before-clean-installing-windows-os/"><u>Top 10 Tips for Preparedness Before Clean Installing Windows OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/8-youtube-music-splitters-for-easy-audio-extraction-for-2024/"><u>Top 28 YouTube Music Splitters for Easy Audio Extraction for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>Updated Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
 </ul></div>
 

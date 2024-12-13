@@ -1,7 +1,7 @@
 ---
 title: How to Change an Account PIN in Windows
-date: 2024-12-06T02:39:10.241Z
-updated: 2024-12-07T07:03:04.772Z
+date: 2024-12-07T16:34:32.946Z
+updated: 2024-12-13T01:04:53.559Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the Account PIN Using the Settings App
 
  The Windows Settings app makes it simple to manage sign-in options on your computer. Here’s how you can use it to change your account PIN on Windows. Note that this method will only work if you know your current PIN.
@@ -39,20 +43,20 @@ thumbnail: https://thmb.techidaily.com/3707ff184ff67962a6b219b0ce3645aba18b53d21
 ![Change Account PIN in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-account-pin-in-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, the Settings app also gives you the option to change your account password on Windows. If you’re interested in doing that, check our guide on[how to change an account password in Windows](https://www.makeuseof.com/change-account-password-windows-11/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Account PIN From the Sign-In Screen
 
  Although the above method lets you change the account PIN in a few easy steps, you may not be able to use it if you don't remember your current PIN. Fortunately, Windows gives you the option to change your computer's PIN from the sign-in screen as well.
 
  The steps for changing the account PIN from the sign-in screen vary depending on whether you’re using a Microsoft account or a Local account. Here are the steps for both.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Change PIN From the Sign-In Screen If Using a Microsoft Account
 
@@ -68,7 +72,7 @@ If you're using a Microsoft account:
 ![Change PIN on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-pin-on-windows-11.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change PIN From the Sign-In Screen If Using a Local Account
@@ -85,16 +89,12 @@ If you're using a local account instead:
 8. Set up the new PIN by entering it twice. Then, click**OK** .  
 ![Forgot PIN in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/forgot-pin-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your account PIN on Windows will be changed. Note that some of your apps might require you to sign in after you reset your account PIN.
 
  Don’t want to enter a PIN every time you access your computer? Check our guide on[how to set up automatic sign-in on Windows](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) to avoid the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effortlessly Change Your Windows Account PIN
@@ -118,21 +118,14 @@ If you're using a local account instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-telltale-signs-your-chat-is-hidden/"><u>[New] In 2024, Telltale Signs Your Chat Is Hidden</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-androidios-users-guide-to-facebook-live-broadcasting/"><u>[Updated] Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-finding-your-lost-footage-no-vids-on-a6400/"><u>[Updated] Finding Your Lost Footage No Vids On A6400</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-navigating-windows-11s-movie-maker-easily/"><u>[Updated] From Novice to Expert Navigating Windows 11'S Movie Maker Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-missing-video-functionality-in-sony-a6400/"><u>[Updated] In 2024, Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://video-capture.techidaily.com/gif-gif/"><u>文字を生かした GIF 魔術 - 流れるアニメーションやモーションGIFを作り方</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-pc-interaction-with-nvidias-ai-assistant/"><u>Enhancing PC Interaction with Nvidia’s AI Assistant</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974480901-get-your-hands-on-professional-behringer-driver-packs-free-download/"><u>Get Your Hands on Professional Behringer Driver Packs - Free Download!</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-protected-browsing-boosting-graphics-on-window-11/"><u>Maximizing Protected Browsing: Boosting Graphics on Window 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disconnect-between-os-and-hardware/"><u>Resolving Disconnect Between OS and Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/studio-2-microsofts-near-perfect-artist-companion/"><u>Studio 2: Microsoft's Near-Perfect Artist Companion</u></a></li>
-<li><a href="https://win11.techidaily.com/the-4-best-password-managers-for-windows-11/"><u>The 4 Best Password Managers for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-windows-pin/"><u>Unlock the Full Potential of Your Windows PIN</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-jdk-installation-the-insiders-guide-for-windows-11/"><u>Unraveling JDK Installation: The Insider's Guide for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/update-your-windows-account-pin-with-ease/"><u>Update Your Windows Account Pin with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-does-youtube-pay-you-for-2024/"><u>[New] How Does YouTube Pay You for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-macos-sierra-integration-techniques/"><u>[Updated] Seamless MacOS Sierra Integration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/exploiting-windows-technology-for-enhanced-macos/"><u>Exploiting Windows Technology for Enhanced macOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-common-outlook-issues-in-windows/"><u>Navigating Common Outlook Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-w11s-screensaver-and-crash-dilemmas/"><u>Overcoming W11's Screensaver and Crash Dilemmas</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-for-removing-copy-protection-from-your-disney-movie-dvd-set-disney99/"><u>Step-by-Step Guide for Removing Copy Protection From Your Disney Movie DVD Set (Disney99)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-review-easy-approach-to-hdr-enhancement/"><u>Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-potential-7-efficient-practices-for-windows-11-users-42/"><u>Unleash Peak Potential: 7 Efficient Practices for Windows 11 Users (42)</u></a></li>
 </ul></div>
 

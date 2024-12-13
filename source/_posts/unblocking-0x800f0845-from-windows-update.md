@@ -1,7 +1,7 @@
 ---
 title: Unblocking 0X800F0845 From Windows Update
-date: 2024-12-05T16:50:22.368Z
-updated: 2024-12-06T18:32:24.912Z
+date: 2024-12-06T16:04:33.569Z
+updated: 2024-12-13T11:53:40.596Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Windows Update 0x800f0845 Error?
 
  0x800f0845 is an error that mostly occurs while installing cumulative updates on your Windows PC. You may experience this update error if Windows components and services are corrupted or if there are damaged or missing system files. Sometimes, this error happens by the interactions of third-party apps with the system apps.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
  So what can you do now? Cumulative updates are quality updates, so these must be installed. Fortunately, as there are ways to get past the 0x800f0845 error and install the failed updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Update Troubleshooter
 
  It's always better to try fixing Windows update errors first by using the Windows Update Troubleshooter. It scans your PC for problems, attempts to resolve them, and then applies the fixes.
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 3. In the**Troubleshoot** page, select**Other troubleshooters** .  
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
 4. Then click**Run** on the**Windows Update** troubleshooter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-update-troubleshooter.jpg)
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
 Try updating Windows now and see if the update gets installed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Run the System File Checker and the DISM Tool
 
  Corrupted Windows system files could also be the cause of the 0x800f0845 error. To scan, repair, and replace such damaged files, run the System File Checker or SFC scan.
@@ -86,10 +86,6 @@ Try updating Windows now and see if the update gets installed.
  To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset Windows Update Components
 
@@ -131,14 +127,14 @@ net start cryptsvc`
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Microsoft Update Catalog Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-update-catalog-search-results.jpg)
 4. To know the build of your PC, search for**About** in**Windows Search** and click on**About your PC** under**Best match** . In the**About** page, under**Device specifications** , check your**System type** to know whether it is x64-based or another.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Device Specifications in About Your PC Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-10065.jpg)  
@@ -149,22 +145,27 @@ net start cryptsvc`
 ![Windows Update Standalone Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-update-standalone-installer.jpg)  
  The update will begin installing and this could take some time.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Cumulative Update Installation in Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-installing-progress.jpg)  
  Finally, the**Installation complete** window will appear.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click Restart Now to Complete Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-to-complete-installation.jpg)
 7. Just click the**Restart Now** button to complete the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. After your PC restarts, go to the**Windows Update history** page.  
 ![Cumulative Update Successfully Installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cumulative-update-successfully-installed.jpg)  
  The update that failed to install would have been successfully installed—as you can see in the screenshot above, the KB5023706 update was installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay Updated for a Secure and Smooth Windows Experience
 
@@ -185,20 +186,16 @@ net start cryptsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-revolutionize-your-social-media-experience-with-premier-tools/"><u>[New] In 2024, Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/deceptive-aesthetics-real-speed-problems-in-windows-11-pcs/"><u>Deceptive Aesthetics, Real Speed Problems in Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-6-windows-computers-tracking-apps-unveiled/"><u>Essential 6 Windows Computers Tracking Apps Unveiled</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-11-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 11 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-hardware-analysis-with-toms-equipment-corner/"><u>In-Depth Hardware Analysis with Tom's Equipment Corner</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-video-designs-free-premiere-plans-for-2024/"><u>Innovative Video Designs Free Premiere Plans for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/making-the-most-of-your-audio-settings-in-windows-11/"><u>Making the Most of Your Audio Settings in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-keyboards-in-windows-11-minimize-lag-time/"><u>Master Your Keyboards in Windows 11: Minimize Lag Time</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/minecraft-survival-shelter-mastery/"><u>Minecraft Survival Shelter Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-smoother-quick-fixes-for-laggy-wow-battlefront/"><u>Navigate Smoother: Quick Fixes for Laggy WoW Battlefront</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-k11x-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo K11x Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-performance-intel-network-driver-enhancement/"><u>Unlocking Performance: Intel Network Driver Enhancement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-my-acer-device-failing-to-charge-common-issues-and-fixes/"><u>Why Is My Acer Device Failing to Charge? Common Issues & Fixes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-editing-game-changer-fcps-best-10-plugins/"><u>[New] 2024 Approved The Editing Game Changer FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-selfie-sending-learn-the-technique-now-for-2024/"><u>[New] Effortless Selfie Sending - Learn the Technique Now for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>[Updated] In 2024, Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-seamless-system-sharing-quick-and-effective-techniques-for-transferring-files/"><u>2024 Approved Seamless System Sharing Quick and Effective Techniques for Transferring Files</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-setting-up-two-or-more-displays-on-windows-11/"><u>Expert Tips for Setting Up Two or More Displays on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-unstable-stardew-valley-gameplay-on-pc/"><u>In-Depth Analysis & Solutions for Unstable Stardew Valley Gameplay on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leveraging-cost-free-text-animation-techniques/"><u>Leveraging Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-live-broadcast-performance-on-steam/"><u>Optimizing Live Broadcast Performance on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-measures-for-win-11-upgrades-enable-tpm-secure-boot/"><u>Proactive Measures for Win 11 Upgrades: Enable TPM, Secure Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-standard-battery-settings/"><u>Steps For Restoring Windows’ Standard Battery Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-taskbar-icons-on-pcs/"><u>Troubleshooting Non-Operational Taskbar Icons on PCs</u></a></li>
 </ul></div>
 

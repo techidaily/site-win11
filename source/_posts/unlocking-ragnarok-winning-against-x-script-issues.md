@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Ragnarok: Winning Against X-Script Issues"
-date: 2024-12-05T09:25:38.102Z
-updated: 2024-12-06T19:10:15.789Z
+date: 2024-12-10T13:39:34.465Z
+updated: 2024-12-13T05:45:29.117Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 
 ![Running SKSE as as Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-SKSE-as-as-Administrator-in-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Verify the Integrity of Game Files
 
  For peace of mind, you should verify the integrity of game files, which is Steam's built-in tool that repairs corrupted game files. Here are the steps you need to follow:
@@ -56,17 +52,13 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 4. In the left sidebar, click**Local Files** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the right pane, click**Verify integrity of game files** .  
 ![Clicking on the Verify Integrity of Game Files under Local Files of Properties Window of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Verify-Integrity-of-Game-Files-under-Local-Files-of-Properties-Window-of-a-Game-in-Steam.jpg)
 
  If an integrity check fails to fix the problem, ensure the compatibility issue is not the cause.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Rule Out Compatibility Issues
 
@@ -82,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 
  If the SKSE's build is compatible with the game version, you can move on to the next fix. Otherwise, download the compatible build to resolve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Stop Skyrim From Automatically Updating
 
  If downloading the compatible version of SKSE fixes the problem, be sure to stop Skyrim from automatically updating to avoid encountering incompatibility issues again. Follow these steps to halt Skyrim's automatic updates:
@@ -92,16 +88,12 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 ![Opening the Properties of Skyrim Game in the Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Opening-the-Properties-of-Skyrim-Game-in-the-Steam.jpg)
 4. On the left sidebar, click the**Updates** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**Only update this game when I launch it** from the**Automatic Updates** dropdown.  
 ![Selecting the Only Update This Game When I Launch It Option From the Automatic Updates Dropdown in the Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Selecting-the-Only-Update-This-Game-When-I-Launch-It-Option-From-the-Automatic-Updates-Dropdown-in-the-Updates-Settings-of-a-Game-in-Steam.jpg)
 6. In the**Background Downloads** dropdown menu, select**Never allow background downloads** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Selecting the Never Allow Background Downloads Option from the Background Downloads Dropdown Menu in Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/8-Selecting-the-Never-Allow-Background-Downloads-Option-from-the-Background-Downloads-Dropdown-Menu-in-Updates-Settings-of-a-Game-in-Steam.jpg)
@@ -109,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
  Having set the automatic updates to start only when Skyrim is launched, you should never launch the game from Steam again. Doing so may result in the game being updated again, making it incompatible with your current SKSE build. Therefore, you should launch the game with SKSE itself or through a mod organizer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Use a Mod Organizer to Launch the Game
@@ -120,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 * Secondly, Skyrim often skips mods when launched from its launcher or executable file. Using mod organizers also eliminates this possibility.
 
  For those not using any mod organizer, we recommend that you do so to eliminate compatibility issues. But what if you don't want to use mod organizers? Use the SKSE itself. To be prepared for compatibility issues in the future, always keep a backup of Skyrim.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Defeat Compatibility Issues With a Backup
 
@@ -137,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 ![Copying the Game Folder by Right-clicking on the Skyrim Game Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/9-Copying-the-Game-Folder-by-Right-clicking-on-the-Skyrim-Game-Folder-in-Windows-File-Explorer.jpg)
 3. Paste the game files to another location on your computer. You can also use one of the methods in our guide on[how to back up Windows data to the cloud](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. When the compatibility issue arises after an update, go back to the backup location and replace the original game folder in the Steam directory with that backup.
 
 ## 8\. Ensure That the Firewalls or Antivirus Aren’t Interfering
@@ -145,9 +137,17 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 
  To resolve this issue, you need to allow SKSE exclusive access through your firewall; in other words, whitelist it. Our guide on[how to whitelist files in the Windows Defender firewall](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) will assist you if you are unfamiliar with the process. If you're using a third-party antivirus, refer to its official documentation to learn how to whitelist an app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall Steam in a Different Location
 
  If none of the fixes worked, you should reinstall Steam. Make sure you don't install it on the same drive as your operating system. The reason is that Windows security prevents SKSE from modifying game files, thereby blocking communication. Reinstall Steam in a different location; hopefully, doing so will fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try Your New Mods With SKSE64
 
@@ -168,21 +168,21 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-truth-understanding-youtubes-seo-keywords/"><u>[New] 2024 Approved Unveiling Truth Understanding YouTube's SEO Keywords</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-9-epic-live-gaming-stations-unlocked/"><u>[New] 9 Epic Live Gaming Stations Unlocked</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726227530787-mxf-gif-movavi/"><u>網路上無成本地自動轉換 MXF 到 GIF - 利用 Movavi 轉檔工具</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-and-fix-actions-to-take-when-virtualbox-stumbles-on-usb-connection/"><u>Decode and Fix: Actions to Take When VirtualBox Stumbles on USB Connection</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-the-power-of-wintoys-a-window-into-windows-potential/"><u>Discovering the Power of 'WinToys': A Window Into Windows' Potential</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-facebook-to-unknown-carolyn-everson-retires/"><u>From Facebook to Unknown: Carolyn Everson Retires</u></a></li>
-<li><a href="https://blog-min.techidaily.com/herausragende-kostenlose-4k-videodownloader-zum-erstellen-von-playlisten-so-lade-ich-das-beste-herunter/"><u>Herausragende Kostenlose 4K-Videodownloader Zum Erstellen Von Playlisten – So Lade Ich Das Beste Herunter</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-make-a-good-podcast-trailer-for-2024/"><u>How To Make A Good Podcast Trailer for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>In 2024, Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>In 2024, Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-s17-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo S17 Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-and-configuring-win11s-default-screensaver/"><u>Personalizing and Configuring Win11's Default Screensaver</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-updater-code-0x8019-hurdle/"><u>Tackling Updater Code 0X8019 Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/top-rated-windows-apps-for-seamless-photo-arrangement/"><u>Top-Rated Windows Apps for Seamless Photo Arrangement</u></a></li>
-<li><a href="https://win11.techidaily.com/trigger-windows-11s-on-demand-support-kit/"><u>Trigger Windows 11'S On-Demand Support Kit</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-the-locked-issue-in-steam-games/"><u>Troubleshooting the Locked Issue in Steam Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-list-best-virtual-playstation-3-software/"><u>[New] 2024 Approved Ultimate List Best Virtual PlayStation 3 Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-youtube-to-watch-facebook-content-on-apple-tv/"><u>[New] Mastering YouTube to Watch Facebook Content on Apple TV</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-retro-reflection-self-portraits-with-x-phone/"><u>[New] Retro Reflection Self-Portraits with X Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-frame-to-firm-selecting-your-mcn-partner-for-2024/"><u>From Frame to Firm Selecting Your MCN Partner for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-novice-to-nexus-steps-for-earning-your-verified-status-on-discord-for-2024/"><u>From Novice to Nexus Steps for Earning Your Verified Status on Discord for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-microsoft-teams-crashes-on-windows-11-10-pcs/"><u>How to Stop Microsoft Teams Crashes on Windows 11, 10 PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone XS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-music-management-for-social-media-iphone-and-android-basics/"><u>In 2024, Music Management for Social Media IPhone & Android Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-syncing-airpods-with-windows/"><u>Masterclass: Syncing AirPods with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixed-windows-interface-issues/"><u>Mastering the Art of Fixed Windows Interface Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-unreal-engine-4-glitch-causes-outriders-processing-error-in-maddening-bugs/"><u>Resolved: Unreal Engine 4 Glitch Causes Outriders 'Processing Error' In Maddening Bugs</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-win-reestablishing-google-drive-syncs/"><u>Solutions for Win: Reestablishing Google Drive Syncs</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-trigger-camera-notifications-in-win11/"><u>Techniques to Trigger Camera Notifications in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tips-for-a-swift-black-screen-recovery-on-win10/"><u>Top Tips for a Swift Black-Screen Recovery on Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windows-from-thx-spatial-delays/"><u>Unblocking Windows From THX Spatial Delays</u></a></li>
 </ul></div>
 

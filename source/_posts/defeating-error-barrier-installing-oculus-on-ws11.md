@@ -1,7 +1,7 @@
 ---
 title: "Defeating Error Barrier: Installing Oculus on WS11"
-date: 2024-12-01T05:57:18.414Z
-updated: 2024-12-07T00:57:51.416Z
+date: 2024-12-08T02:50:28.105Z
+updated: 2024-12-12T17:10:22.832Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disconnect Your Quest 2/Rift Headset From Your PC Before Installing Oculus
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
@@ -33,21 +37,17 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -61,10 +61,14 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
@@ -77,17 +81,13 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
@@ -111,26 +111,6 @@ C:\Users\<User Folder>\AppData`
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tunes-terms-and-copyrights-on-instagram/"><u>[New] 2024 Approved Tunes, Terms, and Copyrights on Instagram</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-understanding-discords-report-system-procedures-and-tips/"><u>[Updated] In 2024, Understanding Discord's Report System Procedures and Tips</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-pro-tips-for-effective-use-of-supplemental-film-sequences-b-roll/"><u>2024 Approved Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://win11.techidaily.com/error-resolution-for-improperly-configured-devices-addressing-the-common-challenge-of-error-code/"><u>Error Resolution for Improperly Configured Devices: Addressing the Common Challenge of Error Code ①</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-for-cod-warzones-troublesome-pacific-map-crashing/"><u>Fixes Implemented for COD: Warzone's Troublesome Pacific Map Crashing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-new-asus-vivobook-pro-for-a-steal-up-to-300-off-today-at-amazon-exclusively-covered/"><u>Get Your New Asus VivoBook Pro for a Steal: Up to $300 Off Today at Amazon, Exclusively Covered !</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x800704cf-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error 0X800704CF in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-store-sign-in-hurdles/"><u>Mastering Microsoft Store Sign-In Hurdles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/optimal-equipment-for-doll-miniaturization-films-for-2024/"><u>Optimal Equipment for Doll Miniaturization Films for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-the-problem-camera-not-shown-dm/"><u>Remedy the Problem: Camera Not Shown DM</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-at-wins-eliminating-common-display-issues/"><u>Winning at Wins: Eliminating Common Display Issues</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-revenue-demystified/"><u>YouTube Revenue Demystified</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,3 +118,27 @@ C:\Users\<User Folder>\AppData`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-premier-iphone-x8-series-gif-apps-reviewed/"><u>[New] 2024 Approved Premier iPhone X/8 Series GIF Apps Reviewed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growing-presence-in-video-platforms-via-short-films-for-2024/"><u>[New] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-essential-guide-to-mobile-asmr-sounds/"><u>[New] Your Essential Guide to Mobile ASMR Sounds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-livestream-software-arsenal/"><u>[Updated] Advanced Livestream Software Arsenal</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-design-a-look-at-the-newest-monitor-in-town-hp-envy-27/"><u>[Updated] Cutting Edge Design - A Look at the Newest Monitor in Town, HP Envy 27</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-snapshot-dilemmrancies/"><u>Deciphering Windows Snapshot Dilemmrancies</u></a></li>
+<li><a href="https://discover-data.techidaily.com/effortless-guide-moving-iphone-footage-to-your-pc-running-windows-11-or-10/"><u>Effortless Guide: Moving iPhone Footage to Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-warhammer-gaming-on-windows-eradicate-latency-problems/"><u>Elevate Warhammer Gaming on Windows - Eradicate Latency Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-epic-games-login-with-ease-on-windows-pcs/"><u>Enabling Epic Games Login with Ease on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011s-error-code-0x8007045d/"><u>Fixing Windows 10/11'S Error Code: 0X8007045D</u></a></li>
+<li><a href="https://win11.techidaily.com/homemade-hardware-duplication-strategies/"><u>Homemade Hardware Duplication Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-dark-screen-issue-in-hitman-3-pc-guide/"><u>How to Fix the Dark Screen Issue in Hitman 3 - PC Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-forbidden-errors-on-windows/"><u>How to Navigate Forbidden Errors on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-guide-how-to-safely-gratisly-download-vlc-on-macos/"><u>Instant Guide How to Safely, Gratisly Download VLC on MacOS</u></a></li>
+<li><a href="https://win-unique.techidaily.com/les-secrets-reveles-recouvrez-facilement-vos-images-supprimees-sous-windows-11-avec-ces-six-techniques-simplifiees/"><u>Les Secrets Révélés: Recouvrez Facilement Vos Images Supprimées Sous Windows 11 Avec Ces Six Techniques Simplifiées</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-recovery-steps-for-windows-11s-safe-mode-access/"><u>Rapid Recovery Steps for Windows 11'S Safe Mode Access</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-control-over-screen-brightness-using-function-keys-on-win-11/"><u>Reestablishing Control Over Screen Brightness Using Function Keys on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-wi-fi-mice-in-windows-systems/"><u>Troubleshooting: Non-Responsive Wi-Fi Mice in Windows Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/youtube-for-iphoneandroid-enhancing-browser-performance/"><u>YouTube for iPhone/Android Enhancing Browser Performance</u></a></li>
+</ul></div>
+

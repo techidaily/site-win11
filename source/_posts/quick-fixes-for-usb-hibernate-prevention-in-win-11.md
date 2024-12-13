@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for USB Hibernate Prevention in Win 11
-date: 2024-12-05T11:27:33.384Z
-updated: 2024-12-07T09:08:09.729Z
+date: 2024-12-09T23:25:07.419Z
+updated: 2024-12-13T06:09:29.570Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
  Now that you know the reason, let’s check out different ways to disable USB selective suspend on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using the Device Manager
 
  The Device Manager on Windows is the go-to place to manage USB devices connected to your system. You can use it to [update outdated drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/), uninstall devices, and much more. It can also help you turn off the USB selective suspend feature.
@@ -46,23 +50,16 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![Universal Serial Bus controllers node in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/universal-serial-bus-controllers-node.jpg)
 3. Right-click on any **Generic USB Hub** or **USB Root Hub** drivers and choose **Properties**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![USB Root Hub driver in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-root-hub.jpg)
 4. Switch to the **Power** **Management** tab and uncheck the **Allow the computer to turn off this device to save power** option. Then, click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Allow the computer to turn off this device to save power option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/allow-the-computer-to-turn-off-this-device-to-save-power-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, repeat the above steps for all the USB drivers for which you want to disable USB selective suspend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Using the Control Panel
 
@@ -79,13 +76,17 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 5. Choose **Disabled** for both the **On battery** and **Plugged in** options.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disabled option in Power Option window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disabled-option.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 
  The USB selective suspend feature is now disabled. Let's look at one more way to do so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using Command Prompt
 
@@ -96,11 +97,11 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 `powercfg /SETACVALUEINDEX SCHEME_CURRENT 2a737441-1930-4402-8d77-b2bebba308a3 48e6b7a6-50f5-4782-a5d4-53bb8f07e226 0`  
 ![Disable USB Selective Suspend command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-usb-selective-suspend.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And you're done! The USB selective suspend feature is now disabled on your Windows computer. If you wish, you can easily turn it back on using the same navigation as shown above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## USB Selective Suspend Is Good, but Not Perfect
 
@@ -110,29 +111,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
  If you encounter issues with USB devices on your Windows 11 computer, consider disabling the USB selective suspend feature. Here’s how to do so on Windows 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-videography-size-guide-ready/"><u>[Updated] Instagram Videography Size Guide - Ready</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>2024 Approved Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-the-unexplainable-pink-screen-phenomenon/"><u>Conquering The Unexplainable Pink Screen Phenomenon</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-file-explorer-with-extra-paths/"><u>Enhancing File Explorer with Extra Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-full-functionality-in-windows-audio-controls-missing/"><u>Ensuring Full Functionality in Windows: Audio Controls Missing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-these-7-innovative-applications-utilize-gpt-4s-power/"><u>How Do These 7 Innovative Applications Utilize GPT- 4'S Power?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-display-sizing-in-win11-environment/"><u>Mastering the Art of Display Sizing in Win11 Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-desktop-with-a-three-column-widget-board-setup-in-win11/"><u>Maximize Your Desktop with a Three-Column Widget Board Setup in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-in-use-alerts-for-files-in-windows-11/"><u>Navigating 'In Use' Alerts for Files in Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-gadgets-expert-reviews-from-toms-hardware/"><u>Navigating the World of Tech Gadgets: Expert Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-video-hosting-platforms-for-monetizing-your-content/"><u>New 2024 Approved The Best Free Video Hosting Platforms for Monetizing Your Content</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-uninstalled-windows-utilities-and-extras/"><u>Recovering Uninstalled Windows Utilities and Extras</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-your-silent-tab-key-in-modern-windows/"><u>Resurrecting Your Silent Tab Key in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-steam-permission-faults-on-win11-system/"><u>Solving Steam Permission Faults on Win11 System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-into-tomorrow-revel-in-the-unveiling-of-apples-latest-handheld-masterpiece/"><u>Step Into Tomorrow: Revel in the Unveiling of Apple's Latest Handheld Masterpiece</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-recommended-screen-recording-software-for-enhanced-security/"><u>Top 10 Recommended Screen Recording Software for Enhanced Security</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlocking-the-power-of-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>Unlocking the Power of Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -140,3 +118,23 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-orientation-options-for-facebook-videos-for-2024/"><u>[New] Navigating Orientation Options for Facebook Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-windows-using-spotlight-pictures-for-dynamic-backdrops/"><u>Customize Windows: Using Spotlight Pictures for Dynamic Backdrops</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/essential-strategies-to-save-instagram-stories-for-2024/"><u>Essential Strategies to Save Instagram Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-installing-kali-linux-on-pc/"><u>Essential Tips for Installing Kali Linux on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-techkey-bluetooth-software-update-for-windows-operating-systems/"><u>Get the Latest TechKey Bluetooth Software Update for Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-frozen-state-of-essential-wsreset/"><u>Guide to Overcoming Frozen State of Essential WSReset</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-harnessing-the-power-of-real-time-social-interaction-on-fb-stories/"><u>In 2024, Harnessing the Power of Real-Time Social Interaction on FB Stories</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-note-30i-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Note 30i</u></a></li>
+<li><a href="https://win11.techidaily.com/proposing-top-changes-for-the-taskbar-in-next-gen-windows-11-ux/"><u>Proposing Top Changes for the Taskbar in Next-Gen Windows 11 UX</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-local-sam-service-deactivated-message/"><u>Resolving 'Local SAM Service Deactivated' Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-downloading-and-creating-windows-7-iso-image/"><u>Step-by-Step Guide: Downloading & Creating Windows 7 ISO Image</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-bypass-difficulty-in-installing-version-22h2-of-win11-updater/"><u>Techniques to Bypass Difficulty in Installing Version 22H2 of Win11 Updater</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-dxgi-correction-for-removed-devices/"><u>Windows 11 DXGI Correction for Removed Devices</u></a></li>
+</ul></div>
+

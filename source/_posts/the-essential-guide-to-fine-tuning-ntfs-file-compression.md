@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Fine-Tuning NTFS File Compression
-date: 2024-12-04T20:42:32.756Z
-updated: 2024-12-06T22:17:44.449Z
+date: 2024-12-09T13:30:40.036Z
+updated: 2024-12-13T00:56:02.754Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable NTFS File Compression Through the File Explorer
@@ -57,11 +57,7 @@ Similarly, you can compress an entire drive. Here's how:
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable NTFS File Compression Using the Command Prompt
@@ -81,10 +77,6 @@ Similarly, you can compress an entire drive. Here's how:
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -97,15 +89,15 @@ Similarly, you can compress an entire drive. Here's how:
 ![Choosing DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-dword.jpg)
 5. Right-click on the newly created value and choose**Rename** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Type**Ntfsenablecompression** in the text field.
 7. Select and right-click on**Ntfsenablecompression** again, and choose**Modify** .
 8. Type**1** in the**Value data** .  
 ![Editing Ntfsenablecompression in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-ntfsenablecompression.jpg)
 9. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
 
@@ -121,7 +113,15 @@ Similarly, you can compress an entire drive. Here's how:
 ![Disabling policy in LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-policy.jpg)
 5. Click**Apply** \>**OK** to enable file compression.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
 
@@ -144,18 +144,17 @@ Similarly, you can compress an entire drive. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-master-class-top-online-aids-for-improving-media-captions-quality/"><u>2024 Approved Master Class Top Online Aids for Improving Media Captions' Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhance-creativity-on-chrome-os-top-10-digital-pencil-stores/"><u>Enhance Creativity on Chrome OS Top 10 Digital Pencil Stores</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-non-functional-window-previews/"><u>Fixing Non-Functional Window Previews</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-v30-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme V30 FRP Without Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mpg-to-aac-in-a-snap-download-our-no-cost-online-video-editor-at-movavi/"><u>MPG to AAC in a Snap! Download Our No-Cost Online Video Editor at Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-keyboard-lags-on-windows-11-with-top-techniques/"><u>Overcoming Keyboard Lags on Windows 11 with Top Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-persistent-malfunctions-in-celestial-software-for-windows-users/"><u>Solving Persistent Malfunctions in Celestial Software for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/switch-wincalc-visuals-to-darker-tones/"><u>Switch WinCalc Visuals To Darker Tones</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-threat-of-wacatacbml-in-windows-systems-exposed/"><u>The Hidden Threat of Wacatac.B!ml in Windows Systems Exposed</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-compendium-of-fixing-windows-blues/"><u>The Ultimate Compendium of Fixing Windows' Blues</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-self-opening-windows-11-search/"><u>Troubleshooting Self-Opening Windows 11 Search</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/video-vanguard-10-web-based-hd-recording-tools-for-2024/"><u>Video Vanguard #10 Web-Based HD Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-crucial-collections-8-innovative-products-to-boost-your-professional-edge-for-2024/"><u>[New] Crucial Collections 8 Innovative Products to Boost Your Professional Edge for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>[New] In 2024, The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-selfies-on-iphone-try-these-best-free-enhancers/"><u>[Updated] Mastering Selfies on iPhone? Try These Best Free Enhancers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-unpacked-dedicated-to-video-showcase-and-sharing-for-2024/"><u>[Updated] Vimeo Unpacked Dedicated to Video Showcase and Sharing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/classic-monitor-sets-new-standard-at-700hz-sacrificing-resolution-to-just-120p/"><u>Classic Monitor Sets New Standard at 700Hz, Sacrificing Resolution to Just 120P</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-productivity-and-entertainment-in-winstore/"><u>Enhance Productivity and Entertainment in WinStore</u></a></li>
+<li><a href="https://win11.techidaily.com/escalating-network-capacity-bypassing-windows-setbacks-at-100mbps/"><u>Escalating Network Capacity: Bypassing Windows' Setbacks at 100Mbps</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-top-20-windows-cmd-commands-to-learn-fast/"><u>Essential Tips: Top 20 Windows CMD Commands to Learn Fast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soundtrack-synergy-inshot-edition/"><u>In 2024, Soundtrack Synergy InShot Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jumpstart-your-fitness-journey-essential-exercise-tunes/"><u>Jumpstart Your Fitness Journey Essential Exercise Tunes</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-docx-to-pdf-transitions-in-win-11-environment/"><u>Navigating DOCX to PDF Transitions in Win 11 Environment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/prinkle-of-life-in-your-text-animations/"><u>The Sprinkle of Life in Your Text Animations</u></a></li>
 </ul></div>
 

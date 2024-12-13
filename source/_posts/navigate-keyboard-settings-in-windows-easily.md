@@ -1,7 +1,7 @@
 ---
 title: Navigate Keyboard Settings in Windows Easily
-date: 2024-12-06T06:15:26.638Z
-updated: 2024-12-06T18:03:12.978Z
+date: 2024-12-10T12:41:11.873Z
+updated: 2024-12-12T18:25:29.219Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Enable or Disable Filter Keys With a Keyboard Shortcut
 
  The quickest way to enable or disable Filter Keys on Windows is with your keyboard. So, let’s start with that.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 ![Turn Filter Keys On or Off via the Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-keyboard-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the other hand, if you want to disable Filter Keys, click on **Disable this keyboard shortcut in Ease of Access keyboard settings** . Then, disable the toggle next to Filter keys.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  Like using keyboard shortcuts on Windows? Why not check our[ultimate guide to Windows keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable or Disable Filter Keys via the Settings App
@@ -60,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 3. Under the**Interaction** section, click on**Keyboard** .
 4. Use the toggle next to the**Filter keys** to enable or disable it. You can click on Filter keys to further customize the feature to your liking.  
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
@@ -77,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 8. Click**Apply** followed by**OK** to save the changes.  
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
  Both Windows 10 and 11 offer the convenience of managing accessibility settings from the sign-in screen. If you are looking to enable or disable Filter Keys from the sign-in screen, use these steps:
@@ -85,15 +93,7 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 2. Use the toggle next to**Filter keys** to enable or disable it.  
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
@@ -116,24 +116,14 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>[New] In 2024, Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-window-history-with-spring-screenrecorder-for-2024/"><u>[New] Unlock Window History with Spring ScreenRecorder for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-essential-steps-for-online-vhs-image-transformation/"><u>[Updated] In 2024, Essential Steps for Online VHS Image Transformation</u></a></li>
-<li><a href="https://win11.techidaily.com/commence-rapid-assistance-feature-on-windows-11/"><u>Commence Rapid Assistance Feature on Windows 11</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-techniques-in-command-line-for-deploying-software-packages/"><u>Effective Techniques in Command Line for Deploying Software Packages</u></a></li>
-<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-missing-supported-devices-problem-in-win11/"><u>How to Correct Missing Supported Devices Problem in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-smartscreen-filter-in-windows-11-and-11/"><u>How to Enable or Disable the SmartScreen Filter in Windows 11 & 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphone-tips-creating-beautiful-and-easy-collage-projects/"><u>In 2024, IPhone Tips Creating Beautiful and Easy Collage Projects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastery-of-safaris-picture-in-picture-for-ios-and-macos-for-2024/"><u>Mastery of Safari's Picture-in-Picture for iOS & macOS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-and-purge-vacant-directories-efficiently-in-your-windows-drive/"><u>Navigate & Purge Vacant Directories Efficiently in Your Windows Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-ins-and-outs-of-administrative-task-management-in-win11/"><u>Navigating the Ins and Outs of Administrative Task Management in Win11</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-create-talking-cartoon-images-using-top-tools/"><u>New Create Talking Cartoon Images Using Top Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/next-gen-widget-concepts-for-improved-windows-11-interactivity/"><u>Next-Gen Widget Concepts for Improved Windows 11 Interactivity</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-access-microsoft-store-sign-in-solutions/"><u>Recovering Access: Microsoft Store Sign-In Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos-for-2024/"><u>Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-click-lock-operations-for-windows-users/"><u>Streamlining Click Lock Operations for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-roblox-crashes-on-windows-demanding-termination/"><u>Troubleshooting Roblox Crashes on Windows Demanding Termination</u></a></li>
+<li><a href="https://win-help.techidaily.com/auswahl-zwischen-hyper-v-und-vmware-fur-ihre-virtualisierungsbedurfnisse/"><u>Auswahl Zwischen Hyper-V Und VMware Für Ihre Virtualisierungsbedürfnisse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-better-dialogue-flows-with-user-persona-customization-in-chatgpt-environments/"><u>Building Better Dialogue Flows with User Persona Customization in ChatGPT Environments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-options-dilemma-podcasts-against-youtube/"><u>In 2024, Audio Options Dilemma Podcasts Against YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-live-transmission-fixes/"><u>Mastering ChatGPT Live Transmission Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-premium-sound-installing-dolby-atmos-on-win-11/"><u>Setting up Premium Sound: Installing Dolby Atmos on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-address-security-hurdles-with-these-top-5-windows-troubleshooting-steps/"><u>Swiftly Address Security Hurdles with These Top 5 Windows Troubleshooting Steps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-hilarious-highlights/"><u>Twitter's Hilarious Highlights</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-printing-power-in-windows-environment/"><u>Unleash Peak Printing Power in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-secrets-for-purging-windows-security-history/"><u>Unveiling Secrets for Purging Windows' Security History</u></a></li>
 </ul></div>
 

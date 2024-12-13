@@ -1,7 +1,7 @@
 ---
 title: Fixing Code XC0000142 Errors in Windows
-date: 2024-12-03T02:51:55.755Z
-updated: 2024-12-06T19:10:50.159Z
+date: 2024-12-11T08:32:03.498Z
+updated: 2024-12-13T05:33:17.340Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run Affected Software With Admin Permissions
 
  Start your error 0xc0000142 troubleshooting by setting the affected software to run as an administrator. That will ensure the program can access more restricted file locations. You could potentially stop this error code by [setting the affected app to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 2. Right-click the software's EXE (application) file to select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-properties-option.jpg)
 3. Click on the properties window's **Compatibility** tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Select the checkbox labeled **Run this program in compatibility mode**.  
 ![Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-this-program-in-compatibility-mode-checkbox.jpg)
@@ -68,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set the Right System Locale
 
  Setting a correct system locale is an error 0xc0000142 fix that's worked for some uses. To apply this fix, you must select a system locale setting for non-unicode software that matches the correct region for your PC. You can set the suitable system locale as follows:
@@ -80,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 2. Click on **Region** inside the All Control Panel Items window.  
 ![The Region applet in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/region-in-control-panel.jpg)
 3. Next, click on the **Administrative** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press the **Change system locale** button.  
 ![The Change system locale button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-system-locale-button.jpg)
 5. Select the correct region for your PC in the drop-down menu.
 6. Press **OK** in the Region Settings window.
 7. Click on the **Apply** button to save your regional settings and **OK** to exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reregister DLL Files in Windows
 
@@ -102,11 +91,7 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 4. Then wait until all the DLLs have been registered before closing the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run a CHKDSK (Check Disk) Scan
@@ -116,7 +101,11 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chkdsk-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Update the Driver for Your PC's GPU (Graphics Processing Unit)
@@ -124,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
  If you need to fix the error 0xc0000142 for a Windows game, [updating your PC's graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) might help. You can do that manually, using a third-party driver updater tool or AMD or NVIDIA software like GeForce Experience.
 
 ![A Download option in GeForce Experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/geforce-experience.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Enable the .NET Framework 3.5 Feature
 
@@ -149,16 +142,24 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 7. Click **OK** to apply the new value for the LoadAppInit\_DLLs DWORD.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close out of the Registry Editor and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Reinstall Affected Software Packages
 
  The final potential solution is reinstalling software packages for which the 0xc0000142 error occurs. Doing so will refresh and repair the software's files, which might be necessary if other resolutions don't work. Reinstalling is also another way to update apps.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-uninstall-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are [many ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), and you can choose any method to remove the app. However, if the error occurs when you open a game, you may need to uninstall it with its client software, such as the Epic Games Launcher. Then, reinstall the latest version of the app or game by downloading it from its website or gaming client.
 
@@ -172,21 +173,6 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  So, if you're running into this issue, this is how you can fix error 0xc0000142 in Windows 11 and 10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-apeaksofts-game-changing-recording-technology-review-for-2024/"><u>[New] Apeaksoft's Game-Changing Recording Technology Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-top-15-trends-in-snappy-storytelling-and-sharing/"><u>[New] In 2024, Top 15 Trends in Snappy Storytelling and Sharing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-efficiently-record-your-periscope-experience-now/"><u>[Updated] Efficiently Record Your Periscope Experience Now</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-bios-related-hard-drive-errors/"><u>Demystifying BIOS-Related Hard Drive Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/guides-to-fix-windows-operation-fail/"><u>Guides to Fix Windows Operation Fail</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-overcome-launch-difficulties-for-red-dead-redemption-2-issues-resolved/"><u>How to Overcome Launch Difficulties for Red Dead Redemption 2 (ISSUES RESOLVED)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Pop 7 Pro Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-vpn-failure-to-reconnect-remote-pc/"><u>Overcoming VPN Failure to Reconnect Remote PC</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-prevent-unrecoverable-roblox-problems/"><u>Strategies to Prevent Unrecoverable Roblox Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-restore-the-functionality-of-your-windows-11-search-bar/"><u>Swiftly Restore the Functionality of Your Windows 11 Search Bar</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -194,3 +180,21 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-5-for-high-speed-video-capture-tech/"><u>[New] In 2024, Best 5 for High-Speed Video Capture Tech</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-memories-maker-efficiently-download-tweeted-media-content-for-2024/"><u>[New] Memories Maker Efficiently Download Tweeted Media Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harmonic-hues-infusing-your-social-media-content-with-tunes/"><u>[Updated] In 2024, Harmonic Hues Infusing Your Social Media Content with Tunes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/customize-twitter-video-snapshot/"><u>Customize Twitter Video Snapshot</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-out-unwanted-gaming-suggestions-in-win11/"><u>Cut Out Unwanted Gaming Suggestions in Win11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/harnessing-the-power-of-mov-recording-in-windows-10-for-2024/"><u>Harnessing the Power of MOV Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immediate-remedies-when-itunes-fails-to-show-iphones-apple-music-playlist/"><u>Immediate Remedies When iTunes Fails to Show iPhone's Apple Music Playlist</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-improvement-in-visuals-the-canva-technique-for-borderless-images/"><u>In 2024, Instant Improvement in Visuals The Canva Technique for Borderless Images</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-component-services-configuration-tools/"><u>Introduction to Component Services Configuration Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/merry-merriment-gifting-windows-store-items-on-xmas/"><u>Merry Merriment: Gifting Windows Store Items on Xmas</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-single-board-computers-for-windows-lovers/"><u>Prime Single-Board Computers for Windows Lovers</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-your-account-in-microsoft-store-now/"><u>Regain Your Account in Microsoft Store, Now</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-windows-discussions-via-freedomgpt/"><u>Unrestricted Windows Discussions via FreedomGPT</u></a></li>
+</ul></div>
+

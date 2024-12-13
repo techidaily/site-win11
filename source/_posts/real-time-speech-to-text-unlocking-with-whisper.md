@@ -1,7 +1,7 @@
 ---
 title: "Real Time Speech to Text: Unlocking with Whisper"
-date: 2024-12-02T01:59:30.408Z
-updated: 2024-12-07T07:56:35.593Z
+date: 2024-12-07T07:12:45.299Z
+updated: 2024-12-13T10:03:07.317Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is OpenAI's Whisper?
 
  OpenAI's Whisper is an Automatic Speech Recognition system (ASR for short) or, to put it simply, is a solution for converting spoken language into text.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  If you'd prefer the "vanilla" version of Whisper and the versatility of the terminal instead of clunky GUIs, check our article on [how to turn your voice into text with OpenAI's Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are Whisper and Whisper Desktop the Same?
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  You're on the other end of the spectrum, and instead of seeking an easier way to use Whisper than the terminal you're seeking ways to implement it in your own solutions? Rejoice, for [OpenAI has opened access to ChatGPT and Whisper APIs](https://www.makeuseof.com/what-chatgpt-and-whisper-apis-means-for-businesses/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Download & Install Whisper Desktop
 
  Although Whisper Desktop is easier to use than the standalone Whisper, its installation is more convoluted than repeatedly clicking Next in a wizard.
@@ -58,6 +58,11 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 1. Visit [Whisper Desktop's official Github page](https://github.com/Const-me/Whisper). Look on the right, and click on the latest version under **Releases**.  
 ![Whisper Desktop Github Releases Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-releases-link.jpg)
 2. Under **Assets**, click **WhisperDesktop.zip** and download it to your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Whisper Desktop Github Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-download-link.jpg)
 3. Extract the downloaded archive to a folder and use your file manager to visit it. Inside you will find the Whisper Desktop application. Double-click on it to run it.  
 ![Whisper Desktop App in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-app-in-file-explorer.jpg)
@@ -66,31 +71,27 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 5. The version of Whisper Desktop we used while writing this article provided a link to an obsolete repository at Hugging Face. If you meet the same problem, notice a link to a **new location**. Click on it to visit the new repository.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Hugging Face Whisper Models New Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-models-new-location.jpg)
 6. Click on the link that will take you to the available **models**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Hugging Face Available Models Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-available-models-link.jpg)
 7. From that list, click on either the **ggml-medium.bin** or **ggml-medium.en.bin**, depending on if you want multilingual or English-only support in Whisper.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Hugging Face Whisper Medium Model Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-link.jpg)
 8. Finally, you should have reached your destination. Notice the line stating that this file is stored with Git LFS and is too big to display, but you can still download it. Click on **download** to do precisely that.  
 ![Hugging Face Whisper Medium Model Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-download-link.jpg)
 9. When the file completes downloading, use your favorite file manager (File Explorer will do) to move the downloaded language model file into the same folder as Whisper Desktop.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Whisper Medium Model Placed in Whisper Desktop Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-medium-model-placed-in-whisper-desktop-folder-in-file-explorer.jpg)
 
@@ -120,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ![Whisper Desktop Saving And Appending to Text File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-saving-and-appending-to-text-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on **Capture** to begin transcribing your speech to text.
 
  Whisper Desktop will show you three indicators for when it detects voice activity, when it's actively transcribing, and when the process is stalled.
@@ -127,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  You can keep talking for as long as you like, and you should occasionally see the two first indicators flashing while the app turns your voice into text. Click **Stop** when done.
 
 ![Whisper Desktop Active Voice Transcribing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-active-voice-transcribing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The text file you selected should open in your default text editor, containing in written form everything you said until you clicked **Stop**.
 
@@ -162,27 +163,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  You can use Whisper in your programs or the command line. And yet, that defeats its very purpose: typing without a keyboard. If you need to type to use it, why use it to avoid typing? Thankfully, you can now use Whisper through a desktop GUI. Even better, it can also transcribe your voice almost in real time. Let's see how you can type with your voice using Whisper Desktop.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-art-sales-7-top-generators-for-turning-images-into-nfts/"><u>[New] Revolutionizing Art Sales - 7 Top Generators for Turning Images Into NFTs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>[Updated] Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-investigating-whether-sns-hdr-offers-superior-ux/"><u>[Updated] Investigating Whether SNS HDR Offers Superior UX</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/blend-your-belief-with-mobile-melodies/"><u>Blend Your Belief with Mobile Melodies</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablet-devices-based-on-central-processing-unit-capabilities/"><u>Comparing Tablet Devices Based on Central Processing Unit Capabilities</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1400-evaluation-the-ultimate-scanner-solution-for-home-office-and-smbs/"><u>Comprehensive Fujitsu ScanSnap iX1400 Evaluation: The Ultimate Scanner Solution for Home Office & SMBs</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-out-windows-11-privacy-invasions/"><u>Cutting Out Windows 11 Privacy Invasions</u></a></li>
-<li><a href="https://win11.techidaily.com/drive-success-in-windows-11-a-users-guide/"><u>Drive Success in Windows 11: A User's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-iphoneandroid-blur-application-guide-for-2024/"><u>Expert iPhone/Android Blur Application Guide for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>In 2024, Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-0x800f0831-a-guide-to-windows-fixes/"><u>Overcoming 0X800F0831: A Guide to Windows Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11s-systemsettings-error/"><u>Resolving Windows 11'S SystemSettings Error</u></a></li>
-<li><a href="https://win11.techidaily.com/shorten-or-lengthen-windows-sleep-timer/"><u>Shorten or Lengthen Windows Sleep Timer</u></a></li>
-<li><a href="https://win11.techidaily.com/the-rotation-roadmap-mastering-windows-images-on-pc/"><u>The Rotation Roadmap: Mastering Windows Images on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/transformative-steps-to-update-windows-11-admin-prefix/"><u>Transformative Steps to Update Windows 11 Admin Prefix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-apples-worldwide-developer-conference-key-takeaways-and-highlights/"><u>What to Expect From Apple's Worldwide Developer Conference : Key Takeaways and Highlights!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-commerce-how-does-it-benefit-microsoft/"><u>Windows 11 Commerce: How Does It Benefit Microsoft?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -190,3 +170,25 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-review-youtube-app-for-iphone-and-android/"><u>[New] 2024 Approved Review YouTube App for iPhone and Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revamping-memories-editing-in-look-back-videos/"><u>[New] In 2024, Revamping Memories Editing in Look Back Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-uniting-social-media-and-television-with-fb-live/"><u>[New] Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ideo-blogging-essentials-choosing-the-best-cameras-and-lenses-for-2024/"><u>[New] Video Blogging Essentials Choosing the Best Cameras and Lenses for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-daily-life-on-facebook-a-step-by-step-guide/"><u>2024 Approved Navigating Daily Life on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-astra-pilot-on-new-horizons-windows-11-guide/"><u>Finding Astra Pilot on New Horizons: Windows 11 Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-correcting-mystery-speaker-configurations-in-windows-11-tips-and-tricks/"><u>Guide to Correcting Mystery Speaker Configurations in Windows 11: Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-the-power-of-burst-mode-for-dynamic-videos/"><u>Harnessing the Power of Burst Mode for Dynamic Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-music-on-windows-by-ironing-out-irqs/"><u>Master Your Music on Windows by Ironing Out IRQs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-tiktok-audio-crafting-it-as-your-perfect-ringtone-for-2024/"><u>Mastering TikTok Audio Crafting It as Your Perfect Ringtone for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-complexities-of-win-registry-alteration-from-cmd/"><u>Navigating the Complexities of Win Registry Alteration From CMD</u></a></li>
+<li><a href="https://win11.techidaily.com/quieting-file-explorer-tab-activity-on-win11/"><u>Quieting File Explorer Tab Activity on Win11</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-20-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Spark 20</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-ssd-speeds-through-windows-plus-fresh-integration/"><u>Skyrocket SSD Speeds Through Windows + Fresh Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-installation-integrating-microsofts-defender-for-edge-security/"><u>Step-By-Step Installation: Integrating Microsoft's Defender for Edge Security</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-preventing-black-display-in-win-gaming/"><u>Tips for Preventing Black Display in Win Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-privacy-avoid-displaying-email-on-logon/"><u>Winning Privacy: Avoid Displaying Email on Logon</u></a></li>
+</ul></div>
+

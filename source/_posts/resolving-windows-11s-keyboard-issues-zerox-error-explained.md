@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11'S Keyboard Issues - Zerox Error Explained
-date: 2024-12-03T19:56:50.693Z
-updated: 2024-12-07T02:04:46.824Z
+date: 2024-12-11T16:04:13.056Z
+updated: 2024-12-13T06:19:12.693Z
 tags:
   - windows10
   - windows11
@@ -35,12 +35,12 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 5. Click**Apply this fix** for any solutions suggested by the Recording Audio troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Speech troubleshooter is available in Windows 11’s Control Panel. This is how you can access that troubleshooter:
 
@@ -54,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 7. Select**Speech** to open it.  
 ![The troubleshooting list in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooter-list-in-control-panel.jpg)
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
 
 ## 2\. Check for Windows 11 Updates
@@ -67,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 4. Click the**Download and install** buttons for any available Windows 11 updates. That includes the Windows 11 22H2 build update if it is available for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**Advanced options** \>**Optional updates** to view other patches.  
@@ -75,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Settings for Your Microphone
@@ -90,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
 
  It’s also recommended to try setting up the mic again from Settings. To do that, select**Speech** on the**Time & language** tab in Settings. Click the**Get started** button for setting up Microphone speech recognition. Then go through the setup instructions.
@@ -105,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  If Driver Booster, or alternative software, shows your microphone’s driver needs updating, you can select to update it from there. Our[guide to updating drivers with Driver Booster 8](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) (now version 10) tells you how to update device drivers with that software.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set Up a New User Account
 
@@ -118,29 +123,26 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
 ![The username and password account fields](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-account-fields.jpg)
 3. Select**Next** to set up the account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the new account’s down arrow in Settings to expand it.
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
 7. Sign out of Windows 11 and log in to the newly created user account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Try using voice typing in your new user account.
 
@@ -160,7 +162,7 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 5. Restart Windows 11 after resetting the network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then you’ll need to reconnect your PC to the internet.
@@ -184,21 +186,17 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>[New] Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-7-best-tiktok-emojis-and-how-to-discover-tiktok-secret-emojis/"><u>[Updated] In 2024, 7 Best TikTok Emojis and How to Discover TikTok Secret Emojis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>2024 Approved Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
-<li><a href="https://win-docs.techidaily.com/6-methoden-zum-transferieren-ihrer-dateien-vom-iphone-auf-einen-computer-mit-und-ohne-verbindungsleitung/"><u>6 Methoden Zum Transferieren Ihrer Dateien Vom iPhone Auf Einen Computer - Mit Und Ohne Verbindungsleitung</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-multilingual-translation-hotkeys-for-language-switching-in-windows/"><u>Efficient Multilingual Translation: Hotkeys for Language Switching in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-the-elite-audiovideo-makers-web/"><u>Guide to the Elite Audio/Video Makers Web</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-firewall-when-its-disabled-on-windows/"><u>How to Enable Firewall when It's Disabled on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-and-repair-internal-errors-during-windows-rdp-session/"><u>How to Prevent and Repair Internal Errors During Windows RDP Session</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-reno-11-pro-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Reno 11 Pro 5G Phone Network-Ready</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-microsoft-powerpoint-prints-with-ease-in-windows/"><u>Navigating the Maze of Microsoft PowerPoint Prints with Ease in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-failed-launch-lunar-client-error-on-windows-os/"><u>Steps to Fix Failed Launch: Lunar Client Error on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-11-mails-default-html-email-formatting-problems/"><u>Tackling Windows 11 Mail's Default HTML Email Formatting Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-squad-microphone-problems/"><u>The Ultimate Guide to Fixing Squad Microphone Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-overcoming-error-in-moderation-on-chatgpt/"><u>Troubleshooting: Overcoming 'Error in Moderation' On ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/upgraded-footage-via-madvr-for-windows-systems/"><u>Upgraded Footage via MadVR for Windows Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>[New] In 2024, Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/additional-us-state-endorses-iphones-digital-identity-feature/"><u>Additional US State Endorses iPhone's Digital Identity Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/coordinated-chaos-how-androidpluswindows-sync-works/"><u>Coordinated Chaos: How Android+Windows Sync Works</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/effortless-snaptweet-videos-from-twitter/"><u>Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-chromes-file-upload-issues-a-windows-fix-guide/"><u>Eradicate Chrome's File Upload Issues: A Windows Fix Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-xr21-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia XR21 Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/old-tech-in-new-waves-mastering-windows-11-installation-on-vintage-pcs/"><u>Old Tech in New Waves: Mastering Windows 11 Installation on Vintage PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-ide-workflow-with-efficient-android-studio-on-pcs/"><u>Skyrocket Your IDE Workflow with Efficient Android Studio on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/smart-collaboration-at-your-fingertips-microsofts-ai-copilot-for-windows-11/"><u>Smart Collaboration at Your Fingertips: Microsoft's AI Copilot for Windows 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-disconnect-your-australian-iphones-icloud-on-desktop-and-smartphone/"><u>Steps to Disconnect Your Australian iPhone's iCloud on Desktop and Smartphone</u></a></li>
 </ul></div>
 

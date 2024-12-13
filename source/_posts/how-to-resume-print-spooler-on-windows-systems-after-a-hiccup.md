@@ -1,7 +1,7 @@
 ---
 title: How to Resume Print Spooler on Windows Systems After a Hiccup
-date: 2024-12-04T08:57:49.842Z
-updated: 2024-12-07T01:10:37.754Z
+date: 2024-12-08T09:22:37.221Z
+updated: 2024-12-13T02:33:11.876Z
 tags:
   - windows10
   - windows11
@@ -48,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 6. Select the printer you want to troubleshoot and click **Next**.
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Print Spooler Service
 
 ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can check and rerun the print spooler service in the Services snap-in to fix the print spooler service is not running error. Here's how to do it:
 
@@ -73,16 +81,12 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 4. Right-click on **Print Spooler** and select **Properties**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the pop-up dialog that opens, click the drop-down for **Startup type** and select **Automatic.**  
 ![print spooler service properties services startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services-startup-type-automatic.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. If it is already set to **Automatic**, then select **Disabled**. Click **Apply** and **OK** to save the changes.
 8. Now open the Print Spooler service properties and set the **Startup type** to **Automatic**.
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 10. Close the Services snap-in and restart your PC. Next, create a print job and check if the error printer spooler service is not running is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Clear the Print Spooler Files
@@ -110,20 +114,16 @@ C:\Windows\System32\spool\PRINTERS
 8. Close File Explorer and go back to the **Services** snap-in.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
 9. Select and right-click on the **Print Spooler** service and select **Start**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check Windows Defender Firewall
@@ -137,9 +137,19 @@ C:\Windows\System32\spool\PRINTERS
 3. Next, click on **Windows Security.**  
 ![Open Windows Security Windows 11 Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Windows-Security-Windows-11-Settings-1.jpg)
 4. Finally, click on **Open Windows Security.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the **Firewall & network protection** tab in the left pane.  
 ![firewall and network protection windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/firewall-and-network-protection-windows-defender.jpg)
 6. Click on your currently active network **(Public / Private).**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Toggle the switch under **Microsoft Defender Firewall** to turn off **Firewall**. Click **Yes** if prompted by **UAC**.  
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
 8. With the Firewall disabled, create a new print job, and see if it completes successfully.
@@ -147,17 +157,9 @@ C:\Windows\System32\spool\PRINTERS
 
  If you use your printer frequently, disabling Windows Defender Firewall is not a feasible solution. You’ll need to investigate the issue further to allow the connection through the Firewall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Printer Driver
 
 ![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Outdated or corrupted [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) can cause your connected device to malfunction. Try updating your printer driver to see if that helps resolve the error. You can update the generic printer driver using the Device Manager. Here’s how to do it.
 
@@ -191,29 +193,6 @@ C:\Windows\System32\spool\PRINTERS
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[New] 2024 Approved Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-basic-hdr-imaging/"><u>[New] 2024 Approved The Ultimate Guide to Basic HDR Imaging</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-win11s-ultimate-selection-of-free-screen-recording-software-1-5/"><u>[New] Win11's Ultimate Selection of Free Screen Recording Software #1-5</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter-for-2024/"><u>[Updated] Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/convertir-archivos-m4a-a-mov-sin-costo-alguno-online-con-moveavi/"><u>Convertir Archivos M4A a MOV Sin Costo Alguno Online Con Moveavi</u></a></li>
-<li><a href="https://win11.techidaily.com/elevated-windows-weather-trackers-selection/"><u>Elevated Windows Weather Trackers Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-secure-access-configuring-windows-hello-fingerprints/"><u>Enable Secure Access: Configuring Windows Hello Fingerprints</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-techniques-for-unpartitioning-your-drives-with-windows/"><u>Expert Techniques for Unpartitioning Your Drives with Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-users-through-bios-thermal-configuration/"><u>Guiding Users Through BIOS Thermal Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-the-read-only-attribute-for-files-on-windows/"><u>How to Change the Read-Only Attribute for Files on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-6-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 6?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-mic-problem-solved-step-by-step-fixes-for-gamers/"><u>HyperX Cloud Alpha S Mic Problem Solved – Step-by-Step Fixes for Gamers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-no-fail-vbox-setup-by-managing-dependencies-first/"><u>Navigate No-Fail VBox Setup by Managing Dependencies First</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis46/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-removing-unopened-shares-in-geforce-experience/"><u>Strategies for Removing Unopened Shares in GeForce Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-installation-package-not-opened-in-win11win10/"><u>Troubleshooting 'Installation Package Not Opened' In Win11/Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/unclogging-windows-11-assistance-mechanism/"><u>Unclogging Windows 11 Assistance Mechanism</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-home-assistant-robot-pricing-launch-timeline-and-features-revealed/"><u>Upcoming Apple Home Assistant Robot - Pricing, Launch Timeline & Features Revealed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -221,3 +200,23 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>[Updated] In 2024, Convert with Precision 10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/40-of-technology-sector-employees-ponder-career-moves-according-to-recent-zdnet-poll/"><u>40% of Technology Sector Employees Ponder Career Moves, According to Recent ZDNet Poll</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-8-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 8 Online</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-rule-sets-with-three-methodologies/"><u>Dissecting Windows Rule Sets with Three Methodologies</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0xca00a009-in-windows-update/"><u>Eliminating Error Code: 0XCA00A009 in Windows Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-review-choosing-the-right-video-converter-for-your-needs-xilisoft-or-movavi/"><u>In Depth Review: Choosing the Right Video Converter for Your Needs – Xilisoft or Movavi?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-ways-streaming-and-recording-real-time-sport-events/"><u>Leading Ways Streaming and Recording Real-Time Sport Events</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-the-art-of-using-telegram-web/"><u>Mastering the Art of Using Telegram Web</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-vscode-closure-issues-in-w11/"><u>Overcoming VSCode Closure Issues in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/real-time-speech-to-text-unlocking-with-whisper/"><u>Real Time Speech to Text: Unlocking with Whisper</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-error-0x80242016-in-windows-update/"><u>Sidestep Error 0X80242016 in Windows Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-4-free-tools-for-youtube-audio-conversion-to-wav-for-2024/"><u>Top 4 Free Tools for YouTube Audio Conversion to WAV for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-the-power-to-repair-widespread-rainmeter-disruptions/"><u>Unleashing the Power to Repair Widespread Rainmeter Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-summation-accuracy-methods-to-rectify-errors-effectively/"><u>WinRAR Summation Accuracy: Methods to Rectify Errors Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027957212-flacmp3/"><u>フォルダ一括でFLACをMP3に、逆も可能な変換方法</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Installation Error: Secure Oculus App on WS11/WC10 Windows"
-date: 2024-09-05T08:30:20.847Z
-updated: 2024-09-06T08:30:20.847Z
+date: 2024-12-06T01:29:58.547Z
+updated: 2024-12-13T02:46:39.789Z
 tags:
   - windows10
   - windows11
@@ -14,27 +14,19 @@ keywords: Oculus App Install Fix,Oculus WS11/WC10 Compatibility,Secure Oculus on
 thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d5b3eda7f842ca1c1e275bb8.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Installation Error: Secure Oculus App on WS11/WC10 Windows
 
  The Oculus Windows app is essential software for Rift users who must connect their virtual reality headsets to PCs. It’s also important for Quest 2 users who want to utilize apps and play games from the Rift storefront within their VR headsets.
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Disconnect Your Quest 2/Rift Headset From Your PC Before Installing Oculus
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
@@ -42,11 +34,23 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the **OculusSetup.exe** file and selecting **Run as administrator**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
 
@@ -56,22 +60,10 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 ## 6\. Install .NET Framework 4.6.1
@@ -82,17 +74,16 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 2. Click the **Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
 
  The setup wizard will say if .NET Framework 4.6.1 or later is installed on your PC. If you don’t need to install that framework, try applying the resolution below or others specified here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Remove Leftovers From a Previous Oculus App Installation
 
  If you’re trying to reinstall the Oculus app after uninstalling it, removing leftover debris from the previous installation might resolve this issue. This means manually deleting Oculus folders left behind from the previous installation. You can erase leftover Oculus folders as follows:
@@ -102,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 3. Right-click any Oculus subfolder in the **Roaming** directory and select **Delete**.  
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
@@ -115,19 +100,11 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +112,20 @@ C:\Users\<User Folder>\AppData`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-cameras-for-puppetry-cinematography/"><u>[New] In 2024, Top Cameras for Puppetry Cinematography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-free-online-video-editors-for-youtube/"><u>[Updated] In 2024, 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/connecting-gamers-insightful-razer-portal-wi-fi-review/"><u>Connecting Gamers: Insightful Razer Portal Wi-Fi Review</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-free-windows-apps-security-first-list/"><u>Essential Free Windows Apps: Security First List</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-spacebar-turning-down-the-volume-on-your-windows-pc-try-these-fixes-to-stop-the-issue/"><u>Is Your Spacebar Turning Down the Volume on Your Windows PC? Try These Fixes to Stop the Issue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/laptop-editing-beyond-inshot-tools-for-2024/"><u>Laptop Editing Beyond Inshot Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apples-windows-picture-import-problems/"><u>Overcoming Apple's Windows Picture Import Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-code-0x800704cf-in-microsofts-shop/"><u>Unraveling Code 0X800704CF in Microsoft's Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-onedrive-server-problems/"><u>Unraveling the Mystery of OneDrive Server Problems</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>Updated Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-techniques-for-embedding-images-into-music-tracks-for-2024/"><u>Updated Techniques for Embedding Images Into Music Tracks for 2024</u></a></li>
+</ul></div>
+

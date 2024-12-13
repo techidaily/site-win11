@@ -1,7 +1,7 @@
 ---
 title: Maximizing Restart Speed with Window's 11 Fast Startup
-date: 2024-11-29T18:10:33.417Z
-updated: 2024-12-06T19:28:33.051Z
+date: 2024-12-08T06:11:37.312Z
+updated: 2024-12-12T21:16:54.211Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Check if Fast Startup Is On or Off
@@ -66,6 +66,11 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 2. Type **powercfg.cpl** and click **OK** to open Power Options in Control Panel.  
 ![choose what the power buttons do control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-what-the-power-buttons-do-control-panel-windows-11.jpg)
 3. In the **Control Panel** dialog, click **Choose what the power buttons do** in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Change settings that are currently unavailable**.  
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
 5. Under **Shutdown settings**, check if **Hibernate** is available. If available, select **Hibernate** and click **Save changes** to show **Hibernate** in the Power menu.
@@ -77,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fast Startup is only available on systems compatible with the Hibernate feature available on almost all modern computers. However, this option is often disabled by default on lower-end systems.
@@ -107,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 8. Click **Save changes** to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using the Registry Editor
@@ -130,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 9. Close the Registry Editor and reboot your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using a Registry File
@@ -154,13 +159,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 7. Next, click **Save**.
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
 ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -176,10 +181,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 5. Select **Enabled** to turn on Fast Startup.
 6. Or Select **Disabled** to turn off Fast Startup.
 7. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Turn Off Fast Startup Using the Command Prompt
 
@@ -201,24 +202,6 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-advanced-techniques-for-youtube-editing-via-finalcut-pro/"><u>[New] 2024 Approved Advanced Techniques for YouTube Editing via FinalCut Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-best-value-budget-friendly-pros-for-high-impact-sports/"><u>[New] Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-frame-by-frame-reviews-high-quality-recorder-guide/"><u>[Updated] In 2024, Frame by Frame Reviews High-Quality Recorder Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-14-design-techniques-for-text-animation/"><u>2024 Approved Advanced 14 Design Techniques for Text Animation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-visualsai-cutting-edge-photo-transformations/"><u>Elite VisualsAI Cutting-Edge Photo Transformations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y02t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y02T is off? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 Phone without Google Account?</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-disabled-outlook-notification-pop-ups/"><u>Repairing Disabled Outlook Notification Pop-Ups</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-brightness-on-windows-volume-extension-tool/"><u>Restore Brightness on Windows Volume Extension Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-step-by-step-to-dark-mode-in-notepad/"><u>The Ultimate Step-by-Step to Dark Mode in Notepad</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-windows-video-conversion-tools/"><u>Top 6 Windows Video Conversion Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/what-sets-windows-terminal-apart-from-powershell/"><u>What Sets Windows Terminal Apart From PowerShell?</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-methods-the-ultimate-guide-to-effective-wsl-2-use/"><u>Winning Methods: The Ultimate Guide to Effective WSL 2 Use</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/wipe-out-facebook-story-desktopmobile-tips/"><u>Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -226,3 +209,24 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-use-zoom-for-win10-pc/"><u>[Updated] 2024 Approved How to Use Zoom for Win10 PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-scrutiny-of-cutmatic-editor-for-2024/"><u>Complete Scrutiny of CutMatic Editor for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unwanted-yellow-discoloration-in-windows-pcs/"><u>Correcting Unwanted Yellow Discoloration in Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-keyboard-utilities-for-enhanced-accessibility-on-windows-pcs/"><u>Essential Keyboard Utilities for Enhanced Accessibility on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/family-shield-repaired-5-fixes-for-non-operational-features/"><u>Family Shield Repaired: 5 Fixes for Non-Operational Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/four-essential-tips-for-downloading-youtubes-srt-for-2024/"><u>Four Essential Tips for Downloading YouTube's SRT for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-network-activity-monitoring-with-netstat-usage/"><u>Mastering Windows 11 Network Activity Monitoring with Netstat Usage</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-content-security-on-fb-utilizing-restricted-access-features/"><u>Maximizing Content Security on FB: Utilizing Restricted Access Features</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-file-names-in-windows-settings-max-156/"><u>Optimizing File Names in Windows Settings (Max 156)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-edgeplus-2023-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Edge+ (2023) and Browser | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-print-to-pdf-error-on-your-windows-10-or-11-pc/"><u>Resolving the Print to PDF Error on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-0x800f0845-from-windows-update/"><u>Unblocking 0X800F0845 From Windows Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-of-the-2e13-creative-sound-blaster-zxr-a-true-competitor-for-gaming-headsets/"><u>Unveiling the Features of the 2E13 Creative Sound Blaster ZXR – A True Competitor for Gaming Headsets?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/video-posting-made-simple-with-correct-aspect-ratio/"><u>Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+<li><a href="https://win11.techidaily.com/w11-start-unspoiled-by-commercial-interruits/"><u>W11 Start - Unspoiled by Commercial Interruits</u></a></li>
+</ul></div>
+

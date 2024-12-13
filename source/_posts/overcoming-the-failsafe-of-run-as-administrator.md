@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Failsafe of 'Run as Administrator'
-date: 2024-12-05T10:16:40.808Z
-updated: 2024-12-07T11:07:46.594Z
+date: 2024-12-08T10:48:37.567Z
+updated: 2024-12-13T08:05:22.854Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Run as Administrator Not Working?
 
  Before you start fixing things, you must understand what causes this issue. In general, you may experience Run as administrator not working due to the following reasons:
@@ -40,21 +36,17 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
  Now that you know the potential causes of this issue, let’s look at ways to fix it. ​​​
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your Computer
 
  If you’re having trouble running applications with administrative privileges, [restarting your computer](https://www.makeuseof.com/windows-restart-methods/) will likely solve the issue. This simple solution flushes out any temporary issues and puts the system in its default state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Account Type
 
  Not all user accounts are equal. To run programs with administrative privileges, you must have an administrator account. So, [head to the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and [check your account type](https://www.makeuseof.com/check-windows-account-admin-rights/). If it’s not labeled as an administrator account, switch to a different one or create a new account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check User Account Control Settings
 
@@ -87,17 +79,17 @@ Computer Configuration > Windows Settings > Security Settings > Local Policies >
 5. Doing this will open another window. Here, select the **Disabled** option and click **Apply** \> **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable User Account Control in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-user-account-control-in-group-policy.jpg)
 6. Close the Local Group Policy Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After restarting, try running a program with elevated privileges. It should work now. Don't forget to re-enable the Admin Approval Mode setting once you're finished troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clean up the Context Menu
 
@@ -116,7 +108,15 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 ![Clean the Context Menu Items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clean-the-context-menu-items.jpg)
 6. Now exit the Registry Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your computer reboots, you will see the Run as administrator option in the context menu. Try running a program with elevated privileges and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Try Some Generic Fixes
 
@@ -134,23 +134,6 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
 
  That’s where this guide comes into play. So, let’s look at what you can do to fix Run as administrator not working on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-nurturing-nature-in-valheim-top-seed-selection-tips/"><u>[New] 2024 Approved Nurturing Nature in Valheim Top Seed Selection Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-apples-powerhouses-the-m1-pro-and-m1-max-analysis/"><u>[New] 2024 Approved Unveiling Apple's Powerhouses The M1 Pro and M1 Max Analysis</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reclaim-social-life-overcoming-a-hack-on-facebook/"><u>[New] In 2024, Reclaim Social Life Overcoming a Hack on Facebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-tv-saving-made-simple-with-free-software-tools-for-2024/"><u>[New] Live TV Saving Made Simple with Free Software Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-overcoming-creative-roadblocks-in-short-form-videos/"><u>[Updated] Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/jpeg2tiff-movavi/"><u>網路直接免費過渡JPEG2成TIFF格式 - Movavi 自動化工具</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-adjusting-text-highlight-on-windows-11/"><u>Guide to Adjusting Text Highlight on Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-xp-error-0x80300024/"><u>Overcoming Windows XP Error 0X80300024</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-preferred-keyboard-settings-in-windows-11/"><u>Reclaiming Preferred Keyboard Settings in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolve-the-missing-d3dx9n34dll-file-issue-quickly-and-easily/"><u>Resolve the 'Missing' d3dx9_n34.dll File Issue Quickly and Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pc-affordable-key-aficionados-edition-of-windows-11-on-black-friday/"><u>Unlock Your PC: Affordable Key Aficionado's Edition of Windows 11 on Black Friday</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-technique-for-effective-photos-app-blur-on-w11/"><u>Unveiling the Technique for Effective Photos App Blur on W11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -158,3 +141,19 @@ Computer\HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-inventory-of-videography-items-for-exploration/"><u>[New] Inventory of Videography Items for Exploration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-4-top-ranked-ways-to-grab-your-chromebook-screen-shot/"><u>[Updated] 2024 Approved 4 Top-Ranked Ways To Grab Your Chromebook Screen Shot</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-disguise-masters-win11s-guide-to-image-hideouts-for-files/"><u>Digital Disguise Masters: Win11's Guide to Image Hideouts for Files</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-windows-11s-startup-with-these-tips/"><u>Harness the Power of Windows 11'S Startup with These Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965546729-mastering-compatibility-refresh-your-logitech-m310-mouse-software-today/"><u>Mastering Compatibility: Refresh Your Logitech M310 Mouse Software Today</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-installation-of-clipchamp-in-windows-11-abyss/"><u>Perfect Installation of ClipChamp in Windows 11 Abyss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-film-apps-showdown-apples-finest-categories-for-2024/"><u>Prime Film Apps Showdown Apple's Finest Categories for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-rpg-sessions-creating-dandd-characters-with-ai-tools/"><u>Revolutionize Your RPG Sessions: Creating D&D Characters with AI Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-overcome-error-0x800700e1-in-windows-11-system/"><u>Tactics to Overcome Error 0X800700E1 in Windows 11 System</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-wintoys-a-must-have-for-windows-users/"><u>Unveiling the Secrets of 'WinToys': A Must-Have for Windows Users</u></a></li>
+</ul></div>
+

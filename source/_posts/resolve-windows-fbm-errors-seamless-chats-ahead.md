@@ -1,7 +1,7 @@
 ---
 title: Resolve Windows FBM Errors, Seamless Chats Ahead
-date: 2024-09-05T08:29:53.724Z
-updated: 2024-09-06T08:29:53.724Z
+date: 2024-12-11T17:11:36.995Z
+updated: 2024-12-13T04:50:26.139Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: WinFBMErrorSolution,SeamlessWindowsChat,FBMErrorFix,ChatErrorResolveWi
 thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolve Windows FBM Errors, Seamless Chats Ahead
 
  Facebook Messenger (officially known as just "Messenger") is an excellent app for instant messaging, sharing images, videos, audio clips, and group chats. Initially, the app was only available for Android and iOS, but now it can be used on Windows as well by downloading it from the Microsoft Store. However, sometimes you may run into issues with the app working on Windows PC.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
  In this case, you can try the solution listed below to fix the Facebook Messenger app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Facebook Messenger Not Working on My Windows PC?
 
  There can be multiple reasons why Facebook Messenger is not working on a Windows PC. But among all, the corrupt cache data is often found to be the primary culprit behind the issue. The problem can also appear due to outdated Windows OS.
@@ -60,6 +52,10 @@ You download the latest Windows update by following the below steps:
 
 Windows will now look for and install all the available updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter is a built-in utility that scans your system and detects any issues preventing them from working correctly. As such, it could fix Facebook Messenger all by itself without you needing to perform any complicated repairs.
@@ -73,11 +69,9 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 ![Running Windows Store Apps Troubleshooter in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Image-16-Running-Windows-Store-Apps-Troubleshooter-in-Windows-11-Settings-App.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A troubleshooter window will open and start detecting problems. The process is not going to take more than a minute.
 
  If any issue is found, the troubleshooter will try to fix it. Alternatively, it might also suggest steps on how you can do it yourself.
@@ -96,21 +90,14 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 3. Disable the toggle next to**Set time zone automatically** .  
 ![Disabling Automatic Set Time Zone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Time-Zone.jpg)
 4. Make sure your**Time zone** is correct and change it if not.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Enable the toggle next to**Set time zone automatically** .
 6. Click the**Sync now** button under the**Additional settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Repair and Reset the Facebook Messenger App
 
  One effective way to fix any UWP app, including Facebook Messenger, is to use the repair feature. You can repair the Messenger by performing the following:
@@ -123,12 +110,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 5. Click on the**Repair** button.  
 ![Repairing Messenger in the Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Repair-Messenger-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, launch the Messenger app and check whether it is working. If not, you will have to reset the application.
 
  Resetting the app will clear the stored data and set them back to default. Below are steps on how to reset the Facebook Messenger App.
@@ -137,11 +118,19 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 2. Click on the three dots next to Messenger and choose Advanced options.
 3. Click the**Reset** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Clear the Microsoft Store Cache
 
  Clearing the Windows Store cache is another effective solution you can try if Facebook Messenger is not working on Windows PC. In fact, removing the Store cache can eliminate many other Windows issues as well. It's very simple to clear the Store cache and will take less than a minute.
 
 [Open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) , type**wsreset.exe** and press Enter. A black Command Prompt window will pop up, indicating that the cache is being cleared. After a few seconds, the window will close, and Microsoft Store will open automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable the Security App
 
@@ -150,6 +139,10 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
  As such, temporarily disable the security app of your computer and then check whether the Facebook Messenger is working. To disable the security app, right-click its icon in the system tray area and choose disable from the context menu. You can also read the user guide of your security program to know much about the disabling process.
 
  If you're using Windows Security, then check our guide and how to[temporarily disable the Windows Security app on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Tweak the Registry Editor
 
@@ -162,21 +155,9 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 4. Right-click on the**Profiles** folder in the left sidebar and choose**Permissions.**  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/permission.jpg)
 5. Click on the**Advanced** button.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Check the **Replace all child object permission entries with inheritable permissions entries from this object** option.  
 ![Replace all child object permission entries with inheritable permissions entries from this object option in the Permission window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/replace-all-child-object-permission-entries-with-inheritable-permissions-entries-from-this-object.jpg)
 7. Click**Apply** \>**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Reset the Windows Update Components
 
@@ -190,12 +171,6 @@ Here's how to use the tool:
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
 
 ## 10\. Reinstall Facebook Messenger
@@ -205,34 +180,24 @@ Here's how to use the tool:
 1. Open the**Start Menu** , type**Messenger,** and choose**Uninstall** from the right pane.  
 ![Uninstall button in the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Uninstall-Messenger.jpg)
 2. Confirm your selection by choosing**Uninstall** from the prompt that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Now, open the Microsoft Store, type Messenger, and press Enter.  
 ![Installing Messenger from Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Install-Messenger.jpg)
 4. Click on**Install** to begin the installation process.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connect With Friends Again on Messenger
 
  Hopefully, the above solutions helped fix Facebook Messenger, and now you are able to use it without any problem. But if the problem persists, connect with the Messenger support team for more advice.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -241,4 +206,26 @@ Here's how to use the tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-modifying-facial-gender-on-snapchatinstagramfacebook-photos/"><u>[Updated] In 2024, Modifying Facial Gender on Snapchat/Instagram/Facebook Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-best-front-row-activities-that-arent-games/"><u>[Updated] In 2024, The Best Front-Row Activities That Aren't Games</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728467496887-windows/"><u>「Windows更新後に残る障害を解消するためのクリーンアップ方法」</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-elevate-earnings-through-effective-facebook-page-practices/"><u>2024 Approved Elevate Earnings Through Effective Facebook Page Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/drag-and-drop-not-working-in-windows-11-try-these-fixes/"><u>Drag and Drop Not Working in Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211107469-9781667463100-forest-bathing/"><u>Forest Bathing | Free Book</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v15-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.5 File | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-steadicams-for-dsrl-filming/"><u>In 2024, Best Steadicams for DSRL Filming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-concept-to-completion-crafting-youtube-shorts-templates-masterfully/"><u>In 2024, From Concept to Completion Crafting YouTube Shorts Templates Masterfully</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-to-acquiring-adobe-reader-through-ms-store/"><u>Instant Guide to Acquiring Adobe Reader Through MS Store</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/limited-time-offer-the-alluring-deal-of-the-season-hp-envy-x360-touchscreen-laptop-at-40-off-for-only-499-shop-smart-with-zdnet/"><u>Limited-Time Offer: The Alluring Deal of the Season – HP Envy X360 Touchscreen Laptop at 40% Off for Only $499 | Shop Smart with ZDNET!</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-restart-speed-with-windows-11-fast-startup/"><u>Maximizing Restart Speed with Window's 11 Fast Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-rectifying-non-operational-tab-keys/"><u>Methods for Rectifying Non-Operational Tab Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-speaker-function-in-non-responsive-os/"><u>Reactivate Speaker Function in Non-Responsive OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-application-start-failed-no-qt-found-situations/"><u>Remedying 'Application Start Failed: No Qt Found' Situations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outubers-playbook-achieving-content-stardom/"><u>The YouTuber's Playbook Achieving Content Stardom</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-ragnarok-winning-against-x-script-issues/"><u>Unlocking Ragnarok: Winning Against X-Script Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-biggest-upgrades-from-february-2023/"><u>Win11's Biggest Upgrades From February 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/workaround-for-windows-systems-with-missing-msvcr120dll/"><u>Workaround for Windows Systems with Missing Msvcr120.dll</u></a></li>
+</ul></div>
 

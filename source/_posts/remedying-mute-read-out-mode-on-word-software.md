@@ -1,7 +1,7 @@
 ---
 title: Remedying Mute Read-Out Mode on Word Software
-date: 2024-09-05T08:29:10.731Z
-updated: 2024-09-06T08:29:10.731Z
+date: 2024-12-10T08:16:14.057Z
+updated: 2024-12-12T21:43:14.462Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix WORD Read-Out Failure,Stop WORD Silence Issue,Remedy WORD Speech E
 thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc7679792239ca349164c0b304f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remedying Mute Read-Out Mode on Word Software
 
  Read Aloud is a great productivity feature, especially when you want to give your eyes a break. You can have Word read the document for you starting from your cursor and even pause or skip forward and backward to re-listen to important parts.
@@ -36,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  Open Word and check if the problem is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable the Read Aloud Feature
 
  You can also have Word read the document for you by pressing **Ctrl + Alt + Space**. If nothing happens when using this keyboard shortcut and Read Aloud seems to be missing from the Ribbon menu, you should enable the feature. Here’s how you can do it:
@@ -59,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check Volume Mixer Settings
 
  There’s a chance you can’t hear Word Read Aloud feature due to incorrect Volume Mixer settings. As you may know, Windows’ Volume Mixer allows you to [set different volume levels for different applications](https://www.makeuseof.com/tag/how-to-change-volume-on-a-per-app-basis-in-windows-10/) or change the output device for each running app.
@@ -67,14 +59,12 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Check Volume Mixer settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-mixer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s nothing wrong with the Volume Mixer settings, move on to the next solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Microsoft 365
 
  If restarting Microsoft Word wasn’t enough to fix the glitch, you should update Microsoft 365\. If you’re running an outdated version or something went wrong during the latest update installation, you’ll encounter all sorts of issues. Including Word’s inability to read the documents for you.
@@ -84,11 +74,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![How to update Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft365-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair the Word Doc
 
  If you notice the Read Aloud issue is limited to an individual document, there’s a chance you’re dealing with a corrupted Word doc. If possible, re-download the document or ask the sender for a different version.
@@ -103,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  Microsoft Word will now search and automatically fix any detected issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair Microsoft 365
 
 [Windows has plenty of built-in repair tools](https://www.makeuseof.com/tag/5-free-tools-fix-problem-windows-10/) to help you when running into a problem. So if Word is still giving you the silent treatment, go through the steps below:
@@ -123,19 +105,15 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![Repair Microsoft 365 in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Read Aloudfeature is still not working, go through the steps again and select **Online Repair**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Launch Word in Safe Mode
 
  Sometimes, add-ins might interfere with Word’s functionality and stop Read Aloud from working. To check if you’re dealing with a problematic add-in, launch Word in Safe Mode. Press **Windows key + R** to launch a Run dialog, type **winword / safe** and press **Enter**. Word will now open without any add-ins.
@@ -150,12 +128,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Word Reading Your Docs Aloud
 
  Hopefully, one or more of the fixes above helped you fix the problem. If you’re facing the same issue, it might be time to reinstall Microsoft 365 or contact Microsoft support and let them know about the problem.
@@ -164,11 +136,33 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  So it’s definitely inconvenient when Word’s Read Aloud feature stops working. If this happened to you, there’s no need to fret. We’ve put together a quick guide that will help you fix the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhance-your-music-library-top-6-free-ios-apps-for-audio-conversion-for-2024/"><u>[New] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-calculating-total-vids-for-high-capacity-hardware-64128gb-for-2024/"><u>[Updated] Calculating Total Vids for High-Capacity Hardware (64/128GB) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-find-hotspots-for-online-video-dialogue/"><u>[Updated] In 2024, Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-technical-insights-for-superior-ppt-recording-quality/"><u>[Updated] In 2024, Technical Insights for Superior PPT Recording Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-instasnap-upload-essentials/"><u>2024 Approved InstaSnap Upload Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-movie-streaming-sites-for-your-little-ones-top-picks/"><u>Discover the Best Movie Streaming Sites for Your Little Ones – Top Picks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-improving-valorants-performance-and-fixing-frames-per-second-issues/"><u>Elevate Gameplay: Improving Valorant's Performance & Fixing Frames Per Second Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-browsing-on-new-systems/"><u>Essential Steps for Browsing on New Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-laptops-for-tech-enthusiasts/"><u>Essential Windows Laptops for Tech Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-gaming-devices-a-windows-approach-to-testing/"><u>Fine-Tuning Gaming Devices: A Windows Approach to Testing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>In 2024, Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>In 2024, Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-handle-unavailable-files-on-windows-oses-150-chars/"><u>Method to Handle 'Unavailable' Files on Windows OSes (150 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-correction-guide-for-windows-error-x800704cf/"><u>Microsoft Store Correction Guide for Windows Error X800704CF</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-muted-sound-despite-settings-to-full-volume/"><u>Remedy Muted Sound Despite Settings to Full Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-resolving-windows-charmap-dysfunction/"><u>Restoring Order: Resolving Windows CharMap Dysfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-wake-up-sequence-windows-11-boot-timer-control/"><u>Speeding Up Wake-Up Sequence: Windows 11 Boot Timer Control</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-error-code-0x80070091-directories-not-empty-issue-on-windows-11/"><u>Unblocking Error Code: 0X80070091 Directories Not Empty Issue on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unboxing-the-lg-27ud88uhd-monitor-experience-for-tech-enthusiasts/"><u>Unboxing the LG 27UD88UHD Monitor Experience for Tech Enthusiasts</u></a></li>
+</ul></div>
+

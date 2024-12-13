@@ -1,7 +1,7 @@
 ---
 title: Reestablishing Control Over Screen Brightness Using Function Keys on Win 11
-date: 2024-12-03T08:44:58.717Z
-updated: 2024-12-06T20:10:51.142Z
+date: 2024-12-08T10:41:47.730Z
+updated: 2024-12-12T22:26:36.167Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,11 @@ thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5
 
  If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make Sure the Function Key Is Enabled
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5
 
  This will open the Hardware and Devices Troubleshooter window. Follow the on-screen instructions and complete the process to detect and fix any problems related to your keyboard and function keys. Once done, you can try using the brightness function key to adjust the screen's brightness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run the Keyboard Troubleshooter
 
  If the issue persists, you can run the Windows Keyboard Troubleshooter. This troubleshooter scans and detects any problems with your keyboard that might be causing the brightness function key not to work. Here's how to run this tool:
@@ -70,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 4. Scroll down to locate the Keyboard and then click**Run** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, try using the brightness function key again to see if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the Keyboard Driver
 
@@ -88,14 +84,10 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
@@ -122,10 +114,14 @@ To update the keyboard driver, follow these steps:
 ![Turn on Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-filter-keys.jpg)
 5. Click**Apply** and then**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now check if your keyboard is working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Scan for Malicious Programs
@@ -137,6 +133,10 @@ Now check if your keyboard is working properly.
  If you are more comfortable with command line tools, then[use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
 
  This should help you fix the issue of your keyboard not functioning properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Switch to a Different Keyboard
 
@@ -163,17 +163,22 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-time-saving-titans-the-8-cutting-edge-schedulers-reviewed/"><u>[New] 2024 Approved Time-Saving Titans The 8 Cutting-Edge Schedulers Reviewed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>[New] Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-cost-effective-techniques-in-text-animations/"><u>2024 Approved Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2024s-proven-methods-to-improve-frame-rates-and-gaming-smoothness-on-roblox/"><u>2024'S Proven Methods to Improve Frame Rates and Gaming Smoothness on Roblox</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-windows-hardware-testing-software/"><u>Excellent Windows Hardware Testing Software</u></a></li>
-<li><a href="https://win11.techidaily.com/hackers-beware-winning-windows-access-prevention-strategies/"><u>Hackers Beware: Winning Windows Access Prevention Strategies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-v30-phone-by-drfone-android/"><u>How to Reset a Locked Realme V30 Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>In 2024, Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y77t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y77t Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-customize-keyboards-in-windows-11/"><u>Step-by-Step Guide to Customize Keyboards in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-guide-to-sign-off-other-windows-11-users/"><u>The Complete Guide to Sign Off Other Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprerante-process-to-remove-wsl-in-win-11-pcs/"><u>The Comprerante Process to Remove WSL in Win 11 PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-in-the-virtual-world-your-step-by-step-meme-guide/"><u>[Updated] Crafting in the Virtual World Your Step-by-Step Meme Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chucklechasm-exciting-places-to-get-comical-calls/"><u>2024 Approved ChuckleChasm Exciting Places to Get Comical Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-your-videos-music-integration-on-win11/"><u>Amplifying Your Videos Music Integration on Win11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/h-your-presentations-include-youtube-videos-in-slate/"><u>Enrich Your Presentations - Include YouTube Videos in Slate</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-fixing-error-4294967295-in-wsl-on-windows/"><u>Essential Guide to Fixing Error 4294967295 in WSL on Windows</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/extract-and-save-youtube-content-as-multiple-file-types-including-mp3-mp4-avi-easy-methods-for-windows-and-macos-users/"><u>Extract and Save YouTube Content as Multiple File Types Including MP3, MP4, AVI: Easy Methods for Windows & macOS Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-stalls-and-hiccups-at-boot-up/"><u>How to Resolve Windows 10 Stalls and Hiccups at Boot Up</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-wow-crashes-focusing-on-fatal-132/"><u>How to Stop WOW Crashes: Focusing on Fatal #132</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-incorrect-configuration-in-windows-duo-apps/"><u>Overcoming 'Incorrect Configuration' In Windows Duo Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-photos-packaging-issue/"><u>Overcoming Windows Photos Packaging Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-the-monochrome-effect-in-window-8/"><u>Reversing the Monochrome Effect in Window 8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sparkling-ai-chat-mastering-chatgpts-10-enhancements/"><u>Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-remedies-for-windows-error-0x800704b3/"><u>Swift Remedies for Windows Error 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/the-watchful-reboot-steps-to-fix-windows-time-service-failures/"><u>The Watchful Reboot: Steps to Fix Windows Time Service Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android/"><u>Top-Rated Mobile Video Editors for iOS & Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lenovo-thinkphones-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lenovo ThinkPhones Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-best-fps-tools-for-your-next-windowed-adventure-on-windows-11/"><u>Unveiling the Best FPS Tools for Your Next Windowed Adventure on Windows 11</u></a></li>
 </ul></div>
 

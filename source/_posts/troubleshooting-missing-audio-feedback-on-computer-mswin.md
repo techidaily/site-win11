@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Missing Audio Feedback on Computer, MSWin
-date: 2024-12-01T16:42:10.614Z
-updated: 2024-12-06T19:08:59.142Z
+date: 2024-12-07T05:43:06.808Z
+updated: 2024-12-12T21:40:21.915Z
 tags:
   - windows10
   - windows11
@@ -40,15 +40,11 @@ To run the troubleshooter:
 4. Click the**Run** button for**Playing Audio** . It will check your audio service status and prompt you to select your audio device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Windows 11 settings troubleshoot other troubleshooters playing audio run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-settings-troubleshoot-other-troubleshooters-playing-audio-run.jpg)
 5. Select your device speaker and click**Next** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**NO** ,**Do not open Audio Enhancements** in the**Turn off Sound Effects and Enhancements** dialog.
 7. Apply any recommended fixes and check for any improvements.
@@ -60,6 +56,10 @@ To run the troubleshooter:
  If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
@@ -78,10 +78,6 @@ To run the troubleshooter:
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
@@ -89,7 +85,7 @@ To run the troubleshooter:
 4. Click**OK** to add network service to the local user group.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
@@ -100,6 +96,10 @@ To run the troubleshooter:
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
 3. In the Command Prompt window, type the following to add "local service" to the Local Group Administrator:  
@@ -108,6 +108,10 @@ To run the troubleshooter:
 `net localgroup Administrators /add networkservice`
 5. If both the commands are executed successfully, type**exit** and press**Enter** to close Command Prompt.
 6. Restart your PC and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Uninstall the Audio Device and Driver
 
@@ -122,15 +126,15 @@ To uninstall an audio device:
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
 
@@ -141,10 +145,6 @@ To uninstall an audio device:
  If the issue persists, change the device installation settings and then reinstall the driver. To change device installation settings:
 
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press the**Win** key, and type**device installation settings.**
 2. Next, click on**Change device installation settings** from the search result.
@@ -172,21 +172,24 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-guide-to-youtube-video-distribution-via-facebook/"><u>[New] 2024 Approved Cutting-Edge Guide to YouTube Video Distribution via Facebook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-kickstarting-a-successful-social-good-campaign-online/"><u>[Updated] 2024 Approved Kickstarting a Successful Social Good Campaign Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-boosting-your-businesss-productivity-with-top-fb-planners/"><u>[Updated] In 2024, Boosting Your Business's Productivity with Top FB Planners</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-revolutionize-your-youtube-presence-with-personalized-thumbnails/"><u>[Updated] Revolutionize Your YouTube Presence with Personalized Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-affiliate-marketing-how-to-make-money-with-it/"><u>[Updated] YouTube Affiliate Marketing How to Make Money with It</u></a></li>
-<li><a href="https://win11.techidaily.com/compelling-arguments-opting-for-new-outlook-on-pcs/"><u>Compelling Arguments: Opting for New Outlook on PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-privacy-and-security-the-importance-of-disconnecting-your-vizio-smart-tv-from-internet-access/"><u>Enhancing Privacy and Security: The Importance of Disconnecting Your Vizio Smart TV From Internet Access</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-overcome-windows-network-adapter-error-31/"><u>Expert Tips to Overcome Windows Network Adapter Error 31</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-drivers-free-download-and-compatibility-with-windows-11/"><u>GTX 1650 Super Graphics Card Drivers: Free Download & Compatibility with Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-torrent-apps-for-a-smooth-windows-experience/"><u>Optimal Torrent Apps for a Smooth Windows Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedy-steps-to-overcome-instantaneous-failure-when-adding-a-folder-to-onedrive/"><u>Quick Remedy Steps to Overcome Instantaneous Failure when Adding a Folder to OneDrive</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-desktop-with-personalized-dynamic-clock-screen-savers-using-these-5-tools/"><u>Transform Your Desktop with Personalized, Dynamic Clock Screen Savers Using These 5 Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-zoom-meetings/"><u>Unlocking the Potential of Zoom Meetings</u></a></li>
-<li><a href="https://win11.techidaily.com/unstick-the-freeze-quick-solutions-to-elevate-windows-setup/"><u>Unstick the Freeze: Quick Solutions to Elevate Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-critical-in-purchasing-a-modern-win-laptop/"><u>What's Critical in Purchasing a Modern Win Laptop?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>[New] 2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-smooth-techniques-painless-ios-screen-recordings-for-2024/"><u>[New] Smooth Techniques Painless iOS Screen Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-apeaksofts-game-changing-recording-technology-review/"><u>[Updated] Apeaksoft's Game-Changing Recording Technology Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026529719-bilibili/"><u>「一挙にBilibili動画を保存する効率的な方法」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-closeness-a-kinemaster-expertise-for-close-up-craft/"><u>Cinematic Closeness A Kinemaster Expertise for Close-Up Craft</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-correcting-error-code-0x80071a90-windows-issue/"><u>Decoding and Correcting Error Code: 0X80071A90 Windows Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-integration-of-ethernet-and-wi-fi-in-a-windows-environment/"><u>Effective Integration of Ethernet & Wi-Fi in a Windows Environment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-file-not-loaded-completely-error-in-excel-2003-stellar-by-stellar-guide/"><u>Fix File Not Loaded Completely Error in Excel 2003 | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-0x800713f-in-the-email-app-of-windows-os/"><u>Fixing Error 0X800713F in the Email App of Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-14-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi 14 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-and-update-guide-for-the-canon-lide-120-image-capture-application/"><u>Install & Update Guide for the Canon LIDE 120 Image Capture Application</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-connection-obstacles-in-win/"><u>Overcoming Steam Connection Obstacles in Win</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-troubleshooting-how-to-fix-the-game-from-not-starting/"><u>Red Dead Redemption 2 Troubleshooting: How to Fix the Game From Not Starting</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-exe-file-opener-function-in-windows-os/"><u>Saving Exe File Opener Function in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-dark-windows-interface-reversing-the-monochrome-theme/"><u>Solving Dark Windows Interface: Reversing the Monochrome Theme</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-enhance-group-policy-effectiveness-in-windows/"><u>Strategies to Enhance Group Policy Effectiveness in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-most-effective-timer-apps-on-windows-a-9-pack-list/"><u>The Most Effective Timer Apps on Windows: A 9-Pack List</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-system32-win11/"><u>The Ultimate Guide to System32 (Win11)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlock-the-power-of-periscope-your-complete-manual/"><u>Unlock the Power of Periscope Your Complete Manual</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Desktop Sketches in Windows 11
-date: 2024-12-01T01:39:30.882Z
-updated: 2024-12-06T23:21:48.797Z
+date: 2024-12-10T04:03:35.391Z
+updated: 2024-12-13T05:09:37.272Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With Epic Pen
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 Now you can get scribbling on the Windows desktop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use Epic Pen to Draw on Your Desktop
@@ -54,13 +58,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
 ![The highlighter in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-highligher-in-epic-pen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
@@ -70,13 +74,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![Start free trial option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-free-trial-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also permanently activate some of the features in Epic Pen Pro without splashing out for the upgrade by opting into its brightdata.com scheme. To do so, click**Menu** \>**Settings** . Select the**Enable the Text tool** or**Enable the Whiteboard tool** option to activate one of those features and share device resources.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Draw on the Windows Desktop With gInk
 
@@ -92,10 +96,6 @@ Now you can get scribbling on the Windows desktop.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
  You can adjust the drawing tool’s widths by selecting**Pen width** . Drag the slider along the bar to increase or decrease the width of your pen.
@@ -110,11 +110,11 @@ Now you can get scribbling on the Windows desktop.
 
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
- You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -135,21 +135,21 @@ Now you can get scribbling on the Windows desktop.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-high-speed-media-manipulation-a-practical-approach/"><u>[New] In 2024, High-Speed Media Manipulation A Practical Approach</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-strategy-for-professional-gopro-filming/"><u>[Updated] In 2024, The Ultimate Strategy for Professional Gopro Filming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-impact-with-smartly-produced-fb-videos/"><u>[Updated] Maximizing Impact with Smartly Produced FB Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-streamlining-sound-speeds-in-spotify-without-compromise/"><u>[Updated] Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/cost-effective-action-cams-unveiled/"><u>Cost-Effective Action Cams Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-meaning-behind-w11s-system-errors/"><u>Decoding the Meaning Behind W11's System Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-m54-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy M54 5G Through Google Earth?</u></a></li>
-<li><a href="https://win11.techidaily.com/locate-where-windows-saves-your-desktop-picture/"><u>Locate Where Windows Saves Your Desktop Picture</u></a></li>
-<li><a href="https://win11.techidaily.com/shadeitenablingnotepaddarkuiwindows/"><u>ShadeIt:EnablingNotepadDarkUIWIndows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-windows-11s-error-0x0000011b/"><u>Strategies for Correcting Windows 11'S Error: 0X0000011B</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-yellow-tinted-windows-monitors/"><u>Strategies for Fixing Yellow Tinted Windows Monitors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-race-for-excellence-av1-vs-vp9-codec/"><u>The Race for Excellence AV1 Vs. VP9 Codec</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-desktops-into-artworks-discover-8-elegant-bubble-ui-methods/"><u>Transforming Desktops Into Artworks - Discover 8 Elegant Bubble UI Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-xp-troubleshooting-error-code-0x80370102-for-wsl-registration/"><u>Windows XP: Troubleshooting Error Code 0X80370102 for WSL Registration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-magix-vpxs-innovative-editing-capabilities/"><u>[New] Exploring Magix VPX's Innovative Editing Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-seal-of-credibility-writing-journalisms-finale/"><u>[Updated] 2024 Approved Seal of Credibility Writing Journalism's Finale</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-plant-pals-playlist-the-best-agrigames-for-friends/"><u>[Updated] In 2024, Plant Pals' Playlist The Best AgriGames for Friends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/abbyy-reports-25-sales-growth-in-2017-key-insights/"><u>ABBYY Reports 25% Sales Growth in 2017: Key Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-experience-with-these-11-must-haves/"><u>Elevate Your Experience with These 11 Must-Haves</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-lost-notifications-from-phone-link-app-on-windows-os/"><u>Enabling Lost Notifications From Phone Link App on Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-computers-bug-with-gray-zone-warfare-crash-fixes-on-pc/"><u>Fixing Your Computer's Bug with Gray Zone Warfare Crash Fixes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-hardware-scheduler-for-graphics-in-winos/"><u>How to Turn Off Hardware Scheduler for Graphics in WINOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-piecing-a-puzzle-of-cinematic-highlights/"><u>In 2024, Piecing a Puzzle of Cinematic Highlights</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-unlocking-wordpad-functionality-on-pcs/"><u>Quickly Unlocking WordPad Functionality on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-hardware-recognition-issues-in-windows-oses/"><u>Repairing Hardware Recognition Issues in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-audio-device-not-recognized-by-windows/"><u>Solutions for Audio Device Not Recognized by Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-for-a-seamless-wsl-2-docker-experience/"><u>Tactics for a Seamless WSL 2 Docker Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-detected-gpu/"><u>Troubleshooting Non-Detected GPU</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-of-device-serial-numbers-on-windows-platforms/"><u>Unlocking Secrets of Device Serial Numbers on Windows Platforms</u></a></li>
 </ul></div>
 

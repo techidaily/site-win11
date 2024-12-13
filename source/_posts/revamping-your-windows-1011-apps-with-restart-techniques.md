@@ -1,7 +1,7 @@
 ---
 title: Revamping Your Windows 10/11 Apps with Restart Techniques
-date: 2024-11-30T11:13:27.301Z
-updated: 2024-12-07T02:44:46.155Z
+date: 2024-12-09T08:50:35.185Z
+updated: 2024-12-13T00:53:54.264Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 ![selecting advanced options for spotify in the installed apps page in the settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/spotify-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll down to the**Reset** section. Here, you can also repair the Windows app to try and fix it without losing any data. If you haven’t tried that already, see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to give it a shot.
@@ -49,14 +49,10 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![reseting an app in the Windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reseting-spotify.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -65,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
@@ -96,17 +96,19 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ssential-tips-for-free-youtube-video-transcriptions-for-2024/"><u>[New] Essential Tips for FREE YouTube Video Transcriptions for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>[Updated] Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-apperror-with-text-on-w11-os-issue/"><u>Correcting AppError with Text on W11 OS Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cutting-edge-insight-on-apple-tv-4k-third-gen-version-assessment/"><u>Cutting-Edge Insight on Apple TV 4K - Third Gen Version Assessment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-problem-of-davinci-resolve-not-starting-on-a-windows-pc/"><u>Fixing the Problem of DaVinci Resolve Not Starting on a Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canon-mf3870-series-printer-installation-software-for-windows-pc/"><u>Free Canon MF3870 Series Printer Installation Software for Windows PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-10t-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 10T 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing or malfunctioning drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-iphone-remote-app-repair-tips-for-smooth-operation/"><u>Mastering the Art of iPhone Remote App Repair - Tips for Smooth Operation</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-not-enough-specs-in-game-capture-process/"><u>Overcoming Not Enough Specs in Game Capture Process</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-beast-fixing-windows-11s-error-0xc1900101/"><u>Taming the Beast: Fixing Windows 11'S Error #0xC1900101</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-woes-restoring-lost-dxgidll-file/"><u>Win11 Woes: Restoring Lost Dxgi.dll File</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps/"><u>[New] Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-selection-top-15-accessories-for-gopro-enthusiasts/"><u>[Updated] Masterful Selection Top 15 Accessories for GoPro Enthusiasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-screen-grabs-compliance-on-youtube/"><u>2024 Approved Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-performance-of-stuck-taskbar/"><u>Enhancing Performance of Stuck Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-excellence-windows-11-weather-apps-top-picks/"><u>Exploring Excellence: Windows 11 Weather Apps Top Picks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-novice-to-pro-becoming-a-boomerang-connoisseur-on-snapchat/"><u>From Novice to Pro Becoming a Boomerang Connoisseur on Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-when-fifa-21-wont-open-solutions-worked/"><u>How to Fix the Problem When FIFA 21 Won't Open - Solutions Worked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-sfc-tool-with-ease/"><u>Launching Windows SFC Tool with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sound-syncing-simplified-for-inshot-edits-for-2024/"><u>Sound Syncing Simplified for InShot Edits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-improved-files-transfer-on-windows-11-2/"><u>Strategies for Improved Files Transfer on Windows 11 (2)</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-windows-keys/"><u>Troubleshooting Non-Functional Windows Keys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-phenomenon-of-meme-cryptocurrncies-a-comprehensive-guide/"><u>Understanding the Phenomenon of Meme Cryptocurrncies: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-onedrive-emblem-from-windows-explorer-interface/"><u>Uninstalling OneDrive Emblem From Windows Explorer Interface</u></a></li>
 </ul></div>
 

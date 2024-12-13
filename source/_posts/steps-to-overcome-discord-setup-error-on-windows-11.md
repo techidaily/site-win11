@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Discord Setup Error on Windows 11
-date: 2024-11-29T16:54:04.273Z
-updated: 2024-12-07T08:41:35.666Z
+date: 2024-12-09T23:43:50.538Z
+updated: 2024-12-13T02:10:26.447Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download the Discord Setup File Again
 
  First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the[Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
@@ -48,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
 5. Select**Next** to go to the first step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Any Background Discord Processes
@@ -75,7 +67,16 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 4. Right-click any Discord process you find and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option.jpg)
 5. Repeat the fourth step for all Discord-related processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Try installing Discord after disabling related background processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete Any Leftover Discord Data Folders
 
@@ -88,15 +89,11 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Discord Setup File as an Administrator
@@ -104,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
 
@@ -118,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
@@ -131,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
@@ -157,21 +158,22 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audiovisual-standards-for-success-on-youtube-top-format-choices-for-2024/"><u>[New] Audiovisual Standards for Success on YouTube – Top Format Choices for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-older-os-to-windows-11-the-evolution-process/"><u>[New] From Older OS to Windows 11 The Evolution Process</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers-for-2024/"><u>[Updated] Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-smartscreen-features-for-secure-browsing/"><u>Customizing SmartScreen Features for Secure Browsing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-lenovo-tab-m10-fhdplus-laptop-tablet-stunning-hd-display-meets-affordability/"><u>Discover the Lenovo Tab M10 FHD+ Laptop Tablet - Stunning HD Display Meets Affordability</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-bt-directories-a-guide/"><u>Eliminating Windows ~BT Directories: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/file-fusion-and-drive-dynamics-win11s-defrag-guidebook/"><u>File Fusion & Drive Dynamics: Win11's Defrag Guidebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-response-guide-booting-into-safe-mode-in-windows-11/"><u>Immediate Response Guide: Booting Into Safe Mode in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fishing-footage-kings-select-the-best-camers/"><u>In 2024, Fishing Footage Kings Select the Best Camers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-printer-removal-in-windows-11/"><u>Mastering Printer Removal in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windowss-mysterious-pink-display-issue/"><u>Mastering WINDOWS's Mysterious Pink Display Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-windows-error-solvers-your-ultimate-fix-guide/"><u>Top 10 Windows Error Solvers: Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-6-clearcut-android-recorder-options-no-ads-for-2024/"><u>Top 6 Clearcut Android Recorder Options (No Ads) for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-spark-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Spark 10 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[New] 2024 Approved Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-harness-the-potential-of-instagram-videos-for-brand-growth/"><u>[New] In 2024, Harness the Potential of Instagram Videos for Brand Growth</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-edits-top-10-youtube-editing-strategies/"><u>[Updated] In 2024, Elevate Your Edits Top 10 YouTube Editing Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-video-content-top-formats-on-youtube/"><u>[Updated] In 2024, Enhancing Video Content Top Formats on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-capture-experience-recording-sound-with-snipping-tools-screen-feature-max-156/"><u>Enhance Your Capture Experience: Recording Sound with Snipping Tool's Screen Feature (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/escalate-your-win11-wi-fi-reach-using-these-9-tricks/"><u>Escalate Your Win11 Wi-Fi Reach Using These 9 Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-free-windows-apps-security-first-list/"><u>Essential Free Windows Apps: Security First List</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-15-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 15 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-spacebar-turning-down-the-volume-on-your-windows-pc-try-these-fixes-to-stop-the-issue/"><u>Is Your Spacebar Turning Down the Volume on Your Windows PC? Try These Fixes to Stop the Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/narrowing-the-net-speed-divide-between-windows-and-android/"><u>Narrowing the Net Speed Divide Between Windows & Android</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apples-windows-picture-import-problems/"><u>Overcoming Apple's Windows Picture Import Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-in-fallout-3-when-running-on-windows-10-systems/"><u>Overcoming Freezing Problems in Fallout 3 When Running on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-microsoft-flight-simulator-2n-update-hangups-once-and-for-all-step-by-step-guide/"><u>Solve Microsoft Flight Simulator 2N Update Hangups Once and for All - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-code-0x800704cf-in-microsofts-shop/"><u>Unraveling Code 0X800704CF in Microsoft's Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-onedrive-server-problems/"><u>Unraveling the Mystery of OneDrive Server Problems</u></a></li>
 </ul></div>
 

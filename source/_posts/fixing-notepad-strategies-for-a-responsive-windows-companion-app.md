@@ -1,7 +1,7 @@
 ---
 title: "Fixing Notepad: Strategies for a Responsive Windows Companion App"
-date: 2024-09-05T08:29:38.886Z
-updated: 2024-09-06T08:29:38.886Z
+date: 2024-12-12T13:41:35.651Z
+updated: 2024-12-12T23:22:10.203Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: Notepad Refix Guide,Responsive Notebook App,Win Companion Fixing,Notif
 thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43fb699583edd3d2db4662000a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Notepad: Strategies for a Responsive Windows Companion App
 
  Notepad is a simple text editor app that comes pre-installed on your Windows computer. You can use it to view, create, and edit text files whenever needed. But what if Windows fails to open Notepad and you can’t use it?
 
  Several factors, ranging from a temporary app glitch to corrupt user account files, can prevent Notepad from opening on Windows. Fortunately, there are some quick fixes you can use to regain access to the Notepad app on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use Alternative Methods to Open Notepad
 
  Before you try any advanced solutions, see if you can open Notepad using the Run tool. Press**Win + R** to open the Run dialog box. Type**notepad** in the Open field and press**Enter** .
@@ -39,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  If that doesn’t work, try opening Notepad through a command-line tool. Open the search menu to launch**Command Prompt** or**PowerShell** . In the console, type**notepad** and then press**Enter** .
 
 ![Open Notepad via Command-Line Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-notepad-via-command-line-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
@@ -55,20 +47,8 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 7. Select**Notepad** and click the**Set default** button.  
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Try opening a few text files and see if they open in Notepad.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair or Reset the Notepad App
 
  The built-in repair tool on Windows is quite efficient when it comes to fixing minor app-related issues. Microsoft recommends using this tool when an app fails to open or does not work as expected on your Windows computer.
@@ -93,11 +73,9 @@ To repair the Notepad app on Windows:
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -108,17 +86,15 @@ To repair the Notepad app on Windows:
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
@@ -140,13 +116,11 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the scan is complete, restart your PC and see if you can access Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Clean Boot
 
@@ -154,12 +128,6 @@ To run the SFC scan on Windows:
 
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Create Another User Account
 
  If some of the files in your user account have become corrupt, you may have difficulty performing simple tasks like opening an app. If that seems to be the case, your best option is to create and switch to a new user account.
@@ -176,18 +144,19 @@ To create a new user account on Windows:
 
  Once you sign in with your newly created account, Notepad should open without problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Start Using Notepad Again
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -196,4 +165,22 @@ To create a new user account on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-acid-pro-analysis-and-related-tools-reviewed/"><u>[New] ACID Pro Analysis and Related Tools Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-efficiently-shortening-youtube-content/"><u>[New] Efficiently Shortening YouTube Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-things-that-you-should-know-about-youtube-keyword-research/"><u>[New] In 2024, Things That You Should Know About YouTube Keyword Research</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-creating-seamless-meeting-transitions-with-slackplusfilmora/"><u>[Updated] 2024 Approved Creating Seamless Meeting Transitions with Slack+Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-data-size-and-space-usage-with-win11s-ntfs-features/"><u>Controlling Data Size & Space Usage with Win11's NTFS Features</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-issues-with-elevated-user-roles-and-privileges/"><u>Correcting Issues with Elevated User Roles and Privileges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-showdown-full-review-and-ratings/"><u>GoPro Showdown Full Review and Ratings</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-resolve-your-iphones-mtp-connectivity-issue-efficiently/"><u>How to Resolve Your iPhone's MTP Connectivity Issue Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-with-widget-driven-hardware-insights/"><u>Maximize Efficiency with Widget-Driven Hardware Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>New In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/retro-meets-modern-with-the-nulaxy-km18-a-leading-review-of-a-timeless-car-transmitter-solution/"><u>Retro Meets Modern with the Nulaxy KM18: A Leading Review of a Timeless Car Transmitter Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-correcting-messages-not-rendering-in-discord/"><u>Steps for Correcting Messages Not Rendering in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-tackle-frozen-power-settings-on-windows-11/"><u>Tricks to Tackle Frozen Power Settings on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431154450-twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
+<li><a href="https://win11.techidaily.com/unmatched-comfort-and-efficiency-leading-windows-laptops/"><u>Unmatched Comfort & Efficiency - Leading Windows Laptops</u></a></li>
+</ul></div>
 

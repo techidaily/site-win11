@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Approach: Augmenting Virtual Memory on Windows 11"
-date: 2024-12-04T02:14:55.697Z
-updated: 2024-12-06T21:29:27.236Z
+date: 2024-12-08T20:28:23.259Z
+updated: 2024-12-13T00:36:16.153Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Virtual Memory?
 
  We've[previously explained virtual memory](https://www.makeuseof.com/tag/virtual-memory-low-heres-fix/) in more detail, but here is an outline to bring you up to speed.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 [When your RAM runs low](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) , your system will call upon the paging file to handle some of the extra data. However, as your hard drive or even solid-state drive is much slower than your RAM, system performance will take a hit.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11 Is Running Low on Virtual Memory
@@ -64,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
  Furthermore, remember that these values take up space on your hard drive, as Windows allocates the overall paging file space in case it needs it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Increase Virtual Memory Size on Windows 11
 
  If you want to go ahead and manually alter the paging file size on Windows 11 to remove the virtual memory low message, here's how you go about it.
 
 ![windows 11 advanced system settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/windows-11-advanced-system-settings-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open the**Settings** app.
 2. Head to**System > About** .
@@ -87,12 +83,16 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 ![windows 11 virtual memory options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-virtual-memory-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Keep in mind the virtual memory management tips in the previous section. It might seem like drastically increasing your paging file is a great idea, but it's almost guaranteed to cause system instability when you least expect it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Install More RAM to Boost Your System Performance
@@ -104,7 +104,7 @@ Close
  You can[attempt to free up more RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) , but ultimately, you're probably going to need a new laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Increasing the Windows 11 Paging File Size Is a Temporary Fix
@@ -126,22 +126,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-7-secure-video-conferencing-systems-for-smbs-for-2024/"><u>[New] Ultimate 7 Secure Video Conferencing Systems for SMBs for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-out-visuals-from-video-to-still-images-in-windows-10/"><u>[Updated] In 2024, Cutting Out Visuals From Video to Still Images in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>[Updated] Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-serenity-in-strings-the-top-20-calming-country-songs-tiktok/"><u>[Updated] Serenity in Strings The Top 20 Calming Country Songs (TikTok)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/compatibility-quelled-windows-and-nvidia-7025nforce-630a/"><u>Compatibility Quelled: Windows & NVIDIA 7025/nForce 630A</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-get-your-dells-sound-system-up-and-running-again/"><u>DIY Fixes: Get Your Dell's Sound System Up and Running Again</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-text-editing-using-snip-tool/"><u>Efficient Text Editing Using Snip Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-wsl-a-complete-removal-manual/"><u>Eliminating WSL: A Complete Removal Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-approach-to-seamless-unification-of-windows-partitions/"><u>Expert Approach to Seamless Unification of Windows Partitions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>In 2024, Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-hardware-inspection-via-windows-panels/"><u>Optimizing Hardware Inspection via Windows Panels</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/proven-methods-for-professional-video-editing-and-dvd-burning-on-mac-for-2024/"><u>Proven Methods for Professional Video Editing and DVD Burning on Mac for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-ps4-freezing-issues-comprehensive-troubleshooting-tips/"><u>Solve Your PS4 Freezing Issues: Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-maintain-static-windows-11-screens/"><u>Strategies to Maintain Static Windows 11 Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-problems-with-failed-java-virtual-machine-in-windows/"><u>Unpacking Problems with Failed Java Virtual Machine in WINDOWS</u></a></li>
-<li><a href="https://win11.techidaily.com/win-again-rethink-your-approach-to-updates/"><u>Win Again: Rethink Your Approach to Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-gameplay-preventing-apex-crashes-in-win11/"><u>Winning Gameplay: Preventing Apex Crashes in Win11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oost-engagement-discover-the-top-5-youtube-promotion-tactics-for-2024/"><u>[New] Boost Engagement Discover the Top 5 YouTube Promotion Tactics for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-immediate-mp3-download-from-facebook-media-posts-for-2024/"><u>[New] Immediate MP3 Download From Facebook Media Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beat-bringers-sourcing-premium-dj-visuals/"><u>[New] In 2024, Beat Bringers Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-stories-enhancing-background-blur-technique/"><u>[New] Insta Stories Enhancing Background Blur Technique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>[Updated] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-evaluating-active-8-does-it-match-best-recording-standards/"><u>[Updated] In 2024, Evaluating Active 8 - Does It Match Best Recording Standards?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-deskjet-2600-printer-drivers-for-windows-operating-systems-7810/"><u>Download the Latest HP Deskjet 2600 Printer Drivers for Windows Operating Systems - 7/8/10</u></a></li>
+<li><a href="https://win11.techidaily.com/exploiting-windows-technology-for-enhanced-macos/"><u>Exploiting Windows Technology for Enhanced macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-ft232r-usbuart-driver-free-fast-and-reliable-download/"><u>Get the Latest FT232R USB/UART Driver - Free, Fast, and Reliable Download</u></a></li>
+<li><a href="https://win11.techidaily.com/go-green-with-pc-updates-ditch-windows/"><u>Go Green with PC Updates: Ditch Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-updated-strategy-and-its-effects-for-2024/"><u>Instagram’s Updated Strategy and Its Effects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-w11s-screensaver-and-crash-dilemmas/"><u>Overcoming W11's Screensaver and Crash Dilemmas</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-up-game-resolving-steam-write-problems/"><u>Stepping Up Game: Resolving Steam Write Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-respond-and-recover-windows-download-issues/"><u>Strategies to Respond and Recover Windows Download Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-grayed-recycle-icon-issue-in-win11/"><u>Tackling Grayed Recycle Icon Issue in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-potential-7-efficient-practices-for-windows-11-users-42/"><u>Unleash Peak Potential: 7 Efficient Practices for Windows 11 Users (42)</u></a></li>
 </ul></div>
 

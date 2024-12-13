@@ -1,7 +1,7 @@
 ---
 title: Optimizing File Names in Windows Settings (Max 156)
-date: 2024-12-05T02:44:30.257Z
-updated: 2024-12-06T18:28:26.822Z
+date: 2024-12-11T03:53:30.830Z
+updated: 2024-12-13T00:41:38.937Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Do Not Use Any Punctuation at the Start of a Filename
 
  You can use a period and other supported characters like parentheses, dash, commas, and underscore at the beginning of a filename. However, just because they are supported does not mean you should use them.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  You should always start your filename with the most important identifiers of the file, such as a date. Remember, when you sort your files by filename, Windows will arrange them in alphabetical/numerical order, so think about how you can take advantage of that when naming files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Do Not Use Specific Punctuation Marks Anywhere in the Filename
@@ -53,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
  You can use spaces anywhere in the filename, but be mindful of the fact that some software does not recognize files with spaces. Instead of spaces, you can use underscores, dashes, and Camel case (e.g., FileName instead of File Name).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Keep Your Filenames Short and Snappy
 
 ![Length of filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/length-of-filenames.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows 10 and 11 support up to 260 characters in a filename, meaning you can stuff many details into a filename. However, you should not aim to reach that 260 characters limit. Ideally, a filename should not be longer than 35 characters.
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
  It is also worth noting that the above-reserved names followed by extensions are also not allowed to be used as filenames. For instance, you can not use NUL.txt as your filename.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Filenames on Windows Are Case-Insensitive
 
  Windows 11 and 10 do not require a correct input of uppercase and lowercase in filenames, which means "Test" and "test" are the same. When you use the same name for a file in the exact location, your PC will notify you that there is already a file with the same name. Your PC will also ask you if you want to rename the file to "Test," followed by a number in the parenthesis.
@@ -96,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
  If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. You Can Use Emojis in Filenames to Spice Things up
 
 ![Emojis in Filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/emojis-in-filenames.jpg)
@@ -104,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Include Dates in Filenames to Make Them Descriptive
 
  You can use dates in filenames on Windows. Some of the most common ways to write dates are in YYYY-MM-DD, YYYYMMDD, YYMMDD, and YYMM formats. However, you can not use YYYY/MM/DD because the forward slash character is not supported in a filename.
@@ -111,14 +119,10 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 ![Filename in DD-MM-YYYY format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/filename-in-dd-mm-yyyy-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can choose any format that suits you the best from the supported ones. But to ensure that you do not struggle with finding the exact filename, you should use the most significant date and time component first. If the year is your most important component, you should use that first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Ensure Your Filenames Include Enough Context
 
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
  For example, if you are looking for a file called**Windows.11** and want your PC to show you the exact file instead of a list of files with "windows" and "11" in them, you can type "name: Windows.11" in the File Explorer search box. This will only show you the exact file you are looking for.
 
  Other than the "name" search syntax, some popular ones include "kind," "size," and "date." If you type "size: 54 KB" in the File Explorer search bar, it will show you a list of files that are precisely 54 KB in size. We've shown[how to fix File Explorer search when it's not working](http://www.makeuseof.com/tag/fix-windows-file-explorer-search/) if you run into any problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Better Filenames on Windows With These Tips
 
@@ -159,20 +159,24 @@ thumbnail: https://thmb.techidaily.com/7b4e6458caaa3e9950165c60cd6d036d2d81733c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>[New] Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamline-your-site-including-youtube-playlists-directly-for-2024/"><u>[New] Streamline Your Site Including YouTube Playlists Directly for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-webcam-recorder-reviews-unlocking-your-video-potential-for-2024/"><u>[Updated] Webcam Recorder Reviews - Unlocking Your Video Potential for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinking-displays-on-windows-7/"><u>Banishing Blinking Displays on Windows 7</u></a></li>
-<li><a href="https://win11.techidaily.com/deleting-default-browser-configuration-in-w11/"><u>Deleting Default Browser Configuration in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-the-most-out-of-windows-10-on-older-pcs/"><u>How to Make the Most Out of Windows 10 on Older PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-app-prevents-system-function-error-on-windows-pcs/"><u>How to Rectify App Prevents System Function Error on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mp3s-on-android-the-best-free-tools-for-2024/"><u>Mastering MP3s on Android - The Best Free Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-0x80370102-in-wsl-setup/"><u>Strategies to Tackle Windows Error 0X80370102 in WSL Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-solutions-for-windows-11-computer-system-oversight/"><u>Swift Solutions for Windows 11 Computer System Oversight</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-beginners-map-of-langchain-llm-land/"><u>The Beginner's Map of LangChain LLM Land</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-of-pictures-notetaking-with-obsidian/"><u>The Power of Pictures: Notetaking with Obsidian</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-the-purpose-of-yourphoneexe-in-windows-os/"><u>Understanding the Purpose of YourPhone.exe in Windows OS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-rid-of-tiktok-watermarks-top-rated-online-removers/"><u>Updated In 2024, Get Rid of TikTok Watermarks Top-Rated Online Removers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] 2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>[New] 2024 Approved Toolwiz Explored Detailed Review for Image Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>[New] The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-memetic-artistry-codes/"><u>[Updated] In 2024, Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-runtime-brokers-functionality-at-runtime/"><u>Deciphering Runtime Broker's Functionality at Runtime</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-sharing-problems-with-geforce-experience-in-windows/"><u>Eradicating Sharing Problems with GeForce Experience in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-nvidia-cp-not-opening-problem/"><u>Fixing Windows 11: Nvidia CP Not Opening Problem</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-enable-the-text-to-speech-function-on-iphone/"><u>How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-google-maps-on-your-windows-pc/"><u>How to Install Google Maps on Your Windows PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-raw-footage-to-broadcast-gold-twitch-recording-techniques/"><u>In 2024, From Raw Footage to Broadcast Gold Twitch Recording Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>In 2024, The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a25-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy A25 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-your-system-the-best-windows-apps-to-drop/"><u>Simplify Your System: The Best Windows Apps to Drop</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-powertoys-to-win11/"><u>Step-by-Step Guide: Adding PowerToys to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-msvcr120-dll-file-correction-on-windows/"><u>Strategies for MSVCR120 Dll File Correction on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mend-windows-11s-camera-app-f429f-error/"><u>Strategies to Mend Windows 11’S Camera APP F429F Error</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-correcting-system-call-errors-on-win1011/"><u>Techniques for Correcting System Call Errors on Win10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-growth-strategy-handbook/"><u>The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-call-journals/"><u>The Ultimate Guide to Windows' Call Journals</u></a></li>
 </ul></div>
 

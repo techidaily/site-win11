@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Controls for Taskbar Time
-date: 2024-09-05T08:28:28.551Z
-updated: 2024-09-06T08:28:28.551Z
+date: 2024-12-07T05:43:41.977Z
+updated: 2024-12-13T05:39:21.849Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  As such, if you want to hide the clock and date from the taskbar, then this is the place where you need to be. We'll share three different ways by which you can configure the taskbar to hide or show the clock and date.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Hide or Show the Clock and Date from the Taskbar by Using Windows System Settings
 
  The System Settings is the central hub of a Windows PC. You can use it to update Windows, manage privacy settings,[customize the taskbar](https://www.makeuseof.com/windows-11-customize-taskbar/) , and more.
@@ -46,20 +34,17 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Scroll down and click the**Turn system icon on or off** option under the**Notification** area.  
 ![Turn system icons on or off option in Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-system-icons-on-or-off.png)
 5. In the new window that crops up, disable the toggle next to**Clock.**  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Disable the Clock in System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-clock.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's it. You've disabled the clock and date from the taskbar.
 
  To enable them again, head towards the above settings again and enable the toggle.
@@ -80,11 +65,9 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 6. In the policy edit window, choose the**Enabled** option.  
 ![Disabling Clock and Date using the local group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disabling-clock-and-date.jpg)
 7. Click**Apply** \>**OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next,[restart your computer](https://www.makeuseof.com/windows-restart-methods/) for changes to take effect.
@@ -92,11 +75,9 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  If you want to add the clock and date again to the taskbar, open the edit window of the Remove Clock from the system notification area policy, choose the Disabled option and save the settings.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Hide or Show the Clock and Date from the Taskbar Using the Registry Editor
 
  The[Registry Editor](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is an extensive database of your Windows operating system configuration settings. You can use it to navigate the registry and edit its keys.
@@ -110,12 +91,11 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 4. Name the key**Explorer** and press Enter.  
 ![Creating new key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/creating-new-key.jpg)
 5. In the Explorer key, right-click on the blank space, and choose**New** \>**DWORD (32-bit Value)** .
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Name the value**HideClock** and press Enter.
 7. Right-click on the HideClock value, type**1** in the**Value data** section, and click**OK.**  
 ![Modifying HideClock Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/modifying-hideclock-value.jpg)
@@ -128,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  The system tray clock helps you to keep track of the date and time. But if it has become a distraction or you want to keep the taskbar clean, you can use either of the above methods to configure the taskbar to hide the clock and date.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +121,19 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-android-video-calls-effortlessly/"><u>[New] 2024 Approved Navigating Android Video Calls Effortlessly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-the-power-of-youtubes-seo-keywords/"><u>[New] Harnessing the Power of YouTube's SEO Keywords</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-8-ios-pencil-programs-perfected-for-ipados/"><u>[Updated] 2024 Approved Top 8 iOS Pencil Programs Perfected for iPadOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cultivating-a-commercial-community-earnings-through-fb-engagement/"><u>2024 Approved Cultivating a Commercial Community Earnings Through FB Engagement</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>2024 Approved Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-lost-notifications-from-phone-link-app-on-windows-os/"><u>Enabling Lost Notifications From Phone Link App on Windows OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deals-top-nvidia-gaming-laptops-discounted-during-amazon-prime-day-2024-insider-guide/"><u>Exclusive Deals: Top Nvidia Gaming Laptops Discounted During Amazon Prime Day 2024 Insider Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-hardware-scheduler-for-graphics-in-winos/"><u>How to Turn Off Hardware Scheduler for Graphics in WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-unlocking-wordpad-functionality-on-pcs/"><u>Quickly Unlocking WordPad Functionality on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-hardware-recognition-issues-in-windows-oses/"><u>Repairing Hardware Recognition Issues in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-audio-device-not-recognized-by-windows/"><u>Solutions for Audio Device Not Recognized by Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-apps-de-sharing-desktop-mais-eficientes-guia-do-melavi/"><u>Top 12 Apps De Sharing Desktop Mais Eficientes: Guia Do Melavi</u></a></li>
+</ul></div>
 

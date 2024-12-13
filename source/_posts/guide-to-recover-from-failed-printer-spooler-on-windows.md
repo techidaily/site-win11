@@ -1,7 +1,7 @@
 ---
 title: Guide to Recover From Failed Printer Spooler on Windows
-date: 2024-11-30T07:02:48.087Z
-updated: 2024-12-07T03:21:50.505Z
+date: 2024-12-12T01:38:03.535Z
+updated: 2024-12-12T16:32:14.275Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How "The Print Spooler Service Is Not Running” Error Message Appears
 
  Here are the different types of print spooler errors you can encounter:
@@ -47,23 +43,20 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 3. In the right pane, scroll down and click on **Troubleshoot**.  
 ![windows 11 troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-troubleshoot.jpg)
 4. Next, click on **Other troubleshooters.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click the **Run** button for the **Printer** option. The troubleshooter will scan the system and try to detect any issues.  
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
 6. Select the printer you want to troubleshoot and click **Next**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
 ## 2\. Restart Print Spooler Service
 
 ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can check and rerun the print spooler service in the Services snap-in to fix the print spooler service is not running error. Here's how to do it:
 
@@ -74,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 5. Give a new print job and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set the Print Spooler Service Startup Type to Automatic
@@ -88,6 +81,11 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 3. Here, locate the **Print Spooler** service.  
 ![print spooler service properties services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services.jpg)
 4. Right-click on **Print Spooler** and select **Properties**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the pop-up dialog that opens, click the drop-down for **Startup type** and select **Automatic.**  
 ![print spooler service properties services startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-properties-services-startup-type-automatic.jpg)
 6. Click **Apply** and **OK** to save the changes.
@@ -111,18 +109,15 @@ C:\Windows\System32\spool\PRINTERS
 7. Here, clear all the files inside the Printers folder. Click **Yes** if prompted by **User Account Control (UAC).** Do Not Delete the **PRINTERS** folder, but only the files inside the folder.  
 ![delete printer spooler service files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/delete-printer-spooler-service-files.jpg)
 8. Close File Explorer and go back to the **Services** snap-in.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![print spooler service start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-start.jpg)
 9. Select and right-click on the **Print Spooler** service and select **Start**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check Windows Defender Firewall
 
@@ -146,7 +141,7 @@ C:\Windows\System32\spool\PRINTERS
  If you use your printer frequently, disabling Windows Defender Firewall is not a feasible solution. You’ll need to investigate the issue further to allow the connection through the Firewall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Your Printer Driver
@@ -173,14 +168,23 @@ C:\Windows\System32\spool\PRINTERS
 2. In the left pane, click on **Bluetooth & devices.**  
 ![bluetooth and devices printers scanners](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/bluetooth-and-devices-prnters-scanners.jpg)
 3. Next, click on **Printers & scanners.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now locate and click on your printer.  
 ![uninstall printer settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-settings.jpg)
 5. Click the **Remove** button in the top right corner and click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "Print Spooler Service Is Not Running" Error
@@ -189,24 +193,6 @@ C:\Windows\System32\spool\PRINTERS
 
  It is a common error associated with print jobs. However, the reasons for the error can vary. You may encounter this error when setting up a new printer, after installing an update, or upgrading your router. In any case, here are a few troubleshooting steps to help you resolve this error in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-a-deep-dive-into-inshots-editing-proficiency/"><u>[New] In 2024, A Deep Dive Into InShot's Editing Proficiency</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-acquire-high-quality-sounds-for-media-creators/"><u>[New] In 2024, Acquire High-Quality Sounds for Media Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-discovering-the-essence-of-excellent-screen-capture-with-recmeister/"><u>[Updated] Discovering the Essence of Excellent Screen Capture with Recmeister</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-gain-massive-viewership-with-a-small-financial-investment/"><u>[Updated] Gain Massive Viewership with a Small Financial Investment</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>[Updated] In 2024, Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-notepad-in-w11-with-digital-oracle/"><u>Enhance Notepad in W11 with Digital Oracle</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-efficiently-erasing-image-borderlines/"><u>Expert Guide: Efficiently Erasing Image Borderlines</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-quantum-hdr-essentials/"><u>In 2024, Unveiling Quantum HDR Essentials</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmasking-your-worldwide-address-through-cmd-windows/"><u>Unmasking Your Worldwide Address Through CMD, Windows</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-f5-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco F5 Pro 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-quick-solutions-for-failed-item-drops/"><u>Win11: Quick Solutions for Failed Item Drops</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-compatible-hardware-test-suites/"><u>Windows-Compatible Hardware Test Suites</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-against-fakeware-in-windows-marketplace/"><u>Winning Against Fakeware in Windows Marketplace</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -214,3 +200,20 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-beyond-basics-why-hdr-dominates-in-video-editing-workflows/"><u>[Updated] Beyond Basics Why HDR Dominates in Video Editing Workflows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-engage-and-enthrall-viewers-gaming-via-obs-studio/"><u>[Updated] Engage and Enthrall Viewers Gaming via OBS Studio</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728467747963-1-windows-11/"><u>1. Windows 11 最新更新でファイル履歴機能改善:全てのファイルに自動バックアップ完了</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vating-viewers-youtubers-guide-to-dynamic-game-sessions/"><u>Captivating Viewers YouTubers’ Guide to Dynamic Game Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/double-down-on-efficiency-speeding-up-mouse-closings/"><u>Double Down on Efficiency: Speeding Up Mouse Closings</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-ifa-2023-the-ultimate-laptop-guide/"><u>Exclusive IFA 2023: The Ultimate Laptop Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-n3-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find N3 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-nvidias-geforce-rtx-3080-ti-drivers-compatible-with-win-11win-8win-7/"><u>Latest Version of NVIDIA's GeForce RTX 3080 Ti Drivers - Compatible with Win 11/Win 8/Win 7</u></a></li>
+<li><a href="https://win11.techidaily.com/leap-into-efficiency-crafting-quick-access-points-in-windows-11/"><u>Leap Into Efficiency: Crafting Quick-Access Points in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-lockouts-windows-11-pin-recovery-steps/"><u>No More Lockouts: Windows 11 PIN Recovery Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-ez-grabbers-potential-with-this-user-friendly-tutorial/"><u>Unlocking EZ Grabber's Potential with This User-Friendly Tutorial</u></a></li>
+</ul></div>
+

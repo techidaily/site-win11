@@ -1,7 +1,7 @@
 ---
 title: Nearby Share Guide for Dual OS Connectivity
-date: 2024-09-05T08:30:01.357Z
-updated: 2024-09-06T08:30:01.357Z
+date: 2024-12-11T21:44:25.015Z
+updated: 2024-12-12T17:18:23.439Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Dual OS Sharing,Device Linking,Nearby Connect,Pair Devices,OS-to-OS Sh
 thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64226c4e5f87f88fc35435d44.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nearby Share Guide for Dual OS Connectivity
 
  Previously, you could only use Google's Nearby Share feature to share files between Android devices and Chromebooks. However, this has changed with Google's release of Nearby Share Beta for Windows. With it, you can seamlessly exchange photos, videos, documents, and more between Android phones and Windows PCs.
@@ -46,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 * Both devices should be connected to the same Wi-Fi network and within**16 feet (5 meters)** of each other.
 * Google’s Nearby Share app for Windows is available in most parts of the world except for a few European countries. You can check if your country is supported via[Google Support](https://support.google.com/product-documentation/answer/13470053) , under "availability."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Download and Set Up Google’s Nearby Share App on Windows
 
  To exchange files between your Android phone and Windows PC, you’ll first need to install and set up Google’s Nearby Share app on your computer. Here’s how you can go about it.
@@ -66,11 +48,9 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 ![Set Up Google's Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-up-google-s-nearby-share-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Nearby Share to Send Files From Android to Windows
 
  After you have set up the Nearby Share app on your PC, you can start receiving files from your Android phone.
@@ -84,21 +64,17 @@ To send files from Android to Windows via Nearby Share:
 
 ![Share From Gallery App on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-from-gallery-app-on-android.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Share Files via Nearby Share Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-files-via-nearby-share-android.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Transfer Files Using Nearby Share Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/transfer-files-using-nearby-share-android.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -106,28 +82,18 @@ Close
 
 ![Receive Files From Android on Windows With Nearby Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/receive-files-from-android-on-windows-with-nearby-share.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, the Nearby Share app will save any files you receive in the**Downloads** folder. To change the default location for saving received files, click the**gear icon** in the Nearby Share app on your PC. Then, click the**Change** button next to**Save received files to** and pick a different location.
 
 ![Change Default Download Location for Google Nearby Share App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-default-download-location-for-google-nearby-share-app-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to Use Nearby Share to Send Files From Windows to Android
 
  With Nearby Share,[transferring files from your Windows PC to an Android device](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) isn’t too difficult either. Here are the steps you can follow.
@@ -141,26 +107,17 @@ Close
 
 ![Send Files From Windows to Android With Nearby Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-files-from-windows-to-android-with-nearby-share.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sharing Made Simple With Nearby Share on Android
 
  Sharing files between Android and Windows used to be a cumbersome process with no straightforward way to do it. Thankfully, all of that has changed with Google’s Nearby Share app for Windows.
 
  If you are looking for more functionality, however, you can use Microsoft’s Phone Link app to access your phone’s contacts, messages, call logs, photos, and more on your Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,4 +126,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transforming-teams-visuals-for-flawless-video-meetings/"><u>[Updated] In 2024, Transforming Teams' Visuals for Flawless Video Meetings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unwrapping-ustreams-offerings-and-competitors/"><u>[Updated] In 2024, Unwrapping Ustream's Offerings and Competitors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-strikes-youtube-edition/"><u>Avoiding Strikes YouTube Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/creating-personalized-notification-tones-in-gmail-step-by-step/"><u>Creating Personalized Notification Tones in Gmail – Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-dodging-8-common-windows-11-faux-pas/"><u>Guide to Dodging 8 Common Windows 11 Faux Pas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>In 2024, Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-gpus-stress-test-with-these-top-windows-apps/"><u>Master Your GPU's Stress Test with These Top Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-domain-services-printer-fixes-in-windows-11/"><u>Mastering Domain Services Printer Fixes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-power-mode-locks-in-windows-11/"><u>Overcoming Power Mode Locks in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rewind-time-top-7-windows-apps-for-date-adjustments-on-files/"><u>Rewind Time: Top 7 Windows Apps for Date Adjustments on Files</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-microphone-troubles-when-chatting-in-valorant-games/"><u>Solving Microphone Troubles When Chatting in Valorant Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-vs-touchscreen-choosing-the-right-gear-for-racers/"><u>Steering Vs. Touchscreen: Choosing the Right Gear for Racers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-tier-tools-transforming-remote-discussions-for-2024/"><u>Top-Tier Tools Transforming Remote Discussions for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/troubleshooting-faulty-audio-outputs-uncover-common-issues-with-your-sound-card-explained-by-yl-software/"><u>Troubleshooting Faulty Audio Outputs: Uncover Common Issues with Your Sound Card, Explained by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-audio-setup-made-easy/"><u>Windows 11 Audio Setup Made Easy</u></a></li>
+</ul></div>
 

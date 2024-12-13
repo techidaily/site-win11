@@ -1,7 +1,7 @@
 ---
 title: Homemade Hardware Duplication Strategies
-date: 2024-12-01T02:00:47.940Z
-updated: 2024-12-06T18:28:55.037Z
+date: 2024-12-11T19:26:06.220Z
+updated: 2024-12-12T23:01:52.090Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Cloning Your Hard Drive: What This Means
 
@@ -57,33 +53,37 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 3. On the sidebar, click**Create a System Image.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot Showing How to Create a System Image on Windows 11Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-create-a-system-image-on-windows-11control-panel.jpg)
 4. You'll see three options:**On a Hard Disk, On One or More DVDs,** and**On a Network Selection.** Click**On a Hard Disk** and select one from the drop-down menu,[having connected your drive to your PC](https://www.makeuseof.com/tag/connect-get-data-off-hard-drive/) .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot Showing System Image Backup Options in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-system-image-backup-options-in-the-control-panel.jpeg)
 5. Click**Start Backup.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot Showing How to Start System Image Backup to Drive in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-start-system-image-backup-to-drive-in-the-control-panel.jpg)
 6. Wait for the process to be completed, after which the Image backup file will be saved on your drive, which can be restored later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot Showing the System Image Backup Process on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-system-image-backup-process-on-the-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With this, you'll have an image of your current drive saved to your other drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloning Is Your Best Bet for Keeping Your Hard Drive Secure
 
@@ -106,16 +106,15 @@ thumbnail: https://thmb.techidaily.com/5396014f071443efd9e1f13ed6c2f299f41c76737
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-bridging-the-gap-converting-snapchats-flash-into-files/"><u>[Updated] Bridging the Gap Converting Snapchat's Flash Into Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cambiar-archivo-mp3-a-formato-mov-en-internet-de-manera-gratuita-movavi-solucion-simple/"><u>Cambiar Archivo MP3 a Formato Mov en Internet De Manera Gratuita - Movavi Solución Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essentials-for-your-next-smart-tv-purchase-understanding-the-top-7-considerations/"><u>Essentials for Your Next Smart TV Purchase: Understanding the Top 7 Considerations</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-google-chromes-sudden-shutdown-issue-on-pc/"><u>Fixing Google Chrome’s Sudden Shutdown Issue on PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/journey-through-hybrid-horizons-understanding-mixed-reality-for-2024/"><u>Journey Through Hybrid Horizons Understanding Mixed Reality for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-cyberpunk-2077-for-your-gpu-on-windows-11-troubleshooting-guide/"><u>Optimize Cyberpunk 2077 for Your GPU on Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-to-resolve-gpsvc-latency-issue/"><u>Quick Tips to Resolve GPSVC Latency Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/registry-edits-for-controlling-installation-processes/"><u>Registry Edits for Controlling Installation Processes</u></a></li>
-<li><a href="https://win11.techidaily.com/running-driver-verifier-via-control-panel/"><u>Running Driver Verifier via Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-efficient-system-use-despite-high-usage-by-unrealcefsubprocess/"><u>Strategies for Efficient System Use Despite High Usage by UnrealCEFSubprocess</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tale-of-two-ais-notion-ai-vs-chatgpt-which-prevails/"><u>Tale of Two AIs: Notion AI Vs. ChatGPT - Which Prevails?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-reverse-reality-expert-tips-for-turning-images-upside-down-on-insta/"><u>[New] 2024 Approved Reverse Reality Expert Tips for Turning Images Upside Down on Insta</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nleashing-creative-potential-making-youtube-trailers-in-filmora/"><u>[New] Unleashing Creative Potential Making YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-fix-implemented-making-sure-speakers-are-primary-output-with-headphones-connected/"><u>Audio Fix Implemented: Making Sure Speakers Are Primary Output with Headphones Connected</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-youtubes-regular-income-mechanism-for-2024/"><u>Exploring YouTube's Regular Income Mechanism for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vmm-selection-to-maximize-windows-11-capabilities/"><u>Ideal VMM Selection to Maximize Windows 11 Capabilities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-navigating-the-financial-aspects-of-youtube-success/"><u>In 2024, Navigating the Financial Aspects of YouTube Success</u></a></li>
+<li><a href="https://win11.techidaily.com/rehabilitate-your-systems-windows-control-center/"><u>Rehabilitate Your System's Windows Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-past-integrating-awards-in-vintage-titles-through-retroarch/"><u>Reviving the Past: Integrating Awards in Vintage Titles Through Retroarch</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-maximize-full-screen-window-space-in-windows/"><u>Tips to Maximize Full-Screen Window Space in Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-to-wav-file-4-best-free-convert-solutions-for-2024/"><u>YouTube to WAV File 4 Best Free Convert Solutions for 2024</u></a></li>
 </ul></div>
 

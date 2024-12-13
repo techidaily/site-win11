@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Security Posture: Adding Passwords to Text Files"
-date: 2024-09-05T08:29:29.906Z
-updated: 2024-09-06T08:29:29.906Z
+date: 2024-12-10T01:59:25.257Z
+updated: 2024-12-13T08:00:15.418Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Passwords to Text Files With LockNote
 
  Steganos LockNote is a portable app that lets you create password-protected basic text files. You can also use it to apply passwords to existing text files, making it easier to protect your information.
@@ -34,29 +38,25 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 4. Unzip the locknote-1.0.5-src+binary-win32.zip archive. You can check out [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) if you're unsure how to do this.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extract-compressed-folder.jpg)
 5. Open the extracted LockNote folder.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Double-click the LockNote application (executable) file to start the app.
 2. Now you'll see the welcoming message shown below within LockNote. Erase that message and input the text or notes you want to save.  
 ![The LockNote window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-window.jpg)
 3. Go to **File > Save As.**
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the Save As window, navigate to the folder where you want to save your file.  
 ![LockNote's Save as window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/locknote-save-as-window.jpg)
 5. Input a title in the **File name** box, then click **Save**.
 6. A password box will pop up. Enter matching passwords for the file in the two text boxes.  
 ![The set password boxes in LockNote](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box.jpg)
 7. Click **OK** to save the file with the set password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To open your password-protected text file, browse to the folder where you saved it and double-click the file. When you launch your file, a password box will appear; input the password you set and click **OK** to open it.
 
@@ -81,31 +81,18 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 5. First, input a password you want to add to the text file.  
 ![The Secure Edit window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/secure-edit-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Input some content within the text editor.
 2. Click Secure Edit's **File** menu.  
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
 3. Select the **Save as** option.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Select somewhere to save your file.
 7. Click **Save**.
 
@@ -123,6 +110,14 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
  PeaZip is a freeware archive utility with which you can [set up password-protected archives](https://www.makeuseof.com/windows-password-protect-zip-file/). You can apply a password to multiple Notepad text files by adding them to a password-protected archive with PeaZip.
@@ -139,18 +134,6 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 2. Press the PeaZip setup window's **Install** button.  
 ![The Install option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-option.jpg)
 3. Click **Finish** to exit the PeaZip setup window.
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Double-click the PeaZip desktop shortcut.
 5. Select a folder that includes some text documents within PeaZip's navigation sidebar.
 
@@ -158,30 +141,17 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
 
@@ -191,12 +161,6 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Secure Your Text Files in Windows 11/10
 
  If you share a Windows PC with other users, you should set passwords for text files containing private notes and confidential details. Even if you don't, securing your personal notes is a good idea by applying a password. So, check out LockNote, Secure Edit, or PeaZip to protect your most confidential text files in Windows.
@@ -207,11 +171,26 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-contrast-in-colors-crafting-cinematic-moods/"><u>[New] Contrast in Colors Crafting Cinematic Moods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>[New] In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-comparative-review-sns-hdr-pro-and-other-editors-for-2024/"><u>[Updated] A Comparative Review SNS HDR Pro and Other Editors for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-decode-youtube-shorts-a-complete-breakdown/"><u>[Updated] Decode YouTube Shorts A Complete Breakdown</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-art-of-facebook-video-coverage-standout-tips-and-tricks/"><u>[Updated] In 2024, The Art of Facebook Video Coverage Standout Tips & Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-perfecting-time-sync-in-video-postings-on-youtube/"><u>2024 Approved Perfecting Time Sync in Video Postings on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-snapshot-dilemmrancies/"><u>Deciphering Windows Snapshot Dilemmrancies</u></a></li>
+<li><a href="https://win11.techidaily.com/homemade-hardware-duplication-strategies/"><u>Homemade Hardware Duplication Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-recovery-steps-for-windows-11s-safe-mode-access/"><u>Rapid Recovery Steps for Windows 11'S Safe Mode Access</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-wi-fi-mice-in-windows-systems/"><u>Troubleshooting: Non-Responsive Wi-Fi Mice in Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/viral-vibrancy-trending-audio-amplifying-your-yt-shorts-for-2024/"><u>Viral Vibrancy Trending Audio Amplifying Your YT Shorts for 2024</u></a></li>
+</ul></div>
+

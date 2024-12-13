@@ -1,7 +1,7 @@
 ---
 title: "Win11 Storage Cleanup: Removing Microsoft App"
-date: 2024-12-06T10:54:38.322Z
-updated: 2024-12-06T22:20:46.827Z
+date: 2024-12-06T19:00:58.494Z
+updated: 2024-12-12T19:00:22.604Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/1b6976dc536a482a8440b6155a5c6ffdb602672c2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Should You Uninstall the Microsoft Store App?
 
  Microsoft Store houses all the useful and popular applications for Windows devices. Moreover, it guarantees safe and malware-free application downloads. But if the app fails to start or doesn’t work properly, removing it makes sense.
 
  But don’t worry. You can remove the app and then reinstall it if you want. Reinstallation can fix persistent issues with the current version of the Microsoft Store app. It will remove the current app installation and all its related files and corrupt data. After that, you can reinstall the Microsoft app with a single command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Uninstall Microsoft Store App From Windows 11
 
  You can remove the Microsoft Store app from Windows 11 using the winget tool and run it using the command prompt. In addition, you can use the PowerShell cmdlet to remove the Microsoft Store application package from your system or use a batch file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Using Winget
 
@@ -53,7 +57,11 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
@@ -61,7 +69,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
@@ -75,17 +83,9 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 ![Uninstall Microsoft Store App using batch file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-microsoft-store-app-using-batch-file.jpg)
 4. Click on the**Save** button. Close the Notepad window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
 6. A command prompt window will open, run the Microsoft Store app uninstallation command, and close automatically. You don’t need to interact with the window.
 7. Open the Start menu and search for Microsoft Store. You won’t find any matching app on your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easily Remove the Microsoft Store From Windows
 
@@ -106,22 +106,24 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-expert-8-download-for-fb-movies-for-2024/"><u>[Updated] Expert 8 Download for FB Movies for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming/"><u>[Updated] In 2024, Leading List The Best 10 Apps for Live Racing & Rugby Streaming</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-syncopation-spotlight-hits-that-have-hit-the-high-note-on-tiktok/"><u>[Updated] Syncopation Spotlight Hits That Have Hit the High Note on TikTok</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-budget-gaming-accessories-keyboards-and-mice-under-99-for-2024/"><u>Best Budget Gaming Accessories Keyboards & Mice Under $99 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/embrace-the-future-facebook-video-autoplay-for-2024/"><u>Embrace the Future Facebook Video Autoplay for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-game-performance-update-graphics-card-driver-for-forza-horizon-5/"><u>Enhance Game Performance: Update Graphics Card Driver for Forza Horizon 5</u></a></li>
-<li><a href="https://win11.techidaily.com/forceful-deletion-of-windows-11-printers-explained/"><u>Forceful Deletion of Windows 11 Printers Explained</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-laptop-drivers-installed-on-windows-quickly-and-safely/"><u>Get the Newest HP Laptop Drivers Installed on Windows Quickly & Safely</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-the-0x80072af9-error-on-pc/"><u>How to Eradicate the 0X80072AF9 Error on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-oppo-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Oppo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-use-a-whiteboard-in-google-meet-for-2024/"><u>How to Use a Whiteboard in Google Meet for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-in-efficiency-10-essential-windows-apps/"><u>Masterclass in Efficiency: 10 Essential Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-freeze-tips-for-resource-monitors-on-windows-11/"><u>Overcoming the Freeze: Tips for Resource Monitors on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quake-mode-entry-with-windows-terminal/"><u>Quake Mode Entry with Windows Terminal</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-operations-fixing-data-failure-on-usb-drives-windows/"><u>Restoring Operations: Fixing Data Failure on USB Drives (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/unshielding-windows-deactivating-defender-firewall/"><u>Unshielding Windows: Deactivating Defender Firewall</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-veiled-viewer-steps-to-engage-with-windows-hidden-character-tracker/"><u>Unveiling the Veiled Viewer: Steps to Engage with Windows’ Hidden Character Tracker</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-from-conversation-to-text-mastering-googles-document-feature/"><u>[New] In 2024, From Conversation to Text Mastering Google's Document Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-bluetooth-speaker-usability-volume-control-restored/"><u>Enhancing Windows Bluetooth Speaker Usability: Volume Control Restored</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-your-windows-media-player-running/"><u>Getting Your Windows Media Player Running</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-computers-speaker-drivers-from-causing-high-cpu-consumption-on-windows/"><u>How to Prevent Your Computer's Speaker Drivers From Causing High CPU Consumption on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-integrate-srt-into-windowsmacos-operations/"><u>In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-15-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 15 Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-life-into-windows-11-display-with-dynamic-walls-technique/"><u>Infuse Life Into Windows 11 Display With Dynamic Walls Technique</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/is-your-system-enough-to-welcome-windows-11/"><u>Is Your System Enough to Welcome Windows 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/old-hardware-new-horizons-reviving-pcs-with-windows-11-to-go-and-rufus/"><u>Old Hardware, New Horizons - Reviving PCs with Windows 11 To Go & Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/override-non-met-requirements-alert-in-win-11/"><u>Override Non-Met Requirements Alert in Win 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y27-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y27 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-microsoft-store-error-on-xbox-app/"><u>Steps to Tackle Microsoft Store Error on Xbox App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-key-phrases-a-beginners-journey-through-latin-american-vernaculars/"><u>Understanding Key Phrases: A Beginner's Journey Through Latin American Vernaculars</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-and-remedying-windows-1011-update-errors-0xc1900101/"><u>Unpacking & Remedying Windows 10/11 Update Errors (0xC1900101)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-of-switching-windows-terminals-attentive-state/"><u>Unveiling the Process of Switching Windows Terminal's Attentive State</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-ricoh-printer-drivers-available-for-free-download-and-windows-installation/"><u>Updated Ricoh Printer Drivers Available for Free Download and Windows Installation</u></a></li>
 </ul></div>
 

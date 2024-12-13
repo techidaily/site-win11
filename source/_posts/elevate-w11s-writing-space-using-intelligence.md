@@ -1,7 +1,7 @@
 ---
 title: Elevate W11's Writing Space Using Intelligence
-date: 2024-12-01T17:14:00.893Z
-updated: 2024-12-07T11:20:24.498Z
+date: 2024-12-09T11:11:43.702Z
+updated: 2024-12-13T01:37:25.485Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Decode Log Files, Error Messages, or Code Snippets](#decode-log-files-error-messages-or-code-snippets)
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 * [Criticisms of the Copilot and Windows Notepad integration](#criticisms-of-the-copilot-and-windows-notepad-integration)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![Microsoft Copilot explaining code highlighted in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-explaining-code-highlighted-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whether you’re a seasoned programmer tackling a problematic system log or a newbie struggling with a script, Copilot can help out. It’s especially useful when working on systems without access to advanced code editors, as Notepad remains one of the best ways to view source code and output logs.
 
  To get started, ensure you have the latest version of Notepad (11.2401.25.0 or newer) installed, as Microsoft is gradually rolling out this Copilot integration. Then, highlight your confusing text and let the AI do its magic!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Write and Edit Code Faster (But Don’t Expect an IDE)
@@ -85,15 +93,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![An executed VBScript code placed beside the VBS file on the Windows Desktop homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-executed-vbscript-code-placed-beside-the-vbs-file-on-the-windows-desktop-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Whether you’re a curious coding newbie or just need to make a quick fix without firing up a full IDE, give Notepad’s new AI sidekick a spin. Who knows, you might be surprised at what that unassuming app can do with a smarter Copilot riding shotgun.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Get AI-Powered Help With Any Text (Technical or Not)
 
@@ -113,15 +113,15 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 ![An open tab in Windows Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/an-open-tab-in-windows-notepad.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And while Microsoft could have reinvented the wheel, the Copilot integration wisely keeps Notepad’s iconic simplicity intact. This AI assistant operates behind the scenes, ready to lend its smarts when needed but never intrusive or altering Notepad’s essence.
 
  The integration is entirely optional, allowing Notepad to remain your trusty, lightweight note-taking companion. But with a quick shortcut, Copilot unlocks powerful capabilities—decoding confusing text, suggesting code improvements, and even summarizing dense documents.
 
  It’s a refreshing blend of nostalgia and innovation for long-time Windows users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Criticisms of the Copilot and Windows Notepad integration
 
@@ -135,27 +135,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  However, if you’re seeking to decode complex logs, code, or text without leaving Notepad’s familiar confines, this AI-powered addition could be a game-changing time saver, providing a best-of-both-worlds blend of AI superpower and classic simplicity. Give it a try and see how it can streamline your Notepad workflow.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-billion-dollar-brand-on-youtube-jake-paul/"><u>[New] 2024 Approved Building a Billion-Dollar Brand on Youtube (Jake Paul)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-comedy-cornucopia-twitters-best-for-2024/"><u>[Updated] Comedy Cornucopia Twitter's Best for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightning-fast-windows-photo-inspector/"><u>2024 Approved Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-windows-error-in-your-office-app/"><u>Efficient Methods to Fix Windows Error in Your Office App</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-windows-11-workflows-advanced-run-command-incorporation/"><u>Empowering Windows 11 Workflows: Advanced Run Command Incorporation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uninterrupted-playback-capture/"><u>In 2024, Uninterrupted Playback Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-working-status-for-failed-ccleaner-in-windows-1011/"><u>Recovering Working Status for Failed CCleaner in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/successfully-solving-steam-readwrite-issues-in-windows/"><u>Successfully Solving Steam Read/Write Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-winerror-code-0x80780119/"><u>Tackling WinError Code 0X80780119</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-big-unveilings-at-ces-2023-day-3-special-focus-on-htc-google-announcements-and-top-industry-stories-zdnet/"><u>The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement-for-2024/"><u>The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-methods-for-restoring-wuauserv-service-on-windows-11-systems/"><u>Troubleshooting Methods for Restoring WUAUserv Service on Windows 11 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-10mpg-4/"><u>Windows 10上MPGビデオ続けて再生失敗: 解決策トップ4</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-how-to-reboot-softwaredistribution-and-catroot2/"><u>Windows 11: How To Reboot SoftwareDistribution and Catroot2</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-identity-puzzle-decoding-and-finding-sids/"><u>Windows 11'S Identity Puzzle: Decoding and Finding SIDs</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-navigators-essentials-the-top-6-tactics-to-extract-and-replicate-filesystem-trails/"><u>Windows Navigator's Essentials: The Top 6 Tactics to Extract & Replicate Filesystem Trails</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +142,23 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-a-dynamic-youtube-subscriber-shortcut/"><u>[New] Crafting a Dynamic YouTube Subscriber Shortcut</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/10-best-video-calling-app-for-android-and-iphone-for-2024/"><u>10 Best Video Calling App for Android and iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-storage-deals-cloud-pricing-of-future-year/"><u>2024 Approved Best Storage Deals Cloud Pricing of Future Year</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-gifs-to-stickers-full-guide-for-social-channels/"><u>2024 Approved From GIFs to Stickers Full Guide for Social Channels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-nearby-landscapes-on-roblox-easily/"><u>2024 Approved Navigate Nearby Landscapes on Roblox Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-dilemmnas-in-skyrims-extended-scripting/"><u>Decoding Dilemmnas in Skyrim's Extended Scripting</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-a-frozen-opera-download-on-your-pc/"><u>Easy FIXES for a Frozen Opera Download on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-sudo/"><u>Elevate Your Windows Experience with Sudo</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-connection-fixing-discord-update-issues-on-windows/"><u>Lost Connection: Fixing Discord Update Issues on Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-vanguard-ai-musicians-discovering-the-quintessential-sound-makers-for-2024/"><u>New Vanguard AI Musicians Discovering the Quintessential Sound Makers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-self-replacing-updated-amd-graphics-driver/"><u>Optimize Windows: Self-Replacing, Updated AMD Graphics Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-obs-issues-why-its-no-longer-failing-to-record-screen/"><u>Overcome OBS Issues: Why It's No Longer Failing to Record Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/the-dos-and-donts-of-windows-11-eight-must-skip-mistakes/"><u>The Do's and Don'ts of Windows 11: Eight Must-Skip Mistakes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-absence-of-wlanapidll-on-your-computer/"><u>Troubleshooting the Absence of WLANAPI.DLL on Your Computer</u></a></li>
+</ul></div>
+

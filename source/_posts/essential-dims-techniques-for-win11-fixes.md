@@ -1,7 +1,7 @@
 ---
 title: Essential DIMS Techniques for Win11 Fixes
-date: 2024-12-01T18:53:43.039Z
-updated: 2024-12-06T19:56:52.534Z
+date: 2024-12-07T22:18:14.890Z
+updated: 2024-12-12T16:39:20.749Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the DISM Command in Windows 11
 
  The DISM command-line utility is a multi-purpose tool. It allows the system administrator to prepare and service Windows images. In addition, you can use the DISM tool in combination with the System File Checker utility to recover your Windows computer from critical failure.
@@ -44,27 +48,28 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 ![DISM scan health powershell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-clean-health-powershell-command.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `DISM /Online /Cleanup-Image /CheckHealth`
 4. In the above command, the **/Online** parameter specifies the scan must be performed on the currently running operating system. The **/Cleanup-Image** parameter specifies the operation is related to Windows image repair.
 5. When executed, the command will show the report as “**The component stored has been corrupted**” or “**No component store corrupted detected.**” depending on whether a component store corruption is found.  
 ![DISM powershell CheckHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-powershell-checkhealth-command.jpg)
 6. If you use PowerShell, use the following command instead:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Repair-WindowsImage -Online -CheckHealth`
 7. The PowerShell command will report your image status to indicate whether it is **Healthy**, **Repairable** or **Non-repairable**. A healthy image doesn’t need any further action, and you can proceed to run the SFC tool.
 
  If the image is repairable, you can use the RestoreHealth command to use Windows Update to fix any corruption. However, for a non-repairable image, you may need to perform a clean install to fix your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Perform an Advanced System Image Scan with the ScanHealth Command
 
 ![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the DISM ScanHealth command to perform an advanced scan of your Windows 11 system image. This will check your system for component store corruption and save the report to a log file.
 
@@ -76,16 +81,12 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 3. This process may take some time to complete. Once done, it will report any issues with the component store.
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Run the DISM RestoreHealth Command to Repair the Windows System Image
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The DISM RestoreHealth command uses Windows Update to provide the necessary files to fix file corruption and repair the Windows 11 system image. However, you must be connected to the internet so that the DISM tool can download and restore the files needed to perform a repair.
@@ -96,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 2. Next, type the following command and press **Enter**:  
 `DISM.exe /Online /Cleanup-image /RestoreHealth`
 3. The DISM utility will perform a scan and start repairing the Windows system image. This process may take some time to complete. So, wait till the progress bar reaches 100%.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Repair System Image Using an Alternate Repair Source
 
@@ -121,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have successfully repaired your Windows 11 system image using the DISM RestoreHealth command, run the System File Checker (SFC) utility. It will scan your Windows installation for system file corruption and fix them automatically.
 
  In almost all instances, you must run the System File Checker utility after using the DISM image repair command to complete the repair process. Here’s how to do it:
@@ -141,26 +142,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 
  In this article, we’ll show you how you can use the DISM and System File Checker utility to repair your damaged Windows 11 image and installation.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-z2-advantage-an-intelligent-mobile-assessment/"><u>[New] 2024 Approved Z2 Advantage An Intelligent Mobile Assessment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-chuckles-galore-navigate-the-best-15-comedic-youtube-crews/"><u>[Updated] 2024 Approved Chuckles Galore Navigate the Best 15 Comedic YouTube Crews</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-customizing-video-assets-for-instagram-mastery/"><u>[Updated] In 2024, Customizing Video Assets for Instagram Mastery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[Updated] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-to-combat-wlanextexe-overuse/"><u>Effective Methods to Combat Wlanext.exe Overuse</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/entropy-changes-can-be-calculated-using-the-formula-ds-qrevt-for-reversible-processes-where-qrev-is-the-heat-exchanged-and-t-is-the-absolute-temperature/"><u>Entropy Changes Can Be Calculated Using the Formula ΔS = Q_rev/T for Reversible Processes, Where Q_rev Is the Heat Exchanged and T Is the Absolute Temperature.</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-amd-radeon-software-not-working-on-windows/"><u>How to Fix AMD Radeon Software Not Working on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-windows-10-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 10 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme C33 2023</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y27-4g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y27 4G Phone FRP Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-windows-forecasting-apps-guide/"><u>Optimal Windows Forecasting Apps Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-autocorrect-errors-with-these-n-proven-methods-for-better-iphone-texting/"><u>Overcoming Autocorrect Errors with These N Proven Methods for Better iPhone Texting</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-methods-for-accessing-disk-management-win-1011/"><u>Proven Methods for Accessing Disk Management (Win 10/11)</u></a></li>
-<li><a href="https://win11.techidaily.com/revamp-the-windows-terminal-bg-and-theme/"><u>Revamp the Windows Terminal Bg & Theme</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-server-entry-barriers-on-windows/"><u>Tackling Server Entry Barriers on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-are-the-latest-advancements-in-macbook-technology/"><u>What Are the Latest Advancements in MacBook Technology?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -168,3 +149,23 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/nhance-well-being-and-flexibility-with-these-outstanding-channels-for-2024/"><u>[New] Enhance Well-Being & Flexibility with These Outstanding Channels for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insiders-guide-adding-borders-in-instagram-footage/"><u>[Updated] 2024 Approved The Insider's Guide Adding Borders in Instagram Footage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-comprehensive-walkthrough-posting-imovie-videos-to-vimeo-for-2024/"><u>[Updated] Comprehensive Walkthrough Posting iMovie Videos to Vimeo for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveil-the-subject-background-removal-techniques-in-photopea/"><u>[Updated] Unveil the Subject Background Removal Techniques in Photopea</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716169136059-2024-approved-how-to-reverse-image-search-instagram/"><u>2024 Approved How to Reverse Image Search Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jumpstart-connections-winning-tinder-bios-at-a-glance/"><u>2024 Approved Jumpstart Connections Winning Tinder Bios at a Glance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adjusted-instagram-reel-flaw-fix/"><u>Adjusted: Instagram Reel Flaw Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/from-start-screen-to-snap-layouts-windows-10-to-11-upgrade/"><u>From Start Screen to Snap Layouts: Windows 10 to 11 Upgrade</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-down-high-bitrate-obs-streams/"><u>In 2024, Cutting Down High-Bitrate OBS Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-effortless-estimation-of-digital-gains/"><u>In 2024, Effortless Estimation of Digital Gains</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionary-approaches-to-windows-tpm-removal/"><u>Revolutionary Approaches to Windows TPM Removal</u></a></li>
+<li><a href="https://win11.techidaily.com/sculpt-your-art-top-new-features-in-microsoft-paint/"><u>Sculpt Your Art: Top New Features in Microsoft Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/top-placement-techniques-for-window-notations/"><u>Top-Placement Techniques for Window Notations</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-windows-discussions-via-freedomgpt/"><u>Unrestricted Windows Discussions via FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-troubleshooting-solving-0x80072af9-hurdles/"><u>Windows Troubleshooting: Solving 0X80072AF9 Hurdles</u></a></li>
+</ul></div>
+

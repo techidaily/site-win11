@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows Camera Non-Storage Feedback
-date: 2024-09-05T08:27:49.066Z
-updated: 2024-09-06T08:27:49.066Z
+date: 2024-12-09T08:00:17.122Z
+updated: 2024-12-13T02:57:27.563Z
 tags:
   - windows10
   - windows11
@@ -19,17 +19,9 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
  The Windows Camera app is known for its simplicity and user-friendliness, making it a go-to choice for capturing and preserving memories. However, there are occasions when you encounter problems with the app, like the inability to save photos or videos on your device. This can be particularly frustrating, especially if you intend to share or edit these media files later. Below, we walk you through the steps to resolve issues with the Camera app when it fails to save photos or videos in Windows.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check the Storage Permissions
 
  If your laptop or computer’s camera doesn’t save photos or videos, we recommend starting your troubleshooting journey by ensuring it has sufficient permissions to store data on your device.
@@ -43,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While you are at it, you can also re-add your saved location for storing data and see if that makes a difference.
 
 1. Open the Settings app and navigate to **System** \> **Storage** \> **Where new content is saved**.
@@ -55,11 +45,9 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 ![Pick a different location to save photos and videos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-a-different-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here is an alternate way of changing the location:
 
 1. Open a Run dialog by pressing the **Win** \+ **R** keys together.
@@ -71,11 +59,9 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 6. Hit **Apply** \> **OK** to save the changes and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update the Camera Drivers
 
  Another reason why your camera app might be acting is because of outdated or corrupt drivers. Such issues can be resolved by updating the drivers using either the Device Manager utility or the Windows Update option.
@@ -88,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 4. Choose **Update driver** \> **Search automatically for drivers**.  
 ![Update the Relevant Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/4-update-the-relevant-camera-driver-from-windows-device-manager.jpg)
 5. The utility will now start scanning for an updated version of your driver in the system. If it finds any, follow the on-screen instructions to install it. If it does not, you can click on **Search for updated drivers on Windows Update** to see if an update is available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also head over to your manufacturer’s website, download an updated version from there, and then install it manually.
 
@@ -110,12 +100,6 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 5. In the Reset section, click on the **Repair** button.  
 ![Repair Camera app from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Camera.jpg)
 6. Wait for the process to complete. This may take a while, depending upon the complexity of the underlying problems.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the app is successfully repaired, check if the issue is fixed. If the app fails to repair, you should see a “We couldn’t repair this app. Try again in a bit.” In that case, you can try using the System File Checker for a more detailed check of the system, or move to the next method below.
 
@@ -127,12 +111,6 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 
  It is, however, important to note that disabling these programs can make your computer vulnerable to risks, so we recommend turning them back on immediately once you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reset or Reinstall the Camera App
 
  Finally, if the steps listed above have not worked, you can try resetting or reinstalling the camera app as the last resort.
@@ -151,11 +129,33 @@ thumbnail: https://thmb.techidaily.com/f0ebe7bbeaa83391f6bb15edc8e752caf5cabced7
 
  A malfunctioning Camera app that can't save your photos or videos can be a real inconvenience, but it is not impossible to fix. Hopefully, the methods above will help you restore your Camera app's functionality and continue capturing life's moments with confidence. To prevent this issue from occurring in the future, it is best to keep your camera drivers up-to-date at all times.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-initial-recording-analysis-a-critique/"><u>[New] Initial Recording Analysis A Critique</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>[Updated] In 2024, The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>[Updated] In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>[Updated] Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-dilemmnas-in-skyrims-extended-scripting/"><u>Decoding Dilemmnas in Skyrim's Extended Scripting</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-a-frozen-opera-download-on-your-pc/"><u>Easy FIXES for a Frozen Opera Download on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-sudo/"><u>Elevate Your Windows Experience with Sudo</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/essential-digital-solutions-the-vitalsource-way/"><u>Essential Digital Solutions: The VitalSource Way</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-free-windows-apps-security-first-list/"><u>Essential Free Windows Apps: Security First List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-engaging-story-starter-toolkit/"><u>In 2024, Engaging Story Starter Toolkit</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-lava-blaze-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Lava Blaze Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-connection-fixing-discord-update-issues-on-windows/"><u>Lost Connection: Fixing Discord Update Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-windows-self-replacing-updated-amd-graphics-driver/"><u>Optimize Windows: Self-Replacing, Updated AMD Graphics Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-apples-windows-picture-import-problems/"><u>Overcoming Apple's Windows Picture Import Problems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pro-level-screenshot-techniques-with-top-11-tools/"><u>Pro-Level Screenshot Techniques with Top 11 Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture/"><u>The Art of Precision Modern Methods to Automatically Align Sound and Picture</u></a></li>
+<li><a href="https://win11.techidaily.com/the-dos-and-donts-of-windows-11-eight-must-skip-mistakes/"><u>The Do's and Don'ts of Windows 11: Eight Must-Skip Mistakes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-side-of-microsoft-edges-task-list/"><u>The Secret Side of Microsoft Edge’s Task List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-c12-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia C12 Location By Mobile Number | Dr.fone</u></a></li>
+</ul></div>
+

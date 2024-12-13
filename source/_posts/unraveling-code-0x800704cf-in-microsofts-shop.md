@@ -1,7 +1,7 @@
 ---
 title: Unraveling Code 0X800704CF in Microsoft's Shop
-date: 2024-12-06T11:06:45.729Z
-updated: 2024-12-07T11:24:45.364Z
+date: 2024-12-10T22:03:14.943Z
+updated: 2024-12-13T11:14:33.356Z
 tags:
   - windows10
   - windows11
@@ -34,27 +34,29 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 3. Select the**Large icons** option on Control Panel’s**View by** menu.  
 ![The Control Panel's large icon view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel.jpg)
 4. Click**Troubleshooting** to access that applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**View all** option to see the full list of troubleshooters.  
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/troubleshooter-list.jpg)
 6. Then double-click**Internet Connections** or**Network Adapter** to open one of those troubleshooters.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The troubleshooting list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/troubleshooter-list.jpg)
 7. Click**Next** in those troubleshooters and apply any potential fixes suggested.
 
  Windows Store App is also a troubleshooting tool that could be useful for addressing error 0x800704CF. That one might fix issues with the Microsoft Store app. So, consider running that troubleshooter as well if the others don't provide a fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair and Reset the Microsoft Store App
 
  Windows has two troubleshooting options for fixing Microsoft Store when it’s not working right. Those Repair and Reset options can resolve all kinds of app bugs and corruption errors. So, those options could feasibly resolve error 0x800704CF for some users. Check out our guide about[how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this resolution.
 
 ![The Reset and Repair buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Set a Different DNS Server
 
@@ -73,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 ![The remove proxy command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-proxy-command.jpg)
 4. Restart Windows 11 or 10 after executing the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Disable the Microsoft Network Component Setting Client
 
  Some users have been able to fix error 0x800704CF by disabling the**Microsoft Network Connection** setting, which is enabled by default. It’s ok to disable that component for your connection so long as you don’t need to access resources on a Microsoft network. You can disable the**Client for Microsoft Network** option as follows:
@@ -89,14 +87,14 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 5. Deselect the**Client for Microsoft Networks** checkbox.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Client for Microsoft Networks checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/client-for-microsoft-network-option.jpg)
 6. Select**OK** to save the new property setting, and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall the Network Adapter Driver
@@ -127,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 `Get-AppXPackage *Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml&}`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your PC’s Network
@@ -138,6 +136,10 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  A network reset will erase saved connection details. So, make sure you’ve got your network password handy for re-establishing your connection. Our[how to reset your network settings on Windows](https://www.makeuseof.com/reset-network-settings-windows-11/) guide tells you how to apply this possible error 0x800704CF solution in Windows 11\. Fortunately, the steps for Windows 10 are the same.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Set Up an Alternative User Account
 
  You might need to fix error 0x800704CF because of an issue with your current user account. Some Windows troubleshooting tools could feasibly resolve that user account glitch. However, setting up and migrating to a new user account is an alternative troubleshooting method that you can try.
@@ -147,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
  To apply this solution, check out our post for[resolving Windows issues by setting up a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) . Create a new local user account as instructed in that article, and then log in to the new account to see if error 0x800704CF occurs there. If not, you can migrate your user files to the new account as covered in that guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Microsoft Store Error 0x800704CF Sorted on Your PC
@@ -169,18 +171,22 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>[New] In 2024, Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-add-auditory-components-to-premiere-pro-videos/"><u>[Updated] Add Auditory Components to Premiere Pro Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-digital-classrooms-alternatives-to-udemys-model/"><u>2024 Approved Premier Digital Classrooms Alternatives to Udemy's Model</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/break-of-dawn-greetings-a-multilingual-morning-salutation-list/"><u>Break of Dawn Greetings: A Multilingual Morning Salutation List</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-mend-disk-errors-on-modern-windows-systems/"><u>Essential Tips to Mend Disk Errors on Modern Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-retrace-your-steps-on-windows-11s-search-settings/"><u>How to Retrace Your Steps on Windows 11'S Search Settings</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-designing-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>In 2024, Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-v-purse-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor V Purse Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-malware-defense-restoring-windows-defender-engine-capability/"><u>Mastering Malware Defense: Restoring Windows Defender Engine Capability</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-ru800t-ultra-hd-tv-a-deep-dive-into-the-latest-smart-display/"><u>Samsung RU800T Ultra HD TV: A Deep Dive Into the Latest Smart Display</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-a-seamless-software-shift-with-windows-11-upgrade/"><u>Securing a Seamless Software Shift with Windows 11 Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-threat-strategies-to-identify-and-eliminate-wacatacbml/"><u>The Hidden Threat: Strategies to Identify and Eliminate Wacatac.B!ml</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sunshine-strategies-to-lighten-up-android-videos/"><u>[New] Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2020s-windows-updates-a-quick-overview/"><u>[Updated] 2020'S Windows Updates A Quick Overview</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>[Updated] In 2024, Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-snapchat-spotlight-101-understanding-its-impact/"><u>2024 Approved Snapchat Spotlight 101 Understanding Its Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-nier-abelian-storm-stutters-effective-solutions-unveiled/"><u>Deciphering NieR: Abelian Storm Stutters: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-problem-with-this-windows-installer-package-error-on-windows-11-and-11/"><u>How to Fix the Problem With This Windows Installer Package Error on Windows 11 & 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y56-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y56 5GFRP Lock</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-device-disappearing-act-in-windows-910/"><u>Print Device Disappearing Act in WIndows 9/10</u></a></li>
+<li><a href="https://win-bits.techidaily.com/resolving-the-error-1000203-during-a-system-restore-on-windows-10-a-step-by-step-guide/"><u>Resolving the 'Error 1000203' During a System Restore on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/revival-strategies-for-net-on-your-pc-max-156/"><u>Revival Strategies for .NET on Your PC (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-typography-across-languages-on-windows-pcs/"><u>Seamless Typography Across Languages on Windows PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/skyrocketing-subscribers-5-proven-strategies-for-igtv-success-for-2024/"><u>Skyrocketing Subscribers 5 Proven Strategies for IGTV Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stop-microsoft-teams-crashes-tips-for-wins-11-and-10/"><u>Steps to Stop Microsoft Teams Crashes: Tips for Wins 11 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-troubleshooting-task-sequence-failures-winos-edition/"><u>Strategies for Troubleshooting Task Sequence Failures: WinOS Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-mysteries-of-windows-group-policies-3-different-perspectives/"><u>Unlocking the Mysteries of Windows Group Policies: 3 Different Perspectives</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-youre-unable-to-download-any-files-on-a-windows-10-and-11/"><u>What to Do When You’re Unable to Download Any Files on a Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategy-against-update-error-x712/"><u>Winning Strategy Against Update Error X712</u></a></li>
 </ul></div>
 

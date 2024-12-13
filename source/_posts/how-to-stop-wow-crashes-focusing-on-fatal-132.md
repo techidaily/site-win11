@@ -1,7 +1,7 @@
 ---
 title: "How to Stop WOW Crashes: Focusing on Fatal #132"
-date: 2024-12-02T08:11:50.236Z
-updated: 2024-12-07T04:43:11.178Z
+date: 2024-12-10T09:14:54.006Z
+updated: 2024-12-13T01:25:01.793Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Game DVR for Recording Clips
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
@@ -54,16 +54,8 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
@@ -75,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -91,7 +83,15 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
@@ -109,25 +109,6 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-visuallyvivid-adjust-your-content-for-instagram-success/"><u>[New] 2024 Approved VisuallyVivid Adjust Your Content for Instagram Success</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeo-top-choice-for-filmmakers-for-2024/"><u>[New] Demystifying Vimeo Top Choice for Filmmakers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>[New] In 2024, Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premiere-pro-speed-blackouts-for-2024/"><u>[New] Premiere Pro Speed Blackouts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-radiant-renderings-perfecting-video-light-quality/"><u>[New] Radiant Renderings Perfecting Video Light Quality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-free-online-gif-to-video-tools-no-downloads-needed/"><u>[New] Top 5 Free Online GIF-to-Video Tools (No Downloads Needed)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-embracing-the-future-with-vr-mobile-or-tethered-whats-right-for-you-for-2024/"><u>[Updated] Embracing the Future with VR Mobile or Tethered, What's Right For You for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/counterintuitive-control-center-hiding-power-in-windows-11-ui/"><u>Counterintuitive Control Center: Hiding Power in Windows 11 UI</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x100-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X100 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-error-3-in-nvidia-opengl/"><u>Mastering the Resolution of Error 3 in Nvidia OpenGL</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-premier-digital-audio-editor/"><u>New Premier Digital Audio Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-approach-for-eradicating-critical-windows-c0000022/"><u>Strategic Approach for Eradicating Critical Windows C0000022</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-windows-based-call-logging/"><u>The Essentials of Windows-Based Call Logging</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-untraceable-how-to-discern-fake-windows-apps/"><u>Unveiling Untraceable: How to Discern Fake Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-taskbar-chat-ability-whats-it-mean-for-users/"><u>Windows 11 Taskbar Chat Ability: What's It Mean for Users?</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -135,3 +116,21 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-gamings-new-leaders-1-ranked-4k-laptops/"><u>[New] Gaming's New Leaders #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-blaze-2-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Blaze 2 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-data-size-and-space-usage-with-win11s-ntfs-features/"><u>Controlling Data Size & Space Usage with Win11's NTFS Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-360-video-making-with-ios-devices/"><u>Mastering 360 Video Making with iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-efficiency-with-widget-driven-hardware-insights/"><u>Maximize Efficiency with Widget-Driven Hardware Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209982868-9781071534502-megan-en-de-vermiste-kat/"><u>Megan en de Vermiste Kat | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-video-edits-made-simple-in-windows-11/"><u>Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/sniping-in-windows-10-prtsc-vs-snip-and-sketch-showdown/"><u>Sniping in Windows 10: PrtSc Vs. Snip & Sketch Showdown</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-correcting-messages-not-rendering-in-discord/"><u>Steps for Correcting Messages Not Rendering in Discord</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-power-of-stories-in-youtube-expansion/"><u>The Power of Stories in YouTube Expansion</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-tackle-frozen-power-settings-on-windows-11/"><u>Tricks to Tackle Frozen Power Settings on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-red-magic-9-proplus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Red Magic 9 Pro+ Device</u></a></li>
+</ul></div>
+

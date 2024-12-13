@@ -1,7 +1,7 @@
 ---
 title: Deferring Windows Edge Tabs on Windows 11
-date: 2024-09-05T08:30:35.727Z
-updated: 2024-09-06T08:30:35.727Z
+date: 2024-12-06T13:49:43.141Z
+updated: 2024-12-13T08:27:39.582Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: Defer Edge Tabs,Windows 11 Delaying Tabs,Postpone Windows Tab Activati
 thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b0a9cd027835fb97af58ec95.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Deferring Windows Edge Tabs on Windows 11
 
  Microsoft Edge is the default browser in Windows and comes pre-installed on the operating system without any easy way of getting rid of it. The browser uses "tab preloading," which preloads the Start and New Tab page while you sign in to your PC.
 
  For Edge lovers, it is a boon, but if you don’t use the default browser and prefer something else, it is a waste of resources. Fortunately, you can easily disable Edge's tab preloading in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Disable Edge Tab Preloading Using the Group Policy Editor
 
  Windows Pro, Education, and Enterprise users get the perks of the Group Policy Editor by default. You can use it to configure system policies on your PC and personalize it. If you're on Windows Home, check out [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -48,13 +36,16 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 7. Click on the **Apply** button. Then click on the **OK** button to save the changes.  
 ![Disable Microsoft Edge Tab Preloading Using GPE 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-gpe-2.jpg)
 8. **Exit** the Group Policy Editor window.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. **Restart** your PC for the policy changes to take effect and disable the tab preloading feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Disable Edge Tab Preloading Using the Registry Editor
 
@@ -72,17 +63,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 ![Disable Microsoft Edge Tab Preloading Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, you need to create a new subkey and add a new DWORD value:
 
 1. Right-click on the Microsoft Edge key and select the **New > Key** option.
@@ -93,13 +76,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 6. Go to the **Value Data** field and type **0** in it. Set the **Base** to **Hexadecimal** and click on the **OK** button.  
 ![Disable Microsoft Edge Tab Preloading Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-registry-editor-2.jpg)
 7. **Close** the Registry Editor window.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. **Restart** your PC to apply the changes made to the registry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Disable Edge Tab Preloading Using CMD or PowerShell
 
@@ -112,6 +93,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 3. **Close** the Command Prompt window and **restart** your PC.  
 ![Disable Microsoft Edge Tab Preloading Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Disable Edge Tab Preloading Using the Ultimate Windows Tweaker App
 
  You can also use a third-party app like the Ultimate Windows Tweaker to disable Edge tab preloading in Windows 11\. Download the [Ultimate Windows Tweaker](https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) app and install it on your PC. After that, repeat the following steps:
@@ -123,19 +108,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
 ![Disable Microsoft Edge Tab Preloading Using Ultimate Windows Tweaker 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-microsoft-edge-tab-preloading-using-ultimate-windows-tweaker-2.jpg)
 4. **Close** the Ultimate Windows Tweaker app and **restart** your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable Edge Tab Preloading for Good on Windows 11
 
  Edge tab preloading serves no useful purpose if you use other browsers. You can disable it using the Group Policy Editor or the Registry Editor. Lastly, if you want a GUI app to disable the feature, you can use the Ultimate Windows Tweaker app.
 
  For Edge lovers, it is a boon, but if you don’t use the default browser and prefer something else, it is a waste of resources. Fortunately, you can easily disable Edge's tab preloading in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -143,3 +120,27 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-deciding-between-obs-and-streamlabs-for-live-broadcasting-for-2024/"><u>[Updated] Deciding Between OBS and Streamlabs for Live Broadcasting for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dividing-footage-top-splitcams-worth-in-review/"><u>[Updated] In 2024, Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-twice-the-joy-television-looping-of-online-video/"><u>[Updated] In 2024, Twice the Joy Television Looping of Online Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-inside-polarr-the-powerhouse-photo-toolkit-for-2024/"><u>[Updated] Inside Polarr The Powerhouse Photo Toolkit for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-windows-errors-fixed-error-x80072f17-in-microsoft-store/"><u>Combating Windows Errors: Fixed Error X80072F17 in Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-defeating-error-code-0x80246007-in-w10w11-os/"><u>Decoding and Defeating Error Code 0X80246007 in W10/W11 OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-design-innovation-tailoring-bots-through-gpt/"><u>Dialogue Design Innovation: Tailoring Bots Through GPT</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-file-security-with-powertoys-locksmith-expertise/"><u>Elevating File Security with PowerToys' Locksmith Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-proxy-settings-in-windows-11-os/"><u>Guide to Proxy Settings in Windows 11 OS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-stream-high-efficiency-video-coding-hevcav1-content-with-your-plex-setup/"><u>How to Stream High-Efficiency Video Coding (HEVC/AV1) Content with Your Plex Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-c67-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme C67 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-custom-weather-symbol-in-windows-11-notification-area/"><u>Installing Custom Weather Symbol in Windows 11 Notification Area</u></a></li>
+<li><a href="https://win11.techidaily.com/muting-chrome-banners-pop-ups-and-sounds-win/"><u>Muting Chrome Banners, Pop-Ups & Sounds (Win)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-fix-bring-youtube-music-to-your-imovie-projects-for-2024/"><u>Quick Fix Bring YouTube Music to Your iMovie Projects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-anomaly-during-team-sessions/"><u>Screen Anomaly During Team Sessions?</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-lightweight-web-access-browser-ram-consumption-tested-and-rated/"><u>Seeking Lightweight Web Access: Browser RAM Consumption Tested & Rated</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-paperless-window-based-note-app-winners-non-writing/"><u>Sticky Paperless: Window-Based Note App Winners (Non-Writing)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
+</ul></div>
+

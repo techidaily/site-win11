@@ -1,7 +1,7 @@
 ---
 title: Optimizing Windows 11 Taskbar - Incorporating Folders
-date: 2024-09-05T08:31:34.974Z
-updated: 2024-09-06T08:31:34.974Z
+date: 2024-12-09T05:25:53.361Z
+updated: 2024-12-13T12:21:12.885Z
 tags:
   - windows10
   - windows11
@@ -14,22 +14,14 @@ keywords: WinTaskBarOptimize,FolderTaskbarAdd,AddToWindows11Bar,Windows11Folders
 thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a90f0ca40e490e9a1586e5331.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimizing Windows 11 Taskbar - Incorporating Folders
 
  The context menu is a handy menu you can open in Windows 11 by clicking the right mouse button on the desktop or in File Explorer. That menu consists of two parts in Windows 11, and you can customize its secondary classic menu with registry hacks and third-party software packages in many ways. Here we’ll be looking at how you can add context menu folder shortcuts with the MyFolders and Right Click Context Menu Adder apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
  MyFolders is freeware software for Windows 11,10, 8,7, Vista, and XP that adds a new directory submenu to the context menu for the desktop and in File Explorer. You can configure that submenu by adding folder shortcuts to it for opening with Explorer or Command Prompt. Its submenu also includes some additional folder management options. This is how you can add folders to Windows 11’s context menu with MyFolders:
@@ -42,20 +34,8 @@ thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a9
 6. Enter a name or email address within the**User Name** box, and click**Next** again.  
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -78,14 +58,12 @@ Once your PC has restarted:
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
  Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
@@ -102,20 +80,13 @@ Once your PC has restarted:
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -135,17 +106,13 @@ Once your PC has restarted:
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -156,15 +123,13 @@ Once your PC has restarted:
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -176,8 +141,6 @@ Once your PC has restarted:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +148,21 @@ Once your PC has restarted:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unveiling-instagrams-videography-timeframe/"><u>[New] In 2024, Unveiling Instagram's Videography Timeframe</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-real-time-streaming-pro-master-manycam-advanced-live-video-app-and-virtually-smart-cam/"><u>1. Real-Time Streaming Pro: Master ManyCam, Advanced Live Video App and Virtually Smart Cam</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-your-guide-to-dlc-and-storage/"><u>Baldur's Gate 3 - Your Guide to DLC & Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-navigating-and-adjusting-windows-flawlessly/"><u>Expert Strategies: Navigating and Adjusting Windows Flawlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/exploiting-windows-technology-for-enhanced-macos/"><u>Exploiting Windows Technology for Enhanced macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-and-install-hps-official-wifi-driver-on-windows-os/"><u>How to Obtain and Install HP's Official WiFi Driver on Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-moto-g84-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Moto G84 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-manual-for-google-play-on-w11/"><u>Installation Manual for Google Play on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-frozen-grammarly-feature/"><u>Methods to Rectify Frozen Grammarly Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-common-outlook-issues-in-windows/"><u>Navigating Common Outlook Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-secure-boot-disappearance-on-a-windows-machines-bios/"><u>Overcoming Secure Boot Disappearance on a Windows Machine's BIOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quickly-shorten-your-footage-mastering-the-art-of-video-cropping-and-cutting-in-handbrake/"><u>Quickly Shorten Your Footage: Mastering the Art of Video Cropping and Cutting in Handbrake</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-reviving-lost-emails-using-aomei-backupper/"><u>Step-by-Step Guide: Reviving Lost Emails Using AOMEI Backupper</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-safety-essentials-the-best-covers-ranked/"><u>Webcam Safety Essentials The Best Covers Ranked</u></a></li>
+</ul></div>
 

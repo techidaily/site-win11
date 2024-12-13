@@ -1,7 +1,7 @@
 ---
 title: Solving Discord Errors During Windows 11 Installation Process
-date: 2024-11-30T06:49:06.313Z
-updated: 2024-12-07T06:37:54.348Z
+date: 2024-12-07T09:47:45.464Z
+updated: 2024-12-13T10:47:28.471Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download the Discord Setup File Again
 
  First, try downloading the**DiscordSetup.exe** file again. This is suggested to double-check that the issue isn’t occurring because of a corrupted setup file. Click**Download for Windows** on the[Discord website](https://discord.com/download) to obtain a new installer for the software. Then try installing Discord with the fresh setup wizard.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 8. Then press**Next** again to start troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Any Background Discord Processes
@@ -70,11 +66,12 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 4. Right-click any Discord process you find and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option.jpg)
 5. Repeat the fourth step for all Discord-related processes.
-6. Try installing Discord after disabling related background processes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Try installing Discord after disabling related background processes.
 
 ## 4\. Delete Any Leftover Discord Data Folders
 
@@ -84,23 +81,19 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 ![The Run shortcut on the Power User menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-run-option.jpg)
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run the Discord Setup File as an Administrator
@@ -128,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
 ## 8\. Try Installing Discord in Safe Mode
@@ -135,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-startup-settings-safe-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
@@ -157,16 +158,24 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-celebrating-the-best-top-stop-motion-films-of-all-times/"><u>[New] Celebrating the Best Top Stop-Motion Films of All Times</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>[New] In 2024, Practical Demonstrations Creating and Configuring Timer Modules in OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-infuse-your-iphone-pics-with-movement/"><u>[Updated] How to Infuse Your iPhone Pics with Movement</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-iphone-videography-top-8-expert-filmmaking-advice/"><u>2024 Approved Masterful iPhone Videography Top 8 Expert Filmmaking Advice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hero-series-advance-from-4-to-5/"><u>2024 Approved The Hero Series Advance From 4 to 5</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-your-digital-brushstroke-with-these-7-apps-on-win10/"><u>Discover Your Digital Brushstroke with These 7 Apps on Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reverse-error-80080300-on-microsoft-teams-w11/"><u>Guide to Reverse Error 80080300 on Microsoft Teams, W11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-boost-security-with-vboxs-secure-boot/"><u>Step-by-Step: Boost Security with VBox's Secure Boot</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-fixes-addressing-error-code-0x80040610-in-outlook-and-windows/"><u>Swift Fixes: Addressing Error Code 0X80040610 in Outlook and Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-ungrouping-taskbar-elements/"><u>Techniques for Ungrouping Taskbar Elements</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-perfecting-bokeh-mastering-instagram-story-blur/"><u>[New] In 2024, Perfecting Bokeh Mastering Instagram Story Blur</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-survive-and-thrive-top-8-zombie-game-experiences/"><u>[New] In 2024, Survive and Thrive Top 8 Zombie Game Experiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>[New] Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-voice-memo-solutions-for-ipads-3-picks/"><u>[Updated] 2024 Approved Expert Voice Memo Solutions for iPads, #3 Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-vr-inventory-and-imagination-deficit/"><u>[Updated] Unveiling VR Inventory and Imagination Deficit</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>2024 Approved Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/breaking-down-advanced-photographic-modes-for-enhanced-results-for-2024/"><u>Breaking Down Advanced Photographic Modes for Enhanced Results for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-easily-can-you-recover-from-accidental-deletion-of-partitions-in-windows-11-10-8-and-7/"><u>How Easily Can You Recover From Accidental Deletion of Partitions in Windows 11, 10, 8, and 7?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-windows-11s-missing-search-items/"><u>How to Address Windows 11'S Missing Search Items</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-in-resident-evil-village-expert-tips-and-solutions/"><u>How to Fix Audio Glitches in Resident Evil Village: Expert Tips & Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-camon-30-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Camon 30 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-assistants-windows-11s-best-free-aid-compendium/"><u>Innovative Assistants: Windows 11'S Best Free Aid Compendium</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wsl-removal-in-win-1011/"><u>Mastering WSL Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-watch-time-free-windows-media-center-list/"><u>Maximize Your Watch Time: Free Windows Media Center List</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-wp-app-showdown-introducing-unison-and-phone-link/"><u>Microsoft WP App Showdown: Introducing Unison & Phone Link</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-pc-download-rates-on-battlenet/"><u>Skyrocket PC Download Rates on Battle.net</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-upgrade-for-sluggish-microsoft-edge-on-win10plus11/"><u>Speedy Upgrade for Sluggish Microsoft Edge on Win10+11</u></a></li>
+<li><a href="https://win11.techidaily.com/stutter-free-screenplay-essential-steps-for-a-seamless-windows-media/"><u>Stutter-Free Screenplay: Essential Steps for a Seamless Windows Media</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-unwaking-from-sleep-with-input-devices/"><u>Win11: Unwaking From Sleep with Input Devices</u></a></li>
 </ul></div>
 

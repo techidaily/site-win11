@@ -1,7 +1,7 @@
 ---
 title: "The Winning Strategy: Configuring Active Hours for a Smooth Windows Experience"
-date: 2024-12-03T09:26:56.414Z
-updated: 2024-12-07T05:58:37.227Z
+date: 2024-12-05T22:38:57.933Z
+updated: 2024-12-13T13:14:49.017Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Set Active Hours Manually via the Settings App
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 5. Use the drop-down menu next to **Adjust active hours** to select **Manually**.
 6. In the **Start time** and **End time** fields, specify the hours during which you typically use your device.  
 ![Set Active Hours Manually via the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Set Active Hours Manually Using the Group Policy Editor
 
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 ![Set Active Hours Manually via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-group-policy-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Set Active Hours Manually With the Registry Editor
@@ -83,11 +79,15 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 8. Double-click the **ActiveHoursEnd** entry to set the end time of your active hours in the 24-hour format. For instance, if you want to set the end time to **5:00 PM**, type **17** in the Value data field and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Exit the Registry Editor window.  
 ![Set Active Hours Manually via the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-manually-via-the-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Configure Windows to Set Active Hours Automatically
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 ![Set Active Hours Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-active-hours-automatically-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Active Hours on Windows Is Easy
@@ -110,25 +110,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  You can set active hours in Windows via the Settings app, the Group Policy Editor, or the Registry Editor. Let’s go through each of these methods in detail.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-guide-to-progressive-audio-diminishment-via-lumafusion-for-2024/"><u>[New] Guide to Progressive Audio Diminishment via Lumafusion for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-master-the-art-of-fb-video-ads-with-a-complimentary-kit-for-2024/"><u>[New] Master the Art of FB Video Ads with a Complimentary Kit for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-tier-tips-for-superior-home-theater-dvd-production-on-mac/"><u>[Updated] 2024 Approved Top-Tier Tips for Superior Home Theater DVD Production on Mac</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y27s-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y27s Device SIM</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-fixes-for-unwanted-new-tabs-in-chrome-browser/"><u>Easy Fixes for Unwanted New Tabs in Chrome Browser</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-with-my-goal-zero-bamboo-laptop-the-best-travel-buddy-ever/"><u>Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/hide-and-discover-instagram-stories-leaders-for-2024/"><u>Hide & Discover Instagram Stories Leaders for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-v2-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic V2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Smart 7 HD</u></a></li>
-<li><a href="https://win11.techidaily.com/missing-out-regain-access-to-windows-11s-hidden-upgrades-and-tools/"><u>Missing Out? Regain Access to Windows 11'S Hidden Upgrades and Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reclaim-faulty-wi-fi-settings-on-a-windows-machine/"><u>Steps to Reclaim Faulty Wi-Fi Settings on a Windows Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-turbulent-troubles-stop-lag-on-star-wars-battlefront-2-pc/"><u>Tackle Turbulent Troubles: Stop Lag on Star Wars Battlefront 2 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-permission-based-save-errors-in-windows-os/"><u>Tackling Permission-Based Save Errors in Windows OS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unveiling-the-secrets-share-images-professionally-on-youtube/"><u>Unveiling the Secrets Share Images Professionally on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-file-explorer-keeps-opening-by-itself-on-windows/"><u>What to Do if File Explorer Keeps Opening by Itself on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -136,3 +117,19 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-pro-downloading-and-setting-up-vrecord-for-2024/"><u>[New] Become a Pro Downloading & Setting Up VRecord for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis-for-2024/"><u>[New] Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-the-secrets-of-successful-instagram-posts-through-hashtags/"><u>[New] In 2024, Unlocking the Secrets of Successful Instagram Posts Through Hashtags</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-t-series-online-earnings-stream-for-2024/"><u>Decoding T-Series' Online Earnings Stream for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/does-clearing-faceprint-database-affect-security-measures-for-fb-users/"><u>Does Clearing Faceprint Database Affect Security Measures for FB Users?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-moments-immediate-administrator-access-to-terminal/"><u>Masterful Moments: Immediate Administrator Access to Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-eradicating-0x800700e9-from-xbox-game-pass-windows-11/"><u>Mastering the Art of Eradicating 0X800700E9 From Xbox Game Pass, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-family-safety-features-and-benefits/"><u>Microsoft Family Safety: Features and Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-keyboard-settings-in-windows-easily/"><u>Navigate Keyboard Settings in Windows Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11s-keyboard-issues-zerox-error-explained/"><u>Resolving Windows 11'S Keyboard Issues - Zerox Error Explained</u></a></li>
+</ul></div>
+

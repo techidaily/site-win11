@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Cannot Determine' Value Issue on Windows Systems
-date: 2024-12-04T12:23:38.970Z
-updated: 2024-12-07T10:14:18.925Z
+date: 2024-12-10T22:32:05.842Z
+updated: 2024-12-13T07:50:53.075Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Your Phone and Reconnect It
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 
  Once its system boots up, reconnect it and try to transfer the files again. Additionally, you could use a different USB port in case a malfunctioning USB port is preventing you from copying the files. If one of your ports isn't behaving, check out[how to diagnose and fix a faulty USB port on Windows](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Copy Fewer Files at Once
 
  Most of the time, you’ll get the "the requested value cannot be determined" error if you try to copy a large number of folders with many subfolders, and files. In addition to giving Windows too many files to handle at once, the transfer might exceed the supported limited size.
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
  For example, you can only transfer files smaller than 4GB to a FAT32 partition. To test it, try to copy a single file at once.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the File Destination
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
  But if you want to transfer the files to a specific directory to keep them well-organized, you should use an account with administrative rights or change the folder permission.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change Folder Permissions
@@ -74,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 
 ![Check folder permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/folder-permissions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choose the Right Transfer Protocol
 
  When you connect your phone, Windows asks you to choose the USB configuration. To keep your file transfer running smoothly, you should select**MTP (Media Transfer Protocol)** . Depending on the device, this option might be called**File Transfer** .
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
  If you’ve tried every solution but nothing worked, you might have to wait for a Windows, Android, or iOS update to fix the issue. Alternatively, you could update the files to your cloud storage, send them through Bluetooth, or use one of many[methods to transfer files from Android to PC](https://www.makeuseof.com/tag/transfer-files-android-pc/) .
 
  If you don’t have a lot of storage space on your phone, chances are you’ve extended its capacity using an SD card. If that’s the case here, you can remove the SD card and use your computer's SD card reader to transfer the files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Transfer Files From Phone to Windows
 
@@ -109,14 +109,19 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-effortless-video-segmentation-techniques/"><u>[New] Effortless Video Segmentation Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-2023-shift-in-facebooks-video-presentation-style-for-2024/"><u>[New] The 2023 Shift in Facebook’s Video Presentation Style for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-grayed-out-secure-boot-a-bios-guide-for-windows-pcs/"><u>Fixing Grayed-Out Secure Boot: A BIOS Guide for Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/from-pure-windows-to-virtualized-linux-with-hyper-v/"><u>From Pure Windows to Virtualized Linux with Hyper-V</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-iphone-standby-malfunction-in-4-steps/"><u>How to Troubleshoot and Repair iPhone Standby Malfunction in 4 Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-approaches-to-supercharge-your-editing-workflow/"><u>In 2024, Innovative Approaches to Supercharge Your Editing Workflow</u></a></li>
-<li><a href="https://win11.techidaily.com/prolong-windows-disk-life-no-data-wiped/"><u>Prolong Windows Disk Life, No Data Wiped</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-new-potential-adding-actions-to-folder-context-menus/"><u>Unlock New Potential: Adding Actions to Folder Context Menus</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-language-of-truth-writing-documentaries/"><u>[Updated] The Language of Truth Writing Documentaries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-secrets-of-srt-creation-from-text-formats-for-2024/"><u>[Updated] Unveiling the Secrets of SRT Creation From Text Formats for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>2024 Approved Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhance-visual-quality-in-your-obs-edits-today/"><u>2024 Approved Enhance Visual Quality in Your OBS Edits Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/chromebooks-premier-capture-solution-for-2024/"><u>Chromebook's Premier Capture Solution for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-defeating-error-code-0x80246007-in-w10w11-os/"><u>Decoding and Defeating Error Code 0X80246007 in W10/W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-file-security-with-powertoys-locksmith-expertise/"><u>Elevating File Security with PowerToys' Locksmith Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-proxy-settings-in-windows-11-os/"><u>Guide to Proxy Settings in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-anomaly-during-team-sessions/"><u>Screen Anomaly During Team Sessions?</u></a></li>
+<li><a href="https://win11.techidaily.com/seeking-lightweight-web-access-browser-ram-consumption-tested-and-rated/"><u>Seeking Lightweight Web Access: Browser RAM Consumption Tested & Rated</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-airpods-pro-gear-and-add-ons-featuring-reviews/"><u>Top-Rated AirPods Pro Gear & Add-Ons - Featuring Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-installing-device-drivers-on-windows-7-solved/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 7 [Solved]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-streaming-screens-using-netflixs-pip-mode-for-2024/"><u>Unveiling Streaming Screens Using Netflix's PIP Mode for 2024</u></a></li>
 </ul></div>
 

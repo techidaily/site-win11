@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MsResource/AppText Error in Win11
-date: 2024-12-04T09:10:56.244Z
-updated: 2024-12-07T05:58:16.002Z
+date: 2024-12-08T18:01:57.855Z
+updated: 2024-12-12T23:45:28.185Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Fix the "ms-resource:Appname/Text" Error in the Start Menu
@@ -62,17 +62,9 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![end start menu experience host task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/end-start-menu-experience-host-task-manager.jpg)
 4. Right-click on each process and **End Task**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In Task Manager, click **Run new task**. On Windows 10 and older versions, click **File** and select **Run new task**.  
 ![run new task open tempstate folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-new-task-open-tempstate-folder-file-explorer.jpg)
 6. In the **Create new task** dialog, type the following path and click the **Browse** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `%localappdata%\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy`
 7. In the File Explorer window, delete the **TempState** folder.
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 9. Type **explorer.exe** and select the **Create this task with administrative privileges** option.
 
  Once done, give your PC another restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Re-Register Your Microsoft Store Apps
 
@@ -96,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![view application folder windows 11 run shell apps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/view-application-folder-windows-11-run-shell-apps-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can view the application directory to view the installed apps. Press **Win + R** to open Run, type **shell:appsfolder**, and click **OK**. It will open the **Applications** folder. Go through the apps to see if you can locate an app named **ms-resource:Appname/Text** or similar to the entry in the Start Menu.
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the Windows Store Apps troubleshooter is missing or didn’t help, try to repair the Microsoft Store App. You can use the built-in repair option to find and fix common issues with the official app store.
 
  To repair the Microsoft Store app:
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 6. Click the **Repair** button, wait for the process to complete, and show a checkmark. If the repair is successful, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reset the Microsoft Store App
@@ -146,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  To reset the Microsoft Store App cache:
 
 ![wsreset.exe command in the Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsreset-exe-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press **Win + R** to open the **Run** dialog.
 2. Type **wsreset.exe** and click **OK**.
@@ -161,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 3. **Perform a reset** – If an in-place upgrade doesn’t help, consider [performing a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). You can perform a complete reset while choosing to keep your files, but all your apps will be removed.
 4. **Clean install** – [Performing a Windows clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) will erase everything on your computer and reinstall Windows 11 from scratch. Make sure to back up important data before attempting a clean install.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing the "ms-resource:Appname/Text" Error in Windows 11
 
  Often this entry in the start menu is a ghost entry from an unsuccessful or leftover installation of a Microsoft app. To remove the entry or restore the app, you can re-register the Microsoft app, remove the affected app package or run the Windows Store Apps Troubleshooter.
@@ -173,29 +173,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>[New] 2024 Approved Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-stream-freedom-on-the-go-download-your-favorite-youtube-tracks-ios/"><u>[New] In 2024, Stream Freedom on the Go Download Your Favorite YouTube Tracks iOS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-enhance-productivity-convert-verbal-input-to-written-text-in-word-for-2024/"><u>[Updated] Enhance Productivity Convert Verbal Input to Written Text in Word for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-tackling-photo-app-errors-in-windows-11/"><u>[Updated] Tackling Photo App Errors in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-n-series-usefulness-and-viability/"><u>Decoding Windows N Series: Usefulness and Viability</u></a></li>
-<li><a href="https://win11.techidaily.com/driving-earnings-with-windows-11-a-microsoft-perspective/"><u>Driving Earnings with Windows 11: A Microsoft Perspective</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204929300-easy-guide-stop-that-constant-cursor-fix-blink-issue-now/"><u>Easy Guide: Stop That Constant Cursor - Fix Blink Issue Now</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-chrome-glitches-a-windows-solution/"><u>Eradicate Chrome Glitches: A Windows Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fix-guide-solving-the-not-enough-ram-for-god-of-war-issue/"><u>Fix Guide: Solving the Not Enough RAM for God of War Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-20c-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark 20C</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-ping-for-peak-performance-on-your-windows-devices/"><u>Leveraging Ping for Peak Performance on Your Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-highlighted-text-windows-pdf-correction-methods/"><u>Mastery Over Highlighted Text: Windows PDF Correction Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-display-of-windows-amdnvidia-boost/"><u>Prevent Display of Windows' AMD/Nvidia Boost</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-sharing-the-leading-shortened-url-services-for-youtubers/"><u>Smart Sharing The Leading Shortened URL Services for Youtubers</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-optimization-9-best-emulators-uncovered/"><u>Steam Deck Optimization: 9 Best Emulators Uncovered</u></a></li>
-<li><a href="https://win11.techidaily.com/the-non-advanced-path-to-disk-replication/"><u>The Non-Advanced Path to Disk Replication</u></a></li>
-<li><a href="https://win11.techidaily.com/the-step-by-step-process-of-steam-achievement-reset/"><u>The Step-by-Step Process of Steam Achievement Reset</u></a></li>
-<li><a href="https://win11.techidaily.com/your-lost-wingman-copilot-in-windows-11-what-now/"><u>Your Lost Wingman (Copilot) in Windows 11, What Now?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/z-edge-z3-plus-review-an-affordable-and-intuitive-dashcam/"><u>Z-Edge Z3 Plus Review: An Affordable and Intuitive Dashcam</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -203,3 +180,23 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>[Updated] In 2024, Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-key-approaches-turning-visual-content-into-music-files/"><u>[Updated] Key Approaches Turning Visual Content Into Music Files</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-meme-master-tracking-jake-pauls-youtube-evolution-for-2024/"><u>[Updated] Meme Master Tracking Jake Paul's YouTube Evolution for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen/"><u>2024 Approved Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-aggregatorhostexe-function-and-security-overview/"><u>Decoding Windows' AggregatorHost.exe: Function & Security Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-no-files-found-error-in-windows-11/"><u>Disabling 'No Files Found' Error in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/eradication-essentials-methods-for-muting-your-fb-ventures/"><u>Eradication Essentials: Methods for Muting Your Fb Ventures</u></a></li>
+<li><a href="https://win11.techidaily.com/journey-to-streamlined-browsing-chrome-on-windows-11/"><u>Journey to Streamlined Browsing: Chrome on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-an-eye-on-your-windows-gatekeeping-credentials-trend/"><u>Keep an Eye on Your Window's Gatekeeping Credentials Trend</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-menu-mastery-vanishing-the-start-button-on-win11/"><u>Masked Menu Mastery: Vanishing the Start Button on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/powerful-portable-pcs-with-a-windows-core/"><u>Powerful Portable PCs with a Windows Core</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors/"><u>Revitalize Your Visuals Expertly Curated List of the Best 10 Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/video-tutorial-mastering-data-security-steps-to-encrypt-and-decrypt-your-macs-hdd/"><u>Video Tutorial: Mastering Data Security – Steps to Encrypt & Decrypt Your Mac's HDD</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-the-battle-against-unresizable-gifs-in-discord-for-windows-11/"><u>Winning the Battle Against Unresizable GIFs in Discord for Windows 11</u></a></li>
+</ul></div>
+

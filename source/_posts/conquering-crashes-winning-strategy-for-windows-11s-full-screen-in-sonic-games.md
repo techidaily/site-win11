@@ -1,7 +1,7 @@
 ---
 title: "Conquering Crashes: Winning Strategy for Windows 11'S Full-Screen in Sonic Games"
-date: 2024-11-29T19:49:01.101Z
-updated: 2024-12-07T00:25:52.384Z
+date: 2024-12-09T05:12:29.292Z
+updated: 2024-12-13T03:30:03.297Z
 tags:
   - windows10
   - windows11
@@ -26,12 +26,16 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sonic Frontiers Crashing When It's Switched to Full-Screen Mode?
 
 ![screenshot of the sonic frontiers graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_graphics_menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sonic Frontiers may exhibit a strange bug where the game doesn't properly utilize your dedicated GPU.
 
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 ![screenshot of sonic frontiers in the windows graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontier_in_graphics_menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, search Sonic Frontiers in the search bar. If the game doesn't appear, you can hit**Browse** to manually locate the game.
 
  Next, click into Sonic Frontiers in the list of games and hit**Options.**
@@ -56,28 +56,28 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent Further Crashes in Sonic Frontiers
 
 ![screenshot of sonic frontiers in amd graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_in_amd_graphics_settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It is good practice to always ensure your GPU drivers are up-to-date, especially when playing new releases.
 
  If you don't know how to check your GPU drivers, be sure to check out[how to update your graphics drivers in Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) —the steps work just as well in Windows 11\. If your GPU drivers are already updated, then consider using your native GPU software to add a profile for Sonic Frontiers.
 
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
 
@@ -100,18 +100,15 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-evolution-of-action-cameras-from-gopro-hero4-to-hero5/"><u>[New] 2024 Approved Evolution of Action Cameras From GoPro (Hero4 to Hero5)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-rankings-secrets-enhancing-video-visibility/"><u>[New] YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites/"><u>[Updated] A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>2024 Approved 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-your-path-to-youtube-affiliate-status-with-10k-vistas-goal/"><u>Charting Your Path to YouTube Affiliate Status with 10K Vistas Goal</u></a></li>
-<li><a href="https://win11.techidaily.com/conceal-or-reveal-the-taskbars-time-display/"><u>Conceal or Reveal the Taskbar's Time Display</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/implementing-the-virtual-screen-grid-in-google-meet/"><u>Implementing the Virtual Screen Grid in Google Meet</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-bring-back-the-light-solutions-for-gaming-screens-turned-black-with-obs/"><u>In 2024, Bring Back the Light Solutions for Gaming Screens Turned Black with OBS</u></a></li>
-<li><a href="https://win11.techidaily.com/quickening-download-pace-tips-for-steam-and-windows-integration/"><u>Quickening Download Pace: Tips for Steam and Windows Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-win-11-screen-with-symbol-restoration/"><u>Reclaim Your Win 11 Screen with Symbol Restoration</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/saturation-savvy-3-effective-methods-for-photocolor-evolution-for-2024/"><u>Saturation Savvy 3 Effective Methods for PhotoColor Evolution for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-starter-strategy-for-original-diablo/"><u>The Ultimate Starter Strategy for Original Diablo</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-7-tricks-for-resolving-obs-studios-disconnect-issue-on-windows-pcs/"><u>Top 7 Tricks for Resolving OBS Studio's Disconnect Issue on Windows PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-spectacular-10-royale-skirmishes/"><u>[New] 2024 Approved Spectacular 10 Royale Skirmishes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-crafting-perfect-first-impressions-on-any-device-for-2024/"><u>[Updated] Crafting Perfect First Impressions on Any Device for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/engage-with-panache-the-best-20-creative-tiktok-captions-to-try-for-2024/"><u>Engage with Panache The Best 20 Creative TikTok Captions to Try for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/epochs-in-windows-a-masterclass-guide/"><u>Epochs in Windows: A Masterclass Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-distinctions-of-artificial-intelligence-hardware/"><u>Exploring the Distinctions of Artificial Intelligence Hardware</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-can-you-restore-a-single-file-from-a-backup-image/"><u>How Can You Restore a Single File From a Backup Image?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-at-a-click-top-tips-for-win11-mouse-settings/"><u>Mastery at a Click: Top Tips for Win11 Mouse Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-using-app-guard-for-cam-plus-mic-on-edge/"><u>Securely Using App Guard for Cam + Mic on Edge</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/willful-m98-review/"><u>Willful M98 Review</u></a></li>
 </ul></div>
 

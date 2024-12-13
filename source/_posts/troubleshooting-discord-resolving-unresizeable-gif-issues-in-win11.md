@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Discord: Resolving Unresizeable GIF Issues in Win11"
-date: 2024-09-05T08:30:14.435Z
-updated: 2024-09-06T08:30:14.435Z
+date: 2024-12-12T08:21:04.525Z
+updated: 2024-12-13T07:18:39.979Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Optimize the GIF
 
  On Discord, file uploads are limited to a maximum of 8 MB. However, GIF emotes must not be more than 256 KB and should have dimensions of 128x128 pixels or less. If you try to upload a GIF that surpasses these size restrictions, you will encounter the "cannot resize GIF" error.
@@ -45,33 +33,13 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
 1. Switch to the **Resize** tab.
@@ -80,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Resize image option in Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/resize-image.jpg)
 4. Click the **Save** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -94,20 +56,12 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 2. Click the **Log Out** option on the left sidebar.  
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
 3. Enter your credentials and click the **Log In** button.
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, try to upload the GIF and check if you still face the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clear the Discord Cache Data
 
@@ -115,29 +69,33 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,3 +103,23 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-recover-eyes-only-snaps-a-step-by-step-guide/"><u>[Updated] 2024 Approved How to Recover Eyes-Only Snaps A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-90-lite-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor 90 Lite?</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-rectify-windows-defender-engine-outage/"><u>Effective Strategies to Rectify Windows Defender Engine Outage</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-techniques-to-overcome-directdraw-errors-on-win1011/"><u>Efficient Techniques to Overcome DirectDraw Errors on WIN10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-frozen-epic-launcher-on-your-windows-11-machine/"><u>Eliminate Frozen Epic Launcher on Your Windows 11 Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-edge-to-frontline-quick-fixes-for-lost-off-screen-windows/"><u>From Edge to Frontline: Quick Fixes for Lost Off-Screen Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-flat-panes-to-360-viewing-a-vr-comparison-for-2024/"><u>From Flat Panes to 360 Viewing A VR Comparison for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-disk-needs-format-message-in-windows/"><u>How to Clear Disk Needs Format Message in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-crafting-top-instagram-videos/"><u>In 2024, Step-by-Step Crafting Top Instagram Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 13 mini?</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-strategies-solve-clipchamp-issues-on-win11-platforms/"><u>Masterful Strategies: Solve ClipChamp Issues on Win11 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-your-windows-1011-apps-with-restart-techniques/"><u>Revamping Your Windows 10/11 Apps with Restart Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-alternatives-to-the-windows-snipping-tool/"><u>The 5 Best Alternatives to the Windows Snipping Tool</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-microsoft-surface-keyboard-examined-for-optimal-ergonomics-and-performance/"><u>Top Rated Microsoft Surface Keyboard Examined for Optimal Ergonomics and Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-stunts-and-tricks-at-snowboarding-x-olympics/"><u>Top Stunts and Tricks at Snowboarding X-Olympics</u></a></li>
+</ul></div>
+

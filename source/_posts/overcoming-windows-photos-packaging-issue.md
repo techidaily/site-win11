@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Photos Packaging Issue
-date: 2024-12-01T23:16:38.634Z
-updated: 2024-12-07T04:28:58.137Z
+date: 2024-12-07T06:52:10.888Z
+updated: 2024-12-13T04:40:15.519Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Windows Store Apps Troubleshooter
@@ -40,14 +40,10 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 ![The troubleshooters in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-troubleshooters-in-settings.jpg)
 5. Then select to apply fixes suggested by the Windows Store App troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-store-apps-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Deployment Image and System File Checker Tools
 
@@ -91,21 +91,21 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reset Windows
 
  If you’ve tried all other resolutions suggested here, there could be a deeper Windows issue causing the “Package could not be registered” Photos error. Then a system reset could be needed to remedy that deeper issue. Resetting Windows will refresh the platform’s components and restore it to a default state.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -126,18 +126,21 @@ thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-fast-track-turning-zip-into-professional-quality-srt-files/"><u>[New] Fast Track Turning ZIP Into Professional-Quality Srt Files</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-sneaky-soundtrack-watching-youtube-unobtrusively/"><u>[Updated] Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ghostly-replay-instructional-guide/"><u>2024 Approved Ghostly Replay Instructional Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-mouse-indicator-style-on-winos/"><u>Customize Your Mouse Indicator Style on WinOS</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-meaning-of-office-error-0x80041015/"><u>Decoding the Meaning of Office Error 0X80041015</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-t2x-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo T2x 5GFRP Lock</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/keeping-your-views-private-top-5-insta-tools-for-2024/"><u>Keeping Your Views Private - Top 5 Insta Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-unseen-effective-tactics-for-off-screen-windows-in-win10win11/"><u>Reviving the Unseen: Effective Tactics for Off-Screen Windows in Win10/Win11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209826515-9780008366407-sagittarius-2021-your-personal-horoscope/"><u>Sagittarius 2021: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-media-non-playability-issue/"><u>Tackling Windows Media Non-Playability Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-automatic-windows-store-openings/"><u>Troubleshooting Automatic Windows Store Openings</u></a></li>
-<li><a href="https://common-error.techidaily.com/wind-down-your-windows-11-without-disturbances/"><u>Wind Down Your Windows 11 Without Disturbances</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ut-beyond-youtube-unveiling-the-top-5-video-editor-options/"><u>[New] Cut Beyond Youtube Unveiling the Top 5 Video Editor Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-detective-work-cracking-the-code-to-live-streams/"><u>Digital Detective Work Cracking the Code to Live Streams</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-worlds-in-the-vintage-looked-g9x2-camera/"><u>Exploring Worlds in the Vintage-Looked G9X2 Camera</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-overclocking-for-enjoyable-power-efficient-gaming/"><u>Managing Overclocking for Enjoyable, Power-Efficient Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-data-exchange-the-5-best-windows-programs/"><u>Mastering Secure Data Exchange: The 5 Best Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-print-problem-fixes-on-your-windows-11-pc/"><u>Navigate Through Print Problem Fixes on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-network-access-denial-by-correcting-keys-in-windows-11/"><u>Overcoming Network Access Denial by Correcting Keys in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-revealing-the-invisible-registry-editor/"><u>Techniques for Revealing the Invisible 'Registry Editor'</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/205692-9780743442589-the-afterlife-experiments/"><u>The Afterlife Experiments | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-x3daudiodll-files-and-restoring-functionality/"><u>The Ultimate Guide to Correcting Missing X3DAudio.dll Files and Restoring Functionality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/icks-the-best-8-free-video-editors-online/"><u>Top Picks The Best 8 Free Video Editors Online</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-explorer-not-recognizing-sd-remedy-tips/"><u>Windows Explorer Not Recognizing SD: Remedy Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-in-the-world-of-microcomputers/"><u>Windows in the World of Microcomputers</u></a></li>
 </ul></div>
 

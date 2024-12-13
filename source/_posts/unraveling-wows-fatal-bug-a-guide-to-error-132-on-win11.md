@@ -1,7 +1,7 @@
 ---
 title: "Unraveling WoW’s Fatal Bug: A Guide to Error #132 on Win11"
-date: 2024-11-30T05:44:07.222Z
-updated: 2024-12-07T10:24:15.188Z
+date: 2024-12-10T05:05:11.522Z
+updated: 2024-12-13T02:48:17.968Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Game DVR for Recording Clips
@@ -38,10 +38,14 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 3. Turn Off the **Record in the background while I’m playing a game** option.  
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable DirectX Legacy Mode
 
  Blizzard support recommends users enable DirectX legacy mode for fixing error 132\. You can set the game to start with legacy DirectX like this:
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
@@ -93,35 +93,19 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
  Applying all the error 132 troubleshooting methods here will likely fix World of Warcraft’s persistent fatal crashing. Error 132 isn’t always an easy issue to resolve, and you may have to try a few of those potential resolutions to get the WoW game working on Windows 11/10\. With error 132 fixed, you can enjoy all the thrills of World of Warcraft again.
 
  As a result, players can’t play World of Warcraft because of error 132\. It either doesn’t start at all or crashes with regularity. This is how you can resolve World of Warcraft’s fatal exception error 132 in Windows 11/10\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gear-up-essential-asmr-microphones-to-consider/"><u>[New] 2024 Approved Gear Up Essential ASMR Microphones to Consider</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>2024 Approved Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-out-clutter-celebrate-pure-win11/"><u>Clear Out Clutter: Celebrate Pure Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-loadlibrary-failure-error-87/"><u>Correcting LoadLibrary Failure Error 87</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-regain-full-audio-functionality-on-windows-voice-and-music-only-speaker/"><u>How to Regain Full Audio Functionality on Windows: Voice & Music Only Speaker</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-a-machine-with-minds-essential-for-digital-enthusiasts-unveiling-the-reality/"><u>Is a Machine with Minds Essential for Digital Enthusiasts? Unveiling the Reality!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-facebook-searches-unveil-key-strategies-to-find-anyone-fast/"><u>Mastering Facebook Searches: Unveil Key Strategies to Find Anyone Fast</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/netflix-streaming-mac/"><u>Netflix Streaming 終了：Macユーザーのためのダウンロード方法をご紹介</u></a></li>
-<li><a href="https://win11.techidaily.com/the-blueprint-for-rectifying-error-code-31-on-your-pcs-network/"><u>The Blueprint for Rectifying Error Code 31 on Your PC's Network</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-gear-and-software-updates-toms-tech-edge/"><u>The Ultimate Resource for Gear and Software Updates - Tom's Tech Edge</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-a-shining-windows-11-title-bar/"><u>Tips for a Shining Windows 11 Title Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-definitive-definitions-made-simple/"><u>Win11 Definitive Definitions Made Simple</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +114,21 @@ thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] 2024 Approved Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-6-minecraft-oriental-house-ideas/"><u>[New] 2024 Approved Top 6 Minecraft Oriental House Ideas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-download-powerhouse-top-free-quick-vids-extraction-for-pinterest-for-2024/"><u>[Updated] Download Powerhouse Top Free, Quick Vids Extraction for Pinterest for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>[Updated] In 2024, Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>2024 Approved Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-system-health-hardware-checks-with-live-tiles/"><u>Empowering System Health: Hardware Checks with Live Tiles</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-auto-updates-for-windows-and-swap-amd-gpu-drivers/"><u>Enable Auto-Updates for Windows & Swap AMD GPU Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-telnet-three-steps-for-win-1011/"><u>Enabling Telnet: Three Steps for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oppo-a58-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Oppo A58 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-reaching-protected-windowsapps-location/"><u>Masterclass on Reaching Protected WindowsApps Location</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-making-mouseclicklock-easier-in-windows/"><u>Masterclass: Making MouseClickLock Easier in Windows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/revive-your-windows-experience-comprehve-detailed-instructions-for-a-successful-system-restore-by-yl-software-professionals/"><u>Revive Your Windows Experience: Comprehve, Detailed Instructions for a Successful System Restore by YL Software Professionals</u></a></li>
+</ul></div>
+

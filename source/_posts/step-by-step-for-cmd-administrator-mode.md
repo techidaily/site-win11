@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step for CMD Administrator Mode
-date: 2024-11-29T19:50:57.238Z
-updated: 2024-12-06T19:43:58.627Z
+date: 2024-12-10T18:39:43.253Z
+updated: 2024-12-12T16:54:25.780Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![Run Command Prompt Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Run-Command.jpg)
 3. This will open Command Prompt with administrative privileges. From here, you can enter any commands that you need to run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need to close Command Prompt, simply type “exit” and press Enter on your keyboard. This will close the program and return you to the desktop.
 
 ## 3\. How to Run Command Prompt as an Administrator via the Quick Access Menu
@@ -64,10 +60,14 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 3. If you see a User Account Control message, click **Yes**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, press **Ctrl + Shift + 2** to bring up the elevated Command Prompt page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Run Command Prompt as an Administrator From the Start Menu
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 5. If UAC appears on the screen, click **Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 4. Click **OK** to launch the command prompt as an administrator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. How to Run Command Prompt as an Administrator Using the Control Panel
@@ -111,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
  There is an address bar in the File Explorer window that can be used to open Command Prompt as an administrator. In order to do this, follow these steps:
@@ -122,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
  Creating a dedicated shortcut for an elevated Command Prompt is a smart move if you often run commands requiring administrative privileges. To get started, follow these steps:
@@ -132,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 4. Right-click on the search result, and select **Show more options > Create shortcut**.  
 ![Create Desktop Shortcut to Open Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-to-Open-Command-Prompt.jpg)
 5. Windows will ask for your confirmation before creating it, so click **Yes**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. There will be a shortcut on your computer's desktop. To open the command prompt with admin access, right-click on it and select **Run as administrator**.
 
@@ -155,15 +159,11 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 3. Now go to the taskbar, and right-click on the Command Prompt icon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This way you will never have to worry about finding it again.
 
@@ -179,16 +179,17 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 5. In the Shortcut tab, go to the **Shortcut key** field.  
 ![How to Run Command Prompt as an Administrator Using a Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/how-to-run-command-prompt-as-an-administrator-using-a-keyboard-shortcut.jpg)
 6. Press a key combination of your choice and click **Advanced**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Make sure to check the **Run as administrator** box and click **OK**.
 8. Finally, click **Apply** \> **OK**, and your shortcut will be ready to use.
 
  Just press the key combination you set to open the Command Prompt as an administrator. If you get a prompt asking to confirm the operation, click **Yes** to continue.
 
  This is an easy and fast way of opening the Command Prompt as an administrator without using the search box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Run Elevated Command Prompts Like a Pro
 
@@ -198,27 +199,6 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
  Some commands, however, require administrator-level privileges to run properly. As such, here are some quick and easy ways to open Command Prompt as an administrator in Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-how-to-integrate-siri-on-tiktok-a-comprehensive-guidebook-for-2024/"><u>[New] How to Integrate Siri on TikTok - A Comprehensive Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-launching-a-youtube-channel-key-pieces-of-equipment/"><u>[New] In 2024, Launching a YouTube Channel Key Pieces of Equipment</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[New] Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-the-windows-10-update-failure-error-0x800705b4-explained-and-solved/"><u>Effective Strategies to Overcome the Windows 10 Update Failure: Error 0X800705b4 Explained and Solved</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209845677-9781936470495-gratitude/"><u>Gratitude | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s24plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S24+</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reverse-invalid-device-designation-in-windows-11/"><u>How to Reverse Invalid Device Designation in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-find-x6-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Find X6 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/lower-lag-higher-frames-optimizing-your-roblox-experience/"><u>Lower Lag, Higher Frames: Optimizing Your Roblox Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-after-print-management-failure-on-windows/"><u>Restoring Functionality After Print Management Failure on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-system-operation-wins-top-diagnostic-apps/"><u>Seamless System Operation: Win's Top Diagnostic Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/skip-power-saving-customize-usb-suspend-settings/"><u>Skip Power Saving: Customize USB Suspend Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-internal-error-rdp-issue/"><u>Troubleshooting Windows 11'S Internal Error RDP Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-resolving-windows-error-30005-issue/"><u>Understanding and Resolving Windows Error 30005 Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-success-in-the-world-of-digital-marketing-for-2024/"><u>Unlocking Success in the World of Digital Marketing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-to-full-os-install-windows-steam-deck/"><u>Upgrading to Full OS: Install Windows Steam Deck</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -226,3 +206,22 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-glow-innovations-outshining-videos-through-design/"><u>[New] 2024 Approved Glow Innovations Outshining Videos Through Design</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-vault-for-internet-streams-a-recording-blueprint/"><u>[New] In 2024, Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-enterprise-account-the-complete-guidebook/"><u>[New] In 2024, Instagram Enterprise Account The Complete Guidebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-process-for-igtv-on-instagram-stories/"><u>[Updated] 2024 Approved Step-by-Step Process for IGTV on Instagram Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-transformative-video-editing-techniques-for-viral-tiktok-creations-for-2024/"><u>[Updated] Transformative Video Editing Techniques for Viral TikTok Creations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-framework-for-adding-media-to-youtube-compilations/"><u>2024 Approved The Essential Framework for Adding Media to YouTube Compilations</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-transition-positioning-windows-11-icons-effectively/"><u>Effortless Transition: Positioning Windows 11 Icons Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/film-lovers-ultimate-selection-of-stop-motion-works-for-2024/"><u>Film Lovers' Ultimate Selection of Stop-Motion Works for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-unresponsive-touchpad-functionality-on-windows/"><u>Improving Unresponsive Touchpad Functionality on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>In 2024, Efficient Tools Simplifying the Task of Feedback Erasure</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-network-diagnostics-mastering-the-use-of-netstat-in-win11/"><u>Leveraging Network Diagnostics: Mastering the Use of Netstat in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-rectifying-non-operational-tab-keys/"><u>Methods for Rectifying Non-Operational Tab Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-microphone-settings-in-windows-11/"><u>Navigating Microphone Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-second-monitor-not-detected-5-fixes/"><u>Windows 11 Second Monitor Not Detected: 5 Fixes</u></a></li>
+</ul></div>
+

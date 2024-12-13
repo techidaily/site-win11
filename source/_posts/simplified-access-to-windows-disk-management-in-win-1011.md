@@ -1,7 +1,7 @@
 ---
 title: Simplified Access to Windows Disk Management in Win 10/11
-date: 2024-12-05T07:16:52.376Z
-updated: 2024-12-07T11:28:09.099Z
+date: 2024-12-08T13:00:29.164Z
+updated: 2024-12-13T05:08:14.901Z
 tags:
   - windows10
   - windows11
@@ -29,16 +29,16 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 * [Use the Run Dialog to Open Disk Management](#use-the-run-dialog-to-open-disk-management)
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
 * Windows offers many ways to open Disk Management. While the search tool makes finding it easy, other methods have their own advantages.
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Windows Disk Management?
 
@@ -49,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
@@ -114,29 +114,6 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-up-a-complete-evaluation-of-dji-phantom-4/"><u>[New] From Ground Up A Complete Evaluation of DJI Phantom 4</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-alternative-high-quality-gaming-video-recording-solutions/"><u>2024 Approved Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-13c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi 13C Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-ps2-games-simulation-for-ios-users/"><u>Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-the-top-12-tycoon-games-for-captivating-players/"><u>Discover the Top 12 Tycoon Games for Captivating Players</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-file-management-from-docx-to-pdf-in-windows-11/"><u>Enhancing File Management: From DOCX to PDF in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wi-fi-discovery-capabilities-on-microsofts-new-system/"><u>Enhancing Wi-Fi Discovery Capabilities on Microsoft’s New System</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-acquainted-with-microsofts-family-safety/"><u>Getting Acquainted with Microsoft's Family Safety</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-a2plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi A2+ to New Android? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings/"><u>Invisible Voices Techniques for Silent Screen Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-system-for-zero-paperwork-windows-trash-auto-empty/"><u>Optimize Your System for Zero Paperwork - Windows Trash Auto-Empty</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-file-explorer-launch-with-onedrive-integration/"><u>Optimizing File Explorer Launch with OneDrive Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/practicality-and-style-combined-asus-vivobook-s-15-insight/"><u>Practicality & Style Combined - ASUS Vivobook S 15 Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/refreshing-your-system-catroot-and-distribution-on-ws11/"><u>Refreshing Your System: Catroot and Distribution on WS11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-synapse-errors-a-quick-reference-for-w10-and-w11/"><u>Tackling Synapse Errors: A Quick Reference for W10 & W11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-fcpx-troubleshooting-resource-2023-edition/"><u>The Ultimate FCPX Troubleshooting Resource 2023 Edition</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nokia-g310-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nokia G310</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,3 +121,21 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>[New] How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/itunesiphonepc/"><u>揭秘！如何不用iTunes快速将iPhone照片传输到PC上</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-22-free-video-compression-tools-for-pc-and-mac-top-picks/"><u>Best 22 Free Video Compression Tools for PC & Mac - Top Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-w11s-writing-space-using-intelligence/"><u>Elevate W11's Writing Space Using Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-app-locations-remain-constant-in-windows/"><u>Ensuring App Locations Remain Constant in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-dodge-world-of-warcraft-crash-tackle-fatal-132/"><u>How to Dodge World of Warcraft Crash: Tackle Fatal #132</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002983052-how-to-stop-the-aggravating-screen-flicker-on-your-device-once-and-for-all/"><u>How to Stop the Aggravating Screen Flicker on Your Device Once and For All</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>In 2024, 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-screen-stutter-on-windows-11-systems/"><u>Resolving Screen Stutter on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-discord-setup-error-on-windows-11/"><u>Steps to Overcome Discord Setup Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-studio-software-adobe-ps-not-opening-on-windows/"><u>Unlocking Studio Software: Adobe PS Not Opening on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/web-based-video-teaser-creators-for-2024/"><u>Web-Based Video Teaser Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-launch-calculator-quickly/"><u>Windows 11: Launch Calculator Quickly</u></a></li>
+</ul></div>
+

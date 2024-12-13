@@ -1,7 +1,7 @@
 ---
 title: Don't Let File Explorer Crashes Hamper Win11 Productivity
-date: 2024-12-05T06:45:12.366Z
-updated: 2024-12-07T00:21:51.516Z
+date: 2024-12-11T22:35:28.214Z
+updated: 2024-12-13T02:23:39.475Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Clear File Explorer Cache
 
  File Explorer, like any other program, accumulates cache data to improve its performance. However, when this data becomes outdated or corrupt, it can lead to a variety of issues, including the one discussed here. You can try getting rid of the existing File Explorer cache to see if that helps. To do so, use these steps:
@@ -46,14 +42,6 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Configure File Explorer Options
 
@@ -65,12 +53,20 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Launch Folder Windows in a Separate Process
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run the Windows Memory Diagnostic Tool
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  Press**Win + R** to open the Run dialog box. Type**mdsched** in the box and press**Enter** . Click**Restart now and check for problems** in the Windows Memory Diagnostic window.
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
@@ -134,21 +134,14 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rom-unknown-to-famous-boosting-video-views-on-youtube-step-by-step-for-2024/"><u>[New] From Unknown to Famous Boosting Video Views on YouTube Step-by-Step for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-missing-link-prime-free-speech-to-text-on-macos/"><u>[New] In 2024, Missing Link Prime Free Speech to Text on macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-guide-to-premium-gopro-accessories/"><u>2024 Approved Beginner’s Guide to Premium GoPro Accessories</u></a></li>
-<li><a href="https://win11.techidaily.com/essentials-for-viewing-and-removing-windows-history-data/"><u>Essentials for Viewing & Removing Windows History Data</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube/"><u>In 2024, Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/instantly-boost-youtube-performance-master-render-and-upload/"><u>Instantly Boost YouTube Performance - Master Render and Upload</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-safely-how-to-append-trusted-domains-on-windows-11/"><u>Navigate Safely: How to Append Trusted Domains on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-optional-components-in-windows-11-a-step-by-step-approach/"><u>Optimizing Optional Components in Windows 11: A Step-by-Step Approach</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/pause-autoplay-on-youtube-suggested-videos/"><u>Pause Autoplay on YouTube Suggested Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-start-integrating-airpods-with-windows-computers/"><u>Quick Start: Integrating AirPods With Windows Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reclaim-lost-files-in-windows-environment/"><u>Strategies to Reclaim Lost Files in Windows Environment</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/watching-in-full-detail-a-comprehensive-guide-to-streaming-and-enjoying-4k-3d-films-on-your-ultra-hd-television/"><u>Watching in Full Detail: A Comprehensive Guide to Streaming and Enjoying 4K 3D Films on Your Ultra HD Television</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fix-guide-override-firewallantivirus-prohibiting-chrome-access/"><u>Win Fix Guide: Override Firewall/Antivirus Prohibiting Chrome Access</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-roi-with-effective-animated-social-media-campaigns/"><u>[New] 2024 Approved Mastering ROI with Effective Animated Social Media Campaigns</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-and-performance-of-the-garmin-forerunner-245-watch/"><u>Exploring the Features and Performance of the Garmin Forerunner 245 Watch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/hidden-glances-instagram-story-viewing-without-revealing-personal-details-pc-android-iphone-for-2024/"><u>Hidden Glances Instagram Story Viewing without Revealing Personal Details [PC, Android, iPhone] for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/is-file-explorer-unstable-in-windows-11-discover-solutions/"><u>Is File Explorer Unstable in Windows 11? Discover Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-cell-style-formatting-a-comprehensive-guide-to-customizing-your-excel-spreadsheets/"><u>Mastering Cell Style Formatting: A Comprehensive Guide to Customizing Your Excel Spreadsheets</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-windows-automatic-scroll-habits/"><u>Rectify Windows' Automatic Scroll Habits</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-overcoming-disk-read-errors/"><u>Steps for Overcoming Disk Read Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-program-launches-in-modern-windows/"><u>Streamlined Program Launches in Modern Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11"
-date: 2024-09-05T08:27:01.707Z
-updated: 2024-09-06T08:27:01.707Z
+date: 2024-12-08T10:36:39.030Z
+updated: 2024-12-13T09:41:06.069Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: MS Edge Navigation Skills,Edge Gestures Mastery,Windows 11 Edge Use,Le
 thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7dfd3b684b7339ff82c163bd28.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Art of Navigation: Learn to Use Gestures in MS Edge for Windows 11
 
  Mouse gestures allow you to control your browser with simple mouse movements. You can use them to quickly open new tabs, refresh web pages, close opened tabs, and much more.
@@ -33,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Mouse Gestures in Microsoft Edge
 
  Adding mouse gestures to Microsoft Edge is a simple process. You just need to [ensure you have the latest Edge update installed](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) on your computer.
@@ -49,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 ![Enable Mouse Gesture option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-mouse-gesture.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's about it. The mouse gestures feature is now enabled in Edge.
 
  You can also customize mouse gesture settings. To do this, select the **Configure Mouse Gestures** option and set the action of each gesture. Remember that [Windows 11 comes with its own touchpad gestures](https://www.makeuseof.com/windows-11-touchpad-gesture-guide/), so if you're on a laptop, make sure the two don't overlap.
@@ -63,48 +47,28 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
 ![Right option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/right-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The mouse gesture feature has two other options: **Show Mouse Track** and **Show Action Hint**. The first option shows the path of your mouse movement, and the second option provides visual cues for gesture-based actions.
 
 ![Show Mouse Track option in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/show-mouse-track.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use the **Reset all gestures** option to restore all the gestures to their default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Quickly Navigate Between Pages Using Mouse Gestures on Edge for Windows 11
 
  The mouse gesture feature in Edge makes browsing the web more fluid and efficient. You can quickly enable this feature using the above steps and perform various browser actions using simple mouse movements.
 
  Microsoft Edge comes with a built-in mouse gesture feature; however, it is disabled by default. This article will show how to enable mouse gestures in Microsoft Edge on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,3 +76,22 @@ thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7df
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigate-through-settings-enabledisable-video-comments/"><u>[New] 2024 Approved Navigate Through Settings Enable/Disable Video Comments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-instant-record-and-commentary-assistive-software-for-2024/"><u>[New] Instant Record & Commentary Assistive Software for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unbeatable-deals-discover-the-best-free-desktop-recorders-for-2024/"><u>[New] Unbeatable Deals Discover the Best Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-windows-photo-inspector-fast-edition/"><u>[Updated] Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-discord-use-cutting-down-cpu-overload-with-expert-advice/"><u>Efficient Discord Use: Cutting Down CPU Overload with Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-warhammer-gaming-on-windows-eradicate-latency-problems/"><u>Elevate Warhammer Gaming on Windows - Eradicate Latency Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-epic-games-login-with-ease-on-windows-pcs/"><u>Enabling Epic Games Login with Ease on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011s-error-code-0x8007045d/"><u>Fixing Windows 10/11'S Error Code: 0X8007045D</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-xiaomi-redmi-a2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi Redmi A2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-to-managing-user-groups-on-win1110-home-editions/"><u>Stepwise Guide to Managing User Groups on WIN11/10 Home Editions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-highly-rated-fire-pits-in-2n2-a-comprehensive-review-by-zdnet/"><u>Top 5 Highly Rated Fire Pits in 2N2: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-list-for-pen-tablet-users-on-windows-os/"><u>Ultimate List for Pen Tablet Users on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-bsod-interrupt-fix-a-step-by-step-guide/"><u>Win11's BSOD Interrupt Fix: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

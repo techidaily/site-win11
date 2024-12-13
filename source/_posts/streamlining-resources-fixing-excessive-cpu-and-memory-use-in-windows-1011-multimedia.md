@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Resources: Fixing Excessive CPU and Memory Use in Windows 10/11 Multimedia"
-date: 2024-12-06T05:43:39.578Z
-updated: 2024-12-06T17:27:55.776Z
+date: 2024-12-10T19:11:13.811Z
+updated: 2024-12-13T06:27:43.814Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
@@ -44,7 +44,7 @@ To install a Windows 11 update:
  You can also learn how to[manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to[Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn Off News and Interests
@@ -62,26 +62,18 @@ To install a Windows 11 update:
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disable News and Interests on Windows 11
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
  The easiest way to disable Widgets is from the Taskbar settings. If that does not work or if your Windows 11 isn't activated, you can use Registry Editor to disable the Widgets icon from the taskbar.
 
  If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
@@ -99,7 +91,15 @@ To install a Windows 11 update:
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -113,14 +113,15 @@ To disable the news feed feature using Windows Registry:
 2. Type**regedit** and click**OK** to open**Registry Editor** .  
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
 ![registry editor new key Windows new DWORd value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Next, right-click the**Windows Feeds** key and select**New > DWORD (32-bit) Value** .
 2. Rename the new value as**EnableFeeds** .
@@ -161,17 +162,16 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-exploring-jujutsu-kaisen-through-creative-tiktok-content/"><u>[New] Exploring Jujutsu Kaisen Through Creative TikTok Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/idiculous-rhythms-satirical-song-stories/"><u>[New] Ridiculous Rhythms Satirical Song Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>[Updated] Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
-<li><a href="https://win-data.techidaily.com/3windows-vistawindows-11/"><u>3効果的な手順で、Windows VistaのデータをWindows 11にスムーズ移行しませんか?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-competitors-how-recuva-leads-the-charge-in-data-rescue-tools/"><u>Comparing Competitors: How Recuva Leads the Charge in Data Rescue Tools</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convertidor-en-linea-gratuito-caf-a-formatos-m4amp3-por-movavi-sin-coste-alguno/"><u>Convertidor en Línea Gratuito CAF a Formatos M4A/MP3 Por Movavi Sin Coste Alguno</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-future-artificial-intelligence-for-windows-enthusiasts/"><u>Navigating the Future: Artificial Intelligence for Windows Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-system-restriction-for-hidden-software/"><u>Overcoming System Restriction for Hidden Software</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microsoft-update-problems-with-error-0x800736cc/"><u>Resolving Microsoft Update Problems with Error 0X800736CC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nubia-red-magic-9-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nubia Red Magic 9 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-windows-11s-safety-mode-graphics/"><u>Transforming Windows 11'S Safety Mode Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-systems-potential-top-wintools-guide/"><u>Unlock Your System's Potential: Top WinTools Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mics-on-mission-find-the-best-for-your-youtube-channels-vision-and-voice/"><u>[New] 2024 Approved Mics on Mission Find the Best for Your YouTube Channel’s Vision & Voice</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-audio-to-text-converter-for-videos/"><u>[New] Audio-to-Text Converter for Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-user-authentication-w11-from-a-domain-perspective/"><u>Controlling User Authentication: W11 From a Domain Perspective</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/dazzling-billie-eilish-visuals-for-your-pc-images-and-backdrops-from-yl-softwares-creation/"><u>Dazzling Billie Eilish Visuals for Your PC: Images and Backdrops From YL Software's Creation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-twelve-souths-compact-and-stable-compasspro-gadget/"><u>Expert Review of Twelve South's Compact and Stable CompassPro Gadget</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-productivity-filter-mastery-and-style-upgrade-in-windows-11s-task-manager/"><u>Maximizing Productivity: Filter Mastery & Style Upgrade in Windows 11'S Task Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-approach-augmenting-virtual-memory-on-windows-11/"><u>Step-by-Step Approach: Augmenting Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-audio-workflow-win-five-free-editors/"><u>Streamline Audio Workflow: Win Five Free Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-visual-experience-with-in-built-color-tuning-win11/"><u>Streamline Visual Experience with In-Built Color Tuning (Win11)</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactile-gaming-finding-the-perfect-mouse-sensitivity/"><u>Tactile Gaming: Finding the Perfect Mouse Sensitivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-elden-rings-cooperative-mode-fails/"><u>Troubleshooting Guide: When Elden Ring's Cooperative Mode Fails</u></a></li>
 </ul></div>
 

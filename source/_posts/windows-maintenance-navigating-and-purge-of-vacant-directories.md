@@ -1,7 +1,7 @@
 ---
 title: "Windows Maintenance: Navigating & Purge of Vacant Directories"
-date: 2024-12-06T07:45:58.135Z
-updated: 2024-12-07T03:44:49.784Z
+date: 2024-12-11T22:31:05.305Z
+updated: 2024-12-13T03:27:41.289Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting the Foundation to Delete Empty Folders in Windows
@@ -44,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 3. Go to the**View** tab in the**Folder** **Options** window and check the box for**Show hidden files, folders, and drives** .  
 ![Checking the Circle for Show Hidden Files Folders and Drives in Folder Options Window of File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-checking-the-circle-for-show-hidden-files-folders-and-drives-in-folder-options-window-of-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've signed in as an administrator and revealed the hidden folders, it's time to delete the empty folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find and Delete Empty Folders Using Windows PowerShell
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
  Find out[how to open the Command Prompt and PowerShell utility in other ways](https://www.makeuseof.com/windows-open-command-prompt-powershell/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Enter the following command in the PowerShell application after adding the path to the target folder and hit**Enter** :  
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 5. Look over the list of empty folders PowerShell displays and determine whether they are safe to delete. When you are sure you want to delete these empty folders, enter the following command after adding the target folder path at its respective location:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `(gci "folderpath" -r | ? {$_.PSIsContainer -eq $True}) | ?{$_.GetFileSystemInfos().Count -eq 0} | remove-item`  
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 4. Once the application has been installed, run it.
 5. Check the boxes for all drives or folders you want to scan (except the one where your operating system is installed).  
 ![Checking the Boxes for Drives or Folders to Scan in the Empty Folder Cleaner Software on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/8-checking-the-boxes-for-drives-or-folders-to-scan-in-the-empty-folder-cleaner-software-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. When you have selected the drives and folders you want to scan for empty folders, click on the**Scan** button in the top-left corner.  
 ![Viewing the Empty Files and Folders Found After Scanning the Selected Folders in Empty Folder Cleaner Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/9-viewing-the-empty-files-and-folders-found-after-scanning-the-selected-folders-in-empty-folder-cleaner-software.jpg)
@@ -136,17 +136,15 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-why-magix-video-pro-x-is-a-game-changer/"><u>[New] 2024 Approved Why Magix Video Pro X Is a Game-Changer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-picks-perfect-mics-for-creator-pros/"><u>[New] Top Picks Perfect Mics for Creator Pros</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-top-quality-hd-screen-capture-tools/"><u>[Updated] Ultimate Top-Quality HD Screen Capture Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/dismantling-administrator-barriers-on-windows-defense-alerts/"><u>Dismantling Administrator Barriers on Windows Defense Alerts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2023 Found a Problem with One or more Formula | Stellar</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-uncrash-the-division-(imsep)4-quick-solutions-for-division-2-stuttering-problems/"><u>How to Uncrash The Division <|Im_sep|>4. Quick Solutions for Division 2 Stuttering Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi Note 12 4G Phone?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mpeg-to-wma-conversion-tool-free-online-service-by-moveavi/"><u>MPEG-to-WMA Conversion Tool - Free Online Service by MoveAVI</u></a></li>
-<li><a href="https://win11.techidaily.com/seven-key-reasons-that-make-windows-10-a-better-choice-than-win11/"><u>Seven Key Reasons That Make Windows 10 a Better Choice than Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/small-view-big-impact-compact-file-explorer-in-windows-11/"><u>Small View, Big Impact: Compact File Explorer in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-the-potential-of-your-pc-windows-11-multi-tasking/"><u>Unleashing the Potential of Your PC: Windows 11 Multi-Tasking</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unlock-the-power-of-panel-discussions-with-fb-live-screening/"><u>[Updated] In 2024, Unlock the Power of Panel Discussions with FB Live Screening</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>2024 Approved Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-quit-quickly-leave-facebook-lives-on-pc-and-pads/"><u>2024 Approved Quit Quickly Leave Facebook Lives on PC & Pads</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-winerror-not-found-step-by-step-guide/"><u>Eliminate WinError 'Not Found': Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18e without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-workspace-positioning-gmail-bar-for-quick-access/"><u>Master Your Workspace: Positioning Gmail Bar for Quick Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-player-experience-lessons-from-helldivers-2s-journey/"><u>Mastering Player Experience: Lessons From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-typical-rainmeter-glitches-on-pc/"><u>Solutions for Typical Rainmeter Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-error-code-0x800736cc/"><u>Troubleshooting Windows Update: Error Code 0X800736CC</u></a></li>
 </ul></div>
 
